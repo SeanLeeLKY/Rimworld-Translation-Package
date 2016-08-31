@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<InstallAIChip.label>植入AI芯片</InstallAIChip.label>
+
+	<InstallAIChip.description>植入AI芯片。</InstallAIChip.description>
+
+	<InstallAIChip.jobString>正在植入AI芯片。</InstallAIChip.jobString>
+
+	<InstallSyntheticLung.label>植入合成肺</InstallSyntheticLung.label>
+
+	<InstallSyntheticLung.description>植入合成肺。</InstallSyntheticLung.description>
+
+	<InstallSyntheticLung.jobString>正在植入合成肺。</InstallSyntheticLung.jobString>
+
+	<InstallSyntheticStomach.label>植入合成胃</InstallSyntheticStomach.label>
+
+	<InstallSyntheticStomach.description>植入合成胃。</InstallSyntheticStomach.description>
+
+	<InstallSyntheticStomach.jobString>正在植入合成胃。</InstallSyntheticStomach.jobString>
+
+	<InstallSyntheticLiver.label>植入合成肝</InstallSyntheticLiver.label>
+
+	<InstallSyntheticLiver.description>植入合成肝。</InstallSyntheticLiver.description>
+
+	<InstallSyntheticLiver.jobString>正在植入合成肝。</InstallSyntheticLiver.jobString>
+
+	<InstallSyntheticKidney.label>植入合成肾</InstallSyntheticKidney.label>
+
+	<InstallSyntheticKidney.description>植入合成肾。</InstallSyntheticKidney.description>
+
+	<InstallSyntheticKidney.jobString>正在植入合成肾。</InstallSyntheticKidney.jobString>
+
+	<InstallSyntheticHeart.label>植入合成心脏</InstallSyntheticHeart.label>
+
+	<InstallSyntheticHeart.description>植入合成心脏。</InstallSyntheticHeart.description>
+
+	<InstallSyntheticHeart.jobString>正在植入合成心脏。</InstallSyntheticHeart.jobString>
+
+</LanguageData>

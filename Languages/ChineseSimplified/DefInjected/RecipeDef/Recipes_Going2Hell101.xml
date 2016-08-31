@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MinceOrgans.label>剁碎器官</MinceOrgans.label>
+
+	<MinceOrgans.description>剁碎人体器官来获得可以食用的部分。这是一种神奇的“监狱料理”。</MinceOrgans.description>
+
+	<MinceOrgans.jobString>屠宰</MinceOrgans.jobString>
+
+	<MinceLimbs.label>剁碎肢体</MinceLimbs.label>
+
+	<MinceLimbs.description>剁碎人体四肢来获得可以食用的部分。这是一种伟大的“监狱料理”。</MinceLimbs.description>
+
+	<MinceLimbs.jobString>屠宰</MinceLimbs.jobString>
+
+</LanguageData>

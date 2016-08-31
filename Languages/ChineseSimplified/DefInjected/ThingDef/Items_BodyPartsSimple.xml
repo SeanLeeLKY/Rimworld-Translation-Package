@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<GoldenEye.label>黄金眼</GoldenEye.label>
+
+	<GoldenEye.description>代替缺失的眼睛。非常漂亮，可惜的是你不能从镜子里看到自己了。</GoldenEye.description>
+
+	<ArtificialNose.label>假鼻子</ArtificialNose.label>
+
+	<ArtificialNose.description>代替缺失的鼻子。把脸上的空洞遮住。</ArtificialNose.description>
+
+	<HydraulicJaw.label>液压颌</HydraulicJaw.label>
+
+	<HydraulicJaw.description>代替缺失的下巴。极高的咬合力，务必小心！</HydraulicJaw.description>
+
+	<SimpleProstheticHand.label>简易假手</SimpleProstheticHand.label>
+
+	<SimpleProstheticHand.description>代替缺失的手。相比铁勾手，这是更舒适且不那么渗人的选择。</SimpleProstheticHand.description>
+
+	<SimpleProstheticFoot.label>简易假脚</SimpleProstheticFoot.label>
+
+	<SimpleProstheticFoot.description>代替缺失的脚。没有拐杖便宜。</SimpleProstheticFoot.description>
+
+	<!--SimpleProstheticLeg.label>简易假腿</SimpleProstheticLeg.label-->
+
+	<!--SimpleProstheticLeg.description>用来替换缺失的腿的假肢，不是很舒服但是效率很高。</SimpleProstheticLeg.description-->
+
+	<!--SimpleProstheticArm.label>简易假臂</SimpleProstheticArm.label-->
+
+	<!--SimpleProstheticArm.description>简单但耐用的假臂。</SimpleProstheticArm.description-->
+
+	<ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
+
+	<ArtificialPelvis.description>代替缺失的骨盆。非常实用，如果你不是喜欢爬行这种移动方式的话。</ArtificialPelvis.description>
+
+</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Vancidium.label>超钒</Vancidium.label>
+
+	<Vancidium.description>一种以高技术工序制作出来的昂贵的高级材料。闪闪发亮。</Vancidium.description>
+
+	<Vancidium.stuffProps.stuffAdjective>超钒</Vancidium.stuffProps.stuffAdjective>
+
+	<AdvancedComponents.label>先进零部件</AdvancedComponents.label>
+
+	<AdvancedComponents.description>看起来像普通的零部件，但更优秀的蓝色版本。</AdvancedComponents.description>
+
+</LanguageData>

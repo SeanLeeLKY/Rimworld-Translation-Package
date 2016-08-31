@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<rep>
+		<path>DruggedRibThought.stages[0].label</path>
+		<trans>迷幻肋骨</trans>
+	</rep>
+
+	<rep>
+		<path>DruggedRibThought.stages[0].description</path>
+		<trans>我也不知道为什么，但我感觉莫名的放松。</trans>
+	</rep>
+
+	<rep>
+		<path>SilentJawThought.stages[0].label</path>
+		<trans>静音颌</trans>
+	</rep>
+
+	<rep>
+		<path>SilentJawThought.stages[0].description</path>
+		<trans>太可怕了，我只想说话！</trans>
+	</rep>
+
+</LanguageData>

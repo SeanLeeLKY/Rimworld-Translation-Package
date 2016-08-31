@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<PowerArm.label>动力臂</PowerArm.label>
+
+	<PowerArm.description>无与伦比的力量与灵巧，带有能弹出收起的利爪。简直是手臂升级的终极形态！</PowerArm.description>
+
+	<BionicHand.label>仿生手</BionicHand.label>
+
+	<BionicHand.description>让使用者工作时拥有更高的手速。</BionicHand.description>
+
+	<BionicFoot.label>仿生脚</BionicFoot.label>
+
+	<BionicFoot.description>让使用者走得更快而不会跌倒。</BionicFoot.description>
+
+	<BionicEar.label>仿生耳</BionicEar.label>
+
+	<BionicEar.description>一个将耳内鼓膜基本功能扩展的精密设备。</BionicEar.description>
+
+	<BionicJaw.label>仿生颌</BionicJaw.label>
+
+	<BionicJaw.description>除了坚固的牙齿，还有个语音调制器。</BionicJaw.description>
+
+	<SilentJaw.label>静音颌</SilentJaw.label>
+
+	<SilentJaw.description>不带语音调制器的仿生颌版本，让粗鲁的人闭嘴。</SilentJaw.description>
+
+	<BionicSpine.label>仿生脊椎</BionicSpine.label>
+
+	<BionicSpine.description>尖端科技制成的仿生脊椎，可以替代损坏的脊椎。</BionicSpine.description>
+
+	<!--BionicEye.label>仿生眼</BionicEye.label-->
+
+	<!--BionicEye.description>高端科技的产物，仿生眼不仅仅能完全替换一个自然的眼睛，而且还能给使用者超常的视力。</BionicEye.description-->
+
+	<!--BionicArm.label>仿生臂</BionicArm.label-->
+
+	<!--BionicArm.description>最精密的手臂替带品之一，仿生臂可以让使用者爆发出无与伦比的臂力。</BionicArm.description-->
+
+	<!--BionicLeg.label>仿生腿</BionicLeg.label-->
+
+	<!--BionicLeg.description>尖端科技制成的仿生腿可以给使用者带来极端的步行舒适度和力量。</BionicLeg.description-->
+
+	<!--PowerClaw.label>动力爪</PowerClaw.label-->
+
+	<!--PowerClaw.description>一种由三个致命利爪组成的手部替换品。</PowerClaw.description-->
+
+	<!--ScytherBlade.label>机甲镰刃</ScytherBlade.label-->
+
+	<!--ScytherBlade.description>带有凸刃的手部替换品，不是很舒服但它是一种在近战中非常致命的武器。</ScytherBlade.description-->
+
+	<MedicalRib.label>医疗肋骨</MedicalRib.label>
+
+	<MedicalRib.description>一种人造肋骨， 装配了微型血液过滤装置和抗生素注药器让使用者保持身体健康。</MedicalRib.description>
+
+	<DruggedRib.label>迷幻肋骨</DruggedRib.label>
+
+	<DruggedRib.description>一种人造肋骨，装配了微型酒精注药器让使用者保持心情愉悦。</DruggedRib.description>
+
+	<AdrenalineRib.label>肾上腺素肋骨</AdrenalineRib.label>
+
+	<AdrenalineRib.description>一种人造肋骨，装配了微型肾上腺素注药器来保持体能和精神。</AdrenalineRib.description>
+
+	<PainkillerRib.label>止痛肋骨</PainkillerRib.label>
+
+	<PainkillerRib.description>一种人造肋骨，装配了微型止痛药注药器减缓病人的疼痛。副作用是呼吸不适。</PainkillerRib.description>
+
+</LanguageData>

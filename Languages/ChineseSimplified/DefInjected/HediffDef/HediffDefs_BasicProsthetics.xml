@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<SteelArm.label>钢臂</SteelArm.label>
+
+	<EyePatch.label>眼罩</EyePatch.label>
+
+	<HookHand.label>铁钩手</HookHand.label>
+
+        <!--denture.label>义齿</denture.label-->
+
+	<!--PegLeg.label>木腿</PegLeg.label-->
+
+	<WoodenFoot.label>木脚</WoodenFoot.label>
+
+	<EarBandage.label>绑耳</EarBandage.label>
+
+</LanguageData>

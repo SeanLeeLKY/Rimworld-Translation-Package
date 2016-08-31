@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AIChip.label>AI芯片</AIChip.label>
+
+	<AIChip.description>通过特殊的化学物质和电流刺激，这块小小的芯片可以显著提高使用者意识和行动。</AIChip.description>
+
+	<SyntheticLung.label>合成肺</SyntheticLung.label>
+
+	<SyntheticLung.description>一种高技术含量的呼吸装置。发出微弱的沙沙声。</SyntheticLung.description>
+
+	<SyntheticStomach.label>合成胃</SyntheticStomach.label>
+
+	<SyntheticStomach.description>能力增强的胃，人造纤维制成以减少排斥反应发生率。</SyntheticStomach.description>
+
+	<SyntheticLiver.label>合成肝</SyntheticLiver.label>
+
+	<SyntheticLiver.description>能力增强的肝，人造纤维制成以减少排斥反应发生率。</SyntheticLiver.description>
+
+	<SyntheticKidney.label>合成肾</SyntheticKidney.label>
+
+	<SyntheticKidney.description>能力增强的肾，人造纤维制成以减少排斥反应发生率。</SyntheticKidney.description>
+
+	<SyntheticHeart.label>合成心脏</SyntheticHeart.label>
+
+	<SyntheticHeart.description>顶级的心脏替代品。单次充电可以维持30年以上。</SyntheticHeart.description>
+
+	<SyntheticSkin.label>人造皮肤</SyntheticSkin.label>
+
+	<SyntheticSkin.description>一小块有趣的看起来像皮肤一样的材料。感觉就像真的皮肤。</SyntheticSkin.description>
+
+
+
+</LanguageData>

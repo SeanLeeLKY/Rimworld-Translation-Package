@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AdvancedPowerArm.label>先进动力臂</AdvancedPowerArm.label>
+
+	<AdvancedPowerArm.description>更加无与伦比的力量与灵巧，带有能弹出收起的利爪。真正的手臂升级的终极形态！</AdvancedPowerArm.description>
+
+	<AdvancedBionicHand.label>先进仿生手</AdvancedBionicHand.label>
+
+	<AdvancedBionicHand.description>有些人会把自己的手剁掉，仅仅为了获得这种高科技产品。</AdvancedBionicHand.description>
+
+	<AdvancedBionicArm.label>先进仿生臂</AdvancedBionicArm.label>
+
+	<AdvancedBionicArm.description>还记得你苦苦开瓶盖的时候吗？现在你需要努力别把瓶子弄碎了。</AdvancedBionicArm.description>
+
+	<AdvancedBionicLeg.label>先进仿生腿</AdvancedBionicLeg.label>
+
+	<AdvancedBionicLeg.description>高深技术让使用者比以往移动得更快。</AdvancedBionicLeg.description>
+
+	<AdvancedBionicFoot.label>先进仿生脚</AdvancedBionicFoot.label>
+
+	<AdvancedBionicFoot.description>几十个伺服电机基于更快的移动速度和终极体验。</AdvancedBionicFoot.description>
+
+	<AdvancedBionicEar.label>先进仿生耳</AdvancedBionicEar.label>
+
+	<AdvancedBionicEar.description>该设备让使用者比蝙蝠的听力还好。</AdvancedBionicEar.description>
+
+	<AdvancedBionicJaw.label>先进仿生颌</AdvancedBionicJaw.label>
+
+	<AdvancedBionicJaw.description>发出的声音是如此美妙，甚至机器人都停下来安静倾听。</AdvancedBionicJaw.description>
+
+	<AdvancedBionicEye.label>先进仿生眼</AdvancedBionicEye.label>
+
+	<AdvancedBionicEye.description>这一先进技术让用户完美地在黑暗中视物，以及透视墙壁。</AdvancedBionicEye.description>
+
+	<AdvancedBionicSpine.label>先进仿生脊椎</AdvancedBionicSpine.label>
+
+	<AdvancedBionicSpine.description>这种耐用设备支持的背部，使工作和行走更加便捷。</AdvancedBionicSpine.description>
+
+	<ExoskeletonSuit.label>先进外骨骼</ExoskeletonSuit.label>
+
+	<ExoskeletonSuit.description>两部分组件构成的高科技设备：一副支撑背部的轻盈的骨骼，伺服电机组让使用者更加强壮。</ExoskeletonSuit.description>
+
+</LanguageData>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<SteelArm.label>铁臂</SteelArm.label>
+
+	<SteelArm.description>非常残念的手臂替换。又丑又破，总之很差劲。</SteelArm.description>
+
+	<EyePatch.label>眼罩</EyePatch.label>
+
+	<EyePatch.description>将空洞的眼眶遮住。令人望而生畏。</EyePatch.description>
+
+	<HookHand.label>铁钩手</HookHand.label>
+
+	<HookHand.description>用铁钩代替缺失的手。相当可怕，相当给力。</HookHand.description>
+
+	<denture.label>义齿</denture.label>
+
+	<denture.description>用木制的代替缺失的下巴。闻起来有点臭。</denture.description>
+
+	<PegLeg.label>木腿</PegLeg.label>
+
+	<PegLeg.description>用木制的代替缺失的腿。看起来丑但实用。来，没病走两步。</PegLeg.description>
+
+	<WoodenFoot.label>木脚</WoodenFoot.label>
+
+	<WoodenFoot.description>用木制的代替缺失的脚。至少比你单脚蹦跶来蹦跶去舒服。</WoodenFoot.description>
+
+	<EarBandage.label>绑耳</EarBandage.label>
+
+	<EarBandage.description>用绑带裹住失去耳朵的部位。看着有点非主流。</EarBandage.description>
+
+</LanguageData>

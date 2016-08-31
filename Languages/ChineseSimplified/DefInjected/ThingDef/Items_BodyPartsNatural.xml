@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Leg.label>腿</Leg.label>
+
+	<Leg.description>这些条状的肉让你能够行走。</Leg.description>
+
+	<Arm.label>臂</Arm.label>
+
+	<Arm.description>除了让你能携带物品，臂和腿一样都是条状的肉。</Arm.description>
+
+	<Stomach.label>胃</Stomach.label>
+
+	<Stomach.description>消化食物并转化成能量和营养。</Stomach.description>
+
+	<Eye.label>眼</Eye.label>
+
+	<Eye.description>接收光，让人能感知周围的事物。</Eye.description>
+
+	<Nose.label>鼻子</Nose.label>
+
+	<Nose.description>辨别气味的有用器官。</Nose.description>
+
+	<Ear.label>耳</Ear.label>
+
+	<Ear.description>接收空气的震动，让人能听到声音。</Ear.description>
+
+	<Jaw.label>下巴</Jaw.label>
+
+	<Jaw.description>一组完好的牙齿用于咀嚼食物和交谈。</Jaw.description>
+
+</LanguageData>

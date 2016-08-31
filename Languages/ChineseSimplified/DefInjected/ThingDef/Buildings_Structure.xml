@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<LanguageData>
+
+
+
+    <WallConduitEmbrasure.label>电缆射击墙</WallConduitEmbrasure.label>
+    <WallConduitEmbrasure.description>一面内置电缆的墙，墙体有洞可以向外射击。</WallConduitEmbrasure.description>
+
+
+    <WallMoat.label>护城河</WallMoat.label>
+    <WallMoat.description>护城河减缓敌人的行动速度，更大的更长护城河让他们必须游泳才能通过。</WallMoat.description>
+
+    <WallTrenches.label>战壕</WallTrenches.label>
+    <WallTrenches.description>战壕。一个非常有用的防御位置</WallTrenches.description>
+
+    <ReinforcedSandbags.label>加固沙袋</ReinforcedSandbags.label>
+   <ReinforcedSandbags.description>更好的抵御炮火。</ReinforcedSandbags.description>
+
+    <WallEmbrasure.label>射击墙</WallEmbrasure.label>
+    <WallEmbrasure.description>不可逾越的墙，墙体有洞可以向外射击。</WallEmbrasure.description>
+
+    <WallWire.label>带刺铁丝网</WallWire.label>
+    <WallWire.description>一个廉价和简单的防御系统，不可逾越.</WallWire.description>
+
+</LanguageData>
+

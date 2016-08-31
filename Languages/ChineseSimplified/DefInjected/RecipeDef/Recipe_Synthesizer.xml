@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<CreateAIChip.label>制作AI芯片</CreateAIChip.label>
+
+	<CreateAIChip.description>制作AI芯片。最高质量的电路需要黄金为原料。</CreateAIChip.description>
+
+	<CreateAIChip.jobString>正在合成器官。</CreateAIChip.jobString>
+
+	<CreateSyntheticLung.label>合成肺</CreateSyntheticLung.label>
+
+	<CreateSyntheticLung.description>将超织物和超钒合成肺。</CreateSyntheticLung.description>
+
+	<CreateSyntheticLung.jobString>正在合成器官。</CreateSyntheticLung.jobString>
+
+	<CreateSyntheticStomach.label>合成胃</CreateSyntheticStomach.label>
+
+	<CreateSyntheticStomach.description>将超织物和超钒合成胃</CreateSyntheticStomach.description>
+
+	<CreateSyntheticStomach.jobString>正在合成器官。</CreateSyntheticStomach.jobString>
+
+	<CreateSyntheticLiver.label>合成肝</CreateSyntheticLiver.label>
+
+	<CreateSyntheticLiver.description>将超织物和超钒合成肝。</CreateSyntheticLiver.description>
+
+	<CreateSyntheticLiver.jobString>正在合成器官。</CreateSyntheticLiver.jobString>
+
+	<CreateSyntheticKidney.label>合成肾</CreateSyntheticKidney.label>
+
+	<CreateSyntheticKidney.description>将超织物和超钒合成肾。</CreateSyntheticKidney.description>
+
+	<CreateSyntheticKidney.jobString>正在合成器官。</CreateSyntheticKidney.jobString>
+
+	<CreateSyntheticHeart.label>合成心脏</CreateSyntheticHeart.label>
+
+	<CreateSyntheticHeart.description>将超织物和超钒合成心脏。</CreateSyntheticHeart.description>
+
+	<CreateSyntheticHeart.jobString>正在合成器官。</CreateSyntheticHeart.jobString>
+
+	<CreateSyntheticSkin.label>合成皮肤</CreateSyntheticSkin.label>
+
+	<CreateSyntheticSkin.description>用超织物和人皮制造合成人造皮肤。</CreateSyntheticSkin.description>
+
+	<CreateSyntheticSkin.jobString>正在合成器官。</CreateSyntheticSkin.jobString>
+
+	<CreateJoywire.label>制作乐丝芯片</CreateJoywire.label>
+
+	<CreateJoywire.description>用黄金和先进零件合成一块高质量的乐丝芯片。</CreateJoywire.description>
+
+	<CreateJoywire.jobString>正在合成器官。</CreateJoywire.jobString>
+
+	<CreatePainstopper.label>制作止痛芯片</CreatePainstopper.label>
+
+	<CreatePainstopper.description>用黄金和先进零件合成一块高质量的止痛芯片。</CreatePainstopper.description>
+
+	<CreatePainstopper.jobString>正在合成器官。</CreatePainstopper.jobString>
+
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<BrainStimulator.label>脑刺激器</BrainStimulator.label>
+
+	<BrainStimulator.description>一种用电流来刺激大脑的微型装置，以增强意识和行动。</BrainStimulator.description>
+
+	<SurrogateLung.label>替体代肺</SurrogateLung.label>
+
+	<SurrogateLung.description>一种基本的肺的替代品。深呼吸吧。</SurrogateLung.description>
+
+	<SurrogateStomach.label>替代体胃</SurrogateStomach.label>
+
+	<SurrogateStomach.description>一种基本的胃的替代品。</SurrogateStomach.description>
+
+	<SurrogateLiver.label>替代体肝</SurrogateLiver.label>
+
+	<SurrogateLiver.description>一种基本的血液过滤器。在维持血糖水平方面有问题。</SurrogateLiver.description>
+
+	<SurrogateKidney.label>替代体肾</SurrogateKidney.label>
+
+	<SurrogateKidney.description>一种基本的肾的替代品。副作用之一是脸色苍白。</SurrogateKidney.description>
+
+	<SurrogateHeart.label>替代体心脏</SurrogateHeart.label>
+
+	<SurrogateHeart.description>或多或少有点效力的泵以维持血液循环。</SurrogateHeart.description>
+
+</LanguageData>

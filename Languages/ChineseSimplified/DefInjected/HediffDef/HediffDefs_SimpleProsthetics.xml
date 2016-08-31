@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<GoldenEye.label>黄金眼</GoldenEye.label>
+
+	<SimpleProstheticHand.label>简易假手</SimpleProstheticHand.label>
+
+	<SimpleProstheticFoot.label>简易假脚</SimpleProstheticFoot.label>
+
+	<!--SimpleProstheticArm.label>简易假臂</SimpleProstheticArm.label-->
+
+	<!--SimpleProstheticLeg.label>简易假腿</SimpleProstheticLeg.label-->
+
+	<ArtificialNose.label>假鼻子</ArtificialNose.label>
+
+	<HydraulicJaw.label>液压颌</HydraulicJaw.label>
+
+	<ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
+
+</LanguageData>
