@@ -7,9 +7,9 @@
 
 	<SimpleProstheticFoot.label>简易假脚</SimpleProstheticFoot.label>
 
-	<!--SimpleProstheticArm.label>简易假臂</SimpleProstheticArm.label-->
+	<SimpleProstheticArm.label>简易假臂</SimpleProstheticArm.label>
 
-	<!--SimpleProstheticLeg.label>简易假腿</SimpleProstheticLeg.label-->
+	<SimpleProstheticLeg.label>简易假腿</SimpleProstheticLeg.label>
 
 	<ArtificialNose.label>假鼻子</ArtificialNose.label>
 

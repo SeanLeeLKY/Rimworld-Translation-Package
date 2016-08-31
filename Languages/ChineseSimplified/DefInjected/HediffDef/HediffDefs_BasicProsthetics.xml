@@ -7,9 +7,9 @@
 
 	<HookHand.label>铁钩手</HookHand.label>
 
-        <!--denture.label>义齿</denture.label-->
+        <denture.label>义齿</denture.label>
 
-	<!--PegLeg.label>木腿</PegLeg.label-->
+	<PegLeg.label>木腿</PegLeg.label>
 
 	<WoodenFoot.label>木脚</WoodenFoot.label>
 
