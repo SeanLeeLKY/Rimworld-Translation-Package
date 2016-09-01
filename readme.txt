@@ -1,4 +1,3 @@
-EPOE	Expanded Prosthetics and Organ Engineering	·ÂÉúÌåºÍÆ÷¹Ù¹¤³Ì
-DC	DefendThatColony(A15)
-	Ö³ÃñµØ·ÀÓù
-HOS	Hospitality(A15)	·Ã¿ÍÕÐÄ¼
+EPOE	Expanded Prosthetics and Organ Engineering(A15)	ä»¿ç”Ÿä½“å’Œå™¨å®˜å·¥ç¨‹
+DC	DefendThatColony(A15)	æ®–æ°‘åœ°é˜²å¾¡
+HOS	Hospitality(A15)	è®¿å®¢æ‹›å‹Ÿ
