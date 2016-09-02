@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>RimWorld MODS 简体中文翻译包</name>
+	<name>RimWorld模组汉化整合</name>
 	<author>Sean</author>
-    <url>https://</url>
+    <url>https://coding.net/u/Emo129/p/Rimworld-Translation-Package</url>
 	<targetVersion>0.15.0</targetVersion>
 	<description>
-	汉化及整理：SeanLee
-	整理进度：
-	Expanded Prosthetics and Organ Engineering(A15)
-	DefendThatColony(A15)
-	Hospitality(A15)
-	
-	版本：0.02
+  本模组整合了大量的模组汉化,让你没有安装汉化的后顾之忧。点击链接可以检查你是否使用的是最新版本。
+	Rimworld Translate Package,整合一切。
 	</description>
 </ModMetaData>
