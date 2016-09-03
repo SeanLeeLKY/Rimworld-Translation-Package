@@ -15,7 +15,7 @@
 访客招募    | Hospitality    | http://steamcommunity.com/sharedfiles/filedetails/?id=753498552	|	HOS
 一键允许    | Allow Tool   | https://ludeon.com/forums/index.php?topic=17218.0	|	AT
 耕种土壤    | Tilled Soil    | http://steamcommunity.com/sharedfiles/filedetails/?id=725747149	|	TS
-蓝图    | Blueprints    | http://steamcommunity.com/sharedfiles/filedetails/?id=708455313&searchtext=blueprints	|	BP
+蓝图    | Blueprints    | http://steamcommunity.com/sharedfiles/filedetails/?id=708455313	|	BP
 招待所    | Hospitality     | http://steamcommunity.com/sharedfiles/filedetails/?id=753498552	|	
 更多手术    | Extended Surgery    | http://steamcommunity.com/sharedfiles/filedetails/?id=731733279	|	
 
