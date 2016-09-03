@@ -1,0 +1,6 @@
+﻿EPOE	仿生体和器官工程	Expanded Prosthetics and Organ Engineering(A15)
+DC	殖民地防御	DefendThatColony(A15)
+HOS	访客招募	Hospitality(A15)
+AT	一键允许	Allow Tool
+TS	耕种土壤	Tilled Soil
+BP	蓝图	Blueprints
