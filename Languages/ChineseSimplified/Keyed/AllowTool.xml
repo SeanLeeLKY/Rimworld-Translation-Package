@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<LanguageData>
-
-	<AllowTool_label>全部允许</AllowTool_label>
-	<AllowTool_desc>将这一区域内所有物品设置为允许互动</AllowTool_desc>
-	<AllowTool_area_success>已设置允许%个物体。</AllowTool_area_success>
-	<AllowTool_area_failed>未发现被禁止的物体。</AllowTool_area_failed>
-
-</LanguageData>
