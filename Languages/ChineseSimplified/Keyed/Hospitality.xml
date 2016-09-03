@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Recruiting -->
+  <RecruitAngerSelfM>{0} 冒犯了 {1}{3} ({2} 几率).</RecruitAngerSelfM>
+  <RecruitAngerSelfF>{0} 冒犯了 {1}{3} ({2} 几率).</RecruitAngerSelfF>
+  <RecruitPleaseSelfM>{0} 哄诱了 {1}{3} ({2} 几率).</RecruitPleaseSelfM>
+  <RecruitPleaseSelfF>{0} 哄诱了 {1}{3} ({2} 几率).</RecruitPleaseSelfF>
+  <RecruitAngerOther>{3} 注意到 {0} 试图招募 {1} 并生气了 ({2} 几率).</RecruitAngerOther>
+  <RecruitFactionAnger>{1}的{0}对于你招募{2}的行为很失望 ({3}).</RecruitFactionAnger>
+  <RecruitFactionAngerLeaderless>{0} 的成员对你试图招募{1}的行为感到不安 ({2}).</RecruitFactionAngerLeaderless>
+  <RecruitFactionPlease>{1}的{0}很乐意你把{2}从他手里招募走 ({3}).</RecruitFactionPlease>
+  <RecruitFactionPleaseLeaderless>{0} 的成员很乐意你将{1}从他们手里带走 ({2}).</RecruitFactionPleaseLeaderless>
+  <MessageGuestRecruitSuccess>{0} 高兴地决定了加入你的殖民地！</MessageGuestRecruitSuccess>
+  <LetterLabelRecruitFactionChiefAnger>首领生气了</LetterLabelRecruitFactionChiefAnger>
+  <LetterLabelRecruitFactionAnger>派系生气了</LetterLabelRecruitFactionAnger>
+  <LetterLabelRecruitFactionChiefPlease>首领高兴了</LetterLabelRecruitFactionChiefPlease>
+  <LetterLabelRecruitFactionPlease>派系满意了</LetterLabelRecruitFactionPlease>
+  
+  <!-- Diplomacy --> 
+  <ImproveFactionPlease>{0} 改善了 {1} 和 {2} 的关系({3} 几率).</ImproveFactionPlease>
+  <ImproveFactionAnger>{0} 恶化了 {1} 和 {2} 的关系 ({3} 几率).</ImproveFactionAnger>
+  
+  <!-- Incident Results -->
+  <VisitorsLeavingGreat>他们对此地的热情好客称赞不已！ ({1})</VisitorsLeavingGreat>
+  <VisitorsLeavingGood>他们享受了此地逗留的时光。 ({1})</VisitorsLeavingGood>
+  <VisitorsLeavingNormal>他们承认此地的热情好客。</VisitorsLeavingNormal>
+  <VisitorsLeavingBad>他们不喜欢停留此地。({1})</VisitorsLeavingBad>
+  <VisitorsLeavingAwful>他们不想再拜访此地。 ({1})</VisitorsLeavingAwful>
+  <VisitorSatisfied>{0} 享受了{1} 逗留时光。 {2} 送给殖民地一些东西： {3}.</VisitorSatisfied>
+  <VisitorVerySatisfied>{0} 非常享受 {1} 逗留时光。 {2} 送给殖民地一些东西： {3}.</VisitorVerySatisfied>
+  <MessageVisitorsLeavingCold>来自 {0} 的游客因为没有受到您的优质款待而离开了</MessageVisitorsLeavingCold>
+  
+  <MessageMissingPawnFactionAnger>{0}的一名成员在你的领地失踪了！ ({2})</MessageMissingPawnFactionAnger>
+  <MessageMissingPawnsFactionAnger>{0}的{1}名成员在你的领地失踪了！ ({2})</MessageMissingPawnsFactionAnger>
+  <MessageKilledPawnFactionAnger>派系{0}听说了{1}发生的事，并将责任归咎于你。 ({2})</MessageKilledPawnFactionAnger>
+  <LetterLabelMissingPawnsFactionAnger>首领生气了</LetterLabelMissingPawnsFactionAnger>
+
+
+  <!-- Tab -->
+  <ConvincingLeft>说服难度</ConvincingLeft>
+  <Trust>对殖民者的信任</Trust>
+  <RecruitmentPenalty>成功招募后对关系的损害</RecruitmentPenalty>
+  <ImproveRelationship>努力提高派系之间的关系</ImproveRelationship>
+  <LeaveAlone>不打扰</LeaveAlone>
+  <FactionGoodwill>派系好感</FactionGoodwill>
+  <Hospitality>款待</Hospitality>
+  <SetDefault>设置默认行为</SetDefault>
+
+  <!-- Infos -->
+  <StatsReport_FinalAdjustment>调整</StatsReport_FinalAdjustment>
+  
+  <!-- Bed -->
+  <ForGuestUse>客人使用</ForGuestUse>
+  
+  <!-- Rescue -->
+  <RescuedInitial>这位叫做 NAME 的 {0} 十分感谢你的援救，并且愿意留在你的殖民地帮助你。\n\nHECAP is {1}.</RescuedInitial>
+  <RescuedInitial_Accept>接受他</RescuedInitial_Accept>
+  <RescuedInitial_Reject>送他离开</RescuedInitial_Reject>
+</LanguageData>
