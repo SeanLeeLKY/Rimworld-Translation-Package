@@ -15,6 +15,7 @@
 访客招募    | Hospitality    | http://steamcommunity.com/sharedfiles/filedetails/?id=753498552
 一键允许    | Allow Tool   | https://ludeon.com/forums/index.php?topic=17218.0
 耕种土壤    | Tilled Soil    | http://steamcommunity.com/sharedfiles/filedetails/?id=725747149
+蓝图    | Blueprints    | 稍后添加
 
 >模组所有权为创意工坊上作者所有.
 如有侵犯你的权益,请及时向我们提出.
