@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<Fluffy.Blueprints.DefaultBlueprintName>蓝图</Fluffy.Blueprints.DefaultBlueprintName>
+	<Fluffy.Blueprints.NameAlreadyTaken>"{0}"已存在。请选择一个独有名称</Fluffy.Blueprints.NameAlreadyTaken>
+	<Fluffy.Blueprints.InvalidBlueprintName>"{0}"是无效名称。\n请只使用数字字母字符、下划线 (a-Z, _)和汉字。空格是不允许的。</Fluffy.Blueprints.InvalidBlueprintName>
+	<Fluffy.Blueprints.LoadFromXML>导入蓝图"{0}"</Fluffy.Blueprints.LoadFromXML>
+	<Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>无法创建蓝图；没有物品可选择。</Fluffy.Blueprints.CannotCreateBluePrint_NothingSelected>
+	<Fluffy.Blueprint.Cost>消耗统计：</Fluffy.Blueprint.Cost>
+	<Fluffy.Blueprints.Remove>删除蓝图</Fluffy.Blueprints.Remove>
+	<Fluffy.Blueprints.SaveToXML>导出蓝图</Fluffy.Blueprints.SaveToXML>
+	<Fluffy.Blueprints.RemoveAndDeleteXML>移除蓝图并删除已导出的蓝图</Fluffy.Blueprints.RemoveAndDeleteXML>
+	<Fluffy.Blueprints.Rename>重命名蓝图</Fluffy.Blueprints.Rename>
+	<Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>已导出蓝图中已存在"{0}"\n请使用不同的名称。</Fluffy.Blueprints.ExportedBlueprintWithThatNameAlreadyExists>
+	<Fluffy.Blueprints.Create>创建</Fluffy.Blueprints.Create>
+	<Fluffy.Blueprints.CreateHelp>在游戏中的“帮助”标签中查看关于蓝图如何使用的更多信息。</Fluffy.Blueprints.CreateHelp>
+
+</LanguageData>
