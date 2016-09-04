@@ -16,8 +16,7 @@
 一键允许    | Allow Tool   | https://ludeon.com/forums/index.php?topic=17218.0	|	AT
 耕种土壤    | Tilled Soil    | http://steamcommunity.com/sharedfiles/filedetails/?id=725747149	|	TS
 蓝图    | Blueprints    | http://steamcommunity.com/sharedfiles/filedetails/?id=708455313	|	BP
-招待所    | Hospitality     | http://steamcommunity.com/sharedfiles/filedetails/?id=753498552	|	
-更多手术    | Extended Surgery    | http://steamcommunity.com/sharedfiles/filedetails/?id=731733279	|	
+DE更多手术    | DE Surgeries    | http://steamcommunity.com/sharedfiles/filedetails/?id=757299156&searchtext=DE+Surgeries	| DE_S	
 机器人-核心 | Miscellaneous 'CORE' | http://steamcommunity.com/sharedfiles/filedetails/?id=704181221 | MAI
 机器人-物品 | Misc. Objects | http://steamcommunity.com/sharedfiles/filedetails/?id=727710731 | MAI
 机器人-事件 | Misc. Incidents | http://steamcommunity.com/sharedfiles/filedetails/?id=719702781 | MAI
