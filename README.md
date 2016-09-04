@@ -23,6 +23,7 @@ DE更多手术    | DE Surgeries    | http://steamcommunity.com/sharedfiles/file
 机器人-地图生成 | Misc. MapGenerator | http://steamcommunity.com/sharedfiles/filedetails/?id=704182588 | MAI
 机器人-人工智能 | Misc. MAI | http://steamcommunity.com/sharedfiles/filedetails/?id=724600171 | MAI
 机器人-制造 | Misc. Robot | http://steamcommunity.com/sharedfiles/filedetails/?id=724602224 | MAI
+闪耀科技 | Glitter Tech | http://steamcommunity.com/sharedfiles/filedetails/?id=725576127 | GT
 
 >模组所有权为创意工坊上作者所有.
 如有侵犯你的权益,请及时向我们提出.
