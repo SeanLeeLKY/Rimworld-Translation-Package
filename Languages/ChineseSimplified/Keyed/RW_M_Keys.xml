@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- MainTabWindow_Medical -->
+    <FluffyMedical.Care>医疗照顾</FluffyMedical.Care>
+    <FluffyMedical.Name>名称</FluffyMedical.Name>
+    <FluffyMedical.ClickToSortBy>点击根据{0}排序。</FluffyMedical.ClickToSortBy>
+    <FluffyMedical.ClickTo>点击以{0}.</FluffyMedical.ClickTo>
+    <FluffyMedical.RightClickTo>右键点击以{0}.</FluffyMedical.RightClickTo>
+    <FluffyMedical.ShiftClickTo>按住Shift点击以{0}.</FluffyMedical.ShiftClickTo>
+    <FluffyMedical.SetCare>设置所有人的医疗照顾</FluffyMedical.SetCare>
+    <FluffyMedical.CurrentOperations>任务安排</FluffyMedical.CurrentOperations> <!-- used in sort by -->
+    <FluffyMedical.ScheduledOperations>任务安排：</FluffyMedical.ScheduledOperations> <!-- used standalone -->
+    <FluffyMedical.ScheduleOperation>安排一项任务</FluffyMedical.ScheduleOperation>
+    <FluffyMedical.UnScheduleOperations>取消所有任务</FluffyMedical.UnScheduleOperations>
+    <FluffyMedical.NumCurrentOperations>{0} 任务安排。</FluffyMedical.NumCurrentOperations>
+    <Animals>动物</Animals>
+    <Colonists>殖民者</Colonists>
+    <Prisoners>囚犯</Prisoners>
+</LanguageData>
