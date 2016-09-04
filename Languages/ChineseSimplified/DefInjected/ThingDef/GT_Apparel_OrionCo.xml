@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <Apparel_OCHelmet.label>奥里恩战术头盔</Apparel_OCHelmet.label> 
+    <Apparel_OCHelmet.description>一个标准的制式服装，奥里恩集团的头盔。</Apparel_OCHelmet.description>
+  
+
+    <Apparel_OCPants.label>奥里恩作训裤</Apparel_OCPants.label>
+    <Apparel_OCPants.description>一件作训裤。</Apparel_OCPants.description>
+   
+
+
+    <Apparel_OCShirt.label>奥里恩作训衫</Apparel_OCShirt.label>
+    <Apparel_OCShirt.description>一件作训衫</Apparel_OCShirt.description>
+   
+
+	<Apparel_OCCombatVest.label>奥里恩战术背心</Apparel_OCCombatVest.label>
+
+	<Apparel_OCCombatVest.description>一个标准的制式服装，奥里恩集团的战术背心。比普通的背心多配备了一些高级的合金护板。</Apparel_OCCombatVest.description>
+
+</LanguageData>

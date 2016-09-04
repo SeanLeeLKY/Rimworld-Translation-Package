@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+    <PharmaTable.label>制药工作台</PharmaTable.label>
+     <PharmaTable.Description>一个工作台配有工具，可以混合和制作药物。</PharmaTable.Description>
+  
+    <Matterfab.label>物质组合装置</Matterfab.label>
+    <Matterfab.Description>量子热力学和等离子体谱测量的前沿科技产品，该装置可以将材料分解为基本亚原子粒子状态，然后重新组合成更加强大的人工材料。</Matterfab.Description>
+
+    <Electrolyzer.label>电解提取装置</Electrolyzer.label>
+    <Electrolyzer.Description>一种促发电解的装置，将电流通过电解质溶液或熔融态电解质提取基础材料。</Electrolyzer.Description>
+   
+
+    <RobAssem.label>自动化装配间</RobAssem.label>
+    <RobAssem.Description>具有艺术气质的智能化机器,从不处理废金属之类的废铜烂铁，拥有比人类双手更加灵活精确的机器手可以装配生产高精尖的高科技产品。</RobAssem.Description>
+  
+
+</LanguageData>

@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+<Shield.label>防护墙</Shield.label>
+<Shield.description>能够很好的抵御炮火攻击。</Shield.description>
+   
+
+
+<EMTurret.label>电磁轨道炮台</EMTurret.label>
+<EMTurret.description>装备有电磁轨道炮的炮台，自动攻击附近的敌人。损伤严重会爆炸。</EMTurret.description>
+   
+
+
+    <CannisterTurret.label>霰弹炮塔</CannisterTurret.label>
+<CannisterTurret.description>一个强大的霰弹炮塔能自动向附近的敌人开火. 在狭窄的空间很好用, 损伤严重会爆炸。</CannisterTurret.description>
+
+
+
+    <AutoMortar.label>自动迫击炮</AutoMortar.label>
+  <AutoMortar.description>一种自动迫击炮. 损伤严重会爆炸。</AutoMortar.description>
+
+
+
+
+    <ClusterMortar.label>自动密集迫击炮</ClusterMortar.label>
+ <ClusterMortar.description>一种自动迫击炮. 密集向目标开火. 损伤严重会爆炸。</ClusterMortar.description>
+ 
+
+
+
+    <EMPAMortar.label>自动电磁脉冲迫击炮</EMPAMortar.label>
+<EMPAMortar.description>一种自动迫击炮. 密集向目标开火. 损伤严重会爆炸。</EMPAMortar.description>
+
+
+
+
+    <MissileTurret.label>长程导弹炮塔</MissileTurret.label>
+<MissileTurret.description>一种自动长程导弹炮塔. 导弹攻击, 精准和威力巨大. 损伤严重会爆炸。</MissileTurret.description>
+
+
+
+    <CMissileTurret.label>巡航导弹炮塔</CMissileTurret.label>
+<CMissileTurret.description>一种自动巡航导弹炮塔. 发射单个巨大的导弹. 损伤严重会爆炸。</CMissileTurret.description>
+
+</LanguageData>

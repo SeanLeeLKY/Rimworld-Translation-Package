@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+	
+
+    <GTEar.label>高级仿生耳</GTEar.label>
+    <GTEar.description>仿生耳的高级版本。仿生升级的第二代产品，通常用于高层军事力量。</GTEar.description>
+   
+   
+
+    <GTEye.label>高级仿生眼</GTEye.label>
+    <GTEye.description>仿生眼的高级版本。仿生升级的第二代产品，通常用于高层军事力量。</GTEye.description>
+   
+   
+
+    <GTArm.label>高级仿生臂</GTArm.label>
+    <GTArm.description>仿生升级的第二代产品，使用纳米纤维生产的人造肌肉。让移植者拥有不可思议的力量。一拳能破坏对方的肢体，.…移植者不推荐从事看管的职位。</GTArm.description>
+   
+   
+
+    <GTLeg.label>高级仿生腿</GTLeg.label>
+    <GTLeg.description>仿生升级的第二代产品，使用纳米纤维生产的人造肌肉。让移植者拥有难以置信的速度</GTLeg.description>
+   
+   
+
+    <GTHeart.label>人造心脏</GTHeart.label>
+    <GTHeart.description>一个很强大的心脏，取代标准的人类心脏。安全输送血液流到身体每个部位。</GTHeart.description>
+   
+   
+
+    <GTLung.label>人造肺</GTLung.label>
+    <GTLung.description>一个强大的肺，取代标准的人类肺。与心脏完美的配合，增加了血液循环速度，提高效率。</GTLung.description>
+   
+   
+
+    <GTKidney.label>人造肾</GTKidney.label>
+    <GTKidney.description>一个强大的肾，取代标准的人类肾脏。增加血液过滤效率。</GTKidney.description>
+  
+  
+
+    <GTLiver.label>人造肝</GTLiver.label>
+    <GTLiver.description>一个强大的肝，取代标准的人类肝脏。增加血液过滤效率和代谢效率。</GTLiver.description>
+   
+   
+
+    <GTStomach.label>人造胃</GTStomach.label>
+    <GTStomach.description>一个强大的胃，取代标准的人类胃。提高消化率和代谢效率。</GTStomach.description>
+   
+   
+
+    <GTHand.label>高级仿生手</GTHand.label>
+    <GTHand.description>仿生升级的第二代产品，使用纳米纤维生产人造肌肉。臂部升级的有限版本，只是更换了手。</GTHand.description>
+   
+   
+
+    <GTFoot.label>高级仿生脚</GTFoot.label>
+    <GTFoot.description>仿生升级的第二代产品，使用纳米纤维生产人造肌肉。腿部的升级的有限版本，只是更换脚。</GTFoot.description>
+  
+  
+
+    <GTDentures.label>高级仿生齿</GTDentures.label>
+    <GTDentures.description>仿生升级的第二代产品，使用纳米机械将食物分解到最小。</GTDentures.description>
+  
+  
+</LanguageData>

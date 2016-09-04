@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  
+<TitaniumTile.Label>钛合金地砖</TitaniumTile.Label>
+<TitaniumTile.Description>钛合金地砖, 闪耀世界专享.</TitaniumTile.Description>
+ 
+	<AlphaTile.Label>阿尔法聚酯纤维地砖</AlphaTile.Label>
+
+	<AlphaTile.Description>阿尔法聚酯纤维地砖, 太空飞船风格。</AlphaTile.Description>
+
+	<BetaTile.Label>贝塔聚酯纤维地砖</BetaTile.Label>
+
+	<BetaTile.Description>贝塔聚酯纤维地砖, 太空飞船风格。</BetaTile.Description>
+
+</LanguageData>

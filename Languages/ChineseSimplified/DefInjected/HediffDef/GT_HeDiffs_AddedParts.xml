@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+    <GTHeart.label>人造心脏</GTHeart.label>
+
+      <GTLung.label>人造肺</GTLung.label>
+  
+  
+ 
+
+    <GTKidney.label>人造肾</GTKidney.label>
+  
+  
+
+    <GTLiver.label>人造肝</GTLiver.label>
+  
+  
+
+    <GTStomach.label>人造胃</GTStomach.label>
+   
+   
+
+    <GTDentures.label>人造齿</GTDentures.label>
+   
+   
+
+    <GTArm.label>高级仿生臂</GTArm.label>
+   
+   
+
+    <GTHand.label>高级仿生手</GTHand.label>
+  
+  
+
+    <GTLeg.label>高级仿生腿</GTLeg.label>
+  
+  
+
+    <GTFoot.label>高级仿生脚</GTFoot.label>
+   
+   
+
+    <GTEye.label>高级仿生眼</GTEye.label>
+ 
+ 
+
+    <GTEar.label>高级仿生耳</GTEar.label>
+
+</LanguageData>

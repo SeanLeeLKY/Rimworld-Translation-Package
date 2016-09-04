@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<HeatStab.label>刺伤</HeatStab.label>
+
+<HeatStab.injuryProps.DestroyedLabel>融化掉</HeatStab.injuryProps.DestroyedLabel>
+<HeatStab.injuryProps.DestroyedOutLabel>融化了</HeatStab.injuryProps.DestroyedOutLabel>
+
+<rep>
+	<path>HeatStab.comps[0].labelTreated</path>
+	<trans>已简单包扎</trans>
+</rep>
+<rep>
+	<path>HeatStab.comps[0].labelTreatedWellInner</path>
+	<trans>已缝合</trans>
+</rep>
+<rep>
+	<path>HeatStab.comps[0].labelTreatedInner</path>
+	<trans>已简单缝合</trans>
+</rep>
+<rep>
+	<path>HeatStab.comps[0].labelSolidTreatedWell</path>
+	<trans>已固定</trans>
+</rep>
+<rep>
+	<path>HeatStab.comps[0].labelSolidTreated</path>
+	<trans>已简单固定</trans>
+</rep>
+<rep>
+	<path>HeatStab.comps[2].oldLabel</path>
+	<trans>刺伤的疤痕</trans>
+</rep>
+		
+<rep>
+<path>HeatStab.comps[0].labelTreatedWell</path>
+<trans>已包扎</trans>
+</rep>
+
+</LanguageData>

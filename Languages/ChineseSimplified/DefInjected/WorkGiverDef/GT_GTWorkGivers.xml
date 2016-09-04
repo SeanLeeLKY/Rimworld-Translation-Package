@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+  
+    <DoBillsMatterfab.verb>装配</DoBillsMatterfab.verb>
+    <DoBillsMatterfab.gerund>装配中</DoBillsMatterfab.gerund>
+
+
+
+  
+    <DoBillsElectrolysis.verb>电解</DoBillsElectrolysis.verb>
+    <DoBillsElectrolysis.gerund>电解中</DoBillsElectrolysis.gerund>
+
+
+
+ 
+    <DoBillsRobassem.verb>装配</DoBillsRobassem.verb>
+    <DoBillsRobassem.gerund>装配中</DoBillsRobassem.gerund>
+
+
+
+  
+
+    <DoBillsPharma.verb>生产</DoBillsPharma.verb>
+    <DoBillsPharma.gerund>生产中</DoBillsPharma.gerund>
+
+
+</LanguageData>

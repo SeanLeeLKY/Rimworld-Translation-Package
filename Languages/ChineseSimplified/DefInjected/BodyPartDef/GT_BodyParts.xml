@@ -1,0 +1,219 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+
+    <Chassis.label>底盘</Chassis.label>
+
+
+
+    <Hull.label>外壳</Hull.label>
+
+
+
+    <Bracing.label>支撑装置</Bracing.label>
+
+
+
+    <FissionCell.label>裂变电池</FissionCell.label>
+	
+	
+
+    <SensoryActuator.label>传感系统</SensoryActuator.label>
+	
+	
+
+    <MainALU.label>主运算器</MainALU.label>
+	
+	
+
+    <OcularSensor.label>视觉传感器</OcularSensor.label>
+
+
+
+    <AudioSensor.label>听觉传感器</AudioSensor.label>
+
+
+
+    <FrontLeftActuator.label>左前驱动器</FrontLeftActuator.label>
+	
+	
+
+
+
+  <!--    <FrontLeftLeg.label>左前腿</FrontLeftLeg.label>
+  -->
+
+	
+	
+
+    <FrontLeftClaw.label>左前爪</FrontLeftClaw.label>
+	
+	
+
+    <FrontRightActuator.label>右前驱动器</FrontRightActuator.label>
+	
+	
+
+
+
+  <!--    <FrontRightLeg.label>右前腿</FrontRightLeg.label>  -->
+
+	
+	
+
+    <FrontRightClaw.label>右前爪</FrontRightClaw.label>
+	
+	
+
+    <MiddleLeftActuator.label>中左驱动器</MiddleLeftActuator.label>
+	
+	
+
+   
+
+
+ <!--  <MiddleLeftLeg.label>中左腿</MiddleLeftLeg.label>
+ -->
+
+
+	
+	
+
+    <MiddleLeftClaw.label>中左爪</MiddleLeftClaw.label>
+
+
+
+    <MiddleRightActuator.label>中右驱动器</MiddleRightActuator.label>
+	
+	
+
+ 
+
+
+  <!--    <MiddleRightLeg.label>中右腿</MiddleRightLeg.label>
+	-->
+
+
+	
+
+    <MiddleRightClaw.label>中右爪</MiddleRightClaw.label>
+
+
+
+    <RearLeftActuator.label>左后驱动器</RearLeftActuator.label>
+	
+	
+
+
+
+   <!--  <RearLeftLeg.label>左后腿</RearLeftLeg.label>
+
+
+
+ -->
+
+
+   <RearLeftClaw.label>左后爪</RearLeftClaw.label>
+	
+	
+
+    <RearRightActuator.label>右后驱动器</RearRightActuator.label>
+	
+	
+
+   
+
+
+ <!--  <RearRightLeg.label>右后腿</RearRightLeg.label>
+
+
+
+ -->
+
+
+   <RearRightClaw.label>右后爪</RearRightClaw.label>
+	
+	
+
+		<TChassis.label>坦克底盘</TChassis.label>
+	
+	
+
+		<THull.label>外壳</THull.label>
+		
+		
+
+		<TBracing.label>支撑装置</TBracing.label>
+	
+	
+
+		<Engine.label>引擎</Engine.label>
+	
+	
+
+		<TurretActuator.label>炮台驱动器</TurretActuator.label>
+	
+	
+
+		<CannonLoader.label>炮弹填装器</CannonLoader.label>
+	
+	
+
+		<AmmoRack.label>弹药架</AmmoRack.label>
+		
+		
+
+		<!-- <TurretHull.label>炮台外壳</TurretHull.label> -->
+	
+	
+
+		<LeftTrack.label>左侧履带</LeftTrack.label>
+		
+		
+
+		<RightTrack.label>右侧履带</RightTrack.label>
+	
+	
+
+		<TrackChain.label>履带链</TrackChain.label>
+	
+	
+
+		<Fender.label>履带挡泥板</Fender.label>
+		
+		
+
+		<LargeGear.label>履带齿轮</LargeGear.label>
+		
+		
+		<WheelSystem.label>轮轴系统</WheelSystem.label>
+
+    <!-- <TrackChain.label>轨道链</TrackChain.label> -->
+
+    <!-- <Engine.label>引擎</Engine.label> -->
+
+    <!-- <TChassis.label>坦克基座</TChassis.label> -->
+
+    <TFrame.label>框架</TFrame.label>
+
+    <TurretHull.label>炮塔外壳</TurretHull.label>
+
+    <!-- <CannonLoader.label>炮弹装填器</CannonLoader.label> -->
+
+    <!-- <RightTrack.label>右轨道</RightTrack.label> -->
+
+    <!-- <Fender.label>轨道保护罩</Fender.label> -->
+
+    <!-- <TurretActuator.label>炮塔促动器</TurretActuator.label> -->
+
+    <!-- <THull.label>外壳</THull.label> -->
+
+  <!-- <AmmoRack.label>弹药架</AmmoRack.label> -->
+
+    <Crew.label>组</Crew.label>
+
+    <!-- <LeftTrack.label>左轨道</LeftTrack.label> -->
+	
+
+</LanguageData>

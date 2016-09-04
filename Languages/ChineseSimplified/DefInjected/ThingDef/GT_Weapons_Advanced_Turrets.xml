@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+
+<Bullet_EMRGTurret.label>简易炮塔的子弹</Bullet_EMRGTurret.label>
+<Gun_EMRGTurret.label>电磁炮</Gun_EMRGTurret.label>
+<Gun_EMRGTurret.description>附加了电磁步枪的炮台。</Gun_EMRGTurret.description>
+ 
+
+
+<Bullet_CannisterTurret.label>简易炮塔的子弹</Bullet_CannisterTurret.label>
+<Gun_CannisterTurret.label>霰弹炮</Gun_CannisterTurret.label>
+<Gun_CannisterTurret.description>机枪和霰弹枪之间交叉，附加到一个炮塔上。</Gun_CannisterTurret.description>
+
+
+<Bullet_AutoMortar.label>爆炸的迫击炮弹</Bullet_AutoMortar.label>
+<Artillery_AutoMortar.label>迫击炮</Artillery_AutoMortar.label>
+<Artillery_AutoMortar.description>迫击发射.可以越过障碍.准确度不高但是射程非常远.</Artillery_AutoMortar.description>
+
+
+    <Bullet_ClusterMortar.label>爆炸的迫击炮弹</Bullet_ClusterMortar.label>
+    <Artillery_ClusterMortar.label>密集迫击炮</Artillery_ClusterMortar.label>
+    <Artillery_ClusterMortar.description>迫击发射.可以越过障碍.准确度不高但是射程非常远.</Artillery_ClusterMortar.description>
+
+
+    <Bullet_EMPAMortar.label>爆炸的迫击炮弹</Bullet_EMPAMortar.label>
+    <Artillery_EMPAMortar.label>电磁脉冲迫击炮</Artillery_EMPAMortar.label>
+    <Artillery_EMPAMortar.description>迫击发射.可以越过障碍.准确度不高但是射程非常远.</Artillery_EMPAMortar.description>
+
+
+    <Bullet_MissileTurret.label>爆炸的迫击炮弹</Bullet_MissileTurret.label>
+    <Artillery_MissileTurret.label>长程导弹</Artillery_MissileTurret.label>
+    <Artillery_MissileTurret.description>导弹发射. 发射大量导弹.</Artillery_MissileTurret.description>
+
+
+    <Bullet_CMissileTurret.label>爆炸的迫击炮弹</Bullet_CMissileTurret.label>
+    <Artillery_CMissileTurret.label>巡航导弹</Artillery_CMissileTurret.label>
+    <Artillery_CMissileTurret.description>导弹发射. 发射大量导弹.</Artillery_CMissileTurret.description>
+
+
+</LanguageData>

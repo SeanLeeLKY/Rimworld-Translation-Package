@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Gun_OCPDPistol.label>OC自卫手枪</Gun_OCPDPistol.label>
+
+<Gun_OCPDPistol.description>奥里恩集团战士的个人防卫武器。这把手枪非常轻巧，且适合在各类敌情中自卫。</Gun_OCPDPistol.description>
+
+<Gun_OCPDRifle.label>OC自卫步枪</Gun_OCPDRifle.label>
+
+<Gun_OCPDRifle.description>奥里恩集团战士的个人防卫武器。这把步枪非常轻巧，且适合在各类敌情中自卫。</Gun_OCPDRifle.description>
+
+<Gun_OCRocket.label>OC火箭发射器</Gun_OCRocket.label>
+
+<Gun_OCRocket.description>标准的奥里恩集团反装甲武器。配备有激光导航系统，比普通火箭发射器更加精确。</Gun_OCRocket.description>
+
+<Bullet_OCPistol.label>OC子弹</Bullet_OCPistol.label>
+
+<Bullet_OCRifle.label>OC子弹</Bullet_OCRifle.label>
+
+</LanguageData>

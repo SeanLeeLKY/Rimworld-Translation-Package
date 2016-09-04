@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+ 
+ 
+
+  <!--   <FrontLeftLeg.label>左前腿</FrontLeftLeg.label>
+
+
+    <FrontRightLeg.label>右前腿</FrontRightLeg.label>
+
+
+  
+
+-->
+
+  <MiddleLeftLeg.label>中左腿</MiddleLeftLeg.label>
+
+
+    <MiddleRightLeg.label>中右腿</MiddleRightLeg.label>
+
+
+    <RearLeftLeg.label>左后腿</RearLeftLeg.label>
+
+
+    <RearRightLeg.label>右后腿</RearRightLeg.label>
+
+
+   
+
+
+
+ <Claws.label>爪</Claws.label>
+
+
+</LanguageData>

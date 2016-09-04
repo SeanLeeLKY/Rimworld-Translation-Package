@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ambTable.label>自动医疗舱</ambTable.label>
+
+	<ambTable.Description>医疗舱专为抢救严重受伤人员而设计。通过注射微型可弃生物修复纳米机器人进入血液，对人体的创伤进行修复，但有些创伤仍需要医生来治疗。</ambTable.Description>
+
+	<DynChair.label>动态休闲椅</DynChair.label>
+
+	<DynChair.description>一个大椅子，能根据每个人的体型改变形状，让每个人都能舒适的座靠，还提供温柔和强烈二种按摩模式。它所需要的是一个酒吧冰箱…</DynChair.description>
+
+	<FloodLight.label>泛光灯</FloodLight.label>
+
+	<FloodLight.description>泛光灯能照亮一大片区域，但成本更高一点。</FloodLight.description>
+
+</LanguageData>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+    <Race_Tank.label>坦克</Race_Tank.label>
+    <Race_Tank.description>一个主战坦克。用于地面前线支援，或在城市中作战。</Race_Tank.description>
+
+
+	<Race_Tank_Corpse.label>坦克残骸</Race_Tank_Corpse.label>
+
+	<Race_Tank_Corpse.description>坦克残骸</Race_Tank_Corpse.description>
+
+</LanguageData>

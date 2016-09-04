@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<EMPCharge.label>电磁防御I型炸药</EMPCharge.label>
+
+	<EMPCharge.description>电磁防御I型炸药，命引爆令。制造一个强大的电磁能量爆炸，影响半径大。用于防御机器人的威胁，有时也使人类恐怖。</EMPCharge.description>
+
+	<DepletedEMPCharge.label>使用过的电磁防御I型炸药</DepletedEMPCharge.label>
+
+	<DepletedEMPCharge.description>一个使用过的电磁防御I型炸药.</DepletedEMPCharge.description>
+
+	<FissionBomb.label>电磁防御I型炸药</FissionBomb.label>
+
+	<FissionBomb.description>电磁防御I型炸药，命引爆令。制造一个强大的电磁能量爆炸，影响半径大。用于防御机器人的威胁，有时也使人类恐怖。</FissionBomb.description>
+
+</LanguageData>

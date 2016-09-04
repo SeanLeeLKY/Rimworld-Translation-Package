@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<LanguageData>
+
+<XenonIonTurbine.label>氙离子涡轮发电机</XenonIonTurbine.label>
+<XenonIonTurbine.description>从水中收集微量氙气并电离成等离子体而产生电力。必须放在一个蒸汽喷泉上。</XenonIonTurbine.description>
+
+
+<PlasmaReactor.label>等离子体聚变反应堆</PlasmaReactor.label>
+<PlasmaReactor.description>利用电磁漩涡加热等离子体产生电力。类似的过程如行星一般，除了体积小点以外更加的热和有效，因为自身的热度非常之高，所以需要非常非常坚固的材料制造。</PlasmaReactor.description>
+
+<FissionBattery.label>裂变电池</FissionBattery.label>
+<FissionBattery.description>存储电能并利用裂变过程再循环。比普通电池更有效率和多储存四倍电量。警告-充电电池在受热和受潮时会爆炸。</FissionBattery.description>
+   
+<HeavyPowerConduit.label>加固电缆</HeavyPowerConduit.label>
+<HeavyPowerConduit.description>一组用于传输电力的重型电缆，非常坚固并且具有阻燃性。</HeavyPowerConduit.description>
+
+</LanguageData>

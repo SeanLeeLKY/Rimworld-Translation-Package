@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+
+<Gun_MRGPistol.label>MRG-5手枪</Gun_MRGPistol.label>
+<Gun_MRGPistol.description>微型轨道枪5型. MRG-5 步枪的紧凑版，这把手枪是第五代轨道枪科技的研究成果。非常精确且强劲，与旧时代火器相比高下立判。</Gun_MRGPistol.description>
+
+
+
+<Gun_MRGRifle.label>MRG-5步枪</Gun_MRGRifle.label>
+<Gun_MRGRifle.description>微型轨道枪5型. 这把步枪是第五代轨道枪科技的研究成果。非常精确且强劲，与旧时代火器相比高下立判。</Gun_MRGRifle.description>
+
+	<Bullet_MRGPistol.label>MRG子弹</Bullet_MRGPistol.label>
+
+	<Bullet_MRGRifle.label>MRG子弹</Bullet_MRGRifle.label>
+
+</LanguageData>

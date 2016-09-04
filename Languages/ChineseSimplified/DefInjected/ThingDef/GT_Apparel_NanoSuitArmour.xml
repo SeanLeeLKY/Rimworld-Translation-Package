@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<Apparel_NanoSuit.label>纳米服</Apparel_NanoSuit.label>
+<Apparel_NanoSuit.description>用纳米技术改进过的动力装甲拥有电磁屏障系统能够抵御大多数的动能武器的攻击，通常只配备给闪耀世界的高级行星突击队。</Apparel_NanoSuit.description>
+
+
+<Apparel_NanoSuitHelmet.label>纳米头盔</Apparel_NanoSuitHelmet.label>
+<Apparel_NanoSuitHelmet.description>集成在纳米动力装甲上的头盔，拥有完整的发光抬头显示器.</Apparel_NanoSuitHelmet.description>
+ 
+
+<Apparel_Reactive.label>反应式装甲</Apparel_Reactive.label>
+<Apparel_Reactive.description>动力反应装甲。非常重，但能够抵御重武器的攻击。</Apparel_Reactive.description>
+
+
+<Apparel_NanoSkin.label>纳米内衬</Apparel_NanoSkin.label>
+<Apparel_NanoSkin.description>用非常轻薄的纳米纤维制成。非常适合穿在在纳米服里。非常的昂贵和稀少，增加穿戴者的速度和防护能力。同时穿上纳米服和反应式装甲将是你最佳的搭配。</Apparel_NanoSkin.description>
+
+
+<Apparel_NanoSpeed.label>加速内衬</Apparel_NanoSpeed.label>
+<Apparel_NanoSpeed.description>用非常轻薄的纳米纤维制成。与纳米内衬类似，但编织进了活性液体金属能增加穿戴者的行动速度和运动能力。增加了速度，但相应的减少防御能力。</Apparel_NanoSpeed.description>
+
+</LanguageData>
