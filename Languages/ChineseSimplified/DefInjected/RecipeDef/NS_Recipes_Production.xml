@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RefineHerbalMedicine.label>制作药物</RefineHerbalMedicine.label>
+
+	<RefineHerbalMedicine.description>将草药提炼成药物。</RefineHerbalMedicine.description>
+
+	<RefineHerbalMedicine.jobString>制作药物。</RefineHerbalMedicine.jobString>
+
+	<RefineMedicine.label>制作闪耀世界药物</RefineMedicine.label>
+
+	<RefineMedicine.description>将药物提炼成闪耀世界药物。</RefineMedicine.description>
+
+	<RefineMedicine.jobString>制作闪耀世界药物。</RefineMedicine.jobString>
+
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Itchy_MakeStoneBlocksSandstone.label>制作沙石块</Itchy_MakeStoneBlocksSandstone.label>
+
+	<Itchy_MakeStoneBlocksSandstone.description>将沙石切割成可用的石头块。</Itchy_MakeStoneBlocksSandstone.description>
+
+	<Itchy_MakeStoneBlocksSandstone.jobString>石材切割。</Itchy_MakeStoneBlocksSandstone.jobString>
+
+	<Itchy_MakeStoneBlocksGranite.label>制作花岗岩块</Itchy_MakeStoneBlocksGranite.label>
+
+	<Itchy_MakeStoneBlocksGranite.description>将花岗岩切割成可用的石头块。</Itchy_MakeStoneBlocksGranite.description>
+
+	<Itchy_MakeStoneBlocksGranite.jobString>石材切割。</Itchy_MakeStoneBlocksGranite.jobString>
+
+	<Itchy_MakeStoneBlocksLimestone.label>制作石灰岩块</Itchy_MakeStoneBlocksLimestone.label>
+
+	<Itchy_MakeStoneBlocksLimestone.description>将石灰石切割成可用的石头块。</Itchy_MakeStoneBlocksLimestone.description>
+
+	<Itchy_MakeStoneBlocksLimestone.jobString>石材切割。</Itchy_MakeStoneBlocksLimestone.jobString>
+
+	<Itchy_MakeStoneBlocksSlate.label>制作板岩块</Itchy_MakeStoneBlocksSlate.label>
+
+	<Itchy_MakeStoneBlocksSlate.description>将板岩切割成可用的石头块。</Itchy_MakeStoneBlocksSlate.description>
+
+	<Itchy_MakeStoneBlocksSlate.jobString>石材切割。</Itchy_MakeStoneBlocksSlate.jobString>
+
+	<Itchy_MakeStoneBlocksMarble.label>制作大理石块</Itchy_MakeStoneBlocksMarble.label>
+
+	<Itchy_MakeStoneBlocksMarble.description>将大理石切割成可用的石头块。</Itchy_MakeStoneBlocksMarble.description>
+
+	<Itchy_MakeStoneBlocksMarble.jobString>石材切割。</Itchy_MakeStoneBlocksMarble.jobString>
+
+</LanguageData>

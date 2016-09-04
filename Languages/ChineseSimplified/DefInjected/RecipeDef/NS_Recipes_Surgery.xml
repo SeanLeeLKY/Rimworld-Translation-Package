@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<InstallNaturalBrain.label>植入大脑</InstallNaturalBrain.label>
+	<InstallNaturalBrain.description>植入大脑。</InstallNaturalBrain.description>
+	<InstallNaturalBrain.jobString>植入大脑。</InstallNaturalBrain.jobString>
+
+	<InstallNaturalNose.label>安装鼻子</InstallNaturalNose.label>
+	<InstallNaturalNose.description>安装鼻子。</InstallNaturalNose.description>
+	<InstallNaturalNose.jobString>安装鼻子。</InstallNaturalNose.jobString>
+
+	<RepairNaturalTorso.label>修复</RepairNaturalTorso.label>
+	<RepairNaturalTorso.description>修复。</RepairNaturalTorso.description>
+	<RepairNaturalTorso.jobString>修复中。</RepairNaturalTorso.jobString>
+
+	<InstallNaturalEar.label>缝合耳朵</InstallNaturalEar.label>
+	<InstallNaturalEar.description>缝合耳朵。</InstallNaturalEar.description>
+	<InstallNaturalEar.jobString>缝合耳朵。</InstallNaturalEar.jobString>
+
+</LanguageData>

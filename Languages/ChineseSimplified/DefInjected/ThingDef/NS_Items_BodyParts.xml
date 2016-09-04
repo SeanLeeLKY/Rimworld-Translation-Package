@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<Brain.label>大脑</Brain.label>
+	<Brain.description>用于控制身体各部分的协调以及运动机能。</Brain.description>
+
+	<Nose.label>鼻子</Nose.label>
+	<Nose.description>是嗅觉系统的重要组成部分。</Nose.description>
+
+	<Ear.label>耳朵</Ear.label>
+	<Ear.description>是听觉系统的重要组成部分。</Ear.description>
+</LanguageData>
