@@ -21,7 +21,7 @@ DE更多手术    | DE Surgeries    | http://steamcommunity.com/sharedfiles/file
 机器人-物品 | Misc. Objects | http://steamcommunity.com/sharedfiles/filedetails/?id=727710731 | MAI
 机器人-事件 | Misc. Incidents | http://steamcommunity.com/sharedfiles/filedetails/?id=719702781 | MAI
 机器人-地图生成 | Misc. MapGenerator | http://steamcommunity.com/sharedfiles/filedetails/?id=704182588 | MAI
-机器人-MAI | Misc. MAI | http://steamcommunity.com/sharedfiles/filedetails/?id=724600171 | MAI
+机器人-人工智能 | Misc. MAI | http://steamcommunity.com/sharedfiles/filedetails/?id=724600171 | MAI
 机器人-制造 | Misc. Robot | http://steamcommunity.com/sharedfiles/filedetails/?id=724602224 | MAI
 
 >模组所有权为创意工坊上作者所有.
