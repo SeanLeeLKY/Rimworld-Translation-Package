@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<rep>
+		<path>AIRobotBaseThought.stages[0].label</path>
+		<trans>…</trans>
+	</rep>
+
+	<rep>
+		<path>AIRobotBaseThought.stages[0].description</path>
+		<trans>我无法感觉到任何东西。</trans>
+	</rep>
+
+</LanguageData>

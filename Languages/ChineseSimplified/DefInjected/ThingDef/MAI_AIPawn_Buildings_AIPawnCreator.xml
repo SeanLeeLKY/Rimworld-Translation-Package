@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AIPawn_AIPawnCreator.Label>人工智能机器人，女性</AIPawn_AIPawnCreator.Label>
+
+	<AIPawn_AIPawnCreatorE.Label>人工智能机器人，女性（增强）</AIPawn_AIPawnCreatorE.Label>
+
+	<AIPawn_AIPawnCreatorMale.Label>人工智能机器人，男性</AIPawn_AIPawnCreatorMale.Label>
+
+	<AIPawn_AIPawnCreatorMaleE.Label>人工智能机器人，男性（增强）</AIPawn_AIPawnCreatorMaleE.Label>
+
+</LanguageData>

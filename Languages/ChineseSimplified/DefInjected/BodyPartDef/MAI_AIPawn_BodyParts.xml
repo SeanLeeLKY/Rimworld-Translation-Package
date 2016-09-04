@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AIPawn_Thorax.label>胸部</AIPawn_Thorax.label>
+
+	<AIPawn_Neck.label>颈部</AIPawn_Neck.label>
+
+	<AIPawn_Head.label>头部</AIPawn_Head.label>
+
+	<AIPawn_ArtificialBrain.label>中央处理单元</AIPawn_ArtificialBrain.label>
+
+	<AIPawn_UnneededData.label>中央存储器单元</AIPawn_UnneededData.label>
+
+	<AIPawn_SpeakerDevice.label>扬声器</AIPawn_SpeakerDevice.label>
+
+	<AIPawn_BatteryLeft.label>左侧电池</AIPawn_BatteryLeft.label>
+
+	<AIPawn_BatteryRight.label>右侧电池</AIPawn_BatteryRight.label>
+
+	<AIPawn_MaterialAnalyzer.label>材料分析仪</AIPawn_MaterialAnalyzer.label>
+
+	<AIPawn_Spine.label>脊柱</AIPawn_Spine.label>
+
+	<AIPawn_Abdomen.label>腹部</AIPawn_Abdomen.label>
+
+</LanguageData>

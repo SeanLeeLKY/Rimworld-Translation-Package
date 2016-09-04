@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- Construction Station -->
+	<AIPawn_ResourceMetal>钢铁：</AIPawn_ResourceMetal>
+	<AIPawn_ResourceSilver>白银：</AIPawn_ResourceSilver>
+	<AIPawn_StartProduction>开始生产</AIPawn_StartProduction>
+	<AIPawn_StopProduction>停止生产</AIPawn_StopProduction>
+	<AIPawn_ProductionRunning>生产运行…</AIPawn_ProductionRunning>
+	<AIPawn_ProductionRunningSign>-></AIPawn_ProductionRunningSign>
+	<AIPawn_OutputBlocked>输出受阻。生产不能启动。</AIPawn_OutputBlocked>
+	
+	<!-- AIPawnGenerator -->
+	<AIPawn_Basename_first>.</AIPawn_Basename_first>
+	<AIPawn_Basename_last>..</AIPawn_Basename_last>
+	<AIPawn_Basename_nick>MAI</AIPawn_Basename_nick>
+
+	<!-- AIPawnRechargeStation -->
+	<AIPawn_NoOwner>没有指定主人</AIPawn_NoOwner>
+	<AIPawn_SendOwnerToSleep>召唤主人回来睡觉</AIPawn_SendOwnerToSleep>
+	<AIPawn_MustPlaceNextToAIPawnRechargeStation>需要放在一个充电站的旁边。</AIPawn_MustPlaceNextToAIPawnRechargeStation>
+	
+	<AIPawn_LetterLabel_BuildRechargeStationSoon>激活人工智能机器人</AIPawn_LetterLabel_BuildRechargeStationSoon>
+	<AIPawn_LetterText_BuildRechargeStationSoon>既然你已经激活了你的人工智能机器人，别忘了给他一个充电站。</AIPawn_LetterText_BuildRechargeStationSoon>
+	
+	<!-- AIPawn Float Menu -->
+	<AIPawn_FloatMenu_GotoBed>去睡觉</AIPawn_FloatMenu_GotoBed>
+	<AIPawn_FloatMenu_SedateAndRescueAIPawn>稳重和救援{0}</AIPawn_FloatMenu_SedateAndRescueAIPawn>
+	<AIPawn_FloatMenu_SedateAIPawn>稳重的{0}</AIPawn_FloatMenu_SedateAIPawn>
+	
+</LanguageData>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<rep>
+		<path>AIBaseThought.stages[0].label</path>
+		<trans>…</trans>
+	</rep>
+
+	<rep>
+		<path>AIBaseThought.stages[0].description</path>
+		<trans>我无法感觉到任何东西。</trans>
+	</rep>
+
+	<rep>
+		<path>AIShieldingError.stages[0].label</path>
+		<trans>护盾错误。</trans>
+	</rep>
+
+	<rep>
+		<path>AIShieldingError.stages[0].description</path>
+		<trans>我的护盾出错，激活纳米修复机器人。</trans>
+	</rep>
+
+	<rep>
+		<path>AIBatteriesRefilled.stages[0].label</path>
+		<trans>电池充满。</trans>
+	</rep>
+
+	<rep>
+		<path>AIBatteriesRefilled.stages[0].description</path>
+		<trans>我的电池充满了，继续工作。</trans>
+	</rep>
+
+	<rep>
+		<path>AILowBattery.stages[0].label</path>
+		<trans>电量低</trans>
+	</rep>
+
+	<rep>
+		<path>AILowBattery.stages[0].description</path>
+		<trans>我的电量很低。我需要尽快给它们充电。</trans>
+	</rep>
+
+	<rep>
+		<path>AILowCriticalBattery.stages[0].label</path>
+		<trans>电量临界</trans>
+	</rep>
+
+	<rep>
+		<path>AILowCriticalBattery.stages[0].description</path>
+		<trans>我的电量太低了。如果彻底断电，我将加载自毁协议。</trans>
+	</rep>
+
+</LanguageData>

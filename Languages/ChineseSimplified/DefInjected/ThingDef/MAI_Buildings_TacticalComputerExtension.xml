@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<TacticalComputerExtension.label>计算机终端</TacticalComputerExtension.label>
+
+	<TacticalComputerExtension.description>该计算机终端提供远程访问战术计算机的一些选项。请注意：需要一台战术计算机！</TacticalComputerExtension.description>
+
+</LanguageData>

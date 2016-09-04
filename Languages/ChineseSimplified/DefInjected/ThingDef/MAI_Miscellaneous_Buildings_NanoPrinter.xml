@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<NanoPrinter.label>纳米打印机</NanoPrinter.label>
+
+	<NanoPrinter.description>纳米打印机可以制造几乎相同的设备。注：由此产生的质量可能不是最好的。</NanoPrinter.description>
+
+	<NanoScanner.label>纳米扫描仪</NanoScanner.label>
+
+	<NanoScanner.description>允许扫描物体的内部结构到纳米打印机程序。</NanoScanner.description>
+
+</LanguageData>

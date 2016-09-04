@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DoBillsMedicalOperationAIPawn.label>人工智能机器人工作中</DoBillsMedicalOperationAIPawn.label>
+
+	<DoBillsMedicalOperationAIPawn.verb>工作</DoBillsMedicalOperationAIPawn.verb>
+
+	<DoBillsMedicalOperationAIPawn.gerund>工作中</DoBillsMedicalOperationAIPawn.gerund>
+
+	<DoBillsMedicalOperationAIPawnE.label>增强人工智能机器人工作中</DoBillsMedicalOperationAIPawnE.label>
+
+	<DoBillsMedicalOperationAIPawnE.verb>工作</DoBillsMedicalOperationAIPawnE.verb>
+
+	<DoBillsMedicalOperationAIPawnE.gerund>工作中</DoBillsMedicalOperationAIPawnE.gerund>
+
+</LanguageData>
