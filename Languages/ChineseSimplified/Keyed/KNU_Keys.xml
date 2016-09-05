@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<koisama.Numbers.Title>数据概览</koisama.Numbers.Title>
+	<koisama.Numbers.Name>姓名</koisama.Numbers.Name>
+	<koisama.Numbers.ClickToToggleColonistPrisoner>单击在殖民者和囚犯间切换。</koisama.Numbers.ClickToToggleColonistPrisoner>
+	<koisama.Numbers.SortByTooltip>单击按{0}排序。</koisama.Numbers.SortByTooltip>
+	<koisama.Numbers.RemoveTooltip>右键删除队列。</koisama.Numbers.RemoveTooltip>
+	<koisama.Numbers.AddColumnLabel>添加属性</koisama.Numbers.AddColumnLabel>
+	<koisama.Numbers.AddSkillColumnLabel>添加技能</koisama.Numbers.AddSkillColumnLabel>
+	<koisama.Numbers.AddNeedsColumnLabel>添加需求</koisama.Numbers.AddNeedsColumnLabel>
+	<koisama.Numbers.AddOtherColumnLabel>添加其他</koisama.Numbers.AddOtherColumnLabel>
+	
+	<koisama.Interaction>囚犯互动</koisama.Interaction>
+	<koisama.Interaction.description>应该如何对待这个囚犯。</koisama.Interaction.description>
+	<koisama.MedicalCare>医疗处理</koisama.MedicalCare>
+	
+	<koisama.pawntype.Colonists>殖民者</koisama.pawntype.Colonists>
+	<koisama.pawntype.Enemies>敌人</koisama.pawntype.Enemies>
+	<koisama.pawntype.Prisoners>囚犯</koisama.pawntype.Prisoners>
+	<koisama.pawntype.Guests>访客</koisama.pawntype.Guests>
+	<koisama.pawntype.Animals>驯服动物</koisama.pawntype.Animals>
+	<koisama.pawntype.WildAnimals>野生动物</koisama.pawntype.WildAnimals>
+	<koisama.pawntype.Corpses>尸体</koisama.pawntype.Corpses>
+	<koisama.pawntype.AnimalCorpses>动物尸体</koisama.pawntype.AnimalCorpses>
+	
+	<koisama.Numbers.Count>总计</koisama.Numbers.Count>
+	<koisama.Numbers.ClickToToggle>点击选择类别</koisama.Numbers.ClickToToggle>
+	<!-- <koisama.Numbers.SortByTooltip>Click to sort by {0}.</koisama.Numbers.SortByTooltip> -->
+	<!-- <koisama.Numbers.RemoveTooltip>Right click to remove column.</koisama.Numbers.RemoveTooltip> -->
+	<!-- <koisama.Numbers.AddColumnLabel>Add stat</koisama.Numbers.AddColumnLabel> -->
+	<!-- <koisama.Numbers.AddSkillColumnLabel>Add skill</koisama.Numbers.AddSkillColumnLabel> -->
+	<!-- <koisama.Numbers.AddNeedsColumnLabel>Add need</koisama.Numbers.AddNeedsColumnLabel> -->
+	<!-- <koisama.Numbers.AddOtherColumnLabel>Add other</koisama.Numbers.AddOtherColumnLabel> -->
+	<koisama.Numbers.SetPresetLabel>配置</koisama.Numbers.SetPresetLabel>
+	
+	<koisama.CurrentJob>当前任务</koisama.CurrentJob>	
+	<koisama.Equipment>装备</koisama.Equipment>
+	<!-- <koisama.Interaction>Prisoner Interaction</koisama.Interaction> -->
+	<!-- <koisama.Interaction.description>How should wardens treat this prisoner.</koisama.Interaction.description> -->
+	<!-- <koisama.MedicalCare>Medical Care</koisama.MedicalCare> -->
+	<koisama.Age>年龄</koisama.Age>
+	<koisama.MentalState>心理状态</koisama.MentalState>
+	
+	<!-- <koisama.pawntype.Colonists>Colonists</koisama.pawntype.Colonists> -->
+	<!-- <koisama.pawntype.Enemies>Enemies</koisama.pawntype.Enemies> -->
+	<!-- <koisama.pawntype.Prisoners>Prisoners</koisama.pawntype.Prisoners> -->
+	<!-- <koisama.pawntype.Guests>Guests</koisama.pawntype.Guests> -->
+	<!-- <koisama.pawntype.Animals>Animals</koisama.pawntype.Animals> -->
+	<!-- <koisama.pawntype.WildAnimals>Wild Animals</koisama.pawntype.WildAnimals> -->
+	<!-- <koisama.pawntype.Corpses>Corpses</koisama.pawntype.Corpses> -->
+	<!-- <koisama.pawntype.AnimalCorpses>Animal Corpses</koisama.pawntype.AnimalCorpses> -->
+
+</LanguageData>
