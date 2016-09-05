@@ -27,6 +27,6 @@ DE更多手术    | DE Surgeries    | http://steamcommunity.com/sharedfiles/file
 石材调整 |Stonecutting Tweak | http://steamcommunity.com/sharedfiles/filedetails/?id=672711525|SCT
 外科手术 |NaturalSurgery | 稍后添加 |NS 
 医疗信息 |Medical Tab | http://steamcommunity.com/sharedfiles/filedetails/?id=715565817|RW_M
-
+数据概览 |Numbers | http://steamcommunity.com/sharedfiles/filedetails/?id=728978927|KNU
 >模组所有权为创意工坊上作者所有.
 如有侵犯你的权益,请及时向我们提出.
