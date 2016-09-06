@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <ResearchMobileMineralSonar.label>MCo.矿物扫描雷达</ResearchMobileMineralSonar.label>
+  <ResearchMobileMineralSonar.description>您的矿工感到厌烦挖出矿道却没有任何矿石。其中一人是在他的青年深空矿工和用来享受使用矿物公司声纳设备和谈到它的研究员。
+你应该给他们一些时间来研究矿物声纳技术核心理念。
+
+- 研究著名的矿物公司的矿物声纳技术。矿物声纳技术能够扫描山脉的内部检测是否有矿石。
+
+    </ResearchMobileMineralSonar.description>
+  <ResearchMobileMineralSonarEnhancedScan.label>MCo.矿物扫描雷达：增强扫描</ResearchMobileMineralSonarEnhancedScan.label>
+  <ResearchMobileMineralSonarEnhancedScan.description>通过在矿物声纳技术降噪算法做一些代码重构，你的研究人员可以提高矿物扫描雷达效率。
+
+- 提高矿物声纳技术，以提升矿物扫描雷达效率。
+
+    </ResearchMobileMineralSonarEnhancedScan.description>
+</LanguageData>
