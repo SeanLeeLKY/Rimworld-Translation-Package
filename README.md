@@ -34,6 +34,8 @@ M&Co.立场护盾 | M&Co. Force Field | http://steamcommunity.com/sharedfiles/fi
 M&Co.挖矿头盔 | M&Co. Mining helmet | http://steamcommunity.com/sharedfiles/filedetails/?id=755227567|Mco
 M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetails/?id=755224256|Mco
 殖民地管理 | Colony Manager | http://steamcommunity.com/sharedfiles/filedetails/?id=715565262|FM
+动物手术 | A Dog Said... | http://steamcommunity.com/sharedfiles/filedetails/?id=746425621|ADS
+
 
 >模组所有权为创意工坊上作者所有.
 如有侵犯你的权益,请及时向我们提出.
