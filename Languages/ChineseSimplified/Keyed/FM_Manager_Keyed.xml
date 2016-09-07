@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <!-- Main Manager Tab -->
+  <FM.Manager>管理者</FM.Manager>
+  <FM.Details>详述</FM.Details>
+  <FM.Manage>开始执行！</FM.Manage>
+  <FM.Delete>删除</FM.Delete>
+  <FM.All>全部</FM.All>
+
+  <!-- Help and alert messages for the lexically challenged. -->
+  <FM.HelpTitle>殖民地管理 V2</FM.HelpTitle>
+  <FM.HelpMessage>欢迎使用 殖民地管理 V2!\n\n殖民地管理可以设定目标，用于生产，狩猎，砍伐和畜牧。每一工作都可以通过各种管理器筛选，并通过窗口顶部的按钮访问，以及一些其他手边的屏幕。 \n\n当设定目标后，一个指派了管理工作的管理者，就会间歇性的在管理办公桌前检查这些目标和查看殖民地的物资库存，然后就会依此更新生成清单和指派工作任务。\n\n为了MOD能顺利运行，你需要做以下二件事：\n    -- 必须指派一个从事管理工作的管理者。\n    --一张管理办公桌。\n\n开心玩耍吧!</FM.HelpMessage>
+  <FM.AlertNoTableLabel>需要管理办公桌</FM.AlertNoTableLabel>
+  <FM.AlertNoTable>管理者目标已设定，但没有可用的管理办公桌</FM.AlertNoTable>
+  <FM.AlertNoManagerLabel>需要管理者</FM.AlertNoManagerLabel>
+  <FM.AlertNoManager>管理者目标已设定，但没有指派人手从事管理工作</FM.AlertNoManager>
+
+  <!-- Common -->
+  <FM.LastUpdateTooltip>这项任务的信息在{0}之前刚更新。</FM.LastUpdateTooltip>
+  <FM.OrderUp>提升任务优先级</FM.OrderUp>
+  <FM.OrderDown>降低任务优先级</FM.OrderDown>
+  <FM.OrderTop>最高优先级</FM.OrderTop>
+  <FM.OrderBottom>最低优先级</FM.OrderBottom>
+
+  <!-- History graphs -->
+  <FM.HistoryPeriod>周期</FM.HistoryPeriod>
+  <FM.HistoryShowHideLegend>显示/隐藏 图例</FM.HistoryShowHideLegend>
+  <FM.HistoryClickToEnable>\n\n单击在图表中{0} {1} 。\n右键只显示{1}。</FM.HistoryClickToEnable>
+  <FM.HistoryNoChapters>没有什么可显示！</FM.HistoryNoChapters>
+
+  <!-- Power Tab (E for energy) -->
+  <FME.PeriodShown>时间段： {0}</FME.PeriodShown>
+  <FME.PeriodShownTooltip>显示最后1{0}内电力的产出与消耗。\n\n单击改变时间段。</FME.PeriodShownTooltip>
+  <FME.Power>电力</FME.Power>
+  
+  <!-- Overview Tab -->
+  <FM.Overview>总览</FM.Overview>
+  <FM.NoJobs>没有设置任务。</FM.NoJobs>
+  <FM.Activity>当前活动</FM.Activity>
+  <FM.Enabled>工作</FM.Enabled>
+  <FM.Priority>工作</FM.Priority>
+  <FM.ClickToJumpTo>单击跳转到{0}</FM.ClickToJumpTo>
+  <FM.JobCompletedTooltip>任务已达到阈值。</FM.JobCompletedTooltip>
+  <FM.JobSuspendedTooltip>任务已暂停。\n\n点击继续执行</FM.JobSuspendedTooltip>
+  <FM.PluralSuffix></FM.PluralSuffix>
+  
+  <!--Import/Export Tab-->
+  <FM.ImportExport>导入 &amp; 导出</FM.ImportExport>
+  <FM.CurrentJobs>当前任务：</FM.CurrentJobs>
+  <FM.Export>导出</FM.Export>
+  <FM.ConfirmOverwrite>{0}已存在。\n\n你确定要覆盖么？</FM.ConfirmOverwrite>
+  <FM.JobsExported>{0}项任务已导出</FM.JobsExported>
+  <FM.JobsImported>{0}项任务已导入</FM.JobsImported>
+  <FM.InvalidJobsDeleted>{0}项非法任务被移除</FM.InvalidJobsDeleted>
+  <FM.Import>导入</FM.Import>
+  <FM.NoSaves>没发现导出数据</FM.NoSaves>
+
+  <!-- Hunting Tab -->
+  <FMH.Hunting>狩猎</FMH.Hunting>
+  <FMH.NewHuntingJob>新建任务</FMH.NewHuntingJob>
+  <FMH.NewHuntingJobTooltip>创建一个狩猎任务</FMH.NewHuntingJobTooltip>
+  <FMH.AllowHumanMeat>人肉计算在内</FMH.AllowHumanMeat>
+  <FMH.UnforbidCorpses>取消禁止的尸体</FMH.UnforbidCorpses>
+  <FMH.HuntingGrounds>狩猎的区域：</FMH.HuntingGrounds>
+  <FMH.Options>选项</FMH.Options>
+  <FMH.Animals>可选的动物</FMH.Animals>
+  <FMH.TargetCount>目标数量： {0}+{1}+{2}/{3}</FMH.TargetCount>
+  <FMH.TargetCountTooltip>目标： {3}\n贮存区数量：{0}\n屠宰预期可获得数量：{1}\n已委派工作预期可获得数量：{2}。</FMH.TargetCountTooltip>
+
+  <!-- Forestry Tab -->
+  <FMF.Forestry>砍伐</FMF.Forestry>
+  <FMF.NewForestryJob>新建任务</FMF.NewForestryJob>
+  <FMF.NewForestryJobTooltip>创建一个砍伐任务</FMF.NewForestryJobTooltip>
+  <FMF.Options>选项</FMF.Options>
+  <FMF.Trees>可选的树木</FMF.Trees>
+  <FMF.ClearWindCells>清理风力发电机风道范围内的树木</FMF.ClearWindCells>
+  <FMF.AllowSaplings>允许砍伐未成熟的树木</FMF.AllowSaplings>
+  <FMF.LoggingArea>砍伐的区域：</FMF.LoggingArea>
+  <FMF.TargetCount>目标数量： {0}+{1}/{2}</FMF.TargetCount>
+  <FMF.TargetCountTooltip>目标： {2}\n贮存区数量：{0}\n已委派工作预期可获得数量：{1}。</FMF.TargetCountTooltip>
+ <FMF.ClearAreas>清理目标区域内所有植被:</FMF.ClearAreas>
+ 
+ 
+ <!-- Foraging (Gathering) tab -->
+  <FMG.Foraging>搜寻</FMG.Foraging>
+  <FMG.NewForagingJob>新任务</FMG.NewForagingJob>
+  <FMG.NewForagingJobTooltip>创建一个新的采集任务</FMG.NewForagingJobTooltip>
+  <FMG.Options>选项</FMG.Options>
+  <FMG.TargetCount>目标数量: {0}+{1}/{2}</FMG.TargetCount>
+  <FMG.TargetCountTooltip>目标： {2}\n贮存区数量：{0}\n已委派工作预期可获得数量：{1}。</FMG.TargetCountTooltip>
+  <FMG.ForceMature>仅采集完全成熟植物</FMG.ForceMature>
+  <FMG.ForagingArea>允许采集区域:</FMG.ForagingArea>
+  <FMG.Plants>可选植物</FMG.Plants>
+
+  <!-- Production Tab -->
+  <!-- Miscelaneous -->
+  <FMP.Production>生产</FMP.Production>
+  <FMP.ManageBillTooltip>管理者开始分配管理这些清单。</FMP.ManageBillTooltip>
+  <FMP.DeleteBillTooltip>停止管理这个清单， 并清除未完成的清单</FMP.DeleteBillTooltip>
+  <FMP.FilterDesc>输入内容来过滤列表</FMP.FilterDesc>
+  <FMP.ClearFilterDesc>清空当前过滤内容</FMP.ClearFilterDesc>
+  <FMP.MainProduct>主要生产： {0} x{1}</FMP.MainProduct>
+  <FMP.NoThreshold>无阈值</FMP.NoThreshold>
+  <FMP.NoThresholdTooltip>无阈值设定</FMP.NoThresholdTooltip>
+  <FMP.SnapToHighestSkill>限制殖民者技能等级</FMP.SnapToHighestSkill>
+  <FMP.Options>选项</FMP.Options>
+  <FMP.Bill>清单</FMP.Bill>
+  <FMP.Recipe>配方</FMP.Recipe>
+  <FMP.AllowedIngredients>可选的原料：</FMP.AllowedIngredients>
+  <FMP.AllowedSkillRange>允许的技能范围:</FMP.AllowedSkillRange>
+  <FMP.PrioritizeManual>手工清单优先</FMP.PrioritizeManual>
+  <FMP.OtherRecipeAvailable>其他可用配方</FMP.OtherRecipeAvailable>
+  <FMP.OtherRecipeAvailableTooltip>生产同样产品的其他配方。\n单击替换清单的配方</FMP.OtherRecipeAvailableTooltip>
+
+  <!-- Thresholds -->
+  <FMP.ThresholdCount>阈值： {0}/{1}</FMP.ThresholdCount>
+  <FMP.ThresholdCountTooltip>--单击打开阈值细节。\n\n目标： {1}\n生产中： {0}</FMP.ThresholdCountTooltip>
+  <FMP.ThresholdDetails>阈值细节</FMP.ThresholdDetails>
+
+  <!-- BillGivers -->
+  <FMP.BillGiversCount>工作台 ({0}/{1}/{2})</FMP.BillGiversCount>
+  <FMP.BillGiversTooltip>单击改变已选择的清单给予者。\n\n可用：\n{0}\n\n已选择：\n{1}\n\n已分配：\n{2}</FMP.BillGiversTooltip>
+  <FMP.BillGiversDetails>选择工作台</FMP.BillGiversDetails>
+
+  <!-- BillGiversDetailsWindow -->
+  <FMP.AllWorkstations>所有工作台</FMP.AllWorkstations>
+  <FMP.AllWorkstationsTooltip>设定管理者允许将清单分配给所有可能的工作台。</FMP.AllWorkstationsTooltip>
+  <FMP.ByAreaAndCount>按区域 / 计数</FMP.ByAreaAndCount>
+  <FMP.ByAreaAndCountTooltip>设定管理者可将清单分配给具体区域、具体数量的工作台。</FMP.ByAreaAndCountTooltip>
+  <FMP.AllowedAreas>区域：</FMP.AllowedAreas>
+  <FMP.AllowedWorkstationCount>最大：</FMP.AllowedWorkstationCount>
+  <FMP.SpecificWorkstations>设定工作台</FMP.SpecificWorkstations>
+  <FMP.SpecificWorkstationsTooltip>设定管理者可将清单分配给具体数量的工作台。</FMP.SpecificWorkstationsTooltip>
+
+  <!-- Tab headers -->
+  <FMP.Current>当前</FMP.Current>
+  <FMP.Available>可用</FMP.Available>
+
+  <!-- Recursive job creator -->
+  <FMP.IngredientDialogTitle>创建获取原料任务</FMP.IngredientDialogTitle>
+  <FMP.SelectRecipe>选择...</FMP.SelectRecipe>
+  <FMP.SelectRecipeTooltip>单击选择{0}的配方</FMP.SelectRecipeTooltip>
+  <FMP.SelectRecipeTooltipSelected>\n\n当前配方需要：</FMP.SelectRecipeTooltipSelected>
+  <FMP.DoNotUseRecipe>(无)</FMP.DoNotUseRecipe>
+  <FMP.SelectIngredient>选择...</FMP.SelectIngredient>
+  <FMP.SelectIngredientTooltip>单击选择{0}所需的材料 (需求 {1})</FMP.SelectIngredientTooltip>
+  <FMP.IngredientCount>\n{0} ({1})</FMP.IngredientCount>
+  <FMP.RawResource>(未加工资源)</FMP.RawResource>
+  <FMP.RawResourceTooltip>{0}是未加工资源(没找到可固定产出{0}的配方)</FMP.RawResourceTooltip>
+  <FMP.AddIngredientBills>创建任务</FMP.AddIngredientBills>
+  <FMP.IncreasedThreshold>增加{0}的阈值到{1}。</FMP.IncreasedThreshold>
+  <FMP.AddedJob>创建任务{0}。</FMP.AddedJob>
+  <FMP.CouldNotAddJob>创建任务 {0}失败。</FMP.CouldNotAddJob>
+
+  <!-- Livestock tab -->
+  <FML.Livestock>牲畜</FML.Livestock>
+  <FML.TargetCounts>目标数量</FML.TargetCounts>
+  <FML.Adult>成年</FML.Adult>
+  <FML.Juvenile>幼仔</FML.Juvenile>
+  <FML.Training>训练</FML.Training>
+  <FML.RestrictToArea>动物驯服后需要送往活动区域?</FML.RestrictToArea>
+  <FML.ButcherExcess>屠宰过剩的牲畜</FML.ButcherExcess>
+  <FML.ButcherTrained>屠宰过剩的受训牲畜</FML.ButcherTrained>
+  <FML.TameMore>自动指定要驯化的动物</FML.TameMore>
+  <FML.TameArea>驯化工作的区域：</FML.TameArea>
+  <FML.Animals>动物</FML.Animals>
+  <FML.ListEntryTooltip>{0}：\n{1}/{5}成年雌性\n{2}/{6}成年雄性\n{3}/{7}未成年雌性\n{4}/{8}未成年雄性</FML.ListEntryTooltip>
+  <FML.TameWildCount>{0}只驯服， {1}只野生。</FML.TameWildCount>
+  <FML.Tame>驯服</FML.Tame>
+  <FML.Wild>野生</FML.Wild>
+  <FML.NoAnimals>没有{0}动物</FML.NoAnimals>
+  <FML.GenderHeader>性别</FML.GenderHeader>
+  <FML.AgeHeader>年龄 (生命期)</FML.AgeHeader>
+  <FML.MeatHeader>屠宰后的预期数量</FML.MeatHeader>
+  <FML.MilkHeader>下一次挤奶进度</FML.MilkHeader>
+  <FML.WoolHeader>下一次剪毛进度</FML.WoolHeader>
+  <FML.Yields>产量 {0} x{1}</FML.Yields>
+  <FML.TrainYoung>训练幼仔</FML.TrainYoung>
+
+</LanguageData>

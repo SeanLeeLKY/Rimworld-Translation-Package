@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ManagingSoftware.label>FM-基本管理软件</ManagingSoftware.label>
+	<ManagingSoftware.description>开发简易的殖民地管理软件。可以建造带有电脑的管理办公桌，预装一款有大量BUG的免费管理软件。</ManagingSoftware.description>
+
+	<AdvancedManagingSoftware.label>FM-高级管理软件</AdvancedManagingSoftware.label>
+	<AdvancedManagingSoftware.description>开发高级的殖民地管理软件。随着人工智能和殖民地感知计算机的进展，可以建造一种预装FluffyOS的殖民地感知超级计算机。一些殖民者汇报门不断被开启和打开、空调系统失控、电熔炉突然开启。然而制造商却保证FluffyOS不会杀死殖民地。</AdvancedManagingSoftware.description>
+
+	<PowerManagement.label>FM-电力管理</PowerManagement.label>
+	<PowerManagement.description>创建管理软件来监测殖民地的电力使用情况。</PowerManagement.description>
+
+</LanguageData>

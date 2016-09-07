@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Managing.description>管理者分配任务和订单给殖民地。</Managing.description>
+	<Managing.labelShort>管理</Managing.labelShort>
+	<Managing.pawnLabel>管理者</Managing.pawnLabel>
+	<Managing.gerundLabel>正在管理</Managing.gerundLabel>
+	<Managing.verb>管理</Managing.verb>
+
+</LanguageData>

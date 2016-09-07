@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<FM_BasicManagerStation.label>简易管理办公桌</FM_BasicManagerStation.label>
+	<FM_BasicManagerStation.Description>一张简易的桌子，管理者可以在此开展他的管理工作。</FM_BasicManagerStation.Description>
+
+	<FM_ManagerStation.label>管理办公桌</FM_ManagerStation.label>
+	<FM_ManagerStation.Description>一张配有电脑的桌子，让管理者更有效率的开展管理工作。</FM_ManagerStation.Description>
+
+	<FM_AIManager.label>人工智能超级计算机</FM_AIManager.label>
+	<FM_AIManager.Description>一个可以自主的管理殖民地的巨大超级计算机。有传闻说AI已经被一个恶毒的变态子程序控制，我们澄清这是子虚乌有！</FM_AIManager.Description>
+
+</LanguageData>

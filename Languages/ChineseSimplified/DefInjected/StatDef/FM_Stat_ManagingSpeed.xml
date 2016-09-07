@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ManagingSpeed.label>管理速度</ManagingSpeed.label>
+	<ManagingSpeed.description>这个人从事管理工作时的管理速度系数。</ManagingSpeed.description>
+
+</LanguageData>
