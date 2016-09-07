@@ -28,11 +28,11 @@ DE更多手术    | DE Surgeries    | http://steamcommunity.com/sharedfiles/file
 外科手术 |NaturalSurgery | 稍后添加 |NS 
 医疗信息 |Medical Tab | http://steamcommunity.com/sharedfiles/filedetails/?id=715565817|RW_M
 数据概览 |Numbers | http://steamcommunity.com/sharedfiles/filedetails/?id=728978927|KNU
-炮塔扩展 | Extend_Turrents | https://ludeon.com/forums/index.php?topic=6770.0 | Ex_Tur
-M&Co.激光栅栏 | M&Co. Laser fence | https://ludeon.com/forums/index.php?topic=14711|Mco
-M&Co.立场护盾 | M&Co. Force Field | https://ludeon.com/forums/index.php?topic=14711|Mco
-M&Co.挖矿头盔 | M&Co. Mining helmet | https://ludeon.com/forums/index.php?topic=14711|Mco
-M&Co.矿物雷达 | M&Co. MMS | https://ludeon.com/forums/index.php?topic=14711|Mco
+炮塔扩展 | Extend_Turrents | http://steamcommunity.com/sharedfiles/filedetails/?id=754095466 | Ex_Tur
+M&Co.激光栅栏 | M&Co. Laser fence | http://steamcommunity.com/sharedfiles/filedetails/?id=755234383|Mco
+M&Co.立场护盾 | M&Co. Force Field | http://steamcommunity.com/sharedfiles/filedetails/?id=743427584|Mco
+M&Co.挖矿头盔 | M&Co. Mining helmet | http://steamcommunity.com/sharedfiles/filedetails/?id=755227567|Mco
+M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetails/?id=755224256|Mco
 
 
 >模组所有权为创意工坊上作者所有.
