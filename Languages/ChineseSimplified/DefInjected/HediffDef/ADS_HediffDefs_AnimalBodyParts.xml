@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<BionicEyeAnimal.label>仿生动物眼</BionicEyeAnimal.label>
+
+	<JawAnimalBionic.label>仿生动物颌</JawAnimalBionic.label>
+
+	<JawAnimalSimple.label>简易动物颌</JawAnimalSimple.label>
+
+	<SpineAnimalBionic.label>仿生动物脊柱</SpineAnimalBionic.label>
+
+	<SpineAnimalSimple.label>简易动物脊柱</SpineAnimalSimple.label>
+
+	<EarAnimalSimple.label>简易动物耳</EarAnimalSimple.label>
+
+	<EarAnimalBionic.label>仿生动物耳</EarAnimalBionic.label>
+
+	<AnimalBrainStimulator.label>动物脑刺激器</AnimalBrainStimulator.label>
+
+	<BionicAnimalHeart.label>仿生动物心脏</BionicAnimalHeart.label>
+
+	<BionicAnimalLung.label>仿生动物肺</BionicAnimalLung.label>
+
+	<BionicLegAnimal.label>仿生动物腿</BionicLegAnimal.label>
+
+	<SimpleProstheticLegAnimal.label>简易动物腿</SimpleProstheticLegAnimal.label>
+
+	<BionicArmAnimal.label>仿生动物臂</BionicArmAnimal.label>
+
+	<SimpleProstheticArmAnimal.label>简易动物臂</SimpleProstheticArmAnimal.label>
+
+</LanguageData>

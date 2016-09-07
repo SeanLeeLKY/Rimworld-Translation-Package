@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MakeSimpleProstheticArmAnimal.label>制作动物人工臂</MakeSimpleProstheticArmAnimal.label>
+
+	<MakeSimpleProstheticArmAnimal.description>制作动物人工臂。</MakeSimpleProstheticArmAnimal.description>
+
+	<MakeSimpleProstheticArmAnimal.jobString>正在制作动物人工臂。</MakeSimpleProstheticArmAnimal.jobString>
+
+	<MakeSimpleProstheticLegAnimal.label>制作动物人工腿</MakeSimpleProstheticLegAnimal.label>
+
+	<MakeSimpleProstheticLegAnimal.description>制作动物人工腿。</MakeSimpleProstheticLegAnimal.description>
+
+	<MakeSimpleProstheticLegAnimal.jobString>正在制作动物人工腿。</MakeSimpleProstheticLegAnimal.jobString>
+
+	<MakeJawAnimalSimple.label>制作动物人工颌</MakeJawAnimalSimple.label>
+
+	<MakeJawAnimalSimple.description>制作动物人工颌。</MakeJawAnimalSimple.description>
+
+	<MakeJawAnimalSimple.jobString>正在制作动物人工颌。</MakeJawAnimalSimple.jobString>
+
+	<MakeSpineAnimalSimple.label>制作动物人工脊椎</MakeSpineAnimalSimple.label>
+
+	<MakeSpineAnimalSimple.description>制作动物人工脊椎。</MakeSpineAnimalSimple.description>
+
+	<MakeSpineAnimalSimple.jobString>正在制作动物人工脊椎。</MakeSpineAnimalSimple.jobString>
+
+	<MakeEarAnimalSimple.label>制作动物人工耳</MakeEarAnimalSimple.label>
+
+	<MakeEarAnimalSimple.description>制作动物人工耳。</MakeEarAnimalSimple.description>
+
+	<MakeEarAnimalSimple.jobString>正在制作动物人工耳。</MakeEarAnimalSimple.jobString>
+
+	<MakeBionicArmAnimal.label>制作动物仿生臂</MakeBionicArmAnimal.label>
+
+	<MakeBionicArmAnimal.description>制作动物仿生臂。</MakeBionicArmAnimal.description>
+
+	<MakeBionicArmAnimal.jobString>正在制作动物仿生臂。</MakeBionicArmAnimal.jobString>
+
+	<MakeBionicLegAnimal.label>制作动物仿生腿</MakeBionicLegAnimal.label>
+
+	<MakeBionicLegAnimal.description>制作动物仿生腿。</MakeBionicLegAnimal.description>
+
+	<MakeBionicLegAnimal.jobString>正在制作动物仿生腿。</MakeBionicLegAnimal.jobString>
+
+	<MakeBionicEyeAnimal.label>制作动物仿生眼</MakeBionicEyeAnimal.label>
+
+	<MakeBionicEyeAnimal.description>制作动物仿生眼。</MakeBionicEyeAnimal.description>
+
+	<MakeBionicEyeAnimal.jobString>正在制作动物仿生眼。</MakeBionicEyeAnimal.jobString>
+
+	<MakeJawAnimalBionic.label>制作动物仿生颌</MakeJawAnimalBionic.label>
+
+	<MakeJawAnimalBionic.description>制作动物仿生颌。</MakeJawAnimalBionic.description>
+
+	<MakeJawAnimalBionic.jobString>正在制作动物仿生颌。</MakeJawAnimalBionic.jobString>
+
+	<MakeSpineAnimalBionic.label>制作动物仿生脊椎</MakeSpineAnimalBionic.label>
+
+	<MakeSpineAnimalBionic.description>制作动物仿生脊椎。</MakeSpineAnimalBionic.description>
+
+	<MakeSpineAnimalBionic.jobString>正在制作动物仿生脊椎。</MakeSpineAnimalBionic.jobString>
+
+	<MakeEarAnimalBionic.label>制作动物仿生耳</MakeEarAnimalBionic.label>
+
+	<MakeEarAnimalBionic.description>制作动物仿生耳。</MakeEarAnimalBionic.description>
+
+	<MakeEarAnimalBionic.jobString>正在制作动物仿生耳。</MakeEarAnimalBionic.jobString>
+
+	<MakeAnimalBrainStimulator.label>制作动物脑刺激器</MakeAnimalBrainStimulator.label>
+
+	<MakeAnimalBrainStimulator.description>制作动物脑刺激器。</MakeAnimalBrainStimulator.description>
+
+	<MakeAnimalBrainStimulator.jobString>正在制作动物脑刺激器。</MakeAnimalBrainStimulator.jobString>
+
+	<MakeBionicAnimalHeart.label>制作动物仿生心脏</MakeBionicAnimalHeart.label>
+
+	<MakeBionicAnimalHeart.description>制作动物仿生心脏。</MakeBionicAnimalHeart.description>
+
+	<MakeBionicAnimalHeart.jobString>正在制作动物仿生心脏。</MakeBionicAnimalHeart.jobString>
+
+	<MakeBionicAnimalLung.label>制作动物仿生肺</MakeBionicAnimalLung.label>
+
+	<MakeBionicAnimalLung.description>制作动物仿生肺。</MakeBionicAnimalLung.description>
+
+	<MakeBionicAnimalLung.jobString>正在制作动物仿生肺。</MakeBionicAnimalLung.jobString>
+
+</LanguageData>
