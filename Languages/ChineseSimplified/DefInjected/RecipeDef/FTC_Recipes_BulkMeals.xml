@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Cook4MealSimple.label>制作4份简单食物</Cook4MealSimple.label>
+	<Cook4MealSimple.description>用单一的材料制作4份简单食物。至于味道嘛~不说也罢。</Cook4MealSimple.description>
+	<Cook4MealSimple.jobString>烹饪4份简单食物。</Cook4MealSimple.jobString>
+
+	<Cook4MealFine.label>制作4份精致食物</Cook4MealFine.label>
+	<Cook4MealFine.description>用肉类和植物原料混合，通过一定的工序烹制4份荤素搭配合理的食物。看起来就很有食欲，不是么？</Cook4MealFine.description>
+	<Cook4MealFine.jobString>烹饪4份精致食物。</Cook4MealFine.jobString>
+
+	<Cook4MealLavish.label>制作4份奢侈食物</Cook4MealLavish.label>
+	<Cook4MealLavish.description>用肉类和植物原料混合，通过复杂的工序烹制4份非常奢侈的食物。其实大部分原料都浪费了，有什么呢？就是这么任性！</Cook4MealLavish.description>
+	<Cook4MealLavish.jobString>烹饪4份奢侈食物。</Cook4MealLavish.jobString>
+
+	<Make4Pemmican.label>制作4份干肉饼</Make4Pemmican.label>
+	<Make4Pemmican.description>用肉类和植物原料简单混合，通过几道简单工序制作4堆充满原始野性味道的干肉饼。这东西一点也不好吃，仅仅用来充饥，能存储较长的时间估计是它唯一的优点了。</Make4Pemmican.description>
+	<Make4Pemmican.jobString>制作4份干肉饼。</Make4Pemmican.jobString>
+
+	<Make4Kibble.label>制作4份粗饲料</Make4Kibble.label>
+	<Make4Kibble.description>制作4堆肉类原料和植物原料混合研磨的动物饲料。</Make4Kibble.description>
+	<Make4Kibble.jobString>制作4堆粗饲料。</Make4Kibble.jobString>
+
+</LanguageData>
