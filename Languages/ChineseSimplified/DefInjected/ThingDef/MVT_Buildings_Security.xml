@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- <Shallowmoat.label>浅水护城河</Shallowmoat.label><Shallowmoat.description>一种能够减慢敌人的速度的轻量级防御设施。能够部署在任何可以挖掘的地形，也可以通过“移除地板”命令来去除。</Shallowmoat.description>
+ -->	
+ <Shallowmoat.label>AAAAA</Shallowmoat.label>
+	
+	
+
+	<Turret_DevastatorMortarBomb.label>毁灭者迫击炮</Turret_DevastatorMortarBomb.label>
+
+	<Turret_DevastatorMortarBomb.description>通过电磁弹射发射5发拥有高速度和高精度的爆裂榴弹，它不需要炮弹供应但是需要强大的电力保障。一定要万分注意，受损严重时会发生猛烈爆炸。</Turret_DevastatorMortarBomb.description>
+
+	<GunComplex.label>复合机枪炮塔</GunComplex.label>
+
+	<GunComplex.description>手动操作。周围都安装了枪，如果有人操作，它可以无所顾虑的工作下去。</GunComplex.description>
+
+	<RocketComplex.label>复合火箭炮塔</RocketComplex.label>
+
+	<RocketComplex.description>手动操作，消耗弹药。需要手动操作和重装的老式武器，但有了光学瞄准和致命爆炸半径的辅助依然是前线致命的武器。</RocketComplex.description>
+
+	<MilitaryTurretGun.label>军用级炮塔</MilitaryTurretGun.label>
+
+	<MilitaryTurretGun.description>一种自动炮塔的更强大变种版本，双长炮管增加了射程和更加强大的火力，损伤严重时会爆炸。</MilitaryTurretGun.description>
+
+	<PrecisionTurretGun.label>精准炮塔</PrecisionTurretGun.label>
+
+	<PrecisionTurretGun.description>一个高度精准的炮塔，先进的光学瞄准可在相当长的距离得到精准的射击精度。</PrecisionTurretGun.description>
+	
+	<BlastTurretGun.label>掷弹炮塔</BlastTurretGun.label>
+
+	<BlastTurretGun.description>掷弹炮塔被设计用来近距离交战时造成区域伤害, 它的火力构成是由炮塔发射的三枚破片榴弹组成，损伤严重时会爆炸。</BlastTurretGun.description>
+
+
+	<ShredderTurretGun.label>粉碎者炮塔</ShredderTurretGun.label>
+
+	<ShredderTurretGun.description>粉碎者炮塔专门用来近距离防御，损毁时爆炸范围小，因此是室内防御的完美选择，唯一的缺点是，它需要的空间比普通炮塔多。</ShredderTurretGun.description>
+
+	<VulcanCannon.label>火神炮塔</VulcanCannon.label>
+
+	<VulcanCannon.description>坚固的机枪炮塔，非常耐用但也非常耗电。位置较高所以射程较远，但不幸的是它无法射击下方和近距离的目标，无法在室内布置，损伤严重会大爆炸。</VulcanCannon.description>
+
+</LanguageData>

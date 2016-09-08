@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_TurretMilitary.label>军用级炮塔弹药</Bullet_TurretMilitary.label>
+	<Gun_TurretMilitary.label>军用级炮塔用炮</Gun_TurretMilitary.label>
+	<Gun_TurretMilitary.description>精心制作的机枪。</Gun_TurretMilitary.description>
+
+	<Bullet_GunComplex.label>复合机枪炮塔弹药</Bullet_GunComplex.label>
+	<Gun_GunComplex.label>复合机枪炮塔用机枪</Gun_GunComplex.label>
+	<Gun_GunComplex.description>重机枪。</Gun_GunComplex.description>
+
+	<Bullet_VulcanCannon.label>火神炮塔弹药</Bullet_VulcanCannon.label>
+	<Gun_VulcanCannon.label>火神炮塔用枪</Gun_VulcanCannon.label>
+	<Gun_VulcanCannon.description>精心制作的机枪。</Gun_VulcanCannon.description>
+
+	<Bullet_TurretShredder.label>粉碎者炮塔弹药</Bullet_TurretShredder.label>
+	<Gun_TurretShredder.label>粉碎者炮塔用枪</Gun_TurretShredder.label>
+	<Gun_TurretShredder.description>精心制作的机枪。</Gun_TurretShredder.description>
+
+	<Bullet_ComplexRocket.label>复合火箭弹</Bullet_ComplexRocket.label>
+	<Gun_RocketComplex.label>复合火箭弹</Gun_RocketComplex.label>
+	<Gun_RocketComplex.description>在平板上安装的复合火箭弹。</Gun_RocketComplex.description>
+
+	<Bullet_DevastatorBomb.label>爆炸毁灭弹</Bullet_DevastatorBomb.label>
+	<Artillery_DevastatorBomb.label>毁灭者迫击炮</Artillery_DevastatorBomb.label>
+	<Artillery_DevastatorBomb.description>迫击炮。</Artillery_DevastatorBomb.description>
+
+	<Bullet_TurretPrecision.label>精准炮塔弹药</Bullet_TurretPrecision.label>
+	<Gun_TurretPrecision.label>精准炮塔用枪</Gun_TurretPrecision.label>
+	<Gun_TurretPrecision.description>精心制作的机枪。</Gun_TurretPrecision.description>
+	
+	<Bullet_BlastCharge.label>爆裂弹夹</Bullet_BlastCharge.label>
+	<Gun_BlastCharge.label>复合爆裂弹</Gun_BlastCharge.label>
+	<Gun_BlastCharge.description>一个固定防御位置上的爆裂弹发射器。</Gun_BlastCharge.description>
+	
+	<Bullet_DevastatorBomb.label>毁灭者榴弹</Bullet_DevastatorBomb.label>
+	<Artillery_DevastatorBomb.label>毁灭者迫击炮</Artillery_DevastatorBomb.label>
+	<Artillery_DevastatorBomb.description>发射能够飞跃围墙的炮弹，虽然精准度不高，但是长射程和弹丸的高初速弥补了这一点。</Artillery_DevastatorBomb.description>
+
+</LanguageData>

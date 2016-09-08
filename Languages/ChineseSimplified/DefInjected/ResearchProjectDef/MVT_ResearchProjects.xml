@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+
+	<MilitaryTurret.label>MVT：军用级炮塔</MilitaryTurret.label>
+
+	<MilitaryTurret.description>解锁建造更先进的军用级无人炮塔.</MilitaryTurret.description>
+
+	<ShredderTurret.label>MVT：粉碎者炮塔</ShredderTurret.label>
+
+	<ShredderTurret.description>解锁建造近距致命的粉碎者炮塔。</ShredderTurret.description>
+
+	<VulcanCannon.label>MVT：火神炮</VulcanCannon.label>
+
+	<VulcanCannon.description>解锁建造火神炮。</VulcanCannon.description>
+
+	<DevastatorMortar.label>MVT：毁灭者迫击炮</DevastatorMortar.label>
+
+	<DevastatorMortar.description>解锁建造毁灭者迫击炮.</DevastatorMortar.description>
+
+	<GunComplex.label>MVT：复合机枪炮塔</GunComplex.label>
+
+	<GunComplex.description>允许殖民地建造人工操作的重机枪防御阵地。</GunComplex.description>
+
+	<RocketComplex.label>MVT：复合火箭炮塔</RocketComplex.label>
+
+	<RocketComplex.description>允许殖民地建造人工操作的火箭炮防御阵地。</RocketComplex.description>
+
+	<PrecisionTurret.label>MVT：精准炮塔</PrecisionTurret.label>
+
+	<PrecisionTurret.description>允许殖民地建造长程精准炮塔。</PrecisionTurret.description>
+
+	<BlastTurret.label>MVT：掷弹炮塔</BlastTurret.label>
+
+	<BlastTurret.description>允许建造相当强力的掷弹炮塔。</BlastTurret.description>
+
+</LanguageData>
