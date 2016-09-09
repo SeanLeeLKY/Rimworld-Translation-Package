@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ConcreteMixer.label>混凝土搅拌器</ConcreteMixer.label>
+
+	<ConcreteMixer.Description>混凝土搅拌器。</ConcreteMixer.Description>
+
+	<EAF.label>电弧炉</EAF.label>
+
+	<EAF.Description>一种用于钢铁生产的电弧炉，高效但非常耗电。</EAF.Description>
+
+	<DeepMine.label>深矿</DeepMine.label>
+
+	<DeepMine.Description>你可以从矿井里开采各种资源，必须建立在矿洞上。（太空矿机可以用等离子钻头在钻井地点挖掘一个矿洞。)</DeepMine.Description>
+
+	<Refinery.label>精炼设备</Refinery.label>
+
+	<Refinery.description>精炼设备可以加快采矿的速度，可联接到深矿，采矿速度+20%。（深矿只能联接一个精炼设备）</Refinery.description>
+
+	<PlasmaDrillDeployed.label>钻井地点</PlasmaDrillDeployed.label>
+
+	<PlasmaDrillDeployed.description></PlasmaDrillDeployed.description>
+
+	<PlasmaDrillAction.label>运作中的等离子钻头</PlasmaDrillAction.label>
+
+	<PlasmaDrillAction.description></PlasmaDrillAction.description>
+
+</LanguageData>

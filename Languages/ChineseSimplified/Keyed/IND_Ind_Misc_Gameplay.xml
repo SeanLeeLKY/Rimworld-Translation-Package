@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- Various -->
+
+<PlasmaDrillingOrderSend>开掘命令已经发送给太空钻机。</PlasmaDrillingOrderSend>
+<LowOrbitPlasmaDrillApproaching>太空钻机接近中...</LowOrbitPlasmaDrillApproaching>
+<InitiatingPlasmaDrilling>注意：太空钻机到达位置，启动等离子钻头。</InitiatingPlasmaDrilling>
+<PlasmaDrillingComplete>开掘命令结束。</PlasmaDrillingComplete>
+<NuclearMeltdownStart>警告：核反应堆过热……</NuclearMeltdownStart>
+<NuclearMeltdown>警告：核反应堆熔毁。</NuclearMeltdown>
+<MustPlaceOnMiningHole>必须建造在矿洞上。</MustPlaceOnMiningHole>
+  
+</LanguageData>

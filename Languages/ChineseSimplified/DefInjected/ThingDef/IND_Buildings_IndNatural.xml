@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MiningHole.label>矿洞</MiningHole.label>
+
+	<MiningHole.description>一个矿洞。</MiningHole.description>
+
+	<MineableCopper.label>压实的铜材</MineableCopper.label>
+
+	<MineableCopper.description>一些古代的遗迹、倒塌的建筑。含有丰富的铜。</MineableCopper.description>
+
+	<MineableAluminium.label>压实的铝材</MineableAluminium.label>
+
+	<MineableAluminium.description>一些古代的遗迹、倒塌的建筑。含有丰富的铝。</MineableAluminium.description>
+
+</LanguageData>

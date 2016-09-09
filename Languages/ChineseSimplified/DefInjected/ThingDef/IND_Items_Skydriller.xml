@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_PlasmaDrill.label>等离子体钻头</Bullet_PlasmaDrill.label>
+
+	<SkyDriller.label>太空钻机</SkyDriller.label>
+
+	<SkyDriller.description>太空钻机是低轨道等离子体钻机，可以在特定位置操作等离子体钻头开采作业。注：太空钻机不能钻通山脉。</SkyDriller.description>
+
+</LanguageData>

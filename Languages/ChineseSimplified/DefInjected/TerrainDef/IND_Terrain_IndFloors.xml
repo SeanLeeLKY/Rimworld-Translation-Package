@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<CopperTile.label>铜制地砖</CopperTile.label>
+	<CopperTile.Description>美丽的铜制地砖。</CopperTile.Description>
+	
+	<ConcreteFoundation.label>混凝土地基</ConcreteFoundation.label>
+	<ConcreteFoundation.Description>混凝土地基可以在软地形上建造建筑。</ConcreteFoundation.Description>
+
+	 <AluminiumTile.label>铝制地砖</AluminiumTile.label>
+	<AluminiumTile.Description>铝制地砖，亮光闪闪。</AluminiumTile.Description>
+
+</LanguageData>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<TableShortModular.label>组合桌</TableShortModular.label>
+	<TableShortModular.description>可以组合的桌子。人们会坐在对着桌子的椅子上吃饭。</TableShortModular.description>
+
+	<StoolLinkable.label>组合凳</StoolLinkable.label>
+	<StoolLinkable.description>可以组合的凳子。人们可以坐在上面。</StoolLinkable.description>
+
+</LanguageData>

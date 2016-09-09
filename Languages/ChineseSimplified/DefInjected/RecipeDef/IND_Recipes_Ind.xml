@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MixConcrete.label>预拌混凝土</MixConcrete.label>
+
+	<MixConcrete.description>将石头块搅拌成混凝土。</MixConcrete.description>
+
+	<MixConcrete.jobString>预拌混凝土</MixConcrete.jobString>
+
+	<ExtractMetalFromSlagEAF.label>从废墟中提炼金属</ExtractMetalFromSlagEAF.label>
+
+	<ExtractMetalFromSlagEAF.description>使用电弧炉从金属废渣中提炼出有用的金属。</ExtractMetalFromSlagEAF.description>
+
+	<ExtractMetalFromSlagEAF.jobString>正在从金属废渣中提炼金属。</ExtractMetalFromSlagEAF.jobString>
+
+	<SmeltWeaponEAF.label>从武器中提炼金属</SmeltWeaponEAF.label>
+
+	<SmeltWeaponEAF.description>用强热和电磁铁从武器中提炼金属。</SmeltWeaponEAF.description>
+
+	<SmeltWeaponEAF.jobString>正在从武器中提炼金属。</SmeltWeaponEAF.jobString>
+
+	<MakeSteelxEAF.label>炼制高级钢</MakeSteelxEAF.label>
+
+	<MakeSteelxEAF.description>用电弧炉把钢炼制成高级钢。</MakeSteelxEAF.description>
+
+	<MakeSteelxEAF.jobString>将钢炼制成高级钢。</MakeSteelxEAF.jobString>
+
+		<MiningDeepSteel.label>开采地下钢矿</MiningDeepSteel.label>
+	<MiningDeepSteel.description>开采地下钢矿.</MiningDeepSteel.description>
+	<MiningDeepSteel.jobString>开采地下钢矿.</MiningDeepSteel.jobString>
+
+	<MiningDeepPlasteel.label>开采地下塑钢</MiningDeepPlasteel.label>
+	<MiningDeepPlasteel.description>开采地下塑钢.</MiningDeepPlasteel.description>
+	<MiningDeepPlasteel.jobString>开采地下塑钢.</MiningDeepPlasteel.jobString>
+
+	<MiningDeepCopperOre.label>开采地下铜矿</MiningDeepCopperOre.label>
+	<MiningDeepCopperOre.description>开采地下铜矿.</MiningDeepCopperOre.description>
+	<MiningDeepCopperOre.jobString>开采地下铜矿.</MiningDeepCopperOre.jobString>
+
+	<MiningDeepAluminiumOre.label>开采地下铝矿</MiningDeepAluminiumOre.label>
+	<MiningDeepAluminiumOre.description>开采地下铝矿.</MiningDeepAluminiumOre.description>
+	<MiningDeepAluminiumOre.jobString>开采地下铝矿.</MiningDeepAluminiumOre.jobString>
+
+	<MiningDeepUraniumOre.label>开采地下铀矿</MiningDeepUraniumOre.label>
+	<MiningDeepUraniumOre.description>开采地下铀矿.</MiningDeepUraniumOre.description>
+	<MiningDeepUraniumOre.jobString>开采地下铀矿.</MiningDeepUraniumOre.jobString>
+
+	<MiningDeepSilverOre.label>开采地下银矿</MiningDeepSilverOre.label>
+	<MiningDeepSilverOre.description>开采地下银矿.</MiningDeepSilverOre.description>
+	<MiningDeepSilverOre.jobString>开采地下银矿.</MiningDeepSilverOre.jobString>
+
+	<MiningDeepGoldOre.label>开采地下金矿</MiningDeepGoldOre.label>
+	<MiningDeepGoldOre.description>开采地下金矿.</MiningDeepGoldOre.description>
+	<MiningDeepGoldOre.jobString>开采地下金矿.</MiningDeepGoldOre.jobString>
+
+	<MiningSandstone.label>开采沙石块</MiningSandstone.label>
+	<MiningSandstone.description>开采沙石块.</MiningSandstone.description>
+	<MiningSandstone.jobString>开采沙石块.</MiningSandstone.jobString>
+
+	<MiningGranite.label>开采花岗岩</MiningGranite.label>
+	<MiningGranite.description>开采花岗岩.</MiningGranite.description>
+	<MiningGranite.jobString>开采花岗岩.</MiningGranite.jobString>
+
+	<MiningLimestone.label>开采石灰岩</MiningLimestone.label>
+	<MiningLimestone.description>开采石灰岩.</MiningLimestone.description>
+	<MiningLimestone.jobString>开采石灰岩.</MiningLimestone.jobString>
+
+	<MiningSlate.label>开采板岩</MiningSlate.label>
+	<MiningSlate.description>开采板岩.</MiningSlate.description>
+	<MiningSlate.jobString>开采板岩.</MiningSlate.jobString>
+
+	<MiningMarble.label>开采大理石</MiningMarble.label>
+	<MiningMarble.description>开采大理石.</MiningMarble.description>
+	<MiningMarble.jobString>开采大理石.</MiningMarble.jobString>
+
+
+</LanguageData>
