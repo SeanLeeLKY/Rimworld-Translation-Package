@@ -37,6 +37,8 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 动物手术 | A Dog Said... | http://steamcommunity.com/sharedfiles/filedetails/?id=746425621|ADS
 批量料理 | Feed The Colonists | 稍后添加|FTC
 更多炮塔 | More Vanilla Turrets | 稍后添加|MVT
+工业化 | Industrialisation  | 稍后添加|IND
+组合家具  | Modular Tables | 稍后添加|MT
 
 
 >模组所有权为创意工坊上作者所有.
