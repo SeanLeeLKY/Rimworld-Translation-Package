@@ -25,7 +25,7 @@ DE更多手术    | DE Surgeries    | http://steamcommunity.com/sharedfiles/file
 机器人-制造 | Misc. Robot | http://steamcommunity.com/sharedfiles/filedetails/?id=724602224 | MAI
 闪耀科技 | Glitter Tech | http://steamcommunity.com/sharedfiles/filedetails/?id=725576127 | GT
 石材调整 |Stonecutting Tweak | http://steamcommunity.com/sharedfiles/filedetails/?id=672711525|SCT
-外科手术 |NaturalSurgery | 稍后添加 |NS 
+外科手术 |NaturalSurgery | https://ludeon.com/forums/index.php?topic=8848.0 |NS 
 医疗信息 |Medical Tab | http://steamcommunity.com/sharedfiles/filedetails/?id=715565817|RW_M
 数据概览 |Numbers | http://steamcommunity.com/sharedfiles/filedetails/?id=728978927|KNU
 炮塔扩展 | Extend_Turrents | http://steamcommunity.com/sharedfiles/filedetails/?id=754095466 | Ex_Tur
@@ -35,10 +35,10 @@ M&Co.挖矿头盔 | M&Co. Mining helmet | http://steamcommunity.com/sharedfiles/
 M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetails/?id=755224256|Mco
 殖民地管理 | Colony Manager | http://steamcommunity.com/sharedfiles/filedetails/?id=715565262|FM
 动物手术 | A Dog Said... | http://steamcommunity.com/sharedfiles/filedetails/?id=746425621|ADS
-批量料理 | Feed The Colonists | 稍后添加|FTC
-更多炮塔 | More Vanilla Turrets | 稍后添加|MVT
-工业化 | Industrialisation  | 稍后添加|IND
-组合家具  | Modular Tables | 稍后添加|MT
+批量料理 | Feed The Colonists | http://steamcommunity.com/sharedfiles/filedetails/?id=729690064|FTC
+更多炮塔 | More Vanilla Turrets | http://steamcommunity.com/sharedfiles/filedetails/?id=730528968|MVT
+工业化 | Industrialisation  | http://steamcommunity.com/sharedfiles/filedetails/?id=741151997|IND
+组合家具  | Modular Tables | http://steamcommunity.com/sharedfiles/filedetails/?id=672718149|MT
 
 
 >模组所有权为创意工坊上作者所有.
