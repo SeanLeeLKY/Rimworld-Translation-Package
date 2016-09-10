@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<rep>
+		<path>AteRawFish.stages[0].label</path>
+		<trans>吃了生鱼</trans>
+	</rep>
+
+	<rep>
+		<path>AteRawFish.stages[0].description</path>
+		<trans>我逼不得已吃了生鱼，但我又不是熊! 如果我能烤熟它才吃...</trans>
+	</rep>
+
+</LanguageData>

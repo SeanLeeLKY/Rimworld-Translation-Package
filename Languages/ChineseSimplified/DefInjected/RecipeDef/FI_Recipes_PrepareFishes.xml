@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MakeFishingRod.label>制作鱼竿</MakeFishingRod.label>
+
+	<MakeFishingRod.description>利用一些木头丶线和钢铁做成钓竿与鱼钩。</MakeFishingRod.description>
+
+	<MakeFishingRod.jobString>正在制作钓竿。</MakeFishingRod.jobString>
+
+        
+	
+	
+
+	<PrepareSduiggles.label>处理乌贼</PrepareSduiggles.label>
+
+	<PrepareSduiggles.description>将乌贼切断制成7块凝胶状的触须。</PrepareSduiggles.description>
+
+	<PrepareSduiggles.jobString>正在处理乌贼。</PrepareSduiggles.jobString>
+
+	<PrepareSeasnake.label>海蛇去内脏</PrepareSeasnake.label>
+
+	<PrepareSeasnake.description>将海蛇内脏去除制成可烧烤的海蛇片。</PrepareSeasnake.description>
+
+	<PrepareSeasnake.jobString>正在海蛇去内脏。</PrepareSeasnake.jobString>
+
+	<PrepareBlueblade.label>蓝刀鱼去内脏</PrepareBlueblade.label>
+
+	<PrepareBlueblade.description>将蓝刀鱼内脏去除制成可烧烤的蓝刀鱼片。</PrepareBlueblade.description>
+
+	<PrepareBlueblade.jobString>正在蓝刀鱼去内脏。</PrepareBlueblade.jobString>
+
+	<ButcherTailteeth.label>屠宰尾齿鱼</ButcherTailteeth.label>
+
+	<ButcherTailteeth.description>屠宰尾齿鱼制成高营养的尾齿鱼排。</ButcherTailteeth.description>
+
+	<ButcherTailteeth.jobString>正在屠宰尾齿鱼。</ButcherTailteeth.jobString>
+
+	<SupplyMashgonEggs.label>放养龙虾籽</SupplyMashgonEggs.label>
+
+	<SupplyMashgonEggs.description>在生态养殖槽内放养一些龙虾籽. 当生态养殖槽内没有鱼类或想改变养殖的鱼类品种时才需要这样。</SupplyMashgonEggs.description>
+
+	<SupplyMashgonEggs.jobString>正在放养龙虾籽。.</SupplyMashgonEggs.jobString>
+
+	<SupplyBluebladeEggs.label>放养蓝刀鱼籽</SupplyBluebladeEggs.label>
+
+	<SupplyBluebladeEggs.description>生态养殖槽内放养一些蓝刀鱼籽 当生态养殖槽内没有鱼类或想改变养殖的鱼类品种时才需要这样。</SupplyBluebladeEggs.description>
+
+	<SupplyBluebladeEggs.jobString>正在放养蓝刀鱼籽。</SupplyBluebladeEggs.jobString>
+
+	<SupplyTailteethEggs.label>放养尾齿鱼籽</SupplyTailteethEggs.label>
+
+	<SupplyTailteethEggs.description>在生态养殖槽内放养一些尾齿鱼籽 当生态养殖槽内没有鱼类或想改变养殖的鱼类品种时才需要这样。</SupplyTailteethEggs.description>
+
+	<SupplyTailteethEggs.jobString>放养尾齿鱼籽。</SupplyTailteethEggs.jobString>
+
+	<GrillFishCampfire.label>烧烤蓝刀鱼</GrillFishCampfire.label>
+
+	<GrillFishCampfire.description>将蓝刀鱼烧烤成可以吃的简单食物。美味酥脆!</GrillFishCampfire.description>
+
+	<GrillFishCampfire.jobString>正在烧烤蓝刀鱼。</GrillFishCampfire.jobString>
+
+	 <!--<Make_Harpoon.label>制作鱼叉</Make_Harpoon.label>--> 
+	 <!--<Make_Harpoon.description>用一些木头与钢铁制作一个鱼叉.</Make_Harpoon.description>--> 
+	 <!--<Make_Harpoon.jobString>正在制作鱼叉.</Make_Harpoon.jobString>--> 
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<WorkGiver_HarvestAquacultureBasinProduction.verb>捕捞</WorkGiver_HarvestAquacultureBasinProduction.verb>
+
+	<WorkGiver_HarvestAquacultureBasinProduction.gerund>捕捞中</WorkGiver_HarvestAquacultureBasinProduction.gerund>
+
+	<WorkGiver_DoBillsAtAquacultureBasin.verb>放养</WorkGiver_DoBillsAtAquacultureBasin.verb>
+
+	<WorkGiver_DoBillsAtAquacultureBasin.gerund>正在放养</WorkGiver_DoBillsAtAquacultureBasin.gerund>
+
+	<FillAquacultureHopper.verb>装满</FillAquacultureHopper.verb>
+
+	<FillAquacultureHopper.gerund>正在装满</FillAquacultureHopper.gerund>
+
+	<WorkGiver_DoBillsAtFishingPier.verb>制作捕鱼工具</WorkGiver_DoBillsAtFishingPier.verb>
+
+	<WorkGiver_DoBillsAtFishingPier.gerund>正在制作捕鱼工具。</WorkGiver_DoBillsAtFishingPier.gerund>
+
+	<WorkGiver_FishAtFishingPier.verb>钓鱼</WorkGiver_FishAtFishingPier.verb>
+
+	<WorkGiver_FishAtFishingPier.gerund>钓鱼中</WorkGiver_FishAtFishingPier.gerund>
+
+</LanguageData>
