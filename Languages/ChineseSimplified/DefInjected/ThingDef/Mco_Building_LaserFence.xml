@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <LaserFencePylon.label>激光围栏塔</LaserFencePylon.label>
+  <LaserFencePylon.description>先进的激光围栏塔。
+- 会自动连接到附近的塔在每个主方向。
+- 每个围栏可以独立地激活或停用。
+- 激光围栏最大范围：4格。
+
+警告！始终佩戴护目镜在进行任何维护操作之前。当地野生动物/植物可能着火，如果直接暴露在激光下面。</LaserFencePylon.description>
+  <LaserFence.label>激光围栏</LaserFence.label>
+  <LaserFence.description>一个不可逾越的激光围栏。</LaserFence.description>
+</LanguageData>

@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+    <StandardTurret.label>无人机枪</StandardTurret.label>
+    <StandardTurret.description>炮塔射击4次，而不是三次，更高射速，高生命值，低可燃性。</StandardTurret.description>
+    <SniperTurret.label>无人狙击炮</SniperTurret.label>
+    <SniperTurret.description>高精准性，射击范围大</SniperTurret.description>
+    <StunTurret.label>眩晕塔</StunTurret.label>
+    <StunTurret.description>允许建立眩晕塔</StunTurret.description>
+    <WeaponSystems.label>武器系统</WeaponSystems.label>
+    <WeaponSystems.description>允许研究更多炮塔的武器系统</WeaponSystems.description>
+    <HeavyWeapons.label>双联机枪</HeavyWeapons.label>
+    <HeavyWeapons.description>允许建立双联机枪</HeavyWeapons.description>
+    <EnergyWeapons.label>电荷机枪</EnergyWeapons.label>
+    <EnergyWeapons.description>允许建立电荷机枪，类似于电荷步枪</EnergyWeapons.description>
+    <TOWMissile.label>陶式导弹</TOWMissile.label>
+    <TOWMissile.description>一个固定的炮塔，发射火箭</TOWMissile.description>
+    <ShrapnelMine.label>霰弹地雷</ShrapnelMine.label>
+    <ShrapnelMine.description>用炮弹改装的的触发式地雷</ShrapnelMine.description>
+    <EnergyTurretOvercharge.label>电荷机枪充能</EnergyTurretOvercharge.label>
+    <EnergyTurretOvercharge.description>使用电力超载，允许电荷机枪充能发射能量球，准确度略微下降</EnergyTurretOvercharge.description>
+    <EnergyTurretBurstCount.label>电荷机枪爆发计数</EnergyTurretBurstCount.label>
+    <EnergyTurretBurstCount.description>添加冷却系统可以为电荷机枪爆发计数</EnergyTurretBurstCount.description>
+    <EnergyTurretBurstAcurracy.label>电荷机枪精准度</EnergyTurretBurstAcurracy.label>
+    <EnergyTurretBurstAcurracy.description>延长炮管，修改稳定镜片，增加准确性</EnergyTurretBurstAcurracy.description>
+    <EnergyTurretBurstSpeed.label>电荷机枪爆发速度</EnergyTurretBurstSpeed.label>
+    <EnergyTurretBurstSpeed.description>修改触发机制，消除一些“保险”，减少爆发冷却时间</EnergyTurretBurstSpeed.description>
+    <SniperTurretCooling.label>狙击炮冷却</SniperTurretCooling.label>
+    <SniperTurretCooling.description>修改射击机制，删除一些“没有必要”的部分，降低射击冷却时间</SniperTurretCooling.description>
+    <SniperTurretHe.label>狙击炮高爆弹药</SniperTurretHe.label>
+    <SniperTurretHe.description>一种20mm的高爆弹药，射击后能在小范围内爆炸</SniperTurretHe.description>
+    <SniperTurretStandard.label>狙击炮标准弹药</SniperTurretStandard.label>
+    <SniperTurretStandard.description>有别于高爆弹20mm的标准弹</SniperTurretStandard.description>
+    <StandardTurretCooling.label>无人机枪冷却</StandardTurretCooling.label>
+    <StandardTurretCooling.description>修改射击机制，删除一些“没有必要”的部分，降低射击冷却时间</StandardTurretCooling.description>
+    <StandardTurretBurst.label>无人机枪爆发</StandardTurretBurst.label>
+    <StandardTurretBurst.description>修改触发机制，消除一些“保险”，减少爆发冷却时间，炮塔将额外设计一轮</StandardTurretBurst.description>
+    <StandardTurretRange.label>无人机枪范围</StandardTurretRange.label>
+    <StandardTurretRange.description>修改机枪的瞄准系统，枪管，除去一些螺丝，以增加机枪攻击范围</StandardTurretRange.description>
+    <HeavyTurretBurst.label>双联机枪</HeavyTurretBurst.label>
+    <HeavyTurretBurst.description>修改的发射机制，并删除一些“没有必要的”部分，机枪可以在爆发射击中额外的射出5发子弹</HeavyTurretBurst.description>
+    <HeavyTurretCooling.label>双联机枪冷却</HeavyTurretCooling.label>   
+    <HeavyTurretCooling.description>修改发射机制，并添加一些更好的散热片到枪管，降低射击冷却时间</HeavyTurretCooling.description>
+    <HeavyTurretAccuracy.label>双联机枪精准度</HeavyTurretAccuracy.label>
+    <HeavyTurretAccuracy.description>修改双联机枪的底座和添加一些弹簧减少震动以增加炮塔的精准度</HeavyTurretAccuracy.description>
+    <HeavyTurretAccuracyII.label>双联机枪精准度Ⅱ</HeavyTurretAccuracyII.label>
+    <HeavyTurretAccuracyII.description>修改的枪管膛线使弹道稳定，以增加双联机枪精准度</HeavyTurretAccuracyII.description>
+</LanguageData>

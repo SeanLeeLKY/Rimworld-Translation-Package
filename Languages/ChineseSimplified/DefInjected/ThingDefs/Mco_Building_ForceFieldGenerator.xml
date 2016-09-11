@@ -1,5 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-  <ForceFieldGenerator.label>力场护盾发生器</ForceFieldGenerator.label>
-  <ForceFieldGenerator.description>这种防御建筑将充电和维持一个向前的力场领域。它是能够吸收或排斥箭头或子弹直到它被完全破坏。一旦被破坏，发生器需要一些时间来重新初始化。当断电时，发生器将其一部分能量发送回电网。</ForceFieldGenerator.description>
-</LanguageData>
