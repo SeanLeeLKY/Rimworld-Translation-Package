@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<GD_Sabertooth.label>作战刀</GD_Sabertooth.label>
+
+	<GD_Sabertooth.description>灰谷防御集团"剑齿虎"格斗刀，非常适合砍树或者砍下敌人的四肢。</GD_Sabertooth.description>
+
+	<YP_BingJu.label>振荡剑</YP_BingJu.label>
+
+	<YP_BingJu.description>轻盈但极其尖锐，"冰锥"振荡剑是允和高精集团私人武装部队的近战武器。</YP_BingJu.description>
+
+	<JI_Ormbane.label>突击锤</JI_Ormbane.label>
+
+	<JI_Ormbane.description>"欧姆贝恩"是由佐敦星际集团研发的一种重型战斗锤。</JI_Ormbane.description>
+
+	
+
+	
+
+	<TE_Eris.label>生存刀</TE_Eris.label>
+
+	<TE_Eris.description>一把用于多种用途的武器，它是“提西福涅”复仇女神猎人先遣队的标准装备。</TE_Eris.description>
+
+	 <!--<AD_Verdict.label>冲击棍</AD_Verdict.label>--> 
+	 <!--<AD_Verdict.description>联邦维和部队的标准制式近战武器，"裁决"冲击棍看起来是简单的非致命性武器，但实际上并非如此。</AD_Verdict.description>--> 
+</LanguageData>

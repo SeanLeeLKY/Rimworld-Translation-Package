@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_Sentinel.label>等离子球</Bullet_Sentinel.label>
+
+	<AD_Sentinel.label>等离子步枪</AD_Sentinel.label>
+
+	<AD_Sentinel.description>"哨兵"等离子步枪是一种单兵等离子武器，即使在联邦制式武器中也是罕见且可怕的。发射含有爆炸性金属离子的小型磁性球体。</AD_Sentinel.description>
+
+	<Bullet_PBomb.label>等离子炸弹</Bullet_PBomb.label>
+
+	<AD_PBomb.label>等离子炸弹</AD_PBomb.label>
+
+	<AD_PBomb.description>便携式等离子反应器制成的自杀炸弹。</AD_PBomb.description>
+
+	<Bullet_AuxPistol.label>能量子弹</Bullet_AuxPistol.label>
+
+	<AD_AuxPistol.label>奴隶手枪</AD_AuxPistol.label>
+
+	<AD_AuxPistol.description>"谈判者"熔炉手枪的粗制量产版。</AD_AuxPistol.description>
+
+</LanguageData>

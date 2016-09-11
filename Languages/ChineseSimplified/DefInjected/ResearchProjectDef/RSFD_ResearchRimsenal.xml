@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<CrucibleTech.label>[RS]熔炉科技</CrucibleTech.label>
+
+	<CrucibleTech.description>允许你制作联邦的武器和护甲。</CrucibleTech.description>
+
+	<PlasmaTech.label>[RS]等离子武器</PlasmaTech.label>
+
+	<PlasmaTech.description>允许你制作等离子武器。</PlasmaTech.description>
+
+</LanguageData>

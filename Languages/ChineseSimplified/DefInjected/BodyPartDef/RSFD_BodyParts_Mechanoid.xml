@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MonitorHull.label>外壳</MonitorHull.label>
+
+	<MonitorFrame.label>框架</MonitorFrame.label>
+
+	<MonitorCore.label>核心</MonitorCore.label>
+
+	<LeftMonitorShoulder.label>左肩</LeftMonitorShoulder.label>
+
+	<LeftMonitorArm.label>左臂</LeftMonitorArm.label>
+
+	<LeftMonitorHand.label>左手</LeftMonitorHand.label>
+
+	<LeftHandMonitorPinky.label>左小指</LeftHandMonitorPinky.label>
+
+	<LeftHandMonitorMiddleFinger.label>左中指</LeftHandMonitorMiddleFinger.label>
+
+	<LeftHandMonitorIndexFinger.label>左食指</LeftHandMonitorIndexFinger.label>
+
+	<LeftHandMonitorThumb.label>左拇指</LeftHandMonitorThumb.label>
+
+	<RightMonitorShoulder.label>右肩</RightMonitorShoulder.label>
+
+	<RightMonitorArm.label>右臂</RightMonitorArm.label>
+
+	<RightMonitorHand.label>右手</RightMonitorHand.label>
+
+	<RightHandMonitorPinky.label>右小指</RightHandMonitorPinky.label>
+
+	<RightHandMonitorMiddleFinger.label>右中指</RightHandMonitorMiddleFinger.label>
+
+	<RightHandMonitorIndexFinger.label>右食指</RightHandMonitorIndexFinger.label>
+
+	<RightHandMonitorThumb.label>右拇指</RightHandMonitorThumb.label>
+
+	<LeftMonitorEngine.label>左引擎</LeftMonitorEngine.label>
+
+	<LeftMonitorThruster.label>左推进器</LeftMonitorThruster.label>
+
+	<RightMonitorEngine.label>右引擎</RightMonitorEngine.label>
+
+	<RightMonitorThruster.label>右推进器</RightMonitorThruster.label>
+
+</LanguageData>

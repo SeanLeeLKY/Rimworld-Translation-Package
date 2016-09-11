@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_Hrunting.label>赫朗庭子弹</Bullet_Hrunting.label>
+
+	<JI_Hrunting.label>熔融步枪</JI_Hrunting.label>
+
+	<JI_Hrunting.description>"赫朗庭"熔融步枪，由佐敦星际集团研发，以纯粹的火力为宗旨。这种武器发射融化的金属作为子弹。</JI_Hrunting.description>
+
+	<Bullet_Trollsverd.label>绿魔弹</Bullet_Trollsverd.label>
+
+	<JI_Trollsverd.label>熔融手枪</JI_Trollsverd.label>
+
+	<JI_Trollsverd.description>"绿魔"重型手枪，由佐敦星际集团研发。发射融化的金属，"绿魔"的火力可以解决大多数殖民地问题。</JI_Trollsverd.description>
+
+	<Bullet_Fafnir.label>法夫尼尔鹿弹</Bullet_Fafnir.label>
+
+	<JI_Fafnir.label>攻城霰弹枪</JI_Fafnir.label>
+
+	<JI_Fafnir.description>这支庞大的霰弹枪"法夫尼尔"由佐敦星际集团研发。枪口多管齐下，是为城市战争所设计。被这支霰弹枪打中的人无不化作一团血雾。</JI_Fafnir.description>
+
+	<Bullet_Gramr.label>格拉姆弹</Bullet_Gramr.label>
+
+	<JI_Gramr.label>AMR</JI_Gramr.label>
+
+	<JI_Gramr.description>佐敦星际集团"格拉姆"反机甲步枪。如同小卡车一般重，也同样地难以驾驭。它的后坐力就像被骡子踢了一脚。但它的威力证明了一切。</JI_Gramr.description>
+
+	<Bullet_Grendel.label>格兰戴尔弹</Bullet_Grendel.label>
+
+	<JI_Grendel.label>攻城炮</JI_Grendel.label>
+
+	<JI_Grendel.description>一场残酷的反机械人战争中的产物，佐敦星际集团"格兰戴尔"攻城炮是全银河中最强大的攻城武器。</JI_Grendel.description>
+
+	<Bullet_Muspell.label>破片</Bullet_Muspell.label>
+
+	<JI_Muspell.label>镇压炮</JI_Muspell.label>
+
+	<JI_Muspell.description>佐敦星际集团"火人"镇压炮用来对抗小型爬虫式机甲群。"火人"可连续发射超高热金属破片。</JI_Muspell.description>
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_Lynx.label>手枪弹</Bullet_Lynx.label>
+
+	<GD_Lynx.label>战术手枪</GD_Lynx.label>
+
+	<GD_Lynx.description>灰谷防御集团"猞猁"战术手枪。轻便易用，理想的个人防卫武器。它使用小口径的高速穿甲弹。</GD_Lynx.description>
+
+	<Bullet_GRC.label>卡宾枪弹</Bullet_GRC.label>
+
+	<GD_GRC.label>战术卡宾枪</GD_GRC.label>
+
+	<GD_GRC.description>灰谷防御集团的"黑豹"通用步枪系列，卡宾枪型。</GD_GRC.description>
+
+	<Bullet_GRM.label>步枪子弹</Bullet_GRM.label>
+
+	<GD_GRM.label>神射手步枪</GD_GRM.label>
+
+	<GD_GRM.description>灰谷防御集团的"黑豹"通用步枪系列，神射手步枪型。</GD_GRM.description>
+
+	<Bullet_GRS.label>卡宾枪弹</Bullet_GRS.label>
+
+	<GD_GRS.label>支援机枪</GD_GRS.label>
+
+	<GD_GRS.description>灰谷防御集团的"黑豹"通用步枪系列，轻机枪型。</GD_GRS.description>
+
+	<Bullet_Jaguar.label>榴弹</Bullet_Jaguar.label>
+
+	<GD_Jaguar.label>榴弹发射器</GD_Jaguar.label>
+
+	<GD_Jaguar.description>由灰谷防御集团设计的"美洲豹"榴弹发射器，是简单高效的间接火力支援武器。</GD_Jaguar.description>
+
+	<Bullet_Caracal.label>手枪弹</Bullet_Caracal.label>
+
+	<GD_Caracal.label>HV 冲锋枪</GD_Caracal.label>
+
+	<GD_Caracal.description>由灰谷防御集团开发的"狞猫"冲锋枪。为近距离作战设计，发射特制小口径高速穿甲弹。</GD_Caracal.description>
+
+</LanguageData>

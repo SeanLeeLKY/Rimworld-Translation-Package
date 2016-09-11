@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MeleeWeapon_Cleaver.label>砍刀</MeleeWeapon_Cleaver.label>
+
+	<MeleeWeapon_Cleaver.description>粗制滥造的砍刀。</MeleeWeapon_Cleaver.description>
+
+	<MeleeWeapon_Glaive.label>大刀</MeleeWeapon_Glaive.label>
+
+	<MeleeWeapon_Glaive.description>粗制滥造的大刀。</MeleeWeapon_Glaive.description>
+
+</LanguageData>

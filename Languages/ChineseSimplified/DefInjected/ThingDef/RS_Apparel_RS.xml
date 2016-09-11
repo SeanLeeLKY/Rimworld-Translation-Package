@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Carbonsuit.label>碳素连身衣</Carbonsuit.label>
+
+	<Carbonsuit.description>一种军事人员专供的碳素结晶纤维织成的连身衣。它不仅轻且薄，还惊人地结实。</Carbonsuit.description>
+
+	<Apparel_TacVest.label>战术背心</Apparel_TacVest.label>
+
+	<Apparel_TacVest.description>一件基于人体工程学设计的护甲。这种护甲能有效提高穿戴者的作战效率。</Apparel_TacVest.description>
+
+	<Apparel_TacHelmet.label>战术头盔</Apparel_TacHelmet.label>
+
+	<Apparel_TacHelmet.description>高级作战头盔，用以在战斗中保护穿戴者的头部。</Apparel_TacHelmet.description>
+
+	<Apparel_Exoframe.label>外骨骼</Apparel_Exoframe.label>
+
+	<Apparel_Exoframe.description>外骨骼是一种可移动机械护甲，含有马达、气动闸、操纵杆和液压系统，用来增强使用者的机动性、力量和耐力。</Apparel_Exoframe.description>
+
+	<Apparel_Laconian.label>先驱者护甲</Apparel_Laconian.label>
+
+	<Apparel_Laconian.description>主要为战地工程师设计的护甲，灰谷防御"拉科尼安"先驱者护甲集成了内置工具组。因此它适合在战斗中建造各类设备。</Apparel_Laconian.description>
+
+	<Apparel_LaconianH.label>先驱者头盔</Apparel_LaconianH.label>
+
+	<Apparel_LaconianH.description>一个和"拉科尼安"先驱者护甲配套的头盔。集成了简单的辅助瞄准系统。</Apparel_LaconianH.description>
+
+	<Apparel_Dropsuit.label>空降服</Apparel_Dropsuit.label>
+
+	<Apparel_Dropsuit.description>这是允和高精集团的"遗影"空降服，为集团的环球空降作战队伍设计。这件全封闭设计的服装用于在极端环境下作战，比如宇宙的真空中。装有增强穿戴者行动速度的推进器。</Apparel_Dropsuit.description>
+
+	<Apparel_DropsuitH.label>空降头盔</Apparel_DropsuitH.label>
+
+	<Apparel_DropsuitH.description>这是一件艺术品级别的头盔，为太空环境和轨道空降做了优化。这件头盔嵌有许多闪亮的小配件。当然，除了辅助瞄准AI外，这些闪亮的玩意儿都没什么用。</Apparel_DropsuitH.description>
+
+	<Apparel_Nervesuit.label>神经连接护甲</Apparel_Nervesuit.label>
+
+	<Apparel_Nervesuit.description>允和高精集团的"镇川"神经连接护甲。它通过连接至穿戴者的人工神经系统使穿戴者反应更迅速。然而，更迅速并不意味着更准确。</Apparel_Nervesuit.description>
+
+	<Apparel_NervesuitH.label>神经连接头盔</Apparel_NervesuitH.label>
+
+	<Apparel_NervesuitH.description>精密的神勇护甲头盔。这种头盔内置复杂的人工神经系统，使穿戴者行动更迅速。这种快速反应系统会牺牲操作能力的精确性。</Apparel_NervesuitH.description>
+
+	<Apparel_Bjorn.label>突击护甲</Apparel_Bjorn.label>
+
+	<Apparel_Bjorn.description>"比约恩"突击护甲，基本就是一辆人型自走坦克，以玻璃钢完全包裹着穿戴者。</Apparel_Bjorn.description>
+
+	<Apparel_BjornH.label>突击头盔</Apparel_BjornH.label>
+
+	<Apparel_BjornH.description>坚固耐用且可靠的突击护甲配备的头盔。</Apparel_BjornH.description>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<Apparel_Nemesis.label>reflactor carapace</Apparel_Nemesis.label>
+
+	<Apparel_Nemesis.description>The "Nemesis" is a powered armor that created to hunt the Federation remnants. Almost immune to the heat energy, the Tisiphone Hunter Contingent provides this armor to their elite hunters.</Apparel_Nemesis.description>
+
+	<Apparel_NemesisH.label>Reflactor helmet</Apparel_NemesisH.label>
+
+	<Apparel_NemesisH.description>A helmet with a complete set of heat deflector system.</Apparel_NemesisH.description>
+
+	 <!--<Apparel_Judicator.label>防暴护甲</Apparel_Judicator.label>--> 
+	 <!--<Apparel_Judicator.description>"仲裁者"防爆护甲是由动力武装集团为其联邦维和部队设计的。这是一件非常棒的护甲，如果你能承受他人鄙视的目光的话。</Apparel_Judicator.description>--> 
+	 <!--<Apparel_JudicatorH.label>防爆头盔</Apparel_JudicatorH.label>--> 
+	 <!--<Apparel_JudicatorH.description>联邦维和部队的防爆头盔。如果你戴着这个，就准备好当全殖民地的眼中钉吧。</Apparel_JudicatorH.description>--> 
+	 <!--<Apparel_MarksmanGear.label>神射手护甲</Apparel_MarksmanGear.label>--> 
+	 <!--<Apparel_MarksmanGear.description>动力武装集团的"宣判者"神射手护甲。通过关节稳定组件，护甲保证了穿戴者的瞄准稳定性。联邦和平使者的暗杀专用装备。</Apparel_MarksmanGear.description>--> 
+	 <!--<Apparel_MarksmanGearH.label>神射手头盔</Apparel_MarksmanGearH.label>--> 
+	 <!--<Apparel_MarksmanGearH.description>这是"宣判者"神射手护甲所带的头盔。完整的目标测定器确保了高精确度和快速反应。</Apparel_MarksmanGearH.description>--> 
+</LanguageData>

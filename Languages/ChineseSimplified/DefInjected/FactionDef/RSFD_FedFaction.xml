@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<FPC.label>联邦维和部队</FPC.label>
+
+	<FPC.description>过去银河系的中心有一个公正且强大的星际帝国，现在只被称为"联邦"。然而，与机械族的漫长而残酷的战争改变了一切。以"安全"为名践踏自由和公平。以"秩序"之名施以压迫和暴政。漫长的反联邦战争开始了。\n\n内战爆发，一场前所未有的星际战争撕裂了联邦。现在联邦和它臭名昭著的维和部队只不过是一页历史。\n\n然而，对于孤立的边缘世界，联邦之名与其走狗的意味却完全不同。</FPC.description>
+
+	<FPC.pawnsPlural>联邦士兵</FPC.pawnsPlural>
+
+	<FPC.leaderTitle>首领</FPC.leaderTitle>
+
+</LanguageData>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Proj_BaegYa.label>微波手雷</Proj_BaegYa.label>
+
+	<YP_BaegYa.label>微波手雷</YP_BaegYa.label>
+
+	<YP_BaegYa.description>允和高精集团的"白夜"微波手雷。这个小装置会发散出短暂的毫米级的疼痛微波。这是一种超级有效的人群控制武器。</YP_BaegYa.description>
+
+	<Proj_Dunder.label>背包炸弹</Proj_Dunder.label>
+
+	<JI_Dunder.label>背包炸弹</JI_Dunder.label>
+
+	<JI_Dunder.description>佐敦星际集团"渣滓"背包炸弹。战地工程师的最佳伙伴。</JI_Dunder.description>
+
+	
+
+	
+
+	
+
+	<Proj_Bobcat.label>迷你手雷</Proj_Bobcat.label>
+
+	<GD_Bobcat.label>迷你手雷</GD_Bobcat.label>
+
+	<GD_Bobcat.description>灰谷防御集团"山猫"迷你手雷。由于体积小，所以能在作战中携带很多。</GD_Bobcat.description>
+
+	<Proj_Grief.label>冲击手雷 </Proj_Grief.label>
+
+	<TE_Grief.label>冲击手雷</TE_Grief.label>
+
+	<TE_Grief.description>这款名为“悲鸣”的冲击手雷爆炸时会发射出多种致命微波。 尽管它的伤害不高，但是它却有比传统手雷更大的伤害半径。</TE_Grief.description>
+
+	 <!--<Proj_Repose.label>等离子手雷</Proj_Repose.label>--> 
+	 <!--<AD_Repose.label>等离子手雷</AD_Repose.label>--> 
+	 <!--<AD_Repose.description>动力武装集团"休止"等离子手雷。比传统手雷更有杀伤力，但爆炸半径略逊。</AD_Repose.description>--> 
+</LanguageData>

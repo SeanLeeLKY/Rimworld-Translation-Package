@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_Tyrant.label>冲击炮弹</Bullet_Tyrant.label>
+
+	<KineticRifle.label>动力步枪</KineticRifle.label>
+
+	<KineticRifle.description>这款名为“暴君”的军用制式步枪，是“提西福涅”复仇女神猎人先遣队的标准装备之一。“暴君”被设计出来的主要目的是用于近距离集团作战， 其巨大优势之一是它的前端瞄准系统具备高速目标的捕捉和持续锁定能力</KineticRifle.description>
+
+	<Bullet_Tormentor.label>冲击炮弹</Bullet_Tormentor.label>
+
+	<KineticPistol.label>动力手枪</KineticPistol.label>
+
+	<KineticPistol.description>这款名为“折磨者”的军用制式手枪，是“提西福涅”复仇女神猎人先遣队的标准装备之一。它是一款拥有极高开火频率的个人防卫武器。</KineticPistol.description>
+
+	<Bullet_Oppressor.label>动力罐</Bullet_Oppressor.label>
+
+	<ThuddGun.label>轰击枪</ThuddGun.label>
+
+	<ThuddGun.description>不同于传统的近距离战斗武器，“压迫者”轰击散弹枪发射充能动力罐。尽管这是一种还在测试的武器，但是它的危险程度还是令人无法侧目。</ThuddGun.description>
+
+	<Bullet_Wailer.label>冲击炮弹</Bullet_Wailer.label>
+
+	<KineticLongRifle.label>长程动力步枪</KineticLongRifle.label>
+
+	<KineticLongRifle.description>为了快速应对联邦狙击手的威胁，这款名为“哭丧”的步枪应运而生，它最大的特点就是它那惊人的目标截获速度。</KineticLongRifle.description>
+
+	<Bullet_Atrocity.label>动力罐</Bullet_Atrocity.label>
+
+	<StormCannon.label>暴雨加农炮</StormCannon.label>
+
+	<StormCannon.description>“残暴”区域武力压制系统被设计用来从远处压制区域内的多个目标。 强大的机动能力使它成为了一种令人望而生畏的支援武器。</StormCannon.description>
+
+</LanguageData>

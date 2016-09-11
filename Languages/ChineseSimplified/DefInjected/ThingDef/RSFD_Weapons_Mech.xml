@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_PlasmaBombard.label>等离子球</Bullet_PlasmaBombard.label>
+
+	<AD_PlasmaBombard.label>等离子炮</AD_PlasmaBombard.label>
+
+	<AD_PlasmaBombard.description>"移山者"等离子炮是古代突击炮的现代化变种，发射极高温的金属粒子球体。</AD_PlasmaBombard.description>
+
+	<Bullet_CrucibleCannon.label>能量弹</Bullet_CrucibleCannon.label>
+
+	<AD_CrucibleCannon.label>熔炉火炮</AD_CrucibleCannon.label>
+
+	<AD_CrucibleCannon.description>重型熔炉火炮。</AD_CrucibleCannon.description>
+
+</LanguageData>

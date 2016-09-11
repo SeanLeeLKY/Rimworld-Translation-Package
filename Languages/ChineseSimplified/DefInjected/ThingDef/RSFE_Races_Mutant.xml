@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Mutant_Ogre.label>奥戈隆巨兽</Mutant_Ogre.label>
+
+	<Mutant_Ogre.description>最初是为了建筑和重型劳动设计，“奥戈隆”（Ogron）是一种巨大、粗野、低智力的变异人，在边缘世界状态下，许多蛮族部落将之作为残酷的战争野兽。</Mutant_Ogre.description>
+
+	
+	<Mutant_Razortooth.label>剃刀之牙</Mutant_Razortooth.label>
+
+	<Mutant_Razortooth.description>				残忍嚼碎者，黄沙巨浪，颅骨开膛手等等都是人们对它的称呼，这种动物一直生活在很多的行星，所以它有很多不同的名字。它能得到如此多的残暴名字，其恐怖之处是能够想象的。剃刀之牙是一种极其危险的生物，拥有发达的双颚、过人的智慧和残忍的行为让它们在任何环境中都处于食物链的顶端。许多蛮族的领主训练它们作为战争工具。</Mutant_Razortooth.description>
+
+	 <!--<Mutant_Ogre_Meat.label>巨兽肉</Mutant_Ogre_Meat.label>--> 
+	 <!--<Mutant_Ogre_Meat.description>巨兽肉</Mutant_Ogre_Meat.description>--> 
+	 <!--<Mutant_Ogre_Leather.label>巨兽皮</Mutant_Ogre_Leather.label>--> 
+	 <!--<Mutant_Ogre_Leather.description>巨兽皮</Mutant_Ogre_Leather.description>--> 
+	 <!--<Mutant_Ogre_Corpse.label>巨兽尸体</Mutant_Ogre_Corpse.label>--> 
+	 <!--<Mutant_Ogre_Corpse.description>巨兽尸体</Mutant_Ogre_Corpse.description>--> 
+</LanguageData>

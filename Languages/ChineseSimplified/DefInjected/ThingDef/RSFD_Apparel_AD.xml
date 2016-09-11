@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<FedSuit.label>联邦连身衣</FedSuit.label>
+
+	<FedSuit.description>为军事人员设计的碳晶纤维连身衣。虽然轻而薄，但是却有让人赞叹的强度，是联邦军人的制式服装之一。</FedSuit.description>
+
+	<Apparel_Judicator.label>防暴护甲</Apparel_Judicator.label>
+
+	<Apparel_Judicator.description>"仲裁者"防暴护甲是由动力武装集团为其联邦维和部队设计的。这是一件非常棒的护甲，如果你能承受他人鄙视的目光的话。</Apparel_Judicator.description>
+
+	<Apparel_JudicatorH.label>防暴头盔</Apparel_JudicatorH.label>
+
+	<Apparel_JudicatorH.description>联邦维和部队的防爆头盔。如果你戴着这个，就准备好当全殖民地的眼中钉吧。</Apparel_JudicatorH.description>
+
+	<Apparel_MarksmanGear.label>神射手护甲</Apparel_MarksmanGear.label>
+
+	<Apparel_MarksmanGear.description>动力武装集团的"宣判者"神射手护甲。通过关节稳定组件，护甲保证了穿戴者的瞄准稳定性。联邦和平使者的暗杀专用装备。</Apparel_MarksmanGear.description>
+
+	<Apparel_MarksmanGearH.label>神射手头盔</Apparel_MarksmanGearH.label>
+
+	<Apparel_MarksmanGearH.description>这是"宣判者"神射手护甲所带的头盔。完整的目标测定器确保了高精确度和快速反应。</Apparel_MarksmanGearH.description>
+
+</LanguageData>

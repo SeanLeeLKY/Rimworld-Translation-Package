@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	
+
+	
+
+	
+
+	
+
+	<Microwave.label>微波</Microwave.label>
+
+	<Microwave.deathMessage>{0} 被烧死了。</Microwave.deathMessage>
+
+	<ArmorPiercing.label>穿甲</ArmorPiercing.label>
+
+	<ArmorPiercing.deathMessage>{0} 人间蒸发了。</ArmorPiercing.deathMessage>
+
+	<KineticImpact.label>动力冲击</KineticImpact.label>
+
+	<KineticImpact.deathMessage>{0} 被压得粉身碎骨。</KineticImpact.deathMessage>
+
+	 <!--<Optic.label>能量</Optic.label>--> 
+	 <!--<Optic.deathMessage>{0} 被射死了。</Optic.deathMessage>--> 
+	 <!--<Plasma.label>等离子</Plasma.label>--> 
+	 <!--<Plasma.deathMessage>{0} 被融化了。</Plasma.deathMessage>--> 
+</LanguageData>

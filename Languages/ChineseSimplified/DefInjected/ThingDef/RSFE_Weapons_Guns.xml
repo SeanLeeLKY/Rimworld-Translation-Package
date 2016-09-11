@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_Scraptooth.label>手枪弹</Bullet_Scraptooth.label>
+
+	<Gun_Scraptooth.label>废土双枪</Gun_Scraptooth.label>
+
+	<Gun_Scraptooth.description>蛮族制作的简易手枪。精度和射程较低，但威力和射速高于普通手枪。</Gun_Scraptooth.description>
+
+	<Bullet_ScatterStick.label>弹片</Bullet_ScatterStick.label>
+
+	<Gun_ScatterStick.label>废土散铳</Gun_ScatterStick.label>
+
+	<Gun_ScatterStick.description>简易的前装弹式短铳。致命，但射程极短、且装填时间长。</Gun_ScatterStick.description>
+
+	<Bullet_Thrasher.label>突击步枪弹</Bullet_Thrasher.label>
+
+	<Gun_Thrasher.label>废土突击步枪</Gun_Thrasher.label>
+
+	<Gun_Thrasher.description>简易的突击步枪。高火力，短射程。</Gun_Thrasher.description>
+
+	<Bullet_Crucifier.label>鱼叉</Bullet_Crucifier.label>
+
+	<Gun_Crucifier.label>废土鱼叉枪</Gun_Crucifier.label>
+
+	<Gun_Crucifier.description>电动鱼叉枪。充电很慢，射程远，火力可观。</Gun_Crucifier.description>
+
+	<Bullet_Deathdealer.label>轻型冲锋枪子弹</Bullet_Deathdealer.label>
+
+	<Gun_Deathdealer.label>废土轻型冲锋枪</Gun_Deathdealer.label>
+
+	<Gun_Deathdealer.description>粗糙简易的轻型冲锋枪。近距离很致命，并且有较高容量的弹夹</Gun_Deathdealer.description>
+
+	<Bullet_Gnasher.label>钉枪弹</Bullet_Gnasher.label>
+
+	<Gun_Gnasher.label>废土钉枪</Gun_Gnasher.label>
+
+	<Gun_Gnasher.description>改装的钉枪。射速极高，但精度非常低，并且威力很小。</Gun_Gnasher.description>
+
+	<Bullet_Scorcher.label>燃烧弹</Bullet_Scorcher.label>
+
+	<Gun_Scorcher.label>废土火焰喷射器</Gun_Scorcher.label>
+
+	<Gun_Scorcher.description>拼凑的火焰喷射器。</Gun_Scorcher.description>
+
+	<Bullet_Thumper.label>火箭</Bullet_Thumper.label>
+
+	<Gun_Thumper.label>废土火箭发射器</Gun_Thumper.label>
+
+	<Gun_Thumper.description>拼凑的单发火箭发射器。</Gun_Thumper.description>
+
+	<Bullet_RatStick.label>爆炸鼠标枪</Bullet_RatStick.label>
+
+	<Gun_RatStick.label>爆炸鼠标枪</Gun_RatStick.label>
+
+	<Gun_RatStick.description>绑着爆炸鼠的囊的标枪。</Gun_RatStick.description>
+
+</LanguageData>
