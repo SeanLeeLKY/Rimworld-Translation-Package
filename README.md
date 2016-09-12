@@ -45,6 +45,7 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 边缘军工-蛮族派系 |Rimsenal - Feral |http://steamcommunity.com/sharedfiles/filedetails/?id=736207111|RSFE
 边缘军工-安防炮塔 |Rimsenal - Security pack|http://steamcommunity.com/sharedfiles/filedetails/?id=736139206|RSSE
 边缘军工-叙事者 |Rimsenal - Storyteller pack |http://steamcommunity.com/sharedfiles/filedetails/?id=725952322|RSST
+智能开关 |PowerSwitch |http://steamcommunity.com/sharedfiles/filedetails/?id=717632155|PS
 
 
 
