@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<ResearchAutoEnemySwitch.label>PS-敌人侦测电路控制器</ResearchAutoEnemySwitch.label>
+<ResearchAutoEnemySwitch.description>研究一种能侦测敌人的电路控制器。当发现敌人时电路自动切换。</ResearchAutoEnemySwitch.description>
+<ResearchAutoEnemySwitch.descriptionDiscovered>现在可以在你的电路控制器上配置当侦测到敌人时电路开还是关了。\n\n注意:不要将你的灯、炮台等直接连到控制器上，需要通过一段电缆连接！</ResearchAutoEnemySwitch.descriptionDiscovered>
+
+</LanguageData>

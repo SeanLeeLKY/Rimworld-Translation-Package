@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<!-- PowerSwitch -->
+	<PowerSwitch_SwitchOnOff>控制器: 开/关.</PowerSwitch_SwitchOnOff>
+	<PowerSwitch_AutoONMotionRoom>自动开:当房间里有人活动时。</PowerSwitch_AutoONMotionRoom>
+	<PowerSwitch_AutoONMotionNearbyRange>自动开：当附近有人活动时。范围：</PowerSwitch_AutoONMotionNearbyRange>
+	<PowerSwitch_AutoONEnemyNearbyRange>自动开：当附近有敌人时。范围：</PowerSwitch_AutoONEnemyNearbyRange>
+	<PowerSwitch_AutoOFFEnemyNearbyRange>自动关：当附近有敌人时。范围：</PowerSwitch_AutoOFFEnemyNearbyRange>
+	<PowerSwitch_TimerClickSwitchOnTime>定时器：单击设定开启时间。</PowerSwitch_TimerClickSwitchOnTime>
+	<PowerSwitch_TimerClickSwitchOffTime>定时器：单击设定关闭时间。</PowerSwitch_TimerClickSwitchOffTime>
+	<PowerSwitch_On>开</PowerSwitch_On>
+	<PowerSwitch_Off>关</PowerSwitch_Off>
+	<PowerSwitch_OnRange>开 - 范围：</PowerSwitch_OnRange>
+	<PowerSwitch_AutoMotion>自动运动侦测：</PowerSwitch_AutoMotion>
+	<PowerSwitch_AutoEnemy>自动敌人侦测：</PowerSwitch_AutoEnemy>
+	<PowerSwitch_Timer>定时器</PowerSwitch_Timer>
+	<PowerSwitch_TimeOnTimeOff>{0:00}点 - {1:00}点</PowerSwitch_TimeOnTimeOff>
+
+	
+</LanguageData>

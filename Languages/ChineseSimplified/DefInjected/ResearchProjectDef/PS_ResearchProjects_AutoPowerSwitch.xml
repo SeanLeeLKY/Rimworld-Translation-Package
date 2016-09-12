@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<ResearchAutoPowerSwitch.label>PS-运动侦测电路控制器</ResearchAutoPowerSwitch.label>
+<ResearchAutoPowerSwitch.description>研究一种能侦测物体运动的电路控制器。当检测到运动物体时电路自动切换。</ResearchAutoPowerSwitch.description>
+<ResearchAutoPowerSwitch.descriptionDiscovered>现在可以在你的电路控制器上配置当有人进入房间时电路开还是关了。 此外功能进一步增强是可能了。\n\n注意:不要将你的灯、炮台等直接连到控制器上，需要通过一段电缆连接！</ResearchAutoPowerSwitch.descriptionDiscovered>
+
+</LanguageData>
