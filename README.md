@@ -47,7 +47,7 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 边缘军工-叙事者 |Rimsenal - Storyteller pack |http://steamcommunity.com/sharedfiles/filedetails/?id=725952322|RSST
 智能开关 |PowerSwitch |http://steamcommunity.com/sharedfiles/filedetails/?id=717632155|PS
 现代武器 |High Caliber |http://steamcommunity.com/sharedfiles/filedetails/?id=734561303|HC
-
+精心准备 |EdB Prepare Carefully |http://steamcommunity.com/sharedfiles/filedetails/?id=735106432|EDB
 
 
 >模组所有权为创意工坊上作者所有.

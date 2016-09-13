@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+	<EdB.PrepareCarefully>精心准备</EdB.PrepareCarefully>
+	<EdB.SelectResourcesAndEquipment>添加资源和装备</EdB.SelectResourcesAndEquipment>
+	<EdB.Appearance>外观</EdB.Appearance>
+	<EdB.PawnLayer.BodyType>身体类型</EdB.PawnLayer.BodyType>
+	<EdB.PawnLayer.HeadType>头部类型</EdB.PawnLayer.HeadType>
+	<EdB.PawnLayer.Pants>裤子</EdB.PawnLayer.Pants>
+	<EdB.PawnLayer.Hair>头发</EdB.PawnLayer.Hair>
+	<EdB.PawnLayer.BottomClothingLayer>内层衣物</EdB.PawnLayer.BottomClothingLayer>
+	<EdB.PawnLayer.MiddleClothingLayer>中层衣物</EdB.PawnLayer.MiddleClothingLayer>
+	<EdB.PawnLayer.TopClothingLayer>外层衣物</EdB.PawnLayer.TopClothingLayer>
+	<EdB.PawnLayer.Hat>帽子</EdB.PawnLayer.Hat>
+	<EdB.PawnLayer.Injuries>伤病和身体部件</EdB.PawnLayer.Injuries>
+	<EdB.DeleteColonistConfirm>确定要移除这个殖民者?</EdB.DeleteColonistConfirm>
+	<EdB.ApparelConflictDescription>你的殖民者不能穿下列选择的{0}服装：</EdB.ApparelConflictDescription>
+	<EdB.ApparelConflictLineItem> - {0}</EdB.ApparelConflictLineItem>
+	<EdB.LoadPresetButton>读取预设</EdB.LoadPresetButton>
+	<EdB.SavePresetButton>存为预设</EdB.SavePresetButton>
+	<EdB.DeleteThisPreset>删除预设</EdB.DeleteThisPreset>
+	<EdB.ConfirmPresetDelete>确定要删除这个配置吗?</EdB.ConfirmPresetDelete>
+	<EdB.LoadedPreset>读取 {0}</EdB.LoadedPreset>
+	<EdB.PresetThingDefFailed>不能完全读取设置，检查是否启用了预设需要的所有模组。</EdB.PresetThingDefFailed>
+	<EdB.ExitPrepareCarefullyConfirm>确定不再需要精心准备吗?  你所做的任何改变都将丢失。</EdB.ExitPrepareCarefullyConfirm>
+	<EdB.BodyType.Fat>魁梧</EdB.BodyType.Fat>
+	<EdB.BodyType.Thin>单薄</EdB.BodyType.Thin>
+	<EdB.BodyType.Hulk>笨重</EdB.BodyType.Hulk>
+	<EdB.BodyType.Average>均匀</EdB.BodyType.Average>
+	<EdB.None>无</EdB.None>
+	<EdB.EquipmentTab.Resources>资源</EdB.EquipmentTab.Resources>
+	<EdB.EquipmentTab.Food>食物</EdB.EquipmentTab.Food>
+	<EdB.EquipmentTab.Weapons>武器</EdB.EquipmentTab.Weapons>
+	<EdB.EquipmentTab.Apparel>服装</EdB.EquipmentTab.Apparel>
+	<EdB.AddButton>增加</EdB.AddButton>
+	<EdB.RemoveButton>移除</EdB.RemoveButton>
+	<EdB.PointsRemaining>剩余点数: {0}</EdB.PointsRemaining>
+	<EdB.PointsSpent>花费点数: {0}</EdB.PointsSpent>
+	<EdB.PointsUnlimited>无限点数</EdB.PointsUnlimited>
+	<EdB.PointsBalancedStart>使用点数系统</EdB.PointsBalancedStart>
+	<EdB.PointsBalancedStartTip>如果你想保持游戏开局的平衡请开启点数系统，用固定的点数来调整殖民者和装备。或禁用点数系统设置你的殖民地，只要你愿意！</EdB.PointsBalancedStartTip>
+	<EdB.Cost>花费</EdB.Cost>
+	<EdB.NotEnoughPoints>你使用了过多的点数。</EdB.NotEnoughPoints>
+	<EdB.PresetPawnLoadFailed>不能完全读取设置，检查是否启用了预设需要的所有模组。</EdB.PresetPawnLoadFailed>
+	<EdB.PresetIncompatible>读取预设失败。检查这个预设是否由早前版本建立?</EdB.PresetIncompatible>
+	<EdB.BackstoryWarning>这个故事的描述可能不和你所选择的这个殖民者的名称或性别匹配。这对游戏性没有影响，但你阅读故事时可能会注意到不匹配的情况。</EdB.BackstoryWarning>
+	<EdB.Age>年龄:</EdB.Age>
+	<EdB.NewColonistTab>新殖民者</EdB.NewColonistTab>
+	<EdB.LoadColonistButton>读取殖民者</EdB.LoadColonistButton>
+	<EdB.SaveColonistButton>保存殖民者</EdB.SaveColonistButton>
+	<EdB.DialogLoadColonistButton>读取</EdB.DialogLoadColonistButton>
+	<EdB.DialogSaveColonistButton>保存</EdB.DialogSaveColonistButton>
+	<EdB.DeleteThisColonist>删除殖民者</EdB.DeleteThisColonist>
+	<EdB.ConfirmColonistDelete>你确定要删除这个殖民者?</EdB.ConfirmColonistDelete>
+	<EdB.LoadedColonist>已读取殖民者 {0}</EdB.LoadedColonist>
+	<EdB.ColonistLoadFailed>不能完全读取设置，检查是否启用了预设需要的所有模组。</EdB.ColonistLoadFailed>
+	<EdB.TooManyColonists>不能以超过 {0} 个殖民者开始游戏。</EdB.TooManyColonists>
+	<EdB.BodyParts>身体部件</EdB.BodyParts>
+	<EdB.NormalBodyPart>普通</EdB.NormalBodyPart>
+	<EdB.OldInjuries>添加旧伤</EdB.OldInjuries>
+	<EdB.ColonistThingDefFailed>不能完全读取设置，检查是否启用了预设需要的所有模组。</EdB.ColonistThingDefFailed>
+	<EdB.CostSummaryTotal>共使用: {0}</EdB.CostSummaryTotal>
+	<EdB.CostSummaryEquipment>装备: {0}</EdB.CostSummaryEquipment>
+	<EdB.CostSummaryApparel>衣着: {0}</EdB.CostSummaryApparel>
+	<EdB.CostSummaryBionics>植入物: {0}</EdB.CostSummaryBionics>
+	<EdB.CostSummaryColonist>{0}: {1}</EdB.CostSummaryColonist>
+
+	<EdB.PrepareCarefully.CustomizeBirthday>自定义出生日期…</EdB.PrepareCarefully.CustomizeBirthday>
+	<EdB.PrepareCarefully.ChooseDateOfBirth>选择出生日期</EdB.PrepareCarefully.ChooseDateOfBirth>
+	<EdB.PrepareCarefully.BirthMonth>月：</EdB.PrepareCarefully.BirthMonth>
+	<EdB.PrepareCarefully.BirthDate>日：</EdB.PrepareCarefully.BirthDate>
+	<EdB.PrepareCarefully.TooManyColonists>您不允许有超过{0}个殖民者。</EdB.PrepareCarefully.TooManyColonists>
+	<EdB.PrepareCarefully.TooManyColonists1>你不允许有超过1个殖民者。</EdB.PrepareCarefully.TooManyColonists1>
+	<EdB.PrepareCarefully.NotEnoughColonists>您必须至少有{0}个殖民者。</EdB.PrepareCarefully.NotEnoughColonists>
+	<EdB.PrepareCarefully.NotEnoughColonists1>你必须有至少1个殖民者。</EdB.PrepareCarefully.NotEnoughColonists1>
+	<EdB.PrepareCarefully.RandomizeAll>随机生成一个新的殖民者</EdB.PrepareCarefully.RandomizeAll>
+	<EdB.PrepareCarefully.RandomizeName>随机生成一个新名称</EdB.PrepareCarefully.RandomizeName>
+	<EdB.PrepareCarefully.RandomizeTraits>随机生成一个新特征</EdB.PrepareCarefully.RandomizeTraits>
+	<EdB.PrepareCarefully.RandomizeBackstory>随机选择一个新的故事</EdB.PrepareCarefully.RandomizeBackstory>
+	<EdB.PrepareCarefully.RandomizeAppearance>随机生成一个新的外观</EdB.PrepareCarefully.RandomizeAppearance>
+	<EdB.PrepareCarefully.ResetSkills>重置技能和兴趣度</EdB.PrepareCarefully.ResetSkills>
+	<EdB.PrepareCarefully.EquipmentName>名称</EdB.PrepareCarefully.EquipmentName>
+
+	<!-- New for Alpha 12 -->
+	<EdB.PrepareCarefully.EquipmentTab.Animals>动物</EdB.PrepareCarefully.EquipmentTab.Animals>
+
+	<!-- New for Alpha 13 -->
+	<EdB.PrepareCarefully.UsePoints>使用点数系统</EdB.PrepareCarefully.UsePoints>
+	<EdB.PrepareCarefully.UsePoints.Tip>如果你想保持游戏开局的平衡请开启点数系统，用固定的点数来调整殖民者和装备。或禁用点数系统设置你的殖民地，只要你愿意！</EdB.PrepareCarefully.UsePoints.Tip>
+	<EdB.PrepareCarefully.FixedPoints>固定点数</EdB.PrepareCarefully.FixedPoints>
+	<EdB.PrepareCarefully.FixedPoints.Tip>启用此选项使用一个固定数量为{0}的点数，而不是使用与您的随机启动殖民者相匹配的若干个点。</EdB.PrepareCarefully.FixedPoints.Tip>
+	<EdB.PrepareCarefully.AddRelationship>添加关系…</EdB.PrepareCarefully.AddRelationship>
+	<EdB.PrepareCarefully.SelectColonist>选择一个殖民者</EdB.PrepareCarefully.SelectColonist>
+	<EdB.PrepareCarefully.SelectRelationship>选择一个关系</EdB.PrepareCarefully.SelectRelationship>
+	<EdB.PrepareCarefully.ErrorMustSelectRelationship>你必须选择一个关系</EdB.PrepareCarefully.ErrorMustSelectRelationship>
+	<EdB.PrepareCarefully.ErrorMustSelectColonist>你必须选择一个殖民者</EdB.PrepareCarefully.ErrorMustSelectColonist>
+	<EdB.PrepareCarefully.RandomizeRelationships>随机关系</EdB.PrepareCarefully.RandomizeRelationships>
+	<EdB.PrepareCarefully.RandomizeRelationships.Tooltip>你必须删除所有的殖民者关系使随机关系的产生。</EdB.PrepareCarefully.RandomizeRelationships.Tooltip>
+	<EdB.PrepareCarefully.Next>下一步</EdB.PrepareCarefully.Next>
+	<EdB.PrepareCarefully.Add>增加</EdB.PrepareCarefully.Add>
+	<EdB.PrepareCarefully.Cancel>取消</EdB.PrepareCarefully.Cancel>
+	<EdB.PrepareCarefully.Close>关闭</EdB.PrepareCarefully.Close>
+	<EdB.PrepareCarefully.CannotDeleteRelationship>这种关系不能被删除，因为它是由于另一个关系自动添加的。删除原来的关系来消除这一关系。</EdB.PrepareCarefully.CannotDeleteRelationship>
+	<EdB.PrepareCarefully.RandomizeInjuries>随机损伤</EdB.PrepareCarefully.RandomizeInjuries>
+	<EdB.PrepareCarefully.RandomizeInjuries.Tooltip>你必须删除所有的殖民者的受伤使随机损伤的产生。伤害会根据殖民者的年龄测定。</EdB.PrepareCarefully.RandomizeInjuries.Tooltip>
+	<EdB.PrepareCarefully.AddImplant>增加植入体…</EdB.PrepareCarefully.AddImplant>
+	<EdB.PrepareCarefully.SelectImplant>选择植入程序</EdB.PrepareCarefully.SelectImplant>
+	<EdB.PrepareCarefully.ErrorMustSelectImplant>您必须选择一个植入程序</EdB.PrepareCarefully.ErrorMustSelectImplant>
+	<EdB.PrepareCarefully.SelectBodyPart>选择一个位置</EdB.PrepareCarefully.SelectBodyPart>
+	<EdB.PrepareCarefully.ErrorMustSelectBodyPart>您必须选择一个位置</EdB.PrepareCarefully.ErrorMustSelectBodyPart>
+	<EdB.PrepareCarefully.SelectSeverity>选择严重级别</EdB.PrepareCarefully.SelectSeverity>
+	<EdB.PrepareCarefully.ErrorMustSelectSelectSeverity>您必须选择一个严重级别</EdB.PrepareCarefully.ErrorMustSelectSelectSeverity>
+	<EdB.PrepareCarefully.AddInjury>增加伤害…</EdB.PrepareCarefully.AddInjury>
+	<EdB.PrepareCarefully.SelectInjury>选择一个损伤</EdB.PrepareCarefully.SelectInjury>
+	<EdB.PrepareCarefully.ErrorMustSelectInjury>你必须选择一个损伤</EdB.PrepareCarefully.ErrorMustSelectInjury>
+	<EdB.PrepareCarefully.InjuryLabel>{0} ({1})</EdB.PrepareCarefully.InjuryLabel>
+	<!--<EdB.PrepareCarefully.EquipmentTab.Implants>Implants</EdB.PrepareCarefully.EquipmentTab.Implants> Removed in Alpha 15 -->
+	<EdB.PrepareCarefully.EquipmentTab.Buildings>家具</EdB.PrepareCarefully.EquipmentTab.Buildings>
+	<EdB.PrepareCarefully.Severity.OptionLabel.2>2 伤害</EdB.PrepareCarefully.Severity.OptionLabel.2>
+	<EdB.PrepareCarefully.Severity.OptionLabel.3>3 伤害</EdB.PrepareCarefully.Severity.OptionLabel.3>
+	<EdB.PrepareCarefully.Severity.OptionLabel.4>4 伤害</EdB.PrepareCarefully.Severity.OptionLabel.4>
+	<EdB.PrepareCarefully.Severity.OptionLabel.5>5 伤害</EdB.PrepareCarefully.Severity.OptionLabel.5>
+	<EdB.PrepareCarefully.Severity.OptionLabel.6>6 伤害</EdB.PrepareCarefully.Severity.OptionLabel.6>
+	<EdB.PrepareCarefully.Stage.OptionLabel>{0} {1}</EdB.PrepareCarefully.Stage.OptionLabel>
+	<EdB.PrepareCarefully.Stage.FieldLabel>{0}, {1}</EdB.PrepareCarefully.Stage.FieldLabel>
+	<EdB.PrepareCarefully.Severity.FieldLabel>{0}</EdB.PrepareCarefully.Severity.FieldLabel>
+	<EdB.PrepareCarefully.PresetVersionNotSupported>不支持Alpha 13 版预设</EdB.PrepareCarefully.PresetVersionNotSupported>
+	<EdB.PrepareCarefully.SavedColonistVersionNotSupported>不支持Alpha 13 版预设。</EdB.PrepareCarefully.SavedColonistVersionNotSupported>
+	<EdB.PrepareCarefully.CostSummary.Implants>植入物: {0}</EdB.PrepareCarefully.CostSummary.Implants>
+
+	<!-- New for Alpha 14 -->
+	<EdB.PrepareCarefully.WholeBody>全身</EdB.PrepareCarefully.WholeBody>
+	<EdB.PrepareCarefully.ModConfigProblem.Title>警告</EdB.PrepareCarefully.ModConfigProblem.Title>
+	<EdB.PrepareCarefully.ModConfigProblem.Description>这个问题是由你的模组设置导致的。精心准备是一款影响地图重生机制的模组，问题来源于有同样机制的模组覆写了精心准备的重生机制导致模组功能无法生效。请检查你的模组配置，你对殖民者的改动将被忽略。</EdB.PrepareCarefully.ModConfigProblem.Description>
+	<EdB.PawnLayer.Accessory>附件</EdB.PawnLayer.Accessory>
+	<EdB.PrepareCarefully.ScenarioPoints>你将被随机分配价值{0}点的初始殖民者和资源。</EdB.PrepareCarefully.ScenarioPoints>
+
+	<!-- New for Alpha 15 -->
+	<EdB.PrepareCarefully.EquipmentTab.Medical>医药</EdB.PrepareCarefully.EquipmentTab.Medical>
+	
+</LanguageData>
