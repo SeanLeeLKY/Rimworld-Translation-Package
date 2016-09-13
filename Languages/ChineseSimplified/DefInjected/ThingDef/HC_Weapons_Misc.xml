@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_60mmMortarShell_HC.label>60mm迫击炮弹</Bullet_60mmMortarShell_HC.label>
+
+	<Gun_M224Mortar_HC.label>M224迫击炮</Gun_M224Mortar_HC.label>
+
+	<Gun_M224Mortar_HC.description>M224 60mm轻型迫击炮，前装式滑膛迫击炮，主要用于为地面部队提供近距离的炮火支援。</Gun_M224Mortar_HC.description>
+
+	<Bullet_66mmLAW_HC.label>60mm反坦克火箭</Bullet_66mmLAW_HC.label>
+
+	<Gun_LAW_HC.label>M72 LAW火箭筒</Gun_LAW_HC.label>
+
+	<Gun_LAW_HC.description>M72 LAW（轻型反坦克武器Light Anti-Tank Weapon、或称轻型反装甲武器Light Anti-Armor Weapon），简称LAW或LAWS（轻型反坦克武器系统），便携式单发66mm非制导反坦克武器。</Gun_LAW_HC.description>
+
+	<MeleeWeapon_Sledgehammer_HC.label>战术大锤</MeleeWeapon_Sledgehammer_HC.label>
+
+	<MeleeWeapon_Sledgehammer_HC.description>战术大锤是破口和突入作战的基本。高伤害，但攻速低。</MeleeWeapon_Sledgehammer_HC.description>
+
+</LanguageData>

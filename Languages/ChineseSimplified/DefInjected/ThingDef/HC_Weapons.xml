@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_25mmGrenade_HC.label>25mm榴弹</Bullet_25mmGrenade_HC.label>
+
+	<Gun_XM25_HC.label>XM25榴弹发射器</Gun_XM25_HC.label>
+
+	<Gun_XM25_HC.description>XM25反防御目标应对系统（XM25 Counter Defilade Target Engagement System，简称：CDTE），也被称为“惩罚者”（英语：The Punisher）或单兵半自动空爆系统（Individual Semiautomatic Air Burst System），是由XM29 OICW衍生出来的空爆榴弹发射器。</Gun_XM25_HC.description>
+
+	<Bullet_12gauge_HC.label>12号径霰弹</Bullet_12gauge_HC.label>
+
+	<Gun_Saiga12K_HC.label>Saiga-12K半自动霰弹枪</Gun_Saiga12K_HC.label>
+
+	<Gun_Saiga12K_HC.description>Saiga-12（俄语：Сайга-12）系列，12号口径自动霰弹枪，其结构原理基于AK突击步枪，包括长行程活塞导气系统，两个大形闭锁突笋的回转式枪机、盒形弹匣供弹。致命但射程短。</Gun_Saiga12K_HC.description>
+
+	<Bullet_dot338Lapua_HC.label>.338拉普-马格南子弹</Bullet_dot338Lapua_HC.label>
+
+	<Gun_AWM_HC.label>精密国际AWM狙击步枪</Gun_AWM_HC.label>
+
+	<Gun_AWM_HC.description>精密国际AWM（Accuracy International Arctic Warfare Magnum）为英国精密国际研发的北极作战系列的栓动式狙击步枪，另称AWSM（Accuracy International Arctic Warfare Super Magnum），AWSM较常指搭载着.338拉普-马格南子弹的AWM。</Gun_AWM_HC.description>
+
+	<Bullet_dot50BMG_HC.label>.50BMG子弹</Bullet_dot50BMG_HC.label>
+
+	<Gun_M82_HC.label>巴雷特M82狙击步枪</Gun_M82_HC.label>
+
+	<Gun_M82_HC.description>巴雷特M82（Barrett M82），由美国巴雷特火器制造有限公司制造的枪管短后坐原理、半自动反器材步枪。被世界各国和军队采用。尽管作为反器材步枪而设计，很多武装力量将之作为反人员狙击步枪。非常高的伤害，远射程和非常良好的精度。</Gun_M82_HC.description>
+
+	<Bullet_7dot62x54mmR_HC.label>7.62x54mmR子弹</Bullet_7dot62x54mmR_HC.label>
+
+	<Gun_DragunovSVU_HC.label>德拉贡诺夫SVU狙击步枪</Gun_DragunovSVU_HC.label>
+
+	<Gun_DragunovSVU_HC.description>OTs-03 SVU狙击步枪 (俄语: Снайперская винтовка укороченная, Snayperskaya Vintovka Ukorochennaya, 意为短狙击步枪) 基本上是SVD的无托结构缩短型，基型枪配装折叠式机械瞄准具。SVU是在1991年开始为俄罗斯执法机构特种部队的城市战斗需要而研制的战术步枪，在1994年时已经被内务部部队和OMON在车臣中使用过。高伤害，远射程和非常良好的精度。</Gun_DragunovSVU_HC.description>
+
+	<Bullet_5dot7x28mm_HC.label>5.7×28mm子弹</Bullet_5dot7x28mm_HC.label>
+
+	<Gun_P90_HC.label>FN P90冲锋枪</Gun_P90_HC.label>
+
+	<Gun_P90_HC.description>FN P90，由比利时FN赫斯塔尔公司设计制造的单兵自卫武器(Personal Defence Weapon，简称PDW)。是为了回应北约取代9x19mm巴拉贝鲁姆(Parabellum)手枪弹需求，P90是为驾驶员、后勤人员、特种部队、反恐部队设计的，小巧火力充足。低伤害短射程，非常高的射速。</Gun_P90_HC.description>
+
+	<Bullet_9x19mm_HC.label>9x19mm巴拉贝鲁姆手枪弹</Bullet_9x19mm_HC.label>
+
+	<Gun_MP5_HC.label>HK MP5A3冲锋枪</Gun_MP5_HC.label>
+
+	<Gun_MP5_HC.description>HKMP5系列是由德国军械厂黑克勒-科赫所设计及制造的冲锋枪。低伤害短射程，非常高的射速。</Gun_MP5_HC.description>
+
+	<Bullet_dot45ACP_HC.label>.45ACP子弹</Bullet_dot45ACP_HC.label>
+
+	<Gun_UMP45_HC.label>HK UMP45冲锋枪</Gun_UMP45_HC.label>
+
+	<Gun_UMP45_HC.description>HK UMP45通用冲锋枪是由德国军械厂黑克勒-科赫所设计及制造的冲锋枪。UMP45装备于各种机构，如美国海关及边境保卫局。黑克勒-科赫开发UMP45取代MP5。</Gun_UMP45_HC.description>
+
+	<Bullet_5dot45x39mm_HC.label>5.45x39mm子弹</Bullet_5dot45x39mm_HC.label>
+
+	<Gun_AKS74U_HC.label>AKS-74U卡宾枪</Gun_AKS74U_HC.label>
+
+	<Gun_AKS74U_HC.description>AKS-74U（又称AKSU-74或AK-74SU）是苏联在1975年设计及生产的短突击步枪，AKS-74U当中的“U”（俄语：Укороченный）解为“缩短”。AKS-74U在1970年代后期装备苏联军队作AKS-74的卡宾枪版本。AKS-74U主要装备特种部队、空降部队、工兵、通信兵、炮兵、车辆驾驶员、飞行组机组人员及执法部队，以为他们提供轻型而火力强大的武器（个人防卫武器，PDW）。AKS-74U的的整体尺寸及有效射程与冲锋枪相似，但具有突击步枪和机枪的优点。</Gun_AKS74U_HC.description>
+
+	
+
+	
+
+	
+
+	<Bullet_5dot56x45mm_HC.label>5.56x45mm北约子弹</Bullet_5dot56x45mm_HC.label>
+
+	<Gun_FAMAS_HC.label>FAMAS G2突击步枪</Gun_FAMAS_HC.label>
+
+	<Gun_FAMAS_HC.description>FAMAS是由法国由圣-艾蒂安生产的无托式轻型自动步枪，法国军队及警队的制式突击步枪。伤害平均，高射速和精度。</Gun_FAMAS_HC.description>
+
+	<Gun_M4A1_HC.label>M4A1卡宾枪</Gun_M4A1_HC.label>
+
+	<Gun_M4A1_HC.description>M4卡宾枪是M16A2突击步枪的缩短轻量版，由美国军队大量装备代替M16突击步枪，在大多数美国军队和美国海军陆战队中作为主要步兵武器。伤害和射程平均，高射速和精度。</Gun_M4A1_HC.description>
+
+	<Gun_SG553_HC.label>SIG SG553卡宾枪</Gun_SG553_HC.label>
+
+	<Gun_SG553_HC.description>SIG SG 553，SIG SG 552改进型，SIG SG 550的缩短版本卡宾枪，由Swiss Arms（前身为SIG Arms）制造。发射5.56x45mm北约子弹。伤害和射程平均，高射速和精度。</Gun_SG553_HC.description>
+
+	<Gun_AUG_HC.label>斯太尔AUG-A3突击步枪</Gun_AUG_HC.label>
+
+	<Gun_AUG_HC.description>斯太尔AUG是奥地利的无托式5.56×45mm北约口径突击步枪，20世纪60年代由斯太尔-曼利彻尔公司设计。伤害和射程平均，高射速和精度。</Gun_AUG_HC.description>
+
+	<Gun_G36_HC.label>HK G36突击步枪</Gun_G36_HC.label>
+
+	<Gun_G36_HC.description>HK G36是5.56×45mm北约口径突击步枪，20世纪90年代初由德国黑克勒和科赫公司设计，取代更重的HK G3。G36在1997年取代G3成为德国联邦国防军的制式步枪。伤害和射程平均，高射速和精度。</Gun_G36_HC.description>
+
+	<Gun_MG4_HC.label>HK MG4轻机枪</Gun_MG4_HC.label>
+
+	<Gun_MG4_HC.description>MG4（MG43）是由黑克勒和科赫公司设计及生产的弹链供弹轻机枪，发射5.56×45毫米弹药，装备德国联邦国防军（德语：Bundeswehr）以取代MG3通用机枪。它被设计为轻型的、为用户提供最大安全保障和在不利条件下功能可靠性。可使用多种不同的弹药而不需要调整导气系统。伤害和射程平均，高射速，低精度。</Gun_MG4_HC.description>
+
+	<Bullet_7dot62x51mm_HC.label>7.62x51mm北约子弹</Bullet_7dot62x51mm_HC.label>
+
+	<Gun_SCAR-H_HC.label>FN SCAR-H突击步枪</Gun_SCAR-H_HC.label>
+
+	<Gun_SCAR-H_HC.description>特种部队战斗突击步枪（英文：SOF Combat Assault Rifle，缩写：SCAR），是比利时FN赫斯塔尔公司为了满足美国特种作战司令部的SCAR标案而制造的现代步枪。高伤害，良好的射程和精度，低射速。</Gun_SCAR-H_HC.description>
+
+	<Gun_Mk14EBR_HC.label>Mk14增强型战斗步枪</Gun_Mk14EBR_HC.label>
+
+	<Gun_Mk14EBR_HC.description>美国海军Mk 14增强型战斗步枪（英语：Mk 14 Enhanced Battle Rifle，简称：Mk 14 EBR），击发调变式军用战斗步枪，利用可拆式弹匣发射火力强大的7.62×51mm北约口径制式步枪子弹。它是M14战斗步枪的一个衍生型，原本专为美国特种作战司令部以下的单位所使用，例如美国海军海豹部队、三角洲部队和任务具体的官方发展援助单位。Mk 14 EBR在战斗定位上同时扮演着精确射手步枪（英语：Designated marksman rifle，简称：DMR）和近身距离作战两种类型角色。高伤害，良好的射程和精度，低射速。</Gun_Mk14EBR_HC.description>
+
+	
+
+	
+
+	<Bullet_dot50AE_HC.label>.50AE子弹</Bullet_dot50AE_HC.label>
+
+	<Gun_DesertEagle_HC.label>沙漠之鹰</Gun_DesertEagle_HC.label>
+
+	<Gun_DesertEagle_HC.description>沙漠之鹰，美国马格南研究公司（Magnum Research Inc.）研制，以色列军事工业公司（IMI）生产的大威力半自动手枪。高伤害，低射速，精度差。</Gun_DesertEagle_HC.description>
+
+	<Bullet_dot500Mag_HC.label>.500马格南子弹</Bullet_dot500Mag_HC.label>
+
+	<Gun_SW500_HC.label>史密斯威森M500左轮手枪</Gun_SW500_HC.label>
+
+	<Gun_SW500_HC.description>史密斯威森M500左轮手枪，史密斯威森(S&amp;W)公司生产的5发装、单/双动击发的大口径左轮手枪，发射.500马格南子弹和.50口径子弹。高伤害，低射速，精度差。</Gun_SW500_HC.description>
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	
+
+	<Gun_AK74M_HC.label>AK-74M突击步枪</Gun_AK74M_HC.label>
+
+	<Gun_AK74M_HC.description>AK-74是由米哈伊尔·季莫费耶维奇·卡拉什尼科夫在1974年设计采用了与AK-47相同的导气式原理和回旋机枪闭锁方式的一种突击步枪。作为早期AKM系列的替代品，其50%的零部件与AKM的零件相同。为发射5.45毫米口径的枪弹进行了相应的修改而使用5.45 x 39毫米步枪弹，替换了原来的7.62×39毫米步枪弹，极其耐用。</Gun_AK74M_HC.description>
+
+	<Gun_Glock17_HC.label>格洛克17式手枪</Gun_Glock17_HC.label>
+
+	<Gun_Glock17_HC.description>格洛克17式9mm手枪是奥地利格洛克有限公司于1983年应奥地利陆军的要求研制的。现今，格洛克手枪已经发展成为具有4种口径、8种型号的格洛克手枪族，是全球应用最广泛的执法手枪。</Gun_Glock17_HC.description>
+
+	<Gun_P226_HC.label>西格-绍尔P226手枪</Gun_P226_HC.label>
+
+	<Gun_P226_HC.description>西格-绍尔P226手枪是一把由德国枪械公司西格-绍尔研制及生产的一把全尺寸军用型半自动手枪，它以及其衍生型在世界各地多个执法机关和军事组织之中服役，是目前综合性能最好的手枪之一。</Gun_P226_HC.description>
+
+	<Gun_HK45_HC.label>黑克勒-科赫HK45手枪</Gun_HK45_HC.label>
+
+	<Gun_HK45_HC.description>HK45手枪是由德国著名轻武器制造商HK公司于2006年设计和2007年生产的半自动手枪，是HKP30的.45ACP口径版本。HK45使用和HKP30相近的改进设计，更符合人体工程学的特点，它所具有的特点是，减少了操作时所造成的压力，并同时增加使用者操作和射击的时侯的舒适度。</Gun_HK45_HC.description>
+
+	<Gun_Fiveseven_HC.label>FN57手枪</Gun_Fiveseven_HC.label>
+
+	<Gun_Fiveseven_HC.description>FN57手枪是一种半自动手枪，枪机延迟式后坐，非刚性闭锁，回转式击锤击发。FN57手枪扩展了工程塑料在手枪上的应用，以往的手枪只在套筒座、弹匣及其他非主要受力部件上使用工程塑料，而套筒的运动速度很高，需要承受猛烈撞击，因此都是采用优质钢材。</Gun_Fiveseven_HC.description>
+
+	 <!--<Bullet_7dot62x39mm_HC.label>7.62x39mm子弹</Bullet_7dot62x39mm_HC.label>--> 
+	 <!--<Gun_AK47_HC.label>AK-47突击步枪</Gun_AK47_HC.label>--> 
+	 <!--<Gun_AK47_HC.description>AK-47（俄语：Автомат Калашникова образца 1947 года，意为“卡拉什尼科夫1947年自动步枪”），是由前苏联枪械设计师米哈伊尔·季莫费耶维奇·卡拉什尼科夫设计的突击步枪。高伤害，射程平均，射速低，精度差。</Gun_AK47_HC.description>--> 
+	 <!--<Gun_Pistol_Glock17_HC.label>格洛克17手枪</Gun_Pistol_Glock17_HC.label>--> 
+	 <!--<Gun_Pistol_Glock17_HC.description>格洛克17，是9mm口径的，短后座力行程、闭锁枪机半自动手枪。威力小，射程短，但反应速度特别快。</Gun_Pistol_Glock17_HC.description>--> 
+	 <!--<Gun_Pistol_P226_HC.label>SIG P226手枪</Gun_Pistol_P226_HC.label>--> 
+	 <!--<Gun_Pistol_P226_HC.description>SIG P226手枪（SIG Sauer P226），西格&amp;绍尔（SIG Sauer）公司制造的全尺寸军用型半自动手枪，P226以及其衍生型在世界各地多个执法机关和军事组织之中服役。低伤害，高射速和良好的精度。</Gun_Pistol_P226_HC.description>--> 
+	 <!--<Gun_Pistol_HK45_HC.label>HK45手枪</Gun_Pistol_HK45_HC.label>--> 
+	 <!--<Gun_Pistol_HK45_HC.description>HK45手枪是由黑克勒和科赫公司设计及生产的半自动手枪。HK45的设计目的是要满足美军“联合战斗手枪”（简称：JCP）计划之中的各项规定，而计划的目的就是为了令美军装备一把可同时发射.45ACP、普通弹药的半自动手枪，并且取代目前发射9×19毫米手枪子弹的M9手枪。低伤害，高射速和良好的精度。</Gun_Pistol_HK45_HC.description>--> 
+	 <!--<Gun_Pistol_Fiveseven_HC.label>FN57手枪</Gun_Pistol_Fiveseven_HC.label>--> 
+	 <!--<Gun_Pistol_Fiveseven_HC.description>FN57手枪（FN Five-seveN），比利时FN赫斯塔尔公司设计制造的半自动手枪。其名称来自其使用的子弹直径5.7毫米，与P90单兵自卫武器和FN 5.7×28mm口径子弹同时研发。低伤害，高射速和良好的精度。</Gun_Pistol_Fiveseven_HC.description>--> 
+</LanguageData>

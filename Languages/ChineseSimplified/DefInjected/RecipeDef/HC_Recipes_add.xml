@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+<Make_BallisticShield_HC.label>制作防弹盾</Make_BallisticShield_HC.label>
+<Make_BallisticShield_HC.description>防弹盾用于抵御手枪、步枪、霰弹枪的射击，通常以高级合成材料制作，此外还能防御穿刺或切割类武器，以及投掷或发射的石头和箭头。装备防弹盾时可以使用小口径手枪或单手射击的冲锋枪。拥有更高格斗技能的人更能发挥防弹盾的性能。</Make_BallisticShield_HC.description>
+<Make_BallisticShield_HC.jobString>正在制作防弹盾。</Make_BallisticShield_HC.jobString>
+
+
+<Make_Gun_LAW_HC.label>组装M72 LAW火箭筒</Make_Gun_LAW_HC.label>
+
+	<Make_Gun_LAW_HC.description>M72 LAW（轻型反坦克武器Light Anti-Tank Weapon、或称轻型反装甲武器Light Anti-Armor Weapon），简称LAW或LAWS（轻型反坦克武器系统），便携式单发66mm非制导反坦克武器。</Make_Gun_LAW_HC.description>
+	<Make_Gun_LAW_HC.jobString>正在组装。</Make_Gun_LAW_HC.jobString>
+
+</LanguageData>

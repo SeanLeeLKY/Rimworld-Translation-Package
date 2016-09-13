@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<HC_ArmorPiercing.label>穿甲</HC_ArmorPiercing.label>
+
+	<HC_ArmorPiercing.deathMessage>{0}被射杀了。</HC_ArmorPiercing.deathMessage>
+
+</LanguageData>
