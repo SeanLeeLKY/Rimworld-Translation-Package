@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <MakeCans.jobString>制作罐子</MakeCans.jobString>
+
+    <RecipeBase.label>制作罐子</RecipeBase.label>
+
+    <MakeCans.description>制作罐子，用以储存食物。</MakeCans.description>
+
+    <RecipeBase.jobString>制作罐子</RecipeBase.jobString>
+
+    <MakeCans.label>制作罐子</MakeCans.label>
+
+    <RecipeBase.description>制作罐子</RecipeBase.description>
+
+	<MakeCans5.label>制作罐子(5)</MakeCans5.label>
+
+	<MakeCans5.description>制作罐子，用以储存食物。</MakeCans5.description>
+
+	<MakeCans5.jobString>制作罐子</MakeCans5.jobString>
+
+	<SmeltCans.label>熔炼罐子</SmeltCans.label>
+
+	<SmeltCans.description>熔炼罐子</SmeltCans.description>
+
+	<SmeltCans.jobString>熔炼罐子</SmeltCans.jobString>
+
+	<Smelt5Cans.label>熔炼罐子(5)</Smelt5Cans.label>
+
+	<Smelt5Cans.description>熔炼罐子</Smelt5Cans.description>
+
+	<Smelt5Cans.jobString>熔炼罐子</Smelt5Cans.jobString>
+
+</LanguageData>

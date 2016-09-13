@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+
+<LanguageData>
+
+    <CannedVeggies.label>罐装蔬菜</CannedVeggies.label>
+
+    <CannedMeat.label>罐装肉</CannedMeat.label>
+
+    <CannedMeat.description>罐装肉。可以直接食用，或作为烹饪材料。在任何温度下都不会腐坏。</CannedMeat.description>
+
+    <CannedVeggies.description>罐装蔬菜。可以直接食用，或作为烹饪材料。在任何温度下都不会腐坏。</CannedVeggies.description>
+
+</LanguageData>
+

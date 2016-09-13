@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+    <CookCannedVeggies.label>制作罐装蔬菜</CookCannedVeggies.label>
+
+    <CookCannedMeat.description>将肉放进一个消过毒的罐子中，避免腐坏。</CookCannedMeat.description>
+
+    <RecipeBase.label>制作罐装食物</RecipeBase.label>
+
+    <RecipeBase.jobString>食物装罐</RecipeBase.jobString>
+
+    <CookCannedMeat.label>制作罐装肉</CookCannedMeat.label>
+
+    <RecipeBase.description>将一些食物装罐.</RecipeBase.description>
+
+    <CookCannedVeggies.description>将蔬菜放进一个消过毒的罐子中，避免腐坏。</CookCannedVeggies.description>
+
+    <CookCannedVeggies.jobString>蔬菜装罐</CookCannedVeggies.jobString>
+
+    <CookCannedMeat.jobString>肉装罐</CookCannedMeat.jobString>
+
+	<Cook5CannedVeggies.label>制作罐装蔬菜(5)</Cook5CannedVeggies.label>
+
+	<Cook5CannedVeggies.description>将蔬菜放进一个消过毒的罐子中，避免腐坏。</Cook5CannedVeggies.description>
+
+	<Cook5CannedVeggies.jobString>蔬菜装罐</Cook5CannedVeggies.jobString>
+
+	<Cook5CannedMeat.label>制作罐装肉(5)</Cook5CannedMeat.label>
+
+	<Cook5CannedMeat.description>将肉放进一个消过毒的罐子中，避免腐坏。</Cook5CannedMeat.description>
+
+	<Cook5CannedMeat.jobString>肉装罐</Cook5CannedMeat.jobString>
+
+</LanguageData>
