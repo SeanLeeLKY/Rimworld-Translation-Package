@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RedistHeat_DuctPipeUpper.label>通风管 (2号)</RedistHeat_DuctPipeUpper.label>
+	 <RedistHeat_DuctPipeUpper.description>通风管 (2号)</RedistHeat_DuctPipeUpper.description>
+
+	<RedistHeat_DuctPipeLower.label>通风管 (1号)</RedistHeat_DuctPipeLower.label>
+	 <RedistHeat_DuctPipeLower.description>通风管 (1号)</RedistHeat_DuctPipeLower.description>
+
+	<RedistHeat_DuctOutlet.label>出风口</RedistHeat_DuctOutlet.label>
+	<RedistHeat_DuctOutlet.description>将管道中的空气吹入房间，平衡室内温度。</RedistHeat_DuctOutlet.description>
+
+	<RedistHeat_SmartDuctOutlet.label>智能出风口</RedistHeat_SmartDuctOutlet.label>
+	<RedistHeat_SmartDuctOutlet.description>将管道中的空气吹入房间，平衡室内温度。可设定目标温度。</RedistHeat_SmartDuctOutlet.description>
+
+	<RedistHeat_DuctIntake.label>进风口</RedistHeat_DuctIntake.label>
+	<RedistHeat_DuctIntake.description>将空气吸入管道。</RedistHeat_DuctIntake.description>
+
+	<RedistHeat_DuctCooler.label>管道冷却器</RedistHeat_DuctCooler.label>
+	<RedistHeat_DuctCooler.description>用来冷却管道内的空气，建造多个管道冷却器可以提高制冷效率，搭建成中央空调。排放大量的热，建议置于室外或无屋顶的室内。</RedistHeat_DuctCooler.description>
+
+	
+	
+</LanguageData>

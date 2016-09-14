@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+    <RedistHeat_CurrentConnectionChannel>连接到{0}  </RedistHeat_CurrentConnectionChannel>
+    <RedistHeat_CurrentConnectedNetTemp>管道温度：</RedistHeat_CurrentConnectedNetTemp>
+    <RedistHeat_CycleLayerLabel>切换管道</RedistHeat_CycleLayerLabel>
+    <RedistHeat_CycleLayerDesc>在不同的通风管之间切换连接。</RedistHeat_CycleLayerDesc>
+    <RedistHeat_CycleLayerMote>连接到{0} </RedistHeat_CycleLayerMote>
+
+    <RedistHeat_UpperChannelTranslated>2号通风管</RedistHeat_UpperChannelTranslated>
+    <RedistHeat_LowerChannelTranslated>1号通风管</RedistHeat_LowerChannelTranslated>
+
+    <RedistHeat_DesignatorDeconstructReverse>拆除（回收）</RedistHeat_DesignatorDeconstructReverse>
+    <RedistHeat_DesignatorDeconstructReverseDesc>拆除并回收部分资源。必须先指定管道。</RedistHeat_DesignatorDeconstructReverseDesc>
+
+    <RedistHeat_WallAlreadyOccupied>此处墙面已经被占用了。</RedistHeat_WallAlreadyOccupied>
+	<RedistHeat_NeedsWall>只能被放在墙面上。</RedistHeat_NeedsWall>
+
+</LanguageData>

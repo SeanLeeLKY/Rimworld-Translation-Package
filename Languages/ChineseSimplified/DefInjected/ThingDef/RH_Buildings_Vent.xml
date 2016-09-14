@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Vent.label>通风孔</Vent.label>
+
+	<Vent.description>平衡两个房间的温度并保持隐私的通风孔。</Vent.description>
+
+	<RedistHeat_ActiveVent.label>智能通风孔</RedistHeat_ActiveVent.label>
+
+	<RedistHeat_ActiveVent.description>从室外（白色端）吸入空气来改变室温（橙色端），当达到目标温度后会自动关闭。 请将橙色端对准要降温或升温的室内。</RedistHeat_ActiveVent.description>
+
+</LanguageData>

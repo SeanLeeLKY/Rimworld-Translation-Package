@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RedistHeat_Basics.label>搭建通风管道系统</RedistHeat_Basics.label>
+
+	<RedistHeat_Basics.description>管道网络需要三个组成部分：通风管、进风口和出风口。进风口将冷空气或热空气吸入通风管，再由通风管输送到出风口吹入室内来调节温度。</RedistHeat_Basics.description>
+
+	<RedistHeat_SmartDucts.label>使用智能出风口</RedistHeat_SmartDucts.label>
+
+	<RedistHeat_SmartDucts.description>吹出由通风管从冷库或加热室引来的空气，可以更具需要设定卧室或病房的智能出风口的目标温度，达到平衡室内温度的目的。</RedistHeat_SmartDucts.description>
+
+	<RedistHeat_Channels.label>1号管道和2号管道</RedistHeat_Channels.label>
+
+	<RedistHeat_Channels.description>两种管道互不相通，即输送冷气和暖气的管道可以并行建造或者互相穿插。还可以通过“切换管道”按钮来让风口接入不同的管道达到切换输送冷/暖气的目的。</RedistHeat_Channels.description>
+
+</LanguageData>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Heater.label>小型加热器</Heater.label>
+
+	<Heater.description>用于室内取暖的落地电器。室温达到目标温度后会自动关闭。</Heater.description>
+
+	<Cooler.label>中型冷却器</Cooler.label>
+
+	<Cooler.description>用于室内制冷的墙挂式电器，需要拆除部分墙面来安装。室温达到目标温度后会自动关闭。 除了夏季避暑，还能用来建造冷库来保存容易变质的食物。 蓝色端为冷风口，红色端为排热口，请将蓝色端对准需要降温的房间。</Cooler.description>
+
+	<RH_SmallCooler.label>小型冷却器</RH_SmallCooler.label>
+
+	<RH_SmallCooler.description>用于室内制冷的墙挂式电器，可以直接安装在墙上而不需要拆除墙面。室温达到目标温度后会自动关闭。 除了夏季避暑，还能用来建造小型冷藏室来保存容易变质的食物。 蓝色端为冷风口，红色端为排热口，请将蓝色端对准需要降温的房间。</RH_SmallCooler.description>
+
+	<RH_MediumHeater.label>中型加热器</RH_MediumHeater.label>
+
+	<RH_MediumHeater.description>用于室内取暖的墙挂式电器，可以直接安装在墙上。室温达到目标温度后会自动关闭。 红色端为热风口，请对准需要升温的室内。</RH_MediumHeater.description>
+
+	<RedistHeat_HeaterGlower.label>中型加热器</RedistHeat_HeaterGlower.label>
+
+	<RedistHeat_IndustrialHeater.label>工业加热器</RedistHeat_IndustrialHeater.label>
+
+	<RedistHeat_IndustrialHeater.description>工业用大型加热器，能更有效率地为大房间供暖，还能配合管道系统搭建殖民地的中央供暖。</RedistHeat_IndustrialHeater.description>
+
+	<RedistHeat_IndustrialCooler.label>工业冷却器</RedistHeat_IndustrialCooler.label>
+
+	<RedistHeat_IndustrialCooler.description>工业用大型冷却器，需要室外机。极强的制冷效率，但占地较大，并且必须预留位置连接室外机以排放热量。 除了建造大型冷库，还能配合管道系统搭建殖民地的中央空调。</RedistHeat_IndustrialCooler.description>
+
+	<RedistHeat_ExhaustPort.label>室外机</RedistHeat_ExhaustPort.label>
+
+	<RedistHeat_ExhaustPort.description>工业冷却器的室外排热口。灰色端对准工业空调，红色端朝外。排放大量的热，建议置于室外。 1个工业冷却器最多连接6个室外机。</RedistHeat_ExhaustPort.description>
+
+</LanguageData>
