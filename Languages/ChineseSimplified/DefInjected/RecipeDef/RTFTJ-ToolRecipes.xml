@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MakePickaxe.label>制作矿镐</MakePickaxe.label>
+
+	<MakePickaxe.description>制作矿镐</MakePickaxe.description>
+
+	<MakePickaxe.jobString>正在制作工具。</MakePickaxe.jobString>
+
+	<MakeHandaxe.label>制作斧头</MakeHandaxe.label>
+
+	<MakeHandaxe.description>制作斧头</MakeHandaxe.description>
+
+	<MakeHandaxe.jobString>正在制作工具。</MakeHandaxe.jobString>
+
+	<MakeDrill.label>制作钻机</MakeDrill.label>
+
+	<MakeDrill.description>制作钻机</MakeDrill.description>
+
+	<MakeDrill.jobString>正在制作工具。</MakeDrill.jobString>
+
+	<MakeChainsaw.label>制作链锯</MakeChainsaw.label>
+
+	<MakeChainsaw.description>制作链锯</MakeChainsaw.description>
+
+	<MakeChainsaw.jobString>正在制作工具。</MakeChainsaw.jobString>
+
+	<MakeHammer.label>制作锤子</MakeHammer.label>
+
+	<MakeHammer.description>制作锤子</MakeHammer.description>
+
+	<MakeHammer.jobString>正在制作工具。</MakeHammer.jobString>
+
+	<MakeAutohammer.label>制作电动锤</MakeAutohammer.label>
+
+	<MakeAutohammer.description>制作电动锤</MakeAutohammer.description>
+
+	<MakeAutohammer.jobString>正在制作工具。</MakeAutohammer.jobString>
+
+	<MakeToolbelt.label>制作工具包</MakeToolbelt.label>
+
+	<MakeToolbelt.description>制作工具包</MakeToolbelt.description>
+
+	<MakeToolbelt.jobString>正在制作工具包。</MakeToolbelt.jobString>
+
+	<MakeToolbeltAdv.label>制作高级工具包</MakeToolbeltAdv.label>
+
+	<MakeToolbeltAdv.description>制作高级工具包</MakeToolbeltAdv.description>
+
+	<MakeToolbeltAdv.jobString>正在制作工具包。</MakeToolbeltAdv.jobString>
+
+</LanguageData>

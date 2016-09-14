@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RTFTJ_Pickaxe.label>矿镐</RTFTJ_Pickaxe.label>
+
+	<RTFTJ_Pickaxe.description>加快采矿速度的矿镐。</RTFTJ_Pickaxe.description>
+
+	<RTFTJ_HandAxe.label>斧头</RTFTJ_HandAxe.label>
+
+	<RTFTJ_HandAxe.description>伐木用斧头。</RTFTJ_HandAxe.description>
+
+	<RTFTJ_Hammer.label>锤子</RTFTJ_Hammer.label>
+
+	<RTFTJ_Hammer.description>建造用锤子。</RTFTJ_Hammer.description>
+
+	<RTFTJ_Drill.label>钻机</RTFTJ_Drill.label>
+
+	<RTFTJ_Drill.description>大大加快采矿速度的钻机。</RTFTJ_Drill.description>
+
+	<RTFTJ_Chainsaw.label>链锯</RTFTJ_Chainsaw.label>
+
+	<RTFTJ_Chainsaw.description>伐木用链锯。</RTFTJ_Chainsaw.description>
+
+	<RTFTJ_Autohammer.label>电动锤</RTFTJ_Autohammer.label>
+
+	<RTFTJ_Autohammer.description>建造用电动锤。</RTFTJ_Autohammer.description>
+
+	<RTFTJ_Toolbelt.label>工具包</RTFTJ_Toolbelt.label>
+
+	<RTFTJ_Toolbelt.description>一个基本的工具包。</RTFTJ_Toolbelt.description>
+
+	<RTFTJ_ToolbeltAdv.label>高级工具包</RTFTJ_ToolbeltAdv.label>
+
+	<RTFTJ_ToolbeltAdv.description>一个高级的工具包。</RTFTJ_ToolbeltAdv.description>
+
+</LanguageData>
