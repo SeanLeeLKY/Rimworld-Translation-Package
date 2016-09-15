@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+		<PlantAlliumGiganteum.label>吉安花</PlantAlliumGiganteum.label>
+
+	<PlantAlliumGiganteum.description>一种美丽的花朵，有暗紫色的球茎。</PlantAlliumGiganteum.description>
+
+	<PlantAnthurium.label>火鹤花</PlantAnthurium.label>
+
+	<PlantAnthurium.description>一种美丽的红色花朵。</PlantAnthurium.description>
+
+	<PlantNymphHair.label> 睡莲</PlantNymphHair.label>
+
+	<PlantNymphHair.description>一种美丽的淡蓝色花朵。</PlantNymphHair.description>
+
+	<PlantPinkRimstalk.label>红粉佳人</PlantPinkRimstalk.label>
+
+	<PlantPinkRimstalk.description>一种美丽的粉色长瓣花朵。</PlantPinkRimstalk.description>
+
+	<PlantPlumeria.label>缅栀子</PlantPlumeria.label>
+
+	<PlantPlumeria.description>一种美丽的茂盛小花，会开出不同颜色的花瓣。</PlantPlumeria.description>
+
+	<PlantSunflower.label>向日葵</PlantSunflower.label>
+
+	<PlantSunflower.description>一种美丽且高大的花，有亮黄色的花瓣。</PlantSunflower.description>
+
+</LanguageData>

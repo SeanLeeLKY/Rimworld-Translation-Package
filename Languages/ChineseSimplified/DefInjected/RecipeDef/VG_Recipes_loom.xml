@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MakeCloth.label>纺织布</MakeCloth.label>
+
+	<MakeCloth.description>用棉花纺织成布。 \n一次纺织20张。</MakeCloth.description>
+
+	<MakeCloth.jobString>正在纺织布。</MakeCloth.jobString>
+
+	<MakeLinen.label>纺织亚麻布</MakeLinen.label>
+
+	<MakeLinen.description>用亚麻纺织成布。 \n一次纺织10张。</MakeLinen.description>
+
+	<MakeLinen.jobString>正在纺织亚麻布。</MakeLinen.jobString>
+
+	<MakeHempCloth.label>纺织大麻纤维</MakeHempCloth.label>
+
+	<MakeHempCloth.description>抽取大麻纤维纺织成布料。 \n一次纺织10张。</MakeHempCloth.description>
+
+	<MakeHempCloth.jobString>正在纺织大麻纤维。</MakeHempCloth.jobString>
+
+	<MakeSynthreadCloth.label>纺织合成纤维</MakeSynthreadCloth.label>
+
+	<MakeSynthreadCloth.description>用棉花和亚麻纺织合成纤维。\n一次纺织15张。</MakeSynthreadCloth.description>
+
+	<MakeSynthreadCloth.jobString>正在纺织合成纤维。</MakeSynthreadCloth.jobString>
+
+	<MakeDevilstrand.label>纺织魔鬼绳布</MakeDevilstrand.label>
+
+	<MakeDevilstrand.description>用魔鬼绳纺织魔鬼绳布。\n一次纺织15张。</MakeDevilstrand.description>
+
+	<MakeDevilstrand.jobString>正在纺织魔鬼绳布。</MakeDevilstrand.jobString>
+
+	<MakeHyperweaveCloth.label>纺织超织物</MakeHyperweaveCloth.label>
+
+	<MakeHyperweaveCloth.description>用棉花，亚麻和生魔鬼绳混合织成超织物。\n一次纺织20张。</MakeHyperweaveCloth.description>
+
+	<MakeHyperweaveCloth.jobString>正在纺织超织物。</MakeHyperweaveCloth.jobString>
+
+	<Makeblendedleather.label>鞣制混合皮</Makeblendedleather.label>
+
+	<Makeblendedleather.description>用各类皮革鞣制混合皮。 \n一次鞣制10张。</Makeblendedleather.description>
+
+	<Makeblendedleather.jobString>正在鞣制混合皮。</Makeblendedleather.jobString>
+
+	<SalvageApparel.label>回收纺织品</SalvageApparel.label>
+
+	<SalvageApparel.description>将不想要的服装拆解成原材料。</SalvageApparel.description>
+
+	<SalvageApparel.jobString>正在回收纺织品。.</SalvageApparel.jobString>
+
+</LanguageData>

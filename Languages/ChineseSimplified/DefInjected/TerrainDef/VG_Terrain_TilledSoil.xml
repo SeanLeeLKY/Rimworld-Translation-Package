@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<SoilTilled.label>花园土壤</SoilTilled.label>
+
+	<SoilTilled.Description>优化过的泥土，能稍微改善作物生长环境。</SoilTilled.Description>
+
+	<PlaceSoil.label>铺设土壤</PlaceSoil.label>
+
+	<PlaceSoil.Description>将土壤铺在磨平的地面上，来种植作物。</PlaceSoil.Description>
+
+	<ReclaimSoil.label>垦荒土壤</ReclaimSoil.label>
+
+	<ReclaimSoil.Description>挖除沙子，湿地，泥巴和沼泽并放上土壤，来种植作物。</ReclaimSoil.Description>
+
+	<PlowSoil.label>肥沃耕地</PlowSoil.label>
+
+	<PlowSoil.Description>犁过的土壤能提供给作物更高效的生长环境。</PlowSoil.Description>
+
+	
+
+	
+
+	
+
+	 <!--<Permafrost.label>永冻层</Permafrost.label>--> 
+	 <!--<Permafrost.Description>在土壤上铺一层冰。你不能在上面耕作，但可以进一步改善土壤。</Permafrost.Description>--> 
+</LanguageData>

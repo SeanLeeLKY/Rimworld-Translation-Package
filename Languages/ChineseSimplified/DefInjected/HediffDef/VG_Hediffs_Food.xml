@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<HedStew.label>回味炖菜</HedStew.label>
+
+	
+
+	<HedGmeat.label>回味烤肉</HedGmeat.label>
+
+	
+
+	<HedIceCream.label>回味冰淇淋</HedIceCream.label>
+
+	
+
+	<HedPizza.label>回味披萨</HedPizza.label>
+
+	
+
+	<HedPorridge.label>回味稀饭</HedPorridge.label>
+
+	
+
+	<HedSmoothie.label>回味奶昔</HedSmoothie.label>
+
+	
+
+	<HedStirfry.label>回味炒菜</HedStirfry.label>
+
+	
+
+	<HedTacos.label>回味玉米卷</HedTacos.label>
+
+	
+
+	<HedYogurt.label>回味酸奶</HedYogurt.label>
+
+	
+
+	<HedGrilledchz.label>回味烤奶酪</HedGrilledchz.label>
+
+	
+
+	<HedSweetbun.label>回味甜面包</HedSweetbun.label>
+
+	
+
+	<HedPolenta.label>回味玉米糊</HedPolenta.label>
+
+	
+
+	 <!--<rep>
+		<path>HedStew.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedGmeat.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedIceCream.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedPizza.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedPorridge.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedSmoothie.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedStirfry.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedTacos.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedYogurt.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedGrilledchz.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedSweetbun.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>HedPolenta.stages[0].label</path>
+		<trans>美食</trans>
+	</rep>--> 
+</LanguageData>

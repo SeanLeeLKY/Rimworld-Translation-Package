@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Oven.label>烤炉</Oven.label>
+
+	<Oven.Description>一个石制的烤炉用来烘培食物。</Oven.Description>
+
+	<Canningstove.label>食品加工台</Canningstove.label>
+
+	<Canningstove.Description>配备多重设备的灶台,用来榨汁和处理食材。</Canningstove.Description>
+	
+	<HandCanningstove.label>手动食品加工台</HandCanningstove.label>
+
+	<HandCanningstove.Description>配备简单设备的食品处理单元,可以用来简单处理食材，不需要电力支持。</HandCanningstove.Description>
+
+	<CandyTable.label>糖果桌</CandyTable.label>
+
+	<CandyTable.Description>用来烘培美味的甜点。</CandyTable.Description>
+
+	<CookingTools.label>烹调工具台</CookingTools.label>
+
+	<CookingTools.description>提升15%的烹调速度。需要被放置在炊具附近。会增幅附近所有炊具的速度。</CookingTools.description>
+
+	<Outdoorlight.label>室外灯</Outdoorlight.label>
+
+	<Outdoorlight.description>可以抵御各种恶劣天气的光源。</Outdoorlight.description>
+
+	<Drinkmachine.label>冰淇淋机</Drinkmachine.label>
+
+	<Drinkmachine.Description>可以制作奶制冷饮的机器。</Drinkmachine.Description>
+
+	<GrindStone.label>石磨</GrindStone.label>
+
+	<GrindStone.Description>人力驱动的用来磨制食物的小设备。</GrindStone.Description>
+
+	<TableLoom.label>缝纫机</TableLoom.label>
+
+	<TableLoom.Description>用来将纤维原料织成纺织品的缝纫机。</TableLoom.Description>
+
+	<TableMedical.label>制药台</TableMedical.label>
+
+	<TableMedical.Description>用来生产药物的桌子</TableMedical.Description>
+
+	<FueledSmithy.Description>用木材当燃料的锻造台，制造非机械武器和工具</FueledSmithy.Description>
+
+</LanguageData>

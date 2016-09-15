@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Caffeine.label>咖啡因</Caffeine.label>
+
+	
+
+	
+	<rep>
+		<path>CaffeineHigh.stages[0].label</path>
+		<trans>一杯充满活力的热饮。</trans>
+	</rep>
+
+	<rep>
+		<path>CaffeineHigh.stages[0].description</path>
+		<trans>我感觉活力满满。</trans>
+	</rep>
+
+	<rep>
+		<path>CaffeineHigh.stages[1].label</path>
+		<trans>好大的一杯！</trans>
+	</rep>
+
+	<rep>
+		<path>CaffeineHigh.stages[1].description</path>
+		<trans>哇，那几杯火力十足的饮料 ！</trans>
+	</rep>
+
+	<Chemical_Caffeine.label>咖啡因迷醉</Chemical_Caffeine.label>
+
+	<Chemical_Caffeine.description>由于咖啡因上瘾，这个人需要经常喝咖啡以避免戒断症状。</Chemical_Caffeine.description>
+
+	<CaffeineTolerance.label>咖啡因忍耐</CaffeineTolerance.label>
+
+	<CaffeineAddiction.label>咖啡因戒断</CaffeineAddiction.label>
+
+	<rep>
+		<path>CaffeineWithdrawal.stages[1].label</path>
+		<trans>咖啡因戒断</trans>
+	</rep>
+
+	<rep>
+		<path>CaffeineWithdrawal.stages[1].description</path>
+		<trans>感觉烦躁。一切都让我气爆了。我一直想喝点什么。</trans>
+	</rep>
+
+	 <!--<rep>
+		<path>Caffeine.stages[0].label</path>
+		<trans>提神</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>Caffeine.stages[1].label</path>
+		<trans>亢奋</trans>
+	</rep>--> 
+</LanguageData>

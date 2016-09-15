@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<aloe.label>芦荟</aloe.label>
+
+	<aloe.description>一捆芦荟叶。</aloe.description>
+
+	<Bandagekit.label>绷带</Bandagekit.label>
+
+	<Bandagekit.description>用布制成的绷带包。不如药物疗效好。</Bandagekit.description>
+
+	<Herbmedicine.label>简单药物</Herbmedicine.label>
+
+	<Herbmedicine.description>一包混合药物。不如正规药物疗效好。\n用芦荟和布制成。</Herbmedicine.description>
+
+	<Healthdrink.label>健康饮料</Healthdrink.label>
+
+	<Healthdrink.description>用水果和药物制成的饮品，用来缓解不适感。</Healthdrink.description>
+
+</LanguageData>

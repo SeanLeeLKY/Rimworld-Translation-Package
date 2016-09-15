@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MedicalDrink.label>抗生素</MedicalDrink.label>
+	 
+	 
+	 
+	 
+	 
+	 
+
+	 <!--<rep>
+		<path>MedicalDrink.stages[0].label</path>
+		<trans>暗爽</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>MedicalDrink.stages[1].label</path>
+		<trans>感觉好些了</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>MedicalDrink.stages[2].label</path>
+		<trans>药力消退中</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>MedicalDrink.stages[3].label</path>
+		<trans>药力反复</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>MedicalDrink.stages[4].label</path>
+		<trans>过量</trans>
+	</rep>--> 
+	 <!--<rep>
+		<path>MedicalDrink.stages[5].label</path>
+		<trans>严重过量</trans>
+	</rep>--> 
+</LanguageData>

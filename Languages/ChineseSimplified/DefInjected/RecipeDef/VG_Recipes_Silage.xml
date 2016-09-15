@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MakeSilage.label>制作青储饲料</MakeSilage.label>
+
+	<MakeSilage.description>用干草混合其他植物原料制作青储饲料。</MakeSilage.description>
+
+	<MakeSilage.jobString>制作青储饲料</MakeSilage.jobString>
+
+</LanguageData>

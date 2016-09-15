@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<rep>
+		<path>Marijuana.stages[0].label</path>
+		<trans>嗨大麻（暗爽）</trans>
+	</rep>
+
+	<rep>
+		<path>Marijuana.stages[0].description</path>
+		<trans>我要掩饰内心的喜悦。</trans>
+	</rep>
+
+	<rep>
+		<path>Marijuana.stages[1].label</path>
+		<trans>嗨大麻（飘飘然）</trans>
+	</rep>
+
+	<rep>
+		<path>Marijuana.stages[1].description</path>
+		<trans>抽了这玩意儿，让我感觉很轻松。真TM是个好东西！</trans>
+	</rep>
+
+	<rep>
+		<path>Marijuana.stages[2].label</path>
+		<trans>嗨大麻（兴奋）</trans>
+	</rep>
+
+	<rep>
+		<path>Marijuana.stages[2].description</path>
+		<trans>感觉好温暖！好爽！</trans>
+	</rep>
+
+	<rep>
+		<path>Marijuana.stages[3].label</path>
+		<trans>嗨大麻（感觉自己棒棒哒）</trans>
+	</rep>
+
+	<rep>
+		<path>Marijuana.stages[3].description</path>
+		<trans>我现在爽到爆！见证这个伟大的时刻吧！</trans>
+	</rep>
+
+	<rep>
+		<path>Marijuana.stages[4].label</path>
+		<trans>嗨大麻（嗨爆了）</trans>
+	</rep>
+
+	<rep>
+		<path>Marijuana.stages[4].description</path>
+		<trans>卧槽！嗨过头了，有点心累。。。</trans>
+	</rep>
+
+	<rep>
+		<path>Tobacco.stages[0].label</path>
+		<trans>飙根烟（镇定）</trans>
+	</rep>
+
+	<rep>
+		<path>Tobacco.stages[0].description</path>
+		<trans>我感觉很淡定。</trans>
+	</rep>
+
+	<rep>
+		<path>Tobacco.stages[1].label</path>
+		<trans>飙根烟（小激动）</trans>
+	</rep>
+
+	<rep>
+		<path>Tobacco.stages[1].description</path>
+		<trans>我感觉浑身舒坦！</trans>
+	</rep>
+
+</LanguageData>

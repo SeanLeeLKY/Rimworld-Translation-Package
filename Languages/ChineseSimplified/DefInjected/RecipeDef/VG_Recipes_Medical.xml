@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Make_Bandagekit.label>制作绷带</Make_Bandagekit.label>
+
+	<Make_Bandagekit.description>用布制成绷带。</Make_Bandagekit.description>
+
+	<Make_Bandagekit.jobString>正在制作绷带。</Make_Bandagekit.jobString>
+
+	<Make_Herbmedicine.label>制作简单药物</Make_Herbmedicine.label>
+
+	<Make_Herbmedicine.description>用芦荟和布混合制成简单药物。</Make_Herbmedicine.description>
+
+	<Make_Herbmedicine.jobString>正在制作简单药物。</Make_Herbmedicine.jobString>
+
+	<Make_Medicine.label>制作药物</Make_Medicine.label>
+
+	<Make_Medicine.description>用药草和布混合制成药物。</Make_Medicine.description>
+
+	<Make_Medicine.jobString>正在制作药物。</Make_Medicine.jobString>
+	
+	<Make_Neutroamine.label>制作中性胺</Make_Neutroamine.label>
+
+	<Make_Neutroamine.description>用元素铃提炼中性胺。</Make_Neutroamine.description>
+
+	<Make_Neutroamine.jobString>正在制作。</Make_Neutroamine.jobString>
+	
+	
+
+	<Make_GlitterMedicine.label>制作闪耀世界药物</Make_GlitterMedicine.label>
+
+	<Make_GlitterMedicine.description>用芦荟，绷带和药草混合制成闪耀世界药物。</Make_GlitterMedicine.description>
+
+	<Make_GlitterMedicine.jobString>正在制作制作闪耀世界药物。</Make_GlitterMedicine.jobString>
+
+</LanguageData>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MakeHardcandy.label>制作硬糖 (4)</MakeHardcandy.label>
+
+	<MakeHardcandy.description>用食糖制作甜甜的糖果。</MakeHardcandy.description>
+
+	<MakeHardcandy.jobString>正在制作硬糖。</MakeHardcandy.jobString>
+
+	<MakeCaramel.label>制作焦糖 (4)</MakeCaramel.label>
+
+	<MakeCaramel.description>用食糖制作甜甜的糖果。</MakeCaramel.description>
+
+	<MakeCaramel.jobString>正在制作焦糖。</MakeCaramel.jobString>
+
+	<MakeTaffy.label>制作太妃糖 (4)</MakeTaffy.label>
+
+	<MakeTaffy.description>用食糖制作甜甜的糖果。</MakeTaffy.description>
+
+	<MakeTaffy.jobString>正在制作太妃糖。</MakeTaffy.jobString>
+
+	<CraftChocolate.label>烘制巧克力 (10)</CraftChocolate.label>
+
+	<CraftChocolate.description>将可可豆烘制成巧克力。</CraftChocolate.description>
+
+	<CraftChocolate.jobString>正在烘制巧克力。</CraftChocolate.jobString>
+
+</LanguageData>

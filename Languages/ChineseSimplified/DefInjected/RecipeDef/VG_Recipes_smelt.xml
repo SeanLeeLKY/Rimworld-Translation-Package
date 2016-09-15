@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<ExtractRawSteelLeaf.label>提炼钢叶</ExtractRawSteelLeaf.label>
+
+	<ExtractRawSteelLeaf.description>用热量和强磁将金属物质从钢叶中提炼出来。\n会从16份钢叶中提炼4份钢。</ExtractRawSteelLeaf.description>
+
+	<ExtractRawSteelLeaf.jobString>正在提炼钢叶。</ExtractRawSteelLeaf.jobString>
+
+	<ExtractRawPlasteelLeaf.label>提炼玻璃钢叶</ExtractRawPlasteelLeaf.label>
+
+	<ExtractRawPlasteelLeaf.description>用热量和强磁将金属物质从玻璃钢叶中提炼出来。\n会从16份玻璃钢叶中提炼4份玻璃钢。</ExtractRawPlasteelLeaf.description>
+
+	<ExtractRawPlasteelLeaf.jobString>正在提炼玻璃钢叶。</ExtractRawPlasteelLeaf.jobString>
+
+	<ExtractRawGoldLeaf.label>提炼黄金叶</ExtractRawGoldLeaf.label>
+
+	<ExtractRawGoldLeaf.description>用热量和强磁将金属物质从黄金叶中提炼出来。\n会从16份黄金叶中提炼4份黄金。</ExtractRawGoldLeaf.description>
+
+	<ExtractRawGoldLeaf.jobString>正在提炼黄金叶。</ExtractRawGoldLeaf.jobString>
+
+	<ExtractRawSilverLeaf.label>提炼白银叶</ExtractRawSilverLeaf.label>
+
+	<ExtractRawSilverLeaf.description>用热量和强磁将金属物质从白银叶中提炼出来。\n会从16份白银叶中提炼4份白银。</ExtractRawSilverLeaf.description>
+
+	<ExtractRawSilverLeaf.jobString>正在提炼白银叶。</ExtractRawSilverLeaf.jobString>
+
+	<ExtractRawUraniumLeaf.label>提炼铀叶</ExtractRawUraniumLeaf.label>
+
+	<ExtractRawUraniumLeaf.description>用热量和强磁将金属物质从铀叶中提炼出来。\n会从16份铀叶中提炼4份铀。</ExtractRawUraniumLeaf.description>
+
+	<ExtractRawUraniumLeaf.jobString>正在提炼铀叶。</ExtractRawUraniumLeaf.jobString>
+
+	<ExtractBulkSteelLeaf.label>批量提炼钢叶</ExtractBulkSteelLeaf.label>
+
+	<ExtractBulkSteelLeaf.description>用热量和强磁将金属物质从钢叶中提炼出来。\n会从64份钢叶中提炼16份钢。</ExtractBulkSteelLeaf.description>
+
+	<ExtractBulkSteelLeaf.jobString>正在提炼钢叶。</ExtractBulkSteelLeaf.jobString>
+
+	<ExtractBulkPlasteelLeaf.label>批量提炼玻璃钢叶</ExtractBulkPlasteelLeaf.label>
+
+	<ExtractBulkPlasteelLeaf.description>用热量和强磁将金属物质从玻璃钢叶中提炼出来。\n会从64份玻璃钢叶中提炼16份玻璃钢。</ExtractBulkPlasteelLeaf.description>
+
+	<ExtractBulkPlasteelLeaf.jobString>正在提炼玻璃钢叶。</ExtractBulkPlasteelLeaf.jobString>
+
+	<ExtractbulkGoldLeaf.label>批量提炼黄金叶</ExtractbulkGoldLeaf.label>
+
+	<ExtractbulkGoldLeaf.description>用热量和强磁将金属物质从黄金叶中提炼出来。\n会从64份黄金叶中提炼16份黄金。</ExtractbulkGoldLeaf.description>
+
+	<ExtractbulkGoldLeaf.jobString>正在提炼黄金叶。</ExtractbulkGoldLeaf.jobString>
+
+	<ExtractBulkSilverLeaf.label>批量提炼白银叶</ExtractBulkSilverLeaf.label>
+
+	<ExtractBulkSilverLeaf.description>用热量和强磁将金属物质从白银叶中提炼出来。\n会从64份白银叶中提炼16份白银。</ExtractBulkSilverLeaf.description>
+
+	<ExtractBulkSilverLeaf.jobString>正在提炼白银叶。</ExtractBulkSilverLeaf.jobString>
+
+	<ExtractBulkUraniumLeaf.label>批量提炼铀叶</ExtractBulkUraniumLeaf.label>
+
+	<ExtractBulkUraniumLeaf.description>用热量和强磁将金属物质从铀叶中提炼出来。\n会从64份铀叶中提炼16份铀。</ExtractBulkUraniumLeaf.description>
+
+	<ExtractBulkUraniumLeaf.jobString>正在提炼铀叶。</ExtractBulkUraniumLeaf.jobString>
+
+</LanguageData>

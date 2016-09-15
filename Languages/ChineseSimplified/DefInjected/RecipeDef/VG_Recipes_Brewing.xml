@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Distillcider.label>酿造苹果酒 (4)</Distillcider.label>
+
+	<Distillcider.description>酿造一瓶苹果酒。</Distillcider.description>
+
+	<Distillcider.jobString>正在酿造苹果酒。</Distillcider.jobString>
+
+	<Distillrum.label>酿造朗姆酒 (4)</Distillrum.label>
+
+	<Distillrum.description>酿造一瓶朗姆酒。</Distillrum.description>
+
+	<Distillrum.jobString>正在酿造朗姆酒。</Distillrum.jobString>
+
+	<PressWine.label>酿造葡萄酒 (4)</PressWine.label>
+
+	<PressWine.description>酿造一瓶葡萄酒。</PressWine.description>
+
+	<PressWine.jobString>正在榨葡萄汁。</PressWine.jobString>
+
+	<Fruitdrink.label>榨果汁 (2)</Fruitdrink.label>
+
+	<Fruitdrink.description>将水果榨成鲜甜的饮料。</Fruitdrink.description>
+
+	<Fruitdrink.jobString>正在榨果汁。</Fruitdrink.jobString>
+
+	<MakeChocolatemilk.label>调配巧克力奶 (4)</MakeChocolatemilk.label>
+
+	<MakeChocolatemilk.description>混合巧克力和牛奶的美味饮料。</MakeChocolatemilk.description>
+
+	<MakeChocolatemilk.jobString>正在调制巧克力奶。</MakeChocolatemilk.jobString>
+
+	<Makehealthdrink.label>调配健康饮料</Makehealthdrink.label>
+
+	<Makehealthdrink.description>融合药草和水果的健康饮料。</Makehealthdrink.description>
+
+	<Makehealthdrink.jobString>正在调配健康饮料。</Makehealthdrink.jobString>
+
+	<DistillStrawberryWine.label>酿造草莓酒 (4)</DistillStrawberryWine.label>
+
+	<DistillStrawberryWine.description>酿造一瓶草莓酒。</DistillStrawberryWine.description>
+
+	<DistillStrawberryWine.jobString>正在酿造草莓酒。</DistillStrawberryWine.jobString>
+
+	<DistillSaki.label>酿造清酒 (4)</DistillSaki.label>
+
+	<DistillSaki.description>酿造一瓶清酒。</DistillSaki.description>
+
+	<DistillSaki.jobString>正在酿造清酒。</DistillSaki.jobString>
+
+	<DistillVodka.label>酿造伏特加 (4)</DistillVodka.label>
+
+	<DistillVodka.description>用土豆酿造一瓶伏特加。</DistillVodka.description>
+
+	<DistillVodka.jobString>正在酿造伏特加。</DistillVodka.jobString>
+
+	<DistillTequila.label>酿造龙舌兰酒 (4)</DistillTequila.label>
+
+	<DistillTequila.description>用龙舌兰酿造一瓶龙舌兰酒。</DistillTequila.description>
+
+	<DistillTequila.jobString>正在酿造龙舌兰。</DistillTequila.jobString>
+
+	<DistillWhisky.label>酿造威士忌 (4)</DistillWhisky.label>
+
+	<DistillWhisky.description>用玉米酿造一瓶威士忌。</DistillWhisky.description>
+
+	<DistillWhisky.jobString>正在酿造威士忌。</DistillWhisky.jobString>
+
+</LanguageData>

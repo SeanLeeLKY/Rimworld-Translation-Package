@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RawCotton.label>棉花</RawCotton.label>
+
+	<RawCotton.description>棉花。它可以被编织成布或卖给商人。</RawCotton.description>
+
+	<RawFlax.label>亚麻</RawFlax.label>
+
+	<RawFlax.description>亚麻。它可以被编织成布或卖给商人。</RawFlax.description>
+
+	<RawDevilstrand.label>魔鬼绳</RawDevilstrand.label>
+
+	<RawDevilstrand.description>魔鬼绳。它可以被编织成布或卖给商人。</RawDevilstrand.description>
+
+	<HempCloth.label>大麻纤维</HempCloth.label>
+
+	<HempCloth.description>那些种大麻的家伙觉得这也是一种纺织原料。。。真是个好主意？</HempCloth.description>
+
+	<HempCloth.stuffProps.stuffAdjective>大麻纤维</HempCloth.stuffProps.stuffAdjective>
+
+	<Flaxcloth.label>亚麻布</Flaxcloth.label>
+
+	<Flaxcloth.description>用以制作衣物的纤维。它很柔软，轻巧且有韧性。</Flaxcloth.description>
+
+	<BleadedLeather.label>混合皮</BleadedLeather.label>
+
+	<BleadedLeather.description>用各类皮革混合制成的皮料。</BleadedLeather.description>
+
+	
+
+</LanguageData>

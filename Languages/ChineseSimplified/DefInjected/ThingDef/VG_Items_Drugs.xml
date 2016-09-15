@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Joint.label>大麻烟</Joint.label>
+
+	<Joint.description>一种含有四氢大麻酚的成瘾性纸卷烟。</Joint.description>
+
+	<Cigarillos.label>卷烟</Cigarillos.label>
+
+	<Cigarillos.description>一盒20支的香烟。</Cigarillos.description>
+
+	<Cannabis.label>大麻</Cannabis.label>
+
+	<Cannabis.description>雌性植物经干燥的花和毛状体，主要富含化学成份为四氢大麻酚。</Cannabis.description>
+
+	<RawTobacco.label>烟草</RawTobacco.label>
+
+	<RawTobacco.description>烟叶的产物，不能食用，但可以做成卷烟来抽。</RawTobacco.description>
+
+</LanguageData>

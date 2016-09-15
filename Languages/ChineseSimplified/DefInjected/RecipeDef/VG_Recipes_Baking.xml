@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<BakeBread.label>烘培面包 (4)</BakeBread.label>
+
+	<BakeBread.description>直接用面粉来烘培面包。 \n一次烘培4份。</BakeBread.description>
+
+	<BakeBread.jobString>正在烘培面包。</BakeBread.jobString>
+
+	<Bakesweetroll.label>烘培甜甜圈 (4)</Bakesweetroll.label>
+
+	<Bakesweetroll.description>洒满了糖霜的甜面包。 \n一次烘培4份。 \n食物影响：意识和行动。</Bakesweetroll.description>
+
+	<Bakesweetroll.jobString>正在烘培甜甜圈。</Bakesweetroll.jobString>
+
+	<Bakepizza.label>烘焙披萨 (4)</Bakepizza.label>
+
+	<Bakepizza.description>烘焙披萨。 \n一次烘培4份。 \n食物影响：意识和新陈代谢。</Bakepizza.description>
+
+	<Bakepizza.jobString>正在烘焙披萨。</Bakepizza.jobString>
+
+	<BakeCookies.label>烘培曲奇 (12)</BakeCookies.label>
+
+	<BakeCookies.description>烘培曲奇。 \n一次烘培12份。</BakeCookies.description>
+
+	<BakeCookies.jobString>正在烘培曲奇。</BakeCookies.jobString>
+
+	<BakeBlueberryPie.label>烘培水果派 (4)</BakeBlueberryPie.label>
+
+	<BakeBlueberryPie.description>烘焙填满水果的美味水果派。 \n一次烘培4份。</BakeBlueberryPie.description>
+
+	<BakeBlueberryPie.jobString>正在烘培水果派。</BakeBlueberryPie.jobString>
+
+	<BakePumpkinPie.label>烘培南瓜派 (4)</BakePumpkinPie.label>
+
+	<BakePumpkinPie.description>烘培美味的南瓜派。 \n\n一次烘培4份.</BakePumpkinPie.description>
+
+	<BakePumpkinPie.jobString>正在烘培南瓜派</BakePumpkinPie.jobString>
+
+	<DryFruit.label>烘培果脯 (10)</DryFruit.label>
+
+	<DryFruit.description>烘干水果延长食用期。</DryFruit.description>
+
+	<DryFruit.jobString>正在烘培果脯。</DryFruit.jobString>
+
+	<Bakepolenta.label>烘培玉米糊 (4)</Bakepolenta.label>
+
+	<Bakepolenta.description>烘培美味的玉米糊 \n\n一次烘培4份。</Bakepolenta.description>
+
+	<Bakepolenta.jobString>正在烘培玉米糊。</Bakepolenta.jobString>
+
+	<BakeCornbread.label>烘培玉米面包 (4)</BakeCornbread.label>
+
+	<BakeCornbread.description>烘培美味的玉米面包 \n\n一次烘培4份。</BakeCornbread.description>
+
+	<BakeCornbread.jobString>正在烘培玉米面包。</BakeCornbread.jobString>
+
+	<BakeCornbreadmuffin.label>烘培玉米松饼(12)</BakeCornbreadmuffin.label>
+
+	<BakeCornbreadmuffin.description>烘培美味的玉米松饼 \n\n一次烘培12份。</BakeCornbreadmuffin.description>
+
+	<BakeCornbreadmuffin.jobString>正在烘培玉米松饼。</BakeCornbreadmuffin.jobString>
+
+	<Bakemuffin.label>烘培松饼 (12)</Bakemuffin.label>
+
+	<Bakemuffin.description>烘培填满水果的美味松饼. \n\n一次烘培12份。</Bakemuffin.description>
+
+	<Bakemuffin.jobString>正在烘培松饼。</Bakemuffin.jobString>
+
+	<Bakechocomuffin.label>烘培巧克力松饼 (12)</Bakechocomuffin.label>
+
+	<Bakechocomuffin.description>烘培满是巧克力的美味松饼 \n\n一次烘培12份。</Bakechocomuffin.description>
+
+	<Bakechocomuffin.jobString>正在烘培巧克力松饼。</Bakechocomuffin.jobString>
+
+</LanguageData>

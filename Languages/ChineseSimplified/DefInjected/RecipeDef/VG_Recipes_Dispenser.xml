@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MakeIcecream.label>制作冰淇淋 (4)</MakeIcecream.label>
+
+	<MakeIcecream.description>用牛奶做成的冰凉甜点。\n一次做4份。\n食物影响：行动和血液循环。</MakeIcecream.description>
+
+	<MakeIcecream.jobString>正在制作冰淇淋。</MakeIcecream.jobString>
+
+	<MakeYogurt.label>制作酸奶 (4)</MakeYogurt.label>
+
+	<MakeYogurt.description>用牛奶做成的甜点。\n一次做4份。\n食物影响：视觉和血液过滤。</MakeYogurt.description>
+
+	<MakeYogurt.jobString>正在制作酸奶。</MakeYogurt.jobString>
+
+	<MakeSmoothie.label>制作奶昔 (6)</MakeSmoothie.label>
+
+	<MakeSmoothie.description>用鲜甜的水果和牛奶做成的饮料。\n一次做6份。\n食物影响：视觉和行动。</MakeSmoothie.description>
+
+	<MakeSmoothie.jobString>正在制作奶昔。</MakeSmoothie.jobString>
+
+</LanguageData>

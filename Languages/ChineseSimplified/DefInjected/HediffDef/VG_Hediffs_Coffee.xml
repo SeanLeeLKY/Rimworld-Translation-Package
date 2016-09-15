@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Coffee.label>咖啡余韵</Coffee.label>
+
+	<StrongCoffee.label>浓郁的咖啡</StrongCoffee.label>
+
+	<rep>
+		<path>Coffee.stages[0].label</path>
+		<trans>提神</trans>
+	</rep>
+
+	<rep>
+		<path>Coffee.stages[1].label</path>
+		<trans>兴奋</trans>
+	</rep>
+
+	<rep>
+		<path>StrongCoffee.stages[0].label</path>
+		<trans>提神</trans>
+	</rep>
+
+	<rep>
+		<path>StrongCoffee.stages[1].label</path>
+		<trans>兴奋</trans>
+	</rep>
+
+</LanguageData>

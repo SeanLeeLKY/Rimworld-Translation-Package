@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Rawwheat.label>小麦</Rawwheat.label>
+
+	<Rawwheat.description>小麦是一种谷物，用来磨制成面粉。</Rawwheat.description>
+
+	<Rawcocoa.label>可可豆</Rawcocoa.label>
+
+	<Rawcocoa.description>可制成巧克力的可可豆。</Rawcocoa.description>
+
+	<Rawsugarcane.label>甘蔗</Rawsugarcane.label>
+
+	<Rawsugarcane.description>从甘蔗丛中收获的甘蔗。</Rawsugarcane.description>
+
+	<Sugar.label>砂糖</Sugar.label>
+
+	<Sugar.description>从甘蔗中提炼而成，用于烹饪。</Sugar.description>
+
+	<Flour.label>面粉</Flour.label>
+
+	<Flour.description>面粉，用于烹饪。</Flour.description>
+
+	
+
+	
+
+	<Cornmeal.label>玉米面</Cornmeal.label>
+
+	<Cornmeal.description>玉米面，用于烹饪。</Cornmeal.description>
+
+	<RawCoffee.label>咖啡豆</RawCoffee.label>
+
+	<RawCoffee.description>用来冲调饮品的咖啡豆。</RawCoffee.description>
+
+	<Rawtea.label>茶叶</Rawtea.label>
+
+	<Rawtea.description>用来泡茶的茶叶。</Rawtea.description>
+
+	<Rawdough.label>生面团</Rawdough.label>
+
+	<Rawdough.description>用面粉，糖，牛奶和鸡蛋混合而成的食品原料。</Rawdough.description>
+
+	<soymilk.label>豆奶</soymilk.label>
+
+	<soymilk.description>黄豆榨成混合牛奶的豆奶。</soymilk.description>
+
+	<coconutmilk.label>椰汁</coconutmilk.label>
+
+	<coconutmilk.description>椰子的汁液。</coconutmilk.description>
+	
+	<NeutroPetals.label>元素铃花瓣</NeutroPetals.label>
+
+	<NeutroPetals.description>元素铃的花瓣，可以用来制作中性胺。</NeutroPetals.description>
+
+	
+
+
+	 <!--<Healthdrink.label>健康饮料</Healthdrink.label>--> 
+	 <!--<Healthdrink.description>用水果和药物制成的饮品，用来缓解不适感。</Healthdrink.description>--> 
+</LanguageData>

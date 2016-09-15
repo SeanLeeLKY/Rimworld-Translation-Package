@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<rep>
+		<path>Hotdrink.stages[0].label</path>
+		<trans>热饮</trans>
+	</rep>
+
+	<rep>
+		<path>Hotdrink.stages[0].description</path>
+		<trans>我喝了十分美味的饮料，现在感觉萌萌哒！</trans>
+	</rep>
+
+	<rep>
+		<path>HadCoffee.stages[0].label</path>
+		<trans>喝了一杯提神的咖啡。</trans>
+	</rep>
+
+	<rep>
+		<path>HadCoffee.stages[0].description</path>
+		<trans>我全身都来了感觉！</trans>
+	</rep>
+
+	<rep>
+		<path>HadCoffee.stages[1].label</path>
+		<trans>喝了一杯浓咖啡。</trans>
+	</rep>
+
+	<rep>
+		<path>HadCoffee.stages[1].description</path>
+		<trans>喔吼~好醇厚的咖啡！这感觉不敢相信！</trans>
+	</rep>
+
+	<rep>
+		<path>SomethingGood.stages[0].label</path>
+		<trans>美味的食物！</trans>
+	</rep>
+
+	<rep>
+		<path>SomethingGood.stages[0].description</path>
+		<trans>太好吃了，吃货忍不住啊！让我发自内心的愉快。</trans>
+	</rep>
+
+</LanguageData>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<agriculture.label>VG-农业 I</agriculture.label>
+
+	<agriculture.description>研究可解锁更多可种植的农产品！ \n\n 解锁新的可种植的蔬菜。 \n\n 解锁茄子，黄豆，南瓜，西葫芦，番茄，红扁豆，蘑菇。并且可以解锁花与树的研究项目。 </agriculture.description>
+
+	<agricultureII.label>VG-农业 II</agricultureII.label>
+
+	<agricultureII.description>研究可解锁更多可种植的农产品！ \n\n 解锁新的可种植的水果，水果产量更高，烹饪消耗更少。 \n\n 解锁凤梨，葡萄，云莓，醋栗，龙舌兰，草莓，蓝莓，西瓜。</agricultureII.description>
+
+	<agricultureIII.label>VG-农业 III</agricultureIII.label>
+
+	<agricultureIII.description>研究可解锁更多可种植的农产品！ \n\n 解锁新的可种植的果树，果树生长周期长，但是可以反复收获果实。\n\n 解锁产苹果，香蕉，樱桃，橄榄，橙子，桃子，海枣，无花果的果树。</agricultureIII.description>
+
+	<flowersandtrees.label>VG-花与树</flowersandtrees.label>
+
+	<flowersandtrees.description>研究更多可种植的花和树。</flowersandtrees.description>
+
+	<resourceleafs.label>VG-可提炼金属叶</resourceleafs.label>
+
+	<resourceleafs.description>研究可以从地下吸收金属分子生长的植物，可以在电提炼器进行金属提炼。</resourceleafs.description>
+
+	<CookingI.label>VG-先进烹饪</CookingI.label>
+
+	<CookingI.description>研究高级烹饪仪器的制作方法。解锁电力炉灶，制糖桌和冰淇淋机。</CookingI.description>
+
+	<SoilReclam.label>VG-土壤改良 I</SoilReclam.label>
+
+	<SoilReclam.description>研究开垦可耕种土壤的方法。\n解锁将土壤填充在光滑地面上的技术。\n解锁园艺工具项目下的可放置土壤和花园土壤。</SoilReclam.description>
+
+	<SoilReclamII.label>VG-土壤改良 II</SoilReclamII.label>
+
+	<SoilReclamII.description>研究将沙子，湿地，泥土，沼泽和碎石地转变成可耕种土壤的方法。\n解锁犁过的土壤，用来增加作物生长速度。\n解锁园艺工具项目下的犁过的土壤和垦荒土壤。</SoilReclamII.description>
+
+	
+
+	
+
+	<AdvancedHydroponics.label>VG-先进水栽培</AdvancedHydroponics.label>
+
+	<AdvancedHydroponics.description>允许你建造高级水栽培桌，用来高效地在室内种植作物，并无视地形和气候限制。高级水栽培桌需要更多材料来建造，并需要供电以提供光照。提升作物生长速度。</AdvancedHydroponics.description>
+
+	 <!--<CraftMeds.label>VG-制药</CraftMeds.label>--> 
+	 <!--<CraftMeds.description>解锁用来制作绷带及药物的制药台。</CraftMeds.description>--> 
+</LanguageData>

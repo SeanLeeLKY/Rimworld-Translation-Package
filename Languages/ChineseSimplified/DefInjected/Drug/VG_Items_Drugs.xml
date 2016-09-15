@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Cigarillos.label>卷烟</Cigarillos.label>
+
+	<Cigarillos.description>一盒20支的香烟。</Cigarillos.description>
+
+	<rep>
+		<path>Tobacco.stages[0].label</path>
+		<trans>抽了一支香烟 (麻酥酥的很舒服)</trans>
+	</rep>
+
+	<rep>
+		<path>Tobacco.stages[0].description</path>
+		<trans>我觉得冷静、 沉着。</trans>
+	</rep>
+
+	<rep>
+		<path>Tobacco.stages[1].label</path>
+		<trans>舒服得让我飘飘欲仙。</trans>
+	</rep>
+
+	<rep>
+		<path>Tobacco.stages[1].description</path>
+		<trans>我要飞起来啦~</trans>
+	</rep>
+
+	<Tobacco.label>烟草</Tobacco.label>
+
+	<!-- <Tobacco.label>Tobacco</Tobacco.label> -->
+
+	<Chemical_Tobacco.label>香烟沉醉</Chemical_Tobacco.label>
+
+	<Chemical_Tobacco.description>由于烟草成瘾，这个人需要经常抽烟以避免戒断症状。</Chemical_Tobacco.description>
+
+	<TobaccoTolerance.label>烟草忍耐</TobaccoTolerance.label>
+
+	<TobaccoAddiction.label>烟草成瘾</TobaccoAddiction.label>
+
+	<rep>
+		<path>TobaccoWithdrawal.stages[1].label</path>
+		<trans>烟草戒断</trans>
+	</rep>
+
+	<rep>
+		<path>TobaccoWithdrawal.stages[1].description</path>
+		<trans>感觉烦躁。一切都让我气爆了。我一直在想抽烟的事。</trans>
+	</rep>
+
+</LanguageData>
