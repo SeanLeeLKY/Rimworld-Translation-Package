@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MakeFuelRods.label>制造核燃料棒</MakeFuelRods.label>
+
+	<MakeFuelRods.description>制作核燃料棒。</MakeFuelRods.description>
+
+	<MakeFuelRods.jobString>制造核燃料棒。</MakeFuelRods.jobString>
+
+	<MakeNuclearArtilleryShell.label>制造核炮弹</MakeNuclearArtilleryShell.label>
+
+	<MakeNuclearArtilleryShell.description>制造核炮弹。</MakeNuclearArtilleryShell.description>
+
+	<MakeNuclearArtilleryShell.jobString>制造核炮弹。</MakeNuclearArtilleryShell.jobString>
+
+	<MakeDUArtilleryShell.label>制造贫铀炮弹</MakeDUArtilleryShell.label>
+
+	<MakeDUArtilleryShell.description>制造贫铀炮弹。</MakeDUArtilleryShell.description>
+
+	<MakeDUArtilleryShell.jobString>制造贫铀炮弹。</MakeDUArtilleryShell.jobString>
+
+</LanguageData>

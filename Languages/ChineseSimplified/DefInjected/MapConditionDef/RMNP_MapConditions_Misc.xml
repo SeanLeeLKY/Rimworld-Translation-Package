@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RadioactiveFallout.label>放射性尘埃</RadioactiveFallout.label>
+
+	<RadioactiveFallout.description>其他地区的核泄漏导致空气中充满了放射性尘埃，这个地区的空气将会带有一段时间的强辐射.</RadioactiveFallout.description>
+
+	<RadioactiveFallout.endMessage>大部分放射性尘埃已经被吹离了这里.</RadioactiveFallout.endMessage>
+
+</LanguageData>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Plutonium.label>钚</Plutonium.label>
+
+	<EnrichedUranium.label>浓缩铀</EnrichedUranium.label>
+
+	<DepletedUranium.label>贫铀</DepletedUranium.label>
+
+	<DepletedUranium.description>贫铀。贫铀是一种非常致密的金属，可用于制作贫铀弹药和屏蔽辐射.</DepletedUranium.description>
+
+	<FuelRods.label>燃料棒</FuelRods.label>
+
+	<FuelRods.description>核燃料棒用于核电站产生热量.由此产生过热蒸汽.</FuelRods.description>
+
+	<FuelRodsCracked.label>损坏的燃料棒</FuelRodsCracked.label>
+
+	<FuelRodsCracked.description>损坏的燃料棒.这些损坏的燃料棒带有高度放射的,如果不进行妥善处理,可能会导致火灾.</FuelRodsCracked.description>
+
+	<SpentFuelRods.label>乏燃料棒</SpentFuelRods.label>
+
+	<SpentFuelRods.description>乏燃料棒将会作为核废料处理.</SpentFuelRods.description>
+
+	<ChunkRadioactiveSlag.label>放射性矿渣块</ChunkRadioactiveSlag.label>
+
+</LanguageData>

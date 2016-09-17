@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+
+	<coretemphigh>核心温度过高</coretemphigh>
+	<coretemphighDesc>反应堆在危险温度下运行</coretemphighDesc>
+
+	<SCRAMdesc>反应堆过热,可能会导致熔毁!</SCRAMdesc>
+	<Coremelt>核反应堆已经熔毁!放射性物质可能已经泄露,请立即撤离这里!</Coremelt>
+
+	<Turbines>涡轮机: </Turbines>
+	<coretemp>核心温度: </coretemp>
+	<flux>中子通量: </flux>
+	<Coolers>冷却塔: </Coolers>
+	<active> 激活</active>
+	<redundant> 冗余</redundant>
+	<rods>燃料棒 </rods>
+	<noreactor>没有检测到这个ID的反应堆 </noreactor>
+
+	<minusTen>降低 10C</minusTen>
+	<minusOne>降低 1C</minusOne>
+	<resetZero>设置为 0C</resetZero>
+	<reset>设置为 300C</reset>
+	<plusOne>提高 1C</plusOne>
+	<plusTen>提高 10C</plusTen>
+
+	<CRminusTen>插入控制棒 5%</CRminusTen>
+	<CRminusOne>插入控制棒 1%</CRminusOne>
+	<CRreset>关闭反应堆</CRreset>
+	<CRplusOne>减少控制棒 1%</CRplusOne>
+	<CRplusTen>减少控制棒 5%</CRplusTen>
+
+	<Enrichmentprog>浓缩进度 = </Enrichmentprog>
+
+
+	<Fuelremaining>剩余燃料 </Fuelremaining>
+
+	<crackedcore> 核心破裂!</crackedcore>
+	<rodlimit>燃料棒限制 = </rodlimit>
+
+	<plusOnerod>增加一根燃料棒</plusOnerod>
+	<minusOnerod>减少一根燃料棒</minusOnerod>
+
+	<setid>设置连接ID</setid>
+</LanguageData>

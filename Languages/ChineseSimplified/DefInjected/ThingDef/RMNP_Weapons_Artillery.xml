@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_MortarBomb_Nuclear.label>核弹</Bullet_MortarBomb_Nuclear.label>
+
+	<Nuclear_Artillery_MortarBomb.label>原子炮</Nuclear_Artillery_MortarBomb.label>
+
+	<Nuclear_Artillery_MortarBomb.description>迫击炮.使用前要装弹.精度差但射程远.</Nuclear_Artillery_MortarBomb.description>
+
+	<Bullet_MortarBomb_DU.label>爆炸的迫击炮弹</Bullet_MortarBomb_DU.label>
+
+	<Artillery_MortarBomb_DU.label>贫铀迫击炮弹</Artillery_MortarBomb_DU.label>
+
+	<Artillery_MortarBomb_DU.description>迫击炮.使用前要装弹.精度差但射程远.升级为使用贫铀炮弹可增加杀伤范围.</Artillery_MortarBomb_DU.description>
+
+</LanguageData>

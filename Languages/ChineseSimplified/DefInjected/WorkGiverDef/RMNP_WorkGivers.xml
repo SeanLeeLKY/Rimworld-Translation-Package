@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<StoreNuclearWaste.label>储存核废料</StoreNuclearWaste.label>
+
+	<StoreNuclearWaste.verb>储存核废料</StoreNuclearWaste.verb>
+
+	<StoreNuclearWaste.gerund>储存核废料</StoreNuclearWaste.gerund>
+
+	<DoBillsTableNuclear.label>核加工台上的工作</DoBillsTableNuclear.label>
+
+	<DoBillsTableNuclear.verb>核加工台上的工作</DoBillsTableNuclear.verb>
+
+	<DoBillsTableNuclear.gerund>核加工台上的工作</DoBillsTableNuclear.gerund>
+
+</LanguageData>

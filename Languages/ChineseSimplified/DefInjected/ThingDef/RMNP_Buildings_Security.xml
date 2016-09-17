@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<TurretGunDU.label>贫铀炮塔</TurretGunDU.label>
+
+	<TurretGunDU.description>自动射击附近的敌人.损坏时发生爆炸.炮塔的火控系统,不能直接控制,所以要小心火力误伤.</TurretGunDU.description>
+
+	<Turret_MortarBomb_DU.label>贫铀迫击炮台</Turret_MortarBomb_DU.label>
+
+	<Turret_MortarBomb_DU.description>一种发射爆炸性的炮弹的迫击炮.必须由人操作.损坏时发生爆炸</Turret_MortarBomb_DU.description>
+
+	<Nuclear_Turret_MortarBomb.label>原子大炮</Nuclear_Turret_MortarBomb.label>
+
+	<Nuclear_Turret_MortarBomb.description>发射核弹的大炮.</Nuclear_Turret_MortarBomb.description>
+
+</LanguageData>

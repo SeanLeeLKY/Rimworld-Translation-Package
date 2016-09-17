@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DryCask.label>废料桶</DryCask.label>
+
+	<DryCask.description>废料桶用于安全储存乏燃料.</DryCask.description>
+
+	<TableNuclear.label>核加工台</TableNuclear.label>
+
+	<TableNuclear.Description>核加工台可以拆解或者制造核武器或反应堆部件.</TableNuclear.Description>
+
+	<CoolingPipe.label>冷却管</CoolingPipe.label>
+
+	<CoolingPipe.description>用于连接模块化反应堆部件.可以放在墙壁和其他建筑物下.</CoolingPipe.description>
+
+	<UraniumCentrifuge.label>铀离心机</UraniumCentrifuge.label>
+
+	<UraniumCentrifuge.description>通过离心来制造浓缩铀.</UraniumCentrifuge.description>
+
+	<detachedGlower.label>detachedglower</detachedGlower.label>
+
+	<detachedGlower.Description>detachedglower</detachedGlower.Description>
+
+	<Turbine.label>涡轮机组</Turbine.label>
+
+	<Turbine.description>涡轮机组是利用反应堆产生的过热蒸汽推动涡轮机发电.每座反应堆需要超过一个涡轮机组来保证全功率运行.</Turbine.description>
+
+	<CoolingTower.label>冷却塔</CoolingTower.label>
+
+	<CoolingTower.description>冷却塔用于冷却反应堆，两个冷却塔可以冷却一座全功率输出的反应堆.冷却塔运行负荷由反应堆控制计算机决定.</CoolingTower.description>
+
+	<ReactorControl.label>反应堆控制计算机</ReactorControl.label>
+
+	<ReactorControl.description>控制核反应堆的计算机系统.控制冷却系统以及监控整个系统的运行情况.在反应堆出现异常时会自动停堆, 从而防止反应堆熔毁.</ReactorControl.description>
+
+	<ReactorCore.label>轻水反应堆</ReactorCore.label>
+
+	<ReactorCore.description>轻水反应堆是一种新型的核裂变反应堆.核心最高效温度范围是250-350度.运行温度不在此范围时,涡轮机组的效率将会大幅降低.在电网负荷大时,核心温度超过这个范围往往也是安全的.核心温度超过500C时会变得非常危险.如果温度超过600度.反应堆控制计算机将会紧急停堆.</ReactorCore.description>
+
+</LanguageData>

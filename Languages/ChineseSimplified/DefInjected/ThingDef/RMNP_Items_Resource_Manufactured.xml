@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<NuclearArtilleryShell.label>核弹</NuclearArtilleryShell.label>
+
+	<NuclearArtilleryShell.description>由原子大炮发射.</NuclearArtilleryShell.description>
+
+	<DU_ArtilleryShell.label>贫铀炮弹</DU_ArtilleryShell.label>
+
+	<DU_ArtilleryShell.description>由大炮发射.</DU_ArtilleryShell.description>
+
+</LanguageData>

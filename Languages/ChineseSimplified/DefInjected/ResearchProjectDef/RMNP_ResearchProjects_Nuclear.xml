@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<RadiationSuit.label>防辐射服</RadiationSuit.label>
+
+	<RadiationSuit.description>允许你制作防辐射服，以保护殖民者免受辐射</RadiationSuit.description>
+
+	<UraniumEnrichment.label>浓缩铀</UraniumEnrichment.label>
+
+	<UraniumEnrichment.description>解锁制取浓缩铀的工艺.</UraniumEnrichment.description>
+
+	<LightWaterReactor.label>轻水反应堆</LightWaterReactor.label>
+
+	<LightWaterReactor.description>解锁核发电技术, 建立一个用于核发电的轻水反应堆</LightWaterReactor.description>
+
+</LanguageData>

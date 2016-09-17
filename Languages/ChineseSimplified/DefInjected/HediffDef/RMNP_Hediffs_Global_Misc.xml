@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<FatalRad.label>致命辐射</FatalRad.label>
+
+	<Radiation.label>辐射病</Radiation.label>
+
+	<RadiationIncurable.label>永久辐射损伤</RadiationIncurable.label>
+
+	<CloneDegeneration.label>DNA退化</CloneDegeneration.label>
+
+</LanguageData>

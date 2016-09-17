@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<CoolantLeak.label>冷却液泄露</CoolantLeak.label>
+
+	<CrackedFuelrod.label>损坏的燃料棒</CrackedFuelrod.label>
+
+	<CrackedCore.label>裂变后的核心</CrackedCore.label>
+
+	<SteamBurst.label>高压蒸汽爆炸</SteamBurst.label>
+
+	<RadioactiveCoolantLeak.label>放射性冷却液泄漏</RadioactiveCoolantLeak.label>
+
+	<RadioactiveDust.label>放射性尘埃</RadioactiveDust.label>
+
+</LanguageData>
