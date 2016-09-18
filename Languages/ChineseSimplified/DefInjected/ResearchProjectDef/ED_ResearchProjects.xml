@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<Building_ShieldSmall_research.label>ED-小型能量护盾</Building_ShieldSmall_research.label>
+<Building_ShieldSmall_research.description>采用小型的发电技术制作的护盾,人们可以待在护盾里面免疫来自敌人的伤害。</Building_ShieldSmall_research.description>
+
+<Building_ShieldSIF_research.label>ED-希芙能量护盾</Building_ShieldSIF_research.label>
+<Building_ShieldSIF_research.description>在每个墙壁/门上创建一个小的圆形护盾而不是创建一个大的圆形护盾。</Building_ShieldSIF_research.description>
+	
+<Building_ShieldStandard_research.label>ED-标准能量护盾</Building_ShieldStandard_research.label>
+<Building_ShieldStandard_research.description>磁力护盾会让飞驰的弹丸被弹开。</Building_ShieldStandard_research.description>
+
+<Building_ShieldFortress_research.label>ED-堡垒能量护盾</Building_ShieldFortress_research.label>
+<Building_ShieldFortress_research.description>通过调整护盾线圈的垂直结构以达到拦截上方的攻击火力。</Building_ShieldFortress_research.description>
+
+	 <!--<WirelessPower_Research.label>ED-无线电力输送技术</WirelessPower_Research.label>--> 
+	 <!--<WirelessPower_Research.description>允许你构建一个无线电力输送网络。</WirelessPower_Research.description>--> 
+
+	<Building_Stargate_research.label>ED-星际传送导航定位</Building_Stargate_research.label>
+	<Building_Stargate_research.description>研究设备上的符号发现了恒星星座间的穿越参数，并学会了如何激活它并传送到别的地方。</Building_Stargate_research.description>
+
+	<Personal_Shield_research.label>ED-个人纳米护盾研究</Personal_Shield_research.label>
+	<Personal_Shield_research.description>采用纳米技术和小型化技术开发出为个人使用的防护盾。</Personal_Shield_research.description>
+
+</LanguageData>

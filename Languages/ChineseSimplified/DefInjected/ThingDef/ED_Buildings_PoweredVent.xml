@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<PoweredVent.label>通风孔(电动)</PoweredVent.label>
+	<PoweredVent.description>动力通风孔平衡两个房间之间的温度。需要电力操作，可以关闭以保持两个房间的温度差。</PoweredVent.description>
+
+</LanguageData>

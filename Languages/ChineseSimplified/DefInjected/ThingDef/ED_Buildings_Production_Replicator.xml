@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<Table_MK1_Replicator.Label>物质合成机I型</Table_MK1_Replicator.Label>
+<Table_MK1_Replicator.Description>一种高级的物质合成装置。</Table_MK1_Replicator.Description>
+  
+<Table_MK2_Replicator.Label>物质合成机II型</Table_MK2_Replicator.Label>
+<Table_MK2_Replicator.Description>一种高级的物质合成装置。</Table_MK2_Replicator.Description>
+
+ <Table_MK3_Replicator.Label>物质合成机III型</Table_MK3_Replicator.Label>
+ <Table_MK3_Replicator.Description>一种高级的物质合成装置。</Table_MK3_Replicator.Description>
+
+</LanguageData>

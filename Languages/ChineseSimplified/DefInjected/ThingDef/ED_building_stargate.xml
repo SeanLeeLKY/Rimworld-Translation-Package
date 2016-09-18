@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+
+	<Stargate.label>星际之门</Stargate.label>
+	<Stargate.description>星际之门，传送物资需要在旁边建造一个ED-料斗。</Stargate.description>
+
+	<OffWorldStargate.label>外星传送门</OffWorldStargate.label>
+	<OffWorldStargate.description>警告：激活这个传送门会移走地图上的所有殖民者，但也会为其他到达的殖民队伍创建一个星际之门。</OffWorldStargate.description>
+
+</LanguageData>

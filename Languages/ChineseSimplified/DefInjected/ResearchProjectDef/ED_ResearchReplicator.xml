@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Research_MK1_Replicator.label>ED-物质合成机I型</Research_MK1_Replicator.label>
+	<Research_MK1_Replicator.description>解锁制造物质合成机I型,能将欧姆尼凝胶合成钢渣块和岩石堆。</Research_MK1_Replicator.description>
+
+	<Research_MK2_Replicator.label>ED-物质合成机II型</Research_MK2_Replicator.label>
+	<Research_MK2_Replicator.description>解锁制造物质合成机II型, 能将欧姆尼凝胶合成石块、钢、银。</Research_MK2_Replicator.description>
+
+	<Research_MK3_Replicator.label>ED-物质合成机III型</Research_MK3_Replicator.label>
+	<Research_MK3_Replicator.description>解锁制造物质合成机III型,能将欧姆尼凝胶合成铀、黄金、玻璃钢、炮弹、药品和闪耀世界药品。</Research_MK3_Replicator.description>
+
+</LanguageData>

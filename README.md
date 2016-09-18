@@ -54,6 +54,8 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 作业工具  | Right Tool For The Job  | http://steamcommunity.com/sharedfiles/filedetails/?id=672718223	|	RTFTJ
 菜园子  | Vegetable Garden  | https://ludeon.com/forums/index.php?topic=12934.0	|	VG
 模块化核电  | Rimushima v2 Modular Nuclear Power | http://steamcommunity.com/sharedfiles/filedetails/?id=733769952	|	RMNP
+ED护盾系统  | ED-ShieldsBasic | http://steamcommunity.com/sharedfiles/filedetails/?id=726884610|	ED
+ED激光钻孔 | ED-Laser Drill |http://steamcommunity.com/sharedfiles/filedetails/?id=722086956	|	ED
 
 
 >模组所有权为创意工坊上作者所有.

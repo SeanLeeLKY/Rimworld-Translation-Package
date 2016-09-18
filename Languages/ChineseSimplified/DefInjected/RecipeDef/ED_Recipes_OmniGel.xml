@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<Replicate_MK1_SlagFromOmniGel.label>将欧姆尼凝胶合成为钢渣块</Replicate_MK1_SlagFromOmniGel.label>
+<Replicate_MK1_SlagFromOmniGel.description>将欧姆尼凝胶合成为钢渣块</Replicate_MK1_SlagFromOmniGel.description>
+<Replicate_MK1_SlagFromOmniGel.jobString>将欧姆尼凝胶合成为钢渣块</Replicate_MK1_SlagFromOmniGel.jobString>
+
+<Replicate_MK2_SilverFromOmniGel.label>将欧姆尼凝胶合成为银</Replicate_MK2_SilverFromOmniGel.label>
+<Replicate_MK2_SilverFromOmniGel.description>将欧姆尼凝胶合成为银</Replicate_MK2_SilverFromOmniGel.description>
+<Replicate_MK2_SilverFromOmniGel.jobString>将欧姆尼凝胶合成为银</Replicate_MK2_SilverFromOmniGel.jobString>
+   
+
+<Replicate_MK3_UraniumFromOmniGel.label>将欧姆尼凝胶合成为铀</Replicate_MK3_UraniumFromOmniGel.label>
+<Replicate_MK3_UraniumFromOmniGel.description>将欧姆尼凝胶合成为铀</Replicate_MK3_UraniumFromOmniGel.description>
+<Replicate_MK3_UraniumFromOmniGel.jobString>将欧姆尼凝胶合成为铀</Replicate_MK3_UraniumFromOmniGel.jobString>
+  
+
+<Replicate_MK3_ShellsFromOmniGel.label>将欧姆尼凝胶合成为炮弹</Replicate_MK3_ShellsFromOmniGel.label>
+<Replicate_MK3_ShellsFromOmniGel.description>将欧姆尼凝胶合成为炮弹</Replicate_MK3_ShellsFromOmniGel.description>
+<Replicate_MK3_ShellsFromOmniGel.jobString>将欧姆尼凝胶合成为炮弹</Replicate_MK3_ShellsFromOmniGel.jobString>
+ 
+
+<Replicate_MK3_MedicineFromOmniGel.label>将欧姆尼凝胶合成为药物</Replicate_MK3_MedicineFromOmniGel.label>
+<Replicate_MK3_MedicineFromOmniGel.description>将欧姆尼凝胶合成为药物</Replicate_MK3_MedicineFromOmniGel.description>
+<Replicate_MK3_MedicineFromOmniGel.jobString>将欧姆尼凝胶合成为药物</Replicate_MK3_MedicineFromOmniGel.jobString>
+   
+
+	<Replicate_MK1_ChunkSandstoneFromOmniGel.label>将欧姆尼凝胶合成为砂岩堆</Replicate_MK1_ChunkSandstoneFromOmniGel.label>
+	<Replicate_MK1_ChunkSandstoneFromOmniGel.description>将欧姆尼凝胶合成为砂岩堆.</Replicate_MK1_ChunkSandstoneFromOmniGel.description>
+	<Replicate_MK1_ChunkSandstoneFromOmniGel.jobString>将欧姆尼凝胶合成为砂岩堆.</Replicate_MK1_ChunkSandstoneFromOmniGel.jobString>
+
+	<Replicate_MK1_ChunkGraniteFromOmniGel.label>将欧姆尼凝胶合成为花岗岩堆</Replicate_MK1_ChunkGraniteFromOmniGel.label>
+	<Replicate_MK1_ChunkGraniteFromOmniGel.description>将欧姆尼凝胶合成为花岗岩堆.</Replicate_MK1_ChunkGraniteFromOmniGel.description>
+	<Replicate_MK1_ChunkGraniteFromOmniGel.jobString>将欧姆尼凝胶合成为花岗岩堆.</Replicate_MK1_ChunkGraniteFromOmniGel.jobString>
+
+	<Replicate_MK1_ChunkLimestoneFromOmniGel.label>将欧姆尼凝胶合成为石灰石堆</Replicate_MK1_ChunkLimestoneFromOmniGel.label>
+	<Replicate_MK1_ChunkLimestoneFromOmniGel.description>将欧姆尼凝胶合成为石灰石堆.</Replicate_MK1_ChunkLimestoneFromOmniGel.description>
+	<Replicate_MK1_ChunkLimestoneFromOmniGel.jobString>将欧姆尼凝胶合成为石灰石堆.</Replicate_MK1_ChunkLimestoneFromOmniGel.jobString>
+
+	<Replicate_MK1_ChunkSlateFromOmniGel.label>将欧姆尼凝胶合成为板岩堆</Replicate_MK1_ChunkSlateFromOmniGel.label>
+	<Replicate_MK1_ChunkSlateFromOmniGel.description>将欧姆尼凝胶合成为板岩堆.</Replicate_MK1_ChunkSlateFromOmniGel.description>
+	<Replicate_MK1_ChunkSlateFromOmniGel.jobString>将欧姆尼凝胶合成为板岩堆.</Replicate_MK1_ChunkSlateFromOmniGel.jobString>
+
+	<Replicate_MK1_ChunkMarbleFromOmniGel.label>将欧姆尼凝胶合成为大理石堆</Replicate_MK1_ChunkMarbleFromOmniGel.label>
+	<Replicate_MK1_ChunkMarbleFromOmniGel.description>将欧姆尼凝胶合成为大理石堆.</Replicate_MK1_ChunkMarbleFromOmniGel.description>
+	<Replicate_MK1_ChunkMarbleFromOmniGel.jobString>将欧姆尼凝胶合成为大理石堆.</Replicate_MK1_ChunkMarbleFromOmniGel.jobString>
+
+	<Replicate_MK2_SteelFromOmniGel.label>将欧姆尼凝胶合成为钢</Replicate_MK2_SteelFromOmniGel.label>
+	<Replicate_MK2_SteelFromOmniGel.description>将欧姆尼凝胶合成为钢.</Replicate_MK2_SteelFromOmniGel.description>
+	<Replicate_MK2_SteelFromOmniGel.jobString>将欧姆尼凝胶合成为钢.</Replicate_MK2_SteelFromOmniGel.jobString>
+
+	<Replicate_MK2_BlocksSandstoneFromOmniGel.label>将欧姆尼凝胶合成为砂岩块</Replicate_MK2_BlocksSandstoneFromOmniGel.label>
+	<Replicate_MK2_BlocksSandstoneFromOmniGel.description>将欧姆尼凝胶合成为砂岩块.</Replicate_MK2_BlocksSandstoneFromOmniGel.description>
+	<Replicate_MK2_BlocksSandstoneFromOmniGel.jobString>将欧姆尼凝胶合成为砂岩块.</Replicate_MK2_BlocksSandstoneFromOmniGel.jobString>
+
+	<Replicate_MK2_BlocksGraniteFromOmniGel.label>将欧姆尼凝胶合成为花岗岩块</Replicate_MK2_BlocksGraniteFromOmniGel.label>
+	<Replicate_MK2_BlocksGraniteFromOmniGel.description>将欧姆尼凝胶合成为花岗岩块.</Replicate_MK2_BlocksGraniteFromOmniGel.description>
+	<Replicate_MK2_BlocksGraniteFromOmniGel.jobString>将欧姆尼凝胶合成为花岗岩块.</Replicate_MK2_BlocksGraniteFromOmniGel.jobString>
+
+	<Replicate_MK2_BlocksLimestoneFromOmniGel.label>将欧姆尼凝胶合成为石灰石块</Replicate_MK2_BlocksLimestoneFromOmniGel.label>
+	<Replicate_MK2_BlocksLimestoneFromOmniGel.description>将欧姆尼凝胶合成为石灰石块.</Replicate_MK2_BlocksLimestoneFromOmniGel.description>
+	<Replicate_MK2_BlocksLimestoneFromOmniGel.jobString>将欧姆尼凝胶合成为石灰石块.</Replicate_MK2_BlocksLimestoneFromOmniGel.jobString>
+
+	<Replicate_MK2_BlocksSlateFromOmniGel.label>将欧姆尼凝胶合成为板岩块</Replicate_MK2_BlocksSlateFromOmniGel.label>
+	<Replicate_MK2_BlocksSlateFromOmniGel.description>将欧姆尼凝胶合成为板岩块.</Replicate_MK2_BlocksSlateFromOmniGel.description>
+	<Replicate_MK2_BlocksSlateFromOmniGel.jobString>将欧姆尼凝胶合成为板岩块.</Replicate_MK2_BlocksSlateFromOmniGel.jobString>
+
+	<Replicate_MK2_BlocksMarbleromOmniGel.label>将欧姆尼凝胶合成为大理石块</Replicate_MK2_BlocksMarbleromOmniGel.label>
+	<Replicate_MK2_BlocksMarbleromOmniGel.description>将欧姆尼凝胶合成为大理石块.</Replicate_MK2_BlocksMarbleromOmniGel.description>
+	<Replicate_MK2_BlocksMarbleromOmniGel.jobString>将欧姆尼凝胶合成为大理石块.</Replicate_MK2_BlocksMarbleromOmniGel.jobString>
+
+	
+	<Replicate_MK3_PlasteelFromOmniGel.label>将欧姆尼凝胶合成为玻璃钢</Replicate_MK3_PlasteelFromOmniGel.label>
+	<Replicate_MK3_PlasteelFromOmniGel.description>将欧姆尼凝胶合成为玻璃钢.</Replicate_MK3_PlasteelFromOmniGel.description>
+	<Replicate_MK3_PlasteelFromOmniGel.jobString>将欧姆尼凝胶合成为玻璃钢.</Replicate_MK3_PlasteelFromOmniGel.jobString>
+
+	<Replicate_MK3_GlitterMedicineFromOmniGel.label>将欧姆尼凝胶合成为闪耀世界药物</Replicate_MK3_GlitterMedicineFromOmniGel.label>
+	<Replicate_MK3_GlitterMedicineFromOmniGel.description>将欧姆尼凝胶合成为闪耀世界药物.</Replicate_MK3_GlitterMedicineFromOmniGel.description>
+	<Replicate_MK3_GlitterMedicineFromOmniGel.jobString>将欧姆尼凝胶合成为闪耀世界药物.</Replicate_MK3_GlitterMedicineFromOmniGel.jobString>
+
+	<Replicate_MK2_GoldFromOmniGel.label>将欧姆尼凝胶合成为黄金</Replicate_MK2_GoldFromOmniGel.label>
+	<Replicate_MK2_GoldFromOmniGel.description>将欧姆尼凝胶合成为黄金.</Replicate_MK2_GoldFromOmniGel.description>
+	<Replicate_MK2_GoldFromOmniGel.jobString>将欧姆尼凝胶合成为黄金.</Replicate_MK2_GoldFromOmniGel.jobString>
+
+	</LanguageData>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<SteelReinforced.label>强化钢铁</SteelReinforced.label>
+	<SteelReinforced.description>一种可以用来建造建筑、工具或武器的多用途材料。</SteelReinforced.description>
+
+	<PlasteelReinforced.label>强化玻璃钢</PlasteelReinforced.label>
+	<PlasteelReinforced.description>先进的太空时代材料，玻璃钢因为它独特的分子结构拥有非常高的强度。</PlasteelReinforced.description>
+
+	<WoodLogReinforced.label>强化原木</WoodLogReinforced.label>
+	<WoodLogReinforced.description>由植物生长而成的木材。可以用来建造建筑、武器甚至简单的假肢。一捆木头也可直接当作武器来使用。</WoodLogReinforced.description>
+	<WoodLogReinforced.stuffProps.stuffAdjective>木</WoodLogReinforced.stuffProps.stuffAdjective>
+
+</LanguageData>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<BlocksSandstoneReinforced.label>强化沙石块</BlocksSandstoneReinforced.label>
+	<BlocksSandstoneReinforced.description>块状的沙石。沙石是一种相对柔软易碎的岩石。</BlocksSandstoneReinforced.description>
+	<BlocksSandstoneReinforced.stuffProps.stuffAdjective>强化沙石</BlocksSandstoneReinforced.stuffProps.stuffAdjective>
+
+	<BlocksGraniteReinforced.label>强化花岗岩块</BlocksGraniteReinforced.label>
+	<BlocksGraniteReinforced.description>块状的花岗岩。花岗岩是一种极硬的岩石。</BlocksGraniteReinforced.description>
+	<BlocksGraniteReinforced.stuffProps.stuffAdjective>强化花岗岩</BlocksGraniteReinforced.stuffProps.stuffAdjective>
+
+	<BlocksLimestoneReinforced.label>强化石灰岩块</BlocksLimestoneReinforced.label>
+	<BlocksLimestoneReinforced.description>块状的石灰岩。</BlocksLimestoneReinforced.description>
+	<BlocksLimestoneReinforced.stuffProps.stuffAdjective>强化石灰岩</BlocksLimestoneReinforced.stuffProps.stuffAdjective>
+
+	<BlocksSlateReinforced.label>强化板岩块</BlocksSlateReinforced.label>
+	<BlocksSlateReinforced.description>块状的板岩。板岩是一种难看易碎的岩石。</BlocksSlateReinforced.description>
+	<BlocksSlateReinforced.stuffProps.stuffAdjective>强化板岩</BlocksSlateReinforced.stuffProps.stuffAdjective>
+
+	<BlocksMarbleReinforced.label>强化大理石块</BlocksMarbleReinforced.label>
+	<BlocksMarbleReinforced.description>块状的大理石。大理石是一种较软，美丽的岩石，因易于雕塑而出名。</BlocksMarbleReinforced.description>
+	<BlocksMarbleReinforced.stuffProps.stuffAdjective>强化大理石</BlocksMarbleReinforced.stuffProps.stuffAdjective>
+
+</LanguageData>

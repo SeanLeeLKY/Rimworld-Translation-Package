@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Embrasure.label>射击墙</Embrasure.label>
+<Embrasure.description>在墙上打开一个开口，允许你从室内安全的向外射击或投掷手雷</Embrasure.description>
+
+<!--<EmbrasureConduit.label>射击墙(电缆)</EmbrasureConduit.label>--> 
+<!--<EmbrasureConduit.description>内置电缆管道的射击墙。</EmbrasureConduit.description>--> 
+
+<!--	<Wall.label>wall</Wall.label>--> 
+<!--	<Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>--> 
+
+
+</LanguageData>

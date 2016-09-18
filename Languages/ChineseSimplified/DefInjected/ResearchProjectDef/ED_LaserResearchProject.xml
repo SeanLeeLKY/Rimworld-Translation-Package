@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Research_LaserDrill.label>ED-激光钻孔机</Research_LaserDrill.label>
+<Research_LaserDrill.description>使用激光，钻人星球内部的蒸汽和岩浆网络制造出一个蒸汽间歇喷泉。</Research_LaserDrill.description>
+
+<Research_LaserFiller.label>ED-激光填充机</Research_LaserFiller.label>
+<Research_LaserFiller.description>使用激光，用石头填充蒸汽间歇喷泉平整出一块地面。</Research_LaserFiller.description>
+
+</LanguageData>

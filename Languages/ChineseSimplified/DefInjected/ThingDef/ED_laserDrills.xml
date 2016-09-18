@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<LaserFiller.label>激光填充机</LaserFiller.label>
+<LaserFiller.description>将蒸汽间歇喷泉用岩石填充并用激光溶解这些石头，制造出一片平整的地面。</LaserFiller.description>
+ 
+<LaserDrill.label>激光钻孔机</LaserDrill.label>
+<LaserDrill.description>钻透星球岩石层抵达内部的蒸汽网络制造出一个蒸汽间歇喷泉。</LaserDrill.description>
+ 
+</LanguageData>

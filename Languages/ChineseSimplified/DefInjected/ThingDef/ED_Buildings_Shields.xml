@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+	
+<Building_ShieldSmall.label>小型能量护盾</Building_ShieldSmall.label>
+<Building_ShieldSmall.description>一个较小型的能量护盾, 人们可以站在它里面免疫来自外界的侵害</Building_ShieldSmall.description>
+		
+<Building_ShieldSIF.label>希芙能量护盾</Building_ShieldSIF.label>
+<Building_ShieldSIF.description>在每个墙壁/门上创建一个小的护盾而不是创建一个大的圆形护盾。</Building_ShieldSIF.description>
+
+<Building_ShieldStandard.label>标准能量护盾</Building_ShieldStandard.label>
+<Building_ShieldStandard.description>创造出一块能量护盾, 以保护重要的基础设施。</Building_ShieldStandard.description>
+
+<Building_Shield_Fortress.label>堡垒能量护盾</Building_Shield_Fortress.label>
+<Building_Shield_Fortress.description>通过调整线圈垂直结构让护盾能够阻拦来自上方的侵袭(仅适用于拦截迫击炮)。</Building_Shield_Fortress.description>
+
+
+</LanguageData>
