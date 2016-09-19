@@ -57,8 +57,6 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 增强开发-护盾系统  | ED-ShieldsBasic | http://steamcommunity.com/sharedfiles/filedetails/?id=726884610|	ED
 增强开发-激光钻孔 | ED-Laser Drill |http://steamcommunity.com/sharedfiles/filedetails/?id=722086956	|	ED
 增强开发-射击墙 | ED-Embrasures |http://steamcommunity.com/sharedfiles/filedetails/?id=722085442	|	ED
-ED护盾系统  | ED-ShieldsBasic | http://steamcommunity.com/sharedfiles/filedetails/?id=726884610|	ED
-ED激光钻孔 | ED-Laser Drill |http://steamcommunity.com/sharedfiles/filedetails/?id=722086956	|	ED
 更多家具 |More Furniture |http://steamcommunity.com/sharedfiles/filedetails/?id=739089840 | MF
 
 
