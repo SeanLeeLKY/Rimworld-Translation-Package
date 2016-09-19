@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<SquareDiningChair.label>方形餐椅</SquareDiningChair.label>
+
+	<SquareDiningChair.description>放在餐桌旁的一把舒适而有吸引力的椅子。</SquareDiningChair.description>
+
+	<Bench.label>长凳</Bench.label>
+
+	<Bench.description>一条简单的用来坐的凳子。</Bench.description>
+
+	<CushionedChair.label>单座沙发椅</CushionedChair.label>
+
+	<CushionedChair.description>一块大的，柔软，舒适的沙发。宽大而放松。</CushionedChair.description>
+
+	<CouchRight.label>沙发右侧</CouchRight.label>
+
+	<CouchRight.description>一块大的，柔软，舒适的沙发。宽大而放松。</CouchRight.description>
+
+	<CouchCenter.label>沙发中心</CouchCenter.label>
+
+	<CouchCenter.description>一块大的，柔软，舒适的沙发。宽大而放松。</CouchCenter.description>
+
+	<CouchLeft.label>沙发左侧</CouchLeft.label>
+
+	<CouchLeft.description>一块大的，柔软，舒适的沙发。宽大而放松。</CouchLeft.description>
+
+	<CouchCorner.label>沙发拐角</CouchCorner.label>
+
+	<CouchCorner.description>一块大的，柔软，舒适的沙发。宽大而放松。</CouchCorner.description>
+
+	<CouchCornerInv.label>沙发倒角</CouchCornerInv.label>
+
+	<CouchCornerInv.description>一块大的，柔软，舒适的沙发。宽大而放松。</CouchCornerInv.description>
+
+</LanguageData>

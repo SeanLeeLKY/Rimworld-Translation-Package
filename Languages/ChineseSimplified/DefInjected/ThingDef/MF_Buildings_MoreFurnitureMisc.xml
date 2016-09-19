@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- <SimpleResearchBench.label>简单的研究平台</SimpleResearchBench.label>
+
+	<SimpleResearchBench.description>一个有书写工具和低技术科学工具的简易长椅。研究人员在这里工作，发现新的东西。</SimpleResearchBench.description>
+
+	<HiTechResearchBench.label>高新技术研究平台</HiTechResearchBench.label>
+
+	<HiTechResearchBench.description>一种具有计算机和电子测量设备的高科技平台。高科技工具加快了研究。需要力量。</HiTechResearchBench.description>
+ -->
+	<FileCabinet.label>文件柜</FileCabinet.label>
+
+	<FileCabinet.description>重要技术研究文件的存放地。在研究工作台旁边稍微增加研究速度。</FileCabinet.description>
+
+</LanguageData>

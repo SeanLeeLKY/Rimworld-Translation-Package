@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<TableSmall.label>桌子（小）</TableSmall.label>
+		<TableSmall.description>当有椅子面对桌子的时候，人们会在桌子上进餐。</TableSmall.description>
+
+
+	<TableTiny.label>方桌（小）</TableTiny.label>
+		<TableTiny.description>当有椅子面对桌子的时候，人们会在桌子上进餐。</TableTiny.description>
+
+	<RoundedTableLong.label>圆桌（长）</RoundedTableLong.label>
+		<RoundedTableLong.description>当有椅子面对桌子的时候，人们会在桌子上进餐。</RoundedTableLong.description>
+
+	<RoundedTableShort.label>圆桌（短）</RoundedTableShort.label>
+		<RoundedTableShort.description>当有椅子面对桌子的时候，人们会在桌子上进餐。</RoundedTableShort.description>
+
+	<CounterA.label>主持台</CounterA.label>
+
+	<CounterA.description>主持人专用。</CounterA.description>
+
+</LanguageData>

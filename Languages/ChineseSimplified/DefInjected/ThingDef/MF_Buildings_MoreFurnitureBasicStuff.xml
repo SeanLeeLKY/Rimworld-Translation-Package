@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<SquarePlantPot.label>方形花盆</SquarePlantPot.label>
+
+	<SquarePlantPot.description>这里的植物装饰花，能改善附近的人的情绪。</SquarePlantPot.description>
+
+	<LongPlantPot.label>长盆栽植物</LongPlantPot.label>
+
+	<LongPlantPot.description>这里的植物装饰花，能改善附近的人的情绪。</LongPlantPot.description>
+
+	<OrnatePlantPot.label>华丽花盆</OrnatePlantPot.label>
+
+	<OrnatePlantPot.description>这里的植物装饰花，能改善附近的人的情绪。</OrnatePlantPot.description>
+
+	<OrnateSquarePlantPot.label>华丽方形花盆</OrnateSquarePlantPot.label>
+
+	<OrnateSquarePlantPot.description>这里的植物装饰花，能改善附近的人的情绪。</OrnateSquarePlantPot.description>
+
+	<OrnateLongPlantPot.label>华丽长盆栽植物</OrnateLongPlantPot.label>
+
+	<OrnateLongPlantPot.description>这里的植物装饰花，能改善附近的人的情绪。</OrnateLongPlantPot.description>
+
+</LanguageData>

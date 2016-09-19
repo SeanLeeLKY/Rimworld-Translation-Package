@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<!-- <Bed.label>床</Bed.label>
+
+	<Bed.Description>一种用于休息的框架上的舒适的床垫和床单。</Bed.Description>
+
+	<DoubleBed.label>double bed</DoubleBed.label>
+
+	<DoubleBed.Description>一个适合两个人的简单的双层床。</DoubleBed.Description>
+
+	<RoyalBed.label>御床</RoyalBed.label>
+
+	<RoyalBed.Description>一个豪华的镶金的床适合高贵的。非常舒适和美丽。适合两。</RoyalBed.Description>
+
+	<HospitalBed.label>医院的床上</HospitalBed.label>
+
+	<HospitalBed.Description>专门为受伤的人设计的床。提高了成功的医疗工作的机会。</HospitalBed.Description>
+ -->
+	<Dresser.label>梳妆台</Dresser.label>
+
+	<Dresser.description>一个用来存放殖民者私人物品的地方。挨着床放置时，它会增加舒适度和休息的效率。</Dresser.description>
+
+	<EndTable.label>床头柜</EndTable.label>
+
+	<EndTable.description>这个小小的柜子和床是绝配。当挨着床放的时候，它会增加舒适度和休息的效率。</EndTable.description>
+
+</LanguageData>
