@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Mercs.label>利爪雇佣兵集团</Mercs.label>
+
+	<Mercs.description>利爪雇佣兵集团只为钱财服务的战士，他们不在乎你是谁或者你做什么。他们在乎的仅仅是你的钱包或者其他雇主的钱包是否充足。他们的忠诚只交给两样事物，钱和手中的武器。</Mercs.description>
+
+	<Mercs.pawnsPlural>雇佣兵</Mercs.pawnsPlural>
+
+	<Mercs.leaderTitle>指挥官</Mercs.leaderTitle>
+
+</LanguageData>

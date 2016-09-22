@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Bullet_MercPistol.label>手枪弹</Bullet_MercPistol.label>
+
+	<Gun_MercEnergyPistol.label>能量手枪</Gun_MercEnergyPistol.label>
+
+	<Gun_MercEnergyPistol.description>一种能够轻易压制普通敌人的标准制式武器。这枪是在雇佣兵医生手中比较常见。</Gun_MercEnergyPistol.description>
+
+	<Bullet_MercSniper.label>狙击枪弹</Bullet_MercSniper.label>
+
+	<Gun_MercSniper.label>能量脉冲狙击步枪</Gun_MercSniper.label>
+
+	<Gun_MercSniper.description>能量脉冲狙击步枪一般由雇佣兵指挥官持有，这是一种精准度较高的半自动狙击步枪，可以在远离战场的位置有效杀伤敌人。</Gun_MercSniper.description>
+
+	<Bullet_BloodRifle.label>脉冲能量弹</Bullet_BloodRifle.label>
+
+	<Gun_BloodRifle.label>能量脉冲步枪</Gun_BloodRifle.label>
+
+	<Gun_BloodRifle.description>一般由利爪雇佣兵组织中可怕的血爪精英单位持有，是他们赖以谋生的工具。</Gun_BloodRifle.description>
+
+	<Bullet_AMShell.label>AM炮弹</Bullet_AMShell.label>
+
+	<Gun_AMRailRifle.label>AM轨道炮</Gun_AMRailRifle.label>
+
+	<Gun_AMRailRifle.description>一种可怕的一次性轨道武器，它能发射一团看起来铺天盖地的碎片，其结果就是武器本身也在发射过程中被摧毁大量元件而报废，非常适合需要速战速决的场合。很多抱着侥幸心理的海盗被围困时，也会不顾一切的使用这种武器。</Gun_AMRailRifle.description>
+
+	<Bullet_ParticleHm.label>能量脉冲</Bullet_ParticleHm.label>
+
+	<Gun_ParticleHm.label>能量脉冲重机枪</Gun_ParticleHm.label>
+
+	<Gun_ParticleHm.description>能够发射强力脉冲束的重型多管武器，能够轻易切碎机械护甲。</Gun_ParticleHm.description>
+
+	<Bullet_GiantCannon.label>脉冲弹</Bullet_GiantCannon.label>
+
+	<Gun_GiantCannon.label>FH巨人加农炮</Gun_GiantCannon.label>
+
+	<Gun_GiantCannon.description>轰~~~~~~~</Gun_GiantCannon.description>
+
+</LanguageData>

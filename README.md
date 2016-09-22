@@ -61,7 +61,8 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 叙事者- H.P.洛夫克拉夫特|H.P. Lovecraft Storyteller  |http://steamcommunity.com/sharedfiles/filedetails/?id=763418547| HPL
 叙事者- 菲尔·布罗姆林 |Storyteller - Phil Bromlin |http://steamcommunity.com/sharedfiles/filedetails/?id=747171307| PB
 叙事者- 艾恩·丹 |Iron Dan  |http://steamcommunity.com/sharedfiles/filedetails/?id=731434226 | ID
-叙事者- 菲奥娜·法默 |No Raid Storyteller |http://steamcommunity.com/sharedfiles/filedetails/?id=672718181| NRS
+叙事者- 菲奥娜·法默 |No Raid Storyteller |http://steamcommunity.com/sharedfiles/filedetails/?id=672718181| NRS 
+派系-利爪雇佣兵 |Talons Faction  |http://steamcommunity.com/sharedfiles/filedetails/?id=747647690 |  TF
 
 
 

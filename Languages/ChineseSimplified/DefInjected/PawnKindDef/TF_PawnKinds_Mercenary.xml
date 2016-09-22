@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MercenaryCommander.label>雇佣兵指挥官</MercenaryCommander.label>
+
+	<MercenaryGiant.label>雇佣兵巨人</MercenaryGiant.label>
+
+	<MercenaryFHGiant.label>雇佣兵巨人飞行员</MercenaryFHGiant.label>
+
+	<MercenaryLandsknecht.label>雇佣兵步兵</MercenaryLandsknecht.label>
+
+	<MercenaryMedic.label>雇佣兵医疗兵</MercenaryMedic.label>
+
+	<MercenaryAMShock.label>雇佣兵反机甲单位</MercenaryAMShock.label>
+
+	<MercenaryBT.label>雇佣兵血爪</MercenaryBT.label>
+
+</LanguageData>
