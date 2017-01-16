@@ -1,9 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>RimWorld模组汉化整合</name>
-	<author>SeanLee、Emo</author>
-    <url>https://coding.net/u/Emo129/p/Rimworld-Translation-Package</url>
-	<targetVersion>0.15.0</targetVersion>
+	<name>RimWorld模组汉化整合A16</name>
+	<author>SeanLee</author>
+    <url>https://coding.net/u/SeanLee/p/Rimworld-MODS-Trans-CN</url>
+	<targetVersion>0.16.0</targetVersion>
 	<description>
   本模组整合了大量的模组汉化,让你没有安装汉化的后顾之忧。点击链接可以检查你是否使用的是最新版本。
 	Rimworld Translate Package,整合一切。
