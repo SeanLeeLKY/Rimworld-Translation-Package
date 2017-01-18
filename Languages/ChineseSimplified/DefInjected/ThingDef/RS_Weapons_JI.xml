@@ -1,40 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Bullet_Hrunting.label>赫朗庭子弹</Bullet_Hrunting.label>
+  <Bullet_Hrunting.label>赤原猎犬子弹</Bullet_Hrunting.label>
 
-	<JI_Hrunting.label>熔融步枪</JI_Hrunting.label>
+  <JI_Hrunting.label>JI熔火步枪</JI_Hrunting.label>
+  <JI_Hrunting.description>「巨人星际」制造的「赤原猎犬」熔火步枪。这种武器使用融化的金属作为子弹。来自「贝武夫」的设计师从不关心使用者的感受，他们只关注纯粹的火力。</JI_Hrunting.description>
 
-	<JI_Hrunting.description>"赫朗庭"熔融步枪，由佐敦星际集团研发，以纯粹的火力为宗旨。这种武器发射融化的金属作为子弹。</JI_Hrunting.description>
+  <Bullet_Trollsverd.label>巨魔子弹</Bullet_Trollsverd.label>
 
-	<Bullet_Trollsverd.label>绿魔弹</Bullet_Trollsverd.label>
+  <JI_Trollsverd.label>JI熔火手枪</JI_Trollsverd.label>
+  <JI_Trollsverd.description>「巨魔」熔火手枪是一款由「巨人星际」制造的重型手枪。发射熔融的金属流，「巨魔」的火力可以解决大多数孤立的殖民地的问题。</JI_Trollsverd.description>
 
-	<JI_Trollsverd.label>熔融手枪</JI_Trollsverd.label>
+  <Bullet_Fafnir.label>法夫尼尔鹿弹</Bullet_Fafnir.label>
 
-	<JI_Trollsverd.description>"绿魔"重型手枪，由佐敦星际集团研发。发射融化的金属，"绿魔"的火力可以解决大多数殖民地问题。</JI_Trollsverd.description>
+  <JI_Fafnir.label>JI攻城霰弹枪</JI_Fafnir.label>
+  <JI_Fafnir.description>由「巨人星际」制造，以北欧神话巨龙「法夫尼尔」命名的巨大霰弹枪，简直就是把好几根高射炮管捆在一起。通常在城市战中对抗机械族。如果用攻城霰弹枪对着一个人来一发，他立马会变成血雾。</JI_Fafnir.description>
 
-	<Bullet_Fafnir.label>法夫尼尔鹿弹</Bullet_Fafnir.label>
+  <Bullet_Gramr.label>格拉姆子弹</Bullet_Gramr.label>
 
-	<JI_Fafnir.label>攻城霰弹枪</JI_Fafnir.label>
+  <JI_Gramr.label>JI反机甲步枪</JI_Gramr.label>
+  <JI_Gramr.description>「巨人星际」制造的反机甲步枪，以奥丁的圣剑「格拉姆」命名。如同一辆小卡车般重，极难操作，那后坐力就像被驴踢了一脚。但它的威力证明了一切。</JI_Gramr.description>
 
-	<JI_Fafnir.description>这支庞大的霰弹枪"法夫尼尔"由佐敦星际集团研发。枪口多管齐下，是为城市战争所设计。被这支霰弹枪打中的人无不化作一团血雾。</JI_Fafnir.description>
+  <Bullet_Grendel.label>格兰戴尔炮弹</Bullet_Grendel.label>
 
-	<Bullet_Gramr.label>格拉姆弹</Bullet_Gramr.label>
+  <JI_Grendel.label>JI攻城炮</JI_Grendel.label>
+  <JI_Grendel.description>一场残酷的对机械族战争中的产物，以北欧神话中该隐一族后裔「格兰戴尔」命名，「巨人星际」制造的全银河系最强攻城武器。</JI_Grendel.description>
 
-	<JI_Gramr.label>AMR</JI_Gramr.label>
+  <Bullet_Muspell.label>破片</Bullet_Muspell.label>
 
-	<JI_Gramr.description>佐敦星际集团"格拉姆"反机甲步枪。如同小卡车一般重，也同样地难以驾驭。它的后坐力就像被骡子踢了一脚。但它的威力证明了一切。</JI_Gramr.description>
+  <JI_Muspell.label>JI镇压者加农炮</JI_Muspell.label>
+  <JI_Muspell.description>「巨人星际」制造的「火巨人」镇压炮，用于对付小型「爬虫」式机甲群。「火巨人」可连续发射超高热金属碎片。</JI_Muspell.description>
 
-	<Bullet_Grendel.label>格兰戴尔弹</Bullet_Grendel.label>
-
-	<JI_Grendel.label>攻城炮</JI_Grendel.label>
-
-	<JI_Grendel.description>一场残酷的反机械人战争中的产物，佐敦星际集团"格兰戴尔"攻城炮是全银河中最强大的攻城武器。</JI_Grendel.description>
-
-	<Bullet_Muspell.label>破片</Bullet_Muspell.label>
-
-	<JI_Muspell.label>镇压炮</JI_Muspell.label>
-
-	<JI_Muspell.description>佐敦星际集团"火人"镇压炮用来对抗小型爬虫式机甲群。"火人"可连续发射超高热金属破片。</JI_Muspell.description>
 
 </LanguageData>

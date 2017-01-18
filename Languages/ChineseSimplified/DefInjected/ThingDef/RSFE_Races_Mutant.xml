@@ -1,19 +1,51 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Mutant_Ogre.label>奥戈隆巨兽</Mutant_Ogre.label>
+  <Mutant_Ogre.label>食人魔</Mutant_Ogre.label>
+  <Mutant_Ogre.description>最初是为了建筑和重型劳动设计，「奥戈隆（Ogron）」是一种巨大、粗野、低智力的变异人，在边缘世界，许多蛮族部落将之作为残酷的战争野兽。</Mutant_Ogre.description>
+  <Mutant_Ogre_Leather.label>食人魔皮</Mutant_Ogre_Leather.label>
+  <Mutant_Ogre_Leather.description>食人魔皮</Mutant_Ogre_Leather.description>
+  <Mutant_Ogre_Leather.stuffProps.stuffAdjective>食人魔皮</Mutant_Ogre_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Mutant_Ogre_Corpse.label>食人魔尸体</Mutant_Ogre_Corpse.label>
+  <Mutant_Ogre_Corpse.description>食人魔尸体</Mutant_Ogre_Corpse.description>
 
-	<Mutant_Ogre.description>最初是为了建筑和重型劳动设计，“奥戈隆”（Ogron）是一种巨大、粗野、低智力的变异人，在边缘世界状态下，许多蛮族部落将之作为残酷的战争野兽。</Mutant_Ogre.description>
+  <Mutant_OgreOgrenaut.label>食人魔</Mutant_OgreOgrenaut.label>
+  <Mutant_OgreOgrenaut.description>最初是为了建筑和重型劳动设计，「奥戈隆（Ogron）」是一种巨大、粗野、低智力的变异人，在边缘世界，许多蛮族部落将之作为残酷的战争野兽。</Mutant_OgreOgrenaut.description>
+  <Mutant_OgreOgrenaut_Leather.label>食人魔皮</Mutant_OgreOgrenaut_Leather.label>
+  <Mutant_OgreOgrenaut_Leather.description>食人魔皮</Mutant_OgreOgrenaut_Leather.description>
+  <Mutant_OgreOgrenaut_Leather.stuffProps.stuffAdjective>食人魔皮</Mutant_OgreOgrenaut_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Mutant_OgreOgrenaut_Corpse.label>食人魔尸体</Mutant_OgreOgrenaut_Corpse.label>
+  <Mutant_OgreOgrenaut_Corpse.description>食人魔尸体</Mutant_OgreOgrenaut_Corpse.description>
 
-	
-	<Mutant_Razortooth.label>剃刀之牙</Mutant_Razortooth.label>
+  <Mutant_OgreHellmaker.label>食人魔</Mutant_OgreHellmaker.label>
+  <Mutant_OgreHellmaker.description>最初是为了建筑和重型劳动设计，「奥戈隆（Ogron）」是一种巨大、粗野、低智力的变异人，在边缘世界，许多蛮族部落将之作为残酷的战争野兽。</Mutant_OgreHellmaker.description>
+  <Mutant_OgreHellmaker_Leather.label>食人魔皮</Mutant_OgreHellmaker_Leather.label>
+  <Mutant_OgreHellmaker_Leather.description>食人魔皮</Mutant_OgreHellmaker_Leather.description>
+  <Mutant_OgreHellmaker_Leather.stuffProps.stuffAdjective>食人魔皮</Mutant_OgreHellmaker_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Mutant_OgreHellmaker_Corpse.label>食人魔尸体</Mutant_OgreHellmaker_Corpse.label>
+  <Mutant_OgreHellmaker_Corpse.description>食人魔尸体</Mutant_OgreHellmaker_Corpse.description>
 
-	<Mutant_Razortooth.description>				残忍嚼碎者，黄沙巨浪，颅骨开膛手等等都是人们对它的称呼，这种动物一直生活在很多的行星，所以它有很多不同的名字。它能得到如此多的残暴名字，其恐怖之处是能够想象的。剃刀之牙是一种极其危险的生物，拥有发达的双颚、过人的智慧和残忍的行为让它们在任何环境中都处于食物链的顶端。许多蛮族的领主训练它们作为战争工具。</Mutant_Razortooth.description>
+  <Mutant_Razortooth.label>利齿兽</Mutant_Razortooth.label>
+  <Mutant_Razortooth.description>咀嚼者、沙漠跳跳、开颅怪，这种动物生活在在许多行星上，所以有很多不同的叫法。你可以从它的名字想象出利齿兽是极度危险的生物。发达的开裂式双下颚、卓越的智慧和凶猛的习性使得它们在任何环境中都能成为顶级捕食者。许多蛮族军阀将之驯服成战宠。</Mutant_Razortooth.description>
+  <Mutant_Razortooth_Leather.label>利齿兽皮</Mutant_Razortooth_Leather.label>
+  <Mutant_Razortooth_Leather.description>利齿兽皮</Mutant_Razortooth_Leather.description>
+  <Mutant_Razortooth_Leather.stuffProps.stuffAdjective>利齿兽皮</Mutant_Razortooth_Leather.stuffProps.stuffAdjective>
+  <Mutant_Razortooth_Meat.label>利齿兽肉</Mutant_Razortooth_Meat.label>
+  <Mutant_Razortooth_Meat.description>利齿兽肉</Mutant_Razortooth_Meat.description>
+  <Mutant_Razortooth_Corpse.label>利齿兽尸体</Mutant_Razortooth_Corpse.label>
+  <Mutant_Razortooth_Corpse.description>利齿兽尸体</Mutant_Razortooth_Corpse.description>
 
-	 <!--<Mutant_Ogre_Meat.label>巨兽肉</Mutant_Ogre_Meat.label>--> 
-	 <!--<Mutant_Ogre_Meat.description>巨兽肉</Mutant_Ogre_Meat.description>--> 
-	 <!--<Mutant_Ogre_Leather.label>巨兽皮</Mutant_Ogre_Leather.label>--> 
-	 <!--<Mutant_Ogre_Leather.description>巨兽皮</Mutant_Ogre_Leather.description>--> 
-	 <!--<Mutant_Ogre_Corpse.label>巨兽尸体</Mutant_Ogre_Corpse.label>--> 
-	 <!--<Mutant_Ogre_Corpse.description>巨兽尸体</Mutant_Ogre_Corpse.description>--> 
+  <Mutant_Twisted.label>扭曲怪</Mutant_Twisted.label>
+  <Mutant_Twisted.description>生态大棚是一种娇贵的设备。多年缺乏妥善保养之后，大棚会受到污染并导致故障。蛮族利用这些被污染的大棚恶毒地饲养奴隶。这些奴隶绝望地战斗着，因为唯有死亡方能摆脱悲惨的命运。</Mutant_Twisted.description>
+  <Mutant_Twisted_Leather.label>扭曲怪皮</Mutant_Twisted_Leather.label>
+  <Mutant_Twisted_Leather.description>扭曲怪皮</Mutant_Twisted_Leather.description>
+  <Mutant_Twisted_Leather.stuffProps.stuffAdjective>扭曲怪皮</Mutant_Twisted_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Mutant_Twisted_Corpse.label>扭曲怪尸体</Mutant_Twisted_Corpse.label>
+  <Mutant_Twisted_Corpse.description>扭曲怪尸体</Mutant_Twisted_Corpse.description>
+
+
 </LanguageData>

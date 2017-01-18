@@ -1,12 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Feral.label>蛮族</Feral.label>
+  <Feral.label>蛮族</Feral.label>
+  <Feral.description>何为蛮族？想想那些生活在被毁灭文明的废墟中的野蛮人。他们不得不牺牲很多东西才能生存，科技、文化、历史、以及其中的所有，人性。他们是一群以劫掠和杀戮为生的野蛮人。虽然通常没有太强的武力，蛮族常常成群出动。对于你的殖民地，蛮族绝对是个大麻烦。</Feral.description>
+  <Feral.pawnsPlural>野蛮人</Feral.pawnsPlural>
+  <Feral.leaderTitle>头目</Feral.leaderTitle>
 
-	<Feral.description>何为蛮族？想想那些生活在被毁灭文明的废墟中的野蛮人。他们不得不牺牲很多东西才能生存，科技、文化、历史、以及其中的所有，人性。他们是一群以劫掠和杀戮为生的野蛮人。虽然通常没有太强的武力，蛮族常常成群出动。对于孤立的殖民地，蛮族绝对是个大麻烦。</Feral.description>
-
-	<Feral.pawnsPlural>野蛮人</Feral.pawnsPlural>
-
-	<Feral.leaderTitle>头目</Feral.leaderTitle>
 
 </LanguageData>

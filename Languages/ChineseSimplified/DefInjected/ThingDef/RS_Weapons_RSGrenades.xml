@@ -1,37 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Proj_BaegYa.label>微波手雷</Proj_BaegYa.label>
+  <!-- Microwave grenade -->
 
-	<YP_BaegYa.label>微波手雷</YP_BaegYa.label>
+  <Proj_BaegYa.label>微波手榴弹</Proj_BaegYa.label>
 
-	<YP_BaegYa.description>允和高精集团的"白夜"微波手雷。这个小装置会发散出短暂的毫米级的疼痛微波。这是一种超级有效的人群控制武器。</YP_BaegYa.description>
+  <YP_BaegYa.label>微波手榴弹</YP_BaegYa.label>
+  <YP_BaegYa.description>「允和高精」的「白夜」微波手榴弹。这个小装置发射短暂的疼痛毫米波。一种惊人有效的人群控制武器。</YP_BaegYa.description>
+  <YP_BaegYa.verbs.0.label>投掷微波手榴弹</YP_BaegYa.verbs.0.label>
 
-	<Proj_Dunder.label>背包炸弹</Proj_Dunder.label>
 
-	<JI_Dunder.label>背包炸弹</JI_Dunder.label>
+  <!-- Satchel charge -->
 
-	<JI_Dunder.description>佐敦星际集团"渣滓"背包炸弹。战地工程师的最佳伙伴。</JI_Dunder.description>
+  <Proj_Dunder.label>遥控炸药包</Proj_Dunder.label>
 
-	
+  <JI_Dunder.label>遥控炸药包</JI_Dunder.label>
+  <JI_Dunder.description>「星际巨人」的「渣滓」遥控炸药包，战地工程师的最好伙伴。</JI_Dunder.description>
+  <JI_Dunder.verbs.0.label>投掷遥控炸药包</JI_Dunder.verbs.0.label>
 
-	
 
-	
+  <!-- Mini grenade -->
 
-	<Proj_Bobcat.label>迷你手雷</Proj_Bobcat.label>
+  <Proj_Bobcat.label>迷你手榴弹</Proj_Bobcat.label>
 
-	<GD_Bobcat.label>迷你手雷</GD_Bobcat.label>
+  <GD_Bobcat.label>迷你手榴弹</GD_Bobcat.label>
+  <GD_Bobcat.description>「灰谷防御」的「山猫」迷你手榴弹。由于体积小，可以携带更多的数量。</GD_Bobcat.description>
+  <GD_Bobcat.verbs.0.label>投掷迷你手榴弹</GD_Bobcat.verbs.0.label>
 
-	<GD_Bobcat.description>灰谷防御集团"山猫"迷你手雷。由于体积小，所以能在作战中携带很多。</GD_Bobcat.description>
 
-	<Proj_Grief.label>冲击手雷 </Proj_Grief.label>
+  <!-- Impact grenade -->
 
-	<TE_Grief.label>冲击手雷</TE_Grief.label>
+  <Proj_Grief.label>冲击手榴弹</Proj_Grief.label>
 
-	<TE_Grief.description>这款名为“悲鸣”的冲击手雷爆炸时会发射出多种致命微波。 尽管它的伤害不高，但是它却有比传统手雷更大的伤害半径。</TE_Grief.description>
+  <TE_Grief.label>冲击手榴弹</TE_Grief.label>
+  <TE_Grief.description>「悲伤」冲击手榴弹爆炸时会释放冲击波。虽然伤害不高，但比常规手榴弹的覆盖范围更广。</TE_Grief.description>
+  <TE_Grief.verbs.0.label>投掷冲击手榴弹</TE_Grief.verbs.0.label>
 
-	 <!--<Proj_Repose.label>等离子手雷</Proj_Repose.label>--> 
-	 <!--<AD_Repose.label>等离子手雷</AD_Repose.label>--> 
-	 <!--<AD_Repose.description>动力武装集团"休止"等离子手雷。比传统手雷更有杀伤力，但爆炸半径略逊。</AD_Repose.description>--> 
+
 </LanguageData>

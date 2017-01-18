@@ -1,18 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Feral_ScatterCannon.label>散射炮</Feral_ScatterCannon.label>
+  <Feral_ScatterCannon.label>散射加农炮</Feral_ScatterCannon.label>
+  <Feral_ScatterCannon.description>一种超大的手持加农炮，喷吐出大量的金属碎片。</Feral_ScatterCannon.description>
 
-	<Feral_ScatterCannon.description>一种超大的手炮，喷吐出大量的金属碎片。</Feral_ScatterCannon.description>
+  <Bullet_RivetCannon.label>柳钉</Bullet_RivetCannon.label>
 
-	<Bullet_RivetCannon.label>铆钉</Bullet_RivetCannon.label>
+  <Feral_RivetCannon.label>铆钉加农炮</Feral_RivetCannon.label>
+  <Feral_RivetCannon.description>一种重型的改装过的工业铆钉枪。</Feral_RivetCannon.description>
 
-	<Feral_RivetCannon.label>铆钉炮</Feral_RivetCannon.label>
+  <Cluster_ClusterCannon.label>集束炮弹</Cluster_ClusterCannon.label>
 
-	<Feral_RivetCannon.description>一种重型的改装过的工业铆钉枪。</Feral_RivetCannon.description>
+  <Feral_ClusterCannon.label>集束加农炮</Feral_ClusterCannon.label>
+  <Feral_ClusterCannon.description>喀，嘣！！ </Feral_ClusterCannon.description>
 
-	<Sunderer.label>巨型砍刀</Sunderer.label>
+  <Sunderer.label>巨型砍刀</Sunderer.label>
+  <Sunderer.description>巨型砍刀。</Sunderer.description>
 
-	<Sunderer.description>巨型砍刀。</Sunderer.description>
 
 </LanguageData>

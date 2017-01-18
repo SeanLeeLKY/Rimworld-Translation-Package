@@ -1,28 +1,23 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	
+  <Microwave.label>微波</Microwave.label>
+  <Microwave.deathMessage>{0}被活活烧死了！</Microwave.deathMessage>
 
-	
+  <ArmorPiercing.label>穿甲</ArmorPiercing.label>
+  <ArmorPiercing.deathMessage>{0}被打成了碎块！</ArmorPiercing.deathMessage>
 
-	
+  <KineticImpact.label>动能冲击</KineticImpact.label>
+  <KineticImpact.deathMessage>{0}被打成了肉浆！</KineticImpact.deathMessage>
 
-	
+  <KineticImpactH.label>动能冲击</KineticImpactH.label>
+  <KineticImpactH.deathMessage>{0}被打成了肉浆！</KineticImpactH.deathMessage>
 
-	<Microwave.label>微波</Microwave.label>
+  <KineticImpactF.label>动能冲击</KineticImpactF.label>
+  <KineticImpactF.deathMessage>{0}被打成了肉浆！</KineticImpactF.deathMessage>
 
-	<Microwave.deathMessage>{0} 被烧死了。</Microwave.deathMessage>
+  <ChargedBolt.label>子弹</ChargedBolt.label>
+  <ChargedBolt.deathMessage>{0}被射杀了！</ChargedBolt.deathMessage>
 
-	<ArmorPiercing.label>穿甲</ArmorPiercing.label>
 
-	<ArmorPiercing.deathMessage>{0} 人间蒸发了。</ArmorPiercing.deathMessage>
-
-	<KineticImpact.label>动力冲击</KineticImpact.label>
-
-	<KineticImpact.deathMessage>{0} 被压得粉身碎骨。</KineticImpact.deathMessage>
-
-	 <!--<Optic.label>能量</Optic.label>--> 
-	 <!--<Optic.deathMessage>{0} 被射死了。</Optic.deathMessage>--> 
-	 <!--<Plasma.label>等离子</Plasma.label>--> 
-	 <!--<Plasma.deathMessage>{0} 被融化了。</Plasma.deathMessage>--> 
 </LanguageData>

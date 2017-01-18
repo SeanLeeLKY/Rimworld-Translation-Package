@@ -1,38 +1,60 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<ShardSentry.label>碎片哨戒炮</ShardSentry.label>
+  <!-- YP -->
 
-	<ShardSentry.description>架有碎片机炮，极高射速。很脆弱，受损严重时会发生爆炸，可重新部署。</ShardSentry.description>
+  <ShardSentry.label>晶刺哨戒炮</ShardSentry.label>
+  <ShardSentry.description>装备了晶刺加农炮的哨戒炮，极高射速但威力小。受损严重时会发生爆炸。可重新部署。</ShardSentry.description>
+  <ShardSentry_Blueprint.label>晶刺哨戒炮 (蓝图)</ShardSentry_Blueprint.label>
+  <ShardSentry_Blueprint_Install.label>晶刺哨戒炮 (蓝图)</ShardSentry_Blueprint_Install.label>
+  <ShardSentry_Frame.label>晶刺哨戒炮 (建造中)</ShardSentry_Frame.label>
 
-	<NestHMG.label>HMG阵地</NestHMG.label>
+  <WaveEmitter.label>微波发射器</WaveEmitter.label>
+  <WaveEmitter.description>强大的固定式微波发射器。终极人群控制武器。受损严重时会发生爆炸。可重新部署。</WaveEmitter.description>
+  <WaveEmitter_Blueprint.label>微波发射器 (蓝图)</WaveEmitter_Blueprint.label>
+  <WaveEmitter_Blueprint_Install.label>微波发射器 (蓝图)</WaveEmitter_Blueprint_Install.label>
+  <WaveEmitter_Frame.label>微波发射器 (建造中)</WaveEmitter_Frame.label>
 
-	<NestHMG.description>架有阵地用重机枪。简单而有效的防御建筑，需要人员操作。</NestHMG.description>
 
-	<NestAGS.label>AGS阵地</NestAGS.label>
+  <!-- GD -->
 
-	<NestAGS.description>架有自动榴弹发射器。非常有效地迎击敌人，需要人员操作。</NestAGS.description>
+  <NestHMG.label>HMG阵地</NestHMG.label>
+  <NestHMG.description>装备阵地用重机枪的固定式机枪阵地。简单而有效的防御建筑。</NestHMG.description>
+  <NestHMG_Blueprint.label>HMG阵地 (蓝图)</NestHMG_Blueprint.label>
+  <NestHMG_Frame.label>HMG阵地 (建造中)</NestHMG_Frame.label>
 
-	
+  <NestAGS.label>AGS阵地</NestAGS.label>
+  <NestAGS.description>装备自动榴弹发射器的固定式榴弹阵地。极为有效地迎击大量的敌人。</NestAGS.description>
+  <NestAGS_Blueprint.label>AGS阵地 (蓝图)</NestAGS_Blueprint.label>
+  <NestAGS_Frame.label>AGS阵地 (建造中)</NestAGS_Frame.label>
 
-	
+  <NestMMG.label>MMG阵地</NestMMG.label>
+  <NestMMG.description>三脚架上装备了固定式中型机枪。简单而有效的防御建筑。可重新部署。</NestMMG.description>
+  <NestMMG_Blueprint.label>MMG阵地 (蓝图)</NestMMG_Blueprint.label>
+  <NestMMG_Blueprint_Install.label>MMG阵地 (蓝图)</NestMMG_Blueprint_Install.label>
+  <NestMMG_Frame.label>MMG阵地 (建造中)</NestMMG_Frame.label>
 
-	<MoltenCannon.label>熔岩加农炮</MoltenCannon.label>
+  <MoltenCannon.label>熔火加农炮</MoltenCannon.label>
+  <MoltenCannon.description>驱动融化金属作为炮弹，性能可靠，熔岩加农炮是巨人兵团对抗机械族的主要重型武器。</MoltenCannon.description>
+  <MoltenCannon_Blueprint.label>熔火加农炮 (蓝图)</MoltenCannon_Blueprint.label>
+  <MoltenCannon_Frame.label>熔火加农炮 (建造中)</MoltenCannon_Frame.label>
 
-	<MoltenCannon.description>可靠地驱动融化金属作为炮弹，熔岩加农炮是巨人兵团对抗机器人的主要重型武器。需要人员操作。</MoltenCannon.description>
+  <BarrageCannon.label>弹幕加农炮</BarrageCannon.label>
+  <BarrageCannon.description>为远程火力支援而设计。发射集束火箭弹幕打击目标。</BarrageCannon.description>
+  <BarrageCannon_Blueprint.label>弹幕加农炮 (蓝图)</BarrageCannon_Blueprint.label>
+  <BarrageCannon_Frame.label>弹幕加农炮 (建造中)</BarrageCannon_Frame.label>
 
-	<BarrageCannon.label>弹幕加农炮</BarrageCannon.label>
+  <ImpactMine.label>冲击地雷</ImpactMine.label>
+  <ImpactMine.description>具有运动追踪功能的先进地雷。检测到敌人时这种地雷会立即引爆。</ImpactMine.description>
+  <ImpactMine_Blueprint.label>冲击地雷 (蓝图)</ImpactMine_Blueprint.label>
+  <ImpactMine_Blueprint_Install.label>冲击地雷 (蓝图)</ImpactMine_Blueprint_Install.label>
+  <ImpactMine_Frame.label>冲击地雷 (建造中)</ImpactMine_Frame.label>
 
-	<BarrageCannon.description>为远程火力支援而设计。发射集束火箭弹幕打击目标。</BarrageCannon.description>
+  <PortableReactor.label>便携式反应堆</PortableReactor.label>
+  <PortableReactor.description>小型的、便携式野外用反应堆，消耗铀来产生电力。当你需要电源时可以快速部署。损毁时会发生爆炸。</PortableReactor.description>
+  <PortableReactor_Blueprint.label>便携式反应堆 (蓝图)</PortableReactor_Blueprint.label>
+  <PortableReactor_Blueprint_Install.label>便携式反应堆 (蓝图)</PortableReactor_Blueprint_Install.label>
+  <PortableReactor_Frame.label>便携式反应堆 (建造中)</PortableReactor_Frame.label>
 
-	<WaveEmitter.label>微波发射台</WaveEmitter.label>
 
-	<WaveEmitter.description>极其强大的微波发射平台，集群摧毁武器。受损严重时该炮塔会爆炸。</WaveEmitter.description>
-
-	<NestMMG.label>MMG阵地</NestMMG.label>
-
-	<NestMMG.description>架有阵地用机枪。简单而有效的防御建筑，需要人员操作。</NestMMG.description>
-
-	 <!--<Harvester.label>收割者</Harvester.label>--> 
-	 <!--<Harvester.description>这种型号的脉冲激光炮台被称为“收割者”。从它的名字可以知道，这种重型武器炮台可以瞬间收割成片的敌人。需要人员操作。</Harvester.description>--> 
 </LanguageData>

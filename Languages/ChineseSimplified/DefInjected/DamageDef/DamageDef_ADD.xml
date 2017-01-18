@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- New for A16 at 2017/01/17 -->
+<!--格式示例-->
+<!--<MonitorBody.label>监控器</MonitorBody.label>-->
+
+	
+	 <Deterioration.deathMessage>{0} 被杀死了.</Deterioration.deathMessage> 
+	 <Mining.deathMessage>{0} 被杀死了.</Mining.deathMessage> 
+	 <Rotting.deathMessage>{0} 被杀死了.</Rotting.deathMessage>
+	 <Extinguish.deathMessage>{0} 被杀死了.</Extinguish.deathMessage> 
+	 <KineticImpactH.label>动能冲击</KineticImpactH.label> 
+	 <KineticImpactH.deathMessage>{0} 被打得粉碎.</KineticImpactH.deathMessage> 
+	 <KineticImpactF.label>动能冲击</KineticImpactF.label> 
+	 <KineticImpactF.deathMessage>{0} 被打得粉碎.</KineticImpactF.deathMessage> 
+	 <ChargedBolt.label>电荷子弹</ChargedBolt.label> 
+	 <ChargedBolt.deathMessage>{0} 被杀死了.</ChargedBolt.deathMessage> 
+	
+	
+	
+	
+
+</LanguageData>

@@ -1,40 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<ShardTech.label>[RS]碎片科技</ShardTech.label>
+  <ShardTech.label>RS：改进型晶体碎片</ShardTech.label>
+  <ShardTech.description>解锁「允和高精」的武器装备制作。\n\n允和高精：Yunhwa Precision</ShardTech.description>
 
-	<ShardTech.description>允许你制作允和高精集团的武器和护甲。</ShardTech.description>
+  <MicrowaveTech.label>RS：微波发射器</MicrowaveTech.label>
+  <MicrowaveTech.description>解锁「微波发射器」的制作。</MicrowaveTech.description>
 
-	<MicrowaveTech.label>[RS]微波科技</MicrowaveTech.label>
+  <MoltenTech.label>RS：微波熔炉</MoltenTech.label>
+  <MoltenTech.description>解锁「巨人星际」武器装备的制作。\n\n巨人星际：Jotun Interstellar</MoltenTech.description>
 
-	<MicrowaveTech.description>允许你制作微波发射器。</MicrowaveTech.description>
+  <SiegeTech.label>RS：攻城炮</SiegeTech.label>
+  <SiegeTech.description>解锁便携式「攻城炮」的制作。</SiegeTech.description>
 
-	
+  <KineticTech.label>RS：动能守恒胶体</KineticTech.label>
+  <KineticTech.description>解锁「底西福涅」武器装备的制作。\n\n底西福涅公司：Tisiphone Enterprise</KineticTech.description>
 
-	
+  <FocusTech.label>RS：集聚动能力场</FocusTech.label>
+  <FocusTech.description>解锁「便携式发电机」和「动能标枪」的制作。</FocusTech.description>
 
-	
+  <DefenceTech.label>RS：防御技术</DefenceTech.label>
+  <DefenceTech.description>解锁「灰谷防御」武器装备的制作。\n\n灰谷防御：Greydale Defence</DefenceTech.description>
 
-	
+  <DirectedEMP.label>RS：定向电磁脉冲</DirectedEMP.label>
+  <DirectedEMP.description>解锁「EMP步枪」的制作。</DirectedEMP.description>
 
-	<MoltenTech.label>[RS]熔融科技</MoltenTech.label>
 
-	<MoltenTech.description>允许你制作佐敦星际集团的武器和护甲。</MoltenTech.description>
-
-	<SiegeTech.label>[RS]攻城炮</SiegeTech.label>
-
-	<SiegeTech.description>允许你制作便携攻城炮。</SiegeTech.description>
-
-	<DefenceTech.label>[RS]防卫科技</DefenceTech.label>
-
-	<DefenceTech.description>允许你制作灰谷防御集团的武器和护甲。</DefenceTech.description>
-
-	<KineticTech.label>[RS]动力科技</KineticTech.label>
-
-	<KineticTech.description>允许你制作动力武装集团的武器和护甲。</KineticTech.description>
-
-	 <!--<CrucibleTech.label>[RS]熔炉科技</CrucibleTech.label>--> 
-	 <!--<CrucibleTech.description>允许你制作动力武装集团的武器和护甲。</CrucibleTech.description>--> 
-	 <!--<PlasmaTech.label>[RS]等离子武器</PlasmaTech.label>--> 
-	 <!--<PlasmaTech.description>允许你制作等离子武器。</PlasmaTech.description>--> 
 </LanguageData>

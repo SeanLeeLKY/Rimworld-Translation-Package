@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- New for A16 at 2017/01/17 -->
+<!--格式示例-->
+
+	<!--<kNumbersOverviewTab.label>数据概览</kNumbersOverviewTab.label>-->
+	
+	
+	
+	<Tech_Advancing.label>科技推进设置</Tech_Advancing.label>
+	<Tech_Advancing.description>设置科技推进如何介入游戏</Tech_Advancing.description> 
+	
+	
+	
+	
+	
+
+</LanguageData>

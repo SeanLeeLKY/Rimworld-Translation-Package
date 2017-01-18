@@ -1,24 +1,32 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Apparel_HuskerHood.label>蛮族兜帽</Apparel_HuskerHood.label>
+  <Apparel_HuskerHood.label>蛮族兜帽</Apparel_HuskerHood.label>
+  <Apparel_HuskerHood.description>坚固但制作粗糙的蛮族兜帽。</Apparel_HuskerHood.description>
 
-	<Apparel_HuskerHood.description>蛮族的兜帽，粗制但坚固。</Apparel_HuskerHood.description>
+  <Apparel_SkulkerHood.label>蛮族兜帽</Apparel_SkulkerHood.label>
+  <Apparel_SkulkerHood.description>坚固但制作粗糙的蛮族兜帽。</Apparel_SkulkerHood.description>
 
-	<Apparel_SkulkerHood.label>蛮族兜帽</Apparel_SkulkerHood.label>
+  <Apparel_ThumperHood.label>蛮族兜帽</Apparel_ThumperHood.label>
+  <Apparel_ThumperHood.description>坚固但制作粗糙的蛮族兜帽。</Apparel_ThumperHood.description>
 
-	<Apparel_SkulkerHood.description>蛮族的兜帽，粗制但坚固。</Apparel_SkulkerHood.description>
+  <Apparel_GrinderHelmet.label>蛮族头盔</Apparel_GrinderHelmet.label>
+  <Apparel_GrinderHelmet.description>样式古怪，完全就是个生锈的铁桶。</Apparel_GrinderHelmet.description>
 
-	<Apparel_ThumperHood.label>蛮族兜帽</Apparel_ThumperHood.label>
+  <Apparel_ScorcherHelmet.label>蛮族防毒面罩</Apparel_ScorcherHelmet.label>
+  <Apparel_ScorcherHelmet.description>样式古怪的防毒面罩。</Apparel_ScorcherHelmet.description>
 
-	<Apparel_ThumperHood.description>蛮族的兜帽，粗制但坚固。</Apparel_ThumperHood.description>
+  <Apparel_ScrapArmor.label>废料护甲</Apparel_ScrapArmor.label>
+  <Apparel_ScrapArmor.description>用废料制作的护甲。虽然很丑且不舒适，但能提供极好的防护。</Apparel_ScrapArmor.description>
 
-	<Apparel_GrinderHelmet.label>蛮族头盔</Apparel_GrinderHelmet.label>
+  <Apparel_FeralMail.label>蛮族板甲</Apparel_FeralMail.label>
+  <Apparel_FeralMail.description>笨重、不方便的铸造盔甲。</Apparel_FeralMail.description>
 
-	<Apparel_GrinderHelmet.description>样子古怪，完全就是个生锈的铁桶。</Apparel_GrinderHelmet.description>
+  <Apparel_FeralExo.label>蛮族外骨骼</Apparel_FeralExo.label>
+  <Apparel_FeralExo.description>蛮族回收利用的动力装甲。每个蛮族勇士的梦想。</Apparel_FeralExo.description>
 
-	<Apparel_ScorcherHelmet.label>蛮族防毒面罩</Apparel_ScorcherHelmet.label>
+  <Apparel_FeralExoH.label>蛮族外骨骼头盔</Apparel_FeralExoH.label>
+  <Apparel_FeralExoH.description>一顶临时配备的动力装甲头盔。</Apparel_FeralExoH.description>
 
-	<Apparel_ScorcherHelmet.description>样子古怪的防毒面罩。</Apparel_ScorcherHelmet.description>
 
 </LanguageData>

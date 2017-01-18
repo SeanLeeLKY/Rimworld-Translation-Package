@@ -1,34 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Bullet_SeoLi.label>霜冻碎片</Bullet_SeoLi.label>
+  <Bullet_SeoLi.label>冰霜晶刺</Bullet_SeoLi.label>
 
-	<YP_SeoLi.label>碎片步枪</YP_SeoLi.label>
+  <YP_SeoLi.label>YP晶刺步枪</YP_SeoLi.label>
+  <YP_SeoLi.description>「允和高精」的「冰霜」晶刺步枪具有优于传统步枪的精度，配备了更大的弹夹和更高的射速，但牺牲了威力和穿甲能力。</YP_SeoLi.description>
 
-	<YP_SeoLi.description>允和高精集团"冰霜"碎片步枪，优于传统步枪的精度，其配备了更大的弹夹和更高的射速，但牺牲了威力和穿甲能力。</YP_SeoLi.description>
+  <Bullet_SagPung.label>朔风晶刺</Bullet_SagPung.label>
 
-	<Bullet_SagPung.label>朔风碎片</Bullet_SagPung.label>
+  <YP_SagPung.label>YP晶炮</YP_SagPung.label>
+  <YP_SagPung.description>「允和高精」的「朔风」晶炮，发射晶刺的高射速自动霰弹枪。是近距离处理活体目标的理想工具。</YP_SagPung.description>
 
-	<YP_SagPung.label>晶炮</YP_SagPung.label>
+  <Bullet_SangAe.label>霜霾狼牙</Bullet_SangAe.label>
 
-	<YP_SagPung.description>允和高精集团"朔风"晶炮是一种短程纳米技术武器。其发射智能纳米破片作为子弹。高射速和惊人的准确度使其成为了近距离处理活体目标的理想工具。</YP_SagPung.description>
+  <YP_SangAe.label>YP狼牙步枪</YP_SangAe.label>
+  <YP_SangAe.description>「允和高精」的「霜霾」狼牙步枪。有别于常规步枪，「霜霾」发射碳晶体穿甲弹。</YP_SangAe.description>
 
-	<Bullet_SangAe.label>霜霾棘刺</Bullet_SangAe.label>
+  <Bullet_SeolHwa.label>雪华晶刺</Bullet_SeolHwa.label>
 
-	<YP_SangAe.label>棘刺步枪</YP_SangAe.label>
+  <YP_SeolHwa.label>YP晶刺双枪</YP_SeolHwa.label>
+  <YP_SeolHwa.description>「允和高精」的「雪华」双持手枪。「雪华」的射程很短，但近距离内可以撕碎敌人。</YP_SeolHwa.description>
 
-	<YP_SangAe.description>允和高精集团"霜霾"棘刺步枪。与普通步枪不同，"霜霾"发射碳素晶体穿甲弹。</YP_SangAe.description>
+  <Bullet_GeugGwang.label>微波</Bullet_GeugGwang.label>
 
-	<Bullet_SeolHwa.label>雪华碎片</Bullet_SeolHwa.label>
+  <YP_GeugGwang.label>YP微波发射器</YP_GeugGwang.label>
+  <YP_GeugGwang.description>「允和高精」的「极光」微波发射器发射的毫米波能让目标皮肤水份沸腾的，产生无法忍受的痛苦。完美的人群控制武器。</YP_GeugGwang.description>
 
-	<YP_SeolHwa.label>双持碎片手枪</YP_SeolHwa.label>
-
-	<YP_SeolHwa.description>允和高精集团"雪华"双持手枪。其射程很短，但近距离内可以撕碎敌人。</YP_SeolHwa.description>
-
-	<Bullet_GeugGwang.label>微波</Bullet_GeugGwang.label>
-
-	<YP_GeugGwang.label>微波发射器</YP_GeugGwang.label>
-
-	<YP_GeugGwang.description>允和高精集团"极光"微波发射器发射能让目标皮肤下水份沸腾的毫米波，产生无法忍受的痛苦。完美的人群控制武器。</YP_GeugGwang.description>
 
 </LanguageData>

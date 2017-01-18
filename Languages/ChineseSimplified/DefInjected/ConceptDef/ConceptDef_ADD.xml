@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New for A16 at 2017/01/17 -->
+<!--格式示例-->
+<!--<MonitorBody.label>监控器</MonitorBody.label>-->
+
+  
+  <GuestBeds.label>访客床</GuestBeds.label> 
+  <RecruitGuest.label>招募访客</RecruitGuest.label> 
+  <Hospitality.label>访客招募</Hospitality.label> 
+  
+
+</LanguageData>

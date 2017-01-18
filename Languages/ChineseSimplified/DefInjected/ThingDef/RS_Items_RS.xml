@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MRSKitR.label>MRS-步枪转换套件</MRSKitR.label>
+  <MRSKitR.description>将黑豹C模组化卡宾枪转化成步枪构型的必要部件。若想将已配置的黑豹模组化步枪系统重新配置，你需要将其拆解成卡宾枪，然后组装上你喜欢的部件。</MRSKitR.description>
+
+  <MRSKitM.label>MRS-DMR转换套件</MRSKitM.label>
+  <MRSKitM.description>将黑豹C模组化卡宾枪转化成特等神射手步枪构型的必要部件。若想将已配置的黑豹模组化步枪系统重新配置，你需要将其拆解成卡宾枪，然后组装上你喜欢的部件。</MRSKitM.description>
+
+  <MRSKitS.label>MRS-LMG转换套件</MRSKitS.label>
+  <MRSKitS.description>将黑豹C模组化卡宾枪转化成轻机枪构型的必要部件。若想将已配置的黑豹模组化步枪系统重新配置，你需要将其拆解成卡宾枪，然后组装上你喜欢的部件。</MRSKitS.description>
+
+
+</LanguageData>

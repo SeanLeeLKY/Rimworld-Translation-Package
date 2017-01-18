@@ -1,6 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<BionAdultStage.label>成熟体</BionAdultStage.label>
+  <BionAdultStage.label>成年期</BionAdultStage.label>
+
 
 </LanguageData>

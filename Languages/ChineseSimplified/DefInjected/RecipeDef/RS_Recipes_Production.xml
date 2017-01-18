@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DisassembleMRS-R.label>拆解模组化步枪</DisassembleMRS-R.label>
+  <DisassembleMRS-R.description>将模组化步枪拆解为MRS-步枪转换套件和模组化卡宾枪。</DisassembleMRS-R.description>
+  <DisassembleMRS-R.jobString>正在拆解模组化步枪。</DisassembleMRS-R.jobString>
+
+  <DisassembleMRS-S.label>拆解模组化LMG</DisassembleMRS-S.label>
+  <DisassembleMRS-S.description>将模组化LMG拆解成MRS-LMG转换套件和模组化卡宾枪。</DisassembleMRS-S.description>
+  <DisassembleMRS-S.jobString>正在拆解模组化LMG。</DisassembleMRS-S.jobString>
+
+  <DisassembleMRS-M.label>拆解模组化DMR</DisassembleMRS-M.label>
+  <DisassembleMRS-M.description>将模组化DMR拆解成MRS-DMR转换套件和模组化卡宾枪。</DisassembleMRS-M.description>
+  <DisassembleMRS-M.jobString>正在拆解模组化DMR。</DisassembleMRS-M.jobString>
+
+
+</LanguageData>

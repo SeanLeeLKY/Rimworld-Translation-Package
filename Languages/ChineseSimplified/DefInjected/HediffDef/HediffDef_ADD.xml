@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+<!-- New for A16 at 2017/01/17 -->
+<!--格式示例-->
+
+	<!--<HedStew.label>回味炖菜</HedStew.label>-->
+
+	
+	<ProstheticTail.label>假体尾巴</ProstheticTail.label> 
+	<BionicAnimalLiver.label>仿生动物肝</BionicAnimalLiver.label> 
+	<BionicAnimalKidney.label>仿生动物肾</BionicAnimalKidney.label> 
+	<BionicAnimalStomach.label>仿生动物胃</BionicAnimalStomach.label>
+	<SoylentCola.label>'高能量可乐'</SoylentCola.label> 
+	
+	
+	
+</LanguageData>

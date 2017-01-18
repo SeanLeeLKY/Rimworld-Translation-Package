@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Nuke.label>核武器</Nuke.label>
+  <Nuke.label>核武器</Nuke.label>
+  <Nuke.deathMessage>{0}在爆炸中死亡。</Nuke.deathMessage>
 
-	<Nuke.deathMessage>{0} 被炸死了。</Nuke.deathMessage>
 
 </LanguageData>

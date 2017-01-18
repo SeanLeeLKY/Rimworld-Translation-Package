@@ -5,119 +5,127 @@
 	
 <!--Example:<EdB.PrepareCarefully.EquipmentTab.Medical>医药</EdB.PrepareCarefully.EquipmentTab.Medical>-->
 	
-<EdB.PrepareCarefully.UnrecoverableError.Header> Unrecoverable Error</EdB.PrepareCarefully.UnrecoverableError.Header>
-<EdB.PrepareCarefully.UnrecoverableError.Message> Something went wrong, and Prepare Carefully was not able to recover.  The following error message may help identify the problem:"{0}"</EdB.PrepareCarefully.UnrecoverableError.Message>
-<knownFriendlyFactions> friendly</knownFriendlyFactions>
-<knownHostileFactions> hostile</knownHostileFactions>
-<factionCap> faction cap</factionCap>
-<knownFactionsRecommendation> Faction Discovery: It is recommended to start with very few known factions. The lower the faction cap, the less likely you discover new factions.</knownFactionsRecommendation>
-<ScenPart_KnownFactions> You know {0} friendly and {1} hostile factions at the beginning.</ScenPart_KnownFactions>
-<discoverAtStartLabel> Factions known</discoverAtStartLabel>
-<discoverAtStartText> You know of {0} other factions in the region. Over time you will discover more.</discoverAtStartText>
-<discoverAtDropLabel> Factions sighted</discoverAtDropLabel>
-<discoverAtDropText> As you drop onto the planet you are able to see {0} large settlements in the region. Over time you will discover more.</discoverAtDropText>
-<discoveredGood> You have spotted a new faction!They are {0} and call themselves {1}.They are not hostile.</discoveredGood>
-<discoveredBad> You have spotted a new faction!They are {0} and call themselves {1}.They are hostile towards you.</discoveredBad>
-<CheckFactions> Checking factions...</CheckFactions>
-<Anybody> Anybody</Anybody>
-<MinStock> Min Stock</MinStock>
-<MinStockLabel> If less than X, resume operation.</MinStockLabel>
-<Paused> Paused</Paused>
-<BillGainsName> The name of the bill is {0}.</BillGainsName>
-<ShiftLabel> Shift-Click : Increase or decrease by 5x.Ctrl-Click : Increase or decrease by 10x.Alt-Click : Increase or decrease min stock count</ShiftLabel>
-<FluffyTabs.WorkNaturalPrioritiesTip> Edit default priorities</FluffyTabs.WorkNaturalPrioritiesTip>
-<FluffyTabs.PrioritiesWorkgiversTip> Currently showing simple (vanilla) priorities.Click to switch to detailed priorities</FluffyTabs.PrioritiesWorkgiversTip>
-<FluffyTabs.PrioritiesWorktypesTip> Currently showing detailed priorities.Click to switch to vanilla priorities</FluffyTabs.PrioritiesWorktypesTip>
-<FluffyTabs.PrioritiesToggleTip> Currently showing numeric priorities.Click to switch to on/off priorities</FluffyTabs.PrioritiesToggleTip>
-<FluffyTabs.PrioritiesIntTip> Currently showing on/off priorities.Click to switch to numeric priorities</FluffyTabs.PrioritiesIntTip>
-<FluffyTabs.PrioritiesSchedulerTip> Currently showing scheduled priorities.Click to switch to all-day priorities</FluffyTabs.PrioritiesSchedulerTip>
-<FluffyTabs.PrioritiesAllDayTip> Currently showing all-day priorities.Click to switch to scheduled priorities</FluffyTabs.PrioritiesAllDayTip>
-<FluffyTabs.LowPriorityLabel> lower priority 》》</FluffyTabs.LowPriorityLabel>
-<FluffyTabs.HighPriorityLabel> 《《higher priority</FluffyTabs.HighPriorityLabel>
-<FluffyTabs.Name> Name</FluffyTabs.Name>
-<FluffyTabs.NameColumnTip> Click to sort by name.Right click to sort by game order.</FluffyTabs.NameColumnTip>
-<FluffyTabs.WorkPrioritiesDisclaimer> The default work priorities window allows you to change default priorities of work types (cooking, constructing, etc.), and the activities within them (carry materials, build, etc.).\nDISCLAIMER:\nIt is entirely possible to bring your colony to a grinding halt by carelessly changing priorities. Use the button on the top right of this dialog to return to the vanilla default priorities.</FluffyTabs.WorkPrioritiesDisclaimer>
-<FluffyTabs.WorkPrioritiesDisclaimerTitle> Default priorities</FluffyTabs.WorkPrioritiesDisclaimerTitle>
-<FluffyTabs.WorkPrioritiesDetails> Default priorities</FluffyTabs.WorkPrioritiesDetails>
-<FluffyTabs.ResetPrioritiesTip> Reset to vanilla default priorities</FluffyTabs.ResetPrioritiesTip>
-<FluffyTabs.IncreasePriority> increase priority</FluffyTabs.IncreasePriority>
-<FluffyTabs.DecreasePriority> decrease priority</FluffyTabs.DecreasePriority>
-<FluffyTabs.ToggleOn> enable</FluffyTabs.ToggleOn>
-<FluffyTabs.ToggleOff> disable</FluffyTabs.ToggleOff>
-<FluffyTabs.CurrentJobColumnTip> Current activity.Click to sort by activity</FluffyTabs.CurrentJobColumnTip>
-<FluffyTabs.CurrentMoodColumnTip> Current mood.Click to sort by mood</FluffyTabs.CurrentMoodColumnTip>
-<FluffyTabs.FavouriteButtonTip> Create/set favourites</FluffyTabs.FavouriteButtonTip>
-<FluffyTabs.XIsScheduledForY> {0} is scheduled for {1} at:</FluffyTabs.XIsScheduledForY>
-<FluffyTabs.XIsPartiallyScheduledForY> {0} is partially scheduled for {1}</FluffyTabs.XIsPartiallyScheduledForY>
-<FluffyTabs.ClearTimeSelection> {0} click to select whole day</FluffyTabs.ClearTimeSelection>
-<FluffyTabs.CreateFavouritesDialogTitle> Create favourite</FluffyTabs.CreateFavouritesDialogTitle>
-<FluffyTabs.CreateFavouritesDialog> Create a new favourite from the current work settings of {0}.</FluffyTabs.CreateFavouritesDialog>
-<FluffyTabs.TextureChooser.Previous> Previous</FluffyTabs.TextureChooser.Previous>
-<FluffyTabs.TextureChooser.Next> Next</FluffyTabs.TextureChooser.Next>
-<Cancel> Cancel</Cancel>
-<FluffyTabs.CurrentFavourite> Current favourite: {0}</FluffyTabs.CurrentFavourite>
-<FluffyTabs.ClickToAssignFavourite> Click to assign favourite</FluffyTabs.ClickToAssignFavourite>
-<FluffyTabs.AssignFavouriteX> Assign {0}</FluffyTabs.AssignFavouriteX>
-<FluffyTabs.ClickToAssignOrCreateFavourite> Click to assign or create new favourite</FluffyTabs.ClickToAssignOrCreateFavourite>
-<FluffyTabs.CreateNewFavouriteTitle> Create new favourite</FluffyTabs.CreateNewFavouriteTitle>
-<FluffyTabs.DeleteFavouriteX> Delete {0}</FluffyTabs.DeleteFavouriteX>
-<FluffyTabs.DefaultFavouriteLabel> Favourite</FluffyTabs.DefaultFavouriteLabel>
-<FluffyTabs.ColorCodedPassions> Colour coded passions</FluffyTabs.ColorCodedPassions>
-<FluffyTabs.ColorCodedPassionsTip> Should passion icons be colour coded?</FluffyTabs.ColorCodedPassionsTip>
-<FluffyTabs.24HourMode> 24 hour mode</FluffyTabs.24HourMode>
-<FluffyTabs.24HourModeTip> Should times be shown in 12h (noon/9p.m.) or 24h (12:00, 21:00) mode?</FluffyTabs.24HourModeTip>
-<FluffyTabs.MaxPriority> Levels of priority</FluffyTabs.MaxPriority>
-<FluffyTabs.MaxPriorityTip> How many levels of priority should we use? (Limited to between 4 and 9)</FluffyTabs.MaxPriorityTip>
-<FluffyTabs.WorktypeHeaderTip> {0}Click to sort by skill.\nShift-left-click to {1} for all.\nShift-right-click to {2} for all{3}</FluffyTabs.WorktypeHeaderTip>
-<FluffyTabs.WorkgiverHeaderTip> {0}Click to sort by skill.\nShift-left-click to {1} for all.\nShift-right-click to {2} for all{0} is a {3} job{4}</FluffyTabs.WorkgiverHeaderTip>
-<FluffyTabs.SchedulerHourTip> {0} - {1} is currently {2}.\nLeft-click to add to selection.\nRight-click to remove from selection.\nShift left-click to select only this hour.</FluffyTabs.SchedulerHourTip>
-<FluffyTabs.Selected> selected</FluffyTabs.Selected>
-<FluffyTabs.NotSelected> not selected</FluffyTabs.NotSelected>
-<midnight> midnight</midnight>
-<noon> noon</noon>
-<FluffyTabs.SchedulerWholeDay> Select whole day</FluffyTabs.SchedulerWholeDay>
-<FluffyTabs.SchedulerCurrentTimeOnly> Select current hour</FluffyTabs.SchedulerCurrentTimeOnly>
-<Fluffy.Blueprints.NothingAvailableInBlueprint> None of the items in {0} can be build with the current technology.</Fluffy.Blueprints.NothingAvailableInBlueprint>
-<Fluffy.Blueprints.XNotAvailableInBlueprint> Some of the items in {0} can not be build with the current technology: {1}</Fluffy.Blueprints.XNotAvailableInBlueprint>
-<QualityBuilderCommand.Label> QualityBuild</QualityBuilderCommand.Label>
-<QualityBuilderOn.Label> QualityBuilder set</QualityBuilderOn.Label>
-<QualityBuilderOn.Desc> Set buildings for skillful workers</QualityBuilderOn.Desc>
+<EdB.PrepareCarefully.UnrecoverableError.Header>不可预知的错误</EdB.PrepareCarefully.UnrecoverableError.Header>
+<EdB.PrepareCarefully.UnrecoverableError.Message> 因为一些不可预知的错误，精心准备不能恢复。以下的错误信息有助于你解决相关问题："{0}"</EdB.PrepareCarefully.UnrecoverableError.Message>
+<knownFriendlyFactions>友善的</knownFriendlyFactions>
+<knownHostileFactions> 敌对的</knownHostileFactions>
+<factionCap>派系上限</factionCap>
+<knownFactionsRecommendation>派系发现：建议开局设置少量的已知派系。派系上限越低，你发现新派系的可能性就越小。</knownFactionsRecommendation>
+<ScenPart_KnownFactions> 游戏开始时，有{0}个派系对你持友好态度，{1}个派系对你持敌对态度。</ScenPart_KnownFactions>
+<discoverAtStartLabel>已知派系</discoverAtStartLabel>
+<discoverAtStartText> 你在这个区域发现{0}个派系。随着时间的增长，你会发现更多。</discoverAtStartText>
+<discoverAtDropLabel>已观测派系</discoverAtDropLabel>
+<discoverAtDropText>当你降落在这个星球的过程中，你在本区域内能看到{0}个大型聚居群落。随着时间的推移，你会发现更多。</discoverAtDropText>
+<discoveredGood> 你发现了一个新的派系！他们是{0} ，他们自称是{1}。他们非常热情友善的招待了你，就像老朋友一样。</discoveredGood>
+<discoveredBad> 你发现了一个新的派系！他们是{0} ，他们自称是{1}。他们远远的观察着你，就像猎人发现了猎物一样。</discoveredBad>
+<CheckFactions> 检查派系...</CheckFactions>
+<Anybody>任何人</Anybody>
+<MinStock>最低数值</MinStock>
+<MinStockLabel> 如果数量少于 X，则重新开始工作。</MinStockLabel>
+<Paused> 暂停</Paused>
+<BillGainsName> 这个方案的名称是 {0}.</BillGainsName>
+<ShiftLabel> Shift-Click : 5X数量的增加或减少.Ctrl-Click : 10X数量的增加或减少.Alt-Click : 增加或者减少到最低基数。</ShiftLabel>
+<FluffyTabs.WorkNaturalPrioritiesTip>编辑默认优先度</FluffyTabs.WorkNaturalPrioritiesTip>
+<FluffyTabs.PrioritiesWorkgiversTip> 目前显示简单优先级模式。点击切换到详细优先级模式。</FluffyTabs.PrioritiesWorkgiversTip>
+<FluffyTabs.PrioritiesWorktypesTip> 目前显示详细优先级模式。点击切换到普通优先级模式。</FluffyTabs.PrioritiesWorktypesTip>
+<FluffyTabs.PrioritiesToggleTip> 当前显示数字等级优先模式。点击切换到开关优先级模式。</FluffyTabs.PrioritiesToggleTip>
+<FluffyTabs.PrioritiesIntTip> 当先显示开关优先级模式。点击切换到数字优先级模式。</FluffyTabs.PrioritiesIntTip>
+<FluffyTabs.PrioritiesSchedulerTip> 当前显示计划优先模式，点击显示全天优先模式。</FluffyTabs.PrioritiesSchedulerTip>
+<FluffyTabs.PrioritiesAllDayTip> 当前显示全天优先模式，点击显示计划优先模式。</FluffyTabs.PrioritiesAllDayTip>
+<FluffyTabs.LowPriorityLabel> 低优先级 =》</FluffyTabs.LowPriorityLabel>
+<FluffyTabs.HighPriorityLabel> 《=高优先级</FluffyTabs.HighPriorityLabel>
+<FluffyTabs.Name> 名字</FluffyTabs.Name>
+<FluffyTabs.NameColumnTip> 单击按名字分类。右键点击按游戏命令分类。</FluffyTabs.NameColumnTip>
+<FluffyTabs.WorkPrioritiesDisclaimer> 默认的工作优先级窗口允许您更改工作类型（烹饪、构建等）和活动（携带物料、构建等）的默认优先级。\n免责声明:\n如果你不通过认真考虑而胡乱设置各种行为优先级的话，这完全有可能让你的殖民地瘫痪。使用此对话框右上角的按钮返回到默认优先级状态。</FluffyTabs.WorkPrioritiesDisclaimer>
+<FluffyTabs.WorkPrioritiesDisclaimerTitle>默认优先级</FluffyTabs.WorkPrioritiesDisclaimerTitle>
+<FluffyTabs.WorkPrioritiesDetails>默认优先级</FluffyTabs.WorkPrioritiesDetails>
+<FluffyTabs.ResetPrioritiesTip>重置到默认优先级状态</FluffyTabs.ResetPrioritiesTip>
+<FluffyTabs.IncreasePriority>提高优先级</FluffyTabs.IncreasePriority>
+<FluffyTabs.DecreasePriority>降低优先级</FluffyTabs.DecreasePriority>
+<FluffyTabs.ToggleOn>启用</FluffyTabs.ToggleOn>
+<FluffyTabs.ToggleOff>禁用</FluffyTabs.ToggleOff>
+<FluffyTabs.CurrentJobColumnTip> 当前活动。点击按活动分类。</FluffyTabs.CurrentJobColumnTip>
+<FluffyTabs.CurrentMoodColumnTip> 当前情绪。点击按情绪分类。</FluffyTabs.CurrentMoodColumnTip>
+<FluffyTabs.FavouriteButtonTip>创建/设置计划</FluffyTabs.FavouriteButtonTip>
+<FluffyTabs.XIsScheduledForY> {0} 正按计划 {1} 于:</FluffyTabs.XIsScheduledForY>
+<FluffyTabs.XIsPartiallyScheduledForY> {0} 正在按计划部分执行 {1}</FluffyTabs.XIsPartiallyScheduledForY>
+<FluffyTabs.ClearTimeSelection> {0} 点击选择整天。</FluffyTabs.ClearTimeSelection>
+<FluffyTabs.CreateFavouritesDialogTitle>创建计划</FluffyTabs.CreateFavouritesDialogTitle>
+<FluffyTabs.CreateFavouritesDialog> 从当前的工作设置为{0}创建计划内容。</FluffyTabs.CreateFavouritesDialog>
+<FluffyTabs.TextureChooser.Previous> 前一个</FluffyTabs.TextureChooser.Previous>
+<FluffyTabs.TextureChooser.Next> 下一个</FluffyTabs.TextureChooser.Next>
+<Cancel> 取消</Cancel>
+<FluffyTabs.CurrentFavourite> 当前计划: {0}</FluffyTabs.CurrentFavourite>
+<FluffyTabs.ClickToAssignFavourite>点击分配计划</FluffyTabs.ClickToAssignFavourite>
+<FluffyTabs.AssignFavouriteX> 分配 {0}</FluffyTabs.AssignFavouriteX>
+<FluffyTabs.ClickToAssignOrCreateFavourite> 点击分配或者创建新计划。</FluffyTabs.ClickToAssignOrCreateFavourite>
+<FluffyTabs.CreateNewFavouriteTitle>创建新计划</FluffyTabs.CreateNewFavouriteTitle>
+<FluffyTabs.DeleteFavouriteX> 删除 {0}</FluffyTabs.DeleteFavouriteX>
+<FluffyTabs.DefaultFavouriteLabel>计划</FluffyTabs.DefaultFavouriteLabel>
+<FluffyTabs.ColorCodedPassions> 情绪着色</FluffyTabs.ColorCodedPassions>
+<FluffyTabs.ColorCodedPassionsTip> 要为情绪图标着色吗？</FluffyTabs.ColorCodedPassionsTip>
+<FluffyTabs.24HourMode>24小时模式</FluffyTabs.24HourMode>
+<FluffyTabs.24HourModeTip> 设置时间模式为12小时模式(noon/9p.m.)或24小时模式(12:00, 21:00)？</FluffyTabs.24HourModeTip>
+<FluffyTabs.MaxPriority>优先等级</FluffyTabs.MaxPriority>
+<FluffyTabs.MaxPriorityTip>使用多少个优先级？（限制在4和9之间）</FluffyTabs.MaxPriorityTip>
+<FluffyTabs.WorktypeHeaderTip> {0}点击按技能分配.\n按住Shift加左键点击为所有人设置{1}.\nShift-right-click to {2} for all{3}</FluffyTabs.WorktypeHeaderTip>
+<FluffyTabs.WorkgiverHeaderTip> {0}点击按技能分配.\n按住Shift加左键点击为所有人设置{1}.\nShift-right-click to {2} for all{0} is a {3} job{4}</FluffyTabs.WorkgiverHeaderTip>
+<FluffyTabs.SchedulerHourTip> {0} - {1} 是当前 {2}.\n左键单击选择加入列表.\n右键单击选择移除列表.\n按住Shift 左键单击仅选择此时情况.</FluffyTabs.SchedulerHourTip>
+<FluffyTabs.Selected> 已选择</FluffyTabs.Selected>
+<FluffyTabs.NotSelected>未选择</FluffyTabs.NotSelected>
+<midnight> 午夜</midnight>
+<noon>正午</noon>
+<FluffyTabs.SchedulerWholeDay>选择全天</FluffyTabs.SchedulerWholeDay>
+<FluffyTabs.SchedulerCurrentTimeOnly>选择当前小时</FluffyTabs.SchedulerCurrentTimeOnly>
+<Fluffy.Blueprints.NothingAvailableInBlueprint> {0}中的任何项目都不能用当前科技水平建造。</Fluffy.Blueprints.NothingAvailableInBlueprint>
+<Fluffy.Blueprints.XNotAvailableInBlueprint> 因为缺失科技:{1}，所以{0} 中的某些项目不能建造。 </Fluffy.Blueprints.XNotAvailableInBlueprint>
+<QualityBuilderCommand.Label>精品打造</QualityBuilderCommand.Label>
+<QualityBuilderOn.Label>设置品质标准</QualityBuilderOn.Label>
+<QualityBuilderOn.Desc>要求建造品质达到的标准</QualityBuilderOn.Desc>
 <QualityBuilder.Already> </QualityBuilder.Already>
-<QualityBuilderOff.Label> QualityBuilder remove</QualityBuilderOff.Label>
-<QualityBuilderOff.Desc> Unset buildings for skillful workers</QualityBuilderOff.Desc>
+<QualityBuilderOff.Label> 取消品质标准</QualityBuilderOff.Label>
+<QualityBuilderOff.Desc> 取消建造品质要求</QualityBuilderOff.Desc>
 <QualityBuilder.Nothing>  </QualityBuilder.Nothing>
-<VisitorsSentAway> You have sent them away.</VisitorsSentAway>
-<MakeDefault> Make Default</MakeDefault>
-<SendAway> Send Away</SendAway>
-<SendAwayQuestion> Are you sure you want to send the visitors from {0} away?</SendAwayQuestion>
+<VisitorsSentAway>你已经打发他们走了。</VisitorsSentAway>
+<MakeDefault>设为默认</MakeDefault>
+<SendAway>送走</SendAway>
+<SendAwayQuestion>你确定要将访客从{0}送走吗 ？</SendAwayQuestion>
 <multiple> [multiple]</multiple>
 <Button_Restore_Text> 恢复</Button_Restore_Text>
-<Button_Restore_Tooltip> 从选择的编号位置恢复MODS列表。Restore the mod list from the selected slot.</Button_Restore_Tooltip>
+<Button_Restore_Tooltip> 从选择的编号位置恢复MODS列表。</Button_Restore_Tooltip>
 <Button_Backup_Text> 备份</Button_Backup_Text>
-<Button_Backup_Tooltip>将MODS列表备份到选择的空位。Backup the current mod list into the selected slot.</Button_Backup_Tooltip>
+<Button_Backup_Tooltip>将MODS列表备份到选择的空位。</Button_Backup_Tooltip>
 <Button_Revert_Text> 重置</Button_Revert_Text>
 <Button_Select_Text> 选择</Button_Select_Text>
-<Button_Select_Tooltip> Import this games mod list.</Button_Select_Tooltip>
+<Button_Select_Tooltip>导入游戏MODS列表。</Button_Select_Tooltip>
 <Button_Import_Text>载入</Button_Import_Text>
 <Button_Import_Tooltip>从一个存档中载入MODS列表。</Button_Import_Tooltip>
-<Button_State_Select_Tooltip> 选择一个空位来备份或者恢复MODS列表。* means the slot has not been set.</Button_State_Select_Tooltip>
-<Default_State_Name> [Unnamed]</Default_State_Name>
-<Status_Message_Restore> Loaded State</Status_Message_Restore>
-<Status_Message_Backup> Saved State</Status_Message_Backup>
-<Status_Message_Restored> Restored</Status_Message_Restored>
+<Button_State_Select_Tooltip> 选择一个空位来备份或者恢复MODS列表。* 表示这个位置是空置的.</Button_State_Select_Tooltip>
+<Default_State_Name> [未命名]</Default_State_Name>
+<Status_Message_Restore>加载设置</Status_Message_Restore>
+<Status_Message_Backup>存储设置</Status_Message_Backup>
+<Status_Message_Restored>恢复</Status_Message_Restored>
 <Status_Message_Null>未设置</Status_Message_Null>
 <Dialog_Import_Title>载入MODS</Dialog_Import_Title>
 <Dialog_Import_Desc> 选择一个存档来载入MODS列表，本操作将直接载入存档所用MODS列表，覆盖当前已选择的内容。载入后，你可以将新列表备份到一个空位。</Dialog_Import_Desc>
 <Dialog_Import_Message> 载入</Dialog_Import_Message>
 <Settings_Steam_Sync_Title> Steam同步</Settings_Steam_Sync_Title>
-<Settings_Steam_Sync_Desc> Sync your mod save states to Steams cloud. It is recommended to close Rimworld and allow Steam to sync after changing this setting.</Settings_Steam_Sync_Desc>
+<Settings_Steam_Sync_Desc> 将你的MODS存储状态同步到Steam云。</Settings_Steam_Sync_Desc>
 <Settings_State_Names_Title>空位名</Settings_State_Names_Title>
-<Settings_State_Names_Desc> You can name each save state here.* means the slot has not been set.</Settings_State_Names_Desc>
+<Settings_State_Names_Desc> 你能为每个存储列表命名.* 表示这个位置是空置的.</Settings_State_Names_Desc>
 <Settings_State_Revert_Title>重置MODS列表</Settings_State_Revert_Title>
-<Settings_State_Revert_Desc> This will restore the mods backup that is created everytime RimWorld starts. Use this if something goes wrong and you lose your mod order.\nNOTE:You must restart RimWorld for the new mods list to take effect.</Settings_State_Revert_Desc>
+<Settings_State_Revert_Desc> 这个选项将在游戏启动时候重置MODS列表。 当发生未知问题或者排序混乱时使用这个选项。\n注意:你必须重启游戏才能使新的MODS列表生效。</Settings_State_Revert_Desc>
 <Settings_Button_Show_Text> 显示</Settings_Button_Show_Text>
 <Settings_Button_Hide_Text> 隐藏</Settings_Button_Hide_Text>
 <Settings_Label_State_Name> 空位</Settings_Label_State_Name>
+
+<!-- New for A16 at 2017/01/16 -->
+<MayBuy>允许在这个区域购买物品。</MayBuy>
+<Status_Message_Imported>已载入</Status_Message_Imported>
+<Dialog_EditNames_Title>编辑空位名字</Dialog_EditNames_Title>
+<Dialog_EditNames_ModCount_Label> MOD(S)</Dialog_EditNames_ModCount_Label>
+
+
 
 	
 </LanguageData>

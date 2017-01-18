@@ -1,55 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Bullet_ShardSentry.label>哨戒碎片</Bullet_ShardSentry.label>
+  <Bullet_ShardSentry.label>哨戒炮晶刺</Bullet_ShardSentry.label>
 
-	<Gun_ShardSentry.label>碎片哨戒炮</Gun_ShardSentry.label>
+  <Gun_ShardSentry.label>晶刺哨戒炮</Gun_ShardSentry.label>
+  <Gun_ShardSentry.description>重型晶刺武器。</Gun_ShardSentry.description>
 
-	<Gun_ShardSentry.description>重型碎片武器</Gun_ShardSentry.description>
+  <Bullet_WaveEmitter.label>微波</Bullet_WaveEmitter.label>
 
-	<Bullet_NestHMG.label>HMG子弹</Bullet_NestHMG.label>
+  <Gun_WaveEmitter.label>微波发射器</Gun_WaveEmitter.label>
+  <Gun_WaveEmitter.description>重型微波发射器。</Gun_WaveEmitter.description>
 
-	<Gun_NestHMG.label>重型机枪</Gun_NestHMG.label>
+  <Bullet_NestHMG.label>HMG子弹</Bullet_NestHMG.label>
 
-	<Gun_NestHMG.description>重型机枪</Gun_NestHMG.description>
+  <Gun_NestHMG.label>重型机枪</Gun_NestHMG.label>
+  <Gun_NestHMG.description>重型机枪。</Gun_NestHMG.description>
 
-	<Bullet_NestAGS.label>榴弹</Bullet_NestAGS.label>
+  <Bullet_NestMMG.label>MMG子弹</Bullet_NestMMG.label>
 
-	<Gun_NestAGS.label>自动榴弹发射器</Gun_NestAGS.label>
+  <Gun_NestMMG.label>中型机枪</Gun_NestMMG.label>
+  <Gun_NestMMG.description>中型机枪。</Gun_NestMMG.description>
 
-	<Gun_NestAGS.description>自动榴弹发射器</Gun_NestAGS.description>
+  <Bullet_NestAGS.label>榴弹</Bullet_NestAGS.label>
 
-	
+  <Gun_NestAGS.label>自动榴弹发射器</Gun_NestAGS.label>
+  <Gun_NestAGS.description>自动榴弹发射器。</Gun_NestAGS.description>
 
-	
+  <Bullet_MC.label>熔火炮弹</Bullet_MC.label>
 
-	
+  <Gun_MC.label>熔火加农炮</Gun_MC.label>
+  <Gun_MC.description>重型反机甲武器。</Gun_MC.description>
 
-	<Bullet_MC.label>熔融炮弹</Bullet_MC.label>
+  <Bullet_BC.label>集束火箭</Bullet_BC.label>
 
-	<Gun_MC.label>熔融加农炮</Gun_MC.label>
+  <Gun_BC.label>弹幕加农炮</Gun_BC.label>
+  <Gun_BC.description>智能火箭发射器。</Gun_BC.description>
 
-	<Gun_MC.description>重型反机甲武器</Gun_MC.description>
 
-	<Bullet_BC.label>集束火箭</Bullet_BC.label>
-
-	<Gun_BC.label>弹幕加农炮</Gun_BC.label>
-
-	<Gun_BC.description>智能火箭发射器</Gun_BC.description>
-
-	<Bullet_WaveEmitter.label>微波</Bullet_WaveEmitter.label>
-
-	<Gun_WaveEmitter.label>微波发射器</Gun_WaveEmitter.label>
-
-	<Gun_WaveEmitter.description>重型微波发射器。</Gun_WaveEmitter.description>
-
-	<Bullet_NestMMG.label>MMG子弹</Bullet_NestMMG.label>
-
-	<Gun_NestMMG.label>中型机枪</Gun_NestMMG.label>
-
-	<Gun_NestMMG.description>中型机枪</Gun_NestMMG.description>
-
-	 <!--<Bullet_Harvester.label>能量弹</Bullet_Harvester.label>--> 
-	 <!--<Gun_Harvester.label>收割者加农炮</Gun_Harvester.label>--> 
-	 <!--<Gun_Harvester.description>重型熔炉武器</Gun_Harvester.description>--> 
 </LanguageData>

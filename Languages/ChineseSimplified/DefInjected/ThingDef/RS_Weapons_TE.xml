@@ -1,34 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Bullet_Tyrant.label>冲击炮弹</Bullet_Tyrant.label>
+  <Bullet_Tyrant.label>冲击子弹</Bullet_Tyrant.label>
 
-	<KineticRifle.label>动力步枪</KineticRifle.label>
+  <KineticRifle.label>TE动能步枪</KineticRifle.label>
+  <KineticRifle.description>「底西福涅猎人特遣队」的现役步枪，代号「暴君」。为近身距离作战而设计，暴君最大的优点之一是它的切缘瞄准系统可以做到快速瞄准和追踪目标。</KineticRifle.description>
 
-	<KineticRifle.description>这款名为“暴君”的军用制式步枪，是“提西福涅”复仇女神猎人先遣队的标准装备之一。“暴君”被设计出来的主要目的是用于近距离集团作战， 其巨大优势之一是它的前端瞄准系统具备高速目标的捕捉和持续锁定能力</KineticRifle.description>
+  <Bullet_Tormentor.label>冲击子弹</Bullet_Tormentor.label>
 
-	<Bullet_Tormentor.label>冲击炮弹</Bullet_Tormentor.label>
+  <KineticPistol.label>TE动能手枪</KineticPistol.label>
+  <KineticPistol.description>「底西福涅猎人特遣队」的制式手枪「折磨者」是一款射击迅速的个人防卫武器。</KineticPistol.description>
 
-	<KineticPistol.label>动力手枪</KineticPistol.label>
+  <Bullet_Oppressor.label>冲击弹筒</Bullet_Oppressor.label>
 
-	<KineticPistol.description>这款名为“折磨者”的军用制式手枪，是“提西福涅”复仇女神猎人先遣队的标准装备之一。它是一款拥有极高开火频率的个人防卫武器。</KineticPistol.description>
+  <ThuddGun.label>TE轰击枪</ThuddGun.label>
+  <ThuddGun.description>有别于其他普通的近身距离作战武器，「压迫者」霰弹枪发射带电动能弹筒。即使是远距离也同样致命。</ThuddGun.description>
 
-	<Bullet_Oppressor.label>动力罐</Bullet_Oppressor.label>
+  <Bullet_Wailer.label>冲击子弹</Bullet_Wailer.label>
 
-	<ThuddGun.label>轰击枪</ThuddGun.label>
+  <KineticLongRifle.label>TE动能长程步枪</KineticLongRifle.label>
+  <KineticLongRifle.description>为应对联邦狙击手进行快速反狙击而制造的最优良的狙击枪，「哀悼者」狙击步枪具有惊人的目标快速捕获能力。</KineticLongRifle.description>
 
-	<ThuddGun.description>不同于传统的近距离战斗武器，“压迫者”轰击散弹枪发射充能动力罐。尽管这是一种还在测试的武器，但是它的危险程度还是令人无法侧目。</ThuddGun.description>
+  <Bullet_Atrocity.label>冲击弹筒</Bullet_Atrocity.label>
 
-	<Bullet_Wailer.label>冲击炮弹</Bullet_Wailer.label>
+  <StormCannon.label>TE风暴加农炮</StormCannon.label>
+  <StormCannon.description>「暴行」区域压制系统是为远距离压制复数目标而设计的。暴行极其优秀的机动性使其成为令人生畏的支援武器。</StormCannon.description>
 
-	<KineticLongRifle.label>长程动力步枪</KineticLongRifle.label>
+  <Bullet_Harrower.label>动能弹</Bullet_Harrower.label>
 
-	<KineticLongRifle.description>为了快速应对联邦狙击手的威胁，这款名为“哭丧”的步枪应运而生，它最大的特点就是它那惊人的目标截获速度。</KineticLongRifle.description>
+  <KineticLance.label>TE动能标枪</KineticLance.label>
+  <KineticLance.description>「耙地者」动能标枪能持续不断地发射集聚动能力场，「底西福涅猎人特遣队」为应对「联邦」的机甲而研发的武器。恰如其名，这就是用来撕碎敌人的武器。</KineticLance.description>
 
-	<Bullet_Atrocity.label>动力罐</Bullet_Atrocity.label>
-
-	<StormCannon.label>暴雨加农炮</StormCannon.label>
-
-	<StormCannon.description>“残暴”区域武力压制系统被设计用来从远处压制区域内的多个目标。 强大的机动能力使它成为了一种令人望而生畏的支援武器。</StormCannon.description>
 
 </LanguageData>

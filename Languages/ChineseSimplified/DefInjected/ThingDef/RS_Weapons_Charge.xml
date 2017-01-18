@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_ChargePistol.label>电荷弹</Bullet_ChargePistol.label>
+
+  <Gun_ChargePistol.label>电荷手枪</Gun_ChargePistol.label>
+  <Gun_ChargePistol.description>设计用于单手握持和射击的电荷武器。</Gun_ChargePistol.description>
+
+  <Bullet_ChargeShotgun.label>电荷弹</Bullet_ChargeShotgun.label>
+
+  <Gun_ChargeShotgun.label>电荷霰弹枪</Gun_ChargeShotgun.label>
+  <Gun_ChargeShotgun.description>设计用于近距离枪战的电荷武器。</Gun_ChargeShotgun.description>
+
+  <Bullet_ChargeSniper.label>电荷弹</Bullet_ChargeSniper.label>
+
+  <Gun_ChargeSniper.label>电荷加速枪</Gun_ChargeSniper.label>
+  <Gun_ChargeSniper.description>基于远距离精准武器技术的电荷武器。</Gun_ChargeSniper.description>
+
+  <Bullet_EMPRifle.label>EMP冲击波</Bullet_EMPRifle.label>
+
+  <Gun_EMPRifle.label>EMP步枪</Gun_EMPRifle.label>
+  <Gun_EMPRifle.description>定向电磁脉冲释能器。用于压制高级电子设备。</Gun_EMPRifle.description>
+
+  <Bullet_ChargeCannon.label>电荷冲击波</Bullet_ChargeCannon.label>
+
+  <Gun_ChargeCannon.label>电荷加农炮</Gun_ChargeCannon.label>
+  <Gun_ChargeCannon.description>基于重型突击武器技术的电荷武器。</Gun_ChargeCannon.description>
+
+
+</LanguageData>

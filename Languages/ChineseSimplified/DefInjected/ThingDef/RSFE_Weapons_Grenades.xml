@@ -1,10 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Proj_MADness.label>便携式核武器</Proj_MADness.label>
+  <Proj_MADness.label>便携式核武器</Proj_MADness.label>
 
-	<Weapon_MADness.label>便携式核武器</Weapon_MADness.label>
+  <Weapon_MADness.label>便携式核武器</Weapon_MADness.label>
+  <Weapon_MADness.description>自制的便携式核聚变武器。用于边缘世界规模的互相保证毁灭战略。\n\nMutual Assured Destruction strategy：相互保证毁灭，是一种军事战略思想。是指对立的两方中如果有一方全面使用核武器则两方都会被毁灭。</Weapon_MADness.description>
+  <Weapon_MADness.verbs.0.label>激活便携式核武器</Weapon_MADness.verbs.0.label>
 
-	<Weapon_MADness.description>自制的便携式核聚变武器。用于边缘世界规模的共同毁灭原则。</Weapon_MADness.description>
 
 </LanguageData>
