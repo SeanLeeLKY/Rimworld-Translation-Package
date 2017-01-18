@@ -13,7 +13,7 @@
 -----|------|----
 仿生体和器官工程    | Expanded Prosthetics and Organ Engineering    | http://steamcommunity.com/sharedfiles/filedetails/?id=725956940	|	EPOE|A16
 殖民地防御    | DefendThatColony    | https://ludeon.com/forums/index.php?topic=9492.0	|	DC|A16
-访客招募    | Hospitality    | http://steamcommunity.com/sharedfiles/filedetails/?id=753498552	|	HOS
+访客招募    | Hospitality    | http://steamcommunity.com/sharedfiles/filedetails/?id=753498552	|	HOS|A16
 一键允许    | Allow Tool   | https://ludeon.com/forums/index.php?topic=17218.0	|	AT
 耕种土壤    | Tilled Soil    | http://steamcommunity.com/sharedfiles/filedetails/?id=725747149	|	TS
 蓝图    | Blueprints    | http://steamcommunity.com/sharedfiles/filedetails/?id=708455313	|	BP|A16
