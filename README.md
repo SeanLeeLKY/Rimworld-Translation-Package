@@ -41,11 +41,11 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 工业化 | Industrialisation  | http://steamcommunity.com/sharedfiles/filedetails/?id=741151997|IND
 组合家具  | Modular Tables | http://steamcommunity.com/sharedfiles/filedetails/?id=672718149|MT
 渔业  | FishIndustry |http://steamcommunity.com/sharedfiles/filedetails/?id=758810805|FI
-边缘军工-本体 |Rimsenal |http://steamcommunity.com/sharedfiles/filedetails/?id=725947920|RS
-边缘军工-联邦派系 |Rimsenal - Federation |http://steamcommunity.com/sharedfiles/filedetails/?id=736172213|RSFD
-边缘军工-蛮族派系 |Rimsenal - Feral |http://steamcommunity.com/sharedfiles/filedetails/?id=736207111|RSFE
-边缘军工-安防炮塔 |Rimsenal - Security pack|http://steamcommunity.com/sharedfiles/filedetails/?id=736139206|RSSE
-边缘军工-叙事者 |Rimsenal - Storyteller pack |http://steamcommunity.com/sharedfiles/filedetails/?id=725952322|RSST
+边缘军工-本体 |Rimsenal |http://steamcommunity.com/sharedfiles/filedetails/?id=725947920|RS|A16
+边缘军工-联邦派系 |Rimsenal - Federation |http://steamcommunity.com/sharedfiles/filedetails/?id=736172213|RSFD|A16
+边缘军工-蛮族派系 |Rimsenal - Feral |http://steamcommunity.com/sharedfiles/filedetails/?id=736207111|RSFE|A16
+边缘军工-安防炮塔 |Rimsenal - Security pack|http://steamcommunity.com/sharedfiles/filedetails/?id=736139206|RSSE|A16
+边缘军工-叙事者 |Rimsenal - Storyteller pack |http://steamcommunity.com/sharedfiles/filedetails/?id=725952322|RSST|A16
 智能开关 |PowerSwitch |http://steamcommunity.com/sharedfiles/filedetails/?id=717632155|PS|A16
 现代武器 |High Caliber |http://steamcommunity.com/sharedfiles/filedetails/?id=734561303|HC
 精心准备 |EdB Prepare Carefully |http://steamcommunity.com/sharedfiles/filedetails/?id=735106432|EDB|A16
