@@ -90,40 +90,12 @@
 <MakeDefault>设为默认</MakeDefault>
 <SendAway>送走</SendAway>
 <SendAwayQuestion>你确定要将访客从{0}送走吗 ？</SendAwayQuestion>
-<multiple> [multiple]</multiple>
-<Button_Restore_Text> 恢复</Button_Restore_Text>
-<Button_Restore_Tooltip> 从选择的编号位置恢复MODS列表。</Button_Restore_Tooltip>
-<Button_Backup_Text> 备份</Button_Backup_Text>
-<Button_Backup_Tooltip>将MODS列表备份到选择的空位。</Button_Backup_Tooltip>
-<Button_Revert_Text> 重置</Button_Revert_Text>
-<Button_Select_Text> 选择</Button_Select_Text>
-<Button_Select_Tooltip>导入游戏MODS列表。</Button_Select_Tooltip>
-<Button_Import_Text>载入</Button_Import_Text>
-<Button_Import_Tooltip>从一个存档中载入MODS列表。</Button_Import_Tooltip>
-<Button_State_Select_Tooltip> 选择一个空位来备份或者恢复MODS列表。* 表示这个位置是空置的.</Button_State_Select_Tooltip>
-<Default_State_Name> [未命名]</Default_State_Name>
-<Status_Message_Restore>加载设置</Status_Message_Restore>
-<Status_Message_Backup>存储设置</Status_Message_Backup>
-<Status_Message_Restored>恢复</Status_Message_Restored>
-<Status_Message_Null>未设置</Status_Message_Null>
-<Dialog_Import_Title>载入MODS</Dialog_Import_Title>
-<Dialog_Import_Desc> 选择一个存档来载入MODS列表，本操作将直接载入存档所用MODS列表，覆盖当前已选择的内容。载入后，你可以将新列表备份到一个空位。</Dialog_Import_Desc>
-<Dialog_Import_Message> 载入</Dialog_Import_Message>
-<Settings_Steam_Sync_Title> Steam同步</Settings_Steam_Sync_Title>
-<Settings_Steam_Sync_Desc> 将你的MODS存储状态同步到Steam云。</Settings_Steam_Sync_Desc>
-<Settings_State_Names_Title>空位名</Settings_State_Names_Title>
-<Settings_State_Names_Desc> 你能为每个存储列表命名.* 表示这个位置是空置的.</Settings_State_Names_Desc>
-<Settings_State_Revert_Title>重置MODS列表</Settings_State_Revert_Title>
-<Settings_State_Revert_Desc> 这个选项将在游戏启动时候重置MODS列表。 当发生未知问题或者排序混乱时使用这个选项。\n注意:你必须重启游戏才能使新的MODS列表生效。</Settings_State_Revert_Desc>
-<Settings_Button_Show_Text> 显示</Settings_Button_Show_Text>
-<Settings_Button_Hide_Text> 隐藏</Settings_Button_Hide_Text>
-<Settings_Label_State_Name> 空位</Settings_Label_State_Name>
+<multiple> [多重任务]</multiple>
+
 
 <!-- New for A16 at 2017/01/16 -->
 <MayBuy>允许在这个区域购买物品。</MayBuy>
 <Status_Message_Imported>已载入</Status_Message_Imported>
-<Dialog_EditNames_Title>编辑空位名字</Dialog_EditNames_Title>
-<Dialog_EditNames_ModCount_Label> MOD(S)</Dialog_EditNames_ModCount_Label>
 
 
 
