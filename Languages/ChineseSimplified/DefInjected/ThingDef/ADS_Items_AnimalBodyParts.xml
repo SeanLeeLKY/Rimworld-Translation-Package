@@ -1,60 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<BionicEyeAnimal.label>动物仿生眼</BionicEyeAnimal.label>
+  <!-- Limbs -->
 
-	<BionicEyeAnimal.description>动物仿生眼。</BionicEyeAnimal.description>
+  <ProstheticTailAnimal.label>动物人工尾</ProstheticTailAnimal.label>
+  <ProstheticTailAnimal.description>简单的动物尾巴假体。适合所有动物。</ProstheticTailAnimal.description>
 
-	<SimpleProstheticArmAnimal.label>动物人工臂</SimpleProstheticArmAnimal.label>
+  <SimpleProstheticLegAnimal.label>动物人工腿</SimpleProstheticLegAnimal.label>
+  <SimpleProstheticLegAnimal.description>简单的动物假腿。适合所有动物。</SimpleProstheticLegAnimal.description>
 
-	<SimpleProstheticArmAnimal.description>动物人工臂。</SimpleProstheticArmAnimal.description>
+  <BionicLegAnimal.label>动物仿生腿</BionicLegAnimal.label>
+  <BionicLegAnimal.description>先进的动物腿仿生体。适合所有动物。</BionicLegAnimal.description>
 
-	<BionicArmAnimal.label>动物仿生臂</BionicArmAnimal.label>
+  <SimpleProstheticArmAnimal.label>动物人工臂</SimpleProstheticArmAnimal.label>
+  <SimpleProstheticArmAnimal.description>简单的动物手臂假体。适合猴子和大地懒。</SimpleProstheticArmAnimal.description>
 
-	<BionicArmAnimal.description>动物仿生臂。</BionicArmAnimal.description>
+  <BionicArmAnimal.label>动物仿生臂</BionicArmAnimal.label>
+  <BionicArmAnimal.description>先进的仿生动物手臂。适合猴子和大地懒。</BionicArmAnimal.description>
 
-	<SimpleProstheticLegAnimal.label>动物人工腿</SimpleProstheticLegAnimal.label>
 
-	<SimpleProstheticLegAnimal.description>动物人工腿。</SimpleProstheticLegAnimal.description>
+  <!-- Other Parts -->
 
-	<JawAnimalSimple.label>动物人工颌</JawAnimalSimple.label>
+  <BionicEyeAnimal.label>动物仿生眼</BionicEyeAnimal.label>
+  <BionicEyeAnimal.description>先进的仿生动物眼球。适合所有动物。</BionicEyeAnimal.description>
 
-	<JawAnimalSimple.description>动物人工颌。</JawAnimalSimple.description>
+  <EarAnimalSimple.label>动物人工耳</EarAnimalSimple.label>
+  <EarAnimalSimple.description>简单的动物听觉替代植入物。适合所有动物。</EarAnimalSimple.description>
 
-	<JawAnimalBionic.label>动物仿生颌</JawAnimalBionic.label>
+  <EarAnimalBionic.label>动物仿生耳</EarAnimalBionic.label>
+  <EarAnimalBionic.description>先进的动物听觉替代仿生体。适合所有动物。</EarAnimalBionic.description>
 
-	<JawAnimalBionic.description>动物仿生颌。</JawAnimalBionic.description>
+  <JawAnimalSimple.label>动物人工颌</JawAnimalSimple.label>
+  <JawAnimalSimple.description>可工作的动物下颌假体。适合所有动物。</JawAnimalSimple.description>
 
-	<SpineAnimalBionic.label>动物仿生脊椎</SpineAnimalBionic.label>
+  <JawAnimalBionic.label>动物仿生颌</JawAnimalBionic.label>
+  <JawAnimalBionic.description>可工作的动物下颌仿生体。适合所有动物。</JawAnimalBionic.description>
 
-	<SpineAnimalBionic.description>动物仿生脊椎。</SpineAnimalBionic.description>
+  <SpineAnimalSimple.label>动物人工脊椎</SpineAnimalSimple.label>
+  <SpineAnimalSimple.description>可工作的动物脊椎仿生体。适合所有动物。</SpineAnimalSimple.description>
 
-	<SpineAnimalSimple.label>动物人工脊椎</SpineAnimalSimple.label>
+  <SpineAnimalBionic.label>动物仿生脊椎</SpineAnimalBionic.label>
+  <SpineAnimalBionic.description>先进的仿生动物脊椎。适合所有动物。</SpineAnimalBionic.description>
 
-	<SpineAnimalSimple.description>动物人工脊椎。</SpineAnimalSimple.description>
 
-	<EarAnimalSimple.label>动物人工耳</EarAnimalSimple.label>
+  <!-- Organs -->
 
-	<EarAnimalSimple.description>动物人工耳。</EarAnimalSimple.description>
+  <AnimalBrainStimulator.label>动物脑刺激器</AnimalBrainStimulator.label>
+  <AnimalBrainStimulator.description>动物脑刺激器，可以提高意识，适合所有动物。</AnimalBrainStimulator.description>
 
-	<EarAnimalBionic.label>动物仿生耳</EarAnimalBionic.label>
+  <BionicAnimalHeart.label>动物仿生心脏</BionicAnimalHeart.label>
+  <BionicAnimalHeart.description>先进的动物心脏仿生体。适合所有动物。</BionicAnimalHeart.description>
 
-	<EarAnimalBionic.description>动物仿生耳。</EarAnimalBionic.description>
+  <BionicAnimalLung.label>动物仿生肺</BionicAnimalLung.label>
+  <BionicAnimalLung.description>先进的动物肺仿生体。适合所有动物。</BionicAnimalLung.description>
 
-	<AnimalBrainStimulator.label>动物脑刺激器</AnimalBrainStimulator.label>
+  <BionicAnimalLiver.label>动物仿生肝脏</BionicAnimalLiver.label>
+  <BionicAnimalLiver.description>先进的动物肝脏仿生体。适合所有动物。</BionicAnimalLiver.description>
 
-	<AnimalBrainStimulator.description>动物脑刺激器。</AnimalBrainStimulator.description>
+  <BionicAnimalKidney.label>动物仿生肾脏</BionicAnimalKidney.label>
+  <BionicAnimalKidney.description>先进的动物肾脏仿生体。适合所有动物。</BionicAnimalKidney.description>
 
-	<BionicAnimalHeart.label>动物仿生心脏</BionicAnimalHeart.label>
+  <BionicAnimalStomach.label>动物仿生胃</BionicAnimalStomach.label>
+  <BionicAnimalStomach.description>先进的动物胃仿生体。适合所有动物。</BionicAnimalStomach.description>
 
-	<BionicAnimalHeart.description>动物仿生心脏。</BionicAnimalHeart.description>
-
-	<BionicAnimalLung.label>动物仿生肺</BionicAnimalLung.label>
-
-	<BionicAnimalLung.description>动物仿生肺。</BionicAnimalLung.description>
-
-	<BionicLegAnimal.label>动物仿生腿</BionicLegAnimal.label>
-
-	<BionicLegAnimal.description>动物仿生腿。</BionicLegAnimal.description>
 
 </LanguageData>

@@ -1,32 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<BionicEyeAnimal.label>仿生动物眼</BionicEyeAnimal.label>
+  <!-- Limbs -->
 
-	<JawAnimalBionic.label>仿生动物颌</JawAnimalBionic.label>
+  <ProstheticTail.label>假体尾巴</ProstheticTail.label>
+  <SimpleProstheticLegAnimal.label>动物人工腿</SimpleProstheticLegAnimal.label>
+  <BionicLegAnimal.label>动物仿生腿</BionicLegAnimal.label>
+  <SimpleProstheticArmAnimal.label>动物人工臂</SimpleProstheticArmAnimal.label>
+  <BionicArmAnimal.label>动物仿生臂</BionicArmAnimal.label>
 
-	<JawAnimalSimple.label>简易动物颌</JawAnimalSimple.label>
 
-	<SpineAnimalBionic.label>仿生动物脊柱</SpineAnimalBionic.label>
+  <!-- Other Parts -->
 
-	<SpineAnimalSimple.label>简易动物脊柱</SpineAnimalSimple.label>
+  <BionicEyeAnimal.label>动物仿生眼</BionicEyeAnimal.label>
+  <EarAnimalSimple.label>动物人工耳</EarAnimalSimple.label>
+  <EarAnimalBionic.label>动物仿生耳</EarAnimalBionic.label>
+  <JawAnimalSimple.label>动物人工颌</JawAnimalSimple.label>
+  <JawAnimalBionic.label>动物仿生颌</JawAnimalBionic.label>
+  <SpineAnimalSimple.label>动物人工脊椎</SpineAnimalSimple.label>
+  <SpineAnimalBionic.label>动物仿生脊椎</SpineAnimalBionic.label>
 
-	<EarAnimalSimple.label>简易动物耳</EarAnimalSimple.label>
 
-	<EarAnimalBionic.label>仿生动物耳</EarAnimalBionic.label>
+  <!-- Organs -->
 
-	<AnimalBrainStimulator.label>动物脑刺激器</AnimalBrainStimulator.label>
+  <AnimalBrainStimulator.label>动物脑刺激器</AnimalBrainStimulator.label>
+  <BionicAnimalHeart.label>动物仿生心脏</BionicAnimalHeart.label>
+  <BionicAnimalLung.label>动物仿生肺</BionicAnimalLung.label>
+  <BionicAnimalLiver.label>动物仿生肝</BionicAnimalLiver.label>
+  <BionicAnimalKidney.label>动物仿生肾</BionicAnimalKidney.label>
+  <BionicAnimalStomach.label>动物仿生胃</BionicAnimalStomach.label>
 
-	<BionicAnimalHeart.label>仿生动物心脏</BionicAnimalHeart.label>
-
-	<BionicAnimalLung.label>仿生动物肺</BionicAnimalLung.label>
-
-	<BionicLegAnimal.label>仿生动物腿</BionicLegAnimal.label>
-
-	<SimpleProstheticLegAnimal.label>简易动物腿</SimpleProstheticLegAnimal.label>
-
-	<BionicArmAnimal.label>仿生动物臂</BionicArmAnimal.label>
-
-	<SimpleProstheticArmAnimal.label>简易动物臂</SimpleProstheticArmAnimal.label>
 
 </LanguageData>

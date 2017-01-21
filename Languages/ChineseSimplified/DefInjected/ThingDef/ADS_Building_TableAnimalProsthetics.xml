@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableAnimalProsthetics.label>动物假体工作台</TableAnimalProsthetics.label>
+  <TableAnimalProsthetics.description>用于制作动物假体/仿生体和仿生器官的工作台。</TableAnimalProsthetics.description>
+  <TableAnimalProsthetics_Blueprint.label>动物假体工作台(蓝图)</TableAnimalProsthetics_Blueprint.label>
+  <TableAnimalProsthetics_Frame.label>动物假体工作台(建造中)</TableAnimalProsthetics_Frame.label>
+
+
+</LanguageData>

@@ -1,82 +1,89 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<InstallBionicEyeAnimal.label>植入动物仿生眼</InstallBionicEyeAnimal.label>
+  <!-- Limbs -->
 
-	<InstallBionicEyeAnimal.description>植入动物仿生眼。</InstallBionicEyeAnimal.description>
+  <InstallSimpleProstheticTailAnimal.label>植入动物人工尾</InstallSimpleProstheticTailAnimal.label>
+  <InstallSimpleProstheticTailAnimal.description>植入动物人工尾</InstallSimpleProstheticTailAnimal.description>
+  <InstallSimpleProstheticTailAnimal.jobString>植入动物人工尾</InstallSimpleProstheticTailAnimal.jobString>
 
-	<InstallBionicEyeAnimal.jobString>正在植入动物仿生眼。</InstallBionicEyeAnimal.jobString>
+  <InstallPegLegAnimal.label>植入动物木腿</InstallPegLegAnimal.label>
+  <InstallPegLegAnimal.description>植入动物木腿。</InstallPegLegAnimal.description>
+  <InstallPegLegAnimal.jobString>正在植入动物木腿。</InstallPegLegAnimal.jobString>
 
-	<InstallBionicArmAnimal.label>植入动物仿生臂</InstallBionicArmAnimal.label>
+  <InstallSimpleProstheticLegAnimal.label>植入动物人工腿</InstallSimpleProstheticLegAnimal.label>
+  <InstallSimpleProstheticLegAnimal.description>植入动物人工腿</InstallSimpleProstheticLegAnimal.description>
+  <InstallSimpleProstheticLegAnimal.jobString>植入动物人工腿</InstallSimpleProstheticLegAnimal.jobString>
 
-	<InstallBionicArmAnimal.description>植入动物仿生臂。</InstallBionicArmAnimal.description>
+  <InstallBionicLegAnimal.label>植入动物仿生腿</InstallBionicLegAnimal.label>
+  <InstallBionicLegAnimal.description>植入动物仿生腿</InstallBionicLegAnimal.description>
+  <InstallBionicLegAnimal.jobString>植入动物仿生腿</InstallBionicLegAnimal.jobString>
 
-	<InstallBionicArmAnimal.jobString>正在植入动物仿生臂。</InstallBionicArmAnimal.jobString>
+  <InstallSimpleProstheticArmAnimal.label>植入动物人工臂</InstallSimpleProstheticArmAnimal.label>
+  <InstallSimpleProstheticArmAnimal.description>植入动物人工臂。</InstallSimpleProstheticArmAnimal.description>
+  <InstallSimpleProstheticArmAnimal.jobString>正在植入动物人工臂。</InstallSimpleProstheticArmAnimal.jobString>
 
-	<InstallSimpleProstheticArmAnimal.label>植入动物人工臂</InstallSimpleProstheticArmAnimal.label>
+  <InstallBionicArmAnimal.label>植入动物仿生臂</InstallBionicArmAnimal.label>
+  <InstallBionicArmAnimal.description>植入动物仿生臂。</InstallBionicArmAnimal.description>
+  <InstallBionicArmAnimal.jobString>正在植入动物仿生臂。</InstallBionicArmAnimal.jobString>
 
-	<InstallSimpleProstheticArmAnimal.description>植入动物人工臂。</InstallSimpleProstheticArmAnimal.description>
 
-	<InstallSimpleProstheticArmAnimal.jobString>正在植入动物人工臂。</InstallSimpleProstheticArmAnimal.jobString>
+  <!-- Other Parts -->
 
-	<InstallJawAnimalSimple.label>植入动物人工颌</InstallJawAnimalSimple.label>
+  <InstallBionicEyeAnimal.label>植入动物仿生眼</InstallBionicEyeAnimal.label>
+  <InstallBionicEyeAnimal.description>植入动物仿生眼。</InstallBionicEyeAnimal.description>
+  <InstallBionicEyeAnimal.jobString>正在植入动物仿生眼。</InstallBionicEyeAnimal.jobString>
 
-	<InstallJawAnimalSimple.description>植入动物人工颌。</InstallJawAnimalSimple.description>
+  <InstallEarAnimalSimple.label>植入动物人工耳</InstallEarAnimalSimple.label>
+  <InstallEarAnimalSimple.description>植入动物人工耳。</InstallEarAnimalSimple.description>
+  <InstallEarAnimalSimple.jobString>正在植入动物人工耳。</InstallEarAnimalSimple.jobString>
 
-	<InstallJawAnimalSimple.jobString>正在植入动物人工颌。</InstallJawAnimalSimple.jobString>
+  <InstallEarAnimalBionic.label>植入动物仿生耳</InstallEarAnimalBionic.label>
+  <InstallEarAnimalBionic.description>植入动物仿生耳。</InstallEarAnimalBionic.description>
+  <InstallEarAnimalBionic.jobString>正在植入动物仿生耳。</InstallEarAnimalBionic.jobString>
 
-	<InstallJawAnimalBionic.label>植入动物仿生颌</InstallJawAnimalBionic.label>
+  <InstallJawAnimalSimple.label>植入动物人工颌</InstallJawAnimalSimple.label>
+  <InstallJawAnimalSimple.description>植入动物人工颌。</InstallJawAnimalSimple.description>
+  <InstallJawAnimalSimple.jobString>正在植入动物人工颌。</InstallJawAnimalSimple.jobString>
 
-	<InstallJawAnimalBionic.description>植入动物仿生颌。</InstallJawAnimalBionic.description>
+  <InstallJawAnimalBionic.label>植入动物仿生颌</InstallJawAnimalBionic.label>
+  <InstallJawAnimalBionic.description>植入动物仿生颌。</InstallJawAnimalBionic.description>
+  <InstallJawAnimalBionic.jobString>正在植入动物仿生颌。</InstallJawAnimalBionic.jobString>
 
-	<InstallJawAnimalBionic.jobString>正在植入动物仿生颌。</InstallJawAnimalBionic.jobString>
+  <InstallSpineAnimalSimple.label>植入动物人工脊椎</InstallSpineAnimalSimple.label>
+  <InstallSpineAnimalSimple.description>植入动物人工脊椎。</InstallSpineAnimalSimple.description>
+  <InstallSpineAnimalSimple.jobString>正在植入动物人工脊椎。</InstallSpineAnimalSimple.jobString>
 
-	<InstallSpineAnimalSimple.label>植入动物人工脊椎</InstallSpineAnimalSimple.label>
+  <InstallSpineAnimalBionic.label>植入动物仿生脊椎</InstallSpineAnimalBionic.label>
+  <InstallSpineAnimalBionic.description>植入动物仿生脊椎。</InstallSpineAnimalBionic.description>
+  <InstallSpineAnimalBionic.jobString>正在植入动物仿生脊椎。</InstallSpineAnimalBionic.jobString>
 
-	<InstallSpineAnimalSimple.description>植入动物人工脊椎。</InstallSpineAnimalSimple.description>
 
-	<InstallSpineAnimalSimple.jobString>正在植入动物人工脊椎。</InstallSpineAnimalSimple.jobString>
+  <!-- Organs -->
 
-	<InstallSpineAnimalBionic.label>植入动物仿生脊椎</InstallSpineAnimalBionic.label>
+  <InstallAnimalBrainStimulator.label>植入动物脑刺激器</InstallAnimalBrainStimulator.label>
+  <InstallAnimalBrainStimulator.description>植入动物脑刺激器。</InstallAnimalBrainStimulator.description>
+  <InstallAnimalBrainStimulator.jobString>正在植入动物脑刺激器。</InstallAnimalBrainStimulator.jobString>
 
-	<InstallSpineAnimalBionic.description>植入动物仿生脊椎。</InstallSpineAnimalBionic.description>
+  <InstallBionicAnimalHeart.label>植入动物仿生心脏</InstallBionicAnimalHeart.label>
+  <InstallBionicAnimalHeart.description>植入动物仿生心脏。</InstallBionicAnimalHeart.description>
+  <InstallBionicAnimalHeart.jobString>正在植入动物仿生心脏。</InstallBionicAnimalHeart.jobString>
 
-	<InstallSpineAnimalBionic.jobString>正在植入动物仿生脊椎。</InstallSpineAnimalBionic.jobString>
+  <InstallBionicAnimalLung.label>植入动物仿生肺</InstallBionicAnimalLung.label>
+  <InstallBionicAnimalLung.description>植入动物仿生肺。</InstallBionicAnimalLung.description>
+  <InstallBionicAnimalLung.jobString>正在植入动物仿生肺。</InstallBionicAnimalLung.jobString>
 
-	<InstallEarAnimalSimple.label>植入动物人工耳</InstallEarAnimalSimple.label>
+  <InstallBionicAnimalLiver.label>植入动物仿生肝</InstallBionicAnimalLiver.label>
+  <InstallBionicAnimalLiver.description>植入动物仿生肝</InstallBionicAnimalLiver.description>
+  <InstallBionicAnimalLiver.jobString>植入动物仿生肝</InstallBionicAnimalLiver.jobString>
 
-	<InstallEarAnimalSimple.description>植入动物人工耳。</InstallEarAnimalSimple.description>
+  <InstallBionicAnimalKidney.label>植入动物仿生肾</InstallBionicAnimalKidney.label>
+  <InstallBionicAnimalKidney.description>植入动物仿生肾</InstallBionicAnimalKidney.description>
+  <InstallBionicAnimalKidney.jobString>植入动物仿生肾</InstallBionicAnimalKidney.jobString>
 
-	<InstallEarAnimalSimple.jobString>正在植入动物人工耳。</InstallEarAnimalSimple.jobString>
+  <InstallBionicAnimalStomach.label>植入动物仿生胃</InstallBionicAnimalStomach.label>
+  <InstallBionicAnimalStomach.description>植入动物仿生胃</InstallBionicAnimalStomach.description>
+  <InstallBionicAnimalStomach.jobString>植入动物仿生胃</InstallBionicAnimalStomach.jobString>
 
-	<InstallEarAnimalBionic.label>植入动物仿生耳</InstallEarAnimalBionic.label>
-
-	<InstallEarAnimalBionic.description>植入动物仿生耳。</InstallEarAnimalBionic.description>
-
-	<InstallEarAnimalBionic.jobString>正在植入动物仿生耳。</InstallEarAnimalBionic.jobString>
-
-	<InstallAnimalBrainStimulator.label>植入动物脑刺激器</InstallAnimalBrainStimulator.label>
-
-	<InstallAnimalBrainStimulator.description>植入动物脑刺激器。</InstallAnimalBrainStimulator.description>
-
-	<InstallAnimalBrainStimulator.jobString>正在植入动物脑刺激器。</InstallAnimalBrainStimulator.jobString>
-
-	<InstallBionicAnimalHeart.label>植入动物仿生心脏</InstallBionicAnimalHeart.label>
-
-	<InstallBionicAnimalHeart.description>植入动物仿生心脏。</InstallBionicAnimalHeart.description>
-
-	<InstallBionicAnimalHeart.jobString>正在植入动物仿生心脏。</InstallBionicAnimalHeart.jobString>
-
-	<InstallBionicAnimalLung.label>植入动物仿生肺</InstallBionicAnimalLung.label>
-
-	<InstallBionicAnimalLung.description>植入动物仿生肺。</InstallBionicAnimalLung.description>
-
-	<InstallBionicAnimalLung.jobString>正在植入动物仿生肺。</InstallBionicAnimalLung.jobString>
-
-	<InstallPegLegAnimal.label>植入动物木腿</InstallPegLegAnimal.label>
-
-	<InstallPegLegAnimal.description>植入动物木腿。</InstallPegLegAnimal.description>
-
-	<InstallPegLegAnimal.jobString>正在植入动物木腿。</InstallPegLegAnimal.jobString>
 
 </LanguageData>
