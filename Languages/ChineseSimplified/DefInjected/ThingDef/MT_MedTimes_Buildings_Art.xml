@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Random Number God Shrine -->
+
+  <MedTimes_Shrine_RandomNumberGod.label>神龛</MedTimes_Shrine_RandomNumberGod.label>
+  <MedTimes_Shrine_RandomNumberGod.description>赞美神，神指引着我们前进的方向，带给我们光明。</MedTimes_Shrine_RandomNumberGod.description>
+  <MedTimes_Shrine_RandomNumberGod_Blueprint_Install.label>神龛(制作中)</MedTimes_Shrine_RandomNumberGod_Blueprint_Install.label>
+
+
+  <!-- Shrine to the Creator -->
+
+  <MedTimes_Shrine_Creator.label>造物主的神龛</MedTimes_Shrine_Creator.label>
+  <MedTimes_Shrine_Creator.description>有人说我们的宇宙是由一个强大的神明创造的，命运的线程是制订好的，我们这个世界的法则由他设定。我们把这个神明称为造物主泰南。 我们已经开始理解，世界的走向都由其决定。因此，只有给他祈祷，他将赐福于我们。</MedTimes_Shrine_Creator.description>
+  <MedTimes_Shrine_Creator_Blueprint_Install.label>造物主的神龛(制作中)</MedTimes_Shrine_Creator_Blueprint_Install.label>
+
+
+  <!-- God King's Throne -->
+
+  <MedTimes_GodKingThrone.label>神授王座</MedTimes_GodKingThrone.label>
+  <MedTimes_GodKingThrone.description>[舒适x1.8]（美容+300）这种伟大的建筑只能放在宏伟的殿堂里。 一个宽敞舒适的座位，用以放松我们伟大的主人及殿堂中的其他人。</MedTimes_GodKingThrone.description>
+
+
+</LanguageData>

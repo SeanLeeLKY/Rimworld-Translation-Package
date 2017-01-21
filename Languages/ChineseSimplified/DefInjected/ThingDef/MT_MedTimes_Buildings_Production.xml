@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 大篝火-->
+
+  <MedTimes_CorpseBonfire.label>大篝火</MedTimes_CorpseBonfire.label>
+  <MedTimes_CorpseBonfire.description>[使用时燃烧角度：15°，无紫外线，雨水损伤，空载时破坏]（使用时;热输出：20）（使用木材燃料消耗量：250） （清洁-50）最初被描述为“焚尸炉”，焚尸炉是一种大型控制火焰用于处置尸体和骨头的火炉。最终，大篝火成为一个术语，不仅焚烧尸体，而且用于焚烧任何垃圾或废物产品。有时，瘟疫侵入城镇，杀死很多的殖民者，或者其他部落的攻击给你带来很多的尸体而你不知该如何是好。这时候，焚尸是你最好的解决方法。 然而，当心，因为篝火会给环境的美化和卫生方面带来巨大的负面影响。</MedTimes_CorpseBonfire.description>
+  <MedTimes_CorpseBonfire_Blueprint.label>大篝火(蓝图)</MedTimes_CorpseBonfire_Blueprint.label>
+  <MedTimes_CorpseBonfire_Frame.label>大篝火(建造中)</MedTimes_CorpseBonfire_Frame.label>
+
+
+  <!-- 园艺箱-->
+
+  <MedTimes_GardeningBox.label>园艺箱</MedTimes_GardeningBox.label>
+  <MedTimes_GardeningBox.description>[植物生长位置]（清洁-3）用于生长食物。园艺盒是门古老的技术，仍然神奇的在被使用。把土壤肥料放在盒子里，让你能够在你想要的条件下种植植物。它能帮助你更容易的保证食物来源。</MedTimes_GardeningBox.description>
+  <MedTimes_GardeningBox_Blueprint.label>园艺箱(蓝图)</MedTimes_GardeningBox_Blueprint.label>
+  <MedTimes_GardeningBox_Blueprint_Install.label>园艺箱(蓝图)</MedTimes_GardeningBox_Blueprint_Install.label>
+  <MedTimes_GardeningBox_Frame.label>园艺箱(建造中)</MedTimes_GardeningBox_Frame.label>
+
+
+  <!-- (Medieval) 石壁炉-->
+
+  <MedTimes_StoneHearth.label>石壁炉</MedTimes_StoneHearth.label>
+  <MedTimes_StoneHearth.description>[厨房用餐，用于加热，娱乐活动]（发光半径：8，无紫外线及雨水损害）（热输出：10）（木材燃料消耗：2.5）（美容+25）， 有效的加热和照明的解决方案，石壁炉可以提供恒定的热量和光照，可以烹饪食物（没有多余的成本），作为一个娱乐活动，甚至可以用作一个聚集点。 石壁炉是任何中世纪家庭的核心，无论是主人还是农民，壁炉是在家里做饭和保暖的设备。只要木材能稳定的得到供应，这个炉子可以让你渡过最可怕的冬季。
+</MedTimes_StoneHearth.description>
+  <MedTimes_StoneHearth_Blueprint.label>石壁炉(蓝图)</MedTimes_StoneHearth_Blueprint.label>
+  <MedTimes_StoneHearth_Blueprint_Install.label>石壁炉(蓝图)</MedTimes_StoneHearth_Blueprint_Install.label>
+  <MedTimes_StoneHearth_Frame.label>石壁炉(建造中)</MedTimes_StoneHearth_Frame.label>
+
+
+  <!-- (Medieval) Smokehouse -->
+
+  <MedTimes_Smokehouse.label>烟熏室</MedTimes_Smokehouse.label>
+  <MedTimes_Smokehouse.description>[烹饪可长时间保存食物]（正在使用;木材燃料消耗：25）（清洁-5）烟房是一个封闭的区域，通过它大量的烟雾。干燥储存在烟房内的食物。</MedTimes_Smokehouse.description>
+  <MedTimes_Smokehouse_Blueprint.label>烟薰室(蓝图)</MedTimes_Smokehouse_Blueprint.label>
+  <MedTimes_Smokehouse_Blueprint_Install.label>烟薰室(蓝图)</MedTimes_Smokehouse_Blueprint_Install.label>
+  <MedTimes_Smokehouse_Frame.label>烟薰室(建造中)</MedTimes_Smokehouse_Frame.label>
+
+
+  <!-- (Medieval) 大型料理台-->
+
+  <MedTimes_FoodPrepStation.label>大型料理台</MedTimes_FoodPrepStation.label>
+  <MedTimes_FoodPrepStation.description>[批量烹饪食物]（正在使用;木材燃料消耗：25）（清洁-5）大型料理台配备各种大型炊具。 这些炊具可用于各种可长期储存食物的大量制作，如炖菜和奶酪。</MedTimes_FoodPrepStation.description>
+  <MedTimes_FoodPrepStation_Blueprint.label>大型料理台(蓝图)</MedTimes_FoodPrepStation_Blueprint.label>
+  <MedTimes_FoodPrepStation_Blueprint_Install.label>大型料理台(蓝图)</MedTimes_FoodPrepStation_Blueprint_Install.label>
+  <MedTimes_FoodPrepStation_Frame.label>大型料理台(建造中)</MedTimes_FoodPrepStation_Frame.label>
+
+
+  <!-- (Medieval) 工艺台-->
+
+  <MedTimes_CraftingStation.label>制作台</MedTimes_CraftingStation.label>
+  <MedTimes_CraftingStation.description>[创造工艺品]（清洁-3）一个工艺台，配备各种工具，生产各种必需品和贸易物品。</MedTimes_CraftingStation.description>
+  <MedTimes_CraftingStation_Blueprint.label>工艺台(蓝图)</MedTimes_CraftingStation_Blueprint.label>
+  <MedTimes_CraftingStation_Blueprint_Install.label>工艺台(蓝图)</MedTimes_CraftingStation_Blueprint_Install.label>
+  <MedTimes_CraftingStation_Frame.label>工艺台(建造中)</MedTimes_CraftingStation_Frame.label>
+
+
+  <!-- (Medieval) 缝纫台-->
+
+  <MedTimes_TailoringStation.label>裁缝台</MedTimes_TailoringStation.label>
+  <MedTimes_TailoringStation.description>[创造中世纪服装，拆卸服装]（清洁-3）一个裁缝台配备各种工俱生产和拆卸各种中世纪服装。</MedTimes_TailoringStation.description>
+  <MedTimes_TailoringStation_Blueprint.label>缝纫台(蓝图)</MedTimes_TailoringStation_Blueprint.label>
+  <MedTimes_TailoringStation_Blueprint_Install.label>缝纫台(蓝图)</MedTimes_TailoringStation_Blueprint_Install.label>
+  <MedTimes_TailoringStation_Frame.label>缝纫台(建造中)</MedTimes_TailoringStation_Frame.label>
+
+
+  <!-- (Medieval) Tier 1 锻造台-->
+
+  <MedTimes_BlacksmithForge.label>锻造台</MedTimes_BlacksmithForge.label>
+  <MedTimes_BlacksmithForge.description>（第一层）[制作武器/护甲/工具]（正在使用;木材燃料消耗：50）（清洁-5）锻造台，锻造中世纪时代的武器，盔甲和工具。</MedTimes_BlacksmithForge.description>
+  <MedTimes_BlacksmithForge_Blueprint.label>锻造台(蓝图)</MedTimes_BlacksmithForge_Blueprint.label>
+  <MedTimes_BlacksmithForge_Blueprint_Install.label>锻造台(蓝图)</MedTimes_BlacksmithForge_Blueprint_Install.label>
+  <MedTimes_BlacksmithForge_Frame.label>锻造台(建造中)</MedTimes_BlacksmithForge_Frame.label>
+
+
+  <!-- (Medieval) Tier 2 锻造台-->
+
+  <MedTimes_BlacksmithForgeTierTwo.label>改进的锻造台</MedTimes_BlacksmithForgeTierTwo.label>
+  <MedTimes_BlacksmithForgeTierTwo.description>（第二层）[制作武器/护甲/工具]（正在使用;木材燃料消耗：50）（清洁-5）改进的锻造台，锻造中世纪时代的武器，盔甲和工具。</MedTimes_BlacksmithForgeTierTwo.description>
+  <MedTimes_BlacksmithForgeTierTwo_Blueprint.label>改进的锻造台(蓝图)</MedTimes_BlacksmithForgeTierTwo_Blueprint.label>
+  <MedTimes_BlacksmithForgeTierTwo_Blueprint_Install.label>改进的锻造台(蓝图)</MedTimes_BlacksmithForgeTierTwo_Blueprint_Install.label>
+  <MedTimes_BlacksmithForgeTierTwo_Frame.label>改进的锻造台(建造中)</MedTimes_BlacksmithForgeTierTwo_Frame.label>
+
+
+  <!-- (Medieval) Tier 3 锻造台-->
+
+  <MedTimes_BlacksmithForgeTierThree.label>高级铁匠锻造台</MedTimes_BlacksmithForgeTierThree.label>
+  <MedTimes_BlacksmithForgeTierThree.description>（第三层）[制作武器/护甲/工具]（正在使用;木材燃料消耗：50）（清洁-5）高级铁匠锻造台，锻造中世纪时代的武器，装甲和工具。</MedTimes_BlacksmithForgeTierThree.description>
+  <MedTimes_BlacksmithForgeTierThree_Blueprint.label>高级铁匠锻造台(蓝图)</MedTimes_BlacksmithForgeTierThree_Blueprint.label>
+  <MedTimes_BlacksmithForgeTierThree_Blueprint_Install.label>高级铁匠锻造台(蓝图)</MedTimes_BlacksmithForgeTierThree_Blueprint_Install.label>
+  <MedTimes_BlacksmithForgeTierThree_Frame.label>高级铁匠锻造台(建造中)</MedTimes_BlacksmithForgeTierThree_Frame.label>
+
+
+  <!-- (Medieval) 冶炼厂-->
+
+  <MedTimes_FueledSmelter.label>冶炼厂</MedTimes_FueledSmelter.label>
+  <MedTimes_FueledSmelter.description>[冶炼武器/盔甲/炉渣]（使用;木材燃料消耗：100）（清洁-5）从炉渣块和其他混合金属物品中提取可用的金属。消耗大量的木材。</MedTimes_FueledSmelter.description>
+  <MedTimes_FueledSmelter_Blueprint.label>冶炼厂(蓝图)</MedTimes_FueledSmelter_Blueprint.label>
+  <MedTimes_FueledSmelter_Blueprint_Install.label>冶炼厂(蓝图)</MedTimes_FueledSmelter_Blueprint_Install.label>
+  <MedTimes_FueledSmelter_Frame.label>冶炼厂(建造中)</MedTimes_FueledSmelter_Frame.label>
+
+
+  <!-- (Medieval) 采石场-->
+
+  <MedTimes_StoneQuarry.label>采石场</MedTimes_StoneQuarry.label>
+  <MedTimes_StoneQuarry.description>[制作石块]（清洁-3）一个切石工作设备用于生产各种类型的石块的各种工具。</MedTimes_StoneQuarry.description>
+  <MedTimes_StoneQuarry_Blueprint.label>采石场(蓝图)</MedTimes_StoneQuarry_Blueprint.label>
+  <MedTimes_StoneQuarry_Frame.label>采石场(建造中)</MedTimes_StoneQuarry_Frame.label>
+
+
+  <!-- 制冰箱-->
+
+  <MedTimes_IceCreationStation.label>制冰箱</MedTimes_IceCreationStation.label>
+  <MedTimes_IceCreationStation.description>[制造冰块]（清洁-3）最初由古希腊人开发，由罗马人改进，并在中世纪和现代使用。使用吸热原理让水蒸发产生冰。无论在任何环境下，即使在沙漠中“制冰箱”都可以让你制造少量的冰，。</MedTimes_IceCreationStation.description>
+  <MedTimes_IceCreationStation_Blueprint.label>制冰箱(蓝图)</MedTimes_IceCreationStation_Blueprint.label>
+  <MedTimes_IceCreationStation_Blueprint_Install.label>制冰箱(蓝图)</MedTimes_IceCreationStation_Blueprint_Install.label>
+  <MedTimes_IceCreationStation_Frame.label>制冰箱(建造中)</MedTimes_IceCreationStation_Frame.label>
+
+
+  <!-- 冰块收集站-->
+
+  <MedTimes_IceGatheringStation.label>冰块收集站</MedTimes_IceGatheringStation.label>
+  <MedTimes_IceGatheringStation.description>[制建冰块]（清洁-3）（会在冰点以上的温度自毁）冰块是一个非常有价值的资源，对吧？所以，如果你在南极中央，只要收集一些冰块就能卖给一些商人。并不是说他们不想自己制造冰块，把雪变成冰可是个复杂的过程。更何况它在你的土地上，因此是你的财产。</MedTimes_IceGatheringStation.description>
+  <MedTimes_IceGatheringStation_Blueprint.label>冰块收集站(蓝图)</MedTimes_IceGatheringStation_Blueprint.label>
+  <MedTimes_IceGatheringStation_Frame.label>冰块收集站(建造中)</MedTimes_IceGatheringStation_Frame.label>
+
+
+</LanguageData>

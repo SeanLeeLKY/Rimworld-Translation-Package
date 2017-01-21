@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Frag grenade -->
+
+  <MedTimes_Grenade.label>中世纪燃烧弹</MedTimes_Grenade.label>
+
+  <MedTimes_GrenadesFrag.label>中世纪燃烧弹</MedTimes_GrenadesFrag.label>
+  <MedTimes_GrenadesFrag.description>非常老式的充满了易燃液体和木沥青的燃烧弹。包含一个引燃芯，投中目标会爆炸。</MedTimes_GrenadesFrag.description>
+  <MedTimes_GrenadesFrag.verbs.0.label>扔中世纪燃烧弹</MedTimes_GrenadesFrag.verbs.0.label>
+
+
+</LanguageData>

@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Vest Plates(Shell): Norm Apparel -->
+
+  <MedTimes_WoodenPlates.label>木质盔甲</MedTimes_WoodenPlates.label>
+  <MedTimes_WoodenPlates.description>（Tier：0）由木制板材绑在胸部，背部带肩膀上的背心。最便宜带最基本的护具。</MedTimes_WoodenPlates.description>
+
+
+  <!-- Wooden Full Plates(Shell): Norm Apparel -->
+
+  <MedTimes_WoodenFullPlates.label>木制板甲</MedTimes_WoodenFullPlates.label>
+  <MedTimes_WoodenFullPlates.description>（等级：0）由木板固定到胸部，背部，肩部带腿部的护甲。逼得没法了才会穿这个。</MedTimes_WoodenFullPlates.description>
+
+
+  <!-- (Medieval) Plate & Chains: Norm Apparel -->
+
+  <MedTimes_PlateJack.label>钢板甲</MedTimes_PlateJack.label>
+  <MedTimes_PlateJack.description>（层级：1）由绑在胸部带背部的钢板制成的背心。也添加了肩板带起重链以提供额外的保护。这是最基础的板式盔甲。</MedTimes_PlateJack.description>
+
+
+  <!-- Medieval Plate & Chains + Winter Cloak: Cold Apparel -->
+
+  <MedTimes_PlateJack_Cloaked.label>钢板甲带冬季斗篷</MedTimes_PlateJack_Cloaked.label>
+  <MedTimes_PlateJack_Cloaked.description>（层级：1）由绑在胸部带背部的钢板制成的背心。也添加了肩板带起重链以提供额外的保护。这是最基础的板式盔甲。这件衣服设计有特殊的附件，可以使用一个长长的皮革斗篷。因此可以有效的遮挡恶劣的风和刺骨的寒冷。</MedTimes_PlateJack_Cloaked.description>
+
+
+  <!-- (Medieval) Plate & Chains, Tabard Blue: Norm Apparel -->
+
+  <MedTimes_PlateJack_TabardBlue.label>钢板战袍</MedTimes_PlateJack_TabardBlue.label>
+  <MedTimes_PlateJack_TabardBlue.description>（层级：1）由绑在胸部带背部的钢板制成的背心。也添加了肩板带起重链以提供额外的保护。这是最基础的板式盔甲。</MedTimes_PlateJack_TabardBlue.description>
+
+
+  <!-- (Medieval) Plate & Chains, Tabard Green: Norm Apparel -->
+
+  <MedTimes_PlateJack_TabardGreen.label>绿色钢板甲</MedTimes_PlateJack_TabardGreen.label>
+  <MedTimes_PlateJack_TabardGreen.description>（层级：1）由绑在胸部带背部的钢板制成的背心。也添加了肩板带起重链以提供额外的保护。这是最基础的板式盔甲。</MedTimes_PlateJack_TabardGreen.description>
+
+
+  <!-- (Medieval) Plate & Chains, Tabard Orange: Norm Apparel -->
+
+  <MedTimes_PlateJack_TabardOrange.label>橙色钢板甲</MedTimes_PlateJack_TabardOrange.label>
+  <MedTimes_PlateJack_TabardOrange.description>（层级：1）由绑在胸部带背部的钢板制成的背心。也添加了肩板带起重链以提供额外的保护。这是最基础的板式盔甲。</MedTimes_PlateJack_TabardOrange.description>
+
+
+  <!-- Medieval Scaled Hauberk: Norm Apparel -->
+
+  <MedTimes_Hauberk.label>胸甲</MedTimes_Hauberk.label>
+  <MedTimes_Hauberk.description>（层：2）一件长大衣，一直到膝盖。它覆盖着钢板，添加了更多的金属用以增加防护性。</MedTimes_Hauberk.description>
+
+
+  <!-- Medieval Scaled Hauberk + Winter Cloak: Cold Apparel -->
+
+  <MedTimes_Hauberk_Cloaked.label>胸甲带冬季斗篷</MedTimes_Hauberk_Cloaked.label>
+  <MedTimes_Hauberk_Cloaked.description>（层：2）一件长大衣，一直到膝盖。它覆盖着钢板，添加了更多的金属用以增加防护性。恶劣的风和这件衣服设计有特殊的附件，所以一个长长的斗篷由皮革带皮革可以使用它。 因为这是相当有效的遮挡恶劣的风和骨冷的寒冷。</MedTimes_Hauberk_Cloaked.description>
+
+
+  <!-- (Medieval) Scaled Hauberk, Tabard Blue: Hot Apparel -->
+
+  <MedTimes_Hauberk_TabardBlue.label>蓝色胸甲战袍</MedTimes_Hauberk_TabardBlue.label>
+  <MedTimes_Hauberk_TabardBlue.description>（层：2）一件长大衣，一直到膝盖。它覆盖着钢板，添加了更多的金属用以增加防护性。挡风并附带一个蓝色的标识，以保持穿戴者更凉爽，同时方便于战场上的识别。</MedTimes_Hauberk_TabardBlue.description>
+
+
+  <!-- (Medieval) Scaled Hauberk, Tabarded Green: Hot Apparel -->
+
+  <MedTimes_Hauberk_TabardGreen.label>绿色胸甲战袍</MedTimes_Hauberk_TabardGreen.label>
+  <MedTimes_Hauberk_TabardGreen.description>（层：2）一件长大衣，一直到膝盖。它覆盖着钢板，添加了更多的金属用以增加防护性。挡风并附带一个绿色的标识，以保持穿戴者更凉爽，同时方便于战场上的识别。</MedTimes_Hauberk_TabardGreen.description>
+
+
+  <!-- (Medieval) Scaled Hauberk, Tabarded Orange: Hot Apparel -->
+
+  <MedTimes_Hauberk_TabardOrange.label>橙色橙色胸甲战袍</MedTimes_Hauberk_TabardOrange.label>
+  <MedTimes_Hauberk_TabardOrange.description>（层：2）一件长大衣，一直到膝盖。它覆盖着钢板，添加了更多的金属用以增加防护性。挡风并附带一个橙色的标识，以保持穿戴者更凉爽，同时方便于战场上的识别。</MedTimes_Hauberk_TabardOrange.description>
+
+
+  <!-- Medieval Brigandine: Norm Apparel -->
+
+  <MedTimes_Brigandine.label>锁子甲</MedTimes_Brigandine.label>
+  <MedTimes_Brigandine.description>（层：2）一件到膝盖的长大衣，内覆钢板，更多的金属以提供更好的保护。</MedTimes_Brigandine.description>
+
+
+  <!-- Medieval Brigandine + Winter Cloak: Cold Apparel -->
+
+  <MedTimes_Brigandine_Cloaked.label>锁子甲带冬季斗篷</MedTimes_Brigandine_Cloaked.label>
+  <MedTimes_Brigandine_Cloaked.description>（层：2）一件到膝盖的长大衣，内覆钢板，更多的金属以提供更好的保护。 这件衣服设计有特殊的附件，一条长长的由皮革制成的斗篷。因此可以有效的遮挡恶劣的风和刺骨的寒冷。</MedTimes_Brigandine_Cloaked.description>
+
+
+  <!-- (Medieval) Brigandine, Tabard Blue: Hot Apparel -->
+
+  <MedTimes_Brigandine_TabardBlue.label>蓝色锁子甲战袍</MedTimes_Brigandine_TabardBlue.label>
+  <MedTimes_Brigandine_TabardBlue.description>（层：2）一件到膝盖的长大衣，内覆钢板，更多的金属以提供更好的保护。它还包含一个蓝色的标识，以保持穿戴者更凉爽，同时方便于战场上的识别。</MedTimes_Brigandine_TabardBlue.description>
+
+
+  <!-- (Medieval) Brigandine, Tabarded Green: Hot Apparel -->
+
+  <MedTimes_Brigandine_TabardGreen.label>绿色锁子甲战袍</MedTimes_Brigandine_TabardGreen.label>
+  <MedTimes_Brigandine_TabardGreen.description>（层：2）一件到膝盖的长大衣，内覆钢板，更多的金属以提供更好的保护。它还包含一个绿色的标识，以保持穿戴者更凉爽，同时方便于战场上的识别。</MedTimes_Brigandine_TabardGreen.description>
+
+
+  <!-- (Medieval) Brigandine, Tabarded Orange: Hot Apparel -->
+
+  <MedTimes_Brigandine_TabardOrange.label>橙色锁子甲战袍</MedTimes_Brigandine_TabardOrange.label>
+  <MedTimes_Brigandine_TabardOrange.description>（层：2）一件到膝盖的长大衣，内覆钢板，更多的金属以提供更好的保护。它还包含一个橙色的标识，以保持穿戴者更凉爽，同时方便于战场上的识别。</MedTimes_Brigandine_TabardOrange.description>
+
+
+  <!-- Medieval Full Plate Armour: Norm Apparel -->
+
+  <MedTimes_FullPlated.label>重盔甲</MedTimes_FullPlated.label>
+  <MedTimes_FullPlated.description>（等级：3）这种重甲由大量金属制成。它提供更好的防护性，但是以减慢穿著者为代价。</MedTimes_FullPlated.description>
+
+
+  <!-- (Medieval) Full Plate Armour + Winter Cloak: Cold Apparel -->
+
+  <MedTimes_FullPlated_Cloaked.label>重盔甲带冬季斗篷</MedTimes_FullPlated_Cloaked.label>
+  <MedTimes_FullPlated_Cloaked.description>（等级：3）这种重甲由大量金属制成。 它提供了很好的防护性，免受各种攻击，但会减慢穿戴者的移动速度。这件衣服设计有特殊的附件，一条皮革制成的斗篷，用于挡风遮雨。</MedTimes_FullPlated_Cloaked.description>
+
+
+  <!-- (Medieval) Full Plate, Blue Tabard: Hot Apparel -->
+
+  <MedTimes_FullPlated_TabardBlue.label>蓝色重盔甲战袍</MedTimes_FullPlated_TabardBlue.label>
+  <MedTimes_FullPlated_TabardBlue.description>（等级：3）这种重甲由大量金属制成。它还包含一个蓝色标识，在保证穿戴者更凉爽的同时方便于战场上的识别。它提供了更好的防护性，但以减慢穿戴者速度为代价。</MedTimes_FullPlated_TabardBlue.description>
+
+
+  <!-- (Medieval) Full Plate, Green Tabard: Hot Apparel -->
+
+  <MedTimes_FullPlated_TabardGreen.label>绿色重盔甲战袍</MedTimes_FullPlated_TabardGreen.label>
+  <MedTimes_FullPlated_TabardGreen.description>（等级：3）这种重甲由大量金属制成。它还包含一个绿色的标识，以保持穿戴者更凉爽，同时方便于战场上的识别。它提供了更好的防护性，但以减慢穿戴者速度为代价。</MedTimes_FullPlated_TabardGreen.description>
+
+
+  <!-- (Medieval) Full Plate, Orange Tabard: Hot Apparel -->
+
+  <MedTimes_FullPlated_TabardOrange.label>橙色重盔甲战袍</MedTimes_FullPlated_TabardOrange.label>
+  <MedTimes_FullPlated_TabardOrange.description>（等级：3）这种重甲由大量金属制成。它还包含一个橙色的标识，以保持穿戴者更凉爽，同时方便于战场上的识别。它提供了更好的防护性，但以减慢穿戴者速度为代价。</MedTimes_FullPlated_TabardOrange.description>
+
+
+  <!-- (Medieval) Full Plate, Blue Caped: Hot Apparel -->
+
+  <MedTimes_FullPlated_CapeBlue.label>重盔甲带斗篷</MedTimes_FullPlated_CapeBlue.label>
+  <MedTimes_FullPlated_CapeBlue.description>（等级：3）这种重甲由大量金属制成。它还包含一个斗篷，以保持穿戴者更凉爽，同时方便于战场上的识别。它提供了更好的防护性，但以减慢穿戴者速度为代价。</MedTimes_FullPlated_CapeBlue.description>
+
+
+  <!-- (Medieval) Full Plate, Green Caped: Hot Apparel -->
+
+  <MedTimes_FullPlated_CapedGreen.label>绿色重盔甲带斗篷</MedTimes_FullPlated_CapedGreen.label>
+  <MedTimes_FullPlated_CapedGreen.description>（等级：3）这种重甲由大量金属制成。它还包含一个绿色斗篷，以保持穿戴者更凉爽，帮助确定他在战场上。它提供了更好的防护性，但以减慢穿戴者速度为代价。</MedTimes_FullPlated_CapedGreen.description>
+
+
+  <!-- (Medieval) Full Plate, Orange Caped: Hot Apparel -->
+
+  <MedTimes_FullPlated_CapedOrange.label>橙色重盔甲带斗篷</MedTimes_FullPlated_CapedOrange.label>
+  <MedTimes_FullPlated_CapedOrange.description>（等级：3）这种重甲由大量金属制成。它还包含一个橙色斗篷，以保持穿戴者更凉爽，帮助确定他在战场上。它提供了更好的防护性，但以减慢穿戴者速度为代价。</MedTimes_FullPlated_CapedOrange.description>
+
+
+  <!-- (Medieval) Royal Plate, Blue Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedBlue.label>皇家重盔甲</MedTimes_RoyalPlated_CapedBlue.label>
+  <MedTimes_RoyalPlated_CapedBlue.description>（等级：3）这种重甲由大量金属制成。它还包含一个斗篷，以保持穿戴者更凉爽，同时方便于战场上的识别。它提供了更好的防护性，但以减慢穿戴者速度为代价。</MedTimes_RoyalPlated_CapedBlue.description>
+
+
+  <!-- (Medieval) Royal Plate, Green Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedGreen.label>绿色皇家重盔甲</MedTimes_RoyalPlated_CapedGreen.label>
+  <MedTimes_RoyalPlated_CapedGreen.description>（等级：3）这种重甲由大量金属制成。它还包含一个斗篷，以保持穿戴者更凉爽，同时方便于战场上的识别。它提供了更好的防护性，但以减慢穿戴者速度为代价。</MedTimes_RoyalPlated_CapedGreen.description>
+
+
+  <!-- (Medieval) Royal Plate, Orange Caped: Hot Apparel -->
+
+  <MedTimes_RoyalPlated_CapedOrange.label>橙色皇家重盔甲</MedTimes_RoyalPlated_CapedOrange.label>
+  <MedTimes_RoyalPlated_CapedOrange.description>（等级：3）这种重甲由大量金属制成。它还包含一个斗篷，以保持穿戴者更凉爽，同时方便于战场上的识别。它提供了更好的防护性，但以减慢穿戴者速度为代价。</MedTimes_RoyalPlated_CapedOrange.description>
+
+
+  <!-- (Medieval) God King Armour, Blue Caped: Hot Apparel -->
+
+  <MedTimes_GodKing_CapedBlue.label>神授之铠</MedTimes_GodKing_CapedBlue.label>
+  <MedTimes_GodKing_CapedBlue.description>（等级：3）这个重型铠甲由许多金属板制成，精心雕刻并涂上纯金。谁穿上它，谁是大老板。</MedTimes_GodKing_CapedBlue.description>
+
+
+  <!-- (Medieval) God King Armour, Green Caped: Hot Apparel -->
+
+  <MedTimes_GodKing_CapedGreen.label>领主之铠</MedTimes_GodKing_CapedGreen.label>
+  <MedTimes_GodKing_CapedGreen.description>（等级：3）这个重型铠甲由许多金属板制成，精心雕刻，雕刻并涂上纯金。谁穿上它，谁是大老板。</MedTimes_GodKing_CapedGreen.description>
+
+
+  <!-- (Medieval) Warlord Armour, Cloaked -->
+
+  <MedTimes_Warlord_Cloaked.label>军阀之铠</MedTimes_Warlord_Cloaked.label>
+  <MedTimes_Warlord_Cloaked.description>（等级：3）这个重型铠甲由许多金属板制成，精心雕刻，雕刻并涂上纯金。谁穿上它，谁是大老板。</MedTimes_Warlord_Cloaked.description>
+
+
+</LanguageData>

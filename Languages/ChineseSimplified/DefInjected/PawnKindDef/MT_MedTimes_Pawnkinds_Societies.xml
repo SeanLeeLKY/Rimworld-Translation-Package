@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Society) Trader -->
+
+  <MedTimes_Society_Trader.label>游商</MedTimes_Society_Trader.label>
+
+
+  <!-- (Society) Peasant -->
+
+  <MedTimes_Society_Peasant.label>农民</MedTimes_Society_Peasant.label>
+
+
+  <!-- (Society) Conscript -->
+
+  <MedTimes_Society_Conscript.label>征兵</MedTimes_Society_Conscript.label>
+  <MedTimes_Society_Conscript_Cheap.label>征兵</MedTimes_Society_Conscript_Cheap.label>
+
+
+  <!-- (Society) Archer -->
+
+  <MedTimes_Society_Archer.label>弓箭手</MedTimes_Society_Archer.label>
+  <MedTimes_Society_Archer_Cheap.label>弓箭手</MedTimes_Society_Archer_Cheap.label>
+
+
+  <!-- (Society) Leading Sapper -->
+
+  <MedTimes_Society_LeadSapper.label>领队</MedTimes_Society_LeadSapper.label>
+
+
+  <!-- (Society) Alternate Sapper -->
+
+  <MedTimes_Society_Sapper.label>工兵</MedTimes_Society_Sapper.label>
+
+
+  <!-- (Society) Squire -->
+
+  <MedTimes_Society_Squire.label>扈从</MedTimes_Society_Squire.label>
+  <MedTimes_Society_Squire_Cheap.label>扈从</MedTimes_Society_Squire_Cheap.label>
+
+
+  <!-- (Society) Man at Arms -->
+
+  <MedTimes_Society_ManAtArms.label>重装步兵</MedTimes_Society_ManAtArms.label>
+  <MedTimes_Society_ManAtArms_Cheap.label>重装步兵</MedTimes_Society_ManAtArms_Cheap.label>
+
+
+  <!-- (Society) Elite Bowman -->
+
+  <MedTimes_Society_EliteBowman.label>神射手</MedTimes_Society_EliteBowman.label>
+  <MedTimes_Society_EliteBowman_Cheap.label>神射手</MedTimes_Society_EliteBowman_Cheap.label>
+
+
+  <!-- (Society) Knight -->
+
+  <MedTimes_Society_Knight.label>骑士</MedTimes_Society_Knight.label>
+  <MedTimes_Society_Knight_Cheap.label>骑士</MedTimes_Society_Knight_Cheap.label>
+
+
+  <!-- (Society) Royal Guard -->
+
+  <MedTimes_Society_RoyalGuard.label>守卫</MedTimes_Society_RoyalGuard.label>
+  <MedTimes_Society_RoyalGuard_Cheap.label>守卫</MedTimes_Society_RoyalGuard_Cheap.label>
+
+
+  <!-- (Society) God King -->
+
+  <MedTimes_Society_GodKing.label>领主</MedTimes_Society_GodKing.label>
+
+
+</LanguageData>

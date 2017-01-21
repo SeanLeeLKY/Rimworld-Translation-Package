@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recurved Bow & Ammo -->
+
+  <Medieval_Arrow_Recurve.label>反曲弓</Medieval_Arrow_Recurve.label>
+
+  <MedTimes_Ranged_Recurve.label>反曲弓</MedTimes_Ranged_Recurve.label>
+  <MedTimes_Ranged_Recurve.description>一把紧凑但强大的反曲弓。</MedTimes_Ranged_Recurve.description>
+
+
+  <!-- Longbow & Ammo -->
+
+  <Medieval_Arrow_Longbow.label>长弓</Medieval_Arrow_Longbow.label>
+
+  <MedTimes_Ranged_Longbow.label>长弓</MedTimes_Ranged_Longbow.label>
+  <MedTimes_Ranged_Longbow.description>英国的长弓手，你知道的。</MedTimes_Ranged_Longbow.description>
+
+
+  <!-- Crossbow & Ammo -->
+
+  <Medieval_Bolt_Crossbow.label>弩矢</Medieval_Bolt_Crossbow.label>
+
+  <MedTimes_Ranged_Crossbow.label>十字弩</MedTimes_Ranged_Crossbow.label>
+  <MedTimes_Ranged_Crossbow.description>弩比弓箭更容易使用，威力也更强，装填较慢。</MedTimes_Ranged_Crossbow.description>
+
+
+  <!-- Arbalest & Ammo -->
+
+  <Medieval_Bolt_Arbalest.label>劲弩矢</Medieval_Bolt_Arbalest.label>
+
+  <MedTimes_Ranged_Arbalest.label>劲弩</MedTimes_Ranged_Arbalest.label>
+  <MedTimes_Ranged_Arbalest.description>一把巨大的弩由先进的技术和回火钢制成。</MedTimes_Ranged_Arbalest.description>
+
+
+</LanguageData>

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 冰-->
+
+  <MedTimes_Wall_Ice.label>冰墙</MedTimes_Wall_Ice.label>
+  <MedTimes_Wall_Ice.description>（将在冰点以上的温度恶化）冰块制墙壁。中世纪时代的技术，需要大量的工作和少量的资源。 它主要由压实的冰组成。</MedTimes_Wall_Ice.description>
+  <MedTimes_Wall_Ice_Blueprint.label>冰墙(蓝图)</MedTimes_Wall_Ice_Blueprint.label>
+  <MedTimes_Wall_Ice_Frame.label>冰墙(建造中)</MedTimes_Wall_Ice_Frame.label>
+
+
+  <!-- 木门-->
+
+  <MedTimes_Gate_Wooden.label>木门</MedTimes_Gate_Wooden.label>
+  <MedTimes_Gate_Wooden.description>一个简单的木栅栏木门。必须手动打开和关闭，这会减慢人们的速度。</MedTimes_Gate_Wooden.description>
+  <MedTimes_Gate_Wooden_Blueprint.label>木门(蓝图)</MedTimes_Gate_Wooden_Blueprint.label>
+  <MedTimes_Gate_Wooden_Frame.label>木门(建造中)</MedTimes_Gate_Wooden_Frame.label>
+
+
+  <!-- 木栅栏-->
+
+  <MedTimes_Fencing_Wooden.label>木栅栏</MedTimes_Fencing_Wooden.label>
+  <MedTimes_Fencing_Wooden.description>简单的围栏设计，以保持动物在你的设定的区域活动，对侵略者无用。</MedTimes_Fencing_Wooden.description>
+  <MedTimes_Fencing_Wooden_Blueprint.label>木栅栏(蓝图)</MedTimes_Fencing_Wooden_Blueprint.label>
+  <MedTimes_Fencing_Wooden_Frame.label>木栅栏(建造中)</MedTimes_Fencing_Wooden_Frame.label>
+
+
+  <!-- Parapet -->
+
+  <MedTimes_Wall_Parapet.label>矮墙</MedTimes_Wall_Parapet.label>
+  <MedTimes_Wall_Parapet.description>用于防御射击的防护墙。这种防御墙略高于腰身。。类似沙袋的作用，可以用各种材料制成。</MedTimes_Wall_Parapet.description>
+  <MedTimes_Wall_Parapet_Blueprint.label>矮墙(蓝图)</MedTimes_Wall_Parapet_Blueprint.label>
+  <MedTimes_Wall_Parapet_Frame.label>矮墙(建造中)</MedTimes_Wall_Parapet_Frame.label>
+
+
+  <!-- 冰Parapet -->
+
+  <MedTimes_Wall_IceParapet.label>冰矮墙</MedTimes_Wall_IceParapet.label>
+  <MedTimes_Wall_IceParapet.description>（在高于冰点的温度下会恶化）由冰块制成的防护墙，用于防御射击。这种防御墙略高于腰身。。类似沙袋的作用。</MedTimes_Wall_IceParapet.description>
+  <MedTimes_Wall_IceParapet_Blueprint.label>冰矮墙(蓝图)</MedTimes_Wall_IceParapet_Blueprint.label>
+  <MedTimes_Wall_IceParapet_Frame.label>冰矮墙(建造中)</MedTimes_Wall_IceParapet_Frame.label>
+
+
+  <!-- 炮眼 Wall -->
+
+  <MedTimes_Wall_Embrasure.label>炮眼</MedTimes_Wall_Embrasure.label>
+  <MedTimes_Wall_Embrasure.description>具有狭窄垂直狭缝的实心墙，射手可以射击。（不是你的传统发射方式，会限制射击角度）</MedTimes_Wall_Embrasure.description>
+  <MedTimes_Wall_Embrasure_Blueprint.label>炮眼(蓝图)</MedTimes_Wall_Embrasure_Blueprint.label>
+  <MedTimes_Wall_Embrasure_Frame.label>炮眼(建造中)</MedTimes_Wall_Embrasure_Frame.label>
+
+
+  <!-- 冰炮眼 Wall -->
+
+  <MedTimes_Wall_IceEmbrasure.label>冰炮眼</MedTimes_Wall_IceEmbrasure.label>
+  <MedTimes_Wall_IceEmbrasure.description>（在高于冰点的温度下会恶化）一面坚固的墙壁，用冰块建造，有一个狭窄的垂直裂缝，射手可以射击。（不是你的传统发射方式，会限制射击角度）</MedTimes_Wall_IceEmbrasure.description>
+  <MedTimes_Wall_IceEmbrasure_Blueprint.label>冰炮眼(蓝图)</MedTimes_Wall_IceEmbrasure_Blueprint.label>
+  <MedTimes_Wall_IceEmbrasure_Frame.label>冰炮眼(建造中)</MedTimes_Wall_IceEmbrasure_Frame.label>
+
+
+</LanguageData>

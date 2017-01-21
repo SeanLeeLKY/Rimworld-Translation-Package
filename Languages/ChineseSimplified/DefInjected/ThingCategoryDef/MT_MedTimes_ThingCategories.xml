@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Items -->
+
+  <TradeGoods.label>贸易货物</TradeGoods.label>
+
+
+  <!-- Apparel -->
+
+  <Bodygear.label>身体护甲</Bodygear.label>
+  <BodyArmour.label>身体护甲</BodyArmour.label>
+  <Handgear.label>手护甲</Handgear.label>
+  <Footgear.label>腿护甲</Footgear.label>
+
+
+</LanguageData>

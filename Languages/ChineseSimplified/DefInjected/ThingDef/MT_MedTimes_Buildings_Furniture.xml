@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 路灯 -->
+
+  <MedTimes_StreetLamp.label>路灯</MedTimes_StreetLamp.label>
+  <MedTimes_StreetLamp.description>（发光半径：12，无紫外线，没有雨水损伤）（热输出：2）（木材燃料消耗：1）（清洁-3）木杆悬挂的燃烧着小型火焰的金属笼。一个简单的中世纪风格照明解决方案。 可以自动加燃料用木材。</MedTimes_StreetLamp.description>
+  <MedTimes_StreetLamp_Blueprint.label>路灯(蓝图)</MedTimes_StreetLamp_Blueprint.label>
+  <MedTimes_StreetLamp_Blueprint_Install.label>路灯(蓝图)</MedTimes_StreetLamp_Blueprint_Install.label>
+  <MedTimes_StreetLamp_Frame.label>路灯(建造中)</MedTimes_StreetLamp_Frame.label>
+
+
+  <!-- 火盆 -->
+
+  <MedTimes_Brazier.label>火盆</MedTimes_Brazier.label>
+  <MedTimes_Brazier.description>（发光半径：8，无紫外线，没有雨水损伤）（热输出：2）（木材燃料消耗：1）（美容+5，清洁-3）燃烧着火焰的小金属盘。 一个简单的中世纪风格照明解决方案。</MedTimes_Brazier.description>
+  <MedTimes_Brazier_Blueprint.label>火盆(蓝图)</MedTimes_Brazier_Blueprint.label>
+  <MedTimes_Brazier_Blueprint_Install.label>火盆(蓝图)</MedTimes_Brazier_Blueprint_Install.label>
+  <MedTimes_Brazier_Frame.label>火盆(建造中)</MedTimes_Brazier_Frame.label>
+
+
+</LanguageData>

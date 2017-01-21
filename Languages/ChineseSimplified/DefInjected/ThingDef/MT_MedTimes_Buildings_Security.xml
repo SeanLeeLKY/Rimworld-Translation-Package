@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval Bolt, In-Motion -->
+
+  <MedTimes_Bolt_Ballista.label>弩箭</MedTimes_Bolt_Ballista.label>
+
+
+  <!-- Wood Pitch, In Motion -->
+
+  <MedTimes_Round_Quicklime.label>生石灰沥青</MedTimes_Round_Quicklime.label>
+
+
+  <!-- Explosive Pot, In Motion -->
+
+  <MedTimes_Round_ExplosivePot.label>爆炸桶</MedTimes_Round_ExplosivePot.label>
+
+
+  <!-- Medieval Ballista, 炮台 -->
+
+  <MedTimes_Turrent_BallistaTop.label>劲弩</MedTimes_Turrent_BallistaTop.label>
+  <MedTimes_Turrent_BallistaTop.description>一个大的弩状武器。</MedTimes_Turrent_BallistaTop.description>
+
+
+  <!-- Medieval Murder Hole, Artillery -->
+
+  <MedTimes_Artillery_MurderHoleTop.label>谋杀孔</MedTimes_Artillery_MurderHoleTop.label>
+  <MedTimes_Artillery_MurderHoleTop.description>谋杀孔。通过墙壁孔喷射火油。射的准威力强，但射程极短。</MedTimes_Artillery_MurderHoleTop.description>
+
+
+  <!-- Medieval Catapult, Artillery -->
+
+  <MedTimes_Artillery_CatapultTop.label>中世纪投石器</MedTimes_Artillery_CatapultTop.label>
+  <MedTimes_Artillery_CatapultTop.description>爆炸桶发射器。在墙后投射爆炸桶。 射的准，射程短。</MedTimes_Artillery_CatapultTop.description>
+
+
+  <!-- 木路障-->
+
+  <MedTimes_Trap_WoodenBarricade.label>木路障</MedTimes_Trap_WoodenBarricade.label>
+  <MedTimes_Trap_WoodenBarricade.description>[陷阱：Dmg〜10]（美容-5）削尖的木棍制成的路障，以使敌人不能快速的通过。并在翻越过程中伤害自己。（切记，一旦路障被攻击者翻越，与该路障相邻的所有路障不再被视为障碍物，为了保持有效的阻止力，障碍物防线应当与攻击者之间的空间进行交错使其爬下来后，不得不再次翻越。）</MedTimes_Trap_WoodenBarricade.description>
+  <MedTimes_Trap_WoodenBarricade_Blueprint.label>木路障(蓝图)</MedTimes_Trap_WoodenBarricade_Blueprint.label>
+  <MedTimes_Trap_WoodenBarricade_Blueprint_Install.label>木路障(蓝图)</MedTimes_Trap_WoodenBarricade_Blueprint_Install.label>
+  <MedTimes_Trap_WoodenBarricade_Frame.label>木路障(建造中)</MedTimes_Trap_WoodenBarricade_Frame.label>
+
+
+  <!-- 弩车-->
+
+  <MedTimes_Turrent_Ballista.label>弩车</MedTimes_Turrent_Ballista.label>
+  <MedTimes_Turrent_Ballista.description>[炮塔：Dmg〜35，必须有人控制。]（Beauty -5）最初由罗马人开发的大型攻城武器。 发射巨大的弩箭。</MedTimes_Turrent_Ballista.description>
+  <MedTimes_Turrent_Ballista_Blueprint.label>弩车(蓝图)</MedTimes_Turrent_Ballista_Blueprint.label>
+  <MedTimes_Turrent_Ballista_Blueprint_Install.label>弩车(蓝图)</MedTimes_Turrent_Ballista_Blueprint_Install.label>
+  <MedTimes_Turrent_Ballista_Frame.label>弩车(建造中)</MedTimes_Turrent_Ballista_Frame.label>
+
+
+  <!-- 谋杀孔-->
+
+  <MedTimes_Artillery_MurderHole.label>谋杀孔</MedTimes_Artillery_MurderHole.label>
+  <MedTimes_Artillery_MurderHole.description>[炮台：Dmg〜15，火炸弹，必须有人控制。]（弹药：生石灰沥青）（美容-15，清洁-10）喷出沸腾的油和燃烧的火焰。 这样的设备的适当的术语是堞口，但是，谋杀孔听起来更有趣！ 必须有人控制。</MedTimes_Artillery_MurderHole.description>
+  <MedTimes_Artillery_MurderHole_Blueprint.label>谋杀孔(蓝图)</MedTimes_Artillery_MurderHole_Blueprint.label>
+  <MedTimes_Artillery_MurderHole_Frame.label>谋杀孔(建造中)</MedTimes_Artillery_MurderHole_Frame.label>
+
+
+  <!-- 投石器-->
+
+  <MedTimes__Artillery_Catapult.label>投石器</MedTimes__Artillery_Catapult.label>
+  <MedTimes__Artillery_Catapult.description>[炮台：Dmg〜25，燃烧炸弹，必须有人控制。]（弹药：爆炸桶）（美-5）弹射爆炸/燃烧弹的投石器。</MedTimes__Artillery_Catapult.description>
+  <MedTimes__Artillery_Catapult_Blueprint.label>投石器(蓝图)</MedTimes__Artillery_Catapult_Blueprint.label>
+  <MedTimes__Artillery_Catapult_Blueprint_Install.label>投石器(蓝图)</MedTimes__Artillery_Catapult_Blueprint_Install.label>
+  <MedTimes__Artillery_Catapult_Frame.label>投石器(建造中)</MedTimes__Artillery_Catapult_Frame.label>
+
+
+</LanguageData>

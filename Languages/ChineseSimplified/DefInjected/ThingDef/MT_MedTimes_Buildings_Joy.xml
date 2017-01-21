@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedTimes_PersonalComputer.label>个人电脑</MedTimes_PersonalComputer.label>
+  <MedTimes_PersonalComputer.description>一台个人电脑，满足您所有的娱乐需求。它甚至预安装了几个最流行的游戏。这是一个放松的好工具。</MedTimes_PersonalComputer.description>
+  <MedTimes_PersonalComputer_Blueprint.label>个人电脑(蓝图)</MedTimes_PersonalComputer_Blueprint.label>
+  <MedTimes_PersonalComputer_Blueprint_Install.label>个人电脑(蓝图)</MedTimes_PersonalComputer_Blueprint_Install.label>
+  <MedTimes_PersonalComputer_Frame.label>个人电脑(建造中)</MedTimes_PersonalComputer_Frame.label>
+
+
+</LanguageData>

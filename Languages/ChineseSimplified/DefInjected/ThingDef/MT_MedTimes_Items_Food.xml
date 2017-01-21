@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Jerked Meats -->
+
+  <MedTimes_MealJerkedMeats.label>风干肉</MedTimes_MealJerkedMeats.label>
+  <MedTimes_MealJerkedMeats.description>已被风干的肉，以使其保存更长的时间。</MedTimes_MealJerkedMeats.description>
+
+
+  <!-- Cheese -->
+
+  <MedTimes_MealCheese.label>奶酪</MedTimes_MealCheese.label>
+  <MedTimes_MealCheese.description>奶酪是由牛奶制成的，是牛奶蛋白质凝结的副产物。</MedTimes_MealCheese.description>
+
+
+  <!-- Dried Agave Fruit -->
+
+  <MedTimes_MealDriedAgave.label>干龙舌兰</MedTimes_MealDriedAgave.label>
+  <MedTimes_MealDriedAgave.description>龙舌兰水果，已经烟熏干制，以使其保存更长的时间。</MedTimes_MealDriedAgave.description>
+
+
+  <!-- Dried Berries -->
+
+  <MedTimes_MealDriedBerries.label>干浆果</MedTimes_MealDriedBerries.label>
+  <MedTimes_MealDriedBerries.description>各种浆果已经烟熏干制，以使其保存更长的时间。</MedTimes_MealDriedBerries.description>
+
+
+  <!-- Weak Stew -->
+
+  <MedTimes_MealWeakStew.label>简单的清汤</MedTimes_MealWeakStew.label>
+  <MedTimes_MealWeakStew.description>一份由几种食材简单烹饪的清汤。</MedTimes_MealWeakStew.description>
+
+
+  <!-- Hearty Stew -->
+
+  <MedTimes_MealHeartyStew.label>丰富的肉汤</MedTimes_MealHeartyStew.label>
+  <MedTimes_MealHeartyStew.description>一份由多种食材通过复杂烹饪而成的肉汤。</MedTimes_MealHeartyStew.description>
+
+
+</LanguageData>

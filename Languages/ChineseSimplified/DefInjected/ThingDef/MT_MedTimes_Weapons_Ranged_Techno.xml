@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge m10 -->
+
+  <Medieval_Bullet_CMG.label>电荷步枪</Medieval_Bullet_CMG.label>
+
+  <MedTimes_Gun_ChargeMG.label>电荷-10MG</MedTimes_Gun_ChargeMG.label>
+  <MedTimes_Gun_ChargeMG.description>一种高科技变种的带电弹药能量/射弹步枪，在第三次银河战争中被广泛使用。</MedTimes_Gun_ChargeMG.description>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Stoking Fire -->
+
+  <MedTimes_AttendFire.reportString>参与生火作业。</MedTimes_AttendFire.reportString>
+
+
+  <!-- R.N.G. Praying -->
+
+  <MedTimes_Prayer_RNG.reportString>向神明祈祷。</MedTimes_Prayer_RNG.reportString>
+
+
+  <!-- The Creator Praying -->
+
+  <MedTimes_Prayer_Creator.reportString>向造物主泰南祈祷。</MedTimes_Prayer_Creator.reportString>
+
+
+  <!-- Personal Computer interaction -->
+
+  <MedTimes_PCJoyFPS.reportString>正在使用电脑，玩第一人称射击游戏。</MedTimes_PCJoyFPS.reportString>
+  <MedTimes_PCJoyStrategy.reportString>正在使用电脑，玩一个策略游戏。</MedTimes_PCJoyStrategy.reportString>
+  <MedTimes_PCJoySurfing.reportString>正在使用电脑，在旧卫星网络上浏览数据。</MedTimes_PCJoySurfing.reportString>
+  <MedTimes_PCJoyLewd.reportString>正在使用电脑, 做违法的勾当...</MedTimes_PCJoyLewd.reportString>
+  <MedTimes_PCJoySocial.reportString>正在使用电脑，记录个人日志。</MedTimes_PCJoySocial.reportString>
+  <MedTimes_PCJoyMovies.reportString>正在使用电脑，从数据存储中看老电影。</MedTimes_PCJoyMovies.reportString>
+  <MedTimes_PCJoyModing.reportString>正在使用电脑，修改电脑游戏文件。</MedTimes_PCJoyModing.reportString>
+
+
+</LanguageData>

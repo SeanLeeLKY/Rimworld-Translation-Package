@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Wooden Plated Gloves -->
+
+  <MedTimes_Bracers_Wooden.label>木制手套</MedTimes_Bracers_Wooden.label>
+  <MedTimes_Bracers_Wooden.description>（Tier：0）[近战攻击：+ 2.5％]由皮革制成，含有各种木板的无指手套和护腕。为近身战斗而设计。</MedTimes_Bracers_Wooden.description>
+
+
+  <!-- Steel Plated Gloves -->
+
+  <MedTimes_Gloves_Plated.label>镀钢手套</MedTimes_Gloves_Plated.label>
+  <MedTimes_Gloves_Plated.description>(Tier: 1)[近战攻击: +5%] 由皮革制成，含有各种金属的无指手套和护腕。为近身战斗而设计。</MedTimes_Gloves_Plated.description>
+
+
+  <!-- Scaled Gloves -->
+
+  <MedTimes_Gloves_Scaled.label>鳞甲手套</MedTimes_Gloves_Scaled.label>
+  <MedTimes_Gloves_Scaled.description>（Tier：2）[近战攻击：+7.5％] [工作速度：-2.5％]由皮革制成并用小钢板覆盖的手套，通常描述为“Scaled”。为近身战斗而设计。</MedTimes_Gloves_Scaled.description>
+
+
+  <!-- Archers Bracers -->
+
+  <MedTimes_Bracer_Archer.label>射手护腕</MedTimes_Bracer_Archer.label>
+  <MedTimes_Bracer_Archer.description>（Tier：2）[远程攻击：+7.5％] [工作速度：-2.5％]由皮革制成并用钢板覆盖的护腕和手套。护腕定位成保护前臂免受线绳间隙的影响，并且具有指尖保护功能，帮助使用者将射击口集中在他的目标上。为远程射击而设计。</MedTimes_Bracer_Archer.description>
+
+
+  <!-- Steel Gauntlets -->
+
+  <MedTimes_Gauntlets_EncasedSteel.label>镀钢手套</MedTimes_Gauntlets_EncasedSteel.label>
+  <MedTimes_Gauntlets_EncasedSteel.description>（Tier：3）[近战攻击：+10％] [工作速度：-5％]一双钢制手套，手被完全包裹在钢铁手套中，笨重的钢铁意味着很难完成日常任务。 然而，意味着额外的手部保护，当试图击打对手时，有时会失去手指。这使得这副手套成为近战的必要装备。</MedTimes_Gauntlets_EncasedSteel.description>
+
+
+  <!-- Royal Plated Gauntlets -->
+
+  <MedTimes_Gauntlets_RoyalPlated.label>皇家镀金手套</MedTimes_Gauntlets_RoyalPlated.label>
+  <MedTimes_Gauntlets_RoyalPlated.description>（Tier：3）[近战攻击：+10％] [工作速度：-5％]一双钢制手套，手被完全包裹在钢铁手套中，笨重的钢铁意味着很难完成日常任务。 然而，意味着额外的手部保护，当试图击打对手时，有时会失去手指。这使得这副手套成为近战的必要装备。</MedTimes_Gauntlets_RoyalPlated.description>
+
+
+  <!-- Combat Gloves -->
+
+  <MedTimes_Gloves_Combat.label>战斗手套</MedTimes_Gloves_Combat.label>
+  <MedTimes_Gloves_Combat.description>[近战攻击：+10％] [远程攻击：+5％] [工作速度：+ 5％]大量生产的由超织物和塑钢制成的战斗手套。纳米弹性材料和轮廓超泡确保舒适性以适合任何手型，而纳米触觉接收器确保良好的防滑抓地力。拥有它的高级士兵常说，戴上这副手套感觉像手被充气娃娃包裹着。这种手套近战远程，工作三不误，打架劫舍出门必备。</MedTimes_Gloves_Combat.description>
+
+
+  <!-- Techno Gauntlets -->
+
+  <MedTimes_Gauntlets_Techno.label>高科技战斗护手</MedTimes_Gauntlets_Techno.label>
+  <MedTimes_Gauntlets_Techno.description>这些高端战斗手套几乎完全是由超织物和塑钢电镀制成的，这种高级战斗手套是为星际殖民定制的。纳米弹性材料和轮廓超泡确保舒适性以适合任何手型，而纳米触觉接收器确保良好的防滑抓地力。拥有它的高级士兵常说，戴上这副手套感觉像手被充气娃娃包裹着。这种手套近战远程，工作三不误，星际间打架劫舍杀人放火必备。</MedTimes_Gauntlets_Techno.description>
+
+
+  <!-- Techno Socks -->
+
+  <MedTimes_Socks_Techno.label>高科技袜子</MedTimes_Socks_Techno.label>
+  <MedTimes_Socks_Techno.description>高技术袜子由星际工业设计。这些袜子由著名运动员在各个行星上使用。它们主要由超编织制而成，它们具有加热和冷却功效。袜子还配有超泡沫和超凝胶填充，以确保长期使用时舒适的舒适。因此，这些袜子也是军事人员在各种闪光世界上的最爱。</MedTimes_Socks_Techno.description>
+
+
+  <!-- Wooden Boots -->
+
+  <MedTimes_Boots_Wooden.label>木靴子</MedTimes_Boots_Wooden.label>
+  <MedTimes_Boots_Wooden.description>（Tier：0）[移动速度：+ 8％]一双带有木制板的皮靴。</MedTimes_Boots_Wooden.description>
+
+
+  <!-- Steel Plated Boots -->
+
+  <MedTimes_Boots_Plated.label>镀钢靴</MedTimes_Boots_Plated.label>
+  <MedTimes_Boots_Plated.description>（等级：1）[移动速度：+ 8％]一双皮靴，带有钢板。</MedTimes_Boots_Plated.description>
+
+
+  <!-- Scaled Boots -->
+
+  <MedTimes_Boots_Scaled.label>鳞甲靴</MedTimes_Boots_Scaled.label>
+  <MedTimes_Boots_Scaled.description>（等级：2）[运动速度：+ 6％]一双皮靴覆盖在鳞片形状的小钢板上。</MedTimes_Boots_Scaled.description>
+
+
+  <!-- Steel Encased Boots -->
+
+  <MedTimes_Boots_EncasedSteel.label>包钢靴</MedTimes_Boots_EncasedSteel.label>
+  <MedTimes_Boots_EncasedSteel.description>（Tier：3）[移动速度：+ 4％]一双被钢板完全覆盖的皮靴。防御能力出色，与其他形式的鞋类相比，移动性更好。</MedTimes_Boots_EncasedSteel.description>
+
+
+  <!-- Royal Plated Boots -->
+
+  <MedTimes_Boots_RoyalPlated.label>皇家镀金靴</MedTimes_Boots_RoyalPlated.label>
+  <MedTimes_Boots_RoyalPlated.description>（Tier：3）[移动速度：+ 4％]一双皮靴套在小型和大型钢板上。防御能力出色，与其他形式的鞋类相比，移动性更好。</MedTimes_Boots_RoyalPlated.description>
+
+
+  <!-- Combat Boots -->
+
+  <MedTimes_Boots_Combat.label>战斗靴</MedTimes_Boots_Combat.label>
+  <MedTimes_Boots_Combat.description>[移动速度：+ 10％]大规模生产由超编织和塑钢制成的战靴。在绑带，超凝胶鞋垫和轮廓超泡沫调整下适合任何脚穿戴。</MedTimes_Boots_Combat.description>
+
+
+  <!-- Techno Boots -->
+
+  <MedTimes_Boots_Techno.label>高科技靴</MedTimes_Boots_Techno.label>
+  <MedTimes_Boots_Techno.description>[移动速度：+ 25％]星际工业公司定制而成的现代工程学奇迹，反正就是很高端的啦。</MedTimes_Boots_Techno.description>
+
+
+</LanguageData>

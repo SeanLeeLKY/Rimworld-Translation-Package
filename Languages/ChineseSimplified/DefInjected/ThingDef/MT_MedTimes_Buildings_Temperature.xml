@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Medieval) 美观的Icebox -->
+
+  <MedTimes_Icebox.label>冰盒</MedTimes_Icebox.label>
+  <MedTimes_Icebox.description>（温度输出：-10）（冰块消耗：15）（清洁-10，美容-5）传统的无动力冷却器，通过将冰放在金属盒中工作。 如果你有足够的冰盒，你可以把房间的温度降至冰点。只需几天，就会用完冰块。</MedTimes_Icebox.description>
+  <MedTimes_Icebox_Blueprint.label>冰盒(蓝图)</MedTimes_Icebox_Blueprint.label>
+  <MedTimes_Icebox_Blueprint_Install.label>冰盒(蓝图)</MedTimes_Icebox_Blueprint_Install.label>
+  <MedTimes_Icebox_Frame.label>冰盒(建造中)</MedTimes_Icebox_Frame.label>
+
+  <MedTimes_IceboxFancy.label>美观的冰盒</MedTimes_IceboxFancy.label>
+  <MedTimes_IceboxFancy.description>（热输出：-10）（冰块消耗：15）（美容10）传统的无动力冷却器，通过在金属盒中放入冰而工作。这个盒子制作的很特别，它看起来很漂亮。如果你有足够的冰盒，你可以把房间的温度降至冰点。只需几天，就会用完冰块。</MedTimes_IceboxFancy.description>
+  <MedTimes_IceboxFancy_Blueprint.label>美观的冰盒(蓝图)</MedTimes_IceboxFancy_Blueprint.label>
+  <MedTimes_IceboxFancy_Blueprint_Install.label>美观的冰盒(蓝图)</MedTimes_IceboxFancy_Blueprint_Install.label>
+  <MedTimes_IceboxFancy_Frame.label>美观的冰盒(建造中)</MedTimes_IceboxFancy_Frame.label>
+
+
+</LanguageData>

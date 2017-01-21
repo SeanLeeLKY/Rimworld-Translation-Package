@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <soylenttable.label>营养物质合成机</soylenttable.label>
+  <soylenttable.description>一种利用“高能量浮游生物”生产“绿色营养物质”的机器。</soylenttable.description>
+  <soylenttable_Blueprint.label>营养物质合成机 (蓝图)</soylenttable_Blueprint.label>
+  <soylenttable_Frame.label>营养物质合成机 (建造中)</soylenttable_Frame.label>
+
+
+</LanguageData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Padded Head-wrap -->
+
+  <MedTimes_Helmet_Wooden.label>木头盔</MedTimes_Helmet_Wooden.label>
+  <MedTimes_Helmet_Wooden.description>（Tier：0）由皮革和布制成的软帽，镶有一块钢板，用来防御，可以在冬天保持温暖。</MedTimes_Helmet_Wooden.description>
+
+  <MedTimes_Helmet_Headwrap.label>镀钢头包</MedTimes_Helmet_Headwrap.label>
+  <MedTimes_Helmet_Headwrap.description>（Tier：1）由皮革和布制成的软帽，镶有一块钢板，用来防御，可以在冬天保持温暖。</MedTimes_Helmet_Headwrap.description>
+
+
+  <!-- Domed Helmet -->
+
+  <MedTimes_Helmet_Domed.label>圆顶头盔</MedTimes_Helmet_Domed.label>
+  <MedTimes_Helmet_Domed.description>（Tier：2）防风保暖又有一定保护作用的圆顶头盔。</MedTimes_Helmet_Domed.description>
+
+
+  <!-- Sallet Helmet -->
+
+  <MedTimes_Helmet_Sallet.label>全罩头盔</MedTimes_Helmet_Sallet.label>
+  <MedTimes_Helmet_Sallet.description>（Tier：2）由皮革和布垫制成的软帽。制造过程中加入了金属。 提供优异的保护并且不妨碍移动与视线。 可以在冬天保持温暖。</MedTimes_Helmet_Sallet.description>
+
+
+  <!-- Nasal Helmet -->
+
+  <MedTimes_Helmet_Nasal.label>鼻盔</MedTimes_Helmet_Nasal.label>
+  <MedTimes_Helmet_Nasal.description>（Tier：2）由皮革和布垫制成的软帽。制造过程中加入了金属。 提供优异的保护并且不妨碍移动与视线。 可以在冬天保持温暖。</MedTimes_Helmet_Nasal.description>
+
+
+  <!-- Bascinet -->
+
+  <MedTimes_Helmet_Bascinet.label>狗面铠</MedTimes_Helmet_Bascinet.label>
+  <MedTimes_Helmet_Bascinet.description>（Tier：3）由软皮和布垫制成的软帽。制造过程中加入了金属。 提供优异的保护并且不妨碍移动与视线。 可以在冬天保持温暖。</MedTimes_Helmet_Bascinet.description>
+
+
+  <!-- Conical Bascinet -->
+
+  <MedTimes_Helmet_ConicalBascinet.label>锥型狗面铠</MedTimes_Helmet_ConicalBascinet.label>
+  <MedTimes_Helmet_ConicalBascinet.description>（Tier：3）由软皮和布垫制成的软帽。制造过程中加入了金属。 提供优异的保护并且不妨碍移动与视线。 可以在冬天保持温暖。</MedTimes_Helmet_ConicalBascinet.description>
+
+
+  <!-- Royal Mask -->
+
+  <MedTimes_Helmet_RoyalMask.label>皇家面铠</MedTimes_Helmet_RoyalMask.label>
+  <MedTimes_Helmet_RoyalMask.description>（Tier：3）由软皮和布垫制成的软帽。面具可以覆盖也可以移除。 提供优异的保护并且不妨碍移动与视线。 可以在冬天保持温暖。</MedTimes_Helmet_RoyalMask.description>
+
+
+  <!-- Death Mask -->
+
+  <MedTimes_Helmet_DeathMask.label>死亡面凯</MedTimes_Helmet_DeathMask.label>
+  <MedTimes_Helmet_DeathMask.description>（Tier：3）由软皮和布垫制成的软帽。面具可以覆盖也可以移除。 提供优异的保护并且不妨碍移动与视线。 可以在冬天保持温暖。</MedTimes_Helmet_DeathMask.description>
+
+
+  <!-- God King's Mask Blue -->
+
+  <MedTimes_Helmet_GodKingMask_Blue.label>神授面铠</MedTimes_Helmet_GodKingMask_Blue.label>
+  <MedTimes_Helmet_GodKingMask_Blue.description>（Tier：3）由软皮和布垫制成的软帽。面具可以覆盖也可以移除。 提供优异的保护并且不妨碍移动与视线。 可以在冬天保持温暖。</MedTimes_Helmet_GodKingMask_Blue.description>
+
+
+  <!-- God King's Mask Green -->
+
+  <MedTimes_Helmet_GodKingMask_Green.label>领主面铠</MedTimes_Helmet_GodKingMask_Green.label>
+  <MedTimes_Helmet_GodKingMask_Green.description>（Tier：3）由软皮和布垫制成的软帽。面具可以覆盖也可以移除。 提供优异的保护并且不妨碍移动与视线。 可以在冬天保持温暖。</MedTimes_Helmet_GodKingMask_Green.description>
+
+
+</LanguageData>

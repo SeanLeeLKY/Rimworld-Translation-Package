@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Arming Cap -->
+
+  <MedTimes_Headgear_ArmingCap.label>武装帽</MedTimes_Headgear_ArmingCap.label>
+  <MedTimes_Headgear_ArmingCap.description>由皮革或织物制成的软帽和一层衬垫。可以在冬天保暖。</MedTimes_Headgear_ArmingCap.description>
+
+
+  <!-- Winter Hat -->
+
+  <MedTimes_Headgear_WinterHat.label>保暖帽</MedTimes_Headgear_WinterHat.label>
+  <MedTimes_Headgear_WinterHat.description>由皮革或织物制成的软帽和一层衬垫。可以在冬天保暖。</MedTimes_Headgear_WinterHat.description>
+
+
+  <!-- Tailored Gloves -->
+
+  <MedTimes_Gloves_Tailored.label>定制的手套</MedTimes_Gloves_Tailored.label>
+  <MedTimes_Gloves_Tailored.description>[工作速度：+ 5％]为你的手量身定制的手套，有助于防止手部受伤，这意味着你可以更快地工作！</MedTimes_Gloves_Tailored.description>
+
+
+  <!-- Winter Gloves: Cold Layer -->
+
+  <MedTimes_Gloves_Winter.label>冬季手套</MedTimes_Gloves_Winter.label>
+  <MedTimes_Gloves_Winter.description>[工作速度：+ 5％]冬季款为你的手量身定制的手套！</MedTimes_Gloves_Winter.description>
+
+
+  <!-- Tribal Wraps -->
+
+  <MedTimes_Gloves_Tribal.label>皮革带</MedTimes_Gloves_Tribal.label>
+  <MedTimes_Gloves_Tribal.description>[工作速度：+ 2.5％]皮革带，可以缠绕或绑在手上。</MedTimes_Gloves_Tribal.description>
+
+
+  <!-- Tailored Socks -->
+
+  <MedTimes_Socks_Tailored.label>定制的袜子</MedTimes_Socks_Tailored.label>
+  <MedTimes_Socks_Tailored.description>袜子量身定制形，以掩盖你的臭脚，有助于防止不舒服的脚臭味！</MedTimes_Socks_Tailored.description>
+
+
+  <!-- Tailored Boots -->
+
+  <MedTimes_Boots_Tailored.label>定制的靴子</MedTimes_Boots_Tailored.label>
+  <MedTimes_Boots_Tailored.description>[移动速度：+ 10％]量身定制的靴子！使你的脚总是有助于移动通过的地形移动。</MedTimes_Boots_Tailored.description>
+
+
+  <!-- Winter Boots -->
+
+  <MedTimes_Boots_Winter.label>冬季靴子</MedTimes_Boots_Winter.label>
+  <MedTimes_Boots_Winter.description>[移动速度：+ 10％]冬季量身定制的靴子。特别厚且防水，意味着可以完美的适应寒冷的天气。</MedTimes_Boots_Winter.description>
+
+
+  <!-- Tribal Boots -->
+
+  <MedTimes_Boots_Tribal.label>部落靴</MedTimes_Boots_Tribal.label>
+  <MedTimes_Boots_Tribal.description>[移动速度：+ 10％]从动物皮制成的旧款部落靴。超级温暖，且防脚臭！</MedTimes_Boots_Tribal.description>
+
+
+</LanguageData>

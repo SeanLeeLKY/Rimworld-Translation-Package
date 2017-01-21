@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Warband) Trader -->
+
+  <MedTimes_Warband_Trader.label>游商</MedTimes_Warband_Trader.label>
+
+
+  <!-- (Warband) Peasant -->
+
+  <MedTimes_Warband_Peasant.label>农民</MedTimes_Warband_Peasant.label>
+
+
+  <!-- (Warband) Conscript -->
+
+  <MedTimes_Warband_Conscript.label>热血雇佣兵</MedTimes_Warband_Conscript.label>
+  <MedTimes_Warband_Conscript_Cheap.label>热血雇佣兵</MedTimes_Warband_Conscript_Cheap.label>
+
+
+  <!-- (Warband) Archer -->
+
+  <MedTimes_Warband_Archer.label>弓箭手</MedTimes_Warband_Archer.label>
+  <MedTimes_Warband_Archer_Cheap.label>弓箭手</MedTimes_Warband_Archer_Cheap.label>
+
+
+  <!-- (Warband) Sapper -->
+
+  <MedTimes_Warband_LeadSapper.label>领队</MedTimes_Warband_LeadSapper.label>
+
+
+  <!-- (Warband) Alternate Sapper -->
+
+  <MedTimes_Warband_Sapper.label>工兵</MedTimes_Warband_Sapper.label>
+
+
+  <!-- (Warband) Squire -->
+
+  <MedTimes_Warband_Squire.label>落魄的侍从</MedTimes_Warband_Squire.label>
+  <MedTimes_Warband_Squire_Cheap.label>落魄的侍从</MedTimes_Warband_Squire_Cheap.label>
+
+
+  <!-- (Warband) Man at Arms -->
+
+  <MedTimes_Warband_ManAtArms.label>雇佣兵</MedTimes_Warband_ManAtArms.label>
+  <MedTimes_Warband_ManAtArms_Cheap.label>雇佣兵</MedTimes_Warband_ManAtArms_Cheap.label>
+
+
+  <!-- (Warband) Elite Bowman -->
+
+  <MedTimes_Warband_EliteBowman.label>雇佣枪手</MedTimes_Warband_EliteBowman.label>
+  <MedTimes_Warband_EliteBowman_Cheap.label>雇佣枪手</MedTimes_Warband_EliteBowman_Cheap.label>
+
+
+  <!-- (Warband) Knight -->
+
+  <MedTimes_Warband_Knight.label>落魄的骑士</MedTimes_Warband_Knight.label>
+  <MedTimes_Warband_Knight_Cheap.label>落魄的骑士</MedTimes_Warband_Knight_Cheap.label>
+
+
+  <!-- (Warband) Royal Guard -->
+
+  <MedTimes_Warband_RoyalGuard.label>侍卫</MedTimes_Warband_RoyalGuard.label>
+  <MedTimes_Warband_RoyalGuard_Cheap.label>侍卫</MedTimes_Warband_RoyalGuard_Cheap.label>
+
+
+  <!-- (Warband) God King -->
+
+  <MedTimes_Warband_Warlord.label>军阀</MedTimes_Warband_Warlord.label>
+
+
+</LanguageData>

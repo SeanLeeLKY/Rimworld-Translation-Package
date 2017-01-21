@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- (Tradegood) Wood Pitch Glue -->
+
+  <MedTimes_WoodPitchGlue.label>木沥青胶</MedTimes_WoodPitchGlue.label>
+  <MedTimes_WoodPitchGlue.description>通常由松树树脂制成，也可以使用称为“干蒸馏”的方法从几乎任何木材中提取，然后与木炭组合一起使用以产生极易燃烧的粘性物质，其通常被称为沥青胶。</MedTimes_WoodPitchGlue.description>
+
+
+  <!-- (Tradegood) Storage Pot -->
+
+  <MedTimes_StoragePot.label>储存罐</MedTimes_StoragePot.label>
+  <MedTimes_StoragePot.description>一个由泥土或热处理土坯制成的普通罐子。 通常由人们在他们想要存储大量的物品时使用。 由于它们的广泛使用和相对容易创造，它们可以很容易地以便宜的价格出售或购买。</MedTimes_StoragePot.description>
+
+
+  <!-- (Tradegood) Stuffed Doll -->
+
+  <MedTimes_StuffedDoll.label>毛绒玩偶</MedTimes_StuffedDoll.label>
+  <MedTimes_StuffedDoll.description>一个孩子的毛绒娃娃，用来贸易或使孩子快乐。</MedTimes_StuffedDoll.description>
+
+
+  <!-- (Tradegood) Cup -->
+
+  <MedTimes_DrinkingCup.label>啤酒杯</MedTimes_DrinkingCup.label>
+  <MedTimes_DrinkingCup.description>人们想喝东西，或卖给具有类似的饮酒欲望的人时使用。</MedTimes_DrinkingCup.description>
+
+
+  <!-- (Tradegood) Puzzlebox -->
+
+  <MedTimes_Puzzlebox.label>拼图盒</MedTimes_Puzzlebox.label>
+  <MedTimes_Puzzlebox.description>用来装东西，也可以送给朋友，很难打开。</MedTimes_Puzzlebox.description>
+
+
+  <!-- (Tradegood) Crafting Hand Tools -->
+
+  <MedTimes_CraftingTools.label>手工工具</MedTimes_CraftingTools.label>
+  <MedTimes_CraftingTools.description>工艺工具用于生产各种商品或卖给商人。</MedTimes_CraftingTools.description>
+
+
+  <!-- (Tradegood) Steel Bow -->
+
+  <MedTimes_SteelBow.label>钢制弓臂</MedTimes_SteelBow.label>
+  <MedTimes_SteelBow.description>由钢制成的弓臂，用于建造弩或弓箭。</MedTimes_SteelBow.description>
+
+
+  <!-- (Tradegood) Advanced Trigger Mechanism -->
+
+  <MedTimes_AdvancedTriggerMechanism.label>高级触发器</MedTimes_AdvancedTriggerMechanism.label>
+  <MedTimes_AdvancedTriggerMechanism.description>一种由钢制成的高级扳机机构，用于建造一个劲弩。</MedTimes_AdvancedTriggerMechanism.description>
+
+
+</LanguageData>

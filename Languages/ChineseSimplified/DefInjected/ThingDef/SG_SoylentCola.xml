@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SoylentCola.label>绿色“可乐”</SoylentCola.label>
+  <SoylentCola.description>用某些高能“浮游生物”制作的绿色饮品。喝起来的新鲜程度就像人一样。</SoylentCola.description>
+  <SoylentCola.ingestible.ingestCommandString>饮用 {0}</SoylentCola.ingestible.ingestCommandString>
+  <SoylentCola.ingestible.ingestReportString>饮用 {0}.</SoylentCola.ingestible.ingestReportString>
+
+
+</LanguageData>

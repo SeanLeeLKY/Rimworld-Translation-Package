@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Start Tech -->
+
+  <MedTimes_MedievalTechnologies.label>（中世纪）中世纪技术</MedTimes_MedievalTechnologies.label>
+  <MedTimes_MedievalTechnologies.description>开始与中世纪时代相关的技术的路径，中世纪生活和战争的道路从这里开始。 这个技术提供炖肉创作和家庭供暖的基础与石壁炉。 吸烟房将让你通过冬天干果和刺激的肉。 更不用说低科技照明解决方案，您的中世纪的需要与街灯和室内Brazier。</MedTimes_MedievalTechnologies.description>
+
+  <MedTimes_IceWalls.label>（中世纪）冰墙</MedTimes_IceWalls.label>
+  <MedTimes_IceWalls.description>用“新”冰资源创建你所有的基本和中世纪的墙壁。 你的一个殖民者醒了一天，说：“如果我们把墙壁除冰外怎么办？ 如果你碰巧住在寒冷的北部，温度低于冰点，制作一个“冰城堡”是一个值得注意的想法。 然而，如果你住在高于冰点的温度，这可能会觉得没什么意义。</MedTimes_IceWalls.description>
+
+
+  <!-- Tier 1 Tech -->
+
+  <MedTimes_MedievalSmithing.label>（中世纪）锻造工艺</MedTimes_MedievalSmithing.label>
+  <MedTimes_MedievalSmithing.description>锻造工艺的基本理解。 这将允许您创建中世纪时代的锻造和工艺必不可少的工具和项目为您的中世纪的生活方式。 它还将允许制订最基本的武器和铠甲。</MedTimes_MedievalSmithing.description>
+
+  <MedTimes_MedievalDefenses.label>（中世纪）防御系统</MedTimes_MedievalDefenses.label>
+  <MedTimes_MedievalDefenses.description>学会为你成长的城堡创造中世纪风格的防御。 雉ated墙，罗马时代弩炮，谋杀孔和木护栏。 如果你有效地使用这些工具，很少有人能够挑战你的中世纪的力量。</MedTimes_MedievalDefenses.description>
+
+
+  <!-- Tier 2 Tech -->
+
+  <MedTimes_MedievalFoodStorage.label>（中世纪）食品储存系统</MedTimes_MedievalFoodStorage.label>
+  <MedTimes_MedievalFoodStorage.description>了解中世纪食品工艺的基础知识。 食物准备站将允许您为您的不断增长的人口准备大量的各种炖菜。 它也将允许你学习奶酪的生产。 你甚至可以保持你的食物冷，通过做冰，而不是把它粘在一个冰盒。</MedTimes_MedievalFoodStorage.description>
+
+  <MedTimes_MedievalCrafting.label>（中世纪）制作系统</MedTimes_MedievalCrafting.label>
+  <MedTimes_MedievalCrafting.description>工艺必备工具和项目为您的中世纪的生活方式。 工匠的长凳允许生产各种贸易物品（工作进行中），以及对中世纪生活方式和防御需要的基本物品。</MedTimes_MedievalCrafting.description>
+
+  <MedTimes_MedievalTailoring.label>（中世纪）裁缝系统</MedTimes_MedievalTailoring.label>
+  <MedTimes_MedievalTailoring.description>使用裁缝机为你的中世纪生活方式制作必要的衣服。 它也相当有效地回收旧衣服。</MedTimes_MedievalTailoring.description>
+
+  <MedTimes_ImprovedMedievalSmithing.label>（中世纪）锻造改进</MedTimes_ImprovedMedievalSmithing.label>
+  <MedTimes_ImprovedMedievalSmithing.description>制造更好的武器和盔甲，缩放邮件，弩和战斗特定的武器使你的敌人短暂的工作。</MedTimes_ImprovedMedievalSmithing.description>
+
+  <MedTimes_ImprovedMedievalDefenses.label>（中世纪）改进的防御系统</MedTimes_ImprovedMedievalDefenses.label>
+  <MedTimes_ImprovedMedievalDefenses.description>枪眼和中世纪弹射器。</MedTimes_ImprovedMedievalDefenses.description>
+
+
+  <!-- Tier 3 Tech -->
+
+  <MedTimes_AdvancedMedievalSmithing.label>（中世纪）高级锻造系统</MedTimes_AdvancedMedievalSmithing.label>
+  <MedTimes_AdvancedMedievalSmithing.description>全板装甲和劲弩的组件</MedTimes_AdvancedMedievalSmithing.description>
+
+
+</LanguageData>

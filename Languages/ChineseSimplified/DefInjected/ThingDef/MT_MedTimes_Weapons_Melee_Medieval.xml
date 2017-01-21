@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Pitchfork: Farming -->
+
+  <MedTimes_Melee_Pitchfork.label>干草叉</MedTimes_Melee_Pitchfork.label>
+  <MedTimes_Melee_Pitchfork.description>（穿刺）[收获失败：-5％] [工作速度：+ 5％]用来收获干草的工具，没武器用的时候凑合也能戳人。</MedTimes_Melee_Pitchfork.description>
+
+
+  <!-- HandSicle: Farming -->
+
+  <MedTimes_Melee_HandSickle.label>镰刀</MedTimes_Melee_HandSickle.label>
+  <MedTimes_Melee_HandSickle.description>（切割）[收获失败：-10％] [工作速度：+ 10％]用来收割作物的工具，砍人也很顺手。</MedTimes_Melee_HandSickle.description>
+
+
+  <!-- Cleaver: Cooking -->
+
+  <MedTimes_Melee_Cleaver.label>切肉刀</MedTimes_Melee_Cleaver.label>
+  <MedTimes_Melee_Cleaver.description>（切割）[烹饪速度：+10％] [屠杀速度/效率：+ 25％]烹饪用的切肉刀，一刀一脸血。</MedTimes_Melee_Cleaver.description>
+
+
+  <!-- Cleaver: Blacksmithing -->
+
+  <MedTimes_Melee_HammerBlacksmith.label>铁匠的锤子</MedTimes_Melee_HammerBlacksmith.label>
+  <MedTimes_Melee_HammerBlacksmith.description>（钝击）[锻造速度：+ 10％]锻造用的锤子，可以把人锤晕。</MedTimes_Melee_HammerBlacksmith.description>
+
+
+  <!-- Pickaxe: Minning -->
+
+  <MedTimes_Melee_Pickaxe.label>鹤嘴锄</MedTimes_Melee_Pickaxe.label>
+  <MedTimes_Melee_Pickaxe.description>（穿刺）[挖掘速度：+ 10％]挖坑神器，山顶洞人必备。</MedTimes_Melee_Pickaxe.description>
+  <MedTimes_Melee_Pickaxe.verbs.0.label>Mining Tunnel</MedTimes_Melee_Pickaxe.verbs.0.label>
+
+
+  <!-- Forrester's Axe: Farming -->
+
+  <MedTimes_Melee_AxeForester.label>伐木斧</MedTimes_Melee_AxeForester.label>
+  <MedTimes_Melee_AxeForester.description>（切割）[工作速度：+ 10％]砍树快，砍人也很溜。...</MedTimes_Melee_AxeForester.description>
+
+
+  <!-- (Medieval) Boar Spear -->
+
+  <MedTimes_Melee_BoarSpear.label>野猪矛</MedTimes_Melee_BoarSpear.label>
+  <MedTimes_Melee_BoarSpear.description>（穿刺）无论是野猪还是人，跑身边去戳戳戳。</MedTimes_Melee_BoarSpear.description>
+
+
+  <!-- (Medieval) Spatha-Sword -->
+
+  <MedTimes_Melee_SwordSpatha.label>长剑</MedTimes_Melee_SwordSpatha.label>
+  <MedTimes_Melee_SwordSpatha.description>（切割）做工一般的剑，据说古罗马常用。</MedTimes_Melee_SwordSpatha.description>
+
+
+  <!-- (Medieval) One-Handed Mace -->
+
+  <MedTimes_Melee_MaceHand.label>钉头锤</MedTimes_Melee_MaceHand.label>
+  <MedTimes_Melee_MaceHand.description>（钝击）做工一般的钉头锤。</MedTimes_Melee_MaceHand.description>
+
+
+  <!-- (Medieval) Bandit Hammer -->
+
+  <MedTimes_Melee_HammerBandit.label>强盗锤</MedTimes_Melee_HammerBandit.label>
+  <MedTimes_Melee_HammerBandit.description>（钝击）打家劫舍专用锤，能敲晕铁罐头。</MedTimes_Melee_HammerBandit.description>
+
+
+  <!-- (Medieval) Bearded Battle Axe -->
+
+  <MedTimes_Melee_AxeBearded.label>鬃须战斧</MedTimes_Melee_AxeBearded.label>
+  <MedTimes_Melee_AxeBearded.description>（切割）看名字就知道近战很牛逼的啦。</MedTimes_Melee_AxeBearded.description>
+
+
+  <!-- (Medieval) Gisarme -->
+
+  <MedTimes_Melee_Gisarme.label>长柄斧</MedTimes_Melee_Gisarme.label>
+  <MedTimes_Melee_Gisarme.description>（穿刺）勾马腿，切马脚，戳人脑袋，很全面的武器。</MedTimes_Melee_Gisarme.description>
+
+
+  <!-- (Medieval) Arming-Sword -->
+
+  <MedTimes_Melee_SwordArming.label>单手剑</MedTimes_Melee_SwordArming.label>
+  <MedTimes_Melee_SwordArming.description>（切割）[近身攻击：+ 5％]常见的武器，没啥特殊的。</MedTimes_Melee_SwordArming.description>
+
+
+  <!-- (Medieval) One-Handed Mace -->
+
+  <MedTimes_Melee_MaceFlanged.label>单手法兰钉头槌</MedTimes_Melee_MaceFlanged.label>
+  <MedTimes_Melee_MaceFlanged.description>（钝击）[近身攻击：+ 5％]带名字前缀的都是特色武器，又轻又顺手。</MedTimes_Melee_MaceFlanged.description>
+
+
+  <!-- (Medieval) Long-Sword -->
+
+  <MedTimes_Melee_SwordLong.label>中世纪长剑</MedTimes_Melee_SwordLong.label>
+  <MedTimes_Melee_SwordLong.description>（切割）[近身攻击：+ 5％]就比普通的剑好那么一点点。</MedTimes_Melee_SwordLong.description>
+
+
+  <!-- (Medieval) Bearded Battle Axe -->
+
+  <MedTimes_Melee_BattleAxe.label>战斧</MedTimes_Melee_BattleAxe.label>
+  <MedTimes_Melee_BattleAxe.description>（切割）[近身攻击：+ 5％]常用近战装备，还行吧。</MedTimes_Melee_BattleAxe.description>
+
+
+  <!-- (Medieval) Warhammer -->
+
+  <MedTimes_Melee_WarHammer.label>战锤</MedTimes_Melee_WarHammer.label>
+  <MedTimes_Melee_WarHammer.description>（钝击）锤脑袋，抓俘虏，敲罐头神器。</MedTimes_Melee_WarHammer.description>
+
+
+  <!-- (Medieval) Halberd -->
+
+  <MedTimes_Melee_Halberd.label>战戟</MedTimes_Melee_Halberd.label>
+  <MedTimes_Melee_Halberd.description>（穿刺）很好很强大的长兵器。</MedTimes_Melee_Halberd.description>
+
+
+</LanguageData>

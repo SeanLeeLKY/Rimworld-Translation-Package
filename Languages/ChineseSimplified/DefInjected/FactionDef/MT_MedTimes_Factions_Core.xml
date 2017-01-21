@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medieval Societies Class Base -->
+
+  <MedTimes_Faction_Core.pawnsPlural>中世纪封臣</MedTimes_Faction_Core.pawnsPlural>
+
+
+  <!-- Medieval Society Factions -->
+
+  <MedTimes_Faction_Societies.label>中世纪贵族封地</MedTimes_Faction_Societies.label>
+  <MedTimes_Faction_Societies.description>长久生活在世界上的人们渐渐形成了部落社会，并进化到了中世纪时代，他们不了解现代科技，比较喜欢使用相对顺手且实用的中世纪技术。</MedTimes_Faction_Societies.description>
+  <MedTimes_Faction_Societies.leaderTitle>领主</MedTimes_Faction_Societies.leaderTitle>
+  <MedTimes_Faction_Societies.pawnsPlural>守卫</MedTimes_Faction_Societies.pawnsPlural>
+
+
+  <!-- Medieval Warband Faction -->
+
+  <MedTimes_Faction_Warband.label>中世纪掠夺者军团</MedTimes_Faction_Warband.label>
+  <MedTimes_Faction_Warband.description>这些弃儿从各个地方集结到一起，形成崇拜暴力的群体。他们不了解现代科技，比较喜欢使用相对顺手且实用的中世纪技术。这个群体特别残暴和无情。</MedTimes_Faction_Warband.description>
+  <MedTimes_Faction_Warband.leaderTitle>军阀</MedTimes_Faction_Warband.leaderTitle>
+  <MedTimes_Faction_Warband.pawnsPlural>侍卫</MedTimes_Faction_Warband.pawnsPlural>
+
+
+</LanguageData>

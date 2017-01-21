@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Adobe Bricks -->
+
+  <MedTimes_Resource_AdobeBricks.label>土坯转</MedTimes_Resource_AdobeBricks.label>
+  <MedTimes_Resource_AdobeBricks.description>由土和秸杆做的泥砖，在阳光的照射下制成砖块的形状。土坯砖是超低科技，可用于创建便宜和可靠的住房。</MedTimes_Resource_AdobeBricks.description>
+  <MedTimes_Resource_AdobeBricks.stuffProps.stuffAdjective>土</MedTimes_Resource_AdobeBricks.stuffProps.stuffAdjective>
+
+
+  <!-- Ice Blocks -->
+
+  <MedTimes_Resource_IceBlocks.label>冰块</MedTimes_Resource_IceBlocks.label>
+  <MedTimes_Resource_IceBlocks.description>水被冻结以产生冰，令人难以置信地是它是非常有价值的资源，特别是在炎热的环境中。 注意，冰在高于32°F时会熔化</MedTimes_Resource_IceBlocks.description>
+  <MedTimes_Resource_IceBlocks.stuffProps.stuffAdjective>冰</MedTimes_Resource_IceBlocks.stuffProps.stuffAdjective>
+
+
+  <!-- Quicklime Pitch And Wick, Resource -->
+
+  <MedTimes_Resource_Quicklime.label>生石灰沥青</MedTimes_Resource_Quicklime.label>
+  <MedTimes_Resource_Quicklime.description>从谋杀孔溅射出去，以杀伤附近的敌人。</MedTimes_Resource_Quicklime.description>
+
+
+  <!-- Exploding Pot, Resource -->
+
+  <MedTimes_Resource_ExplosivePot.label>爆炸锅</MedTimes_Resource_ExplosivePot.label>
+  <MedTimes_Resource_ExplosivePot.description>从弹射器射出，爆炸并冲散大股敌人。</MedTimes_Resource_ExplosivePot.description>
+
+
+</LanguageData>

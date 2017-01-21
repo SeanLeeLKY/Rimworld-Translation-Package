@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WoodPitchWicked -->
+
+  <MedTimes_MakeQuicklimePitch.label>制作沥青火油</MedTimes_MakeQuicklimePitch.label>
+  <MedTimes_MakeQuicklimePitch.description>（批量X5）制作谋杀孔上用的沥青火油。</MedTimes_MakeQuicklimePitch.description>
+  <MedTimes_MakeQuicklimePitch.jobString>正在制作沥青。</MedTimes_MakeQuicklimePitch.jobString>
+
+
+  <!-- Explosive Pots -->
+
+  <MedTimes_MakeExplosiveBall.label>制作爆炸罐</MedTimes_MakeExplosiveBall.label>
+  <MedTimes_MakeExplosiveBall.description>（批量X3）为投石器制作爆炸灌。</MedTimes_MakeExplosiveBall.description>
+  <MedTimes_MakeExplosiveBall.jobString>正在制作爆炸罐。</MedTimes_MakeExplosiveBall.jobString>
+
+
+  <!-- Make Ice Blocks -->
+
+  <MedTimes_MakeIceBlocks.label>制作冰块</MedTimes_MakeIceBlocks.label>
+  <MedTimes_MakeIceBlocks.description>（批量X5）使用干草利用水蒸发吸热的原理制作冰块。</MedTimes_MakeIceBlocks.description>
+  <MedTimes_MakeIceBlocks.jobString>正在制作冰块。</MedTimes_MakeIceBlocks.jobString>
+
+
+  <!-- Gather Ice Blocks -->
+
+  <MedTimes_GatherIceBlocks.label>收集冰块</MedTimes_GatherIceBlocks.label>
+  <MedTimes_GatherIceBlocks.description>（批量 x10） 看着水结成冰，然后去收集。</MedTimes_GatherIceBlocks.description>
+  <MedTimes_GatherIceBlocks.jobString>正在收集冰块。</MedTimes_GatherIceBlocks.jobString>
+
+
+  <!-- Adobe Bricks -->
+
+  <MedTimes_MakeAdobeBricks.label>制作土坯砖</MedTimes_MakeAdobeBricks.label>
+  <MedTimes_MakeAdobeBricks.description>（批量X20）制作土坯砖用于建筑。</MedTimes_MakeAdobeBricks.description>
+  <MedTimes_MakeAdobeBricks.jobString>正在制作土坯砖。</MedTimes_MakeAdobeBricks.jobString>
+
+
+  <!-- Stone Chunks: Sandstone -->
+
+  <MedTimes_MakeStoneChunks_Sandstone.label>收集砂岩块</MedTimes_MakeStoneChunks_Sandstone.label>
+  <MedTimes_MakeStoneChunks_Sandstone.jobString>正在开采砂岩块。</MedTimes_MakeStoneChunks_Sandstone.jobString>
+  <MedTimes_MakeStoneChunks_Sandstone.description>将岩石切割成可用的石块。</MedTimes_MakeStoneChunks_Sandstone.description>
+
+
+  <!-- Stone Chunks: Granite -->
+
+  <MedTimes_MakeStoneChunks_Granite.label>收集花岗岩块</MedTimes_MakeStoneChunks_Granite.label>
+  <MedTimes_MakeStoneChunks_Granite.jobString>正在开采花岗岩块。</MedTimes_MakeStoneChunks_Granite.jobString>
+  <MedTimes_MakeStoneChunks_Granite.description>将岩石切割成可用的石块。</MedTimes_MakeStoneChunks_Granite.description>
+
+
+  <!-- Stone Chunks: Limestone -->
+
+  <MedTimes_MakeStoneChunks_Limestone.label>收集石灰岩块</MedTimes_MakeStoneChunks_Limestone.label>
+  <MedTimes_MakeStoneChunks_Limestone.jobString>正在开采石灰石矿。</MedTimes_MakeStoneChunks_Limestone.jobString>
+  <MedTimes_MakeStoneChunks_Limestone.description>将岩石切割成可用的石块。</MedTimes_MakeStoneChunks_Limestone.description>
+
+
+  <!-- Stone Chunks: Slate -->
+
+  <MedTimes_MakeStoneChunks_Slate.label>收集石板块</MedTimes_MakeStoneChunks_Slate.label>
+  <MedTimes_MakeStoneChunks_Slate.jobString>正在开采石板岩块。</MedTimes_MakeStoneChunks_Slate.jobString>
+  <MedTimes_MakeStoneChunks_Slate.description>将岩石切割成可用的石块。</MedTimes_MakeStoneChunks_Slate.description>
+
+
+  <!-- Stone Chunks: Marble -->
+
+  <MedTimes_MakeStoneChunks_Marble.label>收集大理石块</MedTimes_MakeStoneChunks_Marble.label>
+  <MedTimes_MakeStoneChunks_Marble.jobString>正在开采大理石块。</MedTimes_MakeStoneChunks_Marble.jobString>
+  <MedTimes_MakeStoneChunks_Marble.description>将岩石切割成可用的石块。</MedTimes_MakeStoneChunks_Marble.description>
+
+
+  <!-- Disassemble Apparel -->
+
+  <MedTimes_DisassembleApparel.label>拆卸服装。</MedTimes_DisassembleApparel.label>
+  <MedTimes_DisassembleApparel.description>拆卸各种中世纪服装重新收集可用的材料。</MedTimes_DisassembleApparel.description>
+  <MedTimes_DisassembleApparel.jobString>正在拆卸服装。</MedTimes_DisassembleApparel.jobString>
+
+
+  <!-- Smelt Armour -->
+
+  <MedTimes_SmeltArmor.label>熔炼盔甲</MedTimes_SmeltArmor.label>
+  <MedTimes_SmeltArmor.description>将盔甲熔炼成金属块。</MedTimes_SmeltArmor.description>
+  <MedTimes_SmeltArmor.jobString>正在从盔甲中冶炼金属。</MedTimes_SmeltArmor.jobString>
+
+
+</LanguageData>

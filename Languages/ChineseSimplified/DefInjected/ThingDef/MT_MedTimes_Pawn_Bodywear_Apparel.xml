@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Suspenders -->
+
+  <MedTimes_Pants_Suspenders.label>背带裤</MedTimes_Pants_Suspenders.label>
+  <MedTimes_Pants_Suspenders.description>中世纪时代的裤子，适用于避免裸奔的尴尬，并与明显可见的皮革带缝在一起。你需要一对背带来保持它不掉下去。</MedTimes_Pants_Suspenders.description>
+
+
+  <!-- Stripped Suspenders -->
+
+  <MedTimes_Pants_Suspenders_Striped.label>条纹背带长裤</MedTimes_Pants_Suspenders_Striped.label>
+  <MedTimes_Pants_Suspenders_Striped.description>中世纪时代的裤子，适用于避免裸奔的尴尬，并与明显可见的皮革带缝在一起。你需要一对背带来保持它不掉下去。至少它们有条纹显示主人的品味。</MedTimes_Pants_Suspenders_Striped.description>
+
+
+  <!-- Medieval Shirt 'Tunic' -->
+
+  <MedTimes_Shirt_Tunic.label>长袍</MedTimes_Shirt_Tunic.label>
+  <MedTimes_Shirt_Tunic.description>中世纪时代的衬衫，缝有明显可见的皮带。</MedTimes_Shirt_Tunic.description>
+
+
+  <!-- Padded Jacket -->
+
+  <MedTimes_PaddedJacket.label>夹克（织物）</MedTimes_PaddedJacket.label>
+  <MedTimes_PaddedJacket.description>（中间层面料）一种长大衣，大量填充织物以保护穿戴者。有利于防止钝武器伤害。可以穿在另一个更重的盔甲下。由织物制成，透气良好，不会让主人太热。</MedTimes_PaddedJacket.description>
+
+
+  <!-- (Medieval) Padded Jacket 'Leather' -->
+
+  <MedTimes_PaddedJacket_Leather.label>夹克（皮革）</MedTimes_PaddedJacket_Leather.label>
+  <MedTimes_PaddedJacket_Leather.description>（中间层皮革）长皮革外套，大量加垫以保护穿戴者。可以穿在另一个更重的盔甲下。由皮革制成，透气差，会让主人很热。</MedTimes_PaddedJacket_Leather.description>
+
+
+  <!-- Freelancer's Tabbard -->
+
+  <MedTimes_TabardFreelancer.label>自由民的战袍</MedTimes_TabardFreelancer.label>
+  <MedTimes_TabardFreelancer.description>在战斗中有时需要区分朋友和敌人，这是自由民的标志。它基本上算是一面可以穿的旗帜。</MedTimes_TabardFreelancer.description>
+
+
+  <!-- Blue Tabbard -->
+
+  <MedTimes_TabardBlue.label>蓝色战袍</MedTimes_TabardBlue.label>
+  <MedTimes_TabardBlue.description>在战斗中有时需要区分朋友和敌人，这是蓝方代表团的标志。它基本上算是一面可以穿的旗帜。</MedTimes_TabardBlue.description>
+
+
+  <!-- Green Tabbard -->
+
+  <MedTimes_TabardGreen.label>绿色战袍</MedTimes_TabardGreen.label>
+  <MedTimes_TabardGreen.description>在战斗中有时需要区分朋友和敌人，这是绿方代表团的标志。它基本上算是一面可以穿的旗帜。</MedTimes_TabardGreen.description>
+
+
+  <!-- Orange Tabbard -->
+
+  <MedTimes_TabardOrange.label>橙色战袍</MedTimes_TabardOrange.label>
+  <MedTimes_TabardOrange.description>在战斗中有时需要区分朋友和敌人，这是橙方代表团的标志。它基本上算是一面可以穿的旗帜。</MedTimes_TabardOrange.description>
+
+
+  <!-- Medieval Cloak: Cold Apparel -->
+
+  <MedTimes_Cloak.description>一个长长的斗篷，由毛皮和皮革制成，用于阻挡恶劣的风和刺骨的寒冷。新石器时代的科技，但仍然十分有效。 如果你的炎热的环境，可能会在中暑中崩溃。</MedTimes_Cloak.description>
+  <MedTimes_Cloak.label>冬天斗篷</MedTimes_Cloak.label>
+
+
+</LanguageData>

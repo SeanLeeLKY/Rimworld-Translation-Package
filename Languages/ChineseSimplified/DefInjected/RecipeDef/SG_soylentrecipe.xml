@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SOYLENT GREEN -->
+
+  <makesoylentgreen.label>制作绿色营养物质</makesoylentgreen.label>
+  <makesoylentgreen.description>用新鲜尸体制作绿色营养物质。</makesoylentgreen.description>
+  <makesoylentgreen.jobString>制作绿色营养物质</makesoylentgreen.jobString>
+
+  <makesoylentmed.label>制作绿色药物</makesoylentmed.label>
+  <makesoylentmed.description>用绿色营养物质制作药物替代品。</makesoylentmed.description>
+  <makesoylentmed.jobString>制作绿色药物</makesoylentmed.jobString>
+
+  <makesoylentcola.label>制作绿色“可乐”</makesoylentcola.label>
+  <makesoylentcola.description>用某些高能“浮游生物”制作绿色饮品。</makesoylentcola.description>
+  <makesoylentcola.jobString>制作绿色“可乐”</makesoylentcola.jobString>
+
+
+</LanguageData>

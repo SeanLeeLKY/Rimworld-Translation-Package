@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crafting Station -->
+
+  <MedTimes_DoBillsCraftingStation.label>Craft items at station</MedTimes_DoBillsCraftingStation.label>
+  <MedTimes_DoBillsCraftingStation.verb>craft</MedTimes_DoBillsCraftingStation.verb>
+  <MedTimes_DoBillsCraftingStation.gerund>crafting at</MedTimes_DoBillsCraftingStation.gerund>
+
+
+  <!-- Tailoring Station -->
+
+  <MedTimes_DoBillsTailoringStation.label>Tailor items at station</MedTimes_DoBillsTailoringStation.label>
+  <MedTimes_DoBillsTailoringStation.verb>Tailoring</MedTimes_DoBillsTailoringStation.verb>
+  <MedTimes_DoBillsTailoringStation.gerund>Tailoring at</MedTimes_DoBillsTailoringStation.gerund>
+
+
+  <!-- Blacksmith's Forge -->
+
+  <MedTimes_DoBillsSmithing.label>Smith Medieval Items</MedTimes_DoBillsSmithing.label>
+  <MedTimes_DoBillsSmithing.verb>smith</MedTimes_DoBillsSmithing.verb>
+  <MedTimes_DoBillsSmithing.gerund>smithing at</MedTimes_DoBillsSmithing.gerund>
+
+
+  <!-- Blacksmith's Smelter -->
+
+  <MedTimes_DoBillsSmelter.label>Smelt Items</MedTimes_DoBillsSmelter.label>
+  <MedTimes_DoBillsSmelter.verb>Smelt</MedTimes_DoBillsSmelter.verb>
+  <MedTimes_DoBillsSmelter.gerund>Smelting at</MedTimes_DoBillsSmelter.gerund>
+
+
+  <!-- Stone Hearth -->
+
+  <MedTimes_DoBillsCookStoneHearth.label>Cook meals at hearth</MedTimes_DoBillsCookStoneHearth.label>
+  <MedTimes_DoBillsCookStoneHearth.verb>cook</MedTimes_DoBillsCookStoneHearth.verb>
+  <MedTimes_DoBillsCookStoneHearth.gerund>cooking</MedTimes_DoBillsCookStoneHearth.gerund>
+
+
+  <!-- Smokehouse -->
+
+  <MedTimes_DoBillsCookSmokehouse.label>Cook meals at Smokehouse</MedTimes_DoBillsCookSmokehouse.label>
+  <MedTimes_DoBillsCookSmokehouse.verb>cook</MedTimes_DoBillsCookSmokehouse.verb>
+  <MedTimes_DoBillsCookSmokehouse.gerund>cooking</MedTimes_DoBillsCookSmokehouse.gerund>
+
+
+  <!-- FoodPrepStation -->
+
+  <MedTimes_DoBillsCookFoodPrepStation.label>Prepare food at Station</MedTimes_DoBillsCookFoodPrepStation.label>
+  <MedTimes_DoBillsCookFoodPrepStation.verb>cook</MedTimes_DoBillsCookFoodPrepStation.verb>
+  <MedTimes_DoBillsCookFoodPrepStation.gerund>cooking</MedTimes_DoBillsCookFoodPrepStation.gerund>
+
+
+  <!-- Corpse Bonfire -->
+
+  <MedTimes_DoBillsCremateCorpseBonfire.label>Do Bonfire Bills</MedTimes_DoBillsCremateCorpseBonfire.label>
+  <MedTimes_DoBillsCremateCorpseBonfire.verb>Incinerate</MedTimes_DoBillsCremateCorpseBonfire.verb>
+  <MedTimes_DoBillsCremateCorpseBonfire.gerund>Incinerating at</MedTimes_DoBillsCremateCorpseBonfire.gerund>
+
+
+  <!-- Stone Quarry -->
+
+  <MedTimes_DoBillsQuarry.label>Cut Stone</MedTimes_DoBillsQuarry.label>
+  <MedTimes_DoBillsQuarry.verb>Stonecut</MedTimes_DoBillsQuarry.verb>
+  <MedTimes_DoBillsQuarry.gerund>Stonecutting at</MedTimes_DoBillsQuarry.gerund>
+
+
+  <!-- Ice Creation Station -->
+
+  <MedTimes_DoBillsIceCreation.label>Create Ice Blocks</MedTimes_DoBillsIceCreation.label>
+  <MedTimes_DoBillsIceCreation.verb>Fan</MedTimes_DoBillsIceCreation.verb>
+  <MedTimes_DoBillsIceCreation.gerund>Fanning at</MedTimes_DoBillsIceCreation.gerund>
+
+
+  <!-- Ice Gathering Station -->
+
+  <MedTimes_DoBillsIceGathering.label>Gather Ice Blocks</MedTimes_DoBillsIceGathering.label>
+  <MedTimes_DoBillsIceGathering.verb>Gather</MedTimes_DoBillsIceGathering.verb>
+  <MedTimes_DoBillsIceGathering.gerund>Gathering at</MedTimes_DoBillsIceGathering.gerund>
+
+
+</LanguageData>
