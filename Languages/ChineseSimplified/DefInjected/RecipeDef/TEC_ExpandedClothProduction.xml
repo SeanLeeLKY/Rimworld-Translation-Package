@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeCottonCloth.label>制作棉布</MakeCottonCloth.label>
+  <MakeCottonCloth.description>将棉花簇处理成布料。</MakeCottonCloth.description>
+  <MakeCottonCloth.jobString>制作棉布</MakeCottonCloth.jobString>
+
+  <RecycleApparelHat.label>回收帽子</RecycleApparelHat.label>
+  <RecycleApparelHat.description>将无用的帽子处理回收成为原料布片或者皮革。</RecycleApparelHat.description>
+  <RecycleApparelHat.jobString>回收帽子</RecycleApparelHat.jobString>
+
+  <RecycleApparelShirt.label>回收衬衫</RecycleApparelShirt.label>
+  <RecycleApparelShirt.description>将无用的衬衫、T恤衫等处理回收成为原料布片或者皮革。</RecycleApparelShirt.description>
+  <RecycleApparelShirt.jobString>回收衬衫</RecycleApparelShirt.jobString>
+
+  <RecycleApparelPants.label>回收裤子</RecycleApparelPants.label>
+  <RecycleApparelPants.description>将无用的裤子处理回收成为原料布片或者皮革。</RecycleApparelPants.description>
+  <RecycleApparelPants.jobString>回收裤子</RecycleApparelPants.jobString>
+
+  <RecycleApparelJacket.label>回收夹克</RecycleApparelJacket.label>
+  <RecycleApparelJacket.description>将无用的夹克处理回收成为原料布片或者皮革。</RecycleApparelJacket.description>
+  <RecycleApparelJacket.jobString>回收夹克</RecycleApparelJacket.jobString>
+
+  <RecycleApparelParka.label>回收大衣</RecycleApparelParka.label>
+  <RecycleApparelParka.description>将无用的风雪大衣或者防尘大衣等处理回收成为原料布片或者皮革。</RecycleApparelParka.description>
+  <RecycleApparelParka.jobString>回收大衣</RecycleApparelParka.jobString>
+
+
+</LanguageData>

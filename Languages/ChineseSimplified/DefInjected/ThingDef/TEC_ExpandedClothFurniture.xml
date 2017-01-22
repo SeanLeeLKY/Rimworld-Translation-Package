@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PaddedSleepingSpot.label>软垫睡眠点</PaddedSleepingSpot.label>
+  <PaddedSleepingSpot.description>用棉花纤维垫在地上，比睡在裸露的地面上舒服，但仍然没有床好。</PaddedSleepingSpot.description>
+  <PaddedSleepingSpot_Blueprint.label>软垫睡眠点(蓝图)</PaddedSleepingSpot_Blueprint.label>
+  <PaddedSleepingSpot_Blueprint_Install.label>软垫睡眠点(蓝图)</PaddedSleepingSpot_Blueprint_Install.label>
+  <PaddedSleepingSpot_Frame.label>软垫睡眠点(建造中)</PaddedSleepingSpot_Frame.label>
+
+
+</LanguageData>

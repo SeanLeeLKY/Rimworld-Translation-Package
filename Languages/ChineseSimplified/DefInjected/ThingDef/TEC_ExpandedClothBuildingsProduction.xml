@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BenchTextile.label>textile bench</BenchTextile.label>
+  <BenchTextile.description>A bench with equipment to process raw cotton into cloth and to salvage unwanted clothing.</BenchTextile.description>
+  <BenchTextile_Blueprint.label>textile bench (blueprint)</BenchTextile_Blueprint.label>
+  <BenchTextile_Frame.label>textile bench (building)</BenchTextile_Frame.label>
+
+
+</LanguageData>
