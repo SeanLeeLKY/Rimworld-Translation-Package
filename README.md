@@ -64,6 +64,13 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 叙事者- 艾恩·丹 |Iron Dan  |http://steamcommunity.com/sharedfiles/filedetails/?id=731434226 | ID
 叙事者- 菲奥娜·法默 |No Raid Storyteller |http://steamcommunity.com/sharedfiles/filedetails/?id=672718181| NRS 
 派系-利爪雇佣兵 |Talons Faction  |http://steamcommunity.com/sharedfiles/filedetails/?id=747647690 |  TF
+模组列表备份 |Mod List Backup  |http://steamcommunity.com/sharedfiles/filedetails/?id=840043916|  MLB| A16
+AC制作增强 |AC-Enhanced Crafting|http://steamcommunity.com/sharedfiles/filedetails/?id=809961552|  ACEC| A16
+绿色营养物质|Soylent green|http://steamcommunity.com/sharedfiles/filedetails/?id=823765506| SG|A16
+定点交易|Trading Spot|http://steamcommunity.com/sharedfiles/filedetails/?id=822180758 |TS |A16
+精品打造|QualityBuilder| http://steamcommunity.com/sharedfiles/filedetails/?id=754637870 | QB| A16
+
+
 
 
 
