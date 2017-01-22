@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TradingSpot.label>商队交易点</TradingSpot.label>
+  <TradingSpot.description>来到你殖民地进行商业活动的队伍会在交易点附近活动。</TradingSpot.description>
+  <TradingSpot_Blueprint.label>商队交易点(蓝图)</TradingSpot_Blueprint.label>
+  <TradingSpot_Frame.label>商队交易点 (建造中)</TradingSpot_Frame.label>
+
+
+</LanguageData>
