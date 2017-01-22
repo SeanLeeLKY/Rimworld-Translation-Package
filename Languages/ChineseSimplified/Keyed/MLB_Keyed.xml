@@ -17,6 +17,10 @@
   <Button_Import_Tooltip>从保存的游戏中导入mod列表。</Button_Import_Tooltip>
 
   <Button_State_Select_Tooltip>选择要备份/恢复的空位。\n带*号的表示尚未配置的空位。</Button_State_Select_Tooltip>
+  
+   <Checkbox_Restart_Label>关闭时重启游戏</Checkbox_Restart_Label>
+
+  <Checkbox_Restart_Tooltip>用关闭并重新运行Rimworld来替代返回主菜单。\n\n这个方式能够节约因为重载MOD而多花的时间。</Checkbox_Restart_Tooltip>
 
   <Default_State_Name>[未命名]</Default_State_Name>
 

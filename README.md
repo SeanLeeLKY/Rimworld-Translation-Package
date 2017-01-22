@@ -69,7 +69,7 @@ AC制作增强 |AC-Enhanced Crafting|http://steamcommunity.com/sharedfiles/filed
 绿色营养物质|Soylent green|http://steamcommunity.com/sharedfiles/filedetails/?id=823765506| SG|A16
 定点交易|Trading Spot|http://steamcommunity.com/sharedfiles/filedetails/?id=822180758 |TS |A16
 精品打造|QualityBuilder| http://steamcommunity.com/sharedfiles/filedetails/?id=754637870 | QB| A16
-
+T衣物扩展|[T] ExpandedCloth| http://steamcommunity.com/sharedfiles/filedetails/?id=726236520 | TEC|A16
 
 
 
