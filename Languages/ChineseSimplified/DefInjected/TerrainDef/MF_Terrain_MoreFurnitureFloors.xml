@@ -1,20 +1,28 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<CarpetBedGreen.label>绿色地毯</CarpetBedGreen.label>
+  <!-- Carpets Bed Green -->
 
-	<CarpetBedGreen.Description>绿色地毯</CarpetBedGreen.Description>
+  <CarpetBedGreen.label>绿色地毯</CarpetBedGreen.label>
+  <CarpetBedGreen.description>褪色的绿地毯，适合铺设在卧室。</CarpetBedGreen.description>
 
-	<CarpetBedOrange.label>橙色地毯</CarpetBedOrange.label>
 
-	<CarpetBedOrange.Description>橙色地毯</CarpetBedOrange.Description>
+  <!-- Carpets Bed Orange -->
 
-	<CarpetBedBlue.label>蓝色地毯</CarpetBedBlue.label>
+  <CarpetBedOrange.label>橙色地毯</CarpetBedOrange.label>
+  <CarpetBedOrange.description>沉实的橙色地毯，适合铺设在卧室。</CarpetBedOrange.description>
 
-	<CarpetBedBlue.Description>蓝色地毯</CarpetBedBlue.Description>
 
-	<CarpetBedMaroon.label>栗色地毯</CarpetBedMaroon.label>
+  <!-- Carpets Bed Blue -->
 
-	<CarpetBedMaroon.Description>栗色地毯</CarpetBedMaroon.Description>
+  <CarpetBedBlue.label>蓝色地毯</CarpetBedBlue.label>
+  <CarpetBedBlue.description>让人放松的蓝色地毯，适合铺设在卧室。</CarpetBedBlue.description>
+
+
+  <!-- Carpets Bed Maroon -->
+
+  <CarpetBedMaroon.label>栗色地毯</CarpetBedMaroon.label>
+  <CarpetBedMaroon.description>让人沉静栗色地毯，适合铺设在卧室。</CarpetBedMaroon.description>
+
 
 </LanguageData>

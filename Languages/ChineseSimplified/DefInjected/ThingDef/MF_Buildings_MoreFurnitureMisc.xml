@@ -1,16 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- <SimpleResearchBench.label>简单的研究平台</SimpleResearchBench.label>
+  <!-- simple research bench -->
 
-	<SimpleResearchBench.description>一个有书写工具和低技术科学工具的简易长椅。研究人员在这里工作，发现新的东西。</SimpleResearchBench.description>
+  <!--[Core] <SimpleResearchBench.label>simple research bench</SimpleResearchBench.label>-->
+  <!--[Core] <SimpleResearchBench.description>A simple bench with writing implements and low-tech scientific tools. Researchers work here to discover new things.</SimpleResearchBench.description>-->
+  <SimpleResearchBench_Blueprint.label>基础研究台（蓝图）</SimpleResearchBench_Blueprint.label>
+  <SimpleResearchBench_Frame.label>基础研究台（建造中）</SimpleResearchBench_Frame.label>
 
-	<HiTechResearchBench.label>高新技术研究平台</HiTechResearchBench.label>
 
-	<HiTechResearchBench.description>一种具有计算机和电子测量设备的高科技平台。高科技工具加快了研究。需要力量。</HiTechResearchBench.description>
- -->
-	<FileCabinet.label>文件柜</FileCabinet.label>
+  <!-- hi-tech research bench -->
 
-	<FileCabinet.description>重要技术研究文件的存放地。在研究工作台旁边稍微增加研究速度。</FileCabinet.description>
+  <!--[Core] <HiTechResearchBench.label>hi-tech research bench</HiTechResearchBench.label>-->
+  <!--[Core] <HiTechResearchBench.description>A high-tech bench with computers and electronic measurement equipment. Research is sped up by the high-tech tools. Requires power.</HiTechResearchBench.description>-->
+  <HiTechResearchBench_Blueprint.label>高级研究台（蓝图）</HiTechResearchBench_Blueprint.label>
+  <HiTechResearchBench_Frame.label>高级研究台（建造中）</HiTechResearchBench_Frame.label>
+
+
+  <!-- file cabinet -->
+
+  <ANON2FileCabinet.label>文件柜</ANON2FileCabinet.label>
+  <ANON2FileCabinet.description>存储实验重要文件的地方，应用于重要技术的研究。 在研究工作台旁能稍微提高研究速度。</ANON2FileCabinet.description>
+  <ANON2FileCabinet_Blueprint.label>文件柜（蓝图）</ANON2FileCabinet_Blueprint.label>
+  <ANON2FileCabinet_Blueprint_Install.label>文件柜（蓝图）</ANON2FileCabinet_Blueprint_Install.label>
+  <ANON2FileCabinet_Frame.label>文件柜（建造中）</ANON2FileCabinet_Frame.label>
+  
 
 </LanguageData>

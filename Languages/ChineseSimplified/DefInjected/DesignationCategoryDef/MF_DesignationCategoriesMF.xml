@@ -1,8 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Lighting.label>照明</Lighting.label>
+  <!-- More Furniture -->
 
-	<Lighting.description>照明建筑。</Lighting.description>
+  <ANON2MF.label>更多家具</ANON2MF.label>
+  <ANON2MF.description>更多的家具建筑。</ANON2MF.description>
+
 
 </LanguageData>

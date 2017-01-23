@@ -1,56 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<!-- 	<TorchLamp.label>火炬灯</TorchLamp.label>
+  <!-- end table light -->
 
-	<TorchLamp.description>一种用于照明区域的木手电筒。可以自动加油的木材。产生少量的热量。</TorchLamp.description>
- -->
-	<EndTableLight.label>床头柜（台灯）</EndTableLight.label>
+  <ANON2EndTableLight.label>座台灯</ANON2EndTableLight.label>
+  <ANON2EndTableLight.description>这个带有小桌子的灯具非常适合与床一起搭配使用，放在旁边能有效增加舒适度与休息度。</ANON2EndTableLight.description>
+  <ANON2EndTableLight_Blueprint.label>座台灯（蓝图）</ANON2EndTableLight_Blueprint.label>
+  <ANON2EndTableLight_Blueprint_Install.label>座台灯（蓝图）</ANON2EndTableLight_Blueprint_Install.label>
+  <ANON2EndTableLight_Frame.label>座台灯（建造中）</ANON2EndTableLight_Frame.label>
 
-	<EndTableLight.description>这个小小的柜子和床是绝配。当挨着床放的时候，它会增加舒适度和休息的效率。上面有一盏台灯。</EndTableLight.description>
 
-	<!-- <SunLamp.label>日光灯</SunLamp.label>
+  <!-- standing lamp (magenta) -->
 
-	<SunLamp.description>照亮一个足够明亮的区域种植庄稼，但消耗了大量的电力。</SunLamp.description> -->
+  <StandingLamp_Magenta.label>落地灯-红</StandingLamp_Magenta.label>
+  <StandingLamp_Magenta.description>能够把一片区域照亮为红色的落地灯。</StandingLamp_Magenta.description>
+  <StandingLamp_Magenta_Blueprint.label>落地灯-红（蓝图）</StandingLamp_Magenta_Blueprint.label>
+  <StandingLamp_Magenta_Blueprint_Install.label>落地灯-红（蓝图）</StandingLamp_Magenta_Blueprint_Install.label>
+  <StandingLamp_Magenta_Frame.label>落地灯-红（建造中）</StandingLamp_Magenta_Frame.label>
 
-	<!-- <StandingLamp.label>站在灯</StandingLamp.label>
 
-	<StandingLamp.description>照亮一个地区的明灯。</StandingLamp.description>
+  <!-- standing lamp (yellow) -->
 
-	<StandingLamp_Red.label>站灯（红）</StandingLamp_Red.label>
+  <StandingLamp_Yellow.label>落地灯-黄</StandingLamp_Yellow.label>
+  <StandingLamp_Yellow.description>能够把一片区域照亮为黄色的落地灯。</StandingLamp_Yellow.description>
+  <StandingLamp_Yellow_Blueprint.label>落地灯-黄（蓝图）</StandingLamp_Yellow_Blueprint.label>
+  <StandingLamp_Yellow_Blueprint_Install.label>落地灯-黄（蓝图）</StandingLamp_Yellow_Blueprint_Install.label>
+  <StandingLamp_Yellow_Frame.label>落地灯-黄（建造中）</StandingLamp_Yellow_Frame.label>
 
-	<StandingLamp_Red.description>用红色照亮一个地区的站着的灯。</StandingLamp_Red.description>
 
-	<StandingLamp_Green.label>站灯（绿色）</StandingLamp_Green.label>
+  <!-- standing lamp (orange) -->
 
-	<StandingLamp_Green.description>绿色的一个区域的立着灯。</StandingLamp_Green.description>
+  <StandingLamp_Orange.label>落地灯-橙</StandingLamp_Orange.label>
+  <StandingLamp_Orange.description>能够把一片区域照亮为橙色的落地灯。</StandingLamp_Orange.description>
+  <StandingLamp_Orange_Blueprint.label>落地灯-橙（蓝图）</StandingLamp_Orange_Blueprint.label>
+  <StandingLamp_Orange_Blueprint_Install.label>落地灯-橙（蓝图）</StandingLamp_Orange_Blueprint_Install.label>
+  <StandingLamp_Orange_Frame.label>落地灯-橙（建造中）</StandingLamp_Orange_Frame.label>
 
-	<StandingLamp_Blue.label>站灯（蓝色）</StandingLamp_Blue.label>
 
-	<StandingLamp_Blue.description>用蓝色照亮一个地区的站着的灯。</StandingLamp_Blue.description>
- -->
-	<StandingLamp_Magenta.label>落地灯（红色）</StandingLamp_Magenta.label>
+  <!-- standing lamp (purple) -->
 
-	<StandingLamp_Magenta.description>能够把一片区域照亮的落地灯。</StandingLamp_Magenta.description>
+  <StandingLamp_Purple.label>落地灯-紫</StandingLamp_Purple.label>
+  <StandingLamp_Purple.description>能够把一片区域照亮为紫色的落地灯。</StandingLamp_Purple.description>
+  <StandingLamp_Purple_Blueprint.label>落地灯-紫（蓝图）</StandingLamp_Purple_Blueprint.label>
+  <StandingLamp_Purple_Blueprint_Install.label>落地灯-紫（蓝图）</StandingLamp_Purple_Blueprint_Install.label>
+  <StandingLamp_Purple_Frame.label>落地灯-紫（建造中）</StandingLamp_Purple_Frame.label>
 
-	<StandingLamp_Yellow.label>落地灯（黄色）</StandingLamp_Yellow.label>
 
-	<StandingLamp_Yellow.description>能够把一片区域照亮的落地灯。</StandingLamp_Yellow.description>
+  <!-- standing lamp (aqua) -->
 
-	<StandingLamp_Orange.label>落地灯（橙色）</StandingLamp_Orange.label>
+  <StandingLamp_Aqua.label>落地灯-青</StandingLamp_Aqua.label>
+  <StandingLamp_Aqua.description>能够把一片区域照亮为青色的落地灯。</StandingLamp_Aqua.description>
+  <StandingLamp_Aqua_Blueprint.label>落地灯-青（蓝图）</StandingLamp_Aqua_Blueprint.label>
+  <StandingLamp_Aqua_Blueprint_Install.label>落地灯-青（蓝图）</StandingLamp_Aqua_Blueprint_Install.label>
+  <StandingLamp_Aqua_Frame.label>落地灯-青（建造中）</StandingLamp_Aqua_Frame.label>
 
-	<StandingLamp_Orange.description>能够把一片区域照亮的落地灯。</StandingLamp_Orange.description>
 
-	<StandingLamp_Purple.label>落地灯（紫色）</StandingLamp_Purple.label>
+  <!-- standing lamp (lime) -->
 
-	<StandingLamp_Purple.description>能够把一片区域照亮的落地灯。</StandingLamp_Purple.description>
+  <StandingLamp_Lime.label>落地灯-灰</StandingLamp_Lime.label>
+  <StandingLamp_Lime.description>能够把一片区域照亮为灰色的落地灯。</StandingLamp_Lime.description>
+  <StandingLamp_Lime_Blueprint.label>落地灯-灰（蓝图）</StandingLamp_Lime_Blueprint.label>
+  <StandingLamp_Lime_Blueprint_Install.label>落地灯-灰（蓝图）</StandingLamp_Lime_Blueprint_Install.label>
+  <StandingLamp_Lime_Frame.label>落地灯-灰（建造中）</StandingLamp_Lime_Frame.label>
 
-	<StandingLamp_Aqua.label>落地灯（浅绿）</StandingLamp_Aqua.label>
-
-	<StandingLamp_Aqua.description>能够把一片区域照亮的落地灯。</StandingLamp_Aqua.description>
-
-	<StandingLamp_Lime.label>落地灯（青色）</StandingLamp_Lime.label>
-
-	<StandingLamp_Lime.description>能够把一片区域照亮的落地灯。</StandingLamp_Lime.description>
 
 </LanguageData>

@@ -1,28 +1,58 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!-- <Bed.label>床</Bed.label>
+  <!-- bed -->
 
-	<Bed.Description>一种用于休息的框架上的舒适的床垫和床单。</Bed.Description>
+  <!--[Core] <Bed.label>bed</Bed.label>-->
+  <!--[Core] <Bed.description>A cozy mattress and sheets on a frame for resting.</Bed.description>-->
+  <Bed_Blueprint.label>单人床（蓝图）</Bed_Blueprint.label>
+  <Bed_Blueprint_Install.label>单人床（蓝图）</Bed_Blueprint_Install.label>
+  <Bed_Frame.label>单人床（建造中）</Bed_Frame.label>
 
-	<DoubleBed.label>double bed</DoubleBed.label>
 
-	<DoubleBed.Description>一个适合两个人的简单的双层床。</DoubleBed.Description>
+  <!-- double bed -->
 
-	<RoyalBed.label>御床</RoyalBed.label>
+  <!--[Core] <DoubleBed.label>double bed</DoubleBed.label>-->
+  <!--[Core] <DoubleBed.description>A simple double-wide bed that fits two people.</DoubleBed.description>-->
+  <DoubleBed_Blueprint.label>普通双人床（蓝图）</DoubleBed_Blueprint.label>
+  <DoubleBed_Blueprint_Install.label>普通双人床（蓝图）</DoubleBed_Blueprint_Install.label>
+  <DoubleBed_Frame.label>普通双人床（建造中）</DoubleBed_Frame.label>
 
-	<RoyalBed.Description>一个豪华的镶金的床适合高贵的。非常舒适和美丽。适合两。</RoyalBed.Description>
 
-	<HospitalBed.label>医院的床上</HospitalBed.label>
+  <!-- royal bed -->
 
-	<HospitalBed.Description>专门为受伤的人设计的床。提高了成功的医疗工作的机会。</HospitalBed.Description>
- -->
-	<Dresser.label>梳妆台</Dresser.label>
+  <!--[Core] <RoyalBed.label>royal bed</RoyalBed.label>-->
+  <!--[Core] <RoyalBed.description>A luxurious gold-inlaid bed fit for the highborn. Very comfy and beautiful. Fits two.</RoyalBed.description>-->
+  <RoyalBed_Blueprint.label>豪华双人床（蓝图）</RoyalBed_Blueprint.label>
+  <RoyalBed_Blueprint_Install.label>豪华双人床（蓝图）</RoyalBed_Blueprint_Install.label>
+  <RoyalBed_Frame.label>豪华双人床（建造中）</RoyalBed_Frame.label>
 
-	<Dresser.description>一个用来存放殖民者私人物品的地方。挨着床放置时，它会增加舒适度和休息的效率。</Dresser.description>
 
-	<EndTable.label>床头柜</EndTable.label>
+  <!-- hospital bed -->
 
-	<EndTable.description>这个小小的柜子和床是绝配。当挨着床放的时候，它会增加舒适度和休息的效率。</EndTable.description>
+  <!--[Core] <HospitalBed.label>hospital bed</HospitalBed.label>-->
+  <!--[Core] <HospitalBed.description>A bed specially designed for injured people. Improves chance of successful medical work.</HospitalBed.description>-->
+  <HospitalBed_Blueprint.label>医疗床（蓝图）</HospitalBed_Blueprint.label>
+  <HospitalBed_Blueprint_Install.label>医疗床（蓝图）</HospitalBed_Blueprint_Install.label>
+  <HospitalBed_Frame.label>医疗床（建造中）</HospitalBed_Frame.label>
+
+
+  <!-- dresser -->
+
+  <ANON2Dresser.label>梳妆台</ANON2Dresser.label>
+  <ANON2Dresser.description>一个存放私人物品的地方。搭配一张床它会增加舒适度和休息的有效性。</ANON2Dresser.description>
+  <ANON2Dresser_Blueprint.label>梳妆台（蓝图）</ANON2Dresser_Blueprint.label>
+  <ANON2Dresser_Blueprint_Install.label>梳妆台（蓝图）</ANON2Dresser_Blueprint_Install.label>
+  <ANON2Dresser_Frame.label>梳妆台（建造中）</ANON2Dresser_Frame.label>
+
+
+  <!-- end table -->
+
+  <ANON2EndTable.label>床头柜</ANON2EndTable.label>
+  <ANON2EndTable.description>这个小桌子非常适合与床一起搭配使用，放在旁边能有效增加舒适度与休息度。</ANON2EndTable.description>
+  <ANON2EndTable_Blueprint.label>床头柜（蓝图）</ANON2EndTable_Blueprint.label>
+  <ANON2EndTable_Blueprint_Install.label>床头柜（蓝图）</ANON2EndTable_Blueprint_Install.label>
+  <ANON2EndTable_Frame.label>床头柜（建造中）</ANON2EndTable_Frame.label>
+  
 
 </LanguageData>
