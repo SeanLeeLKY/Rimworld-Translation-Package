@@ -58,7 +58,7 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 增强开发-护盾系统  | ED-ShieldsBasic | http://steamcommunity.com/sharedfiles/filedetails/?id=726884610|	ED
 增强开发-激光钻孔 | ED-Laser Drill |http://steamcommunity.com/sharedfiles/filedetails/?id=722086956	|	ED
 增强开发-射击墙 | ED-Embrasures |http://steamcommunity.com/sharedfiles/filedetails/?id=722085442	|	ED
-更多家具 |More Furniture |http://steamcommunity.com/sharedfiles/filedetails/?id=739089840 | MF
+更多家具 |More Furniture |http://steamcommunity.com/sharedfiles/filedetails/?id=739089840 | MF| A16
 叙事者- H.P.洛夫克拉夫特|H.P. Lovecraft Storyteller  |http://steamcommunity.com/sharedfiles/filedetails/?id=763418547| HPL
 叙事者- 菲尔·布罗姆林 |Storyteller - Phil Bromlin |http://steamcommunity.com/sharedfiles/filedetails/?id=747171307| PB
 叙事者- 艾恩·丹 |Iron Dan  |http://steamcommunity.com/sharedfiles/filedetails/?id=731434226 | ID
