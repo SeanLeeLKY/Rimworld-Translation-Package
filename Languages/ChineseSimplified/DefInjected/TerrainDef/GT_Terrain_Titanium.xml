@@ -1,15 +1,16 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  
-<TitaniumTile.Label>钛合金地砖</TitaniumTile.Label>
-<TitaniumTile.Description>钛合金地砖, 闪耀世界专享.</TitaniumTile.Description>
- 
-	<AlphaTile.Label>阿尔法聚酯纤维地砖</AlphaTile.Label>
 
-	<AlphaTile.Description>阿尔法聚酯纤维地砖, 太空飞船风格。</AlphaTile.Description>
+  <!-- Tile -->
 
-	<BetaTile.Label>贝塔聚酯纤维地砖</BetaTile.Label>
+  <TitaniumTile.label>钛合金地砖</TitaniumTile.label>
+  <TitaniumTile.description>钛合金地砖，给人闪耀世界的感觉。</TitaniumTile.description>
 
-	<BetaTile.Description>贝塔聚酯纤维地砖, 太空飞船风格。</BetaTile.Description>
+  <AlphaTile.label>阿尔法纤维地砖</AlphaTile.label>
+  <AlphaTile.description>阿尔法纤维地砖，给人外星人飞船的感觉。</AlphaTile.description>
+
+  <BetaTile.label>贝塔纤维地砖</BetaTile.label>
+  <BetaTile.description>贝塔纤维地砖，给人外星人飞船的感觉。</BetaTile.description>
+
 
 </LanguageData>

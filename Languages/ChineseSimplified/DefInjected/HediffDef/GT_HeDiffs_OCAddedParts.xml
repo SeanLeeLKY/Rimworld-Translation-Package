@@ -1,6 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <OCExo.label>奥里恩外骨骼</OCExo.label>
+  <!-- Added body parts -->
+
+  <OCExo.label>猎户座外骨骼</OCExo.label>
+
 
 </LanguageData>

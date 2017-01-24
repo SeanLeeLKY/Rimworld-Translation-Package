@@ -1,39 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<HeatStab.label>刺伤</HeatStab.label>
+  <!-- Injuries -->
 
-<HeatStab.injuryProps.DestroyedLabel>融化掉</HeatStab.injuryProps.DestroyedLabel>
-<HeatStab.injuryProps.DestroyedOutLabel>融化了</HeatStab.injuryProps.DestroyedOutLabel>
+  <HeatStab.label>刺伤</HeatStab.label>
+  <HeatStab.comps.0.labelTendedWell>已包扎</HeatStab.comps.0.labelTendedWell>
+  <HeatStab.comps.0.labelTendedWellInner>已缝合</HeatStab.comps.0.labelTendedWellInner>
+  <HeatStab.comps.0.labelSolidTendedWell>已固定</HeatStab.comps.0.labelSolidTendedWell>
+  <HeatStab.comps.2.oldLabel>刺伤疤痕</HeatStab.comps.2.oldLabel>
+  <HeatStab.injuryProps.destroyedLabel>被熔化</HeatStab.injuryProps.destroyedLabel>
+  <HeatStab.injuryProps.destroyedOutLabel>被熔化</HeatStab.injuryProps.destroyedOutLabel>
 
-<rep>
-	<path>HeatStab.comps[0].labelTreated</path>
-	<trans>已简单包扎</trans>
-</rep>
-<rep>
-	<path>HeatStab.comps[0].labelTreatedWellInner</path>
-	<trans>已缝合</trans>
-</rep>
-<rep>
-	<path>HeatStab.comps[0].labelTreatedInner</path>
-	<trans>已简单缝合</trans>
-</rep>
-<rep>
-	<path>HeatStab.comps[0].labelSolidTreatedWell</path>
-	<trans>已固定</trans>
-</rep>
-<rep>
-	<path>HeatStab.comps[0].labelSolidTreated</path>
-	<trans>已简单固定</trans>
-</rep>
-<rep>
-	<path>HeatStab.comps[2].oldLabel</path>
-	<trans>刺伤的疤痕</trans>
-</rep>
-		
-<rep>
-<path>HeatStab.comps[0].labelTreatedWell</path>
-<trans>已包扎</trans>
-</rep>
 
 </LanguageData>

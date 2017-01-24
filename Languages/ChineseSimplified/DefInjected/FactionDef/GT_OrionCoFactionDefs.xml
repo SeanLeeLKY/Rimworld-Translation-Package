@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<OrionCo.label>奥里恩集团</OrionCo.label>
-<OrionCo.description>奥里恩集团</OrionCo.description>
-<OrionCo.pawnsPlural>奥里恩集团士兵</OrionCo.pawnsPlural>
-<OrionCo.fixedName>奥里恩军事基地</OrionCo.fixedName>
-		
-	<OrionCo.leaderTitle>董事</OrionCo.leaderTitle>
+  <OrionCo.label>猎户座公司</OrionCo.label>
+  <OrionCo.description>猎户座公司。</OrionCo.description>
+  <OrionCo.pawnsPlural>猎户座公司士兵</OrionCo.pawnsPlural>
+  <OrionCo.fixedName>猎户座有限公司</OrionCo.fixedName>
+  <OrionCo.leaderTitle>总监</OrionCo.leaderTitle>
+
 
 </LanguageData>

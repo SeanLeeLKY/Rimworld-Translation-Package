@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-		<Gun_EMRifle.label>电磁轨道枪</Gun_EMRifle.label>
-		<Gun_EMRifle.description>电磁轨道步枪,最新的远程武器,极其精准和暴力。</Gun_EMRifle.description>
+  <Bullet_EMRifle.label>EMRG子弹</Bullet_EMRifle.label>
 
-	
-	<Bullet_EMRifle.label>EM子弹</Bullet_EMRifle.label>
+  <Gun_EMRifle.label>EMRG-1</Gun_EMRifle.label>
+  <Gun_EMRifle.description>电磁轨道枪。最新式的远距离作战武器。威力极其强大。</Gun_EMRifle.description>
+
 
 </LanguageData>

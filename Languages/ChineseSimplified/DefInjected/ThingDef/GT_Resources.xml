@@ -1,39 +1,46 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<MagneticCoil.label>电磁线圈</MagneticCoil.label>
-<MagneticCoil.description>一种先进的磁线圈。除了电磁物理学家没人能制造。</MagneticCoil.description>
+  <!-- Titanium -->
 
-<Titanium.label>钛合金</Titanium.label>
-<Titanium.description>钛合金。多种稀有元素复杂混合后的合金，一种非常结实耐用的材料。完美应用在星际飞船和轨道太空电梯上…</Titanium.description>
-
-
-<Silicon.label>硅</Silicon.label>
-<Silicon.description>硅元素晶体，用来制造常用的电子元件。</Silicon.description>
+  <Titanium.label>钛合金</Titanium.label>
+  <Titanium.description>钛合金。融合稀有元素，制作非常坚固耐用的金属，抗腐蚀，并且抗高速冲击。对于星舰和轨道空间升降梯而言是完美的材料……</Titanium.description>
+  <Titanium.stuffProps.stuffAdjective>钛合金</Titanium.stuffProps.stuffAdjective>
 
 
-<AlphaPoly.label>阿尔法聚酯纤维</AlphaPoly.label>
-<AlphaPoly.description>人工构建的第一代材料，自动组合的致密物质. 人造品,极为罕见的材料，因为非常昂贵无法大规模生成.</AlphaPoly.description>
+  <!-- AlphaPoly -->
 
-   
-<BetaPoly.label>贝塔聚酯纤维</BetaPoly.label>
-<BetaPoly.description>人工构建的第二代材料, 自动组合的致密物质. 人造品,极为罕见的材料，因为非常昂贵无法大规模生成.</BetaPoly.description>
-
-
-<ComputerComp.label>电脑元件</ComputerComp.label>
-<ComputerComp.description>先进的电子线路板。高级设备的必须品，光靠简单的机械部件是不够的。</ComputerComp.description>
+  <AlphaPoly.label>阿尔法纤维</AlphaPoly.label>
+  <AlphaPoly.description>人工构建原子级组合的致密物质的第一次迭代产物。这种人造的、极其稀有的金属，只能由物质合成机生产，适合在恒星色球层建造结构体。</AlphaPoly.description>
+  <AlphaPoly.stuffProps.stuffAdjective>阿尔法</AlphaPoly.stuffProps.stuffAdjective>
 
 
-<Ethanol.label>乙醇</Ethanol.label>
-<Ethanol.description>纯乙醇，高纯度酒精一般用于药物和大多数的周末…</Ethanol.description>
+  <!-- BetaPoly -->
+
+  <BetaPoly.label>贝塔纤维</BetaPoly.label>
+  <BetaPoly.description>人工构建原子级组合的致密物质的第二次迭代产物。这种人造的、极其稀有的金属，太过昂贵而无法大规模生产，作为材料仅被用于不可毁坏的太空服、无法防御的动能弹头和控制微型黑洞。</BetaPoly.description>
+  <BetaPoly.stuffProps.stuffAdjective>贝塔</BetaPoly.stuffProps.stuffAdjective>
 
 
-<Bandage.label>绷带</Bandage.label>
-<Bandage.description>布质绷带，包扎伤口以减少血液流失。</Bandage.description>
+  <!-- Components -->
 
+  <MagneticCoil.label>电磁线圈</MagneticCoil.label>
+  <MagneticCoil.description>先进的电磁线圈。超出任何人的制作技能，除了电磁物理学家。</MagneticCoil.description>
 
-<Serum.label>血浆</Serum.label>
-<Serum.description>制造的血浆，在闪耀世界一般用于治疗用途，当身体大量缺血时使用。</Serum.description>
+  <Silicon.label>硅</Silicon.label>
+  <Silicon.description>元素硅单质，使用于大多数电子元件。</Silicon.description>
+
+  <ComputerComp.label>电脑元件</ComputerComp.label>
+  <ComputerComp.description>先进的电路板。制作高级的机械所必须的。</ComputerComp.description>
+
+  <Ethanol.label>乙醇</Ethanol.label>
+  <Ethanol.description>纯乙醇，用于药品的烈性酒精，以及大多数周末……</Ethanol.description>
+
+  <Bandage.label>绷带</Bandage.label>
+  <Bandage.description>布绷带，包扎伤口止血的必需品。</Bandage.description>
+
+  <Serum.label>血清</Serum.label>
+  <Serum.description>人造血清，在闪耀世界行星上，当身体复原不可用时被用于治疗。</Serum.description>
+
 
 </LanguageData>

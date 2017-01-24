@@ -1,50 +1,63 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<!--
+  <!-- Doors -->
 
-<DoorTitanium.label>钛合金动力门</DoorTitanium.label>
-<DoorTitanium.description>隔离房间。电动装置自动开合，钛合金装甲保护更加坚固。</DoorTitanium.description>
-
-<WallTitanium.label>钛合金墙</WallTitanium.label>
-<WallTitanium.description>内置电源导管的钛合金墙壁。非常坚固、昂贵、建造缓慢和抗燃性。</WallTitanium.description>
-
--->
+  <BlastDoor.label>防爆门</BlastDoor.label>
+  <BlastDoor.description>分隔房间。电力驱动并且非常坚固。目的在于抵御轨道动能轰炸……</BlastDoor.description>
+  <BlastDoor_Blueprint.label>防爆门（蓝图）</BlastDoor_Blueprint.label>
+  <BlastDoor_Frame.label>防爆门（建造中）</BlastDoor_Frame.label>
 
 
-<BlastDoor.label>防爆门</BlastDoor.label>
-<BlastDoor.description>分隔房间。电动开启和令人难以置信的坚固。用以分离房间。需供电，且非常坚硬。甚至可承受轨道炮级别的动能轰击…</BlastDoor.description>
+  <!-- Walls -->
+
+  <!--[Core] <Wall.label>wall</Wall.label>-->
+  <!--[Core] <Wall.description>An impassable wall. Capable of holding up a roof.</Wall.description>-->
+  <!--[Core] <Wall_Blueprint.label>wall（蓝图）</Wall_Blueprint.label>-->
+  <!--[Core] <Wall_Frame.label>wall（建造中）</Wall_Frame.label>-->
+
+  <WallWindow.label>墙（带窗）</WallWindow.label>
+  <WallWindow.description>带有防弹窗体和电缆的墙。</WallWindow.description>
+  <WallWindow_Blueprint.label>墙（带窗）（蓝图）</WallWindow_Blueprint.label>
+  <WallWindow_Frame.label>墙（带窗）（建造中）</WallWindow_Frame.label>
 
 
-<WallWindow.label>墙(窗户)</WallWindow.label>
-<WallWindow.description>一面内置电缆的墙，带有透光的窗户.</WallWindow.description>
+  <!-- Lighted -->
 
+  <WallLight_White.label>壁灯</WallLight_White.label>
+  <WallLight_White.description>带灯的墙，用于不适合放置落地灯的走廊。</WallLight_White.description>
+  <WallLight_White_Blueprint.label>壁灯（蓝图）</WallLight_White_Blueprint.label>
+  <WallLight_White_Frame.label>壁灯（建造中）</WallLight_White_Frame.label>
 
-<WallLight_White.label>墙(白色壁灯)</WallLight_White.label>
-<WallLight_White.description>一面带有壁灯的墙,适用于走廊位置不适合安装灯的地方.</WallLight_White.description>
+  <WallLight_Red.label>壁灯（红）</WallLight_Red.label>
+  <WallLight_Red.description>带灯的墙，用于不适合放置落地灯的走廊。</WallLight_Red.description>
+  <WallLight_Red_Blueprint.label>壁灯（红）（蓝图）</WallLight_Red_Blueprint.label>
+  <WallLight_Red_Frame.label>壁灯（红）（建造中）</WallLight_Red_Frame.label>
 
+  <WallLight_Green.label>壁灯（绿）</WallLight_Green.label>
+  <WallLight_Green.description>带灯的墙，用于不适合放置落地灯的走廊。</WallLight_Green.description>
+  <WallLight_Green_Blueprint.label>壁灯（绿）（蓝图）</WallLight_Green_Blueprint.label>
+  <WallLight_Green_Frame.label>壁灯（绿）（建造中）</WallLight_Green_Frame.label>
 
-<WallLight_Red.label>墙(红色壁灯)</WallLight_Red.label>
-<WallLight_Red.description>一面带有壁灯的墙,适用于走廊位置不适合安装灯的地方.</WallLight_Red.description>
+  <WallLight_Blue.label>壁灯（蓝）</WallLight_Blue.label>
+  <WallLight_Blue.description>带灯的墙，用于不适合放置落地灯的走廊。</WallLight_Blue.description>
+  <WallLight_Blue_Blueprint.label>壁灯（蓝）（蓝图）</WallLight_Blue_Blueprint.label>
+  <WallLight_Blue_Frame.label>壁灯（蓝）（建造中）</WallLight_Blue_Frame.label>
 
+  <WallLight_Yellow.label>壁灯（黄）</WallLight_Yellow.label>
+  <WallLight_Yellow.description>带灯的墙，用于不适合放置落地灯的走廊。</WallLight_Yellow.description>
+  <WallLight_Yellow_Blueprint.label>壁灯（黄）（蓝图）</WallLight_Yellow_Blueprint.label>
+  <WallLight_Yellow_Frame.label>壁灯（黄）（建造中）</WallLight_Yellow_Frame.label>
 
-<WallLight_Green.label>墙(绿色壁灯)</WallLight_Green.label>
-<WallLight_Green.description>一面带有壁灯的墙,适用于走廊位置不适合安装灯的地方.</WallLight_Green.description>
+  <WallLight_Purple.label>壁灯（紫）</WallLight_Purple.label>
+  <WallLight_Purple.description>带灯的墙，用于不适合放置落地灯的走廊。</WallLight_Purple.description>
+  <WallLight_Purple_Blueprint.label>壁灯（紫）（蓝图）</WallLight_Purple_Blueprint.label>
+  <WallLight_Purple_Frame.label>壁灯（紫）（建造中）</WallLight_Purple_Frame.label>
 
+  <WallLight_Cyan.label>壁灯（青）</WallLight_Cyan.label>
+  <WallLight_Cyan.description>带灯的墙，用于不适合放置落地灯的走廊。</WallLight_Cyan.description>
+  <WallLight_Cyan_Blueprint.label>壁灯（青）（蓝图）</WallLight_Cyan_Blueprint.label>
+  <WallLight_Cyan_Frame.label>壁灯（青）（建造中）</WallLight_Cyan_Frame.label>
 
-<WallLight_Blue.label>墙(蓝色壁灯)</WallLight_Blue.label>
-<WallLight_Blue.description>一面带有壁灯的墙,适用于走廊位置不适合安装灯的地方.</WallLight_Blue.description>
-
-
-<WallLight_Yellow.label>墙(黄色壁灯)</WallLight_Yellow.label>
-<WallLight_Yellow.description>一面带有壁灯的墙,适用于走廊位置不适合安装灯的地方.</WallLight_Yellow.description>
- 
-
-<WallLight_Purple.label>墙(紫色壁灯)</WallLight_Purple.label>
-<WallLight_Purple.description>一面带有壁灯的墙,适用于走廊位置不适合安装灯的地方.</WallLight_Purple.description>
-
-
-<WallLight_Cyan.label>墙(青色壁灯)</WallLight_Cyan.label>
-<WallLight_Cyan.description>一面带有壁灯的墙,适用于走廊位置不适合安装灯的地方.</WallLight_Cyan.description>
 
 </LanguageData>
