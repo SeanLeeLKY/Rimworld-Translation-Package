@@ -1,7 +1,10 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-<ImpactionCharge.label>钻地炸药</ImpactionCharge.label>
-<ImpactionCharge.description>命令引爆。制造一个定向爆破的等离子体，从而影响到基岩。用于小行星采矿和地下资源的探测。可以开采蒸汽间歇喷泉。</ImpactionCharge.description>
+  <ImpactionCharge.label>冲击炸弹</ImpactionCharge.label>
+  <ImpactionCharge.description>遥控引爆。造成冲入岩床的等离子定向爆炸。用于小行星开采和地下资源勘探。</ImpactionCharge.description>
+  <ImpactionCharge_Blueprint.label>冲击炸弹（蓝图）</ImpactionCharge_Blueprint.label>
+  <ImpactionCharge_Frame.label>冲击炸弹（建造中）</ImpactionCharge_Frame.label>
+
 
 </LanguageData>
