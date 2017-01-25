@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AIPawn_RechargeStation.label>充电站</AIPawn_RechargeStation.label>
+  <AIPawn_RechargeStation.description>移动人工智能的充电站。</AIPawn_RechargeStation.description>
+
+  <AIPawn_RechargeStation2x.label>充电站（大）</AIPawn_RechargeStation2x.label>
+  <AIPawn_RechargeStation2x.description>移动人工智能的充电站。</AIPawn_RechargeStation2x.description>
+
+  <AIPawn_NaniteAssembler.label>纳米修复仪</AIPawn_NaniteAssembler.label>
+  <AIPawn_NaniteAssembler.description>提供纳米修复机器人，修复人工智能的损伤。</AIPawn_NaniteAssembler.description>
+
+
+</LanguageData>
