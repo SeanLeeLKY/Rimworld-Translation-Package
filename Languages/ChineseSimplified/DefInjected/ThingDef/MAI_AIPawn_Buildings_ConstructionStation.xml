@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-
-	<AIPawn_ConstructionStation.Label>人工智能机器人自动装配机</AIPawn_ConstructionStation.Label>
-
-	<AIPawn_ConstructionStation.Description>这是一个自动的汇编程序装配机，用于建造人工智能机器人。</AIPawn_ConstructionStation.Description>
-
-</LanguageData>
