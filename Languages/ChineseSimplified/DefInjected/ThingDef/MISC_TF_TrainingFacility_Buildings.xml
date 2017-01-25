@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShootingRangeTarget.label>射击标靶</ShootingRangeTarget.label>
+  <ShootingRangeTarget.description>射击标靶是一个给你训练殖民者手眼协调能力的地方。</ShootingRangeTarget.description>
+
+  <MartialArtsTarget.label>格斗假人</MartialArtsTarget.label>
+  <MartialArtsTarget.description>格斗假人是一个给你训练徒手或器械格斗技术的地方。</MartialArtsTarget.description>
+
+
+</LanguageData>
