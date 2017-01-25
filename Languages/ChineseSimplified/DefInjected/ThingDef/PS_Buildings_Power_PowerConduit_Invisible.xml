@@ -1,10 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-  <!--
-	<PowerSwitchInvisible.label>隐藏式电路控制器</PowerSwitchInvisible.label>
-	<PowerSwitchInvisible.description>控制电路的开启/关闭。 电路控制器被隐藏起来，平时看不见的。</PowerSwitchInvisible.description>
--->	
-	<PowerConduitInvisible.label>隐藏式电缆</PowerConduitInvisible.label>
-	<PowerConduitInvisible.description>一组用于传输电力的电缆。电缆被隐藏起来，平时看不见的。</PowerConduitInvisible.description>
-	
+
+  <PowerConduitInvisible.label>电缆（隐藏）</PowerConduitInvisible.label>
+  <PowerConduitInvisible.description>一组用于传输电力的电缆。这种是埋设于地下的型号。</PowerConduitInvisible.description>
+
+
 </LanguageData>

@@ -1,8 +1,0 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<LanguageData>
-
-	
-<ResearchTimerSwitch.label>PS-定时电路控制器</ResearchTimerSwitch.label>
-<ResearchTimerSwitch.description>研究一个定时的电路控制器。允许在特定的时间自动电源开关</ResearchTimerSwitch.description>
-<ResearchTimerSwitch.descriptionDiscovered>现在可以在你的电路控制器上配置特定的时间里电路开还是关了。\n\n注意:不要将你的灯、炮台等直接连到控制器上，需要通过一段电缆连接！</ResearchTimerSwitch.descriptionDiscovered>
-</LanguageData>
