@@ -24,7 +24,7 @@
 
   <Default_State_Name>[未命名]</Default_State_Name>
 
-  <Status_Message_Restore>已经载MOD列表</Status_Message_Restore>
+  <Status_Message_Restore>已加载MOD列表</Status_Message_Restore>
   <Status_Message_Backup>已保存MOD列表</Status_Message_Backup>
   <Status_Message_Restored>已恢复</Status_Message_Restored>
   <Status_Message_Imported>已导入</Status_Message_Imported>
