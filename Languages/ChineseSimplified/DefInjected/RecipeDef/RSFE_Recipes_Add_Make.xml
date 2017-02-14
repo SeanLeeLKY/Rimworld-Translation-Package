@@ -6,53 +6,53 @@
 
   <!-- Recipe Users: TableMachining -->
 
-  <Make_Apparel_ScrapArmor.label>Make scrap armor</Make_Apparel_ScrapArmor.label>
-  <Make_Apparel_ScrapArmor.description>Make scrap armor.</Make_Apparel_ScrapArmor.description>
-  <Make_Apparel_ScrapArmor.jobString>Making scrap armor.</Make_Apparel_ScrapArmor.jobString>
+  <Make_Apparel_ScrapArmor.label>制作废料护甲</Make_Apparel_ScrapArmor.label>
+  <Make_Apparel_ScrapArmor.description>制作废料护甲。</Make_Apparel_ScrapArmor.description>
+  <Make_Apparel_ScrapArmor.jobString>正在制作废料护甲。</Make_Apparel_ScrapArmor.jobString>
 
-  <Make_Apparel_FeralMail.label>Make feral mail</Make_Apparel_FeralMail.label>
-  <Make_Apparel_FeralMail.description>Make feral mail.</Make_Apparel_FeralMail.description>
-  <Make_Apparel_FeralMail.jobString>Making feral mail.</Make_Apparel_FeralMail.jobString>
+  <Make_Apparel_FeralMail.label>制作蛮族板甲</Make_Apparel_FeralMail.label>
+  <Make_Apparel_FeralMail.description>制作蛮族板甲。</Make_Apparel_FeralMail.description>
+  <Make_Apparel_FeralMail.jobString>正在制作蛮族板甲。</Make_Apparel_FeralMail.jobString>
 
-  <Make_Apparel_FeralExo.label>Make feral exosuit</Make_Apparel_FeralExo.label>
-  <Make_Apparel_FeralExo.description>Make feral exosuit.</Make_Apparel_FeralExo.description>
-  <Make_Apparel_FeralExo.jobString>Making feral exosuit.</Make_Apparel_FeralExo.jobString>
+  <Make_Apparel_FeralExo.label>制作蛮族外骨骼</Make_Apparel_FeralExo.label>
+  <Make_Apparel_FeralExo.description>制作蛮族外骨骼。</Make_Apparel_FeralExo.description>
+  <Make_Apparel_FeralExo.jobString>正在制作蛮族外骨骼。</Make_Apparel_FeralExo.jobString>
 
-  <Make_Apparel_FeralExoH.label>Make feral exosuit helmet</Make_Apparel_FeralExoH.label>
-  <Make_Apparel_FeralExoH.description>Make feral exosuit helmet.</Make_Apparel_FeralExoH.description>
-  <Make_Apparel_FeralExoH.jobString>Making feral exosuit helmet.</Make_Apparel_FeralExoH.jobString>
+  <Make_Apparel_FeralExoH.label>制作蛮族外骨骼头盔</Make_Apparel_FeralExoH.label>
+  <Make_Apparel_FeralExoH.description>制作蛮族外骨骼头盔。</Make_Apparel_FeralExoH.description>
+  <Make_Apparel_FeralExoH.jobString>正在制作蛮族外骨骼头盔。</Make_Apparel_FeralExoH.jobString>
 
-  <Make_Gun_Scraptooth.label>制作废土双枪</Make_Gun_Scraptooth.label>
-  <Make_Gun_Scraptooth.description>制作废土双枪</Make_Gun_Scraptooth.description>
-  <Make_Gun_Scraptooth.jobString>正在制作废土双枪。</Make_Gun_Scraptooth.jobString>
+  <Make_Gun_Scraptooth.label>制作蛮族双枪</Make_Gun_Scraptooth.label>
+  <Make_Gun_Scraptooth.description>制作蛮族双枪</Make_Gun_Scraptooth.description>
+  <Make_Gun_Scraptooth.jobString>正在制作蛮族双枪。</Make_Gun_Scraptooth.jobString>
 
-  <Make_Gun_ScatterStick.label>制作废土散铳</Make_Gun_ScatterStick.label>
-  <Make_Gun_ScatterStick.description>制作废土散铳</Make_Gun_ScatterStick.description>
-  <Make_Gun_ScatterStick.jobString>正在制作废土散铳。</Make_Gun_ScatterStick.jobString>
+  <Make_Gun_ScatterStick.label>制作蛮族散铳</Make_Gun_ScatterStick.label>
+  <Make_Gun_ScatterStick.description>制作蛮族散铳</Make_Gun_ScatterStick.description>
+  <Make_Gun_ScatterStick.jobString>正在制作蛮族散铳。</Make_Gun_ScatterStick.jobString>
 
-  <Make_Gun_Thrasher.label>制作废土突击步枪</Make_Gun_Thrasher.label>
-  <Make_Gun_Thrasher.description>制作废土突击步枪</Make_Gun_Thrasher.description>
-  <Make_Gun_Thrasher.jobString>正在制作废土突击步枪。</Make_Gun_Thrasher.jobString>
+  <Make_Gun_Thrasher.label>制作蛮族突击步枪</Make_Gun_Thrasher.label>
+  <Make_Gun_Thrasher.description>制作蛮族突击步枪</Make_Gun_Thrasher.description>
+  <Make_Gun_Thrasher.jobString>正在制作蛮族突击步枪。</Make_Gun_Thrasher.jobString>
 
-  <Make_Gun_Crucifier.label>制作废土鱼叉枪</Make_Gun_Crucifier.label>
-  <Make_Gun_Crucifier.description>制作废土鱼叉枪</Make_Gun_Crucifier.description>
-  <Make_Gun_Crucifier.jobString>正在制作废土鱼叉枪。</Make_Gun_Crucifier.jobString>
+  <Make_Gun_Crucifier.label>制作蛮族鱼叉枪</Make_Gun_Crucifier.label>
+  <Make_Gun_Crucifier.description>制作蛮族鱼叉枪</Make_Gun_Crucifier.description>
+  <Make_Gun_Crucifier.jobString>正在制作蛮族鱼叉枪。</Make_Gun_Crucifier.jobString>
 
-  <Make_Gun_Deathdealer.label>制作废土冲锋枪</Make_Gun_Deathdealer.label>
-  <Make_Gun_Deathdealer.description>制作废土冲锋枪</Make_Gun_Deathdealer.description>
-  <Make_Gun_Deathdealer.jobString>正在制作废土冲锋枪。</Make_Gun_Deathdealer.jobString>
+  <Make_Gun_Deathdealer.label>制作蛮族冲锋枪</Make_Gun_Deathdealer.label>
+  <Make_Gun_Deathdealer.description>制作蛮族冲锋枪</Make_Gun_Deathdealer.description>
+  <Make_Gun_Deathdealer.jobString>正在制作蛮族冲锋枪。</Make_Gun_Deathdealer.jobString>
 
-  <Make_Gun_Gnasher.label>制作废土钉枪</Make_Gun_Gnasher.label>
-  <Make_Gun_Gnasher.description>制作废土钉枪</Make_Gun_Gnasher.description>
-  <Make_Gun_Gnasher.jobString>正在制作废土钉枪。</Make_Gun_Gnasher.jobString>
+  <Make_Gun_Gnasher.label>制作蛮族钉枪</Make_Gun_Gnasher.label>
+  <Make_Gun_Gnasher.description>制作蛮族钉枪</Make_Gun_Gnasher.description>
+  <Make_Gun_Gnasher.jobString>正在制作蛮族钉枪。</Make_Gun_Gnasher.jobString>
 
-  <Make_Gun_Scorcher.label>制作废土火焰喷射器</Make_Gun_Scorcher.label>
-  <Make_Gun_Scorcher.description>制作废土火焰喷射器</Make_Gun_Scorcher.description>
-  <Make_Gun_Scorcher.jobString>正在制作废土火焰喷射器。</Make_Gun_Scorcher.jobString>
+  <Make_Gun_Scorcher.label>制作蛮族火焰喷射器</Make_Gun_Scorcher.label>
+  <Make_Gun_Scorcher.description>制作蛮族火焰喷射器</Make_Gun_Scorcher.description>
+  <Make_Gun_Scorcher.jobString>正在制作蛮族火焰喷射器。</Make_Gun_Scorcher.jobString>
 
-  <Make_Gun_SkullBuster.label>Make feral skullbuster</Make_Gun_SkullBuster.label>
-  <Make_Gun_SkullBuster.description>Make feral skullbuster.</Make_Gun_SkullBuster.description>
-  <Make_Gun_SkullBuster.jobString>Making feral skullbuster.</Make_Gun_SkullBuster.jobString>
+  <Make_Gun_SkullBuster.label>制作蛮族骷髅破坏者</Make_Gun_SkullBuster.label>
+  <Make_Gun_SkullBuster.description>制作蛮族骷髅破坏者。</Make_Gun_SkullBuster.description>
+  <Make_Gun_SkullBuster.jobString>正在制作蛮族骷髅破坏者。</Make_Gun_SkullBuster.jobString>
 
 
   <!-- Recipe Users: ElectricSmithy, FueledSmithy -->

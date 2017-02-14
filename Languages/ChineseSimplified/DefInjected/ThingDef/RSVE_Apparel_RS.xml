@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_TacVest.label>战术背心</Apparel_TacVest.label>
+  <Apparel_TacVest.description>符合人体工程学设计的护甲。能提升穿戴者的作战能力。</Apparel_TacVest.description>
+
+  <Apparel_TacHelmet.label>战术头盔</Apparel_TacHelmet.label>
+  <Apparel_TacHelmet.description>专门设计用于在战斗中保护头部的先进作战头盔。</Apparel_TacHelmet.description>
+
+  <Apparel_Exoframe.label>外骨骼</Apparel_Exoframe.label>
+  <Apparel_Exoframe.description>外骨骼是一种便携机械，由电机、气动系统提供动力，贴合肢体运动的连杆和液压装置，以用于辅助提升穿戴着的力量耐力。</Apparel_Exoframe.description>
+
+  <Apparel_ProtectiveGear.label>防护装甲</Apparel_ProtectiveGear.label>
+  <Apparel_ProtectiveGear.description>重型的、无动力辅助的防护装甲。虽然没有动力装甲的防御力，但这种护甲能覆盖你的全身。</Apparel_ProtectiveGear.description>
+
+  <Apparel_ProtectiveHelmet.label>防护头盔</Apparel_ProtectiveHelmet.label>
+  <Apparel_ProtectiveHelmet.description>重型作战头盔。保护整个头部。</Apparel_ProtectiveHelmet.description>
+
+
+</LanguageData>

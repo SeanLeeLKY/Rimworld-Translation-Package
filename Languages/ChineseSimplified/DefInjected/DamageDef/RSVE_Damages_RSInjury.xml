@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChargedBolt.label>子弹</ChargedBolt.label>
+  <ChargedBolt.deathMessage>{0}被射杀了！</ChargedBolt.deathMessage>
+
+
+</LanguageData>
