@@ -38,7 +38,7 @@ M&Co.矿物雷达 | M&Co. MMS | http://steamcommunity.com/sharedfiles/filedetail
 动物手术 | A Dog Said... | http://steamcommunity.com/sharedfiles/filedetails/?id=746425621|ADS|A16
 批量料理 | Feed The Colonists | http://steamcommunity.com/sharedfiles/filedetails/?id=729690064|FTC|A16
 更多炮塔 | More Vanilla Turrets | http://steamcommunity.com/sharedfiles/filedetails/?id=730528968|MVT|A16
-工业化 | Industrialisation  | http://steamcommunity.com/sharedfiles/filedetails/?id=741151997|IND
+工业化 | Industrialisation  | http://steamcommunity.com/sharedfiles/filedetails/?id=741151997|IND |A16
 组合家具  | Modular Tables | http://steamcommunity.com/sharedfiles/filedetails/?id=672718149|MT
 渔业  | FishIndustry |http://steamcommunity.com/sharedfiles/filedetails/?id=758810805|FI
 边缘军工-本体 |Rimsenal |http://steamcommunity.com/sharedfiles/filedetails/?id=725947920|RS|A16
