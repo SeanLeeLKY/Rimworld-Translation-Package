@@ -1,13 +1,13 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
-<!--suppress ALL -->
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-	
-	<Recruiter.label>招募访客及俘虏</Recruiter.label>
-	<Recruiter.verb>招募</Recruiter.verb>
-	<Recruiter.gerund>招募</Recruiter.gerund>
 
-	<Diplomat.label>招待访客</Diplomat.label>
-	<Diplomat.verb>聘用</Diplomat.verb>
-	<Diplomat.gerund>聘用</Diplomat.gerund>
+  <Recruiter.label>招募访客及俘虏</Recruiter.label>
+  <Recruiter.verb>招募</Recruiter.verb>
+  <Recruiter.gerund>招募</Recruiter.gerund>
+
+  <Diplomat.label>招待访客</Diplomat.label>
+  <Diplomat.verb>聘用</Diplomat.verb>
+  <Diplomat.gerund>聘用</Diplomat.gerund>
+
 
 </LanguageData>

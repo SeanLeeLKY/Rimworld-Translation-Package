@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <LowExpectations.stages.0.label>moderate expectations</LowExpectations.stages.0.label>-->
+  <!--[Core] <LowExpectations.stages.0.description>This place isn't quite rich. I can't expect to be totally pampered.</LowExpectations.stages.0.description>-->
+  <!--[Core] <LowExpectations.stages.1.label>low expectations</LowExpectations.stages.1.label>-->
+  <!--[Core] <LowExpectations.stages.1.description>This place doesn't have the wealth for many luxuries. I need to keep myself strong.</LowExpectations.stages.1.description>-->
+  <!--[Core] <LowExpectations.stages.2.label>very low expectations</LowExpectations.stages.2.label>-->
+  <!--[Core] <LowExpectations.stages.2.description>This place is poverty-stricken. I can't expect any comfort here; I need to keep myself strong.</LowExpectations.stages.2.description>-->
+  <!--[Core] <LowExpectations.stages.3.label>extremely low expectations</LowExpectations.stages.3.label>-->
+  <!--[Core] <LowExpectations.stages.3.description>I'm out here with little to no shelter. I'd better steel myself to survive.</LowExpectations.stages.3.description>-->
+
+  <GuestBedCount.stages.0.label>没有床</GuestBedCount.stages.0.label>
+  <GuestBedCount.stages.0.description>他们这儿连床都没有</GuestBedCount.stages.0.description>
+  <GuestBedCount.stages.1.label>床不够了</GuestBedCount.stages.1.label>
+  <GuestBedCount.stages.1.description>我们的房间应该有更多的床</GuestBedCount.stages.1.description>
+  <GuestBedCount.stages.2.label>足够的床</GuestBedCount.stages.2.label>
+  <GuestBedCount.stages.2.description>这儿为我们提供了足够的床</GuestBedCount.stages.2.description>
+  <GuestBedCount.stages.3.label>很多的床</GuestBedCount.stages.3.label>
+  <GuestBedCount.stages.3.description>哇哦！很多的床！</GuestBedCount.stages.3.description>
+
+
+</LanguageData>

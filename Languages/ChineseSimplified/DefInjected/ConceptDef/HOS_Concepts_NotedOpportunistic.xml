@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught through the learning readout, when opportunities arise -->
+
+  <GuestBeds.label>访客用床</GuestBeds.label>
+  <GuestBeds.helpText>为访客们特别建造的床铺，能够让访客对你的殖民地拥有更佳的体验。\n\n访客们都喜欢有一个舒适的睡眠环境。There are specific guest beds you can build for them.</GuestBeds.helpText>
+
+  <RecruitGuest.label>招募访客</RecruitGuest.label>
+  <RecruitGuest.helpText>你能够招募访客。\n\n招募访客会导致你和访客所在派系的好感度降低。确保你的殖民地至少有一个足够高社交技能的殖民者被分配为谈判协商工作。</RecruitGuest.helpText>
+
+
+</LanguageData>
