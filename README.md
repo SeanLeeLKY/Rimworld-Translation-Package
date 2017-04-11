@@ -72,6 +72,7 @@ AC制作增强 |AC-Enhanced Crafting|http://steamcommunity.com/sharedfiles/filed
 精品打造|QualityBuilder| http://steamcommunity.com/sharedfiles/filedetails/?id=754637870 | QB| A16
 T衣物扩展|[T] ExpandedCloth| http://steamcommunity.com/sharedfiles/filedetails/?id=726236520 | TEC|A16
 远行队集结点|CaravanSpot| http://steamcommunity.com/sharedfiles/filedetails/?id=826824646| CS|A16
+燃料发电机|Chemfuel Generator|http://steamcommunity.com/sharedfiles/filedetails/?id=824303869| CG|A16
 
 
 

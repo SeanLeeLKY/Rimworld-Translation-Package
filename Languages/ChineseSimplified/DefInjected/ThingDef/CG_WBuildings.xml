@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChemfuelGenerator.label>燃料发电机</ChemfuelGenerator.label>
+  <ChemfuelGenerator.description>利用化合燃料产生电力的发电机。必须手动添加燃料。</ChemfuelGenerator.description>
+  <ChemfuelGenerator_Blueprint.label>燃料发电机 (蓝图)</ChemfuelGenerator_Blueprint.label>
+  <ChemfuelGenerator_Frame.label>燃料发电机 (建造中)</ChemfuelGenerator_Frame.label>
+
+
+</LanguageData>
