@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nod Structures -->
+
+  <NodWall_TBNW.label>Nod墙</NodWall_TBNW.label>
+  <NodWall_TBNW.description>不可跨越的墙，可以撑起屋顶，由兄弟会特别设计</NodWall_TBNW.description>
+  <NodWall_TBNW_Blueprint.label>Nod墙 (蓝图）</NodWall_TBNW_Blueprint.label>
+  <NodWall_TBNW_Frame.label>Nod墙 (建造中）</NodWall_TBNW_Frame.label>
+  <NodWall_TBNW_Frame.description>不可跨越的墙，可以撑起屋顶，由兄弟会特别设计</NodWall_TBNW_Frame.description>
+
+  <Nod_LaserFence_TBNW.label>镭射栅栏</Nod_LaserFence_TBNW.label>
+  <Nod_LaserFence_TBNW.description>用这个来保护你自己</Nod_LaserFence_TBNW.description>
+  <Nod_LaserFence_TBNW_Blueprint.label>镭射栅栏 (蓝图）</Nod_LaserFence_TBNW_Blueprint.label>
+  <Nod_LaserFence_TBNW_Frame.label>镭射栅栏 (建造中）</Nod_LaserFence_TBNW_Frame.label>
+  <Nod_LaserFence_TBNW_Frame.description>用这个来保护你自己</Nod_LaserFence_TBNW_Frame.description>
+
+
+  <!-- Nod门s -->
+
+  <Nod_Door_TBNW.label>Nod门</Nod_Door_TBNW.label>
+  <Nod_Door_TBNW.description>分割房间，需要手动开关门。</Nod_Door_TBNW.description>
+  <Nod_Door_TBNW_Blueprint.label>Nod门 (蓝图）</Nod_Door_TBNW_Blueprint.label>
+  <Nod_Door_TBNW_Frame.label>Nod门 (建造中）</Nod_Door_TBNW_Frame.label>
+  <Nod_Door_TBNW_Frame.description>分割房间，需要手动开关门。</Nod_Door_TBNW_Frame.description>
+
+  <Nod_Autodoor_TBNW.label>Nod自动门</Nod_Autodoor_TBNW.label>
+  <Nod_Autodoor_TBNW.description>分割房间，电动马达使穿过的人不会减速。</Nod_Autodoor_TBNW.description>
+  <Nod_Autodoor_TBNW_Blueprint.label>Nod自动门 (蓝图）</Nod_Autodoor_TBNW_Blueprint.label>
+  <Nod_Autodoor_TBNW_Frame.label>Nod自动门 (建造中）</Nod_Autodoor_TBNW_Frame.label>
+  <Nod_Autodoor_TBNW_Frame.description>分割房间，电动马达使穿过的人不会减速。</Nod_Autodoor_TBNW_Frame.description>
+
+  <Nod_Laserdoor_TBNW.label>Nod镭射门</Nod_Laserdoor_TBNW.label>
+  <Nod_Laserdoor_TBNW.description>分割房间，电动马达使穿过的人不会减速。</Nod_Laserdoor_TBNW.description>
+  <Nod_Laserdoor_TBNW_Blueprint.label>Nod镭射门 (蓝图）</Nod_Laserdoor_TBNW_Blueprint.label>
+  <Nod_Laserdoor_TBNW_Frame.label>Nod镭射门 (建造中）</Nod_Laserdoor_TBNW_Frame.label>
+  <Nod_Laserdoor_TBNW_Frame.description>分割房间，电动马达使穿过的人不会减速。</Nod_Laserdoor_TBNW_Frame.description>
+
+
+  <!-- Obelisk -->
+
+  <NodSecurity_Obelisk.label>光明石碑</NodSecurity_Obelisk.label>
+  <NodSecurity_Obelisk.description>光明石碑.</NodSecurity_Obelisk.description>
+  <NodSecurity_Obelisk_Blueprint.label>光明石碑 (蓝图）</NodSecurity_Obelisk_Blueprint.label>
+  <NodSecurity_Obelisk_Frame.label>光明石碑 (建造中）</NodSecurity_Obelisk_Frame.label>
+  <NodSecurity_Obelisk_Frame.description>光明石碑</NodSecurity_Obelisk_Frame.description>
+
+  <Gun_NodObelisk.label>光明</Gun_NodObelisk.label>
+  <Gun_NodObelisk.description>pew pew</Gun_NodObelisk.description>
+
+  <Bullet_ObeliskGun.label>obelisk laser bullet</Bullet_ObeliskGun.label>
+
+
+  <!-- 粉碎者机枪塔 -->
+
+  <NodSecurity_ShredderTurret.label>粉碎者机枪塔</NodSecurity_ShredderTurret.label>
+  <NodSecurity_ShredderTurret.description>一个Nod粉碎者机枪塔,可有效的应对人群</NodSecurity_ShredderTurret.description>
+  <NodSecurity_ShredderTurret_Blueprint.label>粉碎者机枪塔 (蓝图）</NodSecurity_ShredderTurret_Blueprint.label>
+  <NodSecurity_ShredderTurret_Frame.label>粉碎者机枪塔 (建造中）</NodSecurity_ShredderTurret_Frame.label>
+  <NodSecurity_ShredderTurret_Frame.description>一个Nod粉碎者机枪塔,可有效的应对人群</NodSecurity_ShredderTurret_Frame.description>
+
+  <Gun_ShredderTurret.label>粉碎者机枪塔 gun</Gun_ShredderTurret.label>
+  <Gun_ShredderTurret.description>pew pew</Gun_ShredderTurret.description>
+
+  <Bullet_Shredder.label>pew pew</Bullet_Shredder.label>
+
+
+  <!-- Nod Tiberium Suppressor -->
+
+  <Nod_TiberiumSuppressor.label>泰伯利亚生长抑制器</Nod_TiberiumSuppressor.label>
+  <Nod_TiberiumSuppressor.description>这个设备需要链接到附近的Nod墙或者镭射栅栏（需要直接接触）并在这些建筑周围释放抑制液，可阻止泰伯利亚水晶在墙或栅栏周围生长，需要巨量的电力</Nod_TiberiumSuppressor.description>
+  <Nod_TiberiumSuppressor_Blueprint.label>泰伯利亚生长抑制器 (蓝图）</Nod_TiberiumSuppressor_Blueprint.label>
+  <Nod_TiberiumSuppressor_Frame.label>泰伯利亚生长抑制器 (建造中）</Nod_TiberiumSuppressor_Frame.label>
+  <Nod_TiberiumSuppressor_Frame.description>这个设备需要链接到附近的Nod墙或者镭射栅栏（需要直接接触）并在这些建筑周围释放抑制液，可阻止泰伯利亚水晶在墙或栅栏周围生长，需要巨量的电力</Nod_TiberiumSuppressor_Frame.description>
+
+
+</LanguageData>

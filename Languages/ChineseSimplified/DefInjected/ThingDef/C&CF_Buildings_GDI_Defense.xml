@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GDIWall.label>GDI墙</GDIWall.label>
+  <GDIWall.description>不可跨越的墙，可以撑起屋顶，使用了GDI强化材料制作。</GDIWall.description>
+  <GDIWall_Blueprint.label>GDI墙 (蓝图）</GDIWall_Blueprint.label>
+  <GDIWall_Frame.label>GDI墙 (建造中）</GDIWall_Frame.label>
+  <GDIWall_Frame.description>不可跨越的墙，可以撑起屋顶，使用了GDI强化材料制作。</GDIWall_Frame.description>
+
+  <GDI_Door.label>GDI门</GDI_Door.label>
+  <GDI_Door.description>分割房间，需要手动开关门。</GDI_Door.description>
+  <GDI_Door_Blueprint.label>GDI门 (蓝图）</GDI_Door_Blueprint.label>
+  <GDI_Door_Frame.label>GDI门 (建造中）</GDI_Door_Frame.label>
+  <GDI_Door_Frame.description>分割房间，需要手动开关门。</GDI_Door_Frame.description>
+
+  <GDI_Autodoor.label>GDI自动门</GDI_Autodoor.label>
+  <GDI_Autodoor.description>分割房间，电动马达使穿过的人不会减速。</GDI_Autodoor.description>
+  <GDI_Autodoor_Blueprint.label>GDI自动门 (蓝图）</GDI_Autodoor_Blueprint.label>
+  <GDI_Autodoor_Frame.label>GDI自动门 (建造中）</GDI_Autodoor_Frame.label>
+  <GDI_Autodoor_Frame.description>分割房间，电动马达使穿过的人不会减速。</GDI_Autodoor_Frame.description>
+
+
+  <!-- Watch Tower -->
+
+  <GDISecurity_WatchTower.label>机枪瞭望塔</GDISecurity_WatchTower.label>
+  <GDISecurity_WatchTower.description>GDI机枪瞭望塔，自动对底下的敌人开火</GDISecurity_WatchTower.description>
+  <GDISecurity_WatchTower_Blueprint.label>机枪瞭望塔 (蓝图）</GDISecurity_WatchTower_Blueprint.label>
+  <GDISecurity_WatchTower_Frame.label>机枪瞭望塔 (建造中）</GDISecurity_WatchTower_Frame.label>
+  <GDISecurity_WatchTower_Frame.description>GDI机枪瞭望塔，自动对底下的敌人开火</GDISecurity_WatchTower_Frame.description>
+
+  <Gun_WatchTower.label>瞭望塔机枪</Gun_WatchTower.label>
+  <Gun_WatchTower.description>pew pew</Gun_WatchTower.description>
+
+  <Bullet_WatchTower.label>pew pew</Bullet_WatchTower.label>
+
+
+  <!-- Sonic Emitter -->
+
+  <GDISecurity_SonicEmitter.label>声波发射器</GDISecurity_SonicEmitter.label>
+  <GDISecurity_SonicEmitter.description>声波发射器, 这种（AOE）重武器将击碎任何目标。</GDISecurity_SonicEmitter.description>
+  <GDISecurity_SonicEmitter_Blueprint.label>声波发射器 (蓝图）</GDISecurity_SonicEmitter_Blueprint.label>
+  <GDISecurity_SonicEmitter_Frame.label>声波发射器 (建造中）</GDISecurity_SonicEmitter_Frame.label>
+  <GDISecurity_SonicEmitter_Frame.description>声波发射器, 这种（AOE）重武器将击碎任何目标。</GDISecurity_SonicEmitter_Frame.description>
+
+  <Gun_SonicEmitter.label>声波产生器</Gun_SonicEmitter.label>
+  <Gun_SonicEmitter.description>pew pew</Gun_SonicEmitter.description>
+
+  <Bullet_Emitter.label>emitter bullet</Bullet_Emitter.label>
+
+
+  <!-- Juggernaut Turret -->
+
+  <GDISecurity_Juggernaut.label>装甲神兵炮台</GDISecurity_Juggernaut.label>
+  <GDISecurity_Juggernaut_Blueprint.label>装甲神兵炮台 (蓝图）</GDISecurity_Juggernaut_Blueprint.label>
+  <GDISecurity_Juggernaut_Frame.label>装甲神兵炮台 (建造中）</GDISecurity_Juggernaut_Frame.label>
+  <GDISecurity_Juggernaut_Frame.description>装甲神兵炮台</GDISecurity_Juggernaut_Frame.description>
+
+  <Gun_Juggernaut.label>juggernaut gun</Gun_Juggernaut.label>
+  <Gun_Juggernaut.description>迫击炮，发射的炮弹可以越过墙壁，射程长，但准确率低下。</Gun_Juggernaut.description>
+
+  <Bullet_JuggernautBomb.label>explosive mortar shell</Bullet_JuggernautBomb.label>
+
+
+  <!-- Inhibition -->
+
+  <SonicInhibitorSmall.label>小型声波抑制器</SonicInhibitorSmall.label>
+  <SonicInhibitorSmall.description>这种设备被设计用来摧毁并阻止泰伯利亚水晶生长。由于其实验性质，由于其实验性质，其需要与水晶保持无障碍接触才能起效 小型版覆盖半径小.</SonicInhibitorSmall.description>
+  <SonicInhibitorSmall_Blueprint.label>小型声波抑制器 (蓝图）</SonicInhibitorSmall_Blueprint.label>
+  <SonicInhibitorSmall_Blueprint_Install.label>小型声波抑制器 (蓝图）</SonicInhibitorSmall_Blueprint_Install.label>
+  <SonicInhibitorSmall_Frame.label>小型声波抑制器 (建造中）</SonicInhibitorSmall_Frame.label>
+  <SonicInhibitorSmall_Frame.description>这种设备被设计用来摧毁并阻止泰伯利亚水晶生长。 由于其实验性质，其需要与水晶保持无障碍接触才能起效 小型版覆盖半径小.</SonicInhibitorSmall_Frame.description>
+
+  <SonicInhibitorTall.label>大型声波抑制器</SonicInhibitorTall.label>
+  <SonicInhibitorTall.description>这种设备被设计用来摧毁并阻止泰伯利亚水晶生长。 由于其实验性质，其需要与水晶保持无障碍接触才能起效，这种大型的有更大的覆盖半径</SonicInhibitorTall.description>
+  <SonicInhibitorTall_Blueprint.label>大型声波抑制器 (蓝图）</SonicInhibitorTall_Blueprint.label>
+  <SonicInhibitorTall_Blueprint_Install.label>大型声波抑制器 (蓝图）</SonicInhibitorTall_Blueprint_Install.label>
+  <SonicInhibitorTall_Frame.label>大型声波抑制器 (建造中）</SonicInhibitorTall_Frame.label>
+  <SonicInhibitorTall_Frame.description>这种设备被设计用来摧毁并阻止泰伯利亚水晶生长。 由于其实验性质，其需要与水晶保持无障碍接触才能起效，这种大型的有更大的覆盖半径</SonicInhibitorTall_Frame.description>
+
+  <Decrystallizer.label>土壤反晶化设备</Decrystallizer.label>
+  <Decrystallizer.description>以极慢的速度将水晶从晶化的土壤中排除，将任意种类的晶化土壤变为反晶化土壤以便再次使用。不对晶化水起效，需要通电。</Decrystallizer.description>
+  <Decrystallizer_Blueprint.label>土壤反晶化设备(蓝图）</Decrystallizer_Blueprint.label>
+  <Decrystallizer_Blueprint_Install.label>土壤反晶化设备(蓝图）</Decrystallizer_Blueprint_Install.label>
+  <Decrystallizer_Frame.label>土壤反晶化设备(建造中）</Decrystallizer_Frame.label>
+  <Decrystallizer_Frame.description>以极慢的速度将水晶从晶化的土壤中排除，将任意种类的晶化土壤变为反晶化土壤以便再次使用。不对晶化水起效，需要通电。</Decrystallizer_Frame.description>
+
+  <SonicFence.label>声波围栏</SonicFence.label>
+  <SonicFence.description>这种围栏在其周围有抑制效果。需要通电以起效。</SonicFence.description>
+  <SonicFence_Blueprint.label>声波围栏 (蓝图）</SonicFence_Blueprint.label>
+  <SonicFence_Frame.label>声波围栏 (建造中）</SonicFence_Frame.label>
+  <SonicFence_Frame.description>这种围栏在其周围有抑制效果。需要通电以起效。</SonicFence_Frame.description>
+
+
+</LanguageData>

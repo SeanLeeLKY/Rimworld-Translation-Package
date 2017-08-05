@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GDIResearch.label>GDI</GDIResearch.label>
+  <GDIResearch.description>加入GDI，并成为兄弟会的敌人。</GDIResearch.description>
+
+  <GDIResearch_Buildings.label>GDI基建</GDIResearch_Buildings.label>
+  <GDIResearch_Buildings.description>获得GDI基建图纸，解锁基本建筑和工厂</GDIResearch_Buildings.description>
+
+  <GDIResearch_Technology.label>GDI情报</GDIResearch_Technology.label>
+  <GDIResearch_Technology.description>允许访问指挥官级别的情报库，包括很多基础科技</GDIResearch_Technology.description>
+
+  <GDIResearch_AdvancedTechnology.label>机密信息</GDIResearch_AdvancedTechnology.label>
+  <GDIResearch_AdvancedTechnology.description>允许访问更高级别的数据库，包括很多高科技 Necessary for advanced technologies.</GDIResearch_AdvancedTechnology.description>
+
+  <GDIResearch_SonicTechnology.label>声学突破</GDIResearch_SonicTechnology.label>
+  <GDIResearch_SonicTechnology.description>GDI在对抗泰伯利亚水晶的过程中发现了那些声波抑制器新的用处。改良后的声波技术可被用于战斗和更好的抑制水晶生长。解锁高级声波抑制器，手持声波粉碎机和声波炮。</GDIResearch_SonicTechnology.description>
+
+  <GDIResearch_Security.label>防御设施</GDIResearch_Security.label>
+  <GDIResearch_Security.description>解锁无人机枪塔</GDIResearch_Security.description>
+
+  <GDIResearch_AdvancedSecurity.label>高级防卫设施</GDIResearch_AdvancedSecurity.label>
+  <GDIResearch_AdvancedSecurity.description>解锁声波武器</GDIResearch_AdvancedSecurity.description>
+
+  <GDIResearch_Production.label>GDI军火数据 I</GDIResearch_Production.label>
+  <GDIResearch_Production.description>从GDI处获得蓝图并保卫世界，解锁小型火器和基本装甲。</GDIResearch_Production.description>
+
+  <GDIResearch_AdvancedProduction.label>GDI军火数据 II</GDIResearch_AdvancedProduction.label>
+  <GDIResearch_AdvancedProduction.description>得到更高级的，实验性的蓝图。解锁区域装甲和磁轨枪</GDIResearch_AdvancedProduction.description>
+
+
+</LanguageData>

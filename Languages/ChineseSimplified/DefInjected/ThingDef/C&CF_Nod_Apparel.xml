@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Militia/Rocket Troop -->
+
+  <NodMilitiaMask.label>Nod狂热分子面具</NodMilitiaMask.label>
+  <NodMilitiaMask.description>Nod狂热分子佩戴的面具</NodMilitiaMask.description>
+
+  <Apparel_NodMilitiaSuit.label>Nod狂热分子长袍</Apparel_NodMilitiaSuit.label>
+  <Apparel_NodMilitiaSuit.description>Nod狂热分子穿着的长袍</Apparel_NodMilitiaSuit.description>
+
+
+  <!-- Officer -->
+
+  <Apparel_NodOfficerHelmet.label>Nod军官帽</Apparel_NodOfficerHelmet.label>
+  <Apparel_NodOfficerHelmet.description>一个很酷的头盔, 适合每一个Nod军官</Apparel_NodOfficerHelmet.description>
+
+  <Apparel_NodOfficerSuit.label>Nod军官服</Apparel_NodOfficerSuit.label>
+  <Apparel_NodOfficerSuit.description>外表很好看，适合每一个Nod军官</Apparel_NodOfficerSuit.description>
+
+
+  <!-- Blackhand -->
+
+  <Apparel_NodBlackHandHelmet.label>黑手部队头盔</Apparel_NodBlackHandHelmet.label>
+  <Apparel_NodBlackHandHelmet.description>这种特殊的头盔可保护佩戴者免于他们使用的火焰喷射器伤害。</Apparel_NodBlackHandHelmet.description>
+
+  <Apparel_NodBlackHand.label>黑手部队装甲</Apparel_NodBlackHand.label>
+  <Apparel_NodBlackHand.description>高温防护特化的装甲，应对黑手部队的需求。</Apparel_NodBlackHand.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LostBrothers.label>迷失的兄弟</LostBrothers.label>
+  <LostBrothers.description>你们三个在逃生舱里醒来，GDI摧毁了你们的飞船， 现在你们在掉落一个未知的边缘世界中。</LostBrothers.description>
+  <LostBrothers.scenario.name>迷失的兄弟</LostBrothers.scenario.name>
+  <LostBrothers.scenario.summary>三个Nod兄弟会的成员在攻击中幸存。</LostBrothers.scenario.summary>
+  <LostBrothers.scenario.description>你们三个在逃生舱里醒来，GDI摧毁了你们的飞船， 现在你们掉落在一个未知的边缘世界中。</LostBrothers.scenario.description>
+
+  <GDIExpedition.label>GDI远征队</GDIExpedition.label>
+  <GDIExpedition.description>指挥官，你的部队被派往一个危险任务，你的任务目标：就地寻找物资设立基地并保护自己，摧毁水晶塔，完成后离开该区域。</GDIExpedition.description>
+  <GDIExpedition.scenario.name>GDI远征队</GDIExpedition.scenario.name>
+  <GDIExpedition.scenario.summary>四名GDI士兵探索一个被侵蚀的世界</GDIExpedition.scenario.summary>
+  <GDIExpedition.scenario.description>指挥官，你的部队被送往一个危险任务，你的任务目标：就地寻找物资设立基地并保护自己，摧毁巨大水晶塔，完成后离开该区域。</GDIExpedition.scenario.description>
+
+
+</LanguageData>

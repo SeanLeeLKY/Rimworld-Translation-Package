@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nod Rifle -->
+
+  <Bullet_NodRifle.label>子弹</Bullet_NodRifle.label>
+
+  <Gun_NodRifle.label>Nod步枪</Gun_NodRifle.label>
+  <Gun_NodRifle.description>一把在战场或巷战中常见的武器，经过了Nod技术强化</Gun_NodRifle.description>
+
+
+  <!-- Nod Laser Rifle -->
+
+  <Bullet_LaserRifle.label>镭射</Bullet_LaserRifle.label>
+
+  <Gun_NodLaserRifleSmall.label>Nod镭射枪</Gun_NodLaserRifleSmall.label>
+  <Gun_NodLaserRifleSmall.description>一把使用了Nod镭射技术的枪</Gun_NodLaserRifleSmall.description>
+
+  <Gun_NodLaserRifleSmall_Faction.label>Nod镭射枪</Gun_NodLaserRifleSmall_Faction.label>
+
+  <Gun_NodLaserRifleLarge.label>Nod高级镭射枪</Gun_NodLaserRifleLarge.label>
+  <Gun_NodLaserRifleLarge.description>一把使用了Nod强化镭射技术的枪</Gun_NodLaserRifleLarge.description>
+
+  <Gun_NodLaserRifleLarge_Faction.label>Nod高级镭射枪</Gun_NodLaserRifleLarge_Faction.label>
+
+
+  <!-- Flamethrower -->
+
+  <Bullet_Flamethrower.label>火焰</Bullet_Flamethrower.label>
+
+  <Gun_NodFlamethrower.label>Nod火焰喷射器</Gun_NodFlamethrower.label>
+  <Gun_NodFlamethrower.description>黑手部队使用的火焰喷射器，净化你的对手！</Gun_NodFlamethrower.description>
+
+  <Gun_NodFlamethrower_Faction.label>Nod火焰喷射器</Gun_NodFlamethrower_Faction.label>
+
+
+  <!-- Nod RocketLauncher -->
+
+  <Bullet_NodRocket.label>火箭</Bullet_NodRocket.label>
+
+  <Gun_NodRocketLauncher.label>Nod火箭筒</Gun_NodRocketLauncher.label>
+  <Gun_NodRocketLauncher.description>一个由Nod工程师设计的火箭筒。它是非常致命的</Gun_NodRocketLauncher.description>
+
+  <Gun_NodRocketLauncher_Faction.label>Nod火箭筒</Gun_NodRocketLauncher_Faction.label>
+
+
+  <!-- Twin Tiberium Flechette Gun -->
+
+  <Bullet_Nod_TwinFlechetteGun.label>泰晶箭弹枪</Bullet_Nod_TwinFlechetteGun.label>
+
+  <Gun_Nod_TwinTiberiumFlechetteGun.label>双持箭弹枪</Gun_Nod_TwinTiberiumFlechetteGun.label>
+  <Gun_Nod_TwinTiberiumFlechetteGun.description>泰晶箭弹枪以超高速向敌人发射泰晶碎片</Gun_Nod_TwinTiberiumFlechetteGun.description>
+
+
+  <!-- Chemicalthrower -->
+
+  <Bullet_Gas.label>毒气</Bullet_Gas.label>
+
+  <Gun_NodChemicalthrower.label>Nod化学喷射器</Gun_NodChemicalthrower.label>
+  <Gun_NodChemicalthrower.description>这种剧毒的化学喷射器使用了Nod的液化泰晶技术</Gun_NodChemicalthrower.description>
+
+  <Gun_NodChemicalthrower_Faction.label>Nod化学喷射器</Gun_NodChemicalthrower_Faction.label>
+
+
+  <!-- Nod Grenade -->
+
+  <bullet_Nod_Grenade.label>Nod手雷</bullet_Nod_Grenade.label>
+
+  <Nod_Grenade.label>Nod手雷</Nod_Grenade.label>
+  <Nod_Grenade.description>经Nod强化的手雷，和原来的一样致命</Nod_Grenade.description>
+
+
+  <!-- Nod 自杀式炸弹 -->
+
+  <Bullet_Sbomb.label>自杀式炸弹</Bullet_Sbomb.label>
+
+  <Nod_Sbomb.label>自杀式炸弹</Nod_Sbomb.label>
+  <Nod_Sbomb.description>让他们去执行自杀式袭击，注意爆炸半径。</Nod_Sbomb.description>
+
+
+</LanguageData>

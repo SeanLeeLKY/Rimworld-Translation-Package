@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NodConcreteTile.label>Nod混凝土地砖</NodConcreteTile.label>
+  <NodConcreteTile.description>Nod混凝土地砖.</NodConcreteTile.description>
+
+  <NodConcreteFloor.label>Nod混凝土地板</NodConcreteFloor.label>
+  <NodConcreteFloor.description>Nod混凝土地砖.</NodConcreteFloor.description>
+
+  <NodDangerTile.label>Nod 条纹地砖</NodDangerTile.label>
+  <NodDangerTile.description>表示危险.</NodDangerTile.description>
+
+  <NodCarbonTile.label>Nod碳纤维地砖</NodCarbonTile.label>
+  <NodCarbonTile.description>Nod碳纤维地砖</NodCarbonTile.description>
+
+
+  <!-- GDI -->
+
+  <GDIConcreteTile.label>GDI混凝土地砖</GDIConcreteTile.label>
+  <GDIConcreteTile.description>GDI混凝土地砖.</GDIConcreteTile.description>
+
+  <GDIConcreteFloor.label>GDI混凝土地板</GDIConcreteFloor.label>
+  <GDIConcreteFloor.description>GDI混凝土地砖.</GDIConcreteFloor.description>
+
+  <GDIDangerTile.label>GDI条纹地砖</GDIDangerTile.label>
+  <GDIDangerTile.description>表示危险</GDIDangerTile.description>
+
+  <GDIReinforcedTile.label>GDI强化材料地砖</GDIReinforcedTile.label>
+  <GDIReinforcedTile.description>GDI强化材料地砖</GDIReinforcedTile.description>
+
+
+</LanguageData>

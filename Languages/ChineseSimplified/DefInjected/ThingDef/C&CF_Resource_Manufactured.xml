@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GDI_ReinforcedPlate.label>强化板</GDI_ReinforcedPlate.label>
+  <GDI_ReinforcedPlate.description>这种材料用在许多GDI工程中，对大多数的负面影响均有抗性。</GDI_ReinforcedPlate.description>
+
+  <Nod_CarbonPlate.label>碳纤维板</Nod_CarbonPlate.label>
+  <Nod_CarbonPlate.description>Nod工程师一直在寻找一种可承受任何直接攻击的材料，这种碳基材料便诞生于数年的研发时间中</Nod_CarbonPlate.description>
+
+  <Nod_LiquidTiberium.label>液态泰伯利亚</Nod_LiquidTiberium.label>
+  <Nod_LiquidTiberium.description>液态是这种物质最纯净的形态。——警告——  避免露天存放,这个物品超级不稳定！</Nod_LiquidTiberium.description>
+
+  <Nod_LQTiberiumCore.label>液态泰伯利亚核心</Nod_LQTiberiumCore.label>
+  <Nod_LQTiberiumCore.description>由于它超级不稳定，我们需要用这个组件稳定然后再处理液态泰伯利亚的能量。</Nod_LQTiberiumCore.description>
+
+  <GDI_SonicCore.label>声波核心</GDI_SonicCore.label>
+  <GDI_SonicCore.description>实验性质的声学技术需要特殊设备来处理，此组件在大多数声波武器内充当核心</GDI_SonicCore.description>
+
+  <JuggernautShell.label>装甲神兵炮弹</JuggernautShell.label>
+  <JuggernautShell.description>一包可被装甲神兵炮台发射的炮弹。</JuggernautShell.description>
+
+
+</LanguageData>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeLiquidTiberium.label>制作液态泰伯利亚</MakeLiquidTiberium.label>
+  <MakeLiquidTiberium.description>安全第一。</MakeLiquidTiberium.description>
+  <MakeLiquidTiberium.jobString>正在制作液态泰伯利亚</MakeLiquidTiberium.jobString>
+
+  <MakeReinforcedPlate.label>制作 一 个强化板</MakeReinforcedPlate.label>
+  <MakeReinforcedPlate.description>这个工厂生产多种资源和物品</MakeReinforcedPlate.description>
+  <MakeReinforcedPlate.jobString>正在制作强化板</MakeReinforcedPlate.jobString>
+
+  <MakeJuggernautShell.label>制作装甲神兵炮弹</MakeJuggernautShell.label>
+  <MakeJuggernautShell.description>这个工厂生产多种资源和物品</MakeJuggernautShell.description>
+  <MakeJuggernautShell.jobString>正在制作装甲神兵炮弹</MakeJuggernautShell.jobString>
+
+  <MakeReinforcedPlateX5.label>制作 五 个强化板s</MakeReinforcedPlateX5.label>
+  <MakeReinforcedPlateX5.description>这个工厂生产多种资源和物品</MakeReinforcedPlateX5.description>
+  <MakeReinforcedPlateX5.jobString>正在制作强化材料板</MakeReinforcedPlateX5.jobString>
+
+  <MakeCarbonPlate.label>制作 一 个碳纤维板</MakeCarbonPlate.label>
+  <MakeCarbonPlate.description>这个工厂生产多种资源和物品</MakeCarbonPlate.description>
+  <MakeCarbonPlate.jobString>正在制作碳纤维板</MakeCarbonPlate.jobString>
+
+  <MakeCarbonPlateX5.label>制作 五 个碳纤维板</MakeCarbonPlateX5.label>
+  <MakeCarbonPlateX5.description>这个工厂生产多种资源和物品</MakeCarbonPlateX5.description>
+  <MakeCarbonPlateX5.jobString>正在制作碳纤维板</MakeCarbonPlateX5.jobString>
+
+  <MakeLQTiberiumCore.label>制作液态泰伯利亚核心</MakeLQTiberiumCore.label>
+  <MakeLQTiberiumCore.description>这个核心在大多数NOD高科技物品中充当能源</MakeLQTiberiumCore.description>
+  <MakeLQTiberiumCore.jobString>正在制作液态泰伯利亚核心</MakeLQTiberiumCore.jobString>
+
+  <MakeGDISonicCore.label>制作声波核心</MakeGDISonicCore.label>
+  <MakeGDISonicCore.description>大多数使用GDI声波技术的物品都需要它</MakeGDISonicCore.description>
+  <MakeGDISonicCore.jobString>正在制作一个声波核心.</MakeGDISonicCore.jobString>
+
+
+</LanguageData>

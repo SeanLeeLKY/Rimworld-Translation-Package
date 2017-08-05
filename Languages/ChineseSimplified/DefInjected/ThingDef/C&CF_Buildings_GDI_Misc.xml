@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GDI_PowerConduit.label>GDI电缆</GDI_PowerConduit.label>
+  <GDI_PowerConduit.description>用于传送电力，可放置于墙和其他建筑下，GDI的离子工艺使这种电缆更耐用。</GDI_PowerConduit.description>
+  <GDI_PowerConduit_Blueprint.label>GDI电缆 (蓝图）</GDI_PowerConduit_Blueprint.label>
+  <GDI_PowerConduit_Frame.label>GDI电缆 (建造中）</GDI_PowerConduit_Frame.label>
+  <GDI_PowerConduit_Frame.description>用于传送电力，可放置于墙和其他建筑下，GDI的离子工艺使这种电缆更耐用。</GDI_PowerConduit_Frame.description>
+
+  <Light_GDI.label>离子灯</Light_GDI.label>
+  <Light_GDI.description>GDI使用泰伯利亚水晶发出离子的特性设计了这种灯。</Light_GDI.description>
+  <Light_GDI_Blueprint.label>离子灯 (蓝图）</Light_GDI_Blueprint.label>
+  <Light_GDI_Blueprint_Install.label>离子灯 (蓝图）</Light_GDI_Blueprint_Install.label>
+  <Light_GDI_Frame.label>离子灯 (建造中）</Light_GDI_Frame.label>
+  <Light_GDI_Frame.description>GDI使用泰伯利亚水晶发出离子的特性设计了这种灯。</Light_GDI_Frame.description>
+
+
+</LanguageData>

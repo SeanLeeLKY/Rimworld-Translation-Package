@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NodResearch.label>NOD兄弟会</NodResearch.label>
+  <NodResearch.description>加入Nod兄弟会，并对抗GDI</NodResearch.description>
+
+  <NodResearch_Buildings.label>Nod基建</NodResearch_Buildings.label>
+  <NodResearch_Buildings.description>解锁Nod基建和工厂</NodResearch_Buildings.description>
+
+  <NodResearch_Technology.label>兄弟会秘密</NodResearch_Technology.label>
+  <NodResearch_Technology.description>解锁基本技术，并为以后的研究做准备。</NodResearch_Technology.description>
+
+  <NodResearch_AdvancedTechnology.label>兄弟会启示</NodResearch_AdvancedTechnology.label>
+  <NodResearch_AdvancedTechnology.description>解锁高级技术，为更高级的研究准备。</NodResearch_AdvancedTechnology.description>
+
+  <NodResearch_LiquidTechnology.label>晶体液化技术</NodResearch_LiquidTechnology.label>
+  <NodResearch_LiquidTechnology.description>兄弟会的努力有了效果，终于我们可以液化泰伯利亚水晶并使用其真正的力量，请睿智的使用它。解锁液化泰伯利亚物品。</NodResearch_LiquidTechnology.description>
+
+  <NodResearch_Security.label>Nod防御设施</NodResearch_Security.label>
+  <NodResearch_Security.description>解锁粉碎者机枪塔。</NodResearch_Security.description>
+
+  <NodResearch_Production.label>兄弟会装配技术 I</NodResearch_Production.label>
+  <NodResearch_Production.description>让我们开始征服世界。解锁基本武器和装甲</NodResearch_Production.description>
+
+  <NodResearch_AdvancedSecurity.label>Nod高级防御设施</NodResearch_AdvancedSecurity.label>
+  <NodResearch_AdvancedSecurity.description>解锁光明石碑。</NodResearch_AdvancedSecurity.description>
+
+  <NodResearch_AdvancedProduction.label>兄弟会装配技术 II</NodResearch_AdvancedProduction.label>
+  <NodResearch_AdvancedProduction.description>将异教徒从这个世界里赶出去！解锁黑手部队装备（装甲，火焰喷射器），和高级镭射枪</NodResearch_AdvancedProduction.description>
+
+
+</LanguageData>

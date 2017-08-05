@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Factions_DoBillsTibRefinery.label>工作于泰晶精炼厂</Factions_DoBillsTibRefinery.label>
+  <Factions_DoBillsTibRefinery.verb>提炼泰伯利亚</Factions_DoBillsTibRefinery.verb>
+  <Factions_DoBillsTibRefinery.gerund>正在提炼泰伯利亚于</Factions_DoBillsTibRefinery.gerund>
+
+  <Factions_DoBillsFactory.label>工作于派系工厂</Factions_DoBillsFactory.label>
+  <Factions_DoBillsFactory.verb>制作对应派系物品于</Factions_DoBillsFactory.verb>
+  <Factions_DoBillsFactory.gerund>正在制作对应派系物品于</Factions_DoBillsFactory.gerund>
+
+
+</LanguageData>

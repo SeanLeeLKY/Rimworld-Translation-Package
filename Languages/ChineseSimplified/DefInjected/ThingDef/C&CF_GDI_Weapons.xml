@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- GDI Rifle -->
+
+  <Bullet_GDIRifle.label>子弹</Bullet_GDIRifle.label>
+
+  <Gun_GDIRifle.label>GDI步枪</Gun_GDIRifle.label>
+  <Gun_GDIRifle.description>一把在战场或巷战中常见的武器，经过了GDI技术强化</Gun_GDIRifle.description>
+
+
+  <!-- GDI Advanced Rifles -->
+
+  <Bullet_Railgun.label>磁轨弹</Bullet_Railgun.label>
+
+  <Gun_GDIRailgun.label>GDI磁轨枪</Gun_GDIRailgun.label>
+  <Gun_GDIRailgun.description>这个磁轨枪发射准确的超高速磁轨弹</Gun_GDIRailgun.description>
+
+  <Gun_GDIRailgun_Faction.label>GDI磁轨枪</Gun_GDIRailgun_Faction.label>
+  <Bullet_Shatterer.label>声波</Bullet_Shatterer.label>
+
+  <Gun_GDIShatterer.label>手持声波粉碎机</Gun_GDIShatterer.label>
+  <Gun_GDIShatterer.description>它使用了GDI的声波技术。非常不稳定。</Gun_GDIShatterer.description>
+
+  <Gun_GDIShatterer_Faction.label>手持声波粉碎机</Gun_GDIShatterer_Faction.label>
+  <Bullet_Mortar.label>m迫击炮弹</Bullet_Mortar.label>
+
+  <GDI_Mortar.label>GDI便携式迫击炮</GDI_Mortar.label>
+  <GDI_Mortar.description>一种用于长距离战斗的实验性武器</GDI_Mortar.description>
+
+  <GDI_Mortar_Faction.label>GDI便携式迫击炮</GDI_Mortar_Faction.label>
+
+
+</LanguageData>

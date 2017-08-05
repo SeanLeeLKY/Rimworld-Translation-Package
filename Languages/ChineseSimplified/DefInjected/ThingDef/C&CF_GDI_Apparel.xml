@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- GDI Zone Trooper -->
+
+  <Apparel_GDIZoneHelmet_TBP.label>区域装甲头盔</Apparel_GDIZoneHelmet_TBP.label>
+  <Apparel_GDIZoneHelmet_TBP.description>区域装甲的头盔</Apparel_GDIZoneHelmet_TBP.description>
+
+  <Apparel_GDIZoneSuit_TBP.label>区域装甲</Apparel_GDIZoneSuit_TBP.label>
+  <Apparel_GDIZoneSuit_TBP.description>一件GDI区域装甲，可以完美的抵抗泰晶。</Apparel_GDIZoneSuit_TBP.description>
+
+
+  <!-- Officer -->
+
+  <Apparel_GDIOfficerHelmet.label>GDI警官帽</Apparel_GDIOfficerHelmet.label>
+  <Apparel_GDIOfficerHelmet.description>一个漂亮的帽子, 彰显警官的身份。</Apparel_GDIOfficerHelmet.description>
+
+  <Apparel_GDIOfficerSuit.label>GDI警服</Apparel_GDIOfficerSuit.label>
+  <Apparel_GDIOfficerSuit.description>看起来很漂亮，彰显警官的身份。</Apparel_GDIOfficerSuit.description>
+
+  <Apparel_GDISoldierHelmet_TBP.label>GDI士兵面具</Apparel_GDISoldierHelmet_TBP.label>
+  <Apparel_GDISoldierHelmet_TBP.description>这个面具集成了水晶粉尘过滤器，运气好的话也可以帮你挡挡子弹。</Apparel_GDISoldierHelmet_TBP.description>
+
+  <Apparel_GDISoldierSuit_TBP.label>GDI士兵服</Apparel_GDISoldierSuit_TBP.label>
+  <Apparel_GDISoldierSuit_TBP.description>特殊设计，可抵抗大多数常见攻击。</Apparel_GDISoldierSuit_TBP.description>
+
+
+  <!-- Engineer -->
+
+  <Apparel_GDIEngineerMask.label>GDI工程师面具</Apparel_GDIEngineerMask.label>
+  <Apparel_GDIEngineerMask.description>正规工程师装备。可提高工作能力。</Apparel_GDIEngineerMask.description>
+
+  <Apparel_GDIEngineerSuit.label>GDI工程师服装</Apparel_GDIEngineerSuit.label>
+  <Apparel_GDIEngineerSuit.description>为各式各样的工作而特化的服装，可提高工作能力。</Apparel_GDIEngineerSuit.description>
+
+
+</LanguageData>

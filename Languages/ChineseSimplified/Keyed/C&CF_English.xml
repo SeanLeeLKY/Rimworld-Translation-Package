@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CommandDesignateRecheckWallsLabel>墙壁链接重新检查</CommandDesignateRecheckWallsLabel>
+  <CommandDesignateRecheckWallsDesc>重新检查链接到此建筑上的墙壁，用在新墙壁建造完成后刷新</CommandDesignateRecheckWallsDesc>
+  <GraveCapacity>容量</GraveCapacity>
+  <GraveAssignColonist>指派殖民者</GraveAssignColonist>
+
+</LanguageData>

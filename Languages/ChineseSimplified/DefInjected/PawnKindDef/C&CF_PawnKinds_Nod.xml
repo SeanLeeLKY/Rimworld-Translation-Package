@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Follower.label>追随者</Follower.label>
+  <Follower.labelPlural>追随者</Follower.labelPlural>
+
+  <NodOfficer.label>NOD军官</NodOfficer.label>
+  <NodOfficer.labelPlural>NOD军官</NodOfficer.labelPlural>
+
+  <ClanTrader.label>部落商人</ClanTrader.label>
+  <ClanTrader.labelPlural>部落商人</ClanTrader.labelPlural>
+
+  <NodBlackHand.label>黑手部队</NodBlackHand.label>
+  <NodBlackHand.labelPlural>黑手部队</NodBlackHand.labelPlural>
+
+  <NodOfficerTroop.label>军官部队</NodOfficerTroop.label>
+  <NodOfficerTroop.labelPlural>军官部队</NodOfficerTroop.labelPlural>
+
+  <NodMilitia.label>狂热民兵</NodMilitia.label>
+  <NodMilitia.labelPlural>狂热民兵小队</NodMilitia.labelPlural>
+
+  <NodMilitiaRocket.label>狂热火箭筒民兵</NodMilitiaRocket.label>
+  <NodMilitiaRocket.labelPlural>狂热火箭筒民兵小队</NodMilitiaRocket.labelPlural>
+
+
+</LanguageData>

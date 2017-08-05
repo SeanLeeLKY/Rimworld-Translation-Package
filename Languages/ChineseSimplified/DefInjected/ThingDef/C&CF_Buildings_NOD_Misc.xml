@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NodSculptureLarge.label>兄弟会雕塑</NodSculptureLarge.label>
+  <NodSculptureLarge.description>这些雕塑被视为Nod兄弟会的力量象征。</NodSculptureLarge.description>
+  <NodSculptureLarge_Blueprint_Install.label>兄弟会雕塑 (蓝图）</NodSculptureLarge_Blueprint_Install.label>
+
+  <TiberiumPot.label>泰晶花盆</TiberiumPot.label>
+  <TiberiumPot.description>一个花盆，准确来说是一个特别的花盆</TiberiumPot.description>
+  <TiberiumPot_Blueprint.label>泰晶花盆 (蓝图）</TiberiumPot_Blueprint.label>
+  <TiberiumPot_Blueprint_Install.label>泰晶花盆 (蓝图）</TiberiumPot_Blueprint_Install.label>
+  <TiberiumPot_Frame.label>泰晶花盆 (建造中）</TiberiumPot_Frame.label>
+  <TiberiumPot_Frame.description>一个花盆，准确来说是一个特别的花盆</TiberiumPot_Frame.description>
+
+  <Nod_PowerConduit.label>Nod电缆</Nod_PowerConduit.label>
+  <Nod_PowerConduit.description>用于传送电力，可放置于墙和其他建筑下，Nod的强化技术使其防火。</Nod_PowerConduit.description>
+  <Nod_PowerConduit_Blueprint.label>Nod电缆 (蓝图）</Nod_PowerConduit_Blueprint.label>
+  <Nod_PowerConduit_Frame.label>Nod电缆 (建造中）</Nod_PowerConduit_Frame.label>
+  <Nod_PowerConduit_Frame.description>用于传送电力，可放置于墙和其他建筑下，Nod的强化技术使其防火。</Nod_PowerConduit_Frame.description>
+
+  <Light_Nod.label>兄弟会灯</Light_Nod.label>
+  <Light_Nod.description>每一个Nod的信徒都疯狂的喜爱这种发深红色光的灯，这确实很酷，但无疑这对他们的眼睛并不健康。</Light_Nod.description>
+  <Light_Nod_Blueprint.label>兄弟会灯 (蓝图）</Light_Nod_Blueprint.label>
+  <Light_Nod_Blueprint_Install.label>兄弟会灯 (蓝图）</Light_Nod_Blueprint_Install.label>
+  <Light_Nod_Frame.label>兄弟会灯 (建造中）</Light_Nod_Frame.label>
+  <Light_Nod_Frame.description>每一个Nod的信徒都疯狂的喜爱这种发深红色光的灯，这确实很酷，但无疑这对他们的眼睛并不健康。</Light_Nod_Frame.description>
+
+
+</LanguageData>

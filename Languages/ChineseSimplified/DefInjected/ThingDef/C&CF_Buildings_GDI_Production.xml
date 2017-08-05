@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- GDI Structures -->
+
+  <GDI_Factory.label>GDI工厂</GDI_Factory.label>
+  <GDI_Factory.description>GDI工厂用来制造GDI派系的可用物品，武器和装甲。</GDI_Factory.description>
+  <GDI_Factory_Blueprint.label>GDI工厂 (蓝图）</GDI_Factory_Blueprint.label>
+  <GDI_Factory_Frame.label>GDI工厂 (建造中）</GDI_Factory_Frame.label>
+  <GDI_Factory_Frame.description>GDI工厂用来制造GDI派系的可用物品，武器和装甲。</GDI_Factory_Frame.description>
+
+  <GDI_TiberiumRefinery.label>GDI高级泰晶精炼厂</GDI_TiberiumRefinery.label>
+  <GDI_TiberiumRefinery.description>高级泰晶精炼厂可用于将致命的泰伯利亚水晶提炼为多种材料。</GDI_TiberiumRefinery.description>
+  <GDI_TiberiumRefinery_Blueprint.label>GDI高级泰晶精炼厂 (蓝图）</GDI_TiberiumRefinery_Blueprint.label>
+  <GDI_TiberiumRefinery_Frame.label>GDI高级泰晶精炼厂 (建造中）</GDI_TiberiumRefinery_Frame.label>
+  <GDI_TiberiumRefinery_Frame.description>高级泰晶精炼厂可用于将致命的泰伯利亚水晶提炼为多种材料。</GDI_TiberiumRefinery_Frame.description>
+
+  <GDI_TiberiumPowerPlant.label>GDI发电设备</GDI_TiberiumPowerPlant.label>
+  <GDI_TiberiumPowerPlant.description>消耗泰伯利亚水晶发电，必须手动添加燃料。</GDI_TiberiumPowerPlant.description>
+  <GDI_TiberiumPowerPlant_Blueprint.label>GDI发电设备 (蓝图）</GDI_TiberiumPowerPlant_Blueprint.label>
+  <GDI_TiberiumPowerPlant_Frame.label>GDI发电设备 (建造中）</GDI_TiberiumPowerPlant_Frame.label>
+  <GDI_TiberiumPowerPlant_Frame.description>消耗泰伯利亚水晶发电，必须手动添加燃料。</GDI_TiberiumPowerPlant_Frame.description>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Citizen.label>市民</Citizen.label>
+  <Citizen.labelPlural>市民们</Citizen.labelPlural>
+
+  <CityDirector.label>城市主管</CityDirector.label>
+  <CityDirector.labelPlural>城市主管们</CityDirector.labelPlural>
+
+  <CityTrader.label>城市商人</CityTrader.label>
+  <CityTrader.labelPlural>城市商人们</CityTrader.labelPlural>
+
+  <GDIZoneTrooper.label>区域装甲兵</GDIZoneTrooper.label>
+  <GDIZoneTrooper.labelPlural>区域装甲兵</GDIZoneTrooper.labelPlural>
+
+  <GDIOfficerTroop.label>GDI警官</GDIOfficerTroop.label>
+  <GDIOfficerTroop.labelPlural>GDI警官们</GDIOfficerTroop.labelPlural>
+
+  <GDISoldier.label>GDI士兵</GDISoldier.label>
+  <GDISoldier.labelPlural>GDI士兵们</GDISoldier.labelPlural>
+
+
+</LanguageData>

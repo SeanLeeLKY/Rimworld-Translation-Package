@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Nod Structures -->
+
+  <Nod_Factory.label>Nod装配机</Nod_Factory.label>
+  <Nod_Factory.description>Nod装配机用来制作Nod派系的物品，武器和装甲</Nod_Factory.description>
+  <Nod_Factory_Blueprint.label>Nod装配机 (蓝图）</Nod_Factory_Blueprint.label>
+  <Nod_Factory_Frame.label>Nod装配机 (建造中）</Nod_Factory_Frame.label>
+  <Nod_Factory_Frame.description>Nod装配机用来制作Nod派系的物品，武器和装甲。</Nod_Factory_Frame.description>
+
+  <Nod_TiberiumRefinery.label>Nod高级泰晶精炼厂</Nod_TiberiumRefinery.label>
+  <Nod_TiberiumRefinery.description>高级泰晶精炼厂可用于将致命的泰伯利亚水晶提炼为多种材料。</Nod_TiberiumRefinery.description>
+  <Nod_TiberiumRefinery_Blueprint.label>Nod高级泰晶精炼厂 (蓝图）</Nod_TiberiumRefinery_Blueprint.label>
+  <Nod_TiberiumRefinery_Frame.label>Nod高级泰晶精炼厂 (建造中）</Nod_TiberiumRefinery_Frame.label>
+  <Nod_TiberiumRefinery_Frame.description>高级泰晶精炼厂可用于将致命的泰伯利亚水晶提炼为多种材料。</Nod_TiberiumRefinery_Frame.description>
+
+  <Nod_TiberiumPowerPlant.label>Nod发电设备</Nod_TiberiumPowerPlant.label>
+  <Nod_TiberiumPowerPlant.description>消耗泰伯利亚水晶发电， 必须手动添加燃料。</Nod_TiberiumPowerPlant.description>
+  <Nod_TiberiumPowerPlant_Blueprint.label>Nod发电设备 (蓝图）</Nod_TiberiumPowerPlant_Blueprint.label>
+  <Nod_TiberiumPowerPlant_Frame.label>Nod发电设备 (建造中）</Nod_TiberiumPowerPlant_Frame.label>
+  <Nod_TiberiumPowerPlant_Frame.description>消耗泰伯利亚水晶发电， 必须手动添加燃料。</Nod_TiberiumPowerPlant_Frame.description>
+
+</LanguageData>
