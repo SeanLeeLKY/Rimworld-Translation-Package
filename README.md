@@ -1,8 +1,8 @@
 # Rimworld-Translation-Package zh_CN
 ## Rimworld 模组汉化语言包
-### 当前版本:A16更新中
+### 当前版本:A17更新中
 > 集成大量的模组汉化.让你可以畅玩英文模组, 只需**一个汉化包**.
-大部分未更新到A16的MOD汉化也可以继续使用。
+大部分未更新到A17的MOD汉化也可以继续使用。
 
 
 ----------
@@ -73,6 +73,8 @@ AC制作增强 |AC-Enhanced Crafting|http://steamcommunity.com/sharedfiles/filed
 T衣物扩展|[T] ExpandedCloth| http://steamcommunity.com/sharedfiles/filedetails/?id=726236520 | TEC|A16
 远行队集结点|CaravanSpot| http://steamcommunity.com/sharedfiles/filedetails/?id=826824646| CS|A16
 燃料发电机|Chemfuel Generator|http://steamcommunity.com/sharedfiles/filedetails/?id=824303869| CG|A16
+边缘泰伯利亚|TiberiumRim|http://steamcommunity.com/sharedfiles/filedetails/?id=868415092| C&C|A17
+边缘泰伯利亚派系|TiberiumRim: Factions|http://steamcommunity.com/sharedfiles/filedetails/?id=1046028924| C&CF|A17
 
 
 
