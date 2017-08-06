@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Crawler Egg -->
+
+  <EggCrawelerUnfertilized.label>晶蛇卵 (未受精.)</EggCrawelerUnfertilized.label>
+  <EggCrawelerUnfertilized.description>未受精的蛇卵。可以生吃，但是最好还是烹饪一下。</EggCrawelerUnfertilized.description>
+
+  <EggCrawlerFertilized.label>晶蛇卵 (已受精.)</EggCrawlerFertilized.label>
+  <EggCrawlerFertilized.description>已受精的蛇卵。如果没有其他的问题，将会在一段时间后孵出小蛇。可以生吃，但是最好还是烹饪一下。</EggCrawlerFertilized.description>
+
+
+</LanguageData>

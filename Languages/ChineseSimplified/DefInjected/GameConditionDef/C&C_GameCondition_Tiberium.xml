@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IonStorm.label>离子风暴</IonStorm.label>
+  <IonStorm.description>注意！本地区正在经历一场离子风暴，电力短缺可能会导致一些意想不到的后果！</IonStorm.description>
+  <IonStorm.endMessage>离子风暴已经结束！</IonStorm.endMessage>
+
+
+</LanguageData>

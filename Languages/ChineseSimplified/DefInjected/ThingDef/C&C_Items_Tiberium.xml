@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GreenTiberiumRaw.label>未加工的绿色泰伯利亚晶体</GreenTiberiumRaw.label>
+  <GreenTiberiumRaw.description>一种原始的泰伯利亚晶体。可以用于提炼有用物质。</GreenTiberiumRaw.description>
+
+  <BlueTiberiumRaw.label>未加工的蓝色泰伯利亚晶体</BlueTiberiumRaw.label>
+  <BlueTiberiumRaw.description>一种原始的泰伯利亚晶体。可以用于提炼有用物质。</BlueTiberiumRaw.description>
+
+  <RedTiberiumRaw.label>未加工的红色泰伯利亚晶体</RedTiberiumRaw.label>
+  <RedTiberiumRaw.description>一种原始的泰伯利亚晶体。可以用于提炼有用物质。不过这种红色晶体比较稀有。</RedTiberiumRaw.description>
+
+  <VeinTiberiumRaw.label>未加工的泰伯利亚脉藤</VeinTiberiumRaw.label>
+  <VeinTiberiumRaw.description>一种在血肉兽穴周围蔓延生长的“植物”，其性质非常类似于活化的泰伯利亚晶体，可以用来提炼有用的物质。</VeinTiberiumRaw.description>
+
+  <TiberiumFuel.label>泰伯利亚燃料</TiberiumFuel.label>
+  <TiberiumFuel.description>从泰伯利亚晶体中提炼的物质。是一种很有用的燃料。</TiberiumFuel.description>
+
+  <BookRiparius.label>幽绿之书</BookRiparius.label>
+  <BookRiparius.description>泰伯利亚之幽绿。\n\n绿色品种的泰伯利亚是分布最广的泰伯利亚物质。\n\n早在这个边缘星球被感染之前，它就已经到达了地球。\n\n这种绿色的泰伯利亚晶体拥有非常高速的感染能力，通常在几天之内就能感染整个地区。\n\n如果你发现了这些东西，一定要小心应对！\n\n避免直接接触这些物质。\n\n换句话说，无论哪个品种的泰伯利亚，都拥有感染一切碳基生物，并且迅速将它们“水晶化”的能力。\n\n这种能力往往伴随着巨大的毒性物质释放。\n\n泰伯利亚这种未知的物质拥有这种奇特的能力，它能将它周围的一切碳基物质迅速转化成为和自己一样物质结构。\n\n这也是一种尚不明确的基于原子级别的物质转化过程。</BookRiparius.description>
+
+  <BookVinifera.label>蔚蓝之书</BookVinifera.label>
+  <BookVinifera.description>泰伯利亚之蔚蓝。\n\n这种蓝色的泰伯利亚晶体是绿色泰伯利亚晶体的“成熟”形式。\n\n它的存在是比较稀少的，当然，这是相对于绿色泰伯利亚晶体来说的。\n\n这个品种的泰伯利亚感染其他物质进度比较缓慢。\n\n不过，对于一般的生物来说，它依旧是剧毒的东西！\n\n泰伯利亚的这种自我进化和改变物质的方式充分证明了这种东西是一种生物性的物质。\n\n泰伯利亚在感染生物的时候一般不是要杀死它们。\n\n它会转变这些生物的生命模式，如果是动物，它们会作为泰伯利亚的“食物”存活，如果是植物，则会让它们适应泰伯利亚，并且成为泰伯利亚的传播媒介。\n\n截止到现在，我们仍旧不清楚有多少种类的泰伯利亚生物存在。\n\n长久的调查是必不可少的。</BookVinifera.description>
+
+  <BookRutila.label>真红之书</BookRutila.label>
+  <BookRutila.description>泰伯利亚之真红。\n\n红色的泰伯利亚晶体，非常的稀有。\n\n就像蓝色的品种一样，红色的晶体里面富含有更多的高价值物质。\n\n尽管第一次观察到泰伯利亚红晶的时候并没有发现它有扩散的能力，但是最近的观察表明，它已经进化出了这种能力，虽然扩散的速度非常缓慢。\n\n据推测，泰伯利亚红晶的成熟状态将会转变成---[数据丢失]---/---\n\n§)§$%?!%%##$%---</BookRutila.description>
+
+
+</LanguageData>

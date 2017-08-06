@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Tiberium_Damages_Structures>泰伯利亚损伤建筑物</Tiberium_Damages_Structures>
+  <Tiberium_Damages_Structures_Desc>决定泰伯利亚是否损伤建筑物。</Tiberium_Damages_Structures_Desc>
+  <Tiberium_Damages_Items>泰伯利亚损伤物品</Tiberium_Damages_Items>
+  <Tiberium_Damages_Items_Desc>决定泰伯利亚是否损伤物品。</Tiberium_Damages_Items_Desc>
+  <MessageTiberiumSuitLeak>泰伯利亚防护服泄漏！</MessageTiberiumSuitLeak>
+  <MustPlaceOnTiberiumGeyser>必须放置于泰伯利亚喷泉之上。</MustPlaceOnTiberiumGeyser>
+  <CannotReachTiberium>泰伯利亚成瘾的成员无法接触到泰伯利亚！</CannotReachTiberium>
+
+</LanguageData>

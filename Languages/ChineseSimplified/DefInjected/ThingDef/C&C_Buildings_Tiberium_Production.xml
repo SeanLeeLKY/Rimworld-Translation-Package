@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TiberiumRefinery.label>泰伯利亚精炼厂</TiberiumRefinery.label>
+  <TiberiumRefinery.description>一种特殊的化学处理设备。能够将完整的泰伯利亚晶体转化成为可以使用的资源。</TiberiumRefinery.description>
+  <TiberiumRefinery_Blueprint.label>泰伯利亚精炼厂 (蓝图)</TiberiumRefinery_Blueprint.label>
+  <TiberiumRefinery_Frame.label>泰伯利亚精炼厂 (建造中)</TiberiumRefinery_Frame.label>
+
+  <TiberiumPowerPlant.label>泰伯利亚电站</TiberiumPowerPlant.label>
+  <TiberiumPowerPlant.description>利用泰伯利亚燃料产生的化学反应生产电力。必须手动添加燃料。</TiberiumPowerPlant.description>
+  <TiberiumPowerPlant_Blueprint.label>泰伯利亚电站 (蓝图)</TiberiumPowerPlant_Blueprint.label>
+  <TiberiumPowerPlant_Frame.label>泰伯利亚电站 (建造中)</TiberiumPowerPlant_Frame.label>
+
+  <TiberiumSpike.label>泰伯利亚精炼塔</TiberiumSpike.label>
+  <TiberiumSpike.description>一个能缓慢的产生泰伯利亚晶体的建筑。</TiberiumSpike.description>
+  <TiberiumSpike_Blueprint.label>泰伯利亚精炼塔 (蓝图)</TiberiumSpike_Blueprint.label>
+  <TiberiumSpike_Frame.label>泰伯利亚精炼塔 (建造中)</TiberiumSpike_Frame.label>
+
+
+</LanguageData>

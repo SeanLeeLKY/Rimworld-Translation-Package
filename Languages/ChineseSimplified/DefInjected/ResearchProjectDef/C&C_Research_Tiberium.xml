@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TiberiumResearch.label>泰伯利亚基础研究</TiberiumResearch.label>
+  <TiberiumResearch.description>解锁泰伯利亚技术研究:\n\n -允许建造泰伯利亚研究建筑。</TiberiumResearch.description>
+
+  <TiberiumKnowledge.label>泰伯利亚知识</TiberiumKnowledge.label>
+  <TiberiumKnowledge.description>了解泰伯利亚晶体的基本知识:\n\n -允许建造泰伯利亚研究物品制作台(TRCA) \n\n -解锁在TRCA制作泰伯利亚（传奇）之书\n\n -解锁在TRCA制作泰伯利亚防护服。</TiberiumKnowledge.description>
+
+  <TiberiumResearchRefining.label>泰晶精炼技术</TiberiumResearchRefining.label>
+  <TiberiumResearchRefining.description>理解泰伯利亚晶体精炼技术。\n\n -允许建造泰伯利亚精炼厂。</TiberiumResearchRefining.description>
+
+  <TiberiumPower.label>泰晶能量技术</TiberiumPower.label>
+  <TiberiumPower.description>理解泰晶的能量构成，允许建造泰伯利亚发电站，解锁制作泰伯利亚燃料。</TiberiumPower.description>
+
+  <TiberiumInhibition.label>泰晶抑制技术</TiberiumInhibition.label>
+  <TiberiumInhibition.description>削弱泰伯利亚晶体的活力，抑制其进一步生长:\n\n -允许建造深地层冻结装置。</TiberiumInhibition.description>
+
+  <TiberiumInhibitionTribal.label>简易泰晶阻生器</TiberiumInhibitionTribal.label>
+  <TiberiumInhibitionTribal.description>简易方便的地面冰冻箱，它能以自己为中心，在小范围内形成一个有时间限制的土壤冰冻区域。原始但是方便有效的技术，紧急情况下可以迅速降低泰晶的危害。</TiberiumInhibitionTribal.description>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TiberiumResearchBench.label>泰伯利亚研究站</TiberiumResearchBench.label>
+  <TiberiumResearchBench.description>一个用于泰伯利亚科技的研究台。\n\n高科技工具能够加快研究速度。\n\n需要电力才能工作。</TiberiumResearchBench.description>
+  <TiberiumResearchBench_Blueprint.label>泰伯利亚研究站 (蓝图)</TiberiumResearchBench_Blueprint.label>
+  <TiberiumResearchBench_Frame.label>泰伯利亚研究站 (建造中)</TiberiumResearchBench_Frame.label>
+
+  <TiberiumResearchCraftingBench.label>泰伯利亚研制中心</TiberiumResearchCraftingBench.label>
+  <TiberiumResearchCraftingBench.description>这个建筑物用于制造泰伯利亚物品。</TiberiumResearchCraftingBench.description>
+  <TiberiumResearchCraftingBench_Blueprint.label>泰伯利亚研制中心 (蓝图)</TiberiumResearchCraftingBench_Blueprint.label>
+  <TiberiumResearchCraftingBench_Frame.label>泰伯利亚研制中心 (建造中)</TiberiumResearchCraftingBench_Frame.label>
+
+
+</LanguageData>

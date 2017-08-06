@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AteTiberiumMeatDirect.stages.0.label>吃了泰伯利亚生物肉</AteTiberiumMeatDirect.stages.0.label>
+  <AteTiberiumMeatDirect.stages.0.description>我吃了一些绿油油并且发着微光的肉，我感觉很不舒服。</AteTiberiumMeatDirect.stages.0.description>
+
+  <AteTiberiumMeatAsIngredient.stages.0.label>吃了烹饪过的泰伯利亚生物肉</AteTiberiumMeatAsIngredient.stages.0.label>
+  <AteTiberiumMeatAsIngredient.stages.0.description>我吃了一顿由发光的、绿油油的肉做的料理。调味料盖住了大部分的奇怪味道，但是仍然有一种灼烧感出现在我的舌头上和我的胃里。我觉得我一定是在作死！</AteTiberiumMeatAsIngredient.stages.0.description>
+
+
+</LanguageData>

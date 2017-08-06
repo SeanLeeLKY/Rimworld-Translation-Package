@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Visceroid_TBI.label>费瑟洛</Visceroid_TBI.label>
+  <Visceroid_TBI.labelPlural>费瑟洛</Visceroid_TBI.labelPlural>
+  <Visceroid_TBI.labelMale>雄性费瑟洛</Visceroid_TBI.labelMale>
+  <Visceroid_TBI.labelMalePlural>雄性费瑟洛</Visceroid_TBI.labelMalePlural>
+  <Visceroid_TBI.labelFemale>雌性费瑟洛</Visceroid_TBI.labelFemale>
+  <Visceroid_TBI.labelFemalePlural>雌性费瑟洛</Visceroid_TBI.labelFemalePlural>
+  <Visceroid_TBI.lifeStages.0.label>幼小费瑟洛</Visceroid_TBI.lifeStages.0.label>
+  <Visceroid_TBI.lifeStages.0.labelPlural>幼小费瑟洛</Visceroid_TBI.lifeStages.0.labelPlural>
+  <Visceroid_TBI.lifeStages.0.labelMale>雄性幼小费瑟洛</Visceroid_TBI.lifeStages.0.labelMale>
+  <Visceroid_TBI.lifeStages.0.labelMalePlural>雄性幼小费瑟洛</Visceroid_TBI.lifeStages.0.labelMalePlural>
+  <Visceroid_TBI.lifeStages.0.labelFemale>雌性幼小费瑟洛</Visceroid_TBI.lifeStages.0.labelFemale>
+  <Visceroid_TBI.lifeStages.0.labelFemalePlural>雌性幼小费瑟洛</Visceroid_TBI.lifeStages.0.labelFemalePlural>
+  <Visceroid_TBI.lifeStages.1.label>费瑟洛</Visceroid_TBI.lifeStages.1.label>
+  <Visceroid_TBI.lifeStages.1.labelPlural>费瑟洛</Visceroid_TBI.lifeStages.1.labelPlural>
+  <Visceroid_TBI.lifeStages.1.labelMale>雄性费瑟洛</Visceroid_TBI.lifeStages.1.labelMale>
+  <Visceroid_TBI.lifeStages.1.labelMalePlural>雄性费瑟洛</Visceroid_TBI.lifeStages.1.labelMalePlural>
+  <Visceroid_TBI.lifeStages.1.labelFemale>雌性费瑟洛</Visceroid_TBI.lifeStages.1.labelFemale>
+  <Visceroid_TBI.lifeStages.1.labelFemalePlural>雌性费瑟洛</Visceroid_TBI.lifeStages.1.labelFemalePlural>
+  <Visceroid_TBI.lifeStages.2.label>费瑟洛</Visceroid_TBI.lifeStages.2.label>
+  <Visceroid_TBI.lifeStages.2.labelPlural>费瑟洛</Visceroid_TBI.lifeStages.2.labelPlural>
+  <Visceroid_TBI.lifeStages.2.labelMale>雄性费瑟洛</Visceroid_TBI.lifeStages.2.labelMale>
+  <Visceroid_TBI.lifeStages.2.labelMalePlural>雄性费瑟洛</Visceroid_TBI.lifeStages.2.labelMalePlural>
+  <Visceroid_TBI.lifeStages.2.labelFemale>雌性费瑟洛</Visceroid_TBI.lifeStages.2.labelFemale>
+  <Visceroid_TBI.lifeStages.2.labelFemalePlural>雌性费瑟洛</Visceroid_TBI.lifeStages.2.labelFemalePlural>
+
+  <Veinmonster_TBI.label>血肉兽</Veinmonster_TBI.label>
+  <Veinmonster_TBI.labelPlural>血肉兽</Veinmonster_TBI.labelPlural>
+  <Veinmonster_TBI.labelMale>雄性血肉兽</Veinmonster_TBI.labelMale>
+  <Veinmonster_TBI.labelMalePlural>雄性血肉兽</Veinmonster_TBI.labelMalePlural>
+  <Veinmonster_TBI.labelFemale>雌性血肉兽</Veinmonster_TBI.labelFemale>
+  <Veinmonster_TBI.labelFemalePlural>雌性血肉兽</Veinmonster_TBI.labelFemalePlural>
+  <Veinmonster_TBI.lifeStages.0.label>幼小血肉兽</Veinmonster_TBI.lifeStages.0.label>
+  <Veinmonster_TBI.lifeStages.0.labelPlural>幼小血肉兽</Veinmonster_TBI.lifeStages.0.labelPlural>
+  <Veinmonster_TBI.lifeStages.0.labelMale>幼小雄性血肉兽</Veinmonster_TBI.lifeStages.0.labelMale>
+  <Veinmonster_TBI.lifeStages.0.labelMalePlural>幼小雄性血肉兽</Veinmonster_TBI.lifeStages.0.labelMalePlural>
+  <Veinmonster_TBI.lifeStages.0.labelFemale>幼小雌性血肉兽</Veinmonster_TBI.lifeStages.0.labelFemale>
+  <Veinmonster_TBI.lifeStages.0.labelFemalePlural>幼小雌性血肉兽</Veinmonster_TBI.lifeStages.0.labelFemalePlural>
+  <Veinmonster_TBI.lifeStages.1.label>血肉兽</Veinmonster_TBI.lifeStages.1.label>
+  <Veinmonster_TBI.lifeStages.1.labelPlural>血肉兽</Veinmonster_TBI.lifeStages.1.labelPlural>
+  <Veinmonster_TBI.lifeStages.1.labelMale>雄性血肉兽</Veinmonster_TBI.lifeStages.1.labelMale>
+  <Veinmonster_TBI.lifeStages.1.labelMalePlural>雄性血肉兽</Veinmonster_TBI.lifeStages.1.labelMalePlural>
+  <Veinmonster_TBI.lifeStages.1.labelFemale>雌性血肉兽</Veinmonster_TBI.lifeStages.1.labelFemale>
+  <Veinmonster_TBI.lifeStages.1.labelFemalePlural>雌性血肉兽</Veinmonster_TBI.lifeStages.1.labelFemalePlural>
+  <Veinmonster_TBI.lifeStages.2.label>血肉兽</Veinmonster_TBI.lifeStages.2.label>
+  <Veinmonster_TBI.lifeStages.2.labelPlural>血肉兽</Veinmonster_TBI.lifeStages.2.labelPlural>
+  <Veinmonster_TBI.lifeStages.2.labelMale>雄性血肉兽</Veinmonster_TBI.lifeStages.2.labelMale>
+  <Veinmonster_TBI.lifeStages.2.labelMalePlural>雄性血肉兽</Veinmonster_TBI.lifeStages.2.labelMalePlural>
+  <Veinmonster_TBI.lifeStages.2.labelFemale>雌性血肉兽</Veinmonster_TBI.lifeStages.2.labelFemale>
+  <Veinmonster_TBI.lifeStages.2.labelFemalePlural>雌性血肉兽</Veinmonster_TBI.lifeStages.2.labelFemalePlural>
+
+
+</LanguageData>

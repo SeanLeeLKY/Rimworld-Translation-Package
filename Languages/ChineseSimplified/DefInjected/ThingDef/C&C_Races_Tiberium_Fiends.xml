@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Thrimbo_TBI.label>泰伯利亚角兽</Thrimbo_TBI.label>
+  <Thrimbo_TBI.description>一头巨大未知种类生物，虽然看起来和独角兽一样，但是这个品种在泰伯利亚诱发的突变中存活了下来，自身因为对环境的变化而产生了一定的进化。小心，这种生物现在看起来不是那么友善了！</Thrimbo_TBI.description>
+  <Thrimbo_TBI_Leather.label>泰伯利亚角兽皮</Thrimbo_TBI_Leather.label>
+  <Thrimbo_TBI_Leather.description>泰伯利亚角兽皮</Thrimbo_TBI_Leather.description>
+  <Thrimbo_TBI_Leather.stuffProps.stuffAdjective>泰伯利亚角兽皮</Thrimbo_TBI_Leather.stuffProps.stuffAdjective>
+  <Thrimbo_TBI_Meat.label>泰伯利亚角兽肉</Thrimbo_TBI_Meat.label>
+  <Thrimbo_TBI_Meat.description>泰伯利亚角兽肉</Thrimbo_TBI_Meat.description>
+  <Thrimbo_TBI_Corpse.label>泰伯利亚角兽尸体</Thrimbo_TBI_Corpse.label>
+  <Thrimbo_TBI_Corpse.description>泰伯利亚角兽尸体</Thrimbo_TBI_Corpse.description>
+
+  <TiberiumTerror_TBI.label>泰伯利亚恐兽</TiberiumTerror_TBI.label>
+  <TiberiumTerror_TBI.description>一头巨大未知种类生物，看起来比独角兽更大。它黑蓝色的晶皮表示它非常的危险！</TiberiumTerror_TBI.description>
+  <TiberiumTerror_TBI_Leather.label>泰伯利亚恐兽皮</TiberiumTerror_TBI_Leather.label>
+  <TiberiumTerror_TBI_Leather.description>泰伯利亚恐兽皮</TiberiumTerror_TBI_Leather.description>
+  <TiberiumTerror_TBI_Leather.stuffProps.stuffAdjective>泰伯利亚恐兽皮</TiberiumTerror_TBI_Leather.stuffProps.stuffAdjective>
+  <TiberiumTerror_TBI_Meat.label>泰伯利亚恐兽肉</TiberiumTerror_TBI_Meat.label>
+  <TiberiumTerror_TBI_Meat.description>泰伯利亚恐兽肉</TiberiumTerror_TBI_Meat.description>
+  <TiberiumTerror_TBI_Corpse.label>泰伯利亚恐兽尸体</TiberiumTerror_TBI_Corpse.label>
+  <TiberiumTerror_TBI_Corpse.description>泰伯利亚恐兽尸体</TiberiumTerror_TBI_Corpse.description>
+
+  <BigTiberiumFiend_TBI.label>泰伯利亚狂兽</BigTiberiumFiend_TBI.label>
+  <BigTiberiumFiend_TBI.description>一种适应了泰矿的巨大杂食性哺乳动物。对于源生体熊来说，他们的皮毛已经结晶化，因此看起来身上长满晶刺。它们通常的饮食包括鱼、浆果、蜂蜜和腐肉，但这种生物可以利用其强大的力量和致命的爪子来杀死活的猎物。而且要小心，它们的速度非常快，别被它们的外表欺骗！</BigTiberiumFiend_TBI.description>
+  <BigTiberiumFiend_TBI_Leather.label>泰晶熊皮</BigTiberiumFiend_TBI_Leather.label>
+  <BigTiberiumFiend_TBI_Leather.description>泰晶熊皮</BigTiberiumFiend_TBI_Leather.description>
+  <BigTiberiumFiend_TBI_Leather.stuffProps.stuffAdjective>泰晶熊皮</BigTiberiumFiend_TBI_Leather.stuffProps.stuffAdjective>
+  <BigTiberiumFiend_TBI_Meat.label>泰晶熊肉</BigTiberiumFiend_TBI_Meat.label>
+  <BigTiberiumFiend_TBI_Meat.description>泰晶熊肉</BigTiberiumFiend_TBI_Meat.description>
+  <BigTiberiumFiend_TBI_Corpse.label>泰伯利亚狂兽尸体</BigTiberiumFiend_TBI_Corpse.label>
+  <BigTiberiumFiend_TBI_Corpse.description>泰伯利亚狂兽尸体</BigTiberiumFiend_TBI_Corpse.description>
+
+  <Tibscarab_TBI.label>突变甲虫</Tibscarab_TBI.label>
+  <Tibscarab_TBI.description>一种与泰伯利亚接触后发生突变的大型基因工程甲虫。</Tibscarab_TBI.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <Tibscarab_TBI_Corpse.label>突变甲虫尸体</Tibscarab_TBI_Corpse.label>
+  <Tibscarab_TBI_Corpse.description>突变甲虫尸体</Tibscarab_TBI_Corpse.description>
+
+  <TiberiumFiend_TBI.label>泰晶野狼</TiberiumFiend_TBI.label>
+  <TiberiumFiend_TBI.description>泰晶丛林中典型的捕食者。它们是泰伯利亚晶体群中最常见，也是最危险的生物之一。它们可以被训练，但是它们只接受那些它们信任的人。</TiberiumFiend_TBI.description>
+  <TiberiumFiend_TBI_Leather.label>泰晶野狼皮</TiberiumFiend_TBI_Leather.label>
+  <TiberiumFiend_TBI_Leather.description>泰晶野狼皮</TiberiumFiend_TBI_Leather.description>
+  <TiberiumFiend_TBI_Leather.stuffProps.stuffAdjective>泰晶野狼皮</TiberiumFiend_TBI_Leather.stuffProps.stuffAdjective>
+  <TiberiumFiend_TBI_Meat.label>泰晶野狼肉</TiberiumFiend_TBI_Meat.label>
+  <TiberiumFiend_TBI_Meat.description>泰晶野狼肉</TiberiumFiend_TBI_Meat.description>
+  <TiberiumFiend_TBI_Corpse.label>泰晶野狼尸体</TiberiumFiend_TBI_Corpse.label>
+  <TiberiumFiend_TBI_Corpse.description>泰晶野狼尸体</TiberiumFiend_TBI_Corpse.description>
+
+  <SmallTiberiumFiend_TBI.label>泰晶犬</SmallTiberiumFiend_TBI.label>
+  <SmallTiberiumFiend_TBI.description>一种被泰伯利亚感染的小型犬类。</SmallTiberiumFiend_TBI.description>
+  <SmallTiberiumFiend_TBI_Leather.label>泰晶犬皮</SmallTiberiumFiend_TBI_Leather.label>
+  <SmallTiberiumFiend_TBI_Leather.description>泰晶犬皮</SmallTiberiumFiend_TBI_Leather.description>
+  <SmallTiberiumFiend_TBI_Leather.stuffProps.stuffAdjective>泰晶犬皮</SmallTiberiumFiend_TBI_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: FoxFennec -->
+  <SmallTiberiumFiend_TBI_Corpse.label>泰晶犬尸体</SmallTiberiumFiend_TBI_Corpse.label>
+  <SmallTiberiumFiend_TBI_Corpse.description>泰晶犬尸体</SmallTiberiumFiend_TBI_Corpse.description>
+
+  <Crawler_TBI.label>晶蛇</Crawler_TBI.label>
+  <Crawler_TBI.description>一种被泰伯利亚感染的巨大蛇类动物。</Crawler_TBI.description>
+  <Crawler_TBI_Leather.label>Crawler Tiberium skin</Crawler_TBI_Leather.label>
+  <Crawler_TBI_Leather.description>晶蛇皮</Crawler_TBI_Leather.description>
+  <Crawler_TBI_Leather.stuffProps.stuffAdjective>晶蛇皮</Crawler_TBI_Leather.stuffProps.stuffAdjective>
+  <Crawler_TBI_Meat.label>晶蛇肉</Crawler_TBI_Meat.label>
+  <Crawler_TBI_Meat.description>晶蛇肉</Crawler_TBI_Meat.description>
+  <Crawler_TBI_Corpse.label>晶蛇尸体</Crawler_TBI_Corpse.label>
+  <Crawler_TBI_Corpse.description>晶蛇尸体</Crawler_TBI_Corpse.description>
+
+  <Boomfiend_TBI.label>爆兽</Boomfiend_TBI.label>
+  <Boomfiend_TBI.description>爆炸鼠变异的品种，一定要小心它们。</Boomfiend_TBI.description>
+  <Boomfiend_TBI_Leather.label>爆兽皮</Boomfiend_TBI_Leather.label>
+  <Boomfiend_TBI_Leather.description>爆兽皮</Boomfiend_TBI_Leather.description>
+  <Boomfiend_TBI_Leather.stuffProps.stuffAdjective>爆兽皮</Boomfiend_TBI_Leather.stuffProps.stuffAdjective>
+  <Boomfiend_TBI_Meat.label>爆兽肉</Boomfiend_TBI_Meat.label>
+  <Boomfiend_TBI_Meat.description>爆兽肉</Boomfiend_TBI_Meat.description>
+  <Boomfiend_TBI_Corpse.label>爆兽尸体</Boomfiend_TBI_Corpse.label>
+  <Boomfiend_TBI_Corpse.description>爆兽尸体</Boomfiend_TBI_Corpse.description>
+
+  <Spiner_TBI.label>晶牙兽</Spiner_TBI.label>
+  <Spiner_TBI.description>像狼一类的生物，但是被感染了泰伯利亚。这些晶牙兽非常危险，最好避免接触。</Spiner_TBI.description>
+  <Spiner_TBI_Leather.label>晶牙兽皮</Spiner_TBI_Leather.label>
+  <Spiner_TBI_Leather.description>晶牙兽皮</Spiner_TBI_Leather.description>
+  <Spiner_TBI_Leather.stuffProps.stuffAdjective>晶牙兽皮</Spiner_TBI_Leather.stuffProps.stuffAdjective>
+  <Spiner_TBI_Meat.label>晶牙兽肉</Spiner_TBI_Meat.label>
+  <Spiner_TBI_Meat.description>晶牙兽肉</Spiner_TBI_Meat.description>
+  <Spiner_TBI_Corpse.label>晶牙兽尸体</Spiner_TBI_Corpse.label>
+  <Spiner_TBI_Corpse.description>晶牙兽尸体</Spiner_TBI_Corpse.description>
+
+  <Tiffalo_TBI.label>泰晶野牛</Tiffalo_TBI.label>
+  <Tiffalo_TBI.description>这些生物已经失去的原始的组织结构，它们现在都已经部分晶体化了。同时，它们也不是那么友好了！</Tiffalo_TBI.description>
+  <Tiffalo_TBI_Leather.label>泰晶野牛皮</Tiffalo_TBI_Leather.label>
+  <Tiffalo_TBI_Leather.description>泰晶野牛皮</Tiffalo_TBI_Leather.description>
+  <Tiffalo_TBI_Leather.stuffProps.stuffAdjective>泰晶野牛皮</Tiffalo_TBI_Leather.stuffProps.stuffAdjective>
+  <Tiffalo_TBI_Meat.label>泰晶野牛肉</Tiffalo_TBI_Meat.label>
+  <Tiffalo_TBI_Meat.description>泰晶野牛肉</Tiffalo_TBI_Meat.description>
+  <Tiffalo_TBI_Corpse.label>泰晶野牛尸体</Tiffalo_TBI_Corpse.label>
+  <Tiffalo_TBI_Corpse.description>泰晶野牛尸体</Tiffalo_TBI_Corpse.description>
+
+
+</LanguageData>

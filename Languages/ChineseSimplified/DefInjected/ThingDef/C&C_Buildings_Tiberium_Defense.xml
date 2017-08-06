@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GroundFreezer.label>深地层冻结装置</GroundFreezer.label>
+  <GroundFreezer.description>这个装置对一定区域的地面进行深度冻结。霜和雪能有效抑制泰伯利亚晶体的生长。但是一定要要小心高温气候的影响！</GroundFreezer.description>
+  <GroundFreezer_Blueprint.label>深地层冻结装置 (蓝图)</GroundFreezer_Blueprint.label>
+  <GroundFreezer_Blueprint_Install.label>深地层冻结装置 (蓝图)</GroundFreezer_Blueprint_Install.label>
+  <GroundFreezer_Frame.label>深地层冻结装置 (建造中)</GroundFreezer_Frame.label>
+
+  <GroundFreezerTribal.label>地面冻结箱</GroundFreezerTribal.label>
+  <GroundFreezerTribal.description>作为蒸发冷却器的高级专业版本，它的能量足以使部分地面冻结，是对抗泰伯利亚生长的有效工具。</GroundFreezerTribal.description>
+  <GroundFreezerTribal_Blueprint.label>地面冻结箱 (蓝图)</GroundFreezerTribal_Blueprint.label>
+  <GroundFreezerTribal_Blueprint_Install.label>地面冻结箱 (蓝图)</GroundFreezerTribal_Blueprint_Install.label>
+  <GroundFreezerTribal_Frame.label>地面冻结箱 (建造中)</GroundFreezerTribal_Frame.label>
+
+
+</LanguageData>

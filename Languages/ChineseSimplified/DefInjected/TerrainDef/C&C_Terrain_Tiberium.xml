@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TiberiumRockGreen.label>泰伯利亚绿晶石</TiberiumRockGreen.label>
+  <TiberiumRockBlue.label>泰伯利亚蓝晶石</TiberiumRockBlue.label>
+  <TiberiumMossyTerrainGreen.label>覆满泰伯利亚绿藓的地面</TiberiumMossyTerrainGreen.label>
+  <TiberiumMossyTerrainBlue.label>覆满泰伯利亚蓝藓的地面</TiberiumMossyTerrainBlue.label>
+  <TiberiumSandGreen.label>泰伯利亚绿晶沙地</TiberiumSandGreen.label>
+  <TiberiumSandBlue.label>泰伯利亚蓝晶沙地</TiberiumSandBlue.label>
+  <TiberiumSandRed.label>泰伯利亚红晶沙地</TiberiumSandRed.label>
+  <TiberiumSoilGreen.label>泰伯利亚绿晶沙地</TiberiumSoilGreen.label>
+  <TiberiumSoilPod.label>泰伯利亚晶荚土壤</TiberiumSoilPod.label>
+  <TiberiumSoilBlue.label>泰伯利亚蓝晶土壤</TiberiumSoilBlue.label>
+  <TiberiumSoilRed.label>泰伯利亚红晶土壤</TiberiumSoilRed.label>
+  <VeinSoilRed.label>红色藤脉土壤</VeinSoilRed.label>
+  <TiberiumWater.label>泰伯利亚污水</TiberiumWater.label>
+  <DecrystallizedSoil.label>去晶土壤</DecrystallizedSoil.label>
+  <DecrystallizedSand.label>去晶沙地</DecrystallizedSand.label>
+
+
+</LanguageData>

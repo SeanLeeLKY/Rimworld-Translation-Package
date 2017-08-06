@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TiberiumCraterGreen_TBNS.label>绿晶原野</TiberiumCraterGreen_TBNS.label>
+  <TiberiumCraterGreen_TBNS.description>一片绿色晶体原野。</TiberiumCraterGreen_TBNS.description>
+
+  <TiberiumCraterBlue_TBNS.label>蓝晶原野</TiberiumCraterBlue_TBNS.label>
+  <TiberiumCraterBlue_TBNS.description>一片美丽的蓝色晶体。</TiberiumCraterBlue_TBNS.description>
+
+  <TiberiumMeteor_TBNS.label>泰伯利亚陨石</TiberiumMeteor_TBNS.label>
+  <TiberiumMeteor_TBNS.description>一颗天外陨石，里面包含了各式各样的晶体物质。</TiberiumMeteor_TBNS.description>
+
+  <TiberiumMonolith_TBNS.label>蓝色泰伯利亚晶柱</TiberiumMonolith_TBNS.label>
+  <TiberiumMonolith_TBNS.description>一颗钻出地面的蓝色泰伯利亚晶体柱。</TiberiumMonolith_TBNS.description>
+
+  <BlossomTree_TBNS.label>布洛瑟母树</BlossomTree_TBNS.label>
+  <BlossomTree_TBNS.description>一颗奇怪的外星树木，看起来它能够加速周围的绿晶生长</BlossomTree_TBNS.description>
+
+  <TiberiumShard_TBNS.label>泰伯利亚碎片</TiberiumShard_TBNS.label>
+  <TiberiumShard_TBNS.description>一大块外星陨石碎片，看起来很不寻常。</TiberiumShard_TBNS.description>
+
+  <Veinhole_TBNS.label>血肉兽穴</Veinhole_TBNS.label>
+  <Veinhole_TBNS.description>一个血肉兽的巢穴。由泰伯利亚物质从外星带来，在兽穴的周围会生长出大量的藤脉，但是要小心附近游荡的奇怪生物，而且如果过于靠近兽穴，可能会引发兽穴喷射大量有毒物质。</Veinhole_TBNS.description>
+
+  <TiberiumTower_TBNS.label>绿色泰伯利亚晶塔</TiberiumTower_TBNS.label>
+  <TiberiumTower_TBNS.description>一根从地下生出的晶塔，看起来需要很长时间才能形成这种东西。</TiberiumTower_TBNS.description>
+
+  <TiberiumGeyser.label>泰伯利亚喷泉</TiberiumGeyser.label>
+  <TiberiumGeyser.description>这个地热喷泉被泰伯利亚物质感染了。它周围的地面非常的不稳定，从它旁边走过可能会引起泰伯利亚毒气泄漏。它是泰伯利亚精炼塔的绝佳基址。</TiberiumGeyser.description>
+
+  <TiberiumCrack.label>泰伯利亚裂隙</TiberiumCrack.label>
+
+  <VeinholeHub_TBNS.label>兽穴节点</VeinholeHub_TBNS.label>
+  <VeinholeHub_TBNS.description>一个很像血肉兽穴的奇怪地穴，会攻击站在它附近的一切生物。</VeinholeHub_TBNS.description>
+
+  <VeinTentacle.label>藤脉触须</VeinTentacle.label>
+
+
+</LanguageData>

@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TiberiumGreen.label>绿色泰伯利亚晶体</TiberiumGreen.label>
+  <TiberiumGreen.description>盈盈发亮的绿色晶体。看起来神秘而独特。注意：直接接触可能会有巨大风险！</TiberiumGreen.description>
+
+  <TiberiumPod.label>绿色泰伯利亚晶荚</TiberiumPod.label>
+  <TiberiumPod.description>盈盈发亮的绿色晶体，从一个晶荚中涌出地面。看起来神秘而独特。注意：直接接触可能会有巨大风险！</TiberiumPod.description>
+
+  <TiberiumBlue.label>蓝色泰伯利亚晶体</TiberiumBlue.label>
+  <TiberiumBlue.description>盈盈发亮的蓝色晶体。美丽而神秘！</TiberiumBlue.description>
+
+  <TiberiumRed.label>红色泰伯利亚晶体</TiberiumRed.label>
+  <TiberiumRed.description>盈盈发亮的蓝色晶体。美丽而神秘！这很不寻常！</TiberiumRed.description>
+
+
+  <!-- Desert Tiberium -->
+
+  <TiberiumDesertGreen.label>绿色泰晶碎片</TiberiumDesertGreen.label>
+  <TiberiumDesertGreen.description>从沙子里面长出来的绿色碎片，看起来很不稳定！</TiberiumDesertGreen.description>
+
+  <TiberiumDesertBlue.label>蓝色泰晶碎片</TiberiumDesertBlue.label>
+  <TiberiumDesertBlue.description>从沙子里面长出来的蓝色碎片，看起来很不稳定！</TiberiumDesertBlue.description>
+
+  <TiberiumDesertRed.label>红色泰晶碎片</TiberiumDesertRed.label>
+  <TiberiumDesertRed.description>从沙子里面长出来的红色碎片，看起来很不稳定！</TiberiumDesertRed.description>
+
+
+  <!-- Tiberium Moss -->
+
+  <TiberiumMossGreen.label>绿色泰晶沼泽</TiberiumMossGreen.label>
+  <TiberiumMossGreen.description>一大片沼泽覆盖在地上。看起来有剧毒！</TiberiumMossGreen.description>
+
+  <TiberiumMossBlue.label>蓝色泰晶沼泽</TiberiumMossBlue.label>
+  <TiberiumMossBlue.description>一大片沼泽覆盖在地上。看起来有剧毒！</TiberiumMossBlue.description>
+
+  <TiberiumGlacier.label>红色泰晶沼泽</TiberiumGlacier.label>
+  <TiberiumGlacier.description>被污染的结晶化水。</TiberiumGlacier.description>
+
+  <TiberiumVein.label>脉藤</TiberiumVein.label>
+  <TiberiumVein.description>一种粘稠的，悸动的棕红色的类植物藤蔓。它是由一个血肉兽穴生长而来的。</TiberiumVein.description>
+
+
+  <!-- Decorative -->
+
+  <PlantGreenTiberium.label>泰伯利亚绿晶</PlantGreenTiberium.label>
+  <PlantGreenTiberium.description>美丽的绿色晶体，你看着它并接近的时候，会感觉到温暖如春。</PlantGreenTiberium.description>
+
+  <PlantBlueTiberium.label>泰伯利亚蓝晶</PlantBlueTiberium.label>
+  <PlantBlueTiberium.description>美丽的蓝色晶体，你看着它并接近的时候，会感觉到温暖如春。</PlantBlueTiberium.description>
+
+  <PlantRedTiberium.label>泰伯利亚红晶</PlantRedTiberium.label>
+  <PlantRedTiberium.description>美丽的红色晶体，你看着它并接近的时候，会感觉到温暖如春。</PlantRedTiberium.description>
+
+
+</LanguageData>

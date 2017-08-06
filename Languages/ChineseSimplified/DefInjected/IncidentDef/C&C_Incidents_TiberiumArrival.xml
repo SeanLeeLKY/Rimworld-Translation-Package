@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AsteroidGreen.label>泰伯利亚绿晶陨石</AsteroidGreen.label>
+  <AsteroidGreen.letterLabel>泰伯利亚绿晶陨石</AsteroidGreen.letterLabel>
+  <AsteroidGreen.letterText>警告！一颗奇怪的陨石在附近坠落，形成了一个陨石坑。\n\n似乎有一些奇怪的晶体从里面“生长”出来，还有一部分已经断裂，散布在这个坠落点。\n\n当心，这种未知的物质可能非常危险！</AsteroidGreen.letterText>
+
+  <AsteroidBlue.label>泰伯利亚蓝晶陨石</AsteroidBlue.label>
+  <AsteroidBlue.letterLabel>泰伯利亚蓝晶陨石</AsteroidBlue.letterLabel>
+  <AsteroidBlue.letterText>警告！一颗奇怪的陨石在附近坠落，形成了一个陨石坑。\n\n似乎有一些奇怪的晶体从里面“生长”出来，还有一部分已经断裂，散布在这个坠落点。\n\n当心，这种未知的物质可能非常危险！</AsteroidBlue.letterText>
+
+  <AsteroidMeteor.label>泰伯利亚陨石</AsteroidMeteor.label>
+  <AsteroidMeteor.letterLabel>泰伯利亚陨石坠落</AsteroidMeteor.letterLabel>
+  <AsteroidMeteor.letterText>警告！一颗奇怪的陨石在附近坠落。\n\n有一些奇怪的晶体从里面伸出。\n\n当心，这种未知的物质可能非常危险！</AsteroidMeteor.letterText>
+
+  <TiberiumShard.label>泰伯利亚碎片</TiberiumShard.label>
+  <TiberiumShard.letterLabel>泰伯利亚碎片</TiberiumShard.letterLabel>
+  <TiberiumShard.letterText>一种不同寻常的碎片掉落在本地。一些奇怪的红色晶体从碎片周围“生长”出来。\n\n当心，这种未知的物质可能非常危险！</TiberiumShard.letterText>
+
+  <BlossomTree.label>布洛瑟母树</BlossomTree.label>
+  <BlossomTree.letterLabel>奇怪的气体！</BlossomTree.letterLabel>
+  <BlossomTree.letterText>一团奇怪的气体飘过本地并突变了一颗大树。请留心周围的情况！</BlossomTree.letterText>
+
+  <VeinholeArrival.label>血肉兽穴</VeinholeArrival.label>
+  <VeinholeArrival.letterLabel>血肉兽穴</VeinholeArrival.letterLabel>
+  <VeinholeArrival.letterText>一个血肉兽穴出现在本地区！</VeinholeArrival.letterText>
+
+  <IonStormIncident.label>离子风暴</IonStormIncident.label>
+  <IonStormIncident.letterLabel>离子风暴</IonStormIncident.letterLabel>
+  <IonStormIncident.letterText>一场离子风暴开始了！\n\n强烈的辐射会使所有的电子暂时设备关闭。\n\n注意泰伯利亚晶体在此期间可能扩散！</IonStormIncident.letterText>
+
+  <BlossomTreeFiends.label>泰伯利亚野兽</BlossomTreeFiends.label>
+  <BlossomTreeFiends.letterLabel>泰伯利亚野兽</BlossomTreeFiends.letterLabel>
+  <BlossomTreeFiends.letterText>一群因为泰伯利亚良性突变而存活下来的野兽到达了本地区。它们会在一颗布洛瑟母树附近逗留。</BlossomTreeFiends.letterText>
+
+
+</LanguageData>
