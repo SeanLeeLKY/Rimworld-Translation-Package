@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SolarController.label>太阳能控制器</SolarController.label>
+  <SolarController.description>太阳能屋顶的电力接口。</SolarController.description>
+  <SolarController_Blueprint.label>太阳能控制器 (蓝图)</SolarController_Blueprint.label>
+  <SolarController_Frame.label>太阳能控制器 (建造中)</SolarController_Frame.label>
+
+
+</LanguageData>

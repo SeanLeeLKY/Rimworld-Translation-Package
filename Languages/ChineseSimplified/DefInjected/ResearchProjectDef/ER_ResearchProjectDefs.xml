@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TransparentRoofProduction.label>透光屋顶</TransparentRoofProduction.label>
+  <TransparentRoofProduction.description>可以建造用于温室的透光屋顶！</TransparentRoofProduction.description>
+
+  <SolarRoofProduction.label>太阳能屋顶</SolarRoofProduction.label>
+  <SolarRoofProduction.description>解锁太阳能控制器和太阳能屋顶！</SolarRoofProduction.description>
+
+  <ThickStoneRoofRemoval.label>厚岩顶（移除）</ThickStoneRoofRemoval.label>
+  <ThickStoneRoofRemoval.description>允许你移除厚岩顶！</ThickStoneRoofRemoval.description>
+
+  <ThickStoneRoofProduction.label>厚岩顶（建造）</ThickStoneRoofProduction.label>
+  <ThickStoneRoofProduction.description>允许你建造厚岩顶（防止空投骑脸）！</ThickStoneRoofProduction.description>
+
+
+</LanguageData>

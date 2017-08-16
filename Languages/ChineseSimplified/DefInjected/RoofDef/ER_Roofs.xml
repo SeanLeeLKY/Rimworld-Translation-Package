@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RoofTransparent.label>透光屋顶</RoofTransparent.label>
+  <RoofTransparent.description>可以透光但是能隔绝天气的屋顶！</RoofTransparent.description>
+
+  <RoofSolar.label>太阳能屋顶</RoofSolar.label>
+  <RoofSolar.description>能够发电的屋顶。必须要连接控制器才能运作。</RoofSolar.description>
+
+  <ThickStoneRoof.label>厚岩顶</ThickStoneRoof.label>
+  <ThickStoneRoof.description>厚岩顶。可以防止空投骑脸，也会拦阻运载仓！</ThickStoneRoof.description>
+
+
+</LanguageData>
