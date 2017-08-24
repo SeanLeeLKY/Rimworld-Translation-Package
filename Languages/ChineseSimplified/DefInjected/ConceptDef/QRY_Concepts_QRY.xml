@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught through the learning readout, when opportunities arise -->
+
+  <QRY_ReclaimingSoil.label>回收土壤</QRY_ReclaimingSoil.label>
+  <QRY_ReclaimingSoil.helpText>一旦采石场被解构，您可以使用平滑地板工具来指定殖民者用土壤覆盖旧地面，以获得一个可用的地形，那里的采石场曾经是.</QRY_ReclaimingSoil.helpText>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QRY_Quarry.label>采石场</QRY_Quarry.label>
+  <QRY_Quarry.description>一个大坑,长期挖掘埋藏的资源.</QRY_Quarry.description>
+  <QRY_Quarry_Blueprint.label>采石场 (蓝图)</QRY_Quarry_Blueprint.label>
+  <QRY_Quarry_Frame.label>采石场 (建造中)</QRY_Quarry_Frame.label>
+  <QRY_Quarry_Frame.description>一个大坑,长期挖掘埋藏的资源.</QRY_Quarry_Frame.description>
+
+  <QRY_Platform.label>采石场平台</QRY_Platform.label>
+  <QRY_Platform.description>采石场的工人把资源转移到平台.必须放置在采石场旁边，最好靠近梯子. 采石场只能连接到一个或两个平台.</QRY_Platform.description>
+  <QRY_Platform_Blueprint.label>采石场平台(蓝图)</QRY_Platform_Blueprint.label>
+  <QRY_Platform_Frame.label>采石场平台 (建造中)</QRY_Platform_Frame.label>
+  <QRY_Platform_Frame.description>采石场的工人把资源转移到平台.必须放置在采石场旁边，最好靠近梯子. 采石场只能连接到一个或两个平台.</QRY_Platform_Frame.description>
+
+
+</LanguageData>
