@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Modded resources only get loaded if the mod they come from is installed -->
+
+  <CuproResources.label>CuproPanda的mod添加的资源</CuproResources.label>
+
+
+</LanguageData>
