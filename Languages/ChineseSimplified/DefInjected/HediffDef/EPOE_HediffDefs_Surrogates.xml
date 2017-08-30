@@ -1,16 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<BrainStimulator.label>脑刺激器</BrainStimulator.label>
+  <!-- Added body parts -->
 
-	<SurrogateLung.label>替代体肺</SurrogateLung.label>
+  <BrainStimulator.label>脑激励器</BrainStimulator.label>
+  <SurrogateLung.label>替代体肺</SurrogateLung.label>
+  <SurrogateStomach.label>替代体胃</SurrogateStomach.label>
+  <SurrogateLiver.label>替代体肝</SurrogateLiver.label>
+  <SurrogateKidney.label>替代体肾</SurrogateKidney.label>
+  <SurrogateHeart.label>替代体心</SurrogateHeart.label>
 
-	<SurrogateStomach.label>替代体胃</SurrogateStomach.label>
-
-	<SurrogateLiver.label>替代体肝</SurrogateLiver.label>
-
-	<SurrogateKidney.label>替代体肾</SurrogateKidney.label>
-
-	<SurrogateHeart.label>替代体心脏</SurrogateHeart.label>
 
 </LanguageData>

@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<SteelArm.label>钢臂</SteelArm.label>
+  <!-- Added body parts -->
 
-	<EyePatch.label>眼罩</EyePatch.label>
+  <SteelArm.label>铁臂</SteelArm.label>
+  <EyePatch.label>眼罩</EyePatch.label>
+  <HookHand.label>勾手</HookHand.label>
+  <denture.label>假牙</denture.label>
+  <!--[Core] <PegLeg.label>木腿</PegLeg.label>-->
+  <WoodenFoot.label>木足</WoodenFoot.label>
+  <EarBandage.label>耳绷带</EarBandage.label>
 
-	<HookHand.label>铁钩手</HookHand.label>
-
-        <denture.label>义齿</denture.label>
-
-	<PegLeg.label>木腿</PegLeg.label>
-
-	<WoodenFoot.label>木脚</WoodenFoot.label>
-
-	<EarBandage.label>绑耳</EarBandage.label>
 
 </LanguageData>

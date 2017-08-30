@@ -1,16 +1,19 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<BasicProstheses.label>基本假肢</BasicProstheses.label>
+  <!-- Prostheses -->
 
-	<SimpleProstheses.label>简单假肢</SimpleProstheses.label>
+  <BasicProstheses.label>基本假体</BasicProstheses.label>
+  <SimpleProstheses.label>简易假体</SimpleProstheses.label>
+  <BionicProstheses.label>仿生体</BionicProstheses.label>
+  <AdvancedProstheses.label>先进仿生体</AdvancedProstheses.label>
+  <GlitterworldParts.label>閃耀世界部件</GlitterworldParts.label>
 
-	<BionicProstheses.label>仿生体</BionicProstheses.label>
 
-	<AdvancedProstheses.label>先进仿生体</AdvancedProstheses.label>
+  <!-- Organs -->
 
-	<SurrogateOrgans.label>替代体器官</SurrogateOrgans.label>
+  <SurrogateOrgans.label>替代体器官</SurrogateOrgans.label>
+  <SyntheticOrgans.label>合成器官</SyntheticOrgans.label>
 
-	<SyntheticOrgans.label>合成器官</SyntheticOrgans.label>
 
 </LanguageData>

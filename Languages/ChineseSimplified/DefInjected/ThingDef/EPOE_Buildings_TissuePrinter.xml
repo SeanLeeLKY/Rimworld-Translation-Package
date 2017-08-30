@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TableOrgans.label>组织打印机</TableOrgans.label>
+  <TableOrgans.description>装配了用于制作器官的3D打印机的工作站。</TableOrgans.description>
+  <TableOrgans_Blueprint.label>组织打印机（蓝图）</TableOrgans_Blueprint.label>
+  <TableOrgans_Frame.label>组织打印机（建造中）</TableOrgans_Frame.label>
+  <TableOrgans_Frame.description>装配了用于制作器官的3D打印机的工作站。</TableOrgans_Frame.description>
+
+
+</LanguageData>

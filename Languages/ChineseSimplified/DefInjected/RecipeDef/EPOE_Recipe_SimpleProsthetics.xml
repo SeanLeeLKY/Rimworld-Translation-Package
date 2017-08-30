@@ -1,40 +1,50 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<InstallGoldenEye.label>安装黄金眼球</InstallGoldenEye.label>
+  <!-- Vanilla -->
 
-	<InstallGoldenEye.description>安装黄金眼球。</InstallGoldenEye.description>
+  <!--[Core] <InstallSimpleProstheticLeg.label>安装简易的假腿</InstallSimpleProstheticLeg.label>-->
+  <!--[Core] <InstallSimpleProstheticLeg.description>安装简易的假腿。</InstallSimpleProstheticLeg.description>-->
+  <!--[Core] <InstallSimpleProstheticLeg.jobString>正在安装简易的假腿。</InstallSimpleProstheticLeg.jobString>-->
 
-	<InstallGoldenEye.jobString>正在安装黄金眼球。</InstallGoldenEye.jobString>
+  <!--[Core] <InstallSimpleProstheticArm.label>安装简易的假臂</InstallSimpleProstheticArm.label>-->
+  <!--[Core] <InstallSimpleProstheticArm.description>安装简易的假臂。</InstallSimpleProstheticArm.description>-->
+  <!--[Core] <InstallSimpleProstheticArm.jobString>正在安装简易的假臂。</InstallSimpleProstheticArm.jobString>-->
 
-	<InstallSimpleProstheticHand.label>安装简易假手</InstallSimpleProstheticHand.label>
 
-	<InstallSimpleProstheticHand.description>安装简易假手。</InstallSimpleProstheticHand.description>
+  <!-- Mod -->
 
-	<InstallSimpleProstheticHand.jobString>安装简易假手。</InstallSimpleProstheticHand.jobString>
+  <InstallGoldenEye.label>安装黄金眼</InstallGoldenEye.label>
+  <InstallGoldenEye.description>安装黄金眼。</InstallGoldenEye.description>
+  <InstallGoldenEye.jobString>正在安装黄金眼。</InstallGoldenEye.jobString>
 
-	<InstallSimpleProstheticFoot.label>安装简易假脚</InstallSimpleProstheticFoot.label>
+  <InstallLightReceptor.label>安装光接受器</InstallLightReceptor.label>
+  <InstallLightReceptor.description>安装光接受器。</InstallLightReceptor.description>
+  <InstallLightReceptor.jobString>正在安装光接受器。</InstallLightReceptor.jobString>
 
-	<InstallSimpleProstheticFoot.description>安装简易假脚。</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticHand.label>安装简易的假手</InstallSimpleProstheticHand.label>
+  <InstallSimpleProstheticHand.description>安装简易的假手。</InstallSimpleProstheticHand.description>
+  <InstallSimpleProstheticHand.jobString>正在安装简易的假手。</InstallSimpleProstheticHand.jobString>
 
-	<InstallSimpleProstheticFoot.jobString>正在安装简易假脚。</InstallSimpleProstheticFoot.jobString>
+  <InstallSimpleProstheticFoot.label>安装简易的假足</InstallSimpleProstheticFoot.label>
+  <InstallSimpleProstheticFoot.description>安装a简易的假足。</InstallSimpleProstheticFoot.description>
+  <InstallSimpleProstheticFoot.jobString>正在安装简易的假足。</InstallSimpleProstheticFoot.jobString>
 
-	<InstallArtificialNose.label>安装假鼻子</InstallArtificialNose.label>
+  <InstallArtificialNose.label>安装人造鼻</InstallArtificialNose.label>
+  <InstallArtificialNose.description>安装人造鼻。</InstallArtificialNose.description>
+  <InstallArtificialNose.jobString>正在安装人造鼻。</InstallArtificialNose.jobString>
 
-	<InstallArtificialNose.description>安装假鼻子。</InstallArtificialNose.description>
+  <InstallHydraulicJaw.label>安装液压颌</InstallHydraulicJaw.label>
+  <InstallHydraulicJaw.description>安装液压颌。</InstallHydraulicJaw.description>
+  <InstallHydraulicJaw.jobString>正在安装液压颌。</InstallHydraulicJaw.jobString>
 
-	<InstallArtificialNose.jobString>正在安装假鼻子。</InstallArtificialNose.jobString>
+  <InstallArtificialPelvis.label>安装人造骨盆</InstallArtificialPelvis.label>
+  <InstallArtificialPelvis.description>安装人造骨盆。</InstallArtificialPelvis.description>
+  <InstallArtificialPelvis.jobString>正在安装人造骨盆。</InstallArtificialPelvis.jobString>
 
-	<InstallHydraulicJaw.label>安装液压颌</InstallHydraulicJaw.label>
+  <InstallArtificialClavicle.label>安装人造锁骨</InstallArtificialClavicle.label>
+  <InstallArtificialClavicle.description>安装人造锁骨。</InstallArtificialClavicle.description>
+  <InstallArtificialClavicle.jobString>正在安装人造锁骨。</InstallArtificialClavicle.jobString>
 
-	<InstallHydraulicJaw.description>安装液压颌。</InstallHydraulicJaw.description>
-
-	<InstallHydraulicJaw.jobString>正在安装液压颌。</InstallHydraulicJaw.jobString>
-
-	<InstallArtificialPelvis.label>安装人造骨盆</InstallArtificialPelvis.label>
-
-	<InstallArtificialPelvis.description>安装人造骨盆。</InstallArtificialPelvis.description>
-
-	<InstallArtificialPelvis.jobString>正在安装人造骨盆。</InstallArtificialPelvis.jobString>
 
 </LanguageData>

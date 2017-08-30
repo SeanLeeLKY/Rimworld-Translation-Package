@@ -1,18 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Stomach.label>胃</Stomach.label>
+  <!-- Natural body parts -->
 
-	<Heart.label>心脏</Heart.label>
+  <Stomach.label>胃</Stomach.label>
+  <Heart.label>心脏</Heart.label>
+  <Nose.label>鼻</Nose.label>
+  <Arm.label>臂</Arm.label>
+  <Leg.label>腿</Leg.label>
+  <Jaw.label>颌</Jaw.label>
+  <Eye.label>眼</Eye.label>
 
-	<Nose.label>鼻子</Nose.label>
-
-	<Arm.label>臂</Arm.label>
-
-	<Leg.label>腿</Leg.label>
-
-	<Jaw.label>颌</Jaw.label>
-
-	<Eye.label>眼</Eye.label>
 
 </LanguageData>

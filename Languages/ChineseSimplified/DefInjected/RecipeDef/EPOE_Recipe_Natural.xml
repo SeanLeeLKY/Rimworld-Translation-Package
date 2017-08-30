@@ -1,46 +1,54 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<InstallNaturalEye.label>植入眼球</InstallNaturalEye.label>
+  <!-- Vanilla -->
 
-	<InstallNaturalEye.description>植入眼球。</InstallNaturalEye.description>
+  <!--[Core] <InstallNaturalHeart.label>植入心脏</InstallNaturalHeart.label>-->
+  <!--[Core] <InstallNaturalHeart.description>将心脏植入身体。</InstallNaturalHeart.description>-->
+  <!--[Core] <InstallNaturalHeart.jobString>正在植入心脏。</InstallNaturalHeart.jobString>-->
 
-	<InstallNaturalEye.jobString>正在植入眼球。</InstallNaturalEye.jobString>
+  <!--[Core] <InstallNaturalLiver.label>植入肝脏</InstallNaturalLiver.label>-->
+  <!--[Core] <InstallNaturalLiver.description>将肝脏植入身体。</InstallNaturalLiver.description>-->
+  <!--[Core] <InstallNaturalLiver.jobString>正在植入肝脏。</InstallNaturalLiver.jobString>-->
 
-	<InstallNaturalNose.label>移植鼻子</InstallNaturalNose.label>
+  <!--[Core] <InstallNaturalKidney.label>植入肾脏</InstallNaturalKidney.label>-->
+  <!--[Core] <InstallNaturalKidney.description>将肾脏植入身体。</InstallNaturalKidney.description>-->
+  <!--[Core] <InstallNaturalKidney.jobString>正在植入肾脏。</InstallNaturalKidney.jobString>-->
 
-	<InstallNaturalNose.description>移植鼻子。</InstallNaturalNose.description>
+  <!--[Core] <InstallNaturalLung.label>植入肺</InstallNaturalLung.label>-->
+  <!--[Core] <InstallNaturalLung.description>将肺植入身体。</InstallNaturalLung.description>-->
+  <!--[Core] <InstallNaturalLung.jobString>正在植入肺。</InstallNaturalLung.jobString>-->
 
-	<InstallNaturalNose.jobString>正在移植鼻子。</InstallNaturalNose.jobString>
 
-	<InstallNaturalEar.label>移植耳朵</InstallNaturalEar.label>
+  <!-- EPOE -->
 
-	<InstallNaturalEar.description>移植耳朵。</InstallNaturalEar.description>
+  <InstallNaturalEye.label>植入眼球</InstallNaturalEye.label>
+  <InstallNaturalEye.description>植入眼球。</InstallNaturalEye.description>
+  <InstallNaturalEye.jobString>正在植入眼球。</InstallNaturalEye.jobString>
 
-	<InstallNaturalEar.jobString>正在移植耳朵。</InstallNaturalEar.jobString>
+  <InstallNaturalNose.label>移植鼻子</InstallNaturalNose.label>
+  <InstallNaturalNose.description>移植鼻子。</InstallNaturalNose.description>
+  <InstallNaturalNose.jobString>移植鼻子。</InstallNaturalNose.jobString>
 
-	<InstallNaturalJaw.label>移植下颌</InstallNaturalJaw.label>
+  <InstallNaturalEar.label>移植耳朵</InstallNaturalEar.label>
+  <InstallNaturalEar.description>移植耳朵。</InstallNaturalEar.description>
+  <InstallNaturalEar.jobString>正在移植耳朵。</InstallNaturalEar.jobString>
 
-	<InstallNaturalJaw.description>移植下颌。</InstallNaturalJaw.description>
+  <InstallNaturalJaw.label>移植下颌</InstallNaturalJaw.label>
+  <InstallNaturalJaw.description>移植下颌。</InstallNaturalJaw.description>
+  <InstallNaturalJaw.jobString>正在移植下颌。</InstallNaturalJaw.jobString>
 
-	<InstallNaturalJaw.jobString>正在移植下颌。</InstallNaturalJaw.jobString>
+  <InstallNaturalArm.label>移植臂</InstallNaturalArm.label>
+  <InstallNaturalArm.description>移植臂。</InstallNaturalArm.description>
+  <InstallNaturalArm.jobString>正在移植臂。</InstallNaturalArm.jobString>
 
-	<InstallNaturalArm.label>移植臂</InstallNaturalArm.label>
+  <InstallNaturalLeg.label>移植腿</InstallNaturalLeg.label>
+  <InstallNaturalLeg.description>移植腿。</InstallNaturalLeg.description>
+  <InstallNaturalLeg.jobString>正在移植腿。</InstallNaturalLeg.jobString>
 
-	<InstallNaturalArm.description>移植臂。</InstallNaturalArm.description>
+  <InstallNaturalStomach.label>植入胃</InstallNaturalStomach.label>
+  <InstallNaturalStomach.description>植入胃。</InstallNaturalStomach.description>
+  <InstallNaturalStomach.jobString>正在植入胃。</InstallNaturalStomach.jobString>
 
-	<InstallNaturalArm.jobString>正在移植臂。</InstallNaturalArm.jobString>
-
-	<InstallNaturalLeg.label>移植腿</InstallNaturalLeg.label>
-
-	<InstallNaturalLeg.description>移植腿。</InstallNaturalLeg.description>
-
-	<InstallNaturalLeg.jobString>正在移植腿。</InstallNaturalLeg.jobString>
-
-	<InstallNaturalStomach.label>植入胃</InstallNaturalStomach.label>
-
-	<InstallNaturalStomach.description>植入胃。</InstallNaturalStomach.description>
-
-	<InstallNaturalStomach.jobString>正在植入胃。</InstallNaturalStomach.jobString>
 
 </LanguageData>

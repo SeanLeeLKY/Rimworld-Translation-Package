@@ -1,28 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<BrainStimulator.label>脑刺激器</BrainStimulator.label>
+  <!-- Added body parts -->
 
-	<BrainStimulator.description>一种用电流来刺激大脑的微型装置，以增强意识和行动。</BrainStimulator.description>
+  <BrainStimulator.label>脑激励器</BrainStimulator.label>
+  <BrainStimulator.description>对大脑剩余部分尽最大可能进行刺激的小设备。建议仅用于严重大脑损伤。需要完成脑部手术研究才能安装。</BrainStimulator.description>
 
-	<SurrogateLung.label>替体代肺</SurrogateLung.label>
+  <SurrogateLung.label>替代体肺</SurrogateLung.label>
+  <SurrogateLung.description>初级肺替代体。会发出低沉的喀喀噪音。</SurrogateLung.description>
 
-	<SurrogateLung.description>一种基本的肺的替代品。深呼吸吧。</SurrogateLung.description>
+  <SurrogateStomach.label>替代体胃</SurrogateStomach.label>
+  <SurrogateStomach.description>初级的胃替代体。</SurrogateStomach.description>
 
-	<SurrogateStomach.label>替代体胃</SurrogateStomach.label>
+  <SurrogateLiver.label>替代体肝</SurrogateLiver.label>
+  <SurrogateLiver.description>初级的血液过滤器。在维持血糖水平稳定方面有些问题。</SurrogateLiver.description>
 
-	<SurrogateStomach.description>一种基本的胃的替代品。</SurrogateStomach.description>
+  <SurrogateKidney.label>替代体肾</SurrogateKidney.label>
+  <SurrogateKidney.description>初级的肾替代体。可能的副作用之一是导致脸色苍白。</SurrogateKidney.description>
 
-	<SurrogateLiver.label>替代体肝</SurrogateLiver.label>
+  <SurrogateHeart.label>替代体心</SurrogateHeart.label>
+  <SurrogateHeart.description>或多或少能维持血液循环。</SurrogateHeart.description>
 
-	<SurrogateLiver.description>一种基本的血液过滤器。在维持血糖水平方面有问题。</SurrogateLiver.description>
-
-	<SurrogateKidney.label>替代体肾</SurrogateKidney.label>
-
-	<SurrogateKidney.description>一种基本的肾的替代品。副作用之一是脸色苍白。</SurrogateKidney.description>
-
-	<SurrogateHeart.label>替代体心脏</SurrogateHeart.label>
-
-	<SurrogateHeart.description>或多或少有点效力的泵以维持血液循环。</SurrogateHeart.description>
 
 </LanguageData>

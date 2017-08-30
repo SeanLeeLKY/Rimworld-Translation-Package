@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- EPOE -->
+
+  <InstallMuscleStimulatorArms.label>安装肌肉激励器</InstallMuscleStimulatorArms.label>
+  <InstallMuscleStimulatorArms.description>安装肌肉激励器。</InstallMuscleStimulatorArms.description>
+  <InstallMuscleStimulatorArms.jobString>正在安装肌肉激励器。</InstallMuscleStimulatorArms.jobString>
+
+  <InstallMuscleStimulatorLegs.label>安装肌肉激励器</InstallMuscleStimulatorLegs.label>
+  <InstallMuscleStimulatorLegs.description>安装肌肉激励器。</InstallMuscleStimulatorLegs.description>
+  <InstallMuscleStimulatorLegs.jobString>正在安装肌肉激励器。</InstallMuscleStimulatorLegs.jobString>
+
+  <InstallTacticalCorneaImplant.label>安装战术角膜植入体</InstallTacticalCorneaImplant.label>
+  <InstallTacticalCorneaImplant.description>安装战术角膜植入体。</InstallTacticalCorneaImplant.description>
+  <InstallTacticalCorneaImplant.jobString>正在安装战术角膜植入体。</InstallTacticalCorneaImplant.jobString>
+
+  <InstallConstructorCore.label>安装辅助AI（建造）</InstallConstructorCore.label>
+  <InstallConstructorCore.description>安装辅助AI（建造）。</InstallConstructorCore.description>
+  <InstallConstructorCore.jobString>正在安装辅助AI（建造）。</InstallConstructorCore.jobString>
+
+  <InstallFarmerCore.label>安装辅助AI（农业）</InstallFarmerCore.label>
+  <InstallFarmerCore.description>安装辅助AI（农业）。</InstallFarmerCore.description>
+  <InstallFarmerCore.jobString>正在安装辅助AI（农业）。</InstallFarmerCore.jobString>
+
+  <InstallMinerCore.label>安装辅助AI（采矿）</InstallMinerCore.label>
+  <InstallMinerCore.description>安装辅助AI（采矿）。</InstallMinerCore.description>
+  <InstallMinerCore.jobString>正在安装辅助AI（采矿）。</InstallMinerCore.jobString>
+
+  <InstallDoctorCore.label>安装辅助AI（医疗）</InstallDoctorCore.label>
+  <InstallDoctorCore.description>安装辅助AI（医疗）。</InstallDoctorCore.description>
+  <InstallDoctorCore.jobString>正在安装辅助AI（医疗）。</InstallDoctorCore.jobString>
+
+  <InstallDiplomatCore.label>安装辅助AI（外交）</InstallDiplomatCore.label>
+  <InstallDiplomatCore.description>安装辅助AI（外交）。</InstallDiplomatCore.description>
+  <InstallDiplomatCore.jobString>正在安装辅助AI（外交）。</InstallDiplomatCore.jobString>
+
+
+</LanguageData>

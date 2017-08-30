@@ -1,36 +1,37 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<GoldenEye.label>黄金眼</GoldenEye.label>
+  <!-- Added body parts -->
 
-	<GoldenEye.description>代替缺失的眼睛。非常漂亮，可惜的是你不能从镜子里看到自己了。</GoldenEye.description>
+  <GoldenEye.label>黄金眼</GoldenEye.label>
+  <GoldenEye.description>用来代替缺失的眼睛。非常非常漂亮，但遗憾的是你还是无法从镜子中看到自己。</GoldenEye.description>
 
-	<ArtificialNose.label>假鼻子</ArtificialNose.label>
+  <ArtificialNose.label>人造鼻</ArtificialNose.label>
+  <ArtificialNose.description>用来代替缺失的鼻子。填补脸中央的空洞。</ArtificialNose.description>
 
-	<ArtificialNose.description>代替缺失的鼻子。把脸上的空洞遮住。</ArtificialNose.description>
+  <HydraulicJaw.label>液压颌</HydraulicJaw.label>
+  <HydraulicJaw.description>用来代替缺失的下颌。要小心极高效率的牙齿！</HydraulicJaw.description>
 
-	<HydraulicJaw.label>液压颌</HydraulicJaw.label>
+  <LightReceptor.label>光接受器</LightReceptor.label>
+  <LightReceptor.description>用来代替缺失的眼睛。可以感受光线甚至物体。就像透过毛玻璃看东西一样，但无法感受色彩。</LightReceptor.description>
 
-	<HydraulicJaw.description>代替缺失的下巴。极高的咬合力，务必小心！</HydraulicJaw.description>
+  <SimpleProstheticHand.label>简易的假手</SimpleProstheticHand.label>
+  <SimpleProstheticHand.description>用来代替缺失的手，不是很舒服但是相当有效。</SimpleProstheticHand.description>
 
-	<SimpleProstheticHand.label>简易假手</SimpleProstheticHand.label>
+  <SimpleProstheticFoot.label>简易的假足</SimpleProstheticFoot.label>
+  <SimpleProstheticFoot.description>用来代替缺失的脚，不是很舒服但是相当有效。</SimpleProstheticFoot.description>
 
-	<SimpleProstheticHand.description>代替缺失的手。相比铁勾手，这是更舒适且不那么渗人的选择。</SimpleProstheticHand.description>
+  <!--[Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->
+  <!--[Core] <SimpleProstheticLeg.description>用来替换缺失的腿的假肢，不是很舒服但是相当有效。</SimpleProstheticLeg.description>-->
 
-	<SimpleProstheticFoot.label>简易假脚</SimpleProstheticFoot.label>
+  <!--[Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
+  <!--[Core] <SimpleProstheticArm.description>简易但耐用的假臂。</SimpleProstheticArm.description>-->
 
-	<SimpleProstheticFoot.description>代替缺失的脚。没有拐杖便宜。</SimpleProstheticFoot.description>
+  <ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
+  <ArtificialPelvis.description>用来代替缺失的骨盆。如果你不想在地上到处爬的话，还是非常有用的。</ArtificialPelvis.description>
 
-	<!--SimpleProstheticLeg.label>简易假腿</SimpleProstheticLeg.label-->
+  <ArtificialClavicle.label>人造锁骨</ArtificialClavicle.label>
+  <ArtificialClavicle.description>用来代替确实的锁骨。如果你不小心弄碎了原装的话。</ArtificialClavicle.description>
 
-	<!--SimpleProstheticLeg.description>用来替换缺失的腿的假肢，不是很舒服但是效率很高。</SimpleProstheticLeg.description-->
-
-	<!--SimpleProstheticArm.label>简易假臂</SimpleProstheticArm.label-->
-
-	<!--SimpleProstheticArm.description>简单但耐用的假臂。</SimpleProstheticArm.description-->
-
-	<ArtificialPelvis.label>人造骨盆</ArtificialPelvis.label>
-
-	<ArtificialPelvis.description>代替缺失的骨盆。非常实用，如果你不是喜欢爬行这种移动方式的话。</ArtificialPelvis.description>
 
 </LanguageData>

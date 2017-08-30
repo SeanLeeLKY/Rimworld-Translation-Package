@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<AIChip.label>AI芯片</AIChip.label>
+  <!-- Added body parts -->
 
-	<SyntheticLung.label>合成肺</SyntheticLung.label>
+  <AIChip.label>AI芯片</AIChip.label>
+  <AIPersonaCore.label>AI伪人格核心</AIPersonaCore.label>
+  <SyntheticLung.label>合成肺</SyntheticLung.label>
+  <SyntheticStomach.label>合成胃</SyntheticStomach.label>
+  <SyntheticLiver.label>合成肝</SyntheticLiver.label>
+  <SyntheticKidney.label>合成肾</SyntheticKidney.label>
+  <SyntheticHeart.label>合成心</SyntheticHeart.label>
 
-	<SyntheticStomach.label>合成胃</SyntheticStomach.label>
-
-	<SyntheticLiver.label>合成肝</SyntheticLiver.label>
-
-	<SyntheticKidney.label>合成肾</SyntheticKidney.label>
-
-	<SyntheticHeart.label>合成心脏</SyntheticHeart.label>
 
 </LanguageData>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeEnergizedComponent.label>充能零件</MakeEnergizedComponent.label>
+  <MakeEnergizedComponent.description>充能零件。</MakeEnergizedComponent.description>
+  <MakeEnergizedComponent.jobString>正在充能零件。</MakeEnergizedComponent.jobString>
+
+
+</LanguageData>

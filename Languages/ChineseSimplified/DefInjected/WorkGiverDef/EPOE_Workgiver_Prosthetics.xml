@@ -1,40 +1,21 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<DoBillsTableSurrogates.verb>制作</DoBillsTableSurrogates.verb>
+  <DoBillsTableOrgans.label>打印器官</DoBillsTableOrgans.label>
+  <DoBillsTableOrgans.verb>打印</DoBillsTableOrgans.verb>
+  <DoBillsTableOrgans.gerund>打印</DoBillsTableOrgans.gerund>
 
-	<DoBillsTableSurrogates.gerund>制作于</DoBillsTableSurrogates.gerund>
+  <DoBillsSimpleProstheticWorkbench.label>制作简单假体</DoBillsSimpleProstheticWorkbench.label>
+  <DoBillsSimpleProstheticWorkbench.verb>组装</DoBillsSimpleProstheticWorkbench.verb>
+  <DoBillsSimpleProstheticWorkbench.gerund>组装</DoBillsSimpleProstheticWorkbench.gerund>
 
-	<DoBillsTableSynthetics.verb>制作</DoBillsTableSynthetics.verb>
+  <DoBillsBasicProstheticWorkbench.label>制作基本假体</DoBillsBasicProstheticWorkbench.label>
+  <DoBillsBasicProstheticWorkbench.verb>组装</DoBillsBasicProstheticWorkbench.verb>
+  <DoBillsBasicProstheticWorkbench.gerund>组装</DoBillsBasicProstheticWorkbench.gerund>
 
-	<DoBillsTableSynthetics.gerund>制作于</DoBillsTableSynthetics.gerund>
+  <DoBillsBionicWorkbench.label>制作仿生假体</DoBillsBionicWorkbench.label>
+  <DoBillsBionicWorkbench.verb>组装</DoBillsBionicWorkbench.verb>
+  <DoBillsBionicWorkbench.gerund>组装</DoBillsBionicWorkbench.gerund>
 
-	<DoBillsUpgradingStation.verb>升级</DoBillsUpgradingStation.verb>
-
-	<DoBillsUpgradingStation.gerund>升级于</DoBillsUpgradingStation.gerund>
-
-	<DoBillsSimpleProstheticWorkbench.verb>组装</DoBillsSimpleProstheticWorkbench.verb>
-
-	<DoBillsSimpleProstheticWorkbench.gerund>组装于</DoBillsSimpleProstheticWorkbench.gerund>
-
-	<DoBillsBasicProstheticWorkbench.verb>组装</DoBillsBasicProstheticWorkbench.verb>
-
-	<DoBillsBasicProstheticWorkbench.gerund>组装于</DoBillsBasicProstheticWorkbench.gerund>
-
-	<DoBillsBionicWorkbench.verb>组装</DoBillsBionicWorkbench.verb>
-
-	<DoBillsBionicWorkbench.gerund>组装于</DoBillsBionicWorkbench.gerund>
-
-	<DoBillsTableSurrogates.label>制作替代器官</DoBillsTableSurrogates.label>
-
-	<DoBillsTableSynthetics.label>制作合成器官</DoBillsTableSynthetics.label>
-
-	<DoBillsUpgradingStation.label>升级先进仿生体</DoBillsUpgradingStation.label>
-
-	<DoBillsSimpleProstheticWorkbench.label>制作简单仿生体</DoBillsSimpleProstheticWorkbench.label>
-
-	<DoBillsBasicProstheticWorkbench.label>制作基本器官</DoBillsBasicProstheticWorkbench.label>
-
-	<DoBillsBionicWorkbench.label>制作仿生体</DoBillsBionicWorkbench.label>
 
 </LanguageData>

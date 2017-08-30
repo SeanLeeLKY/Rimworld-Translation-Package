@@ -1,58 +1,41 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<CreateAIChip.label>制作AI芯片</CreateAIChip.label>
+  <CreateAIChip.label>制作AI芯片</CreateAIChip.label>
+  <CreateAIChip.description>制作AI芯片。最高品质的电路需要黄金和充能零件。</CreateAIChip.description>
+  <CreateAIChip.jobString>正在制作AI芯片。</CreateAIChip.jobString>
 
-	<CreateAIChip.description>制作AI芯片。最高质量的电路需要黄金为原料。</CreateAIChip.description>
+  <CreateJoywire.label>制作乐丝芯片</CreateJoywire.label>
+  <CreateJoywire.description>制作乐丝芯片。最高品质的电路需要黄金和充能零件。</CreateJoywire.description>
+  <CreateJoywire.jobString>正在制作乐丝芯片。</CreateJoywire.jobString>
 
-	<CreateAIChip.jobString>正在合成器官。</CreateAIChip.jobString>
+  <CreatePainstopper.label>制作止痛芯片</CreatePainstopper.label>
+  <CreatePainstopper.description>制作止痛芯片。最高品质的电路需要黄金和充能零件。</CreatePainstopper.description>
+  <CreatePainstopper.jobString>正在制作止痛芯片。</CreatePainstopper.jobString>
 
-	<CreateSyntheticLung.label>合成肺</CreateSyntheticLung.label>
+  <CreateSyntheticLung.label>制作合成肺</CreateSyntheticLung.label>
+  <CreateSyntheticLung.description>制作合成肺，需要超织物、充能零件和对应的替代体器官。</CreateSyntheticLung.description>
+  <CreateSyntheticLung.jobString>正在制作肺。</CreateSyntheticLung.jobString>
 
-	<CreateSyntheticLung.description>将超织物和超钒合成肺。</CreateSyntheticLung.description>
+  <CreateSyntheticStomach.label>制作合成胃</CreateSyntheticStomach.label>
+  <CreateSyntheticStomach.description>制作合成胃，需要超织物、充能零件和对应的替代体器官。</CreateSyntheticStomach.description>
+  <CreateSyntheticStomach.jobString>正在制作胃。</CreateSyntheticStomach.jobString>
 
-	<CreateSyntheticLung.jobString>正在合成器官。</CreateSyntheticLung.jobString>
+  <CreateSyntheticLiver.label>制作合成肝</CreateSyntheticLiver.label>
+  <CreateSyntheticLiver.description>制作合成肝，需要超织物、充能零件和对应的替代体器官。</CreateSyntheticLiver.description>
+  <CreateSyntheticLiver.jobString>正在制作肝。</CreateSyntheticLiver.jobString>
 
-	<CreateSyntheticStomach.label>合成胃</CreateSyntheticStomach.label>
+  <CreateSyntheticKidney.label>制作合成肾</CreateSyntheticKidney.label>
+  <CreateSyntheticKidney.description>制作合成肾，需要超织物、充能零件和对应的替代体器官。</CreateSyntheticKidney.description>
+  <CreateSyntheticKidney.jobString>正在制作合成肾。</CreateSyntheticKidney.jobString>
 
-	<CreateSyntheticStomach.description>将超织物和超钒合成胃</CreateSyntheticStomach.description>
+  <CreateSyntheticHeart.label>制作合成心</CreateSyntheticHeart.label>
+  <CreateSyntheticHeart.description>制作合成心，需要超织物、充能零件和对应的替代体器官。</CreateSyntheticHeart.description>
+  <CreateSyntheticHeart.jobString>正在制作合成心。</CreateSyntheticHeart.jobString>
 
-	<CreateSyntheticStomach.jobString>正在合成器官。</CreateSyntheticStomach.jobString>
+  <CreateSyntheticSkin.label>制作合成皮肤</CreateSyntheticSkin.label>
+  <CreateSyntheticSkin.description>制作合成皮肤，需要超织物和人皮。</CreateSyntheticSkin.description>
+  <CreateSyntheticSkin.jobString>正在制作合成皮肤。</CreateSyntheticSkin.jobString>
 
-	<CreateSyntheticLiver.label>合成肝</CreateSyntheticLiver.label>
-
-	<CreateSyntheticLiver.description>将超织物和超钒合成肝。</CreateSyntheticLiver.description>
-
-	<CreateSyntheticLiver.jobString>正在合成器官。</CreateSyntheticLiver.jobString>
-
-	<CreateSyntheticKidney.label>合成肾</CreateSyntheticKidney.label>
-
-	<CreateSyntheticKidney.description>将超织物和超钒合成肾。</CreateSyntheticKidney.description>
-
-	<CreateSyntheticKidney.jobString>正在合成器官。</CreateSyntheticKidney.jobString>
-
-	<CreateSyntheticHeart.label>合成心脏</CreateSyntheticHeart.label>
-
-	<CreateSyntheticHeart.description>将超织物和超钒合成心脏。</CreateSyntheticHeart.description>
-
-	<CreateSyntheticHeart.jobString>正在合成器官。</CreateSyntheticHeart.jobString>
-
-	<CreateSyntheticSkin.label>合成皮肤</CreateSyntheticSkin.label>
-
-	<CreateSyntheticSkin.description>用超织物和人皮制造合成人造皮肤。</CreateSyntheticSkin.description>
-
-	<CreateSyntheticSkin.jobString>正在合成器官。</CreateSyntheticSkin.jobString>
-
-	<CreateJoywire.label>制作乐丝芯片</CreateJoywire.label>
-
-	<CreateJoywire.description>用黄金和先进零件合成一块高质量的乐丝芯片。</CreateJoywire.description>
-
-	<CreateJoywire.jobString>正在合成器官。</CreateJoywire.jobString>
-
-	<CreatePainstopper.label>制作止痛芯片</CreatePainstopper.label>
-
-	<CreatePainstopper.description>用黄金和先进零件合成一块高质量的止痛芯片。</CreatePainstopper.description>
-
-	<CreatePainstopper.jobString>正在合成器官。</CreatePainstopper.jobString>
 
 </LanguageData>
