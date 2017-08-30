@@ -1,16 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<GoodHappy.label>感觉不错</GoodHappy.label>
+  <GoodHappy.label>感觉良好</GoodHappy.label>
+  <GoodHappy.stages.0.label>暖洋洋的</GoodHappy.stages.0.label>
+  <GoodHappy.stages.1.label>健康的饮料，感觉更好了</GoodHappy.stages.1.label>
 
-	<rep>
-		<path>SomethingGood.stages[0].label</path>
-		<trans>有好事发生在我身上！</trans>
-	</rep>
-
-	<rep>
-		<path>SomethingGood.stages[0].description</path>
-		<trans>我感觉真的很不错，我的身体从里到外都感觉得到温暖和舒适！</trans>
-	</rep>
 
 </LanguageData>

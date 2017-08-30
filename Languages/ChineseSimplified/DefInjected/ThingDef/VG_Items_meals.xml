@@ -1,163 +1,113 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Caramel.label>焦糖</Caramel.label>
+  <Caramel.label>焦糖</Caramel.label>
+  <Caramel.description>一种由蔗糖制成的糖。</Caramel.description>
 
-	<Caramel.description>用砂糖做成的甜甜的糖。</Caramel.description>
+  <Hardcandy.label>硬糖</Hardcandy.label>
+  <Hardcandy.description>一种由蔗糖制成的糖果。</Hardcandy.description>
 
-	<Hardcandy.label>硬糖</Hardcandy.label>
+  <Taffy.label>太妃糖</Taffy.label>
+  <Taffy.description>一种耐嚼的糖果。</Taffy.description>
 
-	<Hardcandy.description>用砂糖做成的甜甜的硬糖。</Hardcandy.description>
+  <cookie.label>曲奇</cookie.label>
+  <cookie.description>新鲜出炉的曲奇！</cookie.description>
 
-	<Taffy.label>太妃糖</Taffy.label>
+  <BlueberryPie.label>水果派</BlueberryPie.label>
+  <BlueberryPie.description>一片水果派。</BlueberryPie.description>
 
-	<Taffy.description>有嚼劲的甜甜的糖。</Taffy.description>
+  <PumpkinPie.label>南瓜派</PumpkinPie.label>
+  <PumpkinPie.description>一片南瓜派。</PumpkinPie.description>
 
-	<cookie.label>曲奇</cookie.label>
+  <Cuptea.label>茶</Cuptea.label>
+  <Cuptea.description>茶叶冲泡而成的饮料。</Cuptea.description>
+  <Cuptea.ingestible.ingestCommandString>喝{0}</Cuptea.ingestible.ingestCommandString>
+  <Cuptea.ingestible.ingestReportString>正在喝{0}。</Cuptea.ingestible.ingestReportString>
 
-	<cookie.description>新鲜出炉的曲奇！</cookie.description>
+  <Coffee.label>咖啡</Coffee.label>
+  <Coffee.description>一杯咖啡。</Coffee.description>
+  <Coffee.ingestible.ingestCommandString>喝{0}</Coffee.ingestible.ingestCommandString>
+  <Coffee.ingestible.ingestReportString>正在喝{0}。</Coffee.ingestible.ingestReportString>
 
-	<BlueberryPie.label>水果派</BlueberryPie.label>
+  <Fruitdrink.label>果汁</Fruitdrink.label>
+  <Fruitdrink.description>压榨水果得到的汁。</Fruitdrink.description>
+  <Fruitdrink.ingestible.ingestCommandString>喝{0}</Fruitdrink.ingestible.ingestCommandString>
+  <Fruitdrink.ingestible.ingestReportString>正在喝{0}。</Fruitdrink.ingestible.ingestReportString>
 
-	<BlueberryPie.description>一片水果派。</BlueberryPie.description>
+  <driedfruit.label>果脯</driedfruit.label>
+  <driedfruit.description>经过脱水处理的水果。</driedfruit.description>
 
-	<PumpkinPie.label>南瓜派</PumpkinPie.label>
+  <Bread.label>面包</Bread.label>
+  <Bread.description>一种非常简单的烤制食物。千百年以来，人类将面包作为主食之一。</Bread.description>
 
-	<PumpkinPie.description>一片水果</PumpkinPie.description>
+  <Chocomilk.label>巧克力奶</Chocomilk.label>
+  <Chocomilk.description>融入巧克力的奶。</Chocomilk.description>
 
-	<Cuptea.label>茶</Cuptea.label>
+  <sweetbun.label>甜面包</sweetbun.label>
+  <sweetbun.description>覆盖着一层糖霜的甜面包。 \n\n食用效果：意识、行动。</sweetbun.description>
 
-	<Cuptea.description>用煮过的茶叶制成的饮品。</Cuptea.description>
+  <bowlstew.label>炖菜</bowlstew.label>
+  <bowlstew.description>一碗文火慢炖的菜肴。 \n\n食用效果：意识、新陈代谢、血液过滤、血液循环。</bowlstew.description>
 
-	<Fruitdrink.label>果汁</Fruitdrink.label>
+  <grilledcheese.label>烤芝士三明治</grilledcheese.label>
+  <grilledcheese.description>两片面包夹着一片融化的奶酪。 \n\n食用效果：新陈代谢。</grilledcheese.description>
 
-	<Fruitdrink.description>用水果榨成的汁。</Fruitdrink.description>
+  <grilledmeat.label>芝士汉堡</grilledmeat.label>
+  <grilledmeat.description>两片面包夹着烤肉和一片融化的奶酪。 \n\n食用效果：新陈代谢。</grilledmeat.description>
 
-	<driedfruit.label>果脯</driedfruit.label>
+  <pizza.label>披萨</pizza.label>
+  <pizza.description>不到三十分钟就能做出来的披萨。 \n\n食用效果：意识、新陈代谢。</pizza.description>
 
-	<driedfruit.description>脱水处理的水果。</driedfruit.description>
+  <stirfry.label>炒菜</stirfry.label>
+  <stirfry.description>用热油炒制而成的菜。 \n\n食用效果：操作、血液循环。</stirfry.description>
 
-	<MealCannedFood.label>罐装食品</MealCannedFood.label>
+  <Porridge.label>粥</Porridge.label>
+  <Porridge.description>谷物简单煮出来的粥。 \n\n食用效果：视觉、血液过滤。</Porridge.description>
 
-	<MealCannedFood.description>被封存在铁罐中的食物，不会腐坏。</MealCannedFood.description>
+  <yogurt.label>酸奶</yogurt.label>
+  <yogurt.description>由奶或豆浆发酵而来。 \n\n食用效果：视觉、血液过滤。</yogurt.description>
 
+  <icecream.label>冰淇淋</icecream.label>
+  <icecream.description>用奶或豆浆制成的冰淇淋。 \n\n食用效果：行动、血液循环。</icecream.description>
 
-	<Coffee.label>咖啡</Coffee.label>
+  <smoothie.label>奶昔</smoothie.label>
+  <smoothie.description>用奶或豆浆，再加上水果混合制成的饮料。 \n\n食用效果：视觉和行动。</smoothie.description>
 
-	<Coffee.description>一杯咖啡。</Coffee.description>
+  <Tacos.label>墨西哥玉米卷饼</Tacos.label>
+  <Tacos.description>玉米面饼卷着肉和奶酪。 \n\n食用效果：操作、新陈代谢。</Tacos.description>
 
-	
+  <Grilledsteak.label>烤肉</Grilledsteak.label>
+  <Grilledsteak.description>烤熟的肉。</Grilledsteak.description>
 
-	<Bread.label>面包</Bread.label>
+  <Grilledveg.label>烤蔬菜</Grilledveg.label>
+  <Grilledveg.description>烤熟的蔬菜。</Grilledveg.description>
 
-	<Bread.description>具有上千年历史的简单烘培食品。</Bread.description>
+  <Kabob.label>烤肉串</Kabob.label>
+  <Kabob.description>用细木棍串起来烤的肉或蔬菜。</Kabob.description>
 
-	<cheese.label>奶酪</cheese.label>
+  <Salad.label>沙拉</Salad.label>
+  <Salad.description>用水果或蔬菜做成的简单的沙拉。</Salad.description>
 
-	<cheese.description>一块奶酪。</cheese.description>
+  <grilledpolenta.label>烤玉米糊</grilledpolenta.label>
+  <grilledpolenta.description>一团玉米糊切成片并烤制得非常完美。 \n\n食用效果：操作、血液过滤。</grilledpolenta.description>
 
-	<Chocomilk.label>巧克力牛奶</Chocomilk.label>
+  <bakedpolenta.label>玉米糊面包</bakedpolenta.label>
+  <bakedpolenta.description>由玉米糊包在面包里烘焙而成。 \n\n食用效果：操作、血液过滤。</bakedpolenta.description>
 
-	<Chocomilk.description>融入巧克力的牛奶。</Chocomilk.description>
+  <Cornbread.label>玉米面包</Cornbread.label>
+  <Cornbread.description>玉米粉烘培的面包。</Cornbread.description>
 
-	<sweetbun.label>甜甜圈</sweetbun.label>
+  <Cornbreadmuffin.label>玉米玛芬</Cornbreadmuffin.label>
+  <Cornbreadmuffin.description>用玉米粉烘培的简单玛芬。</Cornbreadmuffin.description>
 
-	<sweetbun.description>洒满糖霜的甜面包。\n食物影响：意识和行动。</sweetbun.description>
+  <muffin.label>水果玛芬</muffin.label>
+  <muffin.description>水果烘焙而成的玛芬。 \n\n食用效果：意识、移动。</muffin.description>
 
-	<bowlstew.label>炖菜</bowlstew.label>
+  <chocomuffin.label>巧克力玛芬</chocomuffin.label>
+  <chocomuffin.description>巧克力玛芬。 \n\n食用效果：意识、移动。</chocomuffin.description>
 
-	<bowlstew.description>一碗炖菜。\n食物影响：意识，新陈代谢，血液过滤和血液循环。</bowlstew.description>
+  <meatpie.label>肉派</meatpie.label>
+  <meatpie.description>一个充满肉馅的馅饼。</meatpie.description>
 
-	<grilledcheese.label>芝士三明治</grilledcheese.label>
 
-	<grilledcheese.description>两片烤面包夹着一片融化的奶酪。\n食物影响：新陈代谢。</grilledcheese.description>
-
-	<grilledmeat.label>芝士汉堡</grilledmeat.label>
-
-	<grilledmeat.description>两片面包夹着烤肉和一片融化的奶酪。\n食物影响：新陈代谢。</grilledmeat.description>
-
-	<pizza.label>披萨</pizza.label>
-
-	<pizza.description>美味多汁的披萨！\n食物影响：意识和新陈代谢。</pizza.description>
-
-	<stirfry.label>炒菜</stirfry.label>
-
-	<stirfry.description>用热油炒制而成的菜。\n食物影响：操作和血液过滤。</stirfry.description>
-
-	<Porridge.label>稀饭</Porridge.label>
-
-	<Porridge.description>谷物熬成的简单稀饭。\n食物影响：视觉和血液过滤。</Porridge.description>
-
-	<yogurt.label>酸奶</yogurt.label>
-
-	<yogurt.description>用牛奶制成的甜品。\n食物影响：视觉和血液过滤。</yogurt.description>
-
-	<icecream.label>冰淇淋</icecream.label>
-
-	<icecream.description>用牛奶制成的冷饮。\n食物影响：行动和血液循环。</icecream.description>
-
-	<smoothie.label>奶昔</smoothie.label>
-
-	<smoothie.description>用水果和牛奶制成的冷饮。 \n食物影响：视觉和行动。</smoothie.description>
-
-	<Tacos.label>玉米卷</Tacos.label>
-
-	<Tacos.description>卷着肉和奶酪的玉米饼。\n食物影响：操作和新陈代谢。</Tacos.description>
-
-	<Grilledsteak.label>烤肉排</Grilledsteak.label>
-
-	<Grilledsteak.description>烤熟的肉排。</Grilledsteak.description>
-
-	<Grilledveg.label>烤蔬菜</Grilledveg.label>
-
-	<Grilledveg.description>烤熟的蔬菜。</Grilledveg.description>
-
-	<Kabob.label>烤肉串</Kabob.label>
-
-	<Kabob.description>用肉和蔬菜串在一根木棍上烤制到完美。</Kabob.description>
-
-	<Salad.label>沙拉</Salad.label>
-
-	<Salad.description>用果蔬制成的简单沙拉。</Salad.description>
-
-	<grilledpolenta.label>烧玉米糊</grilledpolenta.label>
-
-	<grilledpolenta.description>一块烧熟的固体玉米糊。\n食物影响：操作和血液过滤。</grilledpolenta.description>
-
-	<bakedpolenta.label>烘培玉米糊</bakedpolenta.label>
-
-	<bakedpolenta.description>烘培成面包的玉米糊。\n食物影响：操作和血液过滤。</bakedpolenta.description>
-
-	<Cornbread.label>玉米面包</Cornbread.label>
-
-	<Cornbread.description>一块用玉米粒做成的简单面包。</Cornbread.description>
-
-	<Cornbreadmuffin.label>玉米松饼</Cornbreadmuffin.label>
-
-	<Cornbreadmuffin.description>用玉米做成的简单松饼。</Cornbreadmuffin.description>
-
-	<muffin.label>松饼</muffin.label>
-
-	<muffin.description>用水果制成的甜松饼。\n食物影响：意识和行动。</muffin.description>
-
-	<chocomuffin.label>巧克力松饼</chocomuffin.label>
-
-	<chocomuffin.description>一块烤过的巧克力松饼。\n食物影响：意识和行动。</chocomuffin.description>
-
-	 <!--<cider.label>苹果酒</cider.label>--> 
-	 <!--<cider.description>用苹果制成的甜酒精饮品。</cider.description>--> 
-	 <!--<rum.label>朗姆酒</rum.label>--> 
-	 <!--<rum.description>所有的朗姆都去哪儿了？</rum.description>--> 
-	 <!--<Wine.label>葡萄酒</Wine.label>--> 
-	 <!--<Wine.description>用葡萄制成的甜酒精饮品。</Wine.description>--> 
-	 <!--<strawberrywine.label>草莓酒</strawberrywine.label>--> 
-	 <!--<strawberrywine.description>用草莓制成的甜酒精饮品。</strawberrywine.description>--> 
-	 <!--<saki.label>清酒</saki.label>--> 
-	 <!--<saki.description>一种用大米酿成的清爽的酒。</saki.description>--> 
-	 <!--<vodka.label>伏特加</vodka.label>--> 
-	 <!--<vodka.description>一种用土豆酿成的劲酒。</vodka.description>--> 
-	 <!--<tequila.label>龙舌兰酒</tequila.label>--> 
-	 <!--<tequila.description>金黄色的，有传奇历史的龙舌兰制成的酒。</tequila.description>--> 
-	 <!--<whisky.label>威士忌</whisky.label>--> 
-	 <!--<whisky.description>金黄色的，玉米制成的酒。</whisky.description>--> 
 </LanguageData>

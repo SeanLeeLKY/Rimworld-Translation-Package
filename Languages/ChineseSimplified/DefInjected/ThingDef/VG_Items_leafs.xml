@@ -1,24 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<RawSteelLeaf.label>钢叶</RawSteelLeaf.label>
+  <!-- bases -->
 
-	<RawSteelLeaf.description>可以被熔炼成钢的叶片。</RawSteelLeaf.description>
+  <RawSteelLeaf.label>钢铁叶</RawSteelLeaf.label>
+  <RawSteelLeaf.description>钢铁叶可以通过提炼得到钢铁。</RawSteelLeaf.description>
 
-	<RawPlasteelLeaf.label>玻璃钢叶</RawPlasteelLeaf.label>
+  <RawPlasteelLeaf.label>玻璃钢叶</RawPlasteelLeaf.label>
+  <RawPlasteelLeaf.description>玻璃钢叶可以通过提炼得到玻璃钢。</RawPlasteelLeaf.description>
 
-	<RawPlasteelLeaf.description>可以被熔炼成玻璃钢的叶片。</RawPlasteelLeaf.description>
+  <RawGoldLeaf.label>黄金叶</RawGoldLeaf.label>
+  <RawGoldLeaf.description>金叶可以通过提炼得到黄金。</RawGoldLeaf.description>
 
-	<RawGoldLeaf.label>黄金叶</RawGoldLeaf.label>
+  <RawSilverLeaf.label>白银叶</RawSilverLeaf.label>
+  <RawSilverLeaf.description>白银叶可以通过提炼得到白银。</RawSilverLeaf.description>
 
-	<RawGoldLeaf.description>可以被熔炼成黄金的叶片。</RawGoldLeaf.description>
+  <RawUraniumLeaf.label>铀叶</RawUraniumLeaf.label>
+  <RawUraniumLeaf.description>铀叶可以通过提炼得到铀。</RawUraniumLeaf.description>
 
-	<RawSilverLeaf.label>白银叶</RawSilverLeaf.label>
-
-	<RawSilverLeaf.description>可以被熔炼成白银的叶片。</RawSilverLeaf.description>
-
-	<RawUraniumLeaf.label>铀叶</RawUraniumLeaf.label>
-
-	<RawUraniumLeaf.description>可以被熔炼成铀的叶片。</RawUraniumLeaf.description>
 
 </LanguageData>

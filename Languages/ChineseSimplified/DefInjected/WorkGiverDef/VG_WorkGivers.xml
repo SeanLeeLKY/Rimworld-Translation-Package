@@ -1,56 +1,53 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<DoBillsOven.label>烘培食物</DoBillsOven.label>
+  <DoBillsOven.label>烘焙</DoBillsOven.label>
+  <DoBillsOven.verb>烘焙</DoBillsOven.verb>
+  <DoBillsOven.gerund>烘焙</DoBillsOven.gerund>
 
-	<DoBillsOven.verb>烘培</DoBillsOven.verb>
+  <DoBillsCanningstove.label>处理食物</DoBillsCanningstove.label>
+  <DoBillsCanningstove.verb>处理</DoBillsCanningstove.verb>
+  <DoBillsCanningstove.gerund>处理</DoBillsCanningstove.gerund>
 
-	<DoBillsOven.gerund>烘焙于</DoBillsOven.gerund>
+  <DoBillsHandCanningstove.label>处理食物</DoBillsHandCanningstove.label>
+  <DoBillsHandCanningstove.verb>处理</DoBillsHandCanningstove.verb>
+  <DoBillsHandCanningstove.gerund>处理</DoBillsHandCanningstove.gerund>
 
-	<DoBillsCanningstove.label>处理食材</DoBillsCanningstove.label>
+  <DoBillsBake.label>制作糖果</DoBillsBake.label>
+  <DoBillsBake.verb>制作糖果</DoBillsBake.verb>
+  <DoBillsBake.gerund>制作糖果</DoBillsBake.gerund>
 
-	<DoBillsCanningstove.verb>罐装</DoBillsCanningstove.verb>
+  <DoBillsFcandytable.label>制作糖果</DoBillsFcandytable.label>
+  <DoBillsFcandytable.verb>制作</DoBillsFcandytable.verb>
+  <DoBillsFcandytable.gerund>制作</DoBillsFcandytable.gerund>
 
-	<DoBillsCanningstove.gerund>罐装于</DoBillsCanningstove.gerund>
+  <DoBillsGrindStone.label>研磨谷物</DoBillsGrindStone.label>
+  <DoBillsGrindStone.verb>研磨</DoBillsGrindStone.verb>
+  <DoBillsGrindStone.gerund>研磨</DoBillsGrindStone.gerund>
 
-	<DoBillsBake.label>制造糖果</DoBillsBake.label>
+  <DoBillsTableLoom.label>纺织</DoBillsTableLoom.label>
+  <DoBillsTableLoom.verb>纺织</DoBillsTableLoom.verb>
+  <DoBillsTableLoom.gerund>纺织</DoBillsTableLoom.gerund>
 
-	<DoBillsBake.verb>制糖</DoBillsBake.verb>
+  <DoBillsUseDiggingSpot.label>挖掘土壤</DoBillsUseDiggingSpot.label>
+  <DoBillsUseDiggingSpot.verb>挖掘</DoBillsUseDiggingSpot.verb>
+  <DoBillsUseDiggingSpot.gerund>挖掘</DoBillsUseDiggingSpot.gerund>
 
-	<DoBillsBake.gerund>制糖于</DoBillsBake.gerund>
+  <DoBillsCanningMachine.label>罐装食物</DoBillsCanningMachine.label>
+  <DoBillsCanningMachine.verb>罐装</DoBillsCanningMachine.verb>
+  <DoBillsCanningMachine.gerund>罐装</DoBillsCanningMachine.gerund>
 
-	<DoBillsDispenser.label>调配药品</DoBillsDispenser.label>
+  <DoBillsUseSaltMine.label>开采矿盐</DoBillsUseSaltMine.label>
+  <DoBillsUseSaltMine.verb>采矿</DoBillsUseSaltMine.verb>
+  <DoBillsUseSaltMine.gerund>采矿</DoBillsUseSaltMine.gerund>
 
-	<DoBillsDispenser.verb>配药</DoBillsDispenser.verb>
+  <CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.label>从发酵桶中取出酒</CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.label>
+  <CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.verb>取出酒</CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.verb>
+  <CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.gerund>取出酒</CPD_WorkGiver_TakeAlcoholOutOfAlcoholBarrel.gerund>
 
-	<DoBillsDispenser.gerund>配药于</DoBillsDispenser.gerund>
-
-	<DoBillsGrindStone.label>研磨谷物</DoBillsGrindStone.label>
-
-	<DoBillsGrindStone.verb>研磨</DoBillsGrindStone.verb>
-
-	<DoBillsGrindStone.gerund>研磨于</DoBillsGrindStone.gerund>
-
-	<DoBillsTableLoom.label>在缝纫机纺织</DoBillsTableLoom.label>
-
-	<DoBillsTableLoom.verb>纺织</DoBillsTableLoom.verb>
-
-	<DoBillsTableLoom.gerund>纺织于</DoBillsTableLoom.gerund>
+  <CPD_WorkGiver_FillAlcoholBarrel.label>填满发酵桶</CPD_WorkGiver_FillAlcoholBarrel.label>
+  <CPD_WorkGiver_FillAlcoholBarrel.verb>填满</CPD_WorkGiver_FillAlcoholBarrel.verb>
+  <CPD_WorkGiver_FillAlcoholBarrel.gerund>填满发酵桶</CPD_WorkGiver_FillAlcoholBarrel.gerund>
 
 
-	<DoBillsHandCanningstove.label>处理食材</DoBillsHandCanningstove.label>
-
-	<DoBillsHandCanningstove.verb>处理食材</DoBillsHandCanningstove.verb>
-
-	<DoBillsHandCanningstove.gerund>工作于</DoBillsHandCanningstove.gerund>
-
-	 <!--<DoBillsTableMedical.label>制造药品</DoBillsTableMedical.label>--> 
-	 <!--<DoBillsTableMedical.verb>制药</DoBillsTableMedical.verb>--> 
-	 <!--<DoBillsTableMedical.gerund>制药于</DoBillsTableMedical.gerund>--> 
-	 <!--<DoBillsRollJoint.label>卷大麻</DoBillsRollJoint.label>--> 
-	 <!--<DoBillsRollJoint.verb>卷大麻</DoBillsRollJoint.verb>--> 
-	 <!--<DoBillsRollJoint.gerund>卷大麻于</DoBillsRollJoint.gerund>--> 
-	 <!--<DoBillsTobacco.label>卷烟草</DoBillsTobacco.label>--> 
-	 <!--<DoBillsTobacco.verb>卷烟草</DoBillsTobacco.verb>--> 
-	 <!--<DoBillsTobacco.gerund>卷烟草于</DoBillsTobacco.gerund>--> 
 </LanguageData>

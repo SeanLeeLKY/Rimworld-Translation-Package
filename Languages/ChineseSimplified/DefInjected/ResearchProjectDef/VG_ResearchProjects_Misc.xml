@@ -1,46 +1,67 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<agriculture.label>VG-农业 I</agriculture.label>
+  <!-- Main Categories -->
 
-	<agriculture.description>研究可解锁更多可种植的农产品！ \n\n 解锁新的可种植的蔬菜。 \n\n 解锁茄子，黄豆，南瓜，西葫芦，番茄，红扁豆，蘑菇。并且可以解锁花与树的研究项目。 </agriculture.description>
+  <agriculture.label>VG：农业 I</agriculture.label>
+  <agriculture.description>研究植物基因，解锁新的植物种植。\n\n解锁一些蔬菜的种植。\n\n解锁种植「茄子」、「黄豆」、「南瓜」、「西葫芦」、「番茄」、「红扁豆」、「蘑菇」。</agriculture.description>
 
-	<agricultureII.label>VG-农业 II</agricultureII.label>
+  <agricultureII.label>VG：农业 II</agricultureII.label>
+  <agricultureII.description>研究植物基因，解锁新的植物种植。\n\n解锁部分水果的种植。水果富含营养，烹饪成食物的消耗较低。\n\n解锁种植「菠萝」、「葡萄」、「云莓」、「醋栗」、「龙舌兰」、「草莓」、「蓝莓」、「西瓜」。 </agricultureII.description>
 
-	<agricultureII.description>研究可解锁更多可种植的农产品！ \n\n 解锁新的可种植的水果，水果产量更高，烹饪消耗更少。 \n\n 解锁凤梨，葡萄，云莓，醋栗，龙舌兰，草莓，蓝莓，西瓜。</agricultureII.description>
+  <agricultureIII.label>VG：农业 III</agricultureIII.label>
+  <agricultureIII.description>研究植物基因，解锁新的植物种植。\n\n解锁部分水果的种植。果树生长周期长，但是可以反覆收获果实。\n\n解锁种植「苹果」、「香蕉」、「樱桃」、「橄榄」、「橙」、「桃」、「海枣」、「无花果」。</agricultureIII.description>
 
-	<agricultureIII.label>VG-农业 III</agricultureIII.label>
+  <flowersandtrees.label>VG：花卉与树木</flowersandtrees.label>
+  <flowersandtrees.description>研究额外的花卉和树木种植。</flowersandtrees.description>
 
-	<agricultureIII.description>研究可解锁更多可种植的农产品！ \n\n 解锁新的可种植的果树，果树生长周期长，但是可以反复收获果实。\n\n 解锁产苹果，香蕉，樱桃，橄榄，橙子，桃子，海枣，无花果的果树。</agricultureIII.description>
+  <VG_Ambrosia.label>VG：仙馐果</VG_Ambrosia.label>
+  <VG_Ambrosia.description>研究利用水栽培植物盆种植仙馐果的方法。</VG_Ambrosia.description>
 
-	<flowersandtrees.label>VG-花与树</flowersandtrees.label>
+  <resourceleafs.label>VG：资源作物</resourceleafs.label>
+  <resourceleafs.description>研究能从土壤中吸收金属的的植物，可以用来在电提炼器中提炼金属。</resourceleafs.description>
 
-	<flowersandtrees.description>研究更多可种植的花和树。</flowersandtrees.description>
+  <CookingI.label>VG：高级烹饪</CookingI.label>
+  <CookingI.description>研究高级烹饪仪器的制作方法。\n解锁「炉灶」、「糖果桌」</CookingI.description>
 
-	<resourceleafs.label>VG-可提炼金属叶</resourceleafs.label>
+  <VG_ClothI.label>VG：合成纤维</VG_ClothI.label>
+  <VG_ClothI.description>研究合成纤维的纺织方法。\n解锁纺织「合成纤维」。</VG_ClothI.description>
 
-	<resourceleafs.description>研究可以从地下吸收金属分子生长的植物，可以在电提炼器进行金属提炼。</resourceleafs.description>
+  <VG_ClothII.label>VG：超织物</VG_ClothII.label>
+  <VG_ClothII.description>研究超织物的纺织方法。 \n解锁纺织「超织物」。</VG_ClothII.description>
 
-	<CookingI.label>VG-先进烹饪</CookingI.label>
+  <SoilReclam.label>VG：土壤改良 I</SoilReclam.label>
+  <SoilReclam.description>研究开垦可耕种土壤的方法。 \n\n解锁在光滑岩石地板上铺设人工土地。\n\n解锁「地面」菜单中的「铺设土壤」。</SoilReclam.description>
 
-	<CookingI.description>研究高级烹饪仪器的制作方法。解锁电力炉灶，制糖桌和冰淇淋机。</CookingI.description>
+  <SoilReclamII.label>VG：土壤改良 II</SoilReclamII.label>
+  <SoilReclamII.description>研究将沙地、湿软的土地、泥地、沼泽、沙砾改造成可耕种的土壤的方法。\n\n解锁肥沃的耕地——一种极高肥沃度的耕地。 \n\n解锁「地面」菜单中的「肥沃耕地」和「垦荒土壤」。</SoilReclamII.description>
 
-	<SoilReclam.label>VG-土壤改良 I</SoilReclam.label>
+  <AdvancedHydroponics.label>VG：高级水栽培</AdvancedHydroponics.label>
+  <AdvancedHydroponics.description>解锁建造「水栽培植物盆（高级）」，在室内快速种植作物，不受土壤贫瘠和室外天气的影响。比普通的水栽培植物盆消耗更多的材料和电力，但能提供光照。并且作物的生长速度更快。</AdvancedHydroponics.description>
 
-	<SoilReclam.description>研究开垦可耕种土壤的方法。\n解锁将土壤填充在光滑地面上的技术。\n解锁园艺工具项目下的可放置土壤和花园土壤。</SoilReclam.description>
+  <HeatedSunlamps.label>VG：加热太阳灯</HeatedSunlamps.label>
+  <HeatedSunlamps.description>允许您构建先进的太阳灯，以提供光照和作为一个小型加热器来种植作物。</HeatedSunlamps.description>
 
-	<SoilReclamII.label>VG-土壤改良 II</SoilReclamII.label>
+  <CanningMachine.label>VG：罐头技术</CanningMachine.label>
+  <CanningMachine.description>研究如何把食品保存于罐头方法。 \n\n解锁压罐机、肉类罐头、蔬菜罐头、食物罐头。</CanningMachine.description>
 
-	<SoilReclamII.description>研究将沙子，湿地，泥土，沼泽和碎石地转变成可耕种土壤的方法。\n解锁犁过的土壤，用来增加作物生长速度。\n解锁园艺工具项目下的犁过的土壤和垦荒土壤。</SoilReclamII.description>
+  <VG_GlitterMeds.label>VG：闪耀世界医药</VG_GlitterMeds.label>
+  <VG_GlitterMeds.description>允许你制作闪耀世界医药。</VG_GlitterMeds.description>
 
-	
+  <BulkMedicine.label>VG：大量生产药物</BulkMedicine.label>
+  <BulkMedicine.description>允许你大量生产药物。\n\n解锁批量制作中性胺、流感药物、布洛芬、健康饮料、简易药物和医药。</BulkMedicine.description>
 
-	
+  <BulkPsychiteRefining.label>VG：批量提炼精神叶</BulkPsychiteRefining.label>
+  <BulkPsychiteRefining.description>学习如何提炼大量精神叶以制作薄片或呀呦粉，属于两种不同形式，但都能够使人亢奋的药物。</BulkPsychiteRefining.description>
 
-	<AdvancedHydroponics.label>VG-先进水栽培</AdvancedHydroponics.label>
+  <BulkWakeUpProduction.label>VG：批量生产清醒丸</BulkWakeUpProduction.label>
+  <BulkWakeUpProduction.description>你的研究人员将学习如何大量生产清醒丸，一种能提高工作效率的药物。</BulkWakeUpProduction.description>
 
-	<AdvancedHydroponics.description>允许你建造高级水栽培桌，用来高效地在室内种植作物，并无视地形和气候限制。高级水栽培桌需要更多材料来建造，并需要供电以提供光照。提升作物生长速度。</AdvancedHydroponics.description>
+  <BulkGoJuiceProduction.label>VG：批量生产活力水</BulkGoJuiceProduction.label>
+  <BulkGoJuiceProduction.description>学习如何大量生产活力水，一种能够提高战斗能力的药物。</BulkGoJuiceProduction.description>
 
-	 <!--<CraftMeds.label>VG-制药</CraftMeds.label>--> 
-	 <!--<CraftMeds.description>解锁用来制作绷带及药物的制药台。</CraftMeds.description>--> 
+  <BulkPenoxycylineProduction.label>VG：批量生产佩诺西林</BulkPenoxycylineProduction.label>
+  <BulkPenoxycylineProduction.description>学习如何大量生产佩诺西林，一种能够预防疾病的药物。</BulkPenoxycylineProduction.description>
+
+
 </LanguageData>

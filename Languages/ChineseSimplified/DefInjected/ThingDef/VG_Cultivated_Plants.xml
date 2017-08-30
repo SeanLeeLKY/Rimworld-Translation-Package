@@ -1,162 +1,114 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PlantSnowbeet.label>雪甜菜</PlantSnowbeet.label>
+  <!-- New crop types -->
 
-	<PlantSnowbeet.description>一种简单且营养丰富的作物。在比较差的土壤环境中也能正常生长。收成很快。在寒冷的气候下也不会枯萎。</PlantSnowbeet.description>
+  <!--[Core] <PlantPotato.label>土豆</PlantPotato.label>-->
+  <!--[Core] <PlantPotato.description>一种简单而营养丰富的块茎植物。即使在比较贫瘠的土地中也能很好地生长。不用多久就能收获。一种强大万能的农作物。</PlantPotato.description>-->
 
-	<Planteggplant.label>茄子</Planteggplant.label>
+  <!--[Core] <PlantCorn.label>玉米</PlantCorn.label>-->
+  <!--[Core] <PlantCorn.description>一种大型谷类植物，产出美味的黄籽穗。生长时间相对较长，但产量大，很长时间才会变质。需要肥沃的土壤种植。</PlantCorn.description>-->
 
-	<Planteggplant.description>一种紫色的作物。生吃很苦。</Planteggplant.description>
+  <!--[Core] <PlantRice.label>水稻</PlantRice.label>-->
+  <!--[Core] <PlantRice.description>一种低矮的谷类植物，肥沃的土壤中茁壮成长，产出粮食很快，但不煮熟的话不好吃。</PlantRice.description>-->
 
-	<Plantredlentil.label>红扁豆</Plantredlentil.label>
+  <PlantSnowbeet.label>雪甜菜</PlantSnowbeet.label>
+  <PlantSnowbeet.description>简单的营养丰富的植物。即使在一些贫瘠的土壤中也能种植。收获迅速。一种强大的多用途的作物。在寒冷的气候下也不会枯萎。</PlantSnowbeet.description>
 
-	<Plantredlentil.description>一种红色的扁豆，是较早被发现并广泛种植的作物之一。</Plantredlentil.description>
+  <Planteggplant.label>茄子</Planteggplant.label>
+  <Planteggplant.description>紫色的茄子品种。生吃有涩味。</Planteggplant.description>
 
-	<Plantpumpkin.label>南瓜</Plantpumpkin.label>
+  <Plantredlentil.label>红扁豆</Plantredlentil.label>
+  <Plantredlentil.description>红色的扁豆品种。已知的最古老的人工种植作物之一。</Plantredlentil.description>
 
-	<Plantpumpkin.description>橙色的大型葫芦科属蔬菜。常雕刻成鬼脸用以辟邪。</Plantpumpkin.description>
+  <Plantpumpkin.label>南瓜</Plantpumpkin.label>
+  <Plantpumpkin.description>大型的橙色南瓜品种。万圣节上常用来雕成南瓜头。</Plantpumpkin.description>
 
-	<Plantsquash.label>西葫芦</Plantsquash.label>
+  <Plantsquash.label>西葫芦</Plantsquash.label>
+  <Plantsquash.description>葫芦科南瓜属的黄色品种。</Plantsquash.description>
 
-	<Plantsquash.description>黄色的葫芦科属蔬菜。</Plantsquash.description>
+  <Plantbean.label>黄豆</Plantbean.label>
+  <Plantbean.description>黄豆是烹饪中的常见材料。</Plantbean.description>
 
-	<Plantbean.label>黄豆</Plantbean.label>
+  <PlantTomato.label>西红柿</PlantTomato.label>
+  <PlantTomato.description>鲜艳的红色果实，既是水果又是蔬菜，适宜种植在肥沃的土壤中。</PlantTomato.description>
 
-	<Plantbean.description>普通的黄豆，有多种烹调方法。</Plantbean.description>
+  <PlantCarrot.label>胡萝卜</PlantCarrot.label>
+  <PlantCarrot.description>一种长条状的橘红色蔬菜，即使在贫瘠的土壤中也能种植。</PlantCarrot.description>
 
-	<PlantTomato.label>番茄藤</PlantTomato.label>
+  <Plantmushroom.label>蘑菇</Plantmushroom.label>
+  <Plantmushroom.description>这种经过转基因处理的壮硕蘑菇可以作为肉食的替代品。</Plantmushroom.description>
 
-	<PlantTomato.description>一种独特的红色水果，在肥沃的土壤中生长更快。</PlantTomato.description>
+  <Plantoats.label>燕麦</Plantoats.label>
+  <Plantoats.description>一种低糖、高营养、高能量的谷物。</Plantoats.description>
 
-	<PlantCarrot.label>胡萝卜</PlantCarrot.label>
+  <Plantwheat.label>小麦</Plantwheat.label>
+  <Plantwheat.description>小麦是一种谷物，收获后能制成面粉。</Plantwheat.description>
 
-	<PlantCarrot.description>一种长条状的橙色蔬菜。</PlantCarrot.description>
+  <!--[Core] <PlantHaygrass.label>干草</PlantHaygrass.label>-->
+  <!--[Core] <PlantHaygrass.description>各种营养丰富的草混合在一起种植，产出大量用于喂养动物的干草。干草是很好的饲料，但对于人类来说难以下咽。</PlantHaygrass.description>-->
 
-	<Plantmushroom.label>蘑菇</Plantmushroom.label>
+  <!--[Core] <PlantGrass.label>草</PlantGrass.label>-->
+  <!--[Core] <PlantGrass.description>野草，在稍微有点光线和土地的地方就会长出来。</PlantGrass.description>-->
 
-	<Plantmushroom.description>经过基因工程处理的肉类替代品。</Plantmushroom.description>
+  <Plantcocoa.label>可可树</Plantcocoa.label>
+  <Plantcocoa.description>可可豆能经过发酵、烘焙、研磨，最后加工成巧克力。</Plantcocoa.description>
 
-	<Plantoats.label>燕麦</Plantoats.label>
+  <Plantsugarcane.label>甘蔗</Plantsugarcane.label>
+  <Plantsugarcane.description>甘蔗用于提炼蔗糖。</Plantsugarcane.description>
 
-	<Plantoats.description>一种低糖、高营养、高能量的谷物。</Plantoats.description>
+  <PlantTea.label>茶树</PlantTea.label>
+  <PlantTea.description>一种灌木。叶子可以冲泡成美味的饮料。</PlantTea.description>
 
-	<Plantwheat.label>小麦</Plantwheat.label>
+  <PlantCoffee.label>咖啡树</PlantCoffee.label>
+  <PlantCoffee.description>这种矮小的树木结出的红色果实酷似樱桃，种子经过发酵晾晒等工艺，或煮、或研磨成粉冲泡，最后成为美味的饮料。</PlantCoffee.description>
 
-	<Plantwheat.description>一种谷物，收成后可以做成面粉。</Plantwheat.description>
+  <!--[Core] <PlantHops.label>啤酒花</PlantHops.label>-->
+  <!--[Core] <PlantHops.description>又名蛇麻草，一种开花植物，产出啤酒花，啤酒原料的必需品。</PlantHops.description>-->
 
-	<PlantAppletree.label>苹果树</PlantAppletree.label>
 
-	<PlantAppletree.description>会长出水果的树，采摘后不会消失。</PlantAppletree.description>
+  <!-- <ThingDef ParentName="VG_PlantDef">
+	<defName>Plantaloe</defName>
+	<label>aloe plant</label>
+	<description>Aloe is grow for its natural healing properties.</description>
+    <graphicData>
+      <texPath>Things/Plants/aloePlant</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+    </graphicData>
+    <plant>
+      <harvestedThingDef>aloe</harvestedThingDef>
+	<harvestYield>2</harvestYield>
+      <sowMinSkill>5</sowMinSkill>
+      <growDays>4</growDays>
+      <reproduceMtbDays>3.5</reproduceMtbDays>
+      <fertilitySensitivity>0.6</fertilitySensitivity>
+	<wildBiomes>
+	   <TemperateForest>0.03</TemperateForest>
+	   <TropicalRainforest>0.03</TropicalRainforest>    			   <BorealForest>0.02</BorealForest>
+	   <Tundra>0.02</Tundra>
+        <AridShrubland>0.02</AridShrubland>
+        <Desert>0.01</Desert>
+	</wildBiomes>
+    </plant>
+  </ThingDef> -->
 
-	<PlantBananaTree.label>香蕉树</PlantBananaTree.label>
+  <!--[Core] <PlantHealroot.label>药草</PlantHealroot.label>-->
+  <!--[Core] <PlantHealroot.description>一种生长缓慢的植物，可以收获草药。\n\n已经被殖民者们选择育种了几个世纪。因其五大医疗功效，被部落人誉为「医者之手」。</PlantHealroot.description>-->
 
-	<PlantBananaTree.description>会长出水果的树，采摘后不会消失。</PlantBananaTree.description>
+  <!--[Core] <PlantCotton.label>棉花</PlantCotton.label>-->
+  <!--[Core] <PlantCotton.description>产出棉花。一种用于制衣的良好植物纤维。</PlantCotton.description>-->
 
-	<PlantorangeTree.label>橙树</PlantorangeTree.label>
+  <!--[Core] <PlantDevilstrand.label>恶魔菇</PlantDevilstrand.label>-->
+  <!--[Core] <PlantDevilstrand.description>这种经过基因工程改造的脆弱蘑菇能够产出最高级的丝质纤维。据传这种蘑菇拥有非常神秘的特性，它的名称源自它在人群中所激发出的贪欲。</PlantDevilstrand.description>-->
 
-	<PlantorangeTree.description>会长出水果的树，采摘后不会消失。</PlantorangeTree.description>
+  <PlantFlax.label>亚麻花</PlantFlax.label>
+  <PlantFlax.description>这种花的纤维可以被编织成亚麻布。</PlantFlax.description>
 
-	<PlantPeachTree.label>桃树</PlantPeachTree.label>
+  <PlantNeutroFlower.label>中性花</PlantNeutroFlower.label>
+  <PlantNeutroFlower.description>一种漂亮黄橙色花朵。用于制作中性胺和药物。</PlantNeutroFlower.description>
 
-	<PlantPeachTree.description>会长出水果的树，采摘后不会消失。</PlantPeachTree.description>
+  <Plantbamboo.label>竹</Plantbamboo.label>
+  <Plantbamboo.description>一种速生型草本植物。</Plantbamboo.description>
 
-	<DateTree.label>海枣树</DateTree.label>
-
-	<DateTree.description>会长出水果的树，采摘后不会消失。</DateTree.description>
-
-	<FigTree.label>无花果树</FigTree.label>
-
-	<FigTree.description>会长出水果的树，采摘后不会消失。</FigTree.description>
-
-	<PlantCherrytree.label>樱桃树</PlantCherrytree.label>
-
-	<PlantCherrytree.description>会长出水果的树，采摘后不会消失。</PlantCherrytree.description>
-
-	<PlantCoconuttree.label>椰子树</PlantCoconuttree.label>
-
-	<PlantCoconuttree.description>会长出水果的树，采摘后不会消失。</PlantCoconuttree.description>
-
-	<PlantOlivetree.label>橄榄树</PlantOlivetree.label>
-
-	<PlantOlivetree.description>会长出水果的树，采摘后不会消失。</PlantOlivetree.description>
-
-	<Plantpineapple.label>凤梨</Plantpineapple.label>
-
-	<Plantpineapple.description>长在灌木上的硬皮水果。</Plantpineapple.description>
-
-	<Plantgrape.label>葡萄藤</Plantgrape.label>
-
-	<Plantgrape.description>长在细长藤蔓上的甜味水果。</Plantgrape.description>
-
-	<Plantcloudberry.label>云莓</Plantcloudberry.label>
-
-	<Plantcloudberry.description>在寒冷气候中也能长得很好的果实。</Plantcloudberry.description>
-
-	<Plantgooseberry.label>醋栗</Plantgooseberry.label>
-
-	<Plantgooseberry.description>在寒冷气候中也能长得很好的果实。</Plantgooseberry.description>
-
-
-
-	<Plantblueberry.label>蓝莓</Plantblueberry.label>
-
-	<Plantblueberry.description>长在灌木上的蓝色浆果。</Plantblueberry.description>
-
-	<Plantwatermelon.label>西瓜</Plantwatermelon.label>
-
-	<Plantwatermelon.description>这种富含维他命A和C的水果可以生吃，也有多种烹调方式。</Plantwatermelon.description>
-
-	<Plantcocoa.label>可可树</Plantcocoa.label>
-
-	<Plantcocoa.description>可可豆能提炼制作成巧克力。</Plantcocoa.description>
-
-	<Plantsugarcane.label>甘蔗</Plantsugarcane.label>
-
-	<Plantsugarcane.description>甘蔗能提炼出砂糖。</Plantsugarcane.description>
-
-	<PlantTea.label>茶树</PlantTea.label>
-
-	<PlantTea.description>一种绿叶植物，其叶片可被冲泡成饮品。</PlantTea.description>
-
-	<PlantCoffee.label>咖啡树</PlantCoffee.label>
-
-	<PlantCoffee.description>一种绿叶植物，盛产红色浆果。浆果中的籽可以被磨成粉，并冲泡成美味的饮品。</PlantCoffee.description>
-
-	<Plantaloe.label>芦荟</Plantaloe.label>
-
-	<Plantaloe.description>具有治疗性的作物。</Plantaloe.description>
-
-	<PlantFlax.label>亚麻花</PlantFlax.label>
-
-	<PlantFlax.description>这种花的纤维可以被编织成布。</PlantFlax.description>
-
-	<PlantSteelLeaf.label>钢叶</PlantSteelLeaf.label>
-
-	<PlantSteelLeaf.description>一种灌木植物，会将地下的钢储存在它的茎中。它可以被电提炼器熔炼成金属。</PlantSteelLeaf.description>
-
-	<PlantPlasteelLeaf.label>玻璃钢叶</PlantPlasteelLeaf.label>
-
-	<PlantPlasteelLeaf.description>一种灌木植物，会将地下的玻璃钢储存在它的茎中。它可以被电提炼器熔炼成金属。</PlantPlasteelLeaf.description>
-
-	<PlantGoldLeaf.label>黄金叶</PlantGoldLeaf.label>
-
-	<PlantGoldLeaf.description>一种灌木植物，会将地下的黄金储存在它的茎中。它可以被电提炼器熔炼成金属。</PlantGoldLeaf.description>
-
-	<PlantSilverLeaf.label>白银叶</PlantSilverLeaf.label>
-
-	<PlantSilverLeaf.description>一种灌木植物，会将地下的白银储存在它的茎中。它可以被电提炼器熔炼成金属。</PlantSilverLeaf.description>
-
-	<PlantUraniumLeaf.label>铀叶</PlantUraniumLeaf.label>
-
-	<PlantUraniumLeaf.description>一种灌木植物，会将地下的铀储存在它的茎中。它可以被电提炼器熔炼成金属。</PlantUraniumLeaf.description>
-	
-	<PlantNeutroFlower.label>元素铃</PlantNeutroFlower.label>
-
-	<PlantNeutroFlower.description>一种漂亮的橘黄色小花。可以提炼出作为药物基材的中性胺。</PlantNeutroFlower.description>
-
-	<Plantbamboo.label>竹子</Plantbamboo.label>
-
-	<Plantbamboo.description>一种生长很快的植物，可以做为建材。</Plantbamboo.description>
 
 </LanguageData>

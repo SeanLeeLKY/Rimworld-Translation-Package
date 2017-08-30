@@ -1,61 +1,83 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Rawwheat.label>小麦</Rawwheat.label>
+  <Rawwheat.label>小麦</Rawwheat.label>
+  <Rawwheat.description>小麦是一种谷物，用于磨制成面粉。</Rawwheat.description>
 
-	<Rawwheat.description>小麦是一种谷物，用来磨制成面粉。</Rawwheat.description>
+  <Rawcocoa.label>可可豆</Rawcocoa.label>
+  <Rawcocoa.description>可可豆经过发酵、烘焙、研磨，最后加工成巧克力。</Rawcocoa.description>
 
-	<Rawcocoa.label>可可豆</Rawcocoa.label>
+  <Rawsugarcane.label>甘蔗</Rawsugarcane.label>
+  <Rawsugarcane.description>甘蔗的杆部。可以提炼蔗糖。</Rawsugarcane.description>
 
-	<Rawcocoa.description>可制成巧克力的可可豆。</Rawcocoa.description>
+  <cheese.label>奶酪</cheese.label>
+  <cheese.description>一块奶酪。</cheese.description>
 
-	<Rawsugarcane.label>甘蔗</Rawsugarcane.label>
+  <Sugar.label>蔗糖</Sugar.label>
+  <Sugar.description>从甘蔗中提炼而来，作为烘焙配料。</Sugar.description>
 
-	<Rawsugarcane.description>从甘蔗丛中收获的甘蔗。</Rawsugarcane.description>
+  <Flour.label>面粉</Flour.label>
+  <Flour.description>简单的面粉，用于烘焙。</Flour.description>
 
-	<Sugar.label>砂糖</Sugar.label>
+  <RawTobacco.label>烟叶</RawTobacco.label>
+  <RawTobacco.description>烟叶。不推荐直接吃，但可以做成小雪茄。</RawTobacco.description>
 
-	<Sugar.description>从甘蔗中提炼而成，用于烹饪。</Sugar.description>
+  <!--[Core] <Chocolate.label>巧克力</Chocolate.label>-->
+  <!--[Core] <Chocolate.description>一种美味食品，可可豆与糖和香草一起研磨制成。吃起来让人心情舒畅，但不是很营养。</Chocolate.description>-->
 
-	<Flour.label>面粉</Flour.label>
+  <Cornmeal.label>玉米粉</Cornmeal.label>
+  <Cornmeal.description>简单的玉米粉，用于烘焙。</Cornmeal.description>
 
-	<Flour.description>面粉，用于烹饪。</Flour.description>
+  <RawCoffee.label>咖啡豆</RawCoffee.label>
+  <RawCoffee.description>咖啡豆，煮一杯咖啡吧！</RawCoffee.description>
 
-	
+  <CPD_CoffeeBeans.label>咖啡豆</CPD_CoffeeBeans.label>
+  <CPD_CoffeeBeans.description>咖啡豆，煮一杯咖啡吧！</CPD_CoffeeBeans.description>
 
-	
+  <Rawtea.label>茶叶</Rawtea.label>
+  <Rawtea.description>用来泡茶的茶叶。</Rawtea.description>
 
-	<Cornmeal.label>玉米面</Cornmeal.label>
+  <!--[Core] <Milk.label>奶</Milk.label>-->
+  <!--[Core] <Milk.description>动物的乳汁。</Milk.description>-->
 
-	<Cornmeal.description>玉米面，用于烹饪。</Cornmeal.description>
+  <soymilk.label>豆浆</soymilk.label>
+  <soymilk.description>又称豆奶。</soymilk.description>
 
-	<RawCoffee.label>咖啡豆</RawCoffee.label>
+  <coconutmilk.label>椰汁</coconutmilk.label>
+  <coconutmilk.description>从椰子中获得的椰汁。</coconutmilk.description>
 
-	<RawCoffee.description>用来冲调饮品的咖啡豆。</RawCoffee.description>
+  <!--[Core] <RawHops.label>啤酒花</RawHops.label>-->
+  <!--[Core] <RawHops.description>生的啤酒花。是酿制啤酒时必需的调味剂和保鲜剂。</RawHops.description>-->
 
-	<Rawtea.label>茶叶</Rawtea.label>
+  <NeutroPetals.label>中性花</NeutroPetals.label>
+  <NeutroPetals.description>中性花的漂亮黄橙色花瓣。用于制作中性胺和药物。</NeutroPetals.description>
 
-	<Rawtea.description>用来泡茶的茶叶。</Rawtea.description>
-
-	<Rawdough.label>生面团</Rawdough.label>
-
-	<Rawdough.description>用面粉，糖，牛奶和鸡蛋混合而成的食品原料。</Rawdough.description>
-
-	<soymilk.label>豆奶</soymilk.label>
-
-	<soymilk.description>黄豆榨成混合牛奶的豆奶。</soymilk.description>
-
-	<coconutmilk.label>椰汁</coconutmilk.label>
-
-	<coconutmilk.description>椰子的汁液。</coconutmilk.description>
-	
-	<NeutroPetals.label>元素铃花瓣</NeutroPetals.label>
-
-	<NeutroPetals.description>元素铃的花瓣，可以用来制作中性胺。</NeutroPetals.description>
-
-	
+  <!--[Core] <Hay.label>干草</Hay.label>-->
+  <!--[Core] <Hay.description>营养丰富的草和幼芽，收获并压缩储存起来。干草是很好的饲料，但对于人类来说难以下咽。</Hay.description>-->
 
 
-	 <!--<Healthdrink.label>健康饮料</Healthdrink.label>--> 
-	 <!--<Healthdrink.description>用水果和药物制成的饮品，用来缓解不适感。</Healthdrink.description>--> 
+  <!-- Kibble -->
+
+  <!--[Core] <Kibble.label>粗饲料</Kibble.label>-->
+  <!--[Core] <Kibble.description>将肉和植物原料混合而成的动物粗饲料。人也能吃，但真的、真的没人喜欢。</Kibble.description>-->
+
+  <Silage.label>青贮饲料</Silage.label>
+  <Silage.description>由干草和谷物发酵而成营养丰富的动物饲料。发酵可以防止青贮饲料腐坏。</Silage.description>
+
+  <VG_Compost.label>堆肥活化剂</VG_Compost.label>
+  <VG_Compost.description>堆肥活化剂用于制造肥料，能增强土壤和加快植物的生长速度。</VG_Compost.description>
+
+  <RawFertilizer.label>肥料</RawFertilizer.label>
+  <RawFertilizer.description>肥料能丰富土壤和加快植物生长速度。</RawFertilizer.description>
+
+  <VeganEgg.label>素蛋</VeganEgg.label>
+  <VeganEgg.description>由豆腐、南瓜或香蕉制成的蛋状食物，用于替代烘焙或其他料理中蛋材料。</VeganEgg.description>
+
+  <VG_PileofDirt.label>土堆</VG_PileofDirt.label>
+  <VG_PileofDirt.description>从挖掘点挖掘出的土壤。 用于制作肥料。</VG_PileofDirt.description>
+
+  <VG_Biofuel.label>生物燃料</VG_Biofuel.label>
+  <VG_Biofuel.description>通过精炼各种类型的油和醇类植物制成的燃料。可用作燃料发电机和工作台的燃料。</VG_Biofuel.description>
+
+
 </LanguageData>

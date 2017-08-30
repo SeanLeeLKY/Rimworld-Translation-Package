@@ -1,8 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<GardenTools.label>园艺工具</GardenTools.label>
+  <VGBrewing.label>酿造</VGBrewing.label>
+  <VGBrewing.description>有关酿酒的工具。</VGBrewing.description>
 
-	<GardenTools.description>用来耕种作物的工具组。</GardenTools.description>
+  <GardenTools.label>菜园</GardenTools.label>
+  <GardenTools.description>有关种植的工具。</GardenTools.description>
+
 
 </LanguageData>

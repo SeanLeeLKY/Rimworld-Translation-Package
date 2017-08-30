@@ -1,40 +1,29 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<CraftFlour.label>研磨面粉 (4)</CraftFlour.label>
+  <CraftFlour.label>研磨面粉（4）</CraftFlour.label>
+  <CraftFlour.description>将小麦研磨成面粉。</CraftFlour.description>
+  <CraftFlour.jobString>正在研磨面粉。</CraftFlour.jobString>
 
-	<CraftFlour.description>将小麦研磨成粉。 </CraftFlour.description>
+  <CraftBulkFlour.label>批量研磨面粉（25）</CraftBulkFlour.label>
+  <CraftBulkFlour.description>将小麦磨成面粉。</CraftBulkFlour.description>
+  <CraftBulkFlour.jobString>正在研磨面粉。</CraftBulkFlour.jobString>
 
-	<CraftFlour.jobString>正在研磨面粉</CraftFlour.jobString>
+  <CraftCornmeal.label>研磨玉米粉（4）</CraftCornmeal.label>
+  <CraftCornmeal.description>将玉米磨成玉米粉。</CraftCornmeal.description>
+  <CraftCornmeal.jobString>正在研磨玉米粉。</CraftCornmeal.jobString>
 
-	<CraftBulkFlour.label>批量研磨面粉 (25)</CraftBulkFlour.label>
+  <CraftBulkCornMeal.label>批量研磨玉米粉（25）</CraftBulkCornMeal.label>
+  <CraftBulkCornMeal.description>将玉米磨成玉米粉。</CraftBulkCornMeal.description>
+  <CraftBulkCornMeal.jobString>正在研磨玉米粉。</CraftBulkCornMeal.jobString>
 
-	<CraftBulkFlour.description>将小麦研磨成粉。</CraftBulkFlour.description>
+  <GroundSugar.label>制作蔗糖（3）</GroundSugar.label>
+  <GroundSugar.description>将甘蔗碾碎榨汁，最后制成白花花的食糖。</GroundSugar.description>
+  <GroundSugar.jobString>正在制作蔗糖。</GroundSugar.jobString>
 
-	<CraftBulkFlour.jobString>正在研磨面粉。</CraftBulkFlour.jobString>
+  <CraftBulkSugar.label>批量制作蔗糖（25）</CraftBulkSugar.label>
+  <CraftBulkSugar.description>将甘蔗碾碎榨汁，最后制成白花花的食糖。</CraftBulkSugar.description>
+  <CraftBulkSugar.jobString>正在批量制作蔗糖。</CraftBulkSugar.jobString>
 
-	<CraftCornmeal.label>研磨玉米面 (4)</CraftCornmeal.label>
-
-	<CraftCornmeal.description>将玉米研磨成粉。</CraftCornmeal.description>
-
-	<CraftCornmeal.jobString>正在研磨玉米。</CraftCornmeal.jobString>
-
-	<CraftBulkCornMeal.label>批量研磨玉米面 (25)</CraftBulkCornMeal.label>
-
-	<CraftBulkCornMeal.description>将玉米研磨成粉。</CraftBulkCornMeal.description>
-
-	<CraftBulkCornMeal.jobString>正在研磨玉米。</CraftBulkCornMeal.jobString>
-
-	<GroundSugar.label>研磨砂糖 (3)</GroundSugar.label>
-
-	<GroundSugar.description>磨碎压制甘蔗，用以提炼砂糖。</GroundSugar.description>
-
-	<GroundSugar.jobString>正在研磨砂糖。</GroundSugar.jobString>
-
-	<CraftBulkSugar.label>批量研磨砂糖 (25)</CraftBulkSugar.label>
-
-	<CraftBulkSugar.description>磨碎压制大量甘蔗，用以提炼砂糖。</CraftBulkSugar.description>
-
-	<CraftBulkSugar.jobString>正在研磨砂糖。</CraftBulkSugar.jobString>
 
 </LanguageData>

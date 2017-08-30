@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Core] <FermentingBarrel.label>发酵桶</FermentingBarrel.label>-->
+  <!--[Core] <FermentingBarrel.description>一个将麦芽汁发酵成啤酒的桶。</FermentingBarrel.description>-->
+  <!--[Core] <FermentingBarrel_Blueprint.label>发酵桶（蓝图）</FermentingBarrel_Blueprint.label>-->
+  <!--[Core] <FermentingBarrel_Blueprint_Install.label>发酵桶（蓝图）</FermentingBarrel_Blueprint_Install.label>-->
+  <!--[Core] <FermentingBarrel_Frame.label>发酵桶（建造中）</FermentingBarrel_Frame.label>-->
+  <!--[Core] <FermentingBarrel_Frame.description>一个将麦芽汁发酵成啤酒的桶。</FermentingBarrel_Frame.description>-->
+
+  <cider_Barrel.label>发酵桶(苹果酒)</cider_Barrel.label>
+  <cider_Barrel.description>一个发酵桶。</cider_Barrel.description>
+  <cider_Barrel_Blueprint.label>发酵桶(苹果酒) (蓝图)</cider_Barrel_Blueprint.label>
+  <cider_Barrel_Blueprint_Install.label>发酵桶(苹果酒) (蓝图)</cider_Barrel_Blueprint_Install.label>
+  <cider_Barrel_Frame.label>发酵桶(苹果酒) (建造中)</cider_Barrel_Frame.label>
+  <cider_Barrel_Frame.description>一个发酵桶。</cider_Barrel_Frame.description>
+
+  <rum_Barrel.label>发酵桶(朗姆酒)</rum_Barrel.label>
+  <rum_Barrel.description>一个发酵桶。</rum_Barrel.description>
+  <rum_Barrel_Blueprint.label>发酵桶(朗姆酒) (蓝图)</rum_Barrel_Blueprint.label>
+  <rum_Barrel_Blueprint_Install.label>发酵桶(朗姆酒) (蓝图)</rum_Barrel_Blueprint_Install.label>
+  <rum_Barrel_Frame.label>发酵桶(朗姆酒) (建造中)</rum_Barrel_Frame.label>
+  <rum_Barrel_Frame.description>一个发酵桶。</rum_Barrel_Frame.description>
+
+  <Wine_Barrel.label>发酵桶(草莓酒)</Wine_Barrel.label>
+  <Wine_Barrel.description>一个发酵桶。</Wine_Barrel.description>
+  <Wine_Barrel_Blueprint.label>发酵桶(草莓酒) (蓝图)</Wine_Barrel_Blueprint.label>
+  <Wine_Barrel_Blueprint_Install.label>发酵桶(草莓酒) (蓝图)</Wine_Barrel_Blueprint_Install.label>
+  <Wine_Barrel_Frame.label>草莓酒发酵桶 (建造中)</Wine_Barrel_Frame.label>
+  <Wine_Barrel_Frame.description>一个发酵桶。</Wine_Barrel_Frame.description>
+
+  <GrapeWine_Barrel.label>发酵桶(葡萄酒)</GrapeWine_Barrel.label>
+  <GrapeWine_Barrel.description>一个发酵桶。</GrapeWine_Barrel.description>
+  <GrapeWine_Barrel_Blueprint.label>发酵桶(葡萄酒) (蓝图)</GrapeWine_Barrel_Blueprint.label>
+  <GrapeWine_Barrel_Blueprint_Install.label>发酵桶(葡萄酒) (蓝图)</GrapeWine_Barrel_Blueprint_Install.label>
+  <GrapeWine_Barrel_Frame.label>发酵桶(葡萄酒) (建造中)</GrapeWine_Barrel_Frame.label>
+  <GrapeWine_Barrel_Frame.description>一个发酵桶。</GrapeWine_Barrel_Frame.description>
+
+  <saki_Barrel.label>发酵桶(清酒)</saki_Barrel.label>
+  <saki_Barrel.description>一个发酵桶。</saki_Barrel.description>
+  <saki_Barrel_Blueprint.label>发酵桶(清酒) (蓝图)</saki_Barrel_Blueprint.label>
+  <saki_Barrel_Blueprint_Install.label>发酵桶(清酒) (蓝图)</saki_Barrel_Blueprint_Install.label>
+  <saki_Barrel_Frame.label>发酵桶(清酒) (建造中)</saki_Barrel_Frame.label>
+  <saki_Barrel_Frame.description>一个发酵桶。</saki_Barrel_Frame.description>
+
+  <vodka_Barrel.label>发酵桶(伏特加)</vodka_Barrel.label>
+  <vodka_Barrel.description>一个发酵桶。</vodka_Barrel.description>
+  <vodka_Barrel_Blueprint.label>发酵桶(伏特加) (蓝图)</vodka_Barrel_Blueprint.label>
+  <vodka_Barrel_Blueprint_Install.label>发酵桶(伏特加) (蓝图)</vodka_Barrel_Blueprint_Install.label>
+  <vodka_Barrel_Frame.label>发酵桶(伏特加) (建造中)</vodka_Barrel_Frame.label>
+  <vodka_Barrel_Frame.description>一个发酵桶。</vodka_Barrel_Frame.description>
+
+  <tequila_Barrel.label>发酵桶(龙舌兰酒)</tequila_Barrel.label>
+  <tequila_Barrel.description>一个发酵桶。</tequila_Barrel.description>
+  <tequila_Barrel_Blueprint.label>发酵桶(龙舌兰酒) (蓝图)</tequila_Barrel_Blueprint.label>
+  <tequila_Barrel_Blueprint_Install.label>发酵桶(龙舌兰酒) (蓝图)</tequila_Barrel_Blueprint_Install.label>
+  <tequila_Barrel_Frame.label>发酵桶(龙舌兰酒) (建造中)</tequila_Barrel_Frame.label>
+  <tequila_Barrel_Frame.description>一个发酵桶。</tequila_Barrel_Frame.description>
+
+  <Whiskey_Barrel.label>发酵桶(威士忌)</Whiskey_Barrel.label>
+  <Whiskey_Barrel.description>一个发酵桶。</Whiskey_Barrel.description>
+  <Whiskey_Barrel_Blueprint.label>发酵桶(威士忌) (蓝图)</Whiskey_Barrel_Blueprint.label>
+  <Whiskey_Barrel_Blueprint_Install.label>发酵桶(威士忌) (蓝图)</Whiskey_Barrel_Blueprint_Install.label>
+  <Whiskey_Barrel_Frame.label>发酵桶(威士忌) (建造中)</Whiskey_Barrel_Frame.label>
+  <Whiskey_Barrel_Frame.description>一个发酵桶。</Whiskey_Barrel_Frame.description>
+
+
+  <!--[Core] <Brewery.label>酿造台</Brewery.label>-->
+  <!--[Core] <Brewery.description>一个配备有酿酒设备的工作台。</Brewery.description>-->
+  <!--[Core] <Brewery_Blueprint.label>酿造台（蓝图）</Brewery_Blueprint.label>-->
+  <!--[Core] <Brewery_Frame.label>酿造台（建造中）</Brewery_Frame.label>-->
+  <!--[Core] <Brewery_Frame.description>一个配备有酿酒设备的工作台。</Brewery_Frame.description>-->
+
+</LanguageData>

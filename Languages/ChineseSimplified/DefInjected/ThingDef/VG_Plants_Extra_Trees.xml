@@ -1,32 +1,52 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<PlantTreeWeepingWillow.label>垂柳</PlantTreeWeepingWillow.label>
+  <!-- Vanilla Trees -->
 
-	<PlantTreeWeepingWillow.description>一种观赏树木，在干旱环境下也能正常生长。它们的木材产量较低，但很漂亮。</PlantTreeWeepingWillow.description>
+  <!--[Core] <PlantTreeOak.label>橡树</PlantTreeOak.label>-->
+  <!--[Core] <PlantTreeOak.description>一种健壮的硬木树。生长缓慢，但是木材非常坚硬。</PlantTreeOak.description>-->
 
-	<PlantTreeJapaneseMaple.label>鸡爪枫</PlantTreeJapaneseMaple.label>
+  <!--[Core] <PlantTreePoplar.label>杨树</PlantTreePoplar.label>-->
+  <!--[Core] <PlantTreePoplar.description>一种软木树。生长迅速，但产出的可用木材不多。</PlantTreePoplar.description>-->
 
-	<PlantTreeJapaneseMaple.description>这种美丽的树木有着弯曲的树枝和橙红色的灿烂树叶，非常吸引眼球。</PlantTreeJapaneseMaple.description>
+  <!--[Core] <PlantTreePine.label>松树</PlantTreePine.label>-->
+  <!--[Core] <PlantTreePine.description>一种大型针叶树。</PlantTreePine.description>-->
 
-	<PlantTreeIronwood.label>铁木</PlantTreeIronwood.label>
+  <!--[Core] <PlantTreeBirch.label>桦树</PlantTreeBirch.label>-->
+  <!--[Core] <PlantTreeBirch.description>一种北方树木，因纸一样的薄树皮而出名。</PlantTreeBirch.description>-->
 
-	<PlantTreeIronwood.description>这种树的名词源于它传奇般坚硬的木材。最常用于制作矛和工具。</PlantTreeIronwood.description>
+  <!--[Core] <PlantTreeTeak.label>柚木树</PlantTreeTeak.label>-->
+  <!--[Core] <PlantTreeTeak.description>一个非常健壮的硬木树，在远古时用于建造帆船。</PlantTreeTeak.description>-->
 
-	<PlantTreeCherryBlossom.label>樱花树</PlantTreeCherryBlossom.label>
+  <!--[Core] <PlantTreeCecropia.label>号角树</PlantTreeCecropia.label>-->
+  <!--[Core] <PlantTreeCecropia.description>热带雨林里最常见的树之一。生长非常迅速，但产出的可用木材不多。</PlantTreeCecropia.description>-->
 
-	<PlantTreeCherryBlossom.description>这种树不仅仅是良好的建筑材料，也是你院落中的完美点缀。</PlantTreeCherryBlossom.description>
 
-	<PlantTreeCamellia.label>山茶花树</PlantTreeCamellia.label>
+  <!-- New Trees -->
 
-	<PlantTreeCamellia.description>这种小型装饰树有着漂亮的花朵，且非常耐寒。</PlantTreeCamellia.description>
+  <PlantTreeWeepingWillow.label>垂柳树</PlantTreeWeepingWillow.label>
+  <PlantTreeWeepingWillow.description>生长在干旱地区的观赏植物，枝叶茂盛。木材产量较低，但很漂亮。</PlantTreeWeepingWillow.description>
 
-	<PlantTreeAcacia.label>槐树</PlantTreeAcacia.label>
+  <PlantTreeJapaneseMaple.label>日本枫树</PlantTreeJapaneseMaple.label>
+  <PlantTreeJapaneseMaple.description>这种漂亮的树的枝条以各种出人意料的角度扭转卷曲，叶子是的灿烂的橙红色，非常吸引人眼球。</PlantTreeJapaneseMaple.description>
 
-	<PlantTreeAcacia.description>槐树有着坚硬的木材，能在最恶劣的沙漠环境中生长。木材产量较低，且有着锋利的突刺。</PlantTreeAcacia.description>
+  <PlantTreeIronwood.label>铁木树</PlantTreeIronwood.label>
+  <PlantTreeIronwood.description>铁木树因其堪比钢铁般坚硬的木质而得名。通常被用来制作投矛和工具。</PlantTreeIronwood.description>
 
-	<PlantTreePalm.label>棕榈树</PlantTreePalm.label>
+  <PlantTreeCherryBlossom.label>樱花树</PlantTreeCherryBlossom.label>
+  <PlantTreeCherryBlossom.description>樱花树算不上好的建材来源，但却是你的草坪上最美的树之一。</PlantTreeCherryBlossom.description>
 
-	<PlantTreePalm.description>棕榈树有着坚硬的木材，能在最恶劣的沙漠环境中生长。</PlantTreePalm.description>
+  <PlantTreeCamellia.label>山茶树</PlantTreeCamellia.label>
+  <PlantTreeCamellia.description>这种矮小的观赏树有着美丽花朵。山茶花有一个著名的特点：即使在寒冬中依然能保持娇嫩。</PlantTreeCamellia.description>
+
+  <PlantTreeAcacia.label>金合欢树</PlantTreeAcacia.label>
+  <PlantTreeAcacia.description>金合欢树是一种耐干旱植物，生长在干旱的草原和沙漠中。木材产量不高且长有尖刺。</PlantTreeAcacia.description>
+
+  <PlantTreePalm.label>棕榈树</PlantTreePalm.label>
+  <PlantTreePalm.description>棕榈树非常耐干旱，可以在沙漠中种植。</PlantTreePalm.description>
+
+  <PlantTreeRedMaple.label>红枫树</PlantTreeRedMaple.label>
+  <PlantTreeRedMaple.description>一种长着红色叶子的软木树。</PlantTreeRedMaple.description>
+
 
 </LanguageData>

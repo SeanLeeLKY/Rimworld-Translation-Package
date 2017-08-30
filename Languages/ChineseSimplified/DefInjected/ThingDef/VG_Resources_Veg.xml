@@ -1,46 +1,49 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Rawsnowbeet.label>雪甜菜</Rawsnowbeet.label>
+  <!-- ++++++++++++++++++++++++++++++++++++++++++++ -->
 
-	<Rawsnowbeet.description>新鲜的雪甜菜。</Rawsnowbeet.description>
+  <!--[Core] <RawRice.label>稻米</RawRice.label>-->
+  <!--[Core] <RawRice.description>生稻米。生吃味道很差。</RawRice.description>-->
 
-	<Raweggplant.label>茄子</Raweggplant.label>
+  <!--[Core] <RawPotatoes.label>土豆</RawPotatoes.label>-->
+  <!--[Core] <RawPotatoes.description>生土豆。生吃味道很差。</RawPotatoes.description>-->
 
-	<Raweggplant.description>紫色品种的茄子。生吃很苦。</Raweggplant.description>
+  <!--[Core] <RawCorn.label>玉米</RawCorn.label>-->
+  <!--[Core] <RawCorn.description>生玉米。生吃味道很差。</RawCorn.description>-->
 
-	<Rawpumpkin.label>南瓜</Rawpumpkin.label>
+  <Rawsnowbeet.label>雪甜菜</Rawsnowbeet.label>
+  <Rawsnowbeet.description>生的雪甜菜。</Rawsnowbeet.description>
 
-	<Rawpumpkin.description>橙色的大型葫芦科属蔬菜。常雕刻成鬼脸用以辟邪。</Rawpumpkin.description>
+  <Raweggplant.label>茄子</Raweggplant.label>
+  <Raweggplant.description>紫色的茄子。生吃时有涩味、而且辣嘴。</Raweggplant.description>
 
-	<Rawsquash.label>西葫芦</Rawsquash.label>
+  <Rawpumpkin.label>南瓜</Rawpumpkin.label>
+  <Rawpumpkin.description>南瓜家族中的橙色大个子。万圣节上常用来雕成南瓜头。</Rawpumpkin.description>
 
-	<Rawsquash.description>黄色的葫芦科属蔬菜。</Rawsquash.description>
+  <Rawsquash.label>西葫芦</Rawsquash.label>
+  <Rawsquash.description>葫芦科南瓜属中的黄色品种。</Rawsquash.description>
 
-	<Rawbean.label>黄豆</Rawbean.label>
+  <Rawbean.label>黄豆</Rawbean.label>
+  <Rawbean.description>黄豆在各种烹饪方式中很常见。</Rawbean.description>
 
-	<Rawbean.description>常见的黄豆，有多种烹调方式。</Rawbean.description>
+  <RawTomatoes.label>番茄</RawTomatoes.label>
+  <RawTomatoes.description>一种口感鲜嫩多汁的水果，用途非常广。</RawTomatoes.description>
 
-	<RawTomatoes.label>番茄</RawTomatoes.label>
+  <RawOlive.label>橄榄</RawOlive.label>
+  <RawOlive.description>长在树上的小果实。</RawOlive.description>
 
-	<RawTomatoes.description>口味鲜明的水果，有多种用法。</RawTomatoes.description>
+  <RawCarrots.label>胡萝卜</RawCarrots.label>
+  <RawCarrots.description>一种爽口鲜脆的蔬菜。可以治疗夜盲症。</RawCarrots.description>
 
-	<RawCarrots.label>胡萝卜</RawCarrots.label>
+  <Rawmushroom.label>蘑菇</Rawmushroom.label>
+  <Rawmushroom.description>富含蛋白质的生蘑菇。即使生吃味道也不错。</Rawmushroom.description>
 
-	<RawCarrots.description>口感清脆，味道清爽的蔬菜。有助于在黑暗中增强视力。</RawCarrots.description>
+  <Rawoats.label>燕麦</Rawoats.label>
+  <Rawoats.description>作为牲畜饲料或主食的谷物。</Rawoats.description>
 
-	<Rawmushroom.label>蘑菇</Rawmushroom.label>
+  <PickledVeg.label>腌菜</PickledVeg.label>
+  <PickledVeg.description>经过盐水腌泡加工的蔬菜。</PickledVeg.description>
 
-	<Rawmushroom.description>富含蛋白质的蘑菇。甚至是生吃味道也很好。</Rawmushroom.description>
-
-	<Rawoats.label>燕麦</Rawoats.label>
-
-	<Rawoats.description>一种用来做动物饲料的谷物，也可以烹调为食物。</Rawoats.description>
-
-	<Bamboo.label>竹子</Bamboo.label>
-
-	<Bamboo.description>生长迅速的植物，通常作为建材使用。</Bamboo.description>
-
-	<Bamboo.stuffProps.stuffAdjective>竹子</Bamboo.stuffProps.stuffAdjective>
 
 </LanguageData>
