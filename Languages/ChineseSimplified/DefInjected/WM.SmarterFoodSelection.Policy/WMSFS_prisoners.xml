@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SFS_DefaultPrisonerPolicy.label>囚犯</SFS_DefaultPrisonerPolicy.label>
+  <SFS_DefaultPrisonerPolicy.description>默认的囚犯食物分配规则。\n优先提供最差的食物，也会稍许考虑食物所提供的心情加成。</SFS_DefaultPrisonerPolicy.description>
+
+
+</LanguageData>
