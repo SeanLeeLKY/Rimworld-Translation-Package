@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Simple Animal Prosthetics -->
+
+  <SimpleAnimalProsthetics.label>ADS：简单的动物假肢</SimpleAnimalProsthetics.label>
+  <SimpleAnimalProsthetics.description>学习如何使用和制作简单的动物假肢。</SimpleAnimalProsthetics.description>
+
+
+  <!-- Animal Bionics -->
+
+  <AnimalBionics.label>ADS：动物仿生学</AnimalBionics.label>
+  <AnimalBionics.description>学习如何使用和制作动物仿生部件。</AnimalBionics.description>
+
+
+  <!-- Animal Heal -->
+
+  <AnimalHeal.label>ADS：动物治疗</AnimalHeal.label>
+  <AnimalHeal.description>学习如何修复动物的旧伤。</AnimalHeal.description>
+
+
+</LanguageData>

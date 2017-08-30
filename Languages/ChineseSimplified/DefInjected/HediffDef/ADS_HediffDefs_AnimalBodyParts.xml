@@ -1,10 +1,10 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Limbs -->
 
-  <ProstheticTail.label>假体尾巴</ProstheticTail.label>
-  <SimpleProstheticLegAnimal.label>动物人工腿</SimpleProstheticLegAnimal.label>
+  <ProstheticTail.label>假肢尾巴</ProstheticTail.label>
+  <SimpleProstheticLegAnimal.label>动物木腿</SimpleProstheticLegAnimal.label>
   <BionicLegAnimal.label>动物仿生腿</BionicLegAnimal.label>
   <SimpleProstheticArmAnimal.label>动物人工臂</SimpleProstheticArmAnimal.label>
   <BionicArmAnimal.label>动物仿生臂</BionicArmAnimal.label>
@@ -12,6 +12,7 @@
 
   <!-- Other Parts -->
 
+  <NoseAnimalSimple.label>简单的动物鼻子</NoseAnimalSimple.label>
   <BionicEyeAnimal.label>动物仿生眼</BionicEyeAnimal.label>
   <EarAnimalSimple.label>动物人工耳</EarAnimalSimple.label>
   <EarAnimalBionic.label>动物仿生耳</EarAnimalBionic.label>

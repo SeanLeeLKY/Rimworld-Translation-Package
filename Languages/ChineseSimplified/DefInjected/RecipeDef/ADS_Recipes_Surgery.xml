@@ -1,89 +1,101 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
   <!-- Limbs -->
 
-  <InstallSimpleProstheticTailAnimal.label>植入动物人工尾</InstallSimpleProstheticTailAnimal.label>
-  <InstallSimpleProstheticTailAnimal.description>植入动物人工尾</InstallSimpleProstheticTailAnimal.description>
-  <InstallSimpleProstheticTailAnimal.jobString>植入动物人工尾</InstallSimpleProstheticTailAnimal.jobString>
+  <InstallSimpleProstheticTailAnimal.label>安装简单的动物尾巴</InstallSimpleProstheticTailAnimal.label>
+  <InstallSimpleProstheticTailAnimal.description>安装简单的动物尾巴。需要医疗技能4级。</InstallSimpleProstheticTailAnimal.description>
+  <InstallSimpleProstheticTailAnimal.jobString>正在安装简单的动物尾巴。</InstallSimpleProstheticTailAnimal.jobString>
 
-  <InstallPegLegAnimal.label>植入动物木腿</InstallPegLegAnimal.label>
-  <InstallPegLegAnimal.description>植入动物木腿。</InstallPegLegAnimal.description>
-  <InstallPegLegAnimal.jobString>正在植入动物木腿。</InstallPegLegAnimal.jobString>
+  <InstallScytherBladeAnimal.label>安装飞螳镰刃</InstallScytherBladeAnimal.label>
+  <InstallScytherBladeAnimal.description>安装飞螳镰刃。</InstallScytherBladeAnimal.description>
+  <InstallScytherBladeAnimal.jobString>正在安装飞螳镰刃。</InstallScytherBladeAnimal.jobString>
 
-  <InstallSimpleProstheticLegAnimal.label>植入动物人工腿</InstallSimpleProstheticLegAnimal.label>
-  <InstallSimpleProstheticLegAnimal.description>植入动物人工腿</InstallSimpleProstheticLegAnimal.description>
-  <InstallSimpleProstheticLegAnimal.jobString>植入动物人工腿</InstallSimpleProstheticLegAnimal.jobString>
+  <InstallPowerClawAnimal.label>安装动力爪</InstallPowerClawAnimal.label>
+  <InstallPowerClawAnimal.description>安装动力爪。</InstallPowerClawAnimal.description>
+  <InstallPowerClawAnimal.jobString>正在安装动力爪。</InstallPowerClawAnimal.jobString>
 
-  <InstallBionicLegAnimal.label>植入动物仿生腿</InstallBionicLegAnimal.label>
-  <InstallBionicLegAnimal.description>植入动物仿生腿</InstallBionicLegAnimal.description>
-  <InstallBionicLegAnimal.jobString>植入动物仿生腿</InstallBionicLegAnimal.jobString>
+  <InstallPegLegAnimal.label>安装动物木腿</InstallPegLegAnimal.label>
+  <InstallPegLegAnimal.description>安装动物木腿。</InstallPegLegAnimal.description>
+  <InstallPegLegAnimal.jobString>正在安装动物木腿。</InstallPegLegAnimal.jobString>
 
-  <InstallSimpleProstheticArmAnimal.label>植入动物人工臂</InstallSimpleProstheticArmAnimal.label>
-  <InstallSimpleProstheticArmAnimal.description>植入动物人工臂。</InstallSimpleProstheticArmAnimal.description>
-  <InstallSimpleProstheticArmAnimal.jobString>正在植入动物人工臂。</InstallSimpleProstheticArmAnimal.jobString>
+  <InstallSimpleProstheticLegAnimal.label>安装简单的动物假腿</InstallSimpleProstheticLegAnimal.label>
+  <InstallSimpleProstheticLegAnimal.description>正在安装简单的动物假腿。需要医疗技能4级。</InstallSimpleProstheticLegAnimal.description>
+  <InstallSimpleProstheticLegAnimal.jobString>正在安装简单的动物假腿。</InstallSimpleProstheticLegAnimal.jobString>
 
-  <InstallBionicArmAnimal.label>植入动物仿生臂</InstallBionicArmAnimal.label>
-  <InstallBionicArmAnimal.description>植入动物仿生臂。</InstallBionicArmAnimal.description>
-  <InstallBionicArmAnimal.jobString>正在植入动物仿生臂。</InstallBionicArmAnimal.jobString>
+  <InstallBionicLegAnimal.label>安装动物仿生腿</InstallBionicLegAnimal.label>
+  <InstallBionicLegAnimal.description>正在安装动物仿生腿。需要医疗技能8级。</InstallBionicLegAnimal.description>
+  <InstallBionicLegAnimal.jobString>正在安装动物仿生腿。</InstallBionicLegAnimal.jobString>
+
+  <InstallSimpleProstheticArmAnimal.label>安装动物人工臂</InstallSimpleProstheticArmAnimal.label>
+  <InstallSimpleProstheticArmAnimal.description>安装动物人工臂。需要医疗技能4级。</InstallSimpleProstheticArmAnimal.description>
+  <InstallSimpleProstheticArmAnimal.jobString>正在安装动物人工臂。</InstallSimpleProstheticArmAnimal.jobString>
+
+  <InstallBionicArmAnimal.label>安装动物仿生臂</InstallBionicArmAnimal.label>
+  <InstallBionicArmAnimal.description>安装动物仿生臂。需要医疗技能8级。</InstallBionicArmAnimal.description>
+  <InstallBionicArmAnimal.jobString>正在安装动物仿生臂。</InstallBionicArmAnimal.jobString>
 
 
   <!-- Other Parts -->
 
-  <InstallBionicEyeAnimal.label>植入动物仿生眼</InstallBionicEyeAnimal.label>
-  <InstallBionicEyeAnimal.description>植入动物仿生眼。</InstallBionicEyeAnimal.description>
-  <InstallBionicEyeAnimal.jobString>正在植入动物仿生眼。</InstallBionicEyeAnimal.jobString>
+  <InstallNoseAnimalSimple.label>安装简单的动物鼻子</InstallNoseAnimalSimple.label>
+  <InstallNoseAnimalSimple.description>安装简单的动物鼻子。需要医疗技能4级。</InstallNoseAnimalSimple.description>
+  <InstallNoseAnimalSimple.jobString>正在安装简单的动物鼻子。</InstallNoseAnimalSimple.jobString>
 
-  <InstallEarAnimalSimple.label>植入动物人工耳</InstallEarAnimalSimple.label>
-  <InstallEarAnimalSimple.description>植入动物人工耳。</InstallEarAnimalSimple.description>
-  <InstallEarAnimalSimple.jobString>正在植入动物人工耳。</InstallEarAnimalSimple.jobString>
+  <InstallBionicEyeAnimal.label>安装动物仿生眼</InstallBionicEyeAnimal.label>
+  <InstallBionicEyeAnimal.description>安装动物仿生眼。需要医疗技能8级。</InstallBionicEyeAnimal.description>
+  <InstallBionicEyeAnimal.jobString>正在安装动物仿生眼。</InstallBionicEyeAnimal.jobString>
 
-  <InstallEarAnimalBionic.label>植入动物仿生耳</InstallEarAnimalBionic.label>
-  <InstallEarAnimalBionic.description>植入动物仿生耳。</InstallEarAnimalBionic.description>
-  <InstallEarAnimalBionic.jobString>正在植入动物仿生耳。</InstallEarAnimalBionic.jobString>
+  <InstallEarAnimalSimple.label>安装动物人工耳</InstallEarAnimalSimple.label>
+  <InstallEarAnimalSimple.description>安装动物人工耳。需要医疗技能4级。</InstallEarAnimalSimple.description>
+  <InstallEarAnimalSimple.jobString>正在安装动物人工耳。</InstallEarAnimalSimple.jobString>
 
-  <InstallJawAnimalSimple.label>植入动物人工颌</InstallJawAnimalSimple.label>
-  <InstallJawAnimalSimple.description>植入动物人工颌。</InstallJawAnimalSimple.description>
-  <InstallJawAnimalSimple.jobString>正在植入动物人工颌。</InstallJawAnimalSimple.jobString>
+  <InstallEarAnimalBionic.label>安装动物仿生耳</InstallEarAnimalBionic.label>
+  <InstallEarAnimalBionic.description>安装动物仿生耳。需要医疗技能8级。</InstallEarAnimalBionic.description>
+  <InstallEarAnimalBionic.jobString>正在安装动物仿生耳。</InstallEarAnimalBionic.jobString>
 
-  <InstallJawAnimalBionic.label>植入动物仿生颌</InstallJawAnimalBionic.label>
-  <InstallJawAnimalBionic.description>植入动物仿生颌。</InstallJawAnimalBionic.description>
-  <InstallJawAnimalBionic.jobString>正在植入动物仿生颌。</InstallJawAnimalBionic.jobString>
+  <InstallJawAnimalSimple.label>安装动物人工颌</InstallJawAnimalSimple.label>
+  <InstallJawAnimalSimple.description>安装动物人工颌。需要医疗技能4级。</InstallJawAnimalSimple.description>
+  <InstallJawAnimalSimple.jobString>正在安装动物人工颌。</InstallJawAnimalSimple.jobString>
 
-  <InstallSpineAnimalSimple.label>植入动物人工脊椎</InstallSpineAnimalSimple.label>
-  <InstallSpineAnimalSimple.description>植入动物人工脊椎。</InstallSpineAnimalSimple.description>
-  <InstallSpineAnimalSimple.jobString>正在植入动物人工脊椎。</InstallSpineAnimalSimple.jobString>
+  <InstallJawAnimalBionic.label>安装动物仿生颌</InstallJawAnimalBionic.label>
+  <InstallJawAnimalBionic.description>安装动物仿生颌。需要医疗技能8级。</InstallJawAnimalBionic.description>
+  <InstallJawAnimalBionic.jobString>正在安装动物仿生颌。</InstallJawAnimalBionic.jobString>
 
-  <InstallSpineAnimalBionic.label>植入动物仿生脊椎</InstallSpineAnimalBionic.label>
-  <InstallSpineAnimalBionic.description>植入动物仿生脊椎。</InstallSpineAnimalBionic.description>
-  <InstallSpineAnimalBionic.jobString>正在植入动物仿生脊椎。</InstallSpineAnimalBionic.jobString>
+  <InstallSpineAnimalSimple.label>安装动物人工脊椎</InstallSpineAnimalSimple.label>
+  <InstallSpineAnimalSimple.description>安装动物人工脊椎。需要医疗技能6级。</InstallSpineAnimalSimple.description>
+  <InstallSpineAnimalSimple.jobString>正在安装动物人工脊椎。</InstallSpineAnimalSimple.jobString>
+
+  <InstallSpineAnimalBionic.label>安装动物仿生脊椎</InstallSpineAnimalBionic.label>
+  <InstallSpineAnimalBionic.description>安装动物仿生脊椎。需要医疗技能10级。</InstallSpineAnimalBionic.description>
+  <InstallSpineAnimalBionic.jobString>正在安装动物仿生脊椎。</InstallSpineAnimalBionic.jobString>
 
 
   <!-- Organs -->
 
-  <InstallAnimalBrainStimulator.label>植入动物脑刺激器</InstallAnimalBrainStimulator.label>
-  <InstallAnimalBrainStimulator.description>植入动物脑刺激器。</InstallAnimalBrainStimulator.description>
-  <InstallAnimalBrainStimulator.jobString>正在植入动物脑刺激器。</InstallAnimalBrainStimulator.jobString>
+  <InstallAnimalBrainStimulator.label>安装动物脑刺激器</InstallAnimalBrainStimulator.label>
+  <InstallAnimalBrainStimulator.description>安装动物脑刺激器。需要医疗技能10级。</InstallAnimalBrainStimulator.description>
+  <InstallAnimalBrainStimulator.jobString>正在安装动物脑刺激器。</InstallAnimalBrainStimulator.jobString>
 
-  <InstallBionicAnimalHeart.label>植入动物仿生心脏</InstallBionicAnimalHeart.label>
-  <InstallBionicAnimalHeart.description>植入动物仿生心脏。</InstallBionicAnimalHeart.description>
-  <InstallBionicAnimalHeart.jobString>正在植入动物仿生心脏。</InstallBionicAnimalHeart.jobString>
+  <InstallBionicAnimalHeart.label>安装动物仿生心脏</InstallBionicAnimalHeart.label>
+  <InstallBionicAnimalHeart.description>安装动物仿生心脏。需要医疗技能10级。</InstallBionicAnimalHeart.description>
+  <InstallBionicAnimalHeart.jobString>正在安装动物仿生心脏。</InstallBionicAnimalHeart.jobString>
 
-  <InstallBionicAnimalLung.label>植入动物仿生肺</InstallBionicAnimalLung.label>
-  <InstallBionicAnimalLung.description>植入动物仿生肺。</InstallBionicAnimalLung.description>
-  <InstallBionicAnimalLung.jobString>正在植入动物仿生肺。</InstallBionicAnimalLung.jobString>
+  <InstallBionicAnimalLung.label>安装动物仿生肺</InstallBionicAnimalLung.label>
+  <InstallBionicAnimalLung.description>安装动物仿生肺。需要医疗技能10级。</InstallBionicAnimalLung.description>
+  <InstallBionicAnimalLung.jobString>正在安装动物仿生肺。</InstallBionicAnimalLung.jobString>
 
-  <InstallBionicAnimalLiver.label>植入动物仿生肝</InstallBionicAnimalLiver.label>
-  <InstallBionicAnimalLiver.description>植入动物仿生肝</InstallBionicAnimalLiver.description>
-  <InstallBionicAnimalLiver.jobString>植入动物仿生肝</InstallBionicAnimalLiver.jobString>
+  <InstallBionicAnimalLiver.label>安装动物仿生肝</InstallBionicAnimalLiver.label>
+  <InstallBionicAnimalLiver.description>正在安装动物仿生肝。需要医疗技能10级。</InstallBionicAnimalLiver.description>
+  <InstallBionicAnimalLiver.jobString>正在安装动物仿生肝。</InstallBionicAnimalLiver.jobString>
 
-  <InstallBionicAnimalKidney.label>植入动物仿生肾</InstallBionicAnimalKidney.label>
-  <InstallBionicAnimalKidney.description>植入动物仿生肾</InstallBionicAnimalKidney.description>
-  <InstallBionicAnimalKidney.jobString>植入动物仿生肾</InstallBionicAnimalKidney.jobString>
+  <InstallBionicAnimalKidney.label>安装动物仿生肾</InstallBionicAnimalKidney.label>
+  <InstallBionicAnimalKidney.description>正在安装动物仿生肾。需要医疗技能10级。</InstallBionicAnimalKidney.description>
+  <InstallBionicAnimalKidney.jobString>正在安装动物仿生肾。</InstallBionicAnimalKidney.jobString>
 
-  <InstallBionicAnimalStomach.label>植入动物仿生胃</InstallBionicAnimalStomach.label>
-  <InstallBionicAnimalStomach.description>植入动物仿生胃</InstallBionicAnimalStomach.description>
-  <InstallBionicAnimalStomach.jobString>植入动物仿生胃</InstallBionicAnimalStomach.jobString>
+  <InstallBionicAnimalStomach.label>安装动物仿生胃</InstallBionicAnimalStomach.label>
+  <InstallBionicAnimalStomach.description>安装动物仿生胃。需要医疗技能10级。</InstallBionicAnimalStomach.description>
+  <InstallBionicAnimalStomach.jobString>正在安装动物仿生胃。</InstallBionicAnimalStomach.jobString>
 
 
 </LanguageData>
