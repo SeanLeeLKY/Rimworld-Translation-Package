@@ -1,0 +1,336 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ResearchReactorConductors.label>绝密（启用前）</ResearchReactorConductors.label>
+  <ResearchReactorConductors.description>请在边缘核能研究台查看</ResearchReactorConductors.description>
+  <ResearchReactorConductors.ResearchLabel>反应堆导管</ResearchReactorConductors.ResearchLabel>
+  <ResearchReactorConductors.ResearchDesc>通过提高燃料和水之间的导热性，增加轻水反应堆堆芯的功率输出，将输出功率提高15％。</ResearchReactorConductors.ResearchDesc>
+  <ResearchReactorConductors.ResearchDescDisc>您现在可以在边缘核能加工台制作反应堆导管，并将其安装到轻水反应堆堆芯中，选择反应堆并指定安装反应堆导管，在安装之前请关闭反应堆。</ResearchReactorConductors.ResearchDescDisc>
+
+  <ReactorConductors1.label>绝密（启用前）</ReactorConductors1.label>
+  <ReactorConductors1.description>请在边缘核能研究台查看</ReactorConductors1.description>
+  <ReactorConductors1.StepLabel>核反应堆进阶研究(需要12级智识)</ReactorConductors1.StepLabel>
+  <ReactorConductors1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ReactorConductors1.StepDesc>
+
+  <ReactorConductors2.label>绝密（启用前）</ReactorConductors2.label>
+  <ReactorConductors2.description>请在边缘核能研究台查看</ReactorConductors2.description>
+  <ReactorConductors2.StepLabel>测试：燃料饱和，中子通量20%。</ReactorConductors2.StepLabel>
+  <ReactorConductors2.StepDesc>将轻水反应堆装满24个燃料组件、中子通量设定在10％~20％，使用反应堆控制台收集数据。</ReactorConductors2.StepDesc>
+
+  <ReactorConductors3.label>绝密（启用前）</ReactorConductors3.label>
+  <ReactorConductors3.description>请在边缘核能研究台查看</ReactorConductors3.description>
+  <ReactorConductors3.StepLabel>测试：燃料饱和，中子通量100%。</ReactorConductors3.StepLabel>
+  <ReactorConductors3.StepDesc>将轻水反应堆装满24个燃料组件、中子通量设定在100％，使用反应堆控制台收集数据。</ReactorConductors3.StepDesc>
+
+  <ReactorConductors4.label>绝密（启用前）</ReactorConductors4.label>
+  <ReactorConductors4.description>请在边缘核能研究台查看</ReactorConductors4.description>
+  <ReactorConductors4.StepLabel>核反应堆进阶研究(需要12级智识)</ReactorConductors4.StepLabel>
+  <ReactorConductors4.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用研究用核反应堆进行实验。</ReactorConductors4.StepDesc>
+
+  <ReactorConductors5.label>绝密（启用前）</ReactorConductors5.label>
+  <ReactorConductors5.description>请在边缘核能研究台查看</ReactorConductors5.description>
+  <ReactorConductors5.StepLabel>组件材料分析(需要12级手工)</ReactorConductors5.StepLabel>
+  <ReactorConductors5.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作反应堆导管。</ReactorConductors5.StepDesc>
+
+  <ResearchNeutronReflectors.label>绝密（启用前）</ResearchNeutronReflectors.label>
+  <ResearchNeutronReflectors.description>请在边缘核能研究台查看</ResearchNeutronReflectors.description>
+  <ResearchNeutronReflectors.ResearchLabel>中子反射层</ResearchNeutronReflectors.ResearchLabel>
+  <ResearchNeutronReflectors.ResearchDesc>通过使用最新优化设计的中子反射层来捕获更多的中子以提高中子通量率上限，将最大输出功率提高25％，同时也提高燃料使用率。</ResearchNeutronReflectors.ResearchDesc>
+  <ResearchNeutronReflectors.ResearchDescDisc>您现在可以在边缘核能加工台制作中子反射层，并将其安装到轻水反应堆堆芯中，选择反应堆并指定安装中子反射层，在安装之前请关闭反应堆。</ResearchNeutronReflectors.ResearchDescDisc>
+
+  <NeutronReflectors1.label>绝密（启用前）</NeutronReflectors1.label>
+  <NeutronReflectors1.description>请在边缘核能研究台查看</NeutronReflectors1.description>
+  <NeutronReflectors1.StepLabel>核反应堆进阶研究(需要12级智识)</NeutronReflectors1.StepLabel>
+  <NeutronReflectors1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</NeutronReflectors1.StepDesc>
+
+  <NeutronReflectors2.label>绝密（启用前）</NeutronReflectors2.label>
+  <NeutronReflectors2.description>请在边缘核能研究台查看</NeutronReflectors2.description>
+  <NeutronReflectors2.StepLabel>测试：燃料饱和，中子通量100%。</NeutronReflectors2.StepLabel>
+  <NeutronReflectors2.StepDesc>将轻水反应堆装满24个燃料组件、中子通量设定在100％，使用反应堆控制台收集数据。</NeutronReflectors2.StepDesc>
+
+  <NeutronReflectors3.label>绝密（启用前）</NeutronReflectors3.label>
+  <NeutronReflectors3.description>请在边缘核能研究台查看</NeutronReflectors3.description>
+  <NeutronReflectors3.StepLabel>核反应堆进阶研究(需要12级智识)</NeutronReflectors3.StepLabel>
+  <NeutronReflectors3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用研究用核反应堆进行实验。</NeutronReflectors3.StepDesc>
+
+  <NeutronReflectors4.label>绝密（启用前）</NeutronReflectors4.label>
+  <NeutronReflectors4.description>请在边缘核能研究台查看</NeutronReflectors4.description>
+  <NeutronReflectors4.StepLabel>组件材料分析(需要12级手工)</NeutronReflectors4.StepLabel>
+  <NeutronReflectors4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作中子反射层。</NeutronReflectors4.StepDesc>
+
+  <ResearchBreeder.label>绝密（启用前）</ResearchBreeder.label>
+  <ResearchBreeder.description>请在边缘核能研究台查看</ResearchBreeder.description>
+  <ResearchBreeder.ResearchLabel>增殖反应堆组件</ResearchBreeder.ResearchLabel>
+  <ResearchBreeder.ResearchDesc>将反应堆转化为增殖反应堆，通过将轻水反应堆堆芯中的热中子转换为无阻尼快中子，从而提高易裂变材料的转化率，以充分燃烧燃料。注意，随着燃料的增加，输出功率将会增加，需要同步调整调整冷却系统和中子通量。</ResearchBreeder.ResearchDesc>
+  <ResearchBreeder.ResearchDescDisc>您现在可以在边缘核能加工台制作增殖反应堆组件，并将其安装到轻水反应堆堆芯中，选择反应堆并指定安装增殖反应堆组件，在安装之前请关闭反应堆。</ResearchBreeder.ResearchDescDisc>
+
+  <Breeder1.label>绝密（启用前）</Breeder1.label>
+  <Breeder1.description>请在边缘核能研究台查看</Breeder1.description>
+  <Breeder1.StepLabel>核反应堆进阶研究(需要12级智识)</Breeder1.StepLabel>
+  <Breeder1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</Breeder1.StepDesc>
+
+  <Breeder2.label>绝密（启用前）</Breeder2.label>
+  <Breeder2.description>请在边缘核能研究台查看</Breeder2.description>
+  <Breeder2.StepLabel>测试：燃料饱和，中子通量100%，374℃。</Breeder2.StepLabel>
+  <Breeder2.StepDesc>将轻水反应堆装满24个燃料组件，通过调节冷却系统和中子通量将反应堆堆芯温度稳定在374℃，中子通量至少要达到50%，使用反应堆控制台收集数据。</Breeder2.StepDesc>
+
+  <Breeder3.label>绝密（启用前）</Breeder3.label>
+  <Breeder3.description>请在边缘核能研究台查看</Breeder3.description>
+  <Breeder3.StepLabel>核反应堆进阶研究(需要12级智识)</Breeder3.StepLabel>
+  <Breeder3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用研究用核反应堆进行实验。</Breeder3.StepDesc>
+
+  <Breeder4.label>绝密（启用前）</Breeder4.label>
+  <Breeder4.description>请在边缘核能研究台查看</Breeder4.description>
+  <Breeder4.StepLabel>组件材料分析(需要12级手工)</Breeder4.StepLabel>
+  <Breeder4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作增殖反应堆组件。</Breeder4.StepDesc>
+
+  <ResearchReactorShielding.label>绝密（启用前）</ResearchReactorShielding.label>
+  <ResearchReactorShielding.description>请在边缘核能研究台查看</ResearchReactorShielding.description>
+  <ResearchReactorShielding.ResearchLabel>反应堆屏障</ResearchReactorShielding.ResearchLabel>
+  <ResearchReactorShielding.ResearchDesc>增强反应堆堆芯周围的辐射防护等级，减少可能从反应堆泄漏的辐射量，保护殖民者安全。</ResearchReactorShielding.ResearchDesc>
+  <ResearchReactorShielding.ResearchDescDisc>您现在可以在边缘核能加工台制作反应堆屏障，并将其安装到轻水反应堆堆芯中，选择反应堆并指定安装反应堆屏障，在安装之前请关闭反应堆。</ResearchReactorShielding.ResearchDescDisc>
+
+  <ReactorShielding1.label>绝密（启用前）</ReactorShielding1.label>
+  <ReactorShielding1.description>请在边缘核能研究台查看</ReactorShielding1.description>
+  <ReactorShielding1.StepLabel>核反应堆进阶研究(需要12级智识)</ReactorShielding1.StepLabel>
+  <ReactorShielding1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ReactorShielding1.StepDesc>
+
+  <ReactorShielding2.label>绝密（启用前）</ReactorShielding2.label>
+  <ReactorShielding2.description>请在边缘核能研究台查看</ReactorShielding2.description>
+  <ReactorShielding2.StepLabel>调整反应堆堆芯使其产生1级强度的辐射</ReactorShielding2.StepLabel>
+  <ReactorShielding2.StepDesc>整反应堆堆芯使其达到1级或更高的辐射泄漏水平来进行测试，使用反应堆控制台收集数据，在测试完成后可能需要进行修理。</ReactorShielding2.StepDesc>
+
+  <ReactorShielding3.label>绝密（启用前）</ReactorShielding3.label>
+  <ReactorShielding3.description>请在边缘核能研究台查看</ReactorShielding3.description>
+  <ReactorShielding3.StepLabel>核反应堆进阶研究(需要12级智识)</ReactorShielding3.StepLabel>
+  <ReactorShielding3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用研究用核反应堆进行实验。</ReactorShielding3.StepDesc>
+
+  <ReactorShielding4.label>绝密（启用前）</ReactorShielding4.label>
+  <ReactorShielding4.description>请在边缘核能研究台查看</ReactorShielding4.description>
+  <ReactorShielding4.StepLabel>组件材料分析(需要12级手工)</ReactorShielding4.StepLabel>
+  <ReactorShielding4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作反应堆屏障。</ReactorShielding4.StepDesc>
+
+  <ResearchControlRodActuators.label>绝密（启用前）</ResearchControlRodActuators.label>
+  <ResearchControlRodActuators.description>请在边缘核能研究台查看</ResearchControlRodActuators.description>
+  <ResearchControlRodActuators.ResearchLabel>控制棒传动器</ResearchControlRodActuators.ResearchLabel>
+  <ResearchControlRodActuators.ResearchDesc>提高控制杆运作的速度，提高对中子通量变化的反应速度，还提高了反应堆关闭速度。</ResearchControlRodActuators.ResearchDesc>
+  <ResearchControlRodActuators.ResearchDescDisc>您现在可以在边缘核能加工台制作控制棒传动器，并将其安装到轻水反应堆堆芯中，选择反应堆并指定安装控制棒传动器，在安装之前请关闭反应堆。</ResearchControlRodActuators.ResearchDescDisc>
+
+  <ControlRodActuators1.label>绝密（启用前）</ControlRodActuators1.label>
+  <ControlRodActuators1.description>请在边缘核能研究台查看</ControlRodActuators1.description>
+  <ControlRodActuators1.StepLabel>核反应堆进阶研究(需要8级智识)</ControlRodActuators1.StepLabel>
+  <ControlRodActuators1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ControlRodActuators1.StepDesc>
+
+  <ControlRodActuators2.label>绝密（启用前）</ControlRodActuators2.label>
+  <ControlRodActuators2.description>请在边缘核能研究台查看</ControlRodActuators2.description>
+  <ControlRodActuators2.StepLabel>测试：燃料饱和，中子通量100%。</ControlRodActuators2.StepLabel>
+  <ControlRodActuators2.StepDesc>将轻水反应堆装满24个燃料组件、中子通量设定在100％，使用反应堆控制台收集数据。</ControlRodActuators2.StepDesc>
+
+  <ControlRodActuators3.label>绝密（启用前）</ControlRodActuators3.label>
+  <ControlRodActuators3.description>请在边缘核能研究台查看</ControlRodActuators3.description>
+  <ControlRodActuators3.StepLabel>核反应堆进阶研究(需要10级智识)</ControlRodActuators3.StepLabel>
+  <ControlRodActuators3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用研究用核反应堆进行实验。</ControlRodActuators3.StepDesc>
+
+  <ControlRodActuators4.label>绝密（启用前）</ControlRodActuators4.label>
+  <ControlRodActuators4.description>请在边缘核能研究台查看</ControlRodActuators4.description>
+  <ControlRodActuators4.StepLabel>组件材料分析(需要10级手工)</ControlRodActuators4.StepLabel>
+  <ControlRodActuators4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作控制棒传动器。</ControlRodActuators4.StepDesc>
+
+
+  <!-- /////////////////////////////////////////////////////// -->
+
+  <ResearchGuidenceSystem.label>绝密（启用前）</ResearchGuidenceSystem.label>
+  <ResearchGuidenceSystem.description>请在边缘核能研究台查看</ResearchGuidenceSystem.description>
+  <ResearchGuidenceSystem.ResearchLabel>全球定位系统</ResearchGuidenceSystem.ResearchLabel>
+  <ResearchGuidenceSystem.ResearchDesc>显著太高洲际弹道导弹的范围和精度。</ResearchGuidenceSystem.ResearchDesc>
+  <ResearchGuidenceSystem.ResearchDescDisc>全球定位系统现已研究完成，所有洲际弹道导弹现在都将自动升级这些配置，射程已增加到120地图格。</ResearchGuidenceSystem.ResearchDescDisc>
+
+  <GuidenceSystem1.label>绝密（启用前）</GuidenceSystem1.label>
+  <GuidenceSystem1.description>请在边缘核能研究台查看</GuidenceSystem1.description>
+  <GuidenceSystem1.StepLabel>核反应堆进阶研究(需要12级智识)</GuidenceSystem1.StepLabel>
+  <GuidenceSystem1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</GuidenceSystem1.StepDesc>
+
+  <GuidenceSystem2.label>绝密（启用前）</GuidenceSystem2.label>
+  <GuidenceSystem2.description>请在边缘核能研究台查看</GuidenceSystem2.description>
+  <GuidenceSystem2.StepLabel>收集武器数据</GuidenceSystem2.StepLabel>
+  <GuidenceSystem2.StepDesc>使用洲际弹道核导弹打击任何目标并收集数据，分析发射是否成功，是否成功引爆目标，是否造成最大破坏。</GuidenceSystem2.StepDesc>
+
+  <GuidenceSystem3.label>绝密（启用前）</GuidenceSystem3.label>
+  <GuidenceSystem3.description>请在边缘核能研究台查看</GuidenceSystem3.description>
+  <GuidenceSystem3.StepLabel>核反应堆进阶研究(需要12级智识)</GuidenceSystem3.StepLabel>
+  <GuidenceSystem3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用轻水反应堆进行实验。</GuidenceSystem3.StepDesc>
+
+  <ResearchMEPS.label>绝密（启用前）</ResearchMEPS.label>
+  <ResearchMEPS.description>请在边缘核能研究台查看</ResearchMEPS.description>
+  <ResearchMEPS.ResearchLabel>模块化电力系统</ResearchMEPS.ResearchLabel>
+  <ResearchMEPS.ResearchDesc>模块化电力系统是一种超级电容器，可以与任何“边缘核能”系列能量武器的供电系统相连接，以提升其最大功率，每种能量武器的提升效果不同。</ResearchMEPS.ResearchDesc>
+  <ResearchMEPS.ResearchDescDisc>您现在可以在边缘核能加工台制作模块化电力系统，并将其安装到“边缘核能”系列能量武器中，选择能量武器并指定安装模块化电力系统。</ResearchMEPS.ResearchDescDisc>
+
+  <MEPS1.label>绝密（启用前）</MEPS1.label>
+  <MEPS1.description>请在边缘核能研究台查看</MEPS1.description>
+  <MEPS1.StepLabel>模块化电力系统原理(需要12级智识)</MEPS1.StepLabel>
+  <MEPS1.StepDesc>由高智识的殖民者对“边缘核能”系列能量武器进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</MEPS1.StepDesc>
+
+  <MEPS2.label>绝密（启用前）</MEPS2.label>
+  <MEPS2.description>请在边缘核能研究台查看</MEPS2.description>
+  <MEPS2.StepLabel>收集武器数据</MEPS2.StepLabel>
+  <MEPS2.StepDesc>使用“边缘核能”系列能量武器以最高耗能开火以收集武器数据。</MEPS2.StepDesc>
+
+  <MEPS3.label>绝密（启用前）</MEPS3.label>
+  <MEPS3.description>请在边缘核能研究台查看</MEPS3.description>
+  <MEPS3.StepLabel>模块化电力系统原理(需要10级智识)</MEPS3.StepLabel>
+  <MEPS3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用能量武器研究台进行实验。</MEPS3.StepDesc>
+
+  <MEPS4.label>绝密（启用前）</MEPS4.label>
+  <MEPS4.description>请在边缘核能研究台查看</MEPS4.description>
+  <MEPS4.StepLabel>组件材料分析(需要10级手工)</MEPS4.StepLabel>
+  <MEPS4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作模块化电力系统。</MEPS4.StepDesc>
+
+  <ResearchALC.label>绝密（启用前）</ResearchALC.label>
+  <ResearchALC.description>请在边缘核能研究台查看</ResearchALC.description>
+  <ResearchALC.ResearchLabel>先进水冷系统</ResearchALC.ResearchLabel>
+  <ResearchALC.ResearchDesc>先进水冷系统是一种通用型高级冷却系统，旨在通过增加能量武器及其供电系统的冷却能力，大幅度降低冷却时间并提高火力，可以与任何“边缘核能”系列能量武器配合使用，每种能量武器的提升效果不同。</ResearchALC.ResearchDesc>
+  <ResearchALC.ResearchDescDisc>您现在可以在边缘核能加工台制作先进水冷系统，并将其安装到“边缘核能”系列能量武器中，选择能量武器并指定安装先进水冷系统。</ResearchALC.ResearchDescDisc>
+
+  <ALC1.label>绝密（启用前）</ALC1.label>
+  <ALC1.description>请在边缘核能研究台查看</ALC1.description>
+  <ALC1.StepLabel>先进水冷系统原理(需要12级智识)</ALC1.StepLabel>
+  <ALC1.StepDesc>由高智识的殖民者对“边缘核能”系列能量武器进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ALC1.StepDesc>
+
+  <ALC2.label>绝密（启用前）</ALC2.label>
+  <ALC2.description>请在边缘核能研究台查看</ALC2.description>
+  <ALC2.StepLabel>收集武器数据</ALC2.StepLabel>
+  <ALC2.StepDesc>使用“边缘核能”系列能量武器以最高耗能开火以收集武器数据。</ALC2.StepDesc>
+
+  <ALC3.label>绝密（启用前）</ALC3.label>
+  <ALC3.description>请在边缘核能研究台查看</ALC3.description>
+  <ALC3.StepLabel>先进水冷系统原理(需要10级智识)</ALC3.StepLabel>
+  <ALC3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用能量武器研究台进行实验。</ALC3.StepDesc>
+
+  <ALC4.label>绝密（启用前）</ALC4.label>
+  <ALC4.description>请在边缘核能研究台查看</ALC4.description>
+  <ALC4.StepLabel>组件材料分析(需要10级手工)</ALC4.StepLabel>
+  <ALC4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作先进水冷系统。</ALC4.StepDesc>
+
+  <ResearchERS.label>绝密（启用前）</ResearchERS.label>
+  <ResearchERS.description>请在边缘核能研究台查看</ResearchERS.description>
+  <ResearchERS.ResearchLabel>能量回收系统</ResearchERS.ResearchLabel>
+  <ResearchERS.ResearchDesc>能量回收系统能够收集能量武器开火过程中浪费的动能和热能，并在武器开火后将回收的能量输送给脉冲电池储存起来。</ResearchERS.ResearchDesc>
+  <ResearchERS.ResearchDescDisc>您现在可以在边缘核能加工台制作能量回收系统，并将其安装到“边缘核能”系列能量武器中，选择能量武器并指定安装能量回收系统。</ResearchERS.ResearchDescDisc>
+
+  <ERS1.label>绝密（启用前）</ERS1.label>
+  <ERS1.description>请在边缘核能研究台查看</ERS1.description>
+  <ERS1.StepLabel>能量回收系统原理(需要12级智识)</ERS1.StepLabel>
+  <ERS1.StepDesc>由高智识的殖民者对“边缘核能”系列能量武器进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ERS1.StepDesc>
+
+  <ERS2.label>绝密（启用前）</ERS2.label>
+  <ERS2.description>请在边缘核能研究台查看</ERS2.description>
+  <ERS2.StepLabel>收集武器数据</ERS2.StepLabel>
+  <ERS2.StepDesc>使用“边缘核能”系列能量武器以最高耗能开火以收集武器数据。</ERS2.StepDesc>
+
+  <ERS3.label>绝密（启用前）</ERS3.label>
+  <ERS3.description>请在边缘核能研究台查看</ERS3.description>
+  <ERS3.StepLabel>能量回收系统原理(需要10级智识)</ERS3.StepLabel>
+  <ERS3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用能量武器研究台进行实验。</ERS3.StepDesc>
+
+  <ERS4.label>绝密（启用前）</ERS4.label>
+  <ERS4.description>请在边缘核能研究台查看</ERS4.description>
+  <ERS4.StepLabel>组件材料分析(需要10级手工)</ERS4.StepLabel>
+  <ERS4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作能量回收系统。</ERS4.StepDesc>
+
+  <ResearchDriveActuator.label>绝密（启用前）</ResearchDriveActuator.label>
+  <ResearchDriveActuator.description>请在边缘核能研究台查看</ResearchDriveActuator.description>
+  <ResearchDriveActuator.ResearchLabel>驱动器</ResearchDriveActuator.ResearchLabel>
+  <ResearchDriveActuator.ResearchDesc>驱动器能够提高“边缘核能”系列能量武器的精度和反应速度。这种高扭矩电机可以无隙耦合发动机和负载，显著提高系统的强度和稳定性。</ResearchDriveActuator.ResearchDesc>
+  <ResearchDriveActuator.ResearchDescDisc>您现在可以在边缘核能加工台制作驱动器，并将其安装到“边缘核能”系列能量武器中，选择能量武器并指定安装驱动器。</ResearchDriveActuator.ResearchDescDisc>
+
+  <DriveActuator1.label>绝密（启用前）</DriveActuator1.label>
+  <DriveActuator1.description>请在边缘核能研究台查看</DriveActuator1.description>
+  <DriveActuator1.StepLabel>驱动器原理(需要10级智识)</DriveActuator1.StepLabel>
+  <DriveActuator1.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用能量武器研究台进行实验。</DriveActuator1.StepDesc>
+
+  <DriveActuator2.label>绝密（启用前）</DriveActuator2.label>
+  <DriveActuator2.description>请在边缘核能研究台查看</DriveActuator2.description>
+  <DriveActuator2.StepLabel>组件材料分析(需要10级手工)</DriveActuator2.StepLabel>
+  <DriveActuator2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作驱动器。</DriveActuator2.StepDesc>
+
+  <ResearchRailgun_TargetingChip.label>绝密（启用前）</ResearchRailgun_TargetingChip.label>
+  <ResearchRailgun_TargetingChip.description>请在边缘核能研究台查看</ResearchRailgun_TargetingChip.description>
+  <ResearchRailgun_TargetingChip.ResearchLabel>定向芯片</ResearchRailgun_TargetingChip.ResearchLabel>
+  <ResearchRailgun_TargetingChip.ResearchDesc>定向芯片能够提高磁轨炮的射程和的精度。</ResearchRailgun_TargetingChip.ResearchDesc>
+  <ResearchRailgun_TargetingChip.ResearchDescDisc>您现在可以在边缘核能加工台制作定向芯片，并将其安装到磁轨炮中，选择磁轨炮并指定安装定向芯片。</ResearchRailgun_TargetingChip.ResearchDescDisc>
+
+  <Railgun_TargetingChip1.label>绝密（启用前）</Railgun_TargetingChip1.label>
+  <Railgun_TargetingChip1.description>请在边缘核能研究台查看</Railgun_TargetingChip1.description>
+  <Railgun_TargetingChip1.StepLabel>定向芯片原理(需要12级智识)</Railgun_TargetingChip1.StepLabel>
+  <Railgun_TargetingChip1.StepDesc>由高智识的殖民者对磁轨炮进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</Railgun_TargetingChip1.StepDesc>
+
+  <Railgun_TargetingChip2.label>绝密（启用前）</Railgun_TargetingChip2.label>
+  <Railgun_TargetingChip2.description>请在边缘核能研究台查看</Railgun_TargetingChip2.description>
+  <Railgun_TargetingChip2.StepLabel>收集武器数据</Railgun_TargetingChip2.StepLabel>
+  <Railgun_TargetingChip2.StepDesc>使用磁轨炮对任何目标开火以收集武器数据。</Railgun_TargetingChip2.StepDesc>
+
+  <Railgun_TargetingChip3.label>绝密（启用前）</Railgun_TargetingChip3.label>
+  <Railgun_TargetingChip3.description>请在边缘核能研究台查看</Railgun_TargetingChip3.description>
+  <Railgun_TargetingChip3.StepLabel>定向芯片原理(需要12级智识)</Railgun_TargetingChip3.StepLabel>
+  <Railgun_TargetingChip3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用能量武器研究台进行实验。</Railgun_TargetingChip3.StepDesc>
+
+  <Railgun_TargetingChip4.label>绝密（启用前）</Railgun_TargetingChip4.label>
+  <Railgun_TargetingChip4.description>请在边缘核能研究台查看</Railgun_TargetingChip4.description>
+  <Railgun_TargetingChip4.StepLabel>组件材料分析(需要15级手工)</Railgun_TargetingChip4.StepLabel>
+  <Railgun_TargetingChip4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作定向芯片。</Railgun_TargetingChip4.StepDesc>
+
+  <ResearchObelisk_LenseModule.label>绝密（启用前）</ResearchObelisk_LenseModule.label>
+  <ResearchObelisk_LenseModule.description>请在边缘核能研究台查看</ResearchObelisk_LenseModule.description>
+  <ResearchObelisk_LenseModule.ResearchLabel>棱镜模块</ResearchObelisk_LenseModule.ResearchLabel>
+  <ResearchObelisk_LenseModule.ResearchDesc>棱镜模块能够提高光菱塔聚焦和校准能力。</ResearchObelisk_LenseModule.ResearchDesc>
+  <ResearchObelisk_LenseModule.ResearchDescDisc>您现在可以在边缘核能加工台制作棱镜模块，并将其安装到光菱塔中，选择磁轨炮并指定安装棱镜模块。</ResearchObelisk_LenseModule.ResearchDescDisc>
+
+  <LenseModule1.label>绝密（启用前）</LenseModule1.label>
+  <LenseModule1.description>请在边缘核能研究台查看</LenseModule1.description>
+  <LenseModule1.StepLabel>棱镜模块原理(需要16级智识)</LenseModule1.StepLabel>
+  <LenseModule1.StepDesc>由高智识的殖民者对光菱塔进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</LenseModule1.StepDesc>
+
+  <LenseModule2.label>绝密（启用前）</LenseModule2.label>
+  <LenseModule2.description>请在边缘核能研究台查看</LenseModule2.description>
+  <LenseModule2.StepLabel>收集武器数据</LenseModule2.StepLabel>
+  <LenseModule2.StepDesc>使用光菱塔对任何活动目标开火以收集不同耗能下光菱塔所造成的伤害数据。</LenseModule2.StepDesc>
+
+  <LenseModule3.label>绝密（启用前）</LenseModule3.label>
+  <LenseModule3.description>请在边缘核能研究台查看</LenseModule3.description>
+  <LenseModule3.StepLabel>棱镜模块原理(需要18级智识)</LenseModule3.StepLabel>
+  <LenseModule3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用能量武器研究台进行实验。</LenseModule3.StepDesc>
+
+  <LenseModule4.label>绝密（启用前）</LenseModule4.label>
+  <LenseModule4.description>请在边缘核能研究台查看</LenseModule4.description>
+  <LenseModule4.StepLabel>组件材料分析(需要18级手工)</LenseModule4.StepLabel>
+  <LenseModule4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作棱镜模块。</LenseModule4.StepDesc>
+
+  <ResearchObelisk_BeamSplitter.label>绝密（启用前）</ResearchObelisk_BeamSplitter.label>
+  <ResearchObelisk_BeamSplitter.description>请在边缘核能研究台查看</ResearchObelisk_BeamSplitter.description>
+  <ResearchObelisk_BeamSplitter.ResearchLabel>电子束分裂器</ResearchObelisk_BeamSplitter.ResearchLabel>
+  <ResearchObelisk_BeamSplitter.ResearchDesc>光菱塔可以使用电子束分裂器对激光进行分光处理，次级光束被调谐到特定的波长和极化状态，用于击破护盾，主光束延迟一秒到达，攻击已无护盾保护的目标。</ResearchObelisk_BeamSplitter.ResearchDesc>
+  <ResearchObelisk_BeamSplitter.ResearchDescDisc>您现在可以在边缘核能加工台制作电子束分裂器，并将其安装到光菱塔中，选择磁轨炮并指定安装电子束分裂器。</ResearchObelisk_BeamSplitter.ResearchDescDisc>
+
+  <BeamSplitter1.label>绝密（启用前）</BeamSplitter1.label>
+  <BeamSplitter1.description>请在边缘核能研究台查看</BeamSplitter1.description>
+  <BeamSplitter1.StepLabel>电子束分裂器原理(需要16级智识)</BeamSplitter1.StepLabel>
+  <BeamSplitter1.StepDesc>由高智识的殖民者对光菱塔进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</BeamSplitter1.StepDesc>
+
+  <BeamSplitter2.label>绝密（启用前）</BeamSplitter2.label>
+  <BeamSplitter2.description>请在边缘核能研究台查看</BeamSplitter2.description>
+  <BeamSplitter2.StepLabel>收集武器数据</BeamSplitter2.StepLabel>
+  <BeamSplitter2.StepDesc>使用光菱塔对任何活动目标开火以收集不同耗能下光菱塔击破护盾时所造成的伤害数据。</BeamSplitter2.StepDesc>
+
+  <BeamSplitter3.label>绝密（启用前）</BeamSplitter3.label>
+  <BeamSplitter3.description>请在边缘核能研究台查看</BeamSplitter3.description>
+  <BeamSplitter3.StepLabel>电子束分裂器原理(需要18级智识)</BeamSplitter3.StepLabel>
+  <BeamSplitter3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用能量武器研究台进行实验。</BeamSplitter3.StepDesc>
+
+  <BeamSplitter4.label>绝密（启用前）</BeamSplitter4.label>
+  <BeamSplitter4.description>请在边缘核能研究台查看</BeamSplitter4.description>
+  <BeamSplitter4.StepLabel>组件材料分析(需要18级手工)</BeamSplitter4.StepLabel>
+  <BeamSplitter4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作电子束分裂器。</BeamSplitter4.StepDesc>
+
+
+</LanguageData>

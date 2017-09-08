@@ -1,0 +1,427 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--[Duplicated] <RimatomicsActivate.label>绝密（启用前）</RimatomicsActivate.label>-->
+  <!--[Duplicated] <RimatomicsActivate.description>请在边缘核能研究台查看</RimatomicsActivate.description>-->
+
+  <RimatomicsActivate.label>绝密（启用前）</RimatomicsActivate.label>
+  <RimatomicsActivate.description>请在边缘核能研究台查看</RimatomicsActivate.description>
+
+
+  <!-- /////////////// -->
+
+  <Geigercounter.label>绝密（启用前）</Geigercounter.label>
+  <Geigercounter.description>请在边缘核能研究台查看</Geigercounter.description>
+  <Geigercounter.ResearchLabel>便携式辐射探测器</Geigercounter.ResearchLabel>
+  <Geigercounter.ResearchDesc>保护殖民者免于暴露在危险的辐射中是至关重要的，边缘核能提供可用于探测电离辐射的便携式设备，所有殖民者将配备辐射探测器，一旦探测到辐射将产生可听见的咔嗒声，辐射当量显示为文本。</Geigercounter.ResearchDesc>
+  <Geigercounter.ResearchDescDisc>所有殖民者现在都配备了辐射探测器，一旦探测到辐射将产生可听见的咔嗒声，辐射当量显示为文本。</Geigercounter.ResearchDescDisc>
+
+  <Geigercounter1.label>绝密（启用前）</Geigercounter1.label>
+  <Geigercounter1.description>请在边缘核能研究台查看</Geigercounter1.description>
+  <Geigercounter1.StepLabel>电磁辐射探测理论(需要5级智识)</Geigercounter1.StepLabel>
+  <Geigercounter1.StepDesc>由高智识的殖民者研究辐射探测器的工作原理。</Geigercounter1.StepDesc>
+
+  <Geigercounter2.label>绝密（启用前）</Geigercounter2.label>
+  <Geigercounter2.description>请在边缘核能研究台查看</Geigercounter2.description>
+  <Geigercounter2.StepLabel>组件材料分析(需要5级手工)</Geigercounter2.StepLabel>
+  <Geigercounter2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作和维护所有殖民者的辐射探测器。</Geigercounter2.StepDesc>
+
+  <RadSuits.label>绝密（启用前）</RadSuits.label>
+  <RadSuits.description>请在边缘核能研究台查看</RadSuits.description>
+  <RadSuits.ResearchLabel>防辐射服装</RadSuits.ResearchLabel>
+  <RadSuits.ResearchDesc>通过辐射屏蔽衬里保护使用者免于暴露于核辐射，并且能够防止使用者直接接触或吸入辐射尘埃或气体。</RadSuits.ResearchDesc>
+  <RadSuits.ResearchDescDisc>你现在可以在裁缝台自己生产防辐射服装和作战用防辐射服装。</RadSuits.ResearchDescDisc>
+
+  <RadiationSuits1.label>绝密（启用前）</RadiationSuits1.label>
+  <RadiationSuits1.description>请在边缘核能研究台查看</RadiationSuits1.description>
+  <RadiationSuits1.StepLabel>辐射隔离理论(需要5级智识)</RadiationSuits1.StepLabel>
+  <RadiationSuits1.StepDesc>由高智识的殖民者研究适合隔离辐射的方法，设计制作方案。</RadiationSuits1.StepDesc>
+
+  <RadiationSuits2.label>绝密（启用前）</RadiationSuits2.label>
+  <RadiationSuits2.description>请在边缘核能研究台查看</RadiationSuits2.description>
+  <RadiationSuits2.StepLabel>组件材料分析(需要5级手工)</RadiationSuits2.StepLabel>
+  <RadiationSuits2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作供殖民者使用的防辐射服装。</RadiationSuits2.StepDesc>
+
+  <NuclearResearch.label>绝密（启用前）</NuclearResearch.label>
+  <NuclearResearch.description>请在边缘核能研究台查看</NuclearResearch.description>
+  <NuclearResearch.ResearchLabel>研究用核反应堆</NuclearResearch.ResearchLabel>
+  <NuclearResearch.ResearchDesc>在您的殖民者完全掌握核反应堆及其他基于核能的技术之前，他们必须先充分利用研究用核反应堆进行实验和观测以总结出可用于实际生产的核能技术。</NuclearResearch.ResearchDesc>
+  <NuclearResearch.ResearchDescDisc>现在可进行更深入的核能研究</NuclearResearch.ResearchDescDisc>
+
+  <NuclearResearch1.label>绝密（启用前）</NuclearResearch1.label>
+  <NuclearResearch1.description>请在边缘核能研究台查看</NuclearResearch1.description>
+  <NuclearResearch1.StepLabel>研究用核反应堆原理(需要7级智识)</NuclearResearch1.StepLabel>
+  <NuclearResearch1.StepDesc>由高智识的殖民者研究核反应堆的工作原理，设计出简易的研究用核反应堆制作方案。</NuclearResearch1.StepDesc>
+
+  <NuclearResearch2.label>绝密（启用前）</NuclearResearch2.label>
+  <NuclearResearch2.description>请在边缘核能研究台查看</NuclearResearch2.description>
+  <NuclearResearch2.StepLabel>组件材料分析(需要10级手工)</NuclearResearch2.StepLabel>
+  <NuclearResearch2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作研究用核反应堆组件。</NuclearResearch2.StepDesc>
+
+  <NuclearResearch3.label>绝密（启用前）</NuclearResearch3.label>
+  <NuclearResearch3.description>请在边缘核能研究台查看</NuclearResearch3.description>
+  <NuclearResearch3.StepLabel>制定施工蓝图(需要10级建造)</NuclearResearch3.StepLabel>
+  <NuclearResearch3.StepDesc>由高建造的殖民者使用现有的工具制定建造研究用核反应堆的最终施工蓝图。</NuclearResearch3.StepDesc>
+
+  <NuclearResearch4.label>绝密（启用前）</NuclearResearch4.label>
+  <NuclearResearch4.description>请在边缘核能研究台查看</NuclearResearch4.description>
+  <NuclearResearch4.StepLabel>构建研究用核反应堆</NuclearResearch4.StepLabel>
+  <NuclearResearch4.StepDesc>建造一个可与边缘核能研究台连接的研究用核反应堆。</NuclearResearch4.StepDesc>
+
+  <NuclearResearch5.label>绝密（启用前）</NuclearResearch5.label>
+  <NuclearResearch5.description>请在边缘核能研究台查看</NuclearResearch5.description>
+  <NuclearResearch5.StepLabel>实验和观测(需要7级智识)</NuclearResearch5.StepLabel>
+  <NuclearResearch5.StepDesc>安装研究用核反应堆控制软件，利用研究用核反应堆进行实验并测试反应堆性能。</NuclearResearch5.StepDesc>
+
+
+  <!-- /////////////////////////////////////////////////////// -->
+
+  <NuclearReactor.label>绝密（启用前）</NuclearReactor.label>
+  <NuclearReactor.description>请在边缘核能研究台查看</NuclearReactor.description>
+  <NuclearReactor.ResearchLabel>核能</NuclearReactor.ResearchLabel>
+  <NuclearReactor.ResearchDesc>“边缘核能”核电站被设计成一种可扩展的架构模式，能够在单个系统中运行多个反应堆、涡轮机和制冷设施，每个反应堆燃料装填完全时的发电量超过80kW。 反应堆也可用于生产武器用钚。</NuclearReactor.ResearchDesc>
+  <NuclearReactor.ResearchDescDisc>您的核电站不再受限于发电组件个数，可以通过添加更多的反应堆、涡轮机和制冷设施来扩展。可使用边缘核能研究台进行更深入的研究，以改进设计。</NuclearReactor.ResearchDescDisc>
+
+  <NuclearReactor1.label>绝密（启用前）</NuclearReactor1.label>
+  <NuclearReactor1.description>请在边缘核能研究台查看</NuclearReactor1.description>
+  <NuclearReactor1.StepLabel>核电站系统原理(需要7级智识)</NuclearReactor1.StepLabel>
+  <NuclearReactor1.StepDesc>由高智识的殖民者研究电站系统的工作原理，设计各个发电组件及其配套扩展方案。</NuclearReactor1.StepDesc>
+
+  <NuclearReactor2.label>绝密（启用前）</NuclearReactor2.label>
+  <NuclearReactor2.description>请在边缘核能研究台查看</NuclearReactor2.description>
+  <NuclearReactor2.StepLabel>组件材料分析(需要10级手工)</NuclearReactor2.StepLabel>
+  <NuclearReactor2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作核电系统的各个发电组件。</NuclearReactor2.StepDesc>
+
+  <NuclearReactor3.label>绝密（启用前）</NuclearReactor3.label>
+  <NuclearReactor3.description>请在边缘核能研究台查看</NuclearReactor3.description>
+  <NuclearReactor3.StepLabel>制定施工蓝图(需要10级建造)</NuclearReactor3.StepLabel>
+  <NuclearReactor3.StepDesc>由高建造的殖民者使用现有的工具制定建造核电系统的最终施工蓝图。</NuclearReactor3.StepDesc>
+
+  <NuclearReactor4.label>绝密（启用前）</NuclearReactor4.label>
+  <NuclearReactor4.description>请在边缘核能研究台查看</NuclearReactor4.description>
+  <NuclearReactor4.StepLabel>构建冷却系统</NuclearReactor4.StepLabel>
+  <NuclearReactor4.StepDesc>建造一套可用的冷却系统。水冷装置需要河流或大面积水域支持;干式冷却塔需要大量的供电和空间，并且必须建在室外;散热器冷却能力较小，但可以放置在室内用于加热。</NuclearReactor4.StepDesc>
+
+  <NuclearReactor5.label>绝密（启用前）</NuclearReactor5.label>
+  <NuclearReactor5.description>请在边缘核能研究台查看</NuclearReactor5.description>
+  <NuclearReactor5.StepLabel>构建涡轮机</NuclearReactor5.StepLabel>
+  <NuclearReactor5.StepDesc>建造一个涡轮机，涡轮机需要连接到冷却系统。建造涡轮机需要用到大量的涡轮叶片，可在边缘核能加工台制作。</NuclearReactor5.StepDesc>
+
+  <NuclearReactor6.label>绝密（启用前）</NuclearReactor6.label>
+  <NuclearReactor6.description>请在边缘核能研究台查看</NuclearReactor6.description>
+  <NuclearReactor6.StepLabel>连接冷却系统</NuclearReactor6.StepLabel>
+  <NuclearReactor6.StepDesc>使用冷却剂管道将冷却系统与涡轮机相连通。</NuclearReactor6.StepDesc>
+
+  <NuclearReactor7.label>绝密（启用前）</NuclearReactor7.label>
+  <NuclearReactor7.description>请在边缘核能研究台查看</NuclearReactor7.description>
+  <NuclearReactor7.StepLabel>构建轻水反应堆</NuclearReactor7.StepLabel>
+  <NuclearReactor7.StepDesc>建造轻水反应堆，分别用蒸汽导管和冷水导管将轻水反应堆与涡轮机相连通。强烈建议将轻水反应堆建在一个使用辐射屏障构建的室内，以保护殖民者在转移燃料的过程中遭受核辐射。反应堆组件可在边缘核能加工台制作。</NuclearReactor7.StepDesc>
+
+  <NuclearReactor8.label>绝密（启用前）</NuclearReactor8.label>
+  <NuclearReactor8.description>请在边缘核能研究台查看</NuclearReactor8.description>
+  <NuclearReactor8.StepLabel>构建高压变压器</NuclearReactor8.StepLabel>
+  <NuclearReactor8.StepDesc>建造高压变压器，并用高压电缆将高压变压器与涡轮机相连接。如果涡轮机的总功率超过连接到变压器的电力网当前使用量的150％，将导致电流过载引发电火花，并且可能发生变压器爆炸事故。</NuclearReactor8.StepDesc>
+
+  <NuclearReactor9.label>绝密（启用前）</NuclearReactor9.label>
+  <NuclearReactor9.description>请在边缘核能研究台查看</NuclearReactor9.description>
+  <NuclearReactor9.StepLabel>构建反应堆控制台</NuclearReactor9.StepLabel>
+  <NuclearReactor9.StepDesc>建造反应堆控制台，并用数据电缆将反应堆控制台与轻水反应堆相连接。此控制台用于控制轻水反应堆，控反应堆控制台可通过分配一个ID与轻水反应堆配对，从而可以互相串联多个轻水反应堆。反应堆控制台需要殖民者操控，多个控制台可以同时操控。</NuclearReactor9.StepDesc>
+
+  <NuclearReactor10.label>绝密（启用前）</NuclearReactor10.label>
+  <NuclearReactor10.description>请在边缘核能研究台查看</NuclearReactor10.description>
+  <NuclearReactor10.StepLabel>测试运行核电站系统</NuclearReactor10.StepLabel>
+  <NuclearReactor10.StepDesc>制作或购买核燃料棒，使用反应堆控制台将其装载到轻水反应堆堆芯中已指定用于装载的槽。只要加载了一个核燃料棒组件，就可以使用反应堆控制台启动轻水反应堆，并将中子通量调高到100％以收集数据。</NuclearReactor10.StepDesc>
+
+  <Plutonium.label>绝密（启用前）</Plutonium.label>
+  <Plutonium.description>请在边缘核能研究台查看</Plutonium.description>
+  <Plutonium.ResearchLabel>钚工业</Plutonium.ResearchLabel>
+  <Plutonium.ResearchDesc>核发电所使用的核燃料中所含的钚可以用于制作混合氧化物核燃料、放射性同位素发电机和核武器。</Plutonium.ResearchDesc>
+  <Plutonium.ResearchDescDisc>任何已部分或完全燃烧并用-PU标记的燃料棒组件都可以装填进钚分离器中，装填过程将需要装备防辐射套件并在辐射屏障进行，当钚 被分离出后，可以将其取出并存放在安全的隔离容器中。</Plutonium.ResearchDescDisc>
+
+  <Plutonium1.label>绝密（启用前）</Plutonium1.label>
+  <Plutonium1.description>请在边缘核能研究台查看</Plutonium1.description>
+  <Plutonium1.StepLabel>钚分离原理(需要10级智识)</Plutonium1.StepLabel>
+  <Plutonium1.StepDesc>由高智识的殖民者研究钚分离器的工作原理，设计钚分离器组件制作方案。</Plutonium1.StepDesc>
+
+  <Plutonium2.label>绝密（启用前）</Plutonium2.label>
+  <Plutonium2.description>请在边缘核能研究台查看</Plutonium2.description>
+  <Plutonium2.StepLabel>组件材料分析(需要12级手工)</Plutonium2.StepLabel>
+  <Plutonium2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作钚分离器组件。</Plutonium2.StepDesc>
+
+  <Plutonium3.label>绝密（启用前）</Plutonium3.label>
+  <Plutonium3.description>请在边缘核能研究台查看</Plutonium3.description>
+  <Plutonium3.StepLabel>制定施工蓝图(需要12级建造)</Plutonium3.StepLabel>
+  <Plutonium3.StepDesc>由高建造的殖民者使用现有的工具制定建造钚分离器的最终施工蓝图。</Plutonium3.StepDesc>
+
+  <Plutonium4.label>绝密（启用前）</Plutonium4.label>
+  <Plutonium4.description>请在边缘核能研究台查看</Plutonium4.description>
+  <Plutonium4.StepLabel>构建钚分离器</Plutonium4.StepLabel>
+  <Plutonium4.StepDesc>建造钚处理器，建议尽量缩短钚处理器与废弃燃料棒组件存放点的距离，以减少殖民者处理放射性燃料时暴露于核辐射中时间，当然防辐射套件是必须装备的。</Plutonium4.StepDesc>
+
+  <RTG.label>绝密（启用前）</RTG.label>
+  <RTG.description>请在边缘核能研究台查看</RTG.description>
+  <RTG.ResearchLabel>放射性同位素发电机</RTG.ResearchLabel>
+  <RTG.ResearchDesc>放射性同位素发电机是一种便携式发电机，其使用热电偶阵列将放射性同位素衰变所释放热能转化为电能。</RTG.ResearchDesc>
+  <RTG.ResearchDescDisc>放射性同位素发电机可以重新安装，最大输出功率为500W。</RTG.ResearchDescDisc>
+
+  <RTG1.label>绝密（启用前）</RTG1.label>
+  <RTG1.description>请在边缘核能研究台查看</RTG1.description>
+  <RTG1.StepLabel>放射性同位素发电原理(需要11级智识)</RTG1.StepLabel>
+  <RTG1.StepDesc>由高智识的殖民者研究放射性同位素发电原理，设计放射性同位素发电机组件的制作方案。</RTG1.StepDesc>
+
+  <RTG2.label>绝密（启用前）</RTG2.label>
+  <RTG2.description>请在边缘核能研究台查看</RTG2.description>
+  <RTG2.StepLabel>组件材料分析(需要15级手工)</RTG2.StepLabel>
+  <RTG2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作放射性同位素发电机组件。</RTG2.StepDesc>
+
+  <RTG3.label>绝密（启用前）</RTG3.label>
+  <RTG3.description>请在边缘核能研究台查看</RTG3.description>
+  <RTG3.StepLabel>制定施工蓝图(需要15级建造)</RTG3.StepLabel>
+  <RTG3.StepDesc>由高建造的殖民者使用现有的工具制定建造放射性同位素发电机的最终施工蓝图。</RTG3.StepDesc>
+
+  <ICBM.label>绝密（启用前）</ICBM.label>
+  <ICBM.description>请在边缘核能研究台查看</ICBM.description>
+  <ICBM.ResearchLabel>洲际弹道导弹</ICBM.ResearchLabel>
+  <ICBM.ResearchDesc>洲际弹道导弹主要用于运送核武器进行远程打击，该设计装有核裂变弹头。</ICBM.ResearchDesc>
+  <ICBM.ResearchDescDisc>你现在可以制造核武器了。</ICBM.ResearchDescDisc>
+
+  <ICBM1.label>绝密（启用前）</ICBM1.label>
+  <ICBM1.description>请在边缘核能研究台查看</ICBM1.description>
+  <ICBM1.StepLabel>核裂变原理(需要10级智识)</ICBM1.StepLabel>
+  <ICBM1.StepDesc>由高智识的殖民者研究核裂变原理，设计洲际弹道核导弹及其发射台组件的制作方案。</ICBM1.StepDesc>
+
+  <ICBM2.label>绝密（启用前）</ICBM2.label>
+  <ICBM2.description>请在边缘核能研究台查看</ICBM2.description>
+  <ICBM2.StepLabel>组件材料分析(需要13级手工)</ICBM2.StepLabel>
+  <ICBM2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作洲际弹道核导弹及其发射台组件。</ICBM2.StepDesc>
+
+  <ICBM3.label>绝密（启用前）</ICBM3.label>
+  <ICBM3.description>请在边缘核能研究台查看</ICBM3.description>
+  <ICBM3.StepLabel>制定施工蓝图(需要13级建造)</ICBM3.StepLabel>
+  <ICBM3.StepDesc>由高建造的殖民者使用现有的工具制定建造洲际弹道核导弹及其发射台的最终施工蓝图。</ICBM3.StepDesc>
+
+  <ICBM4.label>绝密（启用前）</ICBM4.label>
+  <ICBM4.description>请在边缘核能研究台查看</ICBM4.description>
+  <ICBM4.StepLabel>构建发射台</ICBM4.StepLabel>
+  <ICBM4.StepDesc>建造导弹发射台，必须通过电网连接到能量武器控制台来控制导弹发射系统。</ICBM4.StepDesc>
+
+  <ICBM5.label>绝密（启用前）</ICBM5.label>
+  <ICBM5.description>请在边缘核能研究台查看</ICBM5.description>
+  <ICBM5.StepLabel>构建洲际弹道核导弹</ICBM5.StepLabel>
+  <ICBM5.StepDesc>在发射台上建造一个洲际弹道核导弹，核裂变弹头和火箭引擎可在边缘核能加工台制作。</ICBM5.StepDesc>
+
+  <ICBM6.label>绝密（启用前）</ICBM6.label>
+  <ICBM6.description>请在边缘核能研究台查看</ICBM6.description>
+  <ICBM6.StepLabel>收集武器数据</ICBM6.StepLabel>
+  <ICBM6.StepDesc>使用洲际弹道核导弹打击任何目标并收集数据，分析发射是否成功，是否成功引爆目标，是否造成最大破坏。</ICBM6.StepDesc>
+
+  <EnergyWeapons.label>绝密（启用前）</EnergyWeapons.label>
+  <EnergyWeapons.description>请在边缘核能研究台查看</EnergyWeapons.description>
+  <EnergyWeapons.ResearchLabel>能量武器</EnergyWeapons.ResearchLabel>
+  <EnergyWeapons.ResearchDesc>"边缘核能"定义了未来高级能量武器系统的格局，通过实战演练保证下一代能量武器的实用性，体现在模块化、可扩展的设计特点，帮助使用者获得战场优势，360度无死角火力覆盖，智能识别、跟踪和防御敌方的导弹、炮弹 ，打击远程目标。</EnergyWeapons.ResearchDesc>
+  <EnergyWeapons.ResearchDescDisc>所有“边缘核能”系列的能量武器的使用技术都是可研究的，武器系统可在边缘核能研究台购买。</EnergyWeapons.ResearchDescDisc>
+
+  <EnergyWeapons1.label>绝密（启用前）</EnergyWeapons1.label>
+  <EnergyWeapons1.description>请在边缘核能研究台查看</EnergyWeapons1.description>
+  <EnergyWeapons1.StepLabel>能量武器原理(需要5级智识)</EnergyWeapons1.StepLabel>
+  <EnergyWeapons1.StepDesc>由高智识的殖民者研究“边缘核能”系列的能量武器的原理，为进一步研究能量武器的制造做铺垫。</EnergyWeapons1.StepDesc>
+
+  <EnergyWeapons2.label>绝密（启用前）</EnergyWeapons2.label>
+  <EnergyWeapons2.description>请在边缘核能研究台查看</EnergyWeapons2.description>
+  <EnergyWeapons2.StepLabel>组件材料分析(需要5级手工)</EnergyWeapons2.StepLabel>
+  <EnergyWeapons2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作能量武器基础设备。</EnergyWeapons2.StepDesc>
+
+  <EnergyWeapons3.label>绝密（启用前）</EnergyWeapons3.label>
+  <EnergyWeapons3.description>请在边缘核能研究台查看</EnergyWeapons3.description>
+  <EnergyWeapons3.StepLabel>制定施工蓝图(需要5级建造)</EnergyWeapons3.StepLabel>
+  <EnergyWeapons3.StepDesc>由高建造的殖民者使用现有的工具制定建造能量武器基础设备的最终施工蓝图。</EnergyWeapons3.StepDesc>
+
+  <EnergyWeapons4.label>绝密（启用前）</EnergyWeapons4.label>
+  <EnergyWeapons4.description>请在边缘核能研究台查看</EnergyWeapons4.description>
+  <EnergyWeapons4.StepLabel>构建能量武器研究台</EnergyWeapons4.StepLabel>
+  <EnergyWeapons4.StepDesc>建造能量武器研究台，研究台配备专门的设备，用于原型设计和测试各种能量武器，这是大多数能量武器研究和测试所必需的设施。</EnergyWeapons4.StepDesc>
+
+  <EnergyWeapons5.label>绝密（启用前）</EnergyWeapons5.label>
+  <EnergyWeapons5.description>请在边缘核能研究台查看</EnergyWeapons5.description>
+  <EnergyWeapons5.StepLabel>构建能量武器控制台</EnergyWeapons5.StepLabel>
+  <EnergyWeapons5.StepDesc>建造能量武器控制台，用于探测目标和操控能量武器的智能计算机，它通过电网连接“边缘核能”系列能量武器，能量武器控制台使用警戒雷达检测敌对目标，主显示器具有对实时地面和空中目标的跟踪功能，脉冲电池容量计显示电网上存储的脉冲电池总能量。</EnergyWeapons5.StepDesc>
+
+  <EnergyWeapons6.label>绝密（启用前）</EnergyWeapons6.label>
+  <EnergyWeapons6.description>请在边缘核能研究台查看</EnergyWeapons6.description>
+  <EnergyWeapons6.StepLabel>构建警戒雷达</EnergyWeapons6.StepLabel>
+  <EnergyWeapons6.StepDesc>建造警戒雷达，此设备采用一系列先进技术来跟踪地面和空中目标，目标包括生物或机器人个体，迫击炮弹或磁轨炮弹等炮弹，以及弹道导弹。</EnergyWeapons6.StepDesc>
+
+  <EnergyWeapons7.label>绝密（启用前）</EnergyWeapons7.label>
+  <EnergyWeapons7.description>请在边缘核能研究台查看</EnergyWeapons7.description>
+  <EnergyWeapons7.StepLabel>构建脉冲电池</EnergyWeapons7.StepLabel>
+  <EnergyWeapons7.StepDesc>构建脉冲电力集装并将其与能量武器控制台连接到同一个电力网络，对脉冲电池进行充电并使用能量武器控制台来测试所有系统是否正常工作。这些超级电池比标准电池效率高得多，旨在应对“边缘核能”系列能量武器所需的高强度电能消耗。脉冲电池安装在防水容器中，并且像标准电池一样利用电网多余的电量进行充电，建议将其与标准电池隔离以提高效率，如果电网出现短路，脉冲电池为了安全起见将快速耗尽其所储存的电能。</EnergyWeapons7.StepDesc>
+
+
+  <!-- ADS -->
+
+  <ADS.label>绝密（启用前）</ADS.label>
+  <ADS.description>请在边缘核能研究台查看</ADS.description>
+  <ADS.ResearchLabel>主动御敌系统</ADS.ResearchLabel>
+  <ADS.ResearchDesc>主动御敌系统是一种非致命的，针对性的能量武器，专为区域驱离，周边安全和人群控制而设计。它发射的毫米波能让目标皮肤水份沸腾，产生无法忍受的痛苦。需要配合能量武器控制台、警戒雷达和脉冲电池一同使用才能生效。</ADS.ResearchDesc>
+  <ADS.ResearchDescDisc>您将不再受限于主动御敌系统个数，所有的主动御敌系统都能同时运行。</ADS.ResearchDescDisc>
+
+  <ADS1.label>绝密（启用前）</ADS1.label>
+  <ADS1.description>请在边缘核能研究台查看</ADS1.description>
+  <ADS1.StepLabel>主动御敌系统原理(需要5级智识)</ADS1.StepLabel>
+  <ADS1.StepDesc>由高智识的殖民者研究主动御敌系统原理，设计主动御敌系统组件的制作方案。</ADS1.StepDesc>
+
+  <ADS2.label>绝密（启用前）</ADS2.label>
+  <ADS2.description>请在边缘核能研究台查看</ADS2.description>
+  <ADS2.StepLabel>组件材料分析(需要5级手工)</ADS2.StepLabel>
+  <ADS2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作主动御敌系统组件。</ADS2.StepDesc>
+
+  <ADS3.label>绝密（启用前）</ADS3.label>
+  <ADS3.description>请在边缘核能研究台查看</ADS3.description>
+  <ADS3.StepLabel>制定施工蓝图(需要5级建造)</ADS3.StepLabel>
+  <ADS3.StepDesc>由高建造的殖民者使用现有的工具制定建造主动御敌系统的最终施工蓝图。</ADS3.StepDesc>
+
+  <ADS4.label>绝密（启用前）</ADS4.label>
+  <ADS4.description>请在边缘核能研究台查看</ADS4.description>
+  <ADS4.StepLabel>构建主动御敌系统原型</ADS4.StepLabel>
+  <ADS4.StepDesc>建造主动御敌系统原型机，该原型机具有非常有限的射程和较高的能源消耗。需要能量武器控制台操纵和脉冲电池供能。</ADS4.StepDesc>
+
+  <ADS5.label>绝密（启用前）</ADS5.label>
+  <ADS5.description>请在边缘核能研究台查看</ADS5.description>
+  <ADS5.StepLabel>收集武器数据</ADS5.StepLabel>
+  <ADS5.StepDesc>使用主动御敌系统对任何活动目标开火以收集武器数据并测试性能。</ADS5.StepDesc>
+
+
+  <!-- Tesla Coil -->
+
+  <TeslaCoil.label>绝密（启用前）</TeslaCoil.label>
+  <TeslaCoil.description>请在边缘核能研究台查看</TeslaCoil.description>
+  <TeslaCoil.ResearchLabel>磁暴线圈</TeslaCoil.ResearchLabel>
+  <TeslaCoil.ResearchDesc>磁暴线圈是一种简单但有效的能量武器，可以在短距离范围内快速向目标发射致命电流。需要配合能量武器控制台、警戒雷达和脉冲电池一同使用才能生效。</TeslaCoil.ResearchDesc>
+  <TeslaCoil.ResearchDescDisc>您将不再受限于磁暴线圈个数，所有的磁暴线圈都能同时运行。</TeslaCoil.ResearchDescDisc>
+
+  <TeslaCoil1.label>绝密（启用前）</TeslaCoil1.label>
+  <TeslaCoil1.description>请在边缘核能研究台查看</TeslaCoil1.description>
+  <TeslaCoil1.StepLabel>磁暴线圈原理(需要6级智识)</TeslaCoil1.StepLabel>
+  <TeslaCoil1.StepDesc>由高智识的殖民者研究磁暴线圈原理，设计磁暴线圈组件的制作方案。</TeslaCoil1.StepDesc>
+
+  <TeslaCoil2.label>绝密（启用前）</TeslaCoil2.label>
+  <TeslaCoil2.description>请在边缘核能研究台查看</TeslaCoil2.description>
+  <TeslaCoil2.StepLabel>组件材料分析(需要6级手工)</TeslaCoil2.StepLabel>
+  <TeslaCoil2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作磁暴线圈组件。</TeslaCoil2.StepDesc>
+
+  <TeslaCoil3.label>绝密（启用前）</TeslaCoil3.label>
+  <TeslaCoil3.description>请在边缘核能研究台查看</TeslaCoil3.description>
+  <TeslaCoil3.StepLabel>制定施工蓝图(需要6级建造)</TeslaCoil3.StepLabel>
+  <TeslaCoil3.StepDesc>由高建造的殖民者使用现有的工具制定建造磁暴线圈的最终施工蓝图。</TeslaCoil3.StepDesc>
+
+  <TeslaCoil4.label>绝密（启用前）</TeslaCoil4.label>
+  <TeslaCoil4.description>请在边缘核能研究台查看</TeslaCoil4.description>
+  <TeslaCoil4.StepLabel>构建磁暴线圈原型</TeslaCoil4.StepLabel>
+  <TeslaCoil4.StepDesc>建造磁暴线圈原型机，该原型机具有非常有限的射程和较高的能源消耗。需要能量武器控制台操纵和脉冲电池供能。</TeslaCoil4.StepDesc>
+
+  <TeslaCoil5.label>绝密（启用前）</TeslaCoil5.label>
+  <TeslaCoil5.description>请在边缘核能研究台查看</TeslaCoil5.description>
+  <TeslaCoil5.StepLabel>收集武器数据</TeslaCoil5.StepLabel>
+  <TeslaCoil5.StepDesc>使用磁暴线圈对任何活动目标开火以收集武器数据并测试性能。</TeslaCoil5.StepDesc>
+
+
+  <!-- HEL -->
+
+  <HEL.label>绝密（启用前）</HEL.label>
+  <HEL.description>请在边缘核能研究台查看</HEL.description>
+  <HEL.ResearchLabel>激光点防御</HEL.ResearchLabel>
+  <HEL.ResearchDesc>激光点防御使用高能激光来摧毁空中来袭的炮弹，高级版本能够击落弹道导弹。需要配合能量武器控制台、警戒雷达和脉冲电池一同使用才能生效。</HEL.ResearchDesc>
+  <HEL.ResearchDescDisc>您将不再受限于激光点防御个数，所有的激光点防御都能同时运行。</HEL.ResearchDescDisc>
+
+  <HEL1.label>绝密（启用前）</HEL1.label>
+  <HEL1.description>请在边缘核能研究台查看</HEL1.description>
+  <HEL1.StepLabel>激光点防御原理(需要8级智识)</HEL1.StepLabel>
+  <HEL1.StepDesc>由高智识的殖民者研究激光点防御原理，设计激光点防御的制作方案。</HEL1.StepDesc>
+
+  <HEL2.label>绝密（启用前）</HEL2.label>
+  <HEL2.description>请在边缘核能研究台查看</HEL2.description>
+  <HEL2.StepLabel>组件材料分析(需要12级手工)</HEL2.StepLabel>
+  <HEL2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作激光点防御组件。</HEL2.StepDesc>
+
+  <HEL3.label>绝密（启用前）</HEL3.label>
+  <HEL3.description>请在边缘核能研究台查看</HEL3.description>
+  <HEL3.StepLabel>制定施工蓝图(需要12级建造)</HEL3.StepLabel>
+  <HEL3.StepDesc>由高建造的殖民者使用现有的工具制定建造激光点防御的最终施工蓝图。</HEL3.StepDesc>
+
+  <HEL4.label>绝密（启用前）</HEL4.label>
+  <HEL4.description>请在边缘核能研究台查看</HEL4.description>
+  <HEL4.StepLabel>构建激光点防御原型</HEL4.StepLabel>
+  <HEL4.StepDesc>建造激光点防御原型机，该原型机具有非常有限的射程和较高的能源消耗。需要能量武器控制台操纵和脉冲电池供能。</HEL4.StepDesc>
+
+  <HEL5.label>绝密（启用前）</HEL5.label>
+  <HEL5.description>请在边缘核能研究台查看</HEL5.description>
+  <HEL5.StepLabel>收集武器数据</HEL5.StepLabel>
+  <HEL5.StepDesc>使用激光点防御尝试击落炮弹以收集武器数据，你可以使用能武器控制台改变其攻击目标以拦截友方的炮弹。</HEL5.StepDesc>
+
+
+  <!-- /////////////////////////////////////////////////////// -->
+
+  <Railgun.label>绝密（启用前）</Railgun.label>
+  <Railgun.description>请在边缘核能研究台查看</Railgun.description>
+  <Railgun.ResearchLabel>磁轨炮</Railgun.ResearchLabel>
+  <Railgun.ResearchDesc>磁轨炮使用高能电磁脉冲将炮弹发射到极远处，拥有极大范围的火力覆盖。最高可跨越25个地图格进行远程火力打击。需要配合能量武器控制台、警戒雷达和脉冲电池一同使用才能生效。</Railgun.ResearchDesc>
+  <Railgun.ResearchDescDisc>您将不再受限于磁轨炮个数，所有的磁轨炮都能同时运行。</Railgun.ResearchDescDisc>
+
+  <Railgun1.label>绝密（启用前）</Railgun1.label>
+  <Railgun1.description>请在边缘核能研究台查看</Railgun1.description>
+  <Railgun1.StepLabel>磁轨炮原理(需要12级智识)</Railgun1.StepLabel>
+  <Railgun1.StepDesc>由高智识的殖民者研究磁轨炮原理，设计磁轨炮的制作方案。</Railgun1.StepDesc>
+
+  <Railgun2.label>绝密（启用前）</Railgun2.label>
+  <Railgun2.description>请在边缘核能研究台查看</Railgun2.description>
+  <Railgun2.StepLabel>组件材料分析(需要15级手工)</Railgun2.StepLabel>
+  <Railgun2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作磁轨炮组件。</Railgun2.StepDesc>
+
+  <Railgun3.label>绝密（启用前）</Railgun3.label>
+  <Railgun3.description>请在边缘核能研究台查看</Railgun3.description>
+  <Railgun3.StepLabel>制定施工蓝图(需要15级建造)</Railgun3.StepLabel>
+  <Railgun3.StepDesc>由高建造的殖民者使用现有的工具制定建造磁轨炮的最终施工蓝图。</Railgun3.StepDesc>
+
+  <Railgun4.label>绝密（启用前）</Railgun4.label>
+  <Railgun4.description>请在边缘核能研究台查看</Railgun4.description>
+  <Railgun4.StepLabel>构建磁轨炮原型</Railgun4.StepLabel>
+  <Railgun4.StepDesc>建造磁轨炮原型机，该原型机具有非常有限的射程和较高的能源消耗。需要能量武器控制台操纵、脉冲电池供能和警戒雷达定位。</Railgun4.StepDesc>
+
+  <Railgun5.label>绝密（启用前）</Railgun5.label>
+  <Railgun5.description>请在边缘核能研究台查看</Railgun5.description>
+  <Railgun5.StepLabel>收集武器数据</Railgun5.StepLabel>
+  <Railgun5.StepDesc>使用磁轨炮对任何目标开火以收集武器数据并测试性能。</Railgun5.StepDesc>
+
+  <Obelisk.label>绝密（启用前）</Obelisk.label>
+  <Obelisk.description>请在边缘核能研究台查看</Obelisk.description>
+  <Obelisk.ResearchLabel>光菱塔</Obelisk.ResearchLabel>
+  <Obelisk.ResearchDesc>方尖碑使用使用聚能激光灼烧目标，耗能高、精度高、射程远，射程和耗能可调。需要配合能量武器控制台、警戒雷达和脉冲电池一同使用才能生效。</Obelisk.ResearchDesc>
+  <Obelisk.ResearchDescDisc>您将不再受限于光菱塔个数，所有的光菱塔都能同时运行。</Obelisk.ResearchDescDisc>
+
+  <Obelisk1.label>绝密（启用前）</Obelisk1.label>
+  <Obelisk1.description>请在边缘核能研究台查看</Obelisk1.description>
+  <Obelisk1.StepLabel>光菱塔原理(需要15级智识)</Obelisk1.StepLabel>
+  <Obelisk1.StepDesc>由高智识的殖民者研究光菱塔原理，设计光菱塔的制作方案。</Obelisk1.StepDesc>
+
+  <Obelisk2.label>绝密（启用前）</Obelisk2.label>
+  <Obelisk2.description>请在边缘核能研究台查看</Obelisk2.description>
+  <Obelisk2.StepLabel>组件材料分析(需要18级手工)</Obelisk2.StepLabel>
+  <Obelisk2.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作光菱塔组件。</Obelisk2.StepDesc>
+
+  <Obelisk3.label>绝密（启用前）</Obelisk3.label>
+  <Obelisk3.description>请在边缘核能研究台查看</Obelisk3.description>
+  <Obelisk3.StepLabel>制定施工蓝图(需要18级建造)</Obelisk3.StepLabel>
+  <Obelisk3.StepDesc>由高建造的殖民者使用现有的工具制定建造光菱塔的最终施工蓝图。</Obelisk3.StepDesc>
+
+  <Obelisk4.label>绝密（启用前）</Obelisk4.label>
+  <Obelisk4.description>请在边缘核能研究台查看</Obelisk4.description>
+  <Obelisk4.StepLabel>构建光菱塔原型</Obelisk4.StepLabel>
+  <Obelisk4.StepDesc>建造光菱塔原型机，该原型机具有非常有限的射程和较高的能源消耗。需要能量武器控制台操纵和脉冲电池供能。</Obelisk4.StepDesc>
+
+  <Obelisk5.label>绝密（启用前）</Obelisk5.label>
+  <Obelisk5.description>请在边缘核能研究台查看</Obelisk5.description>
+  <Obelisk5.StepLabel>收集武器数据</Obelisk5.StepLabel>
+  <Obelisk5.StepDesc>使用光菱塔对任何活动目标开火以收集武器数据并测试性能。</Obelisk5.StepDesc>
+
+
+</LanguageData>
