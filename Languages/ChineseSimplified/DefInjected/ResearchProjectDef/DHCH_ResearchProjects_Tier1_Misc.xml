@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 1: pre-electricity -->
+
+  <Plumbing.label>DHCH：管道系统</Plumbing.label>
+  <Plumbing.description>解锁建造管道、卫生设施、水箱和其他供暖及污水处理设备。</Plumbing.description>
+
+  <PoweredPlumbing.label>DHCH：电力管道系统</PoweredPlumbing.label>
+  <PoweredPlumbing.description>解锁建造电力污水处理设备，浸入式和太阳能热水器。</PoweredPlumbing.description>
+
+
+</LanguageData>

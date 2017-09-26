@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PitLatrine.label>旱厕</PitLatrine.label>
+  <PitLatrine.description>旱厕是一种用贮粪池收集粪便的厕所，不需要使用水。</PitLatrine.description>
+  <PitLatrine_Blueprint.label>旱厕 (蓝图)</PitLatrine_Blueprint.label>
+  <PitLatrine_Frame.label>旱厕 (建造中)</PitLatrine_Frame.label>
+
+  <WashBucket.label>污水桶</WashBucket.label>
+  <WashBucket.description>用于清洁的污水桶。</WashBucket.description>
+  <WashBucket_Blueprint.label>污水桶 (蓝图)</WashBucket_Blueprint.label>
+  <WashBucket_Blueprint_Install.label>污水桶 (蓝图)</WashBucket_Blueprint_Install.label>
+  <WashBucket_Frame.label>污水桶 (建造中)</WashBucket_Frame.label>
+
+
+  <!-- Pipes -->
+
+  <sewagePipe.label>管道 (白色)</sewagePipe.label>
+  <sewagePipe.description>用于将污水处理系统连接到清洗和厕所设施的管道。</sewagePipe.description>
+  <sewagePipe_Blueprint.label>管道 (白色) (蓝图)</sewagePipe_Blueprint.label>
+  <sewagePipe_Frame.label>管道 (白色) (建造中)</sewagePipe_Frame.label>
+
+  <sewagePipeStuff.label>管道</sewagePipeStuff.label>
+  <sewagePipeStuff.description>用于将污水处理系统连接到清洗和厕所设施的管道。</sewagePipeStuff.description>
+  <sewagePipeStuff_Blueprint.label>管道 (蓝图)</sewagePipeStuff_Blueprint.label>
+  <sewagePipeStuff_Frame.label>管道 (建造中)</sewagePipeStuff_Frame.label>
+
+
+  <!-- Treatment -->
+
+  <SewageTreatment.label>污水处理池</SewageTreatment.label>
+  <SewageTreatment.description>电力去污池。污水处理是从废水中去除污染物的过程，包括使用物理，化学和生物方法处理污水和自然水源。</SewageTreatment.description>
+  <SewageTreatment_Blueprint.label>污水处理池 (蓝图)</SewageTreatment_Blueprint.label>
+  <SewageTreatment_Frame.label>污水处理池 (建造中)</SewageTreatment_Frame.label>
+
+  <SewageOutlet.label>污水排放口</SewageOutlet.label>
+  <SewageOutlet.description>污水排放口。污水处理是从废水中去除污染物的过程，包括使用物理，化学和生物方法处理污水和自然水源。</SewageOutlet.description>
+  <SewageOutlet_Blueprint.label>污水排放口 (蓝图)</SewageOutlet_Blueprint.label>
+  <SewageOutlet_Frame.label>污水排放口 (建造中)</SewageOutlet_Frame.label>
+
+
+  <!-- Basins -->
+  
+  <Basin.label>洗手池（白色）</Basin.label>
+  <Basin.description>简单干净的洗手池。</Basin.description>
+  <Basin_Blueprint.label>洗手池（白色）（蓝图）</Basin_Blueprint.label>
+  <Basin_Frame.label>洗手池（白色） （建造中）</Basin_Frame.label>
+
+  <BasinStuff.label>洗手池</BasinStuff.label>
+  <BasinStuff.description>简单干净的洗手池。</BasinStuff.description>
+  <BasinStuff_Blueprint.label>Basin（蓝图）</BasinStuff_Blueprint.label>
+  <BasinStuff_Frame.label>Basin （建造中）</BasinStuff_Frame.label>
+
+
+  <!-- Toilets -->
+
+  <Terlet.label>马桶 (白色)</Terlet.label>
+  <Terlet.description>用于处理尿液和粪便的卫生用具。</Terlet.description>
+  <Terlet_Blueprint.label>马桶 (白色) (蓝图)</Terlet_Blueprint.label>
+  <Terlet_Frame.label>马桶 (白色) (建造中)</Terlet_Frame.label>
+
+  <TerletStuff.label>马桶</TerletStuff.label>
+  <TerletStuff.description>用于处理尿液和粪便的卫生用具。</TerletStuff.description>
+  <TerletStuff_Blueprint.label>马桶 (蓝图)</TerletStuff_Blueprint.label>
+  <TerletStuff_Frame.label>马桶 (建造中)</TerletStuff_Frame.label>
+
+
+  <!-- Baths -->
+
+  <Bathtub.label>浴缸 (白色)</Bathtub.label>
+  <Bathtub.description>浴缸，大型开放式浴室用具，人可以在里面清洗身体。</Bathtub.description>
+  <Bathtub_Blueprint.label>浴缸 (白色) (蓝图)</Bathtub_Blueprint.label>
+  <Bathtub_Frame.label>浴缸 (白色) (建造中)</Bathtub_Frame.label>
+
+  <BathtubStuff.label>浴缸</BathtubStuff.label>
+  <BathtubStuff.description>浴缸，大型开放式浴室用具，人可以在里面清洗身体。</BathtubStuff.description>
+  <BathtubStuff_Blueprint.label>浴缸 (蓝图)</BathtubStuff_Blueprint.label>
+  <BathtubStuff_Frame.label>浴缸 (建造中)</BathtubStuff_Frame.label>
+
+
+  <!-- Showers -->
+
+  <Shower.label>淋浴器 (白色)</Shower.label>
+  <Shower.description>带一个直径110毫米的大花洒，使酸痛的肌肉得到放松。</Shower.description>
+  <Shower_Blueprint.label>淋浴器 (白色) (蓝图)</Shower_Blueprint.label>
+  <Shower_Frame.label>淋浴器 (白色) (建造中)</Shower_Frame.label>
+
+  <ShowerStuff.label>淋浴器</ShowerStuff.label>
+  <ShowerStuff.description>带一个直径110毫米的大花洒，使酸痛的肌肉得到放松。</ShowerStuff.description>
+  <ShowerStuff_Blueprint.label>淋浴器 (蓝图)</ShowerStuff_Blueprint.label>
+  <ShowerStuff_Frame.label>淋浴器 (建造中)</ShowerStuff_Frame.label>
+
+  <BuiltinShower.label>内藏式淋浴器</BuiltinShower.label>
+  <BuiltinShower.description>带一个直径110毫米的大花洒，使酸痛的肌肉得到放松。</BuiltinShower.description>
+  <BuiltinShower_Blueprint.label>内藏式淋浴器(蓝图)</BuiltinShower_Blueprint.label>
+  <BuiltinShower_Blueprint_Install.label>内藏式淋浴器(蓝图)</BuiltinShower_Blueprint_Install.label>
+  <BuiltinShower_Frame.label>内藏式淋浴器(建造中)</BuiltinShower_Frame.label>
+
+
+  <!-- Heating -->
+
+  <SolarHeater.label>太阳能热水器</SolarHeater.label>
+  <SolarHeater.description>太阳能热水器，为暖气片和热水箱提供热量。环境温度不能低于-30℃。</SolarHeater.description>
+  <SolarHeater_Blueprint.label>太阳能热水器（蓝图）</SolarHeater_Blueprint.label>
+  <SolarHeater_Blueprint_Install.label>太阳能热水器（蓝图）</SolarHeater_Blueprint_Install.label>
+  <SolarHeater_Frame.label>太阳能热水器（建造中）</SolarHeater_Frame.label>
+
+  <ImmersionHeater.label>浸入式热水器</ImmersionHeater.label>
+  <ImmersionHeater.description>电力浸入式热水器，为暖气片和热水箱提供热量。</ImmersionHeater.description>
+  <ImmersionHeater_Blueprint.label>浸入式热水器（蓝图）</ImmersionHeater_Blueprint.label>
+  <ImmersionHeater_Blueprint_Install.label>浸入式热水器（蓝图）</ImmersionHeater_Blueprint_Install.label>
+  <ImmersionHeater_Frame.label>浸入式热水器（建造中）</ImmersionHeater_Frame.label>
+
+  <FueledBoiler.label>锅炉</FueledBoiler.label>
+  <FueledBoiler.description>锅炉，为暖气片和热水箱提供热量，消耗木材或化合燃料。</FueledBoiler.description>
+  <FueledBoiler_Blueprint.label>锅炉(蓝图)</FueledBoiler_Blueprint.label>
+  <FueledBoiler_Blueprint_Install.label>锅炉(蓝图)</FueledBoiler_Blueprint_Install.label>
+  <FueledBoiler_Frame.label>锅炉(建造中)</FueledBoiler_Frame.label>
+
+  <HotWaterTank.label>热水箱</HotWaterTank.label>
+  <HotWaterTank.description>储存热水的水箱。</HotWaterTank.description>
+  <HotWaterTank_Blueprint.label>热水箱（蓝图）</HotWaterTank_Blueprint.label>
+  <HotWaterTank_Frame.label>热水箱（建造中）</HotWaterTank_Frame.label>
+
+  <Radiator.label>暖气片</Radiator.label>
+  <Radiator.description>储存少量热水为房间供暖。</Radiator.description>
+  <Radiator_Blueprint.label>暖气片（蓝图）</Radiator_Blueprint.label>
+  <Radiator_Blueprint_Install.label>暖气片（蓝图）</Radiator_Blueprint_Install.label>
+  <Radiator_Frame.label>暖气片（建造中）</Radiator_Frame.label>
+
+  <RadiatorStuffed.label>暖气片</RadiatorStuffed.label>
+  <RadiatorStuffed.description>储存少量热水为房间供暖。</RadiatorStuffed.description>
+  <RadiatorStuffed_Blueprint.label>暖气片（蓝图）</RadiatorStuffed_Blueprint.label>
+  <RadiatorStuffed_Blueprint_Install.label>暖气片（蓝图）</RadiatorStuffed_Blueprint_Install.label>
+  <RadiatorStuffed_Frame.label>暖气片（建造中）</RadiatorStuffed_Frame.label>
+
+
+</LanguageData>
