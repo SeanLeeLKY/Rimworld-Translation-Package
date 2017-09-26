@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LessonPositive.stages.0.label>新颖的课程</LessonPositive.stages.0.label>
+  <LessonPositive.stages.0.description>今天的课程令我受益匪浅。</LessonPositive.stages.0.description>
+
+  <LessonNegative.stages.0.label>糟糕的课程</LessonNegative.stages.0.label>
+  <LessonNegative.stages.0.description>因为某些原因我不喜欢今天的课。</LessonNegative.stages.0.description>
+
+  <TaughtCL.stages.0.label>教授别人</TaughtCL.stages.0.label>
+  <TaughtCL.stages.0.description>很高兴能教授别人一些东西。</TaughtCL.stages.0.description>
+
+  <AttendedElection.stages.0.label>参加选举</AttendedElection.stages.0.label>
+  <AttendedElection.stages.0.description>我参加了这次选举。希望能获得票票。</AttendedElection.stages.0.description>
+
+  <LeaderUnliked.stages.0.label>不受欢迎</LeaderUnliked.stages.0.label>
+  <LeaderUnliked.stages.0.description>我在这里不受欢迎...</LeaderUnliked.stages.0.description>
+  <LeaderUnliked.stages.1.label>被厌恶</LeaderUnliked.stages.1.label>
+  <LeaderUnliked.stages.1.description>这里的人讨厌我！</LeaderUnliked.stages.1.description>
+
+  <ElectedLeader.stages.0.label>当选</ElectedLeader.stages.0.label>
+  <ElectedLeader.stages.0.description>我成了新任首领，真是太棒了。</ElectedLeader.stages.0.description>
+
+  <ElectedLeaderJealous.stages.0.label>落选</ElectedLeaderJealous.stages.0.label>
+  <ElectedLeaderJealous.stages.0.description>本应该是我当选首领的，这不公平。</ElectedLeaderJealous.stages.0.description>
+
+  <LeaderEnd.stages.0.label>下台</LeaderEnd.stages.0.label>
+  <LeaderEnd.stages.0.description>我会怀念权力在握的美好日子的。</LeaderEnd.stages.0.description>
+
+  <LeaderArrested.stages.0.label>被迫下台</LeaderArrested.stages.0.label>
+  <LeaderArrested.stages.0.description>他们以为他们是谁？这是一种暴行！</LeaderArrested.stages.0.description>
+
+  <LeaderArrestedColonist.stages.0.label>首领被捕</LeaderArrestedColonist.stages.0.label>
+  <LeaderArrestedColonist.stages.0.description>谢天谢地，这个暴君终于被赶下台了。</LeaderArrestedColonist.stages.0.description>
+
+  <RivalLeader.stages.0.label>对手当选</RivalLeader.stages.0.label>
+  <RivalLeader.stages.0.description>我的对手现在是首领了。很好。</RivalLeader.stages.0.description>
+
+  <InspiratedL.stages.0.label>被鼓舞{0}</InspiratedL.stages.0.label>
+  <InspiratedL.stages.0.description>被首领夸奖了，真是太棒了。</InspiratedL.stages.0.description>
+
+  <InspiratedLI.stages.0.label>鼓舞{0}</InspiratedLI.stages.0.label>
+  <InspiratedLI.stages.0.description>鼓舞士气总是好的。</InspiratedLI.stages.0.description>
+
+  <LeaderDied.stages.0.label>首领{0}死亡</LeaderDied.stages.0.label>
+  <LeaderDied.stages.0.description>失去这样的首领，真是太可惜了。</LeaderDied.stages.0.description>
+
+  <LeaderDiedRival.stages.0.label>首领{0}死亡（对手）</LeaderDiedRival.stages.0.label>
+  <LeaderDiedRival.stages.0.description>终于解脱了，值得纪念。</LeaderDiedRival.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+<!-- ELECTIONS -->
+
+<Election>选举</Election>
+<ElectionGathering>殖民者聚集起来投票选举新任首领。</ElectionGathering>
+<ElectionFinished>选举结束了。</ElectionFinished>
+<ElectionNoAttendees>没人参加选举。</ElectionNoAttendees>
+<AttendingElectionDesc>参加选举</AttendingElectionDesc>
+
+<ElectionFail_NoAbleLeader>举行选举失败，因为没有人能胜任。记住社交技能是参选的必要条件。</ElectionFail_NoAbleLeader>
+<ElectionFail_ColonistsNotFound>找不到可以参与选举的殖民者，可能原因：殖民者都在睡觉、没有娱乐时间、殖民者在挨饿或者健康有问题。</ElectionFail_ColonistsNotFound>
+<ElectionFail_NoDemocracy>选举不会发生，因为这个殖民地不是民主政体。</ElectionFail_NoDemocracy>
+<ElectionFail_Disaster>选举取消！因为发生了一些糟糕的事情。</ElectionFail_Disaster>
+
+<BallotDescription>\n选举将在每个季度的第一天、第七天或第十五天举行。\n只在需要时进行选举。\n最后一次选举发生在：</BallotDescription>
+<BallotDescriptionDisabled>选举不会举行。\n只在需要时进行选举。\n最后一次选举发生在：</BallotDescriptionDisabled>
+
+<EnableElections>允许选举</EnableElections>
+<EnableElectionsDesc>如果关闭，选举将不会举行。</EnableElectionsDesc>
+
+<NoColonistAbleLeader>没有合适的殖民者胜任首领工作。</NoColonistAbleLeader>
+
+
+
+
+<!-- LEADERSHIP -->
+<LeaderChosen>{0} 被选为 {1}.</LeaderChosen>
+<LeaderElected>{0} 被选为 {1}.</LeaderElected>
+<NewLeaderLetterTitle>新任 {0}</NewLeaderLetterTitle>
+
+
+<TimeLeftL>剩余任期：</TimeLeftL>
+<LeaderDied>{0} {1} 已死亡。</LeaderDied>
+
+<LeaderEndLetter>任期结束</LeaderEndLetter>
+<LeaderEndLetterDesc>{0} 不再是首领。</LeaderEndLetterDesc>
+
+<LeaderEndLetterArrested>首领人被囚禁</LeaderEndLetterArrested>
+<LeaderEndLetterDescArrested>{0} 被暴乱的殖民者逮捕，不再是首领。</LeaderEndLetterDescArrested>
+
+<LeaderLevel>首领威望：</LeaderLevel>
+<AverageOpinion>大家对我的普遍看法：</AverageOpinion>
+
+<!-- TEACHING -->
+
+<TeacherUnavailable>教师正忙于其他事务。</TeacherUnavailable>
+<TeacherUnavailableNamed>教师 {0} 正忙于其他事务。</TeacherUnavailableNamed>
+
+<LessonGathering>{0} 正在集合准备上课。 {1} 是这次的授课教师，将教授技能：</LessonGathering>
+<MustWaitForLesson>两次课程之间必须间隔24小时以上。</MustWaitForLesson>
+<NoTeacherSelected>没有选定教师。再次尝试。</NoTeacherSelected>
+<TeacherDrafted>教师正在被征召。再次尝试。</TeacherDrafted>
+<TeacherDownedDead>教师已倒地或死亡。</TeacherDownedDead>
+<TeacherTableReserved>讲桌被占用。再次尝试。</TeacherTableReserved>
+
+<TeachingDesc>正在授课。</TeachingDesc>
+<FinishLessonDesc>结束授课。</FinishLessonDesc>
+<WaitingDesc>等待开始授课。</WaitingDesc>
+
+<LessonFinished>课程结束。</LessonFinished>
+<SkillSet1>种植、医疗或驯兽。</SkillSet1>
+<SkillSet2>射击或近战。</SkillSet2>
+<SkillSet3>建造、手工或艺术。</SkillSet3>
+<SkillSet4>研究。</SkillSet4>
+
+<MustHaveSkill>所选教师必须在这几项技能中至少有一项到达 {0} 级： </MustHaveSkill>
+<OnlyTeachIfSkill>如果多项技能超过 {0} 级，教师指挥教授其中一项技能，与此教师相关的技能：</OnlyTeachIfSkill>
+
+<!-- BUILDINGS -->
+
+<OnlyOnePerColony>每个殖民地只能有一个 {0}。</OnlyOnePerColony>
+
+<!-- INCIDENTS -->
+
+<Rebellion>反抗</Rebellion>
+<RebelLetter>反抗者！</RebelLetter>
+<RebelLetterDesc>{0} 被选中去逮捕那个不受欢迎的首领，HECAP会尽可能地实现这一计划。</RebelLetterDesc>
+
+<RebellionLetter>暴乱！</RebellionLetter>
+<RebellionLetterDesc>{0} 被其他殖民者所厌恶，他们希望摆脱HIS首领。</RebellionLetterDesc>
+
+<UnpopularM>{0}, 殖民地的首领，正在变得不得人心。如果{0}一直不被其他的殖民者接受，他们可能发动暴乱使{0}丧失权力。</UnpopularM>
+<ResignLetterText>一个殖民者要求HIM辞去殖民地首领的职务。如果HE接受，HIS任期将结束并且一段时间内不会再当选。</ResignLetterText>
+<OnlyOnce>开弓没有回头箭，请谨慎选择。</OnlyOnce>
+<Resign>辞职</Resign>
+<DontResign>拒绝辞职。</DontResign>
+<ResignationProposal>辞职议案</ResignationProposal>
+
+
+<!-- DIALOGS -->
+
+<LeadershipTab>首领</LeadershipTab>
+<ChooseLeader>钦定殖民地的首领：</ChooseLeader>
+<NoneL>无</NoneL>
+<ChooseLeader_NoAbleColonists>没有合适的殖民地首领候选者，因为没有能够胜任社交工作的殖民者。</ChooseLeader_NoAbleColonists>
+<ChooseGov>选择殖民的政体类型：</ChooseGov>
+
+<Schedule>日程表</Schedule>
+<LessonSchedule>课程安排</LessonSchedule>
+<ScheduleText>分配教师工作给殖民地首领。\n点击日期选择当天授课的教师。\n黄色意味着随机分配一名教师授课。</ScheduleText>
+<SeasonDays>每个季度日程：</SeasonDays>
+<RedTeacher>红色教师：</RedTeacher>
+<BlueTeacher>蓝色教师：</BlueTeacher>
+<LessonStart>课程开始于：</LessonStart>
+<IgnoreList>免修列表</IgnoreList>
+<IgnoreLectures>设置不用听课的殖民者</IgnoreLectures>
+
+<SetDictator>钦定独裁官</SetDictator>
+<BuildBallotBox>建立投票箱，以便殖民的投票选举新的首领。</BuildBallotBox>
+<AverageOpinionAbout>对这个首领的普遍看法：</AverageOpinionAbout>
+<UnpopularLeader>警告：这个首领非常不受欢迎。殖民者可能发动叛乱并逮捕这个首领人！</UnpopularLeader>
+<UnlikedLeader>警告：这位首领人不太受殖民者的欢迎。</UnlikedLeader>
+
+<!-- GOV TYPES -->
+<Dictatorship>独裁制</Dictatorship>
+<DictatorshipDesc>这个殖民的首领由你钦定，自死方休。</DictatorshipDesc>
+<Dictator>独裁官</Dictator>
+
+<Democracy>民主制</Democracy>
+<DemocracyDesc>殖民者将投票选出他们的首领，任期为一年。</DemocracyDesc>
+<Leader>执政官</Leader>
+
+</LanguageData>

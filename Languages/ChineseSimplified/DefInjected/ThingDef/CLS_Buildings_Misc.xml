@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Spots -->
+
+  <TeachingSpot.label>讲桌</TeachingSpot.label>
+  <TeachingSpot.description>指定一个的地点来进行授课。</TeachingSpot.description>
+  <TeachingSpot_Blueprint.label>讲桌（蓝图）</TeachingSpot_Blueprint.label>
+  <TeachingSpot_Frame.label>讲桌（建造中）</TeachingSpot_Frame.label>
+  <TeachingSpot_Frame.description>指定一个的地点来进行授课。</TeachingSpot_Frame.description>
+
+  <GlobeCL.label>星球仪</GlobeCL.label>
+  <GlobeCL.description>在讲桌旁使用这个星球仪可以提高教学的效率。</GlobeCL.description>
+  <GlobeCL_Blueprint.label>星球仪（蓝图）</GlobeCL_Blueprint.label>
+  <GlobeCL_Blueprint_Install.label>星球仪（蓝图）</GlobeCL_Blueprint_Install.label>
+  <GlobeCL_Frame.label>星球仪（建造中）</GlobeCL_Frame.label>
+  <GlobeCL_Frame.description>在讲桌旁使用这个星球仪可以提高教学的效率。</GlobeCL_Frame.description>
+
+  <ChalkboardCL.label>黑板</ChalkboardCL.label>
+  <ChalkboardCL.description>在讲桌旁使用这个黑板可以提高教学的效率。</ChalkboardCL.description>
+  <ChalkboardCL_Blueprint.label>黑板（蓝图）</ChalkboardCL_Blueprint.label>
+  <ChalkboardCL_Blueprint_Install.label>黑板（蓝图）</ChalkboardCL_Blueprint_Install.label>
+  <ChalkboardCL_Frame.label>黑板（建造中）</ChalkboardCL_Frame.label>
+  <ChalkboardCL_Frame.description>在讲桌旁使用这个黑板可以提高教学的效率。</ChalkboardCL_Frame.description>
+
+  <BallotBox.label>投票箱</BallotBox.label>
+  <BallotBox.description>使用这个投票箱进行首领的选举。把它放置在一个安全的地方，最好是室内。</BallotBox.description>
+  <BallotBox_Blueprint.label>投票箱（蓝图）</BallotBox_Blueprint.label>
+  <BallotBox_Frame.label>投票箱（建造中）</BallotBox_Frame.label>
+  <BallotBox_Frame.description>使用这个投票箱进行首领的选举。把它放置在一个安全的地方，最好是室内。</BallotBox_Frame.description>
+
+
+</LanguageData>

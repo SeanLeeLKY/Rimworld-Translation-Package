@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Random social interactions -->
+
+  <InspirationalTalk.label>鼓舞士气</InspirationalTalk.label>
+  <InspirationalTalk.logRulesInitiator.rulesStrings.0>logentry->鼓舞[other_nameShortIndef].</InspirationalTalk.logRulesInitiator.rulesStrings.0>
+  <InspirationalTalk.logRulesRecipient.rulesStrings.0>logentry->受到[other_nameShortIndef]鼓舞.</InspirationalTalk.logRulesRecipient.rulesStrings.0>
+
+
+</LanguageData>

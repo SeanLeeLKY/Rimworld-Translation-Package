@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <leaderExpired.label>前任首领</leaderExpired.label>
+
+  <leader1.label>首领*农业</leader1.label>
+  <leader1.stages.0.label>Lv.1</leader1.stages.0.label>
+  <leader1.stages.1.label>Lv.2</leader1.stages.1.label>
+  <leader1.stages.2.label>Lv.3</leader1.stages.2.label>
+
+  <leader2.label>首领*战斗</leader2.label>
+  <leader2.stages.0.label>Lv.1</leader2.stages.0.label>
+  <leader2.stages.1.label>Lv.2</leader2.stages.1.label>
+  <leader2.stages.2.label>Lv.3</leader2.stages.2.label>
+
+  <leader3.label>首领*工艺</leader3.label>
+  <leader3.stages.0.label>Lv.1</leader3.stages.0.label>
+  <leader3.stages.1.label>Lv.2</leader3.stages.1.label>
+  <leader3.stages.2.label>Lv.3</leader3.stages.2.label>
+
+  <leader4.label>首领*科研</leader4.label>
+  <leader4.stages.0.label>Lv.1</leader4.stages.0.label>
+  <leader4.stages.1.label>Lv.2</leader4.stages.1.label>
+  <leader4.stages.2.label>Lv.3</leader4.stages.2.label>
+
+
+</LanguageData>
