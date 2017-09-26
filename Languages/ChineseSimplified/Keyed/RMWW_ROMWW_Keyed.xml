@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_WerewolfEscaped>{0} 跳出来遏制在 {1}.</ROM_WerewolfEscaped>
+  <ROM_WerewolfLimbRegen>{0} 具有再生能力 {1}.</ROM_WerewolfLimbRegen>
+  <ROM_WerewolfDecyberize>{0} 的身体获得了再生，{1} ，{2}被排挤出了体外并掉落出来。</ROM_WerewolfDecyberize>
+  <ROM_NeedsRest>{0}需要时间恢复气血。</ROM_NeedsRest>
+  <ROM_WerewolfRevert>{0}又恢复了原来的模样</ROM_WerewolfRevert>
+  <ROM_CannotApplySilverTreatment>不能用在纯银洗礼</ROM_CannotApplySilverTreatment>
+  <ROM_ApplySilverTreatment>使用纯银洗礼在{0}。({1}白银)</ROM_ApplySilverTreatment>
+  <ROM_NeedsSilver>需要{0}白银</ROM_NeedsSilver>
+  <ROM_SilverAmmo>(白银子弹)</ROM_SilverAmmo>
+  <ROM_ApplySilverTreatment>纯银洗礼</ROM_ApplySilverTreatment>
+  <ROM_FullMoonFury>狂月的招引</ROM_FullMoonFury>
+  <ROM_FullMoonFuryDesc>在开启转变形态后，狼人会在满月降临的时刻陷入狂暴。在狂暴中会让狼人随机转化并升级成另一种狼人形态。</ROM_FullMoonFuryDesc>
+  <ROM_FormLevel>{0} 形态: 等级 {1}</ROM_FormLevel>
+  <ROM_FormNextLevel>当前等级    {0}   下一级:</ROM_FormNextLevel>
+  <ROM_FormHealth>生命值: +{0}% {1} +{2}%</ROM_FormHealth>
+  <ROM_FormSize>体积: +{0}% {1} +{2}%</ROM_FormSize>
+  <ROM_FormImmunity>免疫力: +{0}% {1} +{2}%</ROM_FormImmunity>
+  <ROM_FormNote>备注:损伤豁免只能在非纯银洗礼上的武器。</ROM_FormNote>
+  <ROM_RageLeft>变身剩余时间</ROM_RageLeft>
+  <ROM_WerewolfTransformation>{0} 已经变成了{1}狼人！</ROM_WerewolfTransformation>
+  <ROM_MoonCycle_FullMoonPasses>{0}的满月已经结束了。</ROM_MoonCycle_FullMoonPasses>
+  <ROM_MoonCycle_FullMoonDesc>这个星球的月亮,{0},已经达到最清晰可见的程度。殖民者将会受到小股情绪的增幅。不具备“招引”能力的狼人会在这个期间随机转变成另一种形态。</ROM_MoonCycle_FullMoonDesc>
+  <ROM_MoonCycle_FullMoonArgless>满月</ROM_MoonCycle_FullMoonArgless>
+  <ROM_MoonCycle_FullMoon>满月({0})</ROM_MoonCycle_FullMoon>
+  <ROM_MoonCycle_UntilNextFullMoon>离满月还剩{0}天</ROM_MoonCycle_UntilNextFullMoon>
+  <ROM_MoonCycle_FullMoonImminentArgless>满月将至</ROM_MoonCycle_FullMoonImminentArgless>
+  <ROM_MoonCycle_FullMoonImminent>{0}(满月将至)</ROM_MoonCycle_FullMoonImminent>
+  <ROM_MoonCycle_Moon>月亮</ROM_MoonCycle_Moon>
+  <ROM_MoonCycle_Moons>{0}的月亮</ROM_MoonCycle_Moons>
+  <ROM_MoonCycle_CurrentPhaseDesc>在你星球上的每个季度，都是{0}的一个月相周期。在每个周期的最后，天空中会显现一轮美丽的满月。\n\n届时能主动让狼人引发转化行为。</ROM_MoonCycle_CurrentPhaseDesc>
+  <ROM_MoonCycle_CurrentPhase>{0} (剩余{1}天迎来满月)</ROM_MoonCycle_CurrentPhase>
+
+</LanguageData>

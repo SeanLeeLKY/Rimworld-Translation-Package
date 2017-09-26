@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_WerewolfNewBlood.label>新生之血</ROM_WerewolfNewBlood.label>
+  <ROM_WerewolfNewBlood.labelPlural>新生之血</ROM_WerewolfNewBlood.labelPlural>
+
+  <ROM_WolfHandler.label>伴行者</ROM_WolfHandler.label>
+  <ROM_WolfHandler.labelPlural>伴行者</ROM_WolfHandler.labelPlural>
+
+  <ROM_Werewolf.label>暗爪猎手</ROM_Werewolf.label>
+  <ROM_Werewolf.labelPlural>暗爪猎手</ROM_Werewolf.labelPlural>
+
+  <ROM_WerewolfFang.label>牙狼</ROM_WerewolfFang.label>
+  <ROM_WerewolfFang.labelPlural>牙狼</ROM_WerewolfFang.labelPlural>
+
+  <ROM_WerewolfAlpha.label>头狼</ROM_WerewolfAlpha.label>
+  <ROM_WerewolfAlpha.labelPlural>头狼</ROM_WerewolfAlpha.labelPlural>
+
+
+</LanguageData>

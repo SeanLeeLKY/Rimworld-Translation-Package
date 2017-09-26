@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- BODY PARTS -->
+
+  <ROMA_Cephalothorax.label>头胸部</ROMA_Cephalothorax.label>
+  <ROMA_LeftPedipalp.label>左须肢</ROMA_LeftPedipalp.label>
+  <ROMA_RightPedipalp.label>右须肢</ROMA_RightPedipalp.label>
+  <ROMA_SecondMiddleLeftInsectLeg.label>第二左中腿</ROMA_SecondMiddleLeftInsectLeg.label>
+  <ROMA_SecondMiddleRightInsectLeg.label>第二右中腿</ROMA_SecondMiddleRightInsectLeg.label>
+
+
+</LanguageData>

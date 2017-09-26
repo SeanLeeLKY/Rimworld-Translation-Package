@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SPIDERS (STANDARD) -->
+
+  <ROMA_SpiderKind.label>蜘蛛</ROMA_SpiderKind.label>
+  <ROMA_SpiderKind.labelPlural>蜘蛛</ROMA_SpiderKind.labelPlural>
+  <ROMA_SpiderKind.lifeStages.0.label>蜘蛛(幼虫期)</ROMA_SpiderKind.lifeStages.0.label>
+  <ROMA_SpiderKind.lifeStages.0.labelPlural>蜘蛛(幼虫期)</ROMA_SpiderKind.lifeStages.0.labelPlural>
+  <ROMA_SpiderKind.lifeStages.0.labelMale>雄性蜘蛛(幼虫期)</ROMA_SpiderKind.lifeStages.0.labelMale>
+  <ROMA_SpiderKind.lifeStages.0.labelMalePlural>雄性蜘蛛(幼虫期)</ROMA_SpiderKind.lifeStages.0.labelMalePlural>
+  <ROMA_SpiderKind.lifeStages.0.labelFemale>雌性蜘蛛(幼虫期)</ROMA_SpiderKind.lifeStages.0.labelFemale>
+  <ROMA_SpiderKind.lifeStages.0.labelFemalePlural>雌性蜘蛛(幼虫期)</ROMA_SpiderKind.lifeStages.0.labelFemalePlural>
+  <ROMA_SpiderKind.lifeStages.1.label>蜘蛛(若虫期)</ROMA_SpiderKind.lifeStages.1.label>
+  <ROMA_SpiderKind.lifeStages.1.labelPlural>蜘蛛(若虫期)</ROMA_SpiderKind.lifeStages.1.labelPlural>
+  <ROMA_SpiderKind.lifeStages.1.labelMale>雄性蜘蛛(若虫期)</ROMA_SpiderKind.lifeStages.1.labelMale>
+  <ROMA_SpiderKind.lifeStages.1.labelMalePlural>雄性蜘蛛(若虫期)</ROMA_SpiderKind.lifeStages.1.labelMalePlural>
+  <ROMA_SpiderKind.lifeStages.1.labelFemale>雌性蜘蛛(若虫期)</ROMA_SpiderKind.lifeStages.1.labelFemale>
+  <ROMA_SpiderKind.lifeStages.1.labelFemalePlural>雌性蜘蛛(若虫期)</ROMA_SpiderKind.lifeStages.1.labelFemalePlural>
+  <ROMA_SpiderKind.lifeStages.2.label>蜘蛛</ROMA_SpiderKind.lifeStages.2.label>
+  <ROMA_SpiderKind.lifeStages.2.labelPlural>蜘蛛</ROMA_SpiderKind.lifeStages.2.labelPlural>
+  <ROMA_SpiderKind.lifeStages.2.labelMale>雄性蜘蛛</ROMA_SpiderKind.lifeStages.2.labelMale>
+  <ROMA_SpiderKind.lifeStages.2.labelMalePlural>雄性蜘蛛</ROMA_SpiderKind.lifeStages.2.labelMalePlural>
+  <ROMA_SpiderKind.lifeStages.2.labelFemale>雌性蜘蛛</ROMA_SpiderKind.lifeStages.2.labelFemale>
+  <ROMA_SpiderKind.lifeStages.2.labelFemalePlural>雌性蜘蛛</ROMA_SpiderKind.lifeStages.2.labelFemalePlural>
+  <ROMA_SpiderKind.labelMale>雄性蜘蛛</ROMA_SpiderKind.labelMale>
+  <ROMA_SpiderKind.labelMalePlural>雄性蜘蛛</ROMA_SpiderKind.labelMalePlural>
+  <ROMA_SpiderKind.labelFemale>雌性蜘蛛</ROMA_SpiderKind.labelFemale>
+  <ROMA_SpiderKind.labelFemalePlural>雌性蜘蛛</ROMA_SpiderKind.labelFemalePlural>
+
+
+  <!-- GIANT SPIDERS -->
+
+  <ROMA_SpiderKindGiant.label>巨型蜘蛛</ROMA_SpiderKindGiant.label>
+  <ROMA_SpiderKindGiant.labelPlural>巨型蜘蛛</ROMA_SpiderKindGiant.labelPlural>
+  <ROMA_SpiderKindGiant.lifeStages.0.label>巨型蜘蛛(幼虫期)</ROMA_SpiderKindGiant.lifeStages.0.label>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelPlural>巨型蜘蛛(幼虫期)</ROMA_SpiderKindGiant.lifeStages.0.labelPlural>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelMale>雄性巨型蜘蛛(幼虫期)</ROMA_SpiderKindGiant.lifeStages.0.labelMale>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelMalePlural>雄性巨型蜘蛛(幼虫期)</ROMA_SpiderKindGiant.lifeStages.0.labelMalePlural>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelFemale>雌性巨型蜘蛛(幼虫期)</ROMA_SpiderKindGiant.lifeStages.0.labelFemale>
+  <ROMA_SpiderKindGiant.lifeStages.0.labelFemalePlural>雌性巨型蜘蛛(幼虫期)</ROMA_SpiderKindGiant.lifeStages.0.labelFemalePlural>
+  <ROMA_SpiderKindGiant.lifeStages.1.label>巨型蜘蛛(若虫期)</ROMA_SpiderKindGiant.lifeStages.1.label>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelPlural>巨型蜘蛛(若虫期)</ROMA_SpiderKindGiant.lifeStages.1.labelPlural>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelMale>雄性巨型蜘蛛(若虫期)</ROMA_SpiderKindGiant.lifeStages.1.labelMale>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelMalePlural>雄性巨型蜘蛛(若虫期)</ROMA_SpiderKindGiant.lifeStages.1.labelMalePlural>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelFemale>雌性巨型蜘蛛(若虫期)</ROMA_SpiderKindGiant.lifeStages.1.labelFemale>
+  <ROMA_SpiderKindGiant.lifeStages.1.labelFemalePlural>雌性巨型蜘蛛(若虫期)</ROMA_SpiderKindGiant.lifeStages.1.labelFemalePlural>
+  <ROMA_SpiderKindGiant.lifeStages.2.label>巨型蜘蛛</ROMA_SpiderKindGiant.lifeStages.2.label>
+  <ROMA_SpiderKindGiant.lifeStages.2.labelPlural>巨型蜘蛛</ROMA_SpiderKindGiant.lifeStages.2.labelPlural>
+  <ROMA_SpiderKindGiant.lifeStages.2.labelMale>雄性巨型蜘蛛</ROMA_SpiderKindGiant.lifeStages.2.labelMale>
+  <ROMA_SpiderKindGiant.lifeStages.2.labelMalePlural>雄性巨型蜘蛛</ROMA_SpiderKindGiant.lifeStages.2.labelMalePlural>
+  <ROMA_SpiderKindGiant.lifeStages.2.labelFemale>雌性巨型蜘蛛</ROMA_SpiderKindGiant.lifeStages.2.labelFemale>
+  <ROMA_SpiderKindGiant.lifeStages.2.labelFemalePlural>雌性巨型蜘蛛</ROMA_SpiderKindGiant.lifeStages.2.labelFemalePlural>
+  <ROMA_SpiderKindGiant.labelMale>雄性巨型蜘蛛</ROMA_SpiderKindGiant.labelMale>
+  <ROMA_SpiderKindGiant.labelMalePlural>雄性巨型蜘蛛</ROMA_SpiderKindGiant.labelMalePlural>
+  <ROMA_SpiderKindGiant.labelFemale>雌性巨型蜘蛛</ROMA_SpiderKindGiant.labelFemale>
+  <ROMA_SpiderKindGiant.labelFemalePlural>雌性巨型蜘蛛</ROMA_SpiderKindGiant.labelFemalePlural>
+
+
+  <!-- GIANT SPIDER QUEEN -->
+
+  <ROMA_SpiderKindGiantQueen.label>巨型蜘蛛女王</ROMA_SpiderKindGiantQueen.label>
+  <ROMA_SpiderKindGiantQueen.labelPlural>巨型蜘蛛女王</ROMA_SpiderKindGiantQueen.labelPlural>
+  <ROMA_SpiderKindGiantQueen.lifeStages.0.label>巨型蜘蛛女王(幼虫期)</ROMA_SpiderKindGiantQueen.lifeStages.0.label>
+  <ROMA_SpiderKindGiantQueen.lifeStages.0.labelPlural>巨型蜘蛛女王(幼虫期)</ROMA_SpiderKindGiantQueen.lifeStages.0.labelPlural>
+  <ROMA_SpiderKindGiantQueen.lifeStages.1.label>巨型蜘蛛女王(若虫期)</ROMA_SpiderKindGiantQueen.lifeStages.1.label>
+  <ROMA_SpiderKindGiantQueen.lifeStages.1.labelPlural>巨型蜘蛛女王(若虫期)</ROMA_SpiderKindGiantQueen.lifeStages.1.labelPlural>
+  <ROMA_SpiderKindGiantQueen.lifeStages.2.label>巨型蜘蛛女王</ROMA_SpiderKindGiantQueen.lifeStages.2.label>
+  <ROMA_SpiderKindGiantQueen.lifeStages.2.labelPlural>巨型蜘蛛女王</ROMA_SpiderKindGiantQueen.lifeStages.2.labelPlural>
+
+
+</LanguageData>

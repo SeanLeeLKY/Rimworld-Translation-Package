@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mental breaks: extreme -->
+
+  <ROM_WerewolfFury.label>狼人之怒</ROM_WerewolfFury.label>
+  <ROM_WerewolfFury.beginLetter>{0}已经变成了一头疯狂的狼人！</ROM_WerewolfFury.beginLetter>
+  <ROM_WerewolfFury.beginLetterLabel>狼人之怒</ROM_WerewolfFury.beginLetterLabel>
+  <ROM_WerewolfFury.recoveryMessage>{0}的狂怒已经平息了。</ROM_WerewolfFury.recoveryMessage>
+  <ROM_WerewolfFury.baseInspectLine>心理状态: 狂暴</ROM_WerewolfFury.baseInspectLine>
+
+
+</LanguageData>

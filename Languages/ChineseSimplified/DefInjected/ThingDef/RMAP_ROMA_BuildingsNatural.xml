@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- WEBS -->
+
+  <ROMA_Web.label>网</ROMA_Web.label>
+  <ROMA_Web.description>蜘蛛分泌出的黏液所丝线编织的网，用于捕捉猎物。</ROMA_Web.description>
+
+  <ROMA_WebGiant.label>大型网</ROMA_WebGiant.label>
+  <ROMA_WebGiant.description>蜘蛛分泌物所编织的大型丝网，用来捕捉大体型猎物。</ROMA_WebGiant.description>
+
+
+  <!-- COCOONS -->
+
+  <ROMA_Cocoon.label>茧</ROMA_Cocoon.label>
+  <ROMA_Cocoon.description>一个用来裹缠并束缚猎物的丝茧，无论猎物的死活蜘蛛都会把他们裹成丝茧保存起来食用。</ROMA_Cocoon.description>
+
+  <ROMA_CocoonGiant.label>大型茧</ROMA_CocoonGiant.label>
+  <ROMA_CocoonGiant.description>一个被蜘蛛丝织成茧的大型猎物。</ROMA_CocoonGiant.description>
+
+
+</LanguageData>

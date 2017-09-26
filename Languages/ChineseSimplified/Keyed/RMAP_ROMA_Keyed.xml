@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 8/4/17 == UPDATE ===================== -->
+  <ROM_SpidersArrivedNoQueen>巨型蜘蛛群已经出现。</ROM_SpidersArrivedNoQueen>
+
+
+  <!-- 6/29/17 == UPDATE ===================== -->
+
+  <ROM_SettingsSpiderMultiplier_Num>蜘蛛产卵孵化器 ({0}x)</ROM_SettingsSpiderMultiplier_Num>
+
+  <ROM_SettingsSpiderMultiplier_None>蜘蛛产卵孵化器 (None)</ROM_SettingsSpiderMultiplier_None>
+
+
+  <!-- 6/23/17 === UPDATE STRINGS ============ -->
+
+  <ROM_Wild>野生的 {0}</ROM_Wild>
+  <ROM_Spinner>结网蜘蛛</ROM_Spinner>
+
+  <!-- ======== INITIAL MOD STRINGS ========== -->
+
+  <ROM_EscapedFromCocoon>{0} 从茧中逃了出来。</ROM_EscapedFromCocoon>
+  <ROM_SpiderWebsCrossed>{0} 穿过蜘蛛结的网。</ROM_SpiderWebsCrossed>
+  <ROM_SpiderEatingColonist>一个{0}企图享用{1}。</ROM_SpiderEatingColonist>
+  <ROM_SpinPreyJob1>猎食{0}</ROM_SpinPreyJob1>
+  <ROM_SpinPreyJob2>用丝缠绕受害者。</ROM_SpinPreyJob2>
+  <ROM_ConsumeJob1>溶解受害者的内脏。</ROM_ConsumeJob1>
+  <ROM_ConsumeJob2>正在享用受害者。</ROM_ConsumeJob2>
+
+  <ROM_LetterLabelSpidersArrived>巨型蜘蛛群</ROM_LetterLabelSpidersArrived>
+  <ROM_SpidersArrived>出现了一群巨型蜘蛛，其中还有一位它们的女王。</ROM_SpidersArrived>
+
+  <ROM_SpiderQueenDeath>数百只蜘蛛从蜘蛛女王的尸体中涌出。</ROM_SpiderQueenDeath>
+
+  <ROM_SettingsSpiderMultiplier>蜘蛛产卵孵化器</ROM_SettingsSpiderMultiplier>
+
+</LanguageData>

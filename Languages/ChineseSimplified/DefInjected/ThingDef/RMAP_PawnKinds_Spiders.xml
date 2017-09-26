@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SPIDERS (STANDARD) -->
+
+  <ROMA_SpiderRace.label>蜘蛛(spider)</ROMA_SpiderRace.label>
+  <ROMA_SpiderRace.description>这个由转基因工程所创造出的八条腿生物，体型如同兔子般。拥有坚硬的外壳和有毒素的长牙。具备捕食能力。</ROMA_SpiderRace.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <ROMA_SpiderRace_Corpse.label>蜘蛛的尸体</ROMA_SpiderRace_Corpse.label>
+  <ROMA_SpiderRace_Corpse.description>蜘蛛的尸体</ROMA_SpiderRace_Corpse.description>
+
+
+  <!-- GIANT SPIDERS -->
+
+  <ROMA_SpiderRaceGiant.label>巨型蜘蛛(giant spider)</ROMA_SpiderRaceGiant.label>
+  <ROMA_SpiderRaceGiant.description>这个由转基因工程所创造出的八条腿巨型怪物，体型堪比野牦牛。拥有坚厚的外壳和用来捕食猎物的剧毒长牙。</ROMA_SpiderRaceGiant.description>
+  <ROMA_SpiderRaceGiant_Leather.label>蜘蛛外壳</ROMA_SpiderRaceGiant_Leather.label>
+  <ROMA_SpiderRaceGiant_Leather.description>蜘蛛外壳</ROMA_SpiderRaceGiant_Leather.description>
+  <ROMA_SpiderRaceGiant_Leather.stuffProps.stuffAdjective>蜘蛛外壳</ROMA_SpiderRaceGiant_Leather.stuffProps.stuffAdjective>
+  <ROMA_SpiderRaceGiant_Meat.label>蜘蛛肉</ROMA_SpiderRaceGiant_Meat.label>
+  <ROMA_SpiderRaceGiant_Meat.description>蜘蛛肉</ROMA_SpiderRaceGiant_Meat.description>
+  <ROMA_SpiderRaceGiant_Corpse.label>巨型蜘蛛尸体</ROMA_SpiderRaceGiant_Corpse.label>
+  <ROMA_SpiderRaceGiant_Corpse.description>巨型蜘蛛的尸体</ROMA_SpiderRaceGiant_Corpse.description>
+
+
+  <!-- GIANT SPIDER QUEEN -->
+
+  <ROMA_SpiderRaceGiantQueen.label>巨型蜘蛛女王(giant spider queen)</ROMA_SpiderRaceGiantQueen.label>
+  <ROMA_SpiderRaceGiantQueen.description>巨型蜘蛛女王是典型的基因工程的可怕产物。它的体型有半个敲击兽大小，同时可以依靠自己的翅膀进行短距离飞行。</ROMA_SpiderRaceGiantQueen.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: ROMA_SpiderRaceGiant -->
+  <ROMA_SpiderRaceGiantQueen_Corpse.label>巨型蜘蛛女王尸体</ROMA_SpiderRaceGiantQueen_Corpse.label>
+  <ROMA_SpiderRaceGiantQueen_Corpse.description>巨型蜘蛛女王的尸体</ROMA_SpiderRaceGiantQueen_Corpse.description>
+
+
+  <!-- EGGS -->
+
+  <ROMA_SpiderEgg.label>蜘蛛卵囊</ROMA_SpiderEgg.label>
+  <ROMA_SpiderEgg.description>一个装满有蜘蛛幼虫的卵囊。</ROMA_SpiderEgg.description>
+
+  <ROMA_SpiderEggGiant.label>巨型蜘蛛卵囊</ROMA_SpiderEggGiant.label>
+  <ROMA_SpiderEggGiant.description>一个装满有巨型蜘蛛幼虫的卵囊。</ROMA_SpiderEggGiant.description>
+
+
+</LanguageData>

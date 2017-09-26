@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <ROM_GlabroHediff.label>狼人形态(类人狼型)</ROM_GlabroHediff.label>
+  <ROM_GlabroClaw.label>狼人之爪(类人狼型)</ROM_GlabroClaw.label>
+  <ROM_GlabroJaw.label>狼人之牙(类人狼型)</ROM_GlabroJaw.label>
+  <ROM_CrinosHediff.label>狼人形态(半人狼型)</ROM_CrinosHediff.label>
+  <ROM_CrinosClaw.label>狼人之爪(半人狼型)</ROM_CrinosClaw.label>
+  <ROM_CrinosJaw.label>狼人之牙(半人狼型)</ROM_CrinosJaw.label>
+  <ROM_HispoHediff.label>狼人形态(巨狼人型)</ROM_HispoHediff.label>
+  <ROM_HispoClaw.label>狼人之爪(巨狼人型)</ROM_HispoClaw.label>
+  <ROM_HispoJaw.label>狼人之牙(巨狼人型)</ROM_HispoJaw.label>
+  <ROM_LupusHediff.label>狼人形态(原生狼型)</ROM_LupusHediff.label>
+  <ROM_LupusClaw.label>狼人之爪(原生狼型)</ROM_LupusClaw.label>
+  <ROM_LupusJaw.label>狼人之牙(原生狼型)</ROM_LupusJaw.label>
+  <ROM_MetisHediff.label>狼人形态(变种型)</ROM_MetisHediff.label>
+  <ROM_MetisClaw.label>狼人之爪(变种型)</ROM_MetisClaw.label>
+  <ROM_MetisJaw.label>狼人之牙(变种型)</ROM_MetisJaw.label>
+
+
+</LanguageData>

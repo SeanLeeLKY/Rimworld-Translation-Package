@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_CrinosSlash.label>撕咬</ROM_CrinosSlash.label>
+  <ROM_CrinosSlash.deathMessage>{0}死于致命撕咬伤。</ROM_CrinosSlash.deathMessage>
+
+
+</LanguageData>

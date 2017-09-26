@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_Werewolf.degreeDatas.0.label>狼人(神秘)</ROM_Werewolf.degreeDatas.0.label>
+  <ROM_Werewolf.degreeDatas.0.description>NAME也许是个异类，一个人与狼的混合体。当特殊的满月升起时，HIS身体会迎来可怕的转变，亦或者发生别的什么事情...</ROM_Werewolf.degreeDatas.0.description>
+  <ROM_Werewolf.degreeDatas.1.label>狼人(未觉醒)</ROM_Werewolf.degreeDatas.1.label>
+  <ROM_Werewolf.degreeDatas.1.description>NAME是个自我意识比较薄弱的人，实为人与狼人的混血者。每当特殊的满月升起之日，便是HIS身体恐怖苏醒之时。</ROM_Werewolf.degreeDatas.1.description>
+  <ROM_Werewolf.degreeDatas.2.label>狼人</ROM_Werewolf.degreeDatas.2.label>
+  <ROM_Werewolf.degreeDatas.2.description>NAME是个介于人与狼形态之间杂糅的物种。</ROM_Werewolf.degreeDatas.2.description>
+  <ROM_Werewolf.degreeDatas.3.label>狼人(盟约者)</ROM_Werewolf.degreeDatas.3.label>
+  <ROM_Werewolf.degreeDatas.3.description>NAME已经真诚的对自己的氏族发过血之誓言。HIS心境已经畸变成一只野兽，并把自己与狼一般看待，因此不能被招募。</ROM_Werewolf.degreeDatas.3.description>
+  <ROM_Werewolf.degreeDatas.4.label>狼人(变种型)</ROM_Werewolf.degreeDatas.4.label>
+  <ROM_Werewolf.degreeDatas.4.description>NAME被狼人群体认为是基因变异的怪胎。在HIS基因中抵触狼人种群之间的近亲繁殖，这种行为只会破坏狼人氏族的血脉。因此这类狼人只能转化成突变种。</ROM_Werewolf.degreeDatas.4.description>
+
+
+</LanguageData>

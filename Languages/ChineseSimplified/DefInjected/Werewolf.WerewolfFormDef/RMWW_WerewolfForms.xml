@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Added body parts -->
+
+  <ROM_Glabro.label>类人狼(Glabro)</ROM_Glabro.label>
+  <ROM_Glabro.description>近似人类形态的类人种狼人。在这个状态下，可以保持人类形态的同时，还能获得一部分野性的力量。</ROM_Glabro.description>
+
+  <ROM_Crinos.label>半人狼(Crinos)</ROM_Crinos.label>
+  <ROM_Crinos.description>狼人的战斗形态。把人类和野兽中最致命的部分融入到身体里，唯一的渴求便是撕碎眼前的所有敌人。\n\n被动加成\n劈斩:该单位每次攻击时,可以额外再攻击一个距离范围内的目标。</ROM_Crinos.description>
+
+  <ROM_Hispo.label>巨狼人(Hispo)</ROM_Hispo.label>
+  <ROM_Hispo.description>这个形态犹如噩梦中出现的巨狼，在史前时代的巨狼堪比成年马匹的大小。这个形态是狩猎与杀戮的完美结合。\n\n被动加成\n双重打击:该单位每次(用爪)攻击时可以造成两次伤害。</ROM_Hispo.description>
+
+  <ROM_Lupus.label>森林原狼(Lupus)</ROM_Lupus.label>
+  <ROM_Lupus.description>真正狼的形态，能够被狼的族群接受并参与到狩猎活动中，此外还能召唤速度与意识优秀的狼群协助作战。\n\n被动加成\n森林行者:该单位不会被树木类物体影响行进速度。</ROM_Lupus.description>
+
+  <ROM_Metis.label>变种狼人(Metis)</ROM_Metis.label>
+  <ROM_Metis.description>狼人族群中近亲繁殖而导致的基因突变，变种狼人因为先天的缺陷亦或是奇怪的模样而被迫从正常的狼群中驱逐出去。\n\n诅咒:\n变种狼人无法转化成其他狼人形态。</ROM_Metis.description>
+
+
+</LanguageData>
