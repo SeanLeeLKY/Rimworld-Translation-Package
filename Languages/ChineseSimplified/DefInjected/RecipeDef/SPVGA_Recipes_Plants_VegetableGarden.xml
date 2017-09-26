@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtractSeedpineapple.label>挑选菠萝种子</ExtractSeedpineapple.label>
+  <ExtractSeedpineapple.description>从菠萝中挑选种子。</ExtractSeedpineapple.description>
+
+  <ExtractSeedgrape.label>挑选葡萄种子</ExtractSeedgrape.label>
+  <ExtractSeedgrape.description>从葡萄中挑选种子。</ExtractSeedgrape.description>
+
+  <ExtractSeedcloudberry.label>挑选云莓种子</ExtractSeedcloudberry.label>
+  <ExtractSeedcloudberry.description>从云莓中挑选种子。</ExtractSeedcloudberry.description>
+
+  <ExtractSeedgooseberry.label>挑选醋栗种子</ExtractSeedgooseberry.label>
+  <ExtractSeedgooseberry.description>从醋栗中挑选种子。</ExtractSeedgooseberry.description>
+
+  <ExtractSeedAgave.label>挑选龙舌兰果种子</ExtractSeedAgave.label>
+  <ExtractSeedAgave.description>从龙舌兰果中挑选种子。</ExtractSeedAgave.description>
+
+  <ExtractSeedStrawberry.label>挑选草莓种子</ExtractSeedStrawberry.label>
+  <ExtractSeedStrawberry.description>从草莓中挑选种子。</ExtractSeedStrawberry.description>
+
+  <ExtractSeedblueberry.label>挑选蓝莓种子</ExtractSeedblueberry.label>
+  <ExtractSeedblueberry.description>从蓝莓中挑选种子。</ExtractSeedblueberry.description>
+
+  <ExtractSeedwatermelon.label>挑选西瓜种子</ExtractSeedwatermelon.label>
+  <ExtractSeedwatermelon.description>从西瓜中挑选种子。</ExtractSeedwatermelon.description>
+
+  <ExtractSeedSteelLeaf.label>挑选钢铁叶种子</ExtractSeedSteelLeaf.label>
+  <ExtractSeedSteelLeaf.description>从钢铁叶中挑选种子。</ExtractSeedSteelLeaf.description>
+
+  <ExtractSeedPlasteelLeaf.label>挑选玻璃钢叶种子</ExtractSeedPlasteelLeaf.label>
+  <ExtractSeedPlasteelLeaf.description>从玻璃钢叶中挑选种子。</ExtractSeedPlasteelLeaf.description>
+
+  <ExtractSeedGoldLeaf.label>挑选黄金叶种子</ExtractSeedGoldLeaf.label>
+  <ExtractSeedGoldLeaf.description>从黄金叶中挑选种子。</ExtractSeedGoldLeaf.description>
+
+  <ExtractSeedSilverLeaf.label>挑选白银叶种子</ExtractSeedSilverLeaf.label>
+  <ExtractSeedSilverLeaf.description>从白银叶中挑选种子。</ExtractSeedSilverLeaf.description>
+
+  <ExtractSeedUraniumLeaf.label>挑选铀叶种子</ExtractSeedUraniumLeaf.label>
+  <ExtractSeedUraniumLeaf.description>从铀叶中挑选种子。</ExtractSeedUraniumLeaf.description>
+
+  <ExtractSeedSnowbeet.label>挑选雪甜菜种子</ExtractSeedSnowbeet.label>
+  <ExtractSeedSnowbeet.description>从雪甜菜中挑选种子。</ExtractSeedSnowbeet.description>
+
+  <ExtractSeedeggplant.label>挑选茄子种子</ExtractSeedeggplant.label>
+  <ExtractSeedeggplant.description>从茄子中挑选种子。</ExtractSeedeggplant.description>
+
+  <ExtractSeedredlentil.label>挑选红扁豆种子</ExtractSeedredlentil.label>
+  <ExtractSeedredlentil.description>从红扁豆中挑选种子。</ExtractSeedredlentil.description>
+
+  <ExtractSeedpumpkin.label>挑选南瓜种子</ExtractSeedpumpkin.label>
+  <ExtractSeedpumpkin.description>从南瓜中挑选种子。</ExtractSeedpumpkin.description>
+
+  <ExtractSeedsquash.label>挑选西葫芦种子</ExtractSeedsquash.label>
+  <ExtractSeedsquash.description>从西葫芦中挑选种子。</ExtractSeedsquash.description>
+
+  <ExtractSeedbean.label>挑选黄豆种子</ExtractSeedbean.label>
+  <ExtractSeedbean.description>从黄豆中挑选种子。</ExtractSeedbean.description>
+
+  <ExtractSeedTomato.label>挑选番茄种子</ExtractSeedTomato.label>
+  <ExtractSeedTomato.description>从番茄中挑选种子。</ExtractSeedTomato.description>
+
+  <ExtractSeedCarrot.label>挑选胡萝卜种子</ExtractSeedCarrot.label>
+  <ExtractSeedCarrot.description>从胡萝卜中挑选种子。</ExtractSeedCarrot.description>
+
+  <ExtractSeedmushroom.label>挑选蘑菇种子</ExtractSeedmushroom.label>
+  <ExtractSeedmushroom.description>从蘑菇中挑选种子。</ExtractSeedmushroom.description>
+
+  <ExtractSeedoats.label>挑选燕麦种子</ExtractSeedoats.label>
+  <ExtractSeedoats.description>从燕麦中挑选种子。</ExtractSeedoats.description>
+
+  <ExtractSeedwheat.label>挑选小麦种子</ExtractSeedwheat.label>
+  <ExtractSeedwheat.description>从小麦中挑选种子。</ExtractSeedwheat.description>
+
+  <ExtractSeedHaygrass.label>挑选干草种子</ExtractSeedHaygrass.label>
+  <ExtractSeedHaygrass.description>从干草中挑选种子。</ExtractSeedHaygrass.description>
+
+  <ExtractSeedcocoa.label>挑选可可豆种子</ExtractSeedcocoa.label>
+  <ExtractSeedcocoa.description>从可可豆中挑选种子。</ExtractSeedcocoa.description>
+
+  <ExtractSeedsugarcane.label>挑选甘蔗种子</ExtractSeedsugarcane.label>
+  <ExtractSeedsugarcane.description>从甘蔗中挑选种子。</ExtractSeedsugarcane.description>
+
+  <ExtractSeedTea.label>挑选茶叶种子</ExtractSeedTea.label>
+  <ExtractSeedTea.description>从茶叶中挑选种子。</ExtractSeedTea.description>
+
+  <ExtractSeedCoffee.label>挑选咖啡豆种子</ExtractSeedCoffee.label>
+  <ExtractSeedCoffee.description>从咖啡豆中挑选种子。</ExtractSeedCoffee.description>
+
+  <ExtractSeedFlax.label>挑选亚麻种子</ExtractSeedFlax.label>
+  <ExtractSeedFlax.description>从亚麻中挑选种子。</ExtractSeedFlax.description>
+
+  <ExtractSeedNeutroFlower.label>挑选中性花种子</ExtractSeedNeutroFlower.label>
+  <ExtractSeedNeutroFlower.description>从中性花中挑选种子。</ExtractSeedNeutroFlower.description>
+
+  <ExtractSeedbamboo.label>挑选竹子种子</ExtractSeedbamboo.label>
+  <ExtractSeedbamboo.description>从竹子中挑选种子。</ExtractSeedbamboo.description>
+
+  <ExtractSeedTobacco.label>挑选烟叶种子</ExtractSeedTobacco.label>
+  <ExtractSeedTobacco.description>从烟叶中挑选种子。</ExtractSeedTobacco.description>
+
+
+</LanguageData>

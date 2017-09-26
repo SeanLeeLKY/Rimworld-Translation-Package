@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TakenInTheDark.reportString>在黑暗中抓住了TargetA。</TakenInTheDark.reportString>
+  <Kill.reportString>猎杀TargetA。</Kill.reportString>
+  <CrushDoor.reportString>摧毁TargetB。</CrushDoor.reportString>
+
+
+</LanguageData>

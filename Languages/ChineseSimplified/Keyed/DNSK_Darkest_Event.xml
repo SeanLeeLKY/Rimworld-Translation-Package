@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LabelBV>邪恶的黑暗迫近！</LabelBV>
+  <DescBV>当你注视着即将到来的黑暗，意识到死亡已经降临在这个边缘世界(Rimworld)....
+\n“快跑！”你转身对其他人大喊着，但黑暗已经降临在你的身上了。只有黑暗与你自己的尖叫声....你无法摆脱这个命运。在你被卷入黑暗之前，最不想知道的就是自己的血肉从骨头上剥离撕裂的结局。
+最漫长的黑夜已经到来。
+做好准备，因为黑暗可以吞噬一切！ \n\n尽可能待在有光源的地方求得生存！</DescBV>
+  <DarknessComesA>60 秒后黑暗降临！</DarknessComesA>
+  <DarknessComesB>30 秒后黑暗降临！</DarknessComesB>
+  <DarknessComesC>15 秒后黑暗降临！</DarknessComesC>
+  <DarknessComesD>5 秒后黑暗降临！</DarknessComesD>
+  <DarknessComesE>4 秒后黑暗降临！</DarknessComesE>
+  <DarknessComesF>3 秒后黑暗降临！</DarknessComesF>
+  <DarknessComesG>2 秒后黑暗降临！</DarknessComesG>
+  <DarknessComesH>1 秒后黑暗降临！</DarknessComesH>
+  <DarknessComes>黑暗开始降临在这片殖民地上了！</DarknessComes>
+  <OmniousDarkLabel>黯淡之影</OmniousDarkLabel>
+  <OmniousDarkDesc>“黑暗”正在渐渐褪去，但是依旧不能放松警惕... \n\n因为黑暗随时会卷土重来...</OmniousDarkDesc>
+  <TakenDC>已经被幽影给俘获。</TakenDC>
+  <IntoDS>卷入了黑暗中。</IntoDS>
+
+</LanguageData>
