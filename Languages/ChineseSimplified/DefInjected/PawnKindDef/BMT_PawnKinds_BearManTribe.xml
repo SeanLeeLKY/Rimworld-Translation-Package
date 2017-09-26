@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BearManWarrior.label>战士</BearManWarrior.label>
+  <BearManWarrior.labelPlural>战士</BearManWarrior.labelPlural>
+  <BearManWarrior.labelMale>男战士</BearManWarrior.labelMale>
+  <BearManWarrior.labelMalePlural>男战士</BearManWarrior.labelMalePlural>
+  <BearManWarrior.labelFemale>女战士</BearManWarrior.labelFemale>
+  <BearManWarrior.labelFemalePlural>女战士</BearManWarrior.labelFemalePlural>
+
+  <BearManTrader.label>商人</BearManTrader.label>
+  <BearManTrader.labelPlural>商人</BearManTrader.labelPlural>
+  <BearManTrader.labelMale>男商人</BearManTrader.labelMale>
+  <BearManTrader.labelMalePlural>男商人</BearManTrader.labelMalePlural>
+  <BearManTrader.labelFemale>女商人</BearManTrader.labelFemale>
+  <BearManTrader.labelFemalePlural>女商人</BearManTrader.labelFemalePlural>
+
+  <BearManArcher.label>弓箭手</BearManArcher.label>
+  <BearManArcher.labelPlural>弓箭手</BearManArcher.labelPlural>
+  <BearManArcher.labelMale>男弓箭手</BearManArcher.labelMale>
+  <BearManArcher.labelMalePlural>男弓箭手</BearManArcher.labelMalePlural>
+  <BearManArcher.labelFemale>女弓箭手</BearManArcher.labelFemale>
+  <BearManArcher.labelFemalePlural>女弓箭手</BearManArcher.labelFemalePlural>
+
+  <BearManChief.label>首领</BearManChief.label>
+  <BearManChief.labelPlural>首领</BearManChief.labelPlural>
+  <BearManChief.labelMale>男首领</BearManChief.labelMale>
+  <BearManChief.labelMalePlural>男首领</BearManChief.labelMalePlural>
+  <BearManChief.labelFemale>女首领</BearManChief.labelFemale>
+  <BearManChief.labelFemalePlural>女首领</BearManChief.labelFemalePlural>
+
+
+</LanguageData>

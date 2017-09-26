@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CamelMan.label>骆驼人</CamelMan.label>
+  <CamelMan.description>一个长着骆驼头的人类</CamelMan.description>
+  <CamelMan_Leather.label>骆驼人皮</CamelMan_Leather.label>
+  <CamelMan_Leather.description>骆驼人皮</CamelMan_Leather.description>
+  <CamelMan_Leather.stuffProps.stuffAdjective>骆驼人皮</CamelMan_Leather.stuffProps.stuffAdjective>
+  <CamelMan_Meat.label>骆驼人肉</CamelMan_Meat.label>
+  <CamelMan_Meat.description>骆驼人肉</CamelMan_Meat.description>
+  <CamelMan_Corpse.label>骆驼人尸体</CamelMan_Corpse.label>
+  <CamelMan_Corpse.description>骆驼人尸体</CamelMan_Corpse.description>
+
+</LanguageData>

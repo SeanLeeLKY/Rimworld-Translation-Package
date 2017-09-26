@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ElkManWarrior.label>战士</ElkManWarrior.label>
+  <ElkManWarrior.labelPlural>战士</ElkManWarrior.labelPlural>
+  <ElkManWarrior.labelMale>男战士</ElkManWarrior.labelMale>
+  <ElkManWarrior.labelMalePlural>男战士</ElkManWarrior.labelMalePlural>
+  <ElkManWarrior.labelFemale>女战士</ElkManWarrior.labelFemale>
+  <ElkManWarrior.labelFemalePlural>女战士</ElkManWarrior.labelFemalePlural>
+
+  <ElkManTrader.label>商人</ElkManTrader.label>
+  <ElkManTrader.labelPlural>商人</ElkManTrader.labelPlural>
+  <ElkManTrader.labelMale>男商人</ElkManTrader.labelMale>
+  <ElkManTrader.labelMalePlural>男商人</ElkManTrader.labelMalePlural>
+  <ElkManTrader.labelFemale>女商人</ElkManTrader.labelFemale>
+  <ElkManTrader.labelFemalePlural>女商人</ElkManTrader.labelFemalePlural>
+
+  <ElkManArcher.label>弓箭手</ElkManArcher.label>
+  <ElkManArcher.labelPlural>弓箭手</ElkManArcher.labelPlural>
+  <ElkManArcher.labelMale>男弓箭手</ElkManArcher.labelMale>
+  <ElkManArcher.labelMalePlural>男弓箭手</ElkManArcher.labelMalePlural>
+  <ElkManArcher.labelFemale>女弓箭手</ElkManArcher.labelFemale>
+  <ElkManArcher.labelFemalePlural>女弓箭手</ElkManArcher.labelFemalePlural>
+
+  <ElkManChief.label>首领</ElkManChief.label>
+  <ElkManChief.labelPlural>首领</ElkManChief.labelPlural>
+  <ElkManChief.labelMale>男首领</ElkManChief.labelMale>
+  <ElkManChief.labelMalePlural>男首领</ElkManChief.labelMalePlural>
+  <ElkManChief.labelFemale>女首领</ElkManChief.labelFemale>
+  <ElkManChief.labelFemalePlural>女首领</ElkManChief.labelFemalePlural>
+
+
+</LanguageData>

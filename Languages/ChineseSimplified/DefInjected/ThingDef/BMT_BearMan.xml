@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BearMan_race_Leather.label>熊人皮</BearMan_Leather.label>
+  <BearMan_race_Leather.description>熊人皮</BearMan_Leather.description>
+  <BearMan_race_Leather.stuffProps.stuffAdjective>熊人皮</BearMan_Leather.stuffProps.stuffAdjective>
+  <BearMan_race_Meat.label>熊人肉</BearMan_Meat.label>
+  <BearMan_race_Meat.description>熊人肉</BearMan_Meat.description>
+  <BearMan_race_Corpse.label>熊人尸体</BearMan_Corpse.label>
+  <BearMan_race_Corpse.description>熊人尸体</BearMan_Corpse.description>
+
+
+</LanguageData>

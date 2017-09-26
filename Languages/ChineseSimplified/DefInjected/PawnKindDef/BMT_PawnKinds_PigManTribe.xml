@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PigManWarrior.label>战士</PigManWarrior.label>
+  <PigManWarrior.labelPlural>战士</PigManWarrior.labelPlural>
+  <PigManWarrior.labelMale>男战士</PigManWarrior.labelMale>
+  <PigManWarrior.labelMalePlural>男战士</PigManWarrior.labelMalePlural>
+  <PigManWarrior.labelFemale>女战士</PigManWarrior.labelFemale>
+  <PigManWarrior.labelFemalePlural>女战士</PigManWarrior.labelFemalePlural>
+
+  <PigManTrader.label>商人</PigManTrader.label>
+  <PigManTrader.labelPlural>商人</PigManTrader.labelPlural>
+  <PigManTrader.labelMale>男商人</PigManTrader.labelMale>
+  <PigManTrader.labelMalePlural>男商人</PigManTrader.labelMalePlural>
+  <PigManTrader.labelFemale>女商人</PigManTrader.labelFemale>
+  <PigManTrader.labelFemalePlural>女商人</PigManTrader.labelFemalePlural>
+
+  <PigManArcher.label>弓箭手</PigManArcher.label>
+  <PigManArcher.labelPlural>弓箭手</PigManArcher.labelPlural>
+  <PigManArcher.labelMale>男弓箭手</PigManArcher.labelMale>
+  <PigManArcher.labelMalePlural>男弓箭手</PigManArcher.labelMalePlural>
+  <PigManArcher.labelFemale>女弓箭手</PigManArcher.labelFemale>
+  <PigManArcher.labelFemalePlural>女弓箭手</PigManArcher.labelFemalePlural>
+
+  <PigManChief.label>首领</PigManChief.label>
+  <PigManChief.labelPlural>首领</PigManChief.labelPlural>
+  <PigManChief.labelMale>男首领</PigManChief.labelMale>
+  <PigManChief.labelMalePlural>男首领</PigManChief.labelMalePlural>
+  <PigManChief.labelFemale>女首领</PigManChief.labelFemale>
+  <PigManChief.labelFemalePlural>女首领</PigManChief.labelFemalePlural>
+
+
+</LanguageData>

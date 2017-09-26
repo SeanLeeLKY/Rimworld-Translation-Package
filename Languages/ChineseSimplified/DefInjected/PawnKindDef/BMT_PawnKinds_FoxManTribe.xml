@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FoxManWarrior.label>战士</FoxManWarrior.label>
+  <FoxManWarrior.labelPlural>战士</FoxManWarrior.labelPlural>
+  <FoxManWarrior.labelMale>男战士</FoxManWarrior.labelMale>
+  <FoxManWarrior.labelMalePlural>男战士</FoxManWarrior.labelMalePlural>
+  <FoxManWarrior.labelFemale>女战士</FoxManWarrior.labelFemale>
+  <FoxManWarrior.labelFemalePlural>女战士</FoxManWarrior.labelFemalePlural>
+
+  <FoxManTrader.label>商人</FoxManTrader.label>
+  <FoxManTrader.labelPlural>商人</FoxManTrader.labelPlural>
+  <FoxManTrader.labelMale>男商人</FoxManTrader.labelMale>
+  <FoxManTrader.labelMalePlural>男商人</FoxManTrader.labelMalePlural>
+  <FoxManTrader.labelFemale>女商人</FoxManTrader.labelFemale>
+  <FoxManTrader.labelFemalePlural>女商人</FoxManTrader.labelFemalePlural>
+
+  <FoxManArcher.label>弓箭手</FoxManArcher.label>
+  <FoxManArcher.labelPlural>弓箭手</FoxManArcher.labelPlural>
+  <FoxManArcher.labelMale>男弓箭手</FoxManArcher.labelMale>
+  <FoxManArcher.labelMalePlural>男弓箭手</FoxManArcher.labelMalePlural>
+  <FoxManArcher.labelFemale>女弓箭手</FoxManArcher.labelFemale>
+  <FoxManArcher.labelFemalePlural>女弓箭手</FoxManArcher.labelFemalePlural>
+
+  <FoxManChief.label>首领</FoxManChief.label>
+  <FoxManChief.labelPlural>首领</FoxManChief.labelPlural>
+  <FoxManChief.labelMale>男首领</FoxManChief.labelMale>
+  <FoxManChief.labelMalePlural>男首领</FoxManChief.labelMalePlural>
+  <FoxManChief.labelFemale>女首领</FoxManChief.labelFemale>
+  <FoxManChief.labelFemalePlural>女首领</FoxManChief.labelFemalePlural>
+
+
+</LanguageData>

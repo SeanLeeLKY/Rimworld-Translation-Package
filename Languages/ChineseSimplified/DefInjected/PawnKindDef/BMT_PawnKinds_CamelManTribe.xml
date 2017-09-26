@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CamelManWarrior.label>战士</CamelManWarrior.label>
+  <CamelManWarrior.labelPlural>战士</CamelManWarrior.labelPlural>
+  <CamelManWarrior.labelMale>男战士</CamelManWarrior.labelMale>
+  <CamelManWarrior.labelMalePlural>男战士</CamelManWarrior.labelMalePlural>
+  <CamelManWarrior.labelFemale>女战士</CamelManWarrior.labelFemale>
+  <CamelManWarrior.labelFemalePlural>女战士</CamelManWarrior.labelFemalePlural>
+
+  <CamelManTrader.label>商人</CamelManTrader.label>
+  <CamelManTrader.labelPlural>商人</CamelManTrader.labelPlural>
+  <CamelManTrader.labelMale>男商人</CamelManTrader.labelMale>
+  <CamelManTrader.labelMalePlural>男商人</CamelManTrader.labelMalePlural>
+  <CamelManTrader.labelFemale>女商人</CamelManTrader.labelFemale>
+  <CamelManTrader.labelFemalePlural>女商人</CamelManTrader.labelFemalePlural>
+
+  <CamelManArcher.label>弓箭手</CamelManArcher.label>
+  <CamelManArcher.labelPlural>弓箭手</CamelManArcher.labelPlural>
+  <CamelManArcher.labelMale>男弓箭手</CamelManArcher.labelMale>
+  <CamelManArcher.labelMalePlural>男弓箭手</CamelManArcher.labelMalePlural>
+  <CamelManArcher.labelFemale>女弓箭手</CamelManArcher.labelFemale>
+  <CamelManArcher.labelFemalePlural>女弓箭手</CamelManArcher.labelFemalePlural>
+
+  <CamelManChief.label>首领</CamelManChief.label>
+  <CamelManChief.labelPlural>首领</CamelManChief.labelPlural>
+  <CamelManChief.labelMale>男首领</CamelManChief.labelMale>
+  <CamelManChief.labelMalePlural>男首领</CamelManChief.labelMalePlural>
+  <CamelManChief.labelFemale>女首领</CamelManChief.labelFemale>
+  <CamelManChief.labelFemalePlural>女首领</CamelManChief.labelFemalePlural>
+
+
+</LanguageData>

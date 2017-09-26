@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WolfManWarrior.label>战士</WolfManWarrior.label>
+  <WolfManWarrior.labelPlural>战士</WolfManWarrior.labelPlural>
+  <WolfManWarrior.labelMale>男战士</WolfManWarrior.labelMale>
+  <WolfManWarrior.labelMalePlural>男战士</WolfManWarrior.labelMalePlural>
+  <WolfManWarrior.labelFemale>女战士</WolfManWarrior.labelFemale>
+  <WolfManWarrior.labelFemalePlural>女战士</WolfManWarrior.labelFemalePlural>
+
+  <WolfManTrader.label>商人</WolfManTrader.label>
+  <WolfManTrader.labelPlural>商人</WolfManTrader.labelPlural>
+  <WolfManTrader.labelMale>男商人</WolfManTrader.labelMale>
+  <WolfManTrader.labelMalePlural>男商人</WolfManTrader.labelMalePlural>
+  <WolfManTrader.labelFemale>女商人</WolfManTrader.labelFemale>
+  <WolfManTrader.labelFemalePlural>女商人</WolfManTrader.labelFemalePlural>
+
+  <WolfManArcher.label>弓箭手</WolfManArcher.label>
+  <WolfManArcher.labelPlural>弓箭手</WolfManArcher.labelPlural>
+  <WolfManArcher.labelMale>男弓箭手</WolfManArcher.labelMale>
+  <WolfManArcher.labelMalePlural>男弓箭手</WolfManArcher.labelMalePlural>
+  <WolfManArcher.labelFemale>女弓箭手</WolfManArcher.labelFemale>
+  <WolfManArcher.labelFemalePlural>女弓箭手</WolfManArcher.labelFemalePlural>
+
+  <WolfManChief.label>首领</WolfManChief.label>
+  <WolfManChief.labelPlural>首领</WolfManChief.labelPlural>
+  <WolfManChief.labelMale>男首领</WolfManChief.labelMale>
+  <WolfManChief.labelMalePlural>男首领</WolfManChief.labelMalePlural>
+  <WolfManChief.labelFemale>女首领</WolfManChief.labelFemale>
+  <WolfManChief.labelFemalePlural>女首领</WolfManChief.labelFemalePlural>
+
+
+</LanguageData>

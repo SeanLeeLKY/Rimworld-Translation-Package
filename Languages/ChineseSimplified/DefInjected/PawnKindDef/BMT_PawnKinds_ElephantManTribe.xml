@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ElephantManWarrior.label>战士</ElephantManWarrior.label>
+  <ElephantManWarrior.labelPlural>战士</ElephantManWarrior.labelPlural>
+  <ElephantManWarrior.labelMale>男战士</ElephantManWarrior.labelMale>
+  <ElephantManWarrior.labelMalePlural>男战士</ElephantManWarrior.labelMalePlural>
+  <ElephantManWarrior.labelFemale>女战士</ElephantManWarrior.labelFemale>
+  <ElephantManWarrior.labelFemalePlural>女战士</ElephantManWarrior.labelFemalePlural>
+
+  <ElephantManTrader.label>商人</ElephantManTrader.label>
+  <ElephantManTrader.labelPlural>商人</ElephantManTrader.labelPlural>
+  <ElephantManTrader.labelMale>男商人</ElephantManTrader.labelMale>
+  <ElephantManTrader.labelMalePlural>男商人</ElephantManTrader.labelMalePlural>
+  <ElephantManTrader.labelFemale>女商人</ElephantManTrader.labelFemale>
+  <ElephantManTrader.labelFemalePlural>女商人</ElephantManTrader.labelFemalePlural>
+
+  <ElephantManArcher.label>弓箭手</ElephantManArcher.label>
+  <ElephantManArcher.labelPlural>弓箭手</ElephantManArcher.labelPlural>
+  <ElephantManArcher.labelMale>男弓箭手</ElephantManArcher.labelMale>
+  <ElephantManArcher.labelMalePlural>男弓箭手</ElephantManArcher.labelMalePlural>
+  <ElephantManArcher.labelFemale>女弓箭手</ElephantManArcher.labelFemale>
+  <ElephantManArcher.labelFemalePlural>女弓箭手</ElephantManArcher.labelFemalePlural>
+
+  <ElephantManChief.label>首领</ElephantManChief.label>
+  <ElephantManChief.labelPlural>首领</ElephantManChief.labelPlural>
+  <ElephantManChief.labelMale>男首领</ElephantManChief.labelMale>
+  <ElephantManChief.labelMalePlural>男首领</ElephantManChief.labelMalePlural>
+  <ElephantManChief.labelFemale>女首领</ElephantManChief.labelFemale>
+  <ElephantManChief.labelFemalePlural>女首领</ElephantManChief.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LynxManWarrior.label>战士</LynxManWarrior.label>
+  <LynxManWarrior.labelPlural>战士</LynxManWarrior.labelPlural>
+  <LynxManWarrior.labelMale>男战士</LynxManWarrior.labelMale>
+  <LynxManWarrior.labelMalePlural>男战士</LynxManWarrior.labelMalePlural>
+  <LynxManWarrior.labelFemale>女战士</LynxManWarrior.labelFemale>
+  <LynxManWarrior.labelFemalePlural>女战士</LynxManWarrior.labelFemalePlural>
+
+  <LynxManTrader.label>商人</LynxManTrader.label>
+  <LynxManTrader.labelPlural>商人</LynxManTrader.labelPlural>
+  <LynxManTrader.labelMale>男商人</LynxManTrader.labelMale>
+  <LynxManTrader.labelMalePlural>男商人</LynxManTrader.labelMalePlural>
+  <LynxManTrader.labelFemale>女商人</LynxManTrader.labelFemale>
+  <LynxManTrader.labelFemalePlural>女商人</LynxManTrader.labelFemalePlural>
+
+  <LynxManArcher.label>弓箭手</LynxManArcher.label>
+  <LynxManArcher.labelPlural>弓箭手</LynxManArcher.labelPlural>
+  <LynxManArcher.labelMale>男弓箭手</LynxManArcher.labelMale>
+  <LynxManArcher.labelMalePlural>男弓箭手</LynxManArcher.labelMalePlural>
+  <LynxManArcher.labelFemale>女弓箭手</LynxManArcher.labelFemale>
+  <LynxManArcher.labelFemalePlural>女弓箭手</LynxManArcher.labelFemalePlural>
+
+  <LynxManChief.label>首领</LynxManChief.label>
+  <LynxManChief.labelPlural>首领</LynxManChief.labelPlural>
+  <LynxManChief.labelMale>男首领</LynxManChief.labelMale>
+  <LynxManChief.labelMalePlural>男首领</LynxManChief.labelMalePlural>
+  <LynxManChief.labelFemale>女首领</LynxManChief.labelFemale>
+  <LynxManChief.labelFemalePlural>女首领</LynxManChief.labelFemalePlural>
+
+
+</LanguageData>

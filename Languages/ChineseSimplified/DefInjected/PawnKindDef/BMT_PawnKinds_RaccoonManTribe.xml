@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RaccoonManWarrior.label>战士</RaccoonManWarrior.label>
+  <RaccoonManWarrior.labelPlural>战士</RaccoonManWarrior.labelPlural>
+  <RaccoonManWarrior.labelMale>男战士</RaccoonManWarrior.labelMale>
+  <RaccoonManWarrior.labelMalePlural>男战士</RaccoonManWarrior.labelMalePlural>
+  <RaccoonManWarrior.labelFemale>女战士</RaccoonManWarrior.labelFemale>
+  <RaccoonManWarrior.labelFemalePlural>女战士</RaccoonManWarrior.labelFemalePlural>
+
+  <RaccoonManTrader.label>商人</RaccoonManTrader.label>
+  <RaccoonManTrader.labelPlural>商人</RaccoonManTrader.labelPlural>
+  <RaccoonManTrader.labelMale>男商人</RaccoonManTrader.labelMale>
+  <RaccoonManTrader.labelMalePlural>男商人</RaccoonManTrader.labelMalePlural>
+  <RaccoonManTrader.labelFemale>女商人</RaccoonManTrader.labelFemale>
+  <RaccoonManTrader.labelFemalePlural>女商人</RaccoonManTrader.labelFemalePlural>
+
+  <RaccoonManArcher.label>弓箭手</RaccoonManArcher.label>
+  <RaccoonManArcher.labelPlural>弓箭手</RaccoonManArcher.labelPlural>
+  <RaccoonManArcher.labelMale>男弓箭手</RaccoonManArcher.labelMale>
+  <RaccoonManArcher.labelMalePlural>男弓箭手</RaccoonManArcher.labelMalePlural>
+  <RaccoonManArcher.labelFemale>女弓箭手</RaccoonManArcher.labelFemale>
+  <RaccoonManArcher.labelFemalePlural>女弓箭手</RaccoonManArcher.labelFemalePlural>
+
+  <RaccoonManChief.label>首领</RaccoonManChief.label>
+  <RaccoonManChief.labelPlural>首领</RaccoonManChief.labelPlural>
+  <RaccoonManChief.labelMale>男首领</RaccoonManChief.labelMale>
+  <RaccoonManChief.labelMalePlural>男首领</RaccoonManChief.labelMalePlural>
+  <RaccoonManChief.labelFemale>女首领</RaccoonManChief.labelFemale>
+  <RaccoonManChief.labelFemalePlural>女首领</RaccoonManChief.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GazelleManWarrior.label>战士</GazelleManWarrior.label>
+  <GazelleManWarrior.labelPlural>战士</GazelleManWarrior.labelPlural>
+  <GazelleManWarrior.labelMale>男战士</GazelleManWarrior.labelMale>
+  <GazelleManWarrior.labelMalePlural>男战士</GazelleManWarrior.labelMalePlural>
+  <GazelleManWarrior.labelFemale>女战士</GazelleManWarrior.labelFemale>
+  <GazelleManWarrior.labelFemalePlural>女战士</GazelleManWarrior.labelFemalePlural>
+
+  <GazelleManTrader.label>商人</GazelleManTrader.label>
+  <GazelleManTrader.labelPlural>商人</GazelleManTrader.labelPlural>
+  <GazelleManTrader.labelMale>男商人</GazelleManTrader.labelMale>
+  <GazelleManTrader.labelMalePlural>男商人</GazelleManTrader.labelMalePlural>
+  <GazelleManTrader.labelFemale>女商人</GazelleManTrader.labelFemale>
+  <GazelleManTrader.labelFemalePlural>女商人</GazelleManTrader.labelFemalePlural>
+
+  <GazelleManArcher.label>弓箭手</GazelleManArcher.label>
+  <GazelleManArcher.labelPlural>弓箭手</GazelleManArcher.labelPlural>
+  <GazelleManArcher.labelMale>男弓箭手</GazelleManArcher.labelMale>
+  <GazelleManArcher.labelMalePlural>男弓箭手</GazelleManArcher.labelMalePlural>
+  <GazelleManArcher.labelFemale>女弓箭手</GazelleManArcher.labelFemale>
+  <GazelleManArcher.labelFemalePlural>女弓箭手</GazelleManArcher.labelFemalePlural>
+
+  <GazelleManChief.label>首领</GazelleManChief.label>
+  <GazelleManChief.labelPlural>首领</GazelleManChief.labelPlural>
+  <GazelleManChief.labelMale>男首领</GazelleManChief.labelMale>
+  <GazelleManChief.labelMalePlural>男首领</GazelleManChief.labelMalePlural>
+  <GazelleManChief.labelFemale>女首领</GazelleManChief.labelFemale>
+  <GazelleManChief.labelFemalePlural>女首领</GazelleManChief.labelFemalePlural>
+
+
+</LanguageData>
