@@ -4,7 +4,7 @@
   <!-- Concepts taught through the learning readout, with no opportunity needed -->
 
   <Hospitality.label>款待</Hospitality.label>
-  <Hospitality.helpText>当一队访客到达你的殖民地的时候，他们会使用本地的娱乐设施，在特定的访客床铺上休息，并且还会在指定的区域购买物品。\n\n如果他们对本次的行程感到满意，他们所属派系与你的好感度将会得到提升。</Hospitality.helpText>
+  <Hospitality.helpText>当一群访客抵达，他们会使用你的娱乐设施，在访客用床上睡觉，并且会在允许的区域内购买东西。\n\n如果他们对这次拜访感到满意，就会提升你与他们势力的关系。</Hospitality.helpText>
 
 
 </LanguageData>
