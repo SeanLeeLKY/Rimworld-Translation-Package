@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GermanShepherd.label>德国牧羊犬</GermanShepherd.label>
+  <GermanShepherd.lifeStages.0.labelMale>德国牧羊犬幼崽</GermanShepherd.lifeStages.0.labelMale>
+  <GermanShepherd.lifeStages.0.labelFemale>德国牧羊犬幼崽</GermanShepherd.lifeStages.0.labelFemale>
+  <GermanShepherd.lifeStages.1.labelMale>幼年公德国牧羊犬</GermanShepherd.lifeStages.1.labelMale>
+  <GermanShepherd.lifeStages.1.labelFemale>幼年母德国牧羊犬</GermanShepherd.lifeStages.1.labelFemale>
+  <GermanShepherd.lifeStages.2.labelMale>公德国牧羊犬</GermanShepherd.lifeStages.2.labelMale>
+  <GermanShepherd.lifeStages.2.labelFemale>母德国牧羊犬</GermanShepherd.lifeStages.2.labelFemale>
+
+
+</LanguageData>

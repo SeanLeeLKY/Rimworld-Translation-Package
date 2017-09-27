@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookMealSimplePortableStove.label>烹饪简单的食物</CookMealSimplePortableStove.label>
+  <CookMealSimplePortableStove.description>用一种食材烹饪简单的饭菜。</CookMealSimplePortableStove.description>
+  <CookMealSimplePortableStove.jobString>正在烹饪简单的食物</CookMealSimplePortableStove.jobString>
+
+  <ButcherCorpseFleshSpot.label>屠宰动物</ButcherCorpseFleshSpot.label>
+  <ButcherCorpseFleshSpot.description>屠宰动物来获取它的肉。</ButcherCorpseFleshSpot.description>
+  <ButcherCorpseFleshSpot.jobString>正在屠宰</ButcherCorpseFleshSpot.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<CeilingLamp.label>吊灯</CeilingLamp.label>
+
+	<CeilingLamp.description>照亮一个区域的吊灯。</CeilingLamp.description>
+
+	<CeilingLamp_Red.label>吊灯（红）</CeilingLamp_Red.label>
+
+	<CeilingLamp_Red.description>用暗红色照亮区域的吊灯。</CeilingLamp_Red.description>
+
+	<CeilingLamp_Blue.label>吊灯（蓝）</CeilingLamp_Blue.label>
+
+	<CeilingLamp_Blue.description>用暗蓝色灯光照亮区域的吊灯。\n有一个使人平静的效果。</CeilingLamp_Blue.description>
+
+	<CeilingLamp_Green.label>吊灯（绿）</CeilingLamp_Green.label>
+
+	<CeilingLamp_Green.description>用暗绿色照亮区域的吊灯。</CeilingLamp_Green.description>
+
+	<CeilingLamp_Violet.label>吊灯（紫）</CeilingLamp_Violet.label>
+
+	<CeilingLamp_Violet.description>用紫色照亮区域的吊灯。</CeilingLamp_Violet.description>
+
+	<CeilingLamp_Yellow.label>吊灯（黄）</CeilingLamp_Yellow.label>
+
+	<CeilingLamp_Yellow.description>用黄色照亮区域的吊灯。</CeilingLamp_Yellow.description>
+
+	<CeilingLamp_Orange.label>吊灯（橙）</CeilingLamp_Orange.label>
+
+	<CeilingLamp_Orange.description>用橙色照亮区域的吊灯。</CeilingLamp_Orange.description>
+
+	<WallLamp.label>壁灯</WallLamp.label>
+
+	<WallLamp.description>放置在墙上的壁灯。比一般的灯产生更多的光。</WallLamp.description>
+
+	<OutdoorGroundLamp.label>室外地灯</OutdoorGroundLamp.label>
+
+	<OutdoorGroundLamp.description>放置在室外的灯。不需要外部能量运行。</OutdoorGroundLamp.description>
+
+</LanguageData>

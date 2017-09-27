@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <UnfinishedTent.label>未完成的帐篷</UnfinishedTent.label>
+
+  <DeployableTent.label>部署帐篷</DeployableTent.label>
+  <DeployableTent.description>一个帐篷</DeployableTent.description>
+  <DeployableTent.comps.1.useLabel>部署帐篷</DeployableTent.comps.1.useLabel>
+
+  <DeployableTentMedium.label>部署中型帐篷</DeployableTentMedium.label>
+  <DeployableTentMedium.description>一个中型帐篷</DeployableTentMedium.description>
+  <DeployableTentMedium.comps.1.useLabel>部署中型帐篷</DeployableTentMedium.comps.1.useLabel>
+
+  <DeployableTentBig.label>部署大型帐篷</DeployableTentBig.label>
+  <DeployableTentBig.description>一个大型帐篷，有三个房间</DeployableTentBig.description>
+  <DeployableTentBig.comps.1.useLabel>部署大型帐篷</DeployableTentBig.comps.1.useLabel>
+
+
+</LanguageData>

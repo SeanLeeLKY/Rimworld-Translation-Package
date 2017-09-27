@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<GlassworksResearch.label>GL：玻璃制作</GlassworksResearch.label>
+
+	<GlassworksResearch.description>制造透明的玻璃比看起来困难，但通过一些艰苦的工作你会找到正确的方法。</GlassworksResearch.description>
+
+	<ReinforcedGlassResearch.label>GL：钢化玻璃</ReinforcedGlassResearch.label>
+
+	<ReinforcedGlassResearch.description>玻璃是脆弱的，但通过正确的工具能使它变得更坚固。</ReinforcedGlassResearch.description>
+
+	<DecorativeGlassResearch.label>GL：装饰玻璃</DecorativeGlassResearch.label>
+
+	<DecorativeGlassResearch.description>玻璃不仅仅可用于窗户和灯。</DecorativeGlassResearch.description>
+
+</LanguageData>

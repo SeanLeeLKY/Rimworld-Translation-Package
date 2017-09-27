@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <BagBed.label>睡袋</BagBed.label>
+  <BagBed.description>在野外睡觉的睡袋，能让你的夜晚过得更舒适。</BagBed.description>
+  <BagBed_Blueprint.label>睡袋 (蓝图)</BagBed_Blueprint.label>
+  <BagBed_Blueprint_Install.label>睡袋 (蓝图)</BagBed_Blueprint_Install.label>
+  <BagBed_Frame.label>睡袋 (建造中)</BagBed_Frame.label>
+  <BagBed_Frame.description>在野外睡觉的睡袋，能让你的夜晚过得更舒适。</BagBed_Frame.description>
+  <TentDeployed.label>帐篷支架</TentDeployed.label>
+  <TentDeployed.description>支撑帐篷。</TentDeployed.description>
+  <TentDeployed.comps.0.useLabel>收拾帐篷。</TentDeployed.comps.0.useLabel>
+</LanguageData>

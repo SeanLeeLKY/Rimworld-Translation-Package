@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <LightningRod.label>避雷针</LightningRod.label>
+  <LightningRod.description>带有离子束发射器的避雷针，用于地图范围内的防雷击。\ n \ n需要电源，但在被击中一段时间后会断电。 可以被摧毁。\ n \ n这些针被许多Zeon Resistance代理人称为“剑侠”，由于这种结构看起来像一只剑伸入天空，也是Zeon最终坠毁在这个避雷针的怜悯之下的象征。</LightningRod.description>
+  <LightningRod_Blueprint.label>避雷针 （蓝图）</LightningRod_Blueprint.label>
+  <LightningRod_Frame.label>避雷针 （建造中）</LightningRod_Frame.label>
+  <LightningRod_Frame.description>带有离子束发射器的避雷针，用于地图范围内的防雷击。\ n \ n需要电源，但在被击中一段时间后会断电。 可以被摧毁。\ n \ n这些针被许多Zeon Resistance代理人称为“剑侠”，由于这种结构看起来像一只剑伸入天空，也是Zeon最终坠毁在这个避雷针的怜悯之下的象征。</LightningRod_Frame.description>
+
+
+</LanguageData>

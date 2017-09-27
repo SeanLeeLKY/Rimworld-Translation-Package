@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<MovingRailStraight.label>直線輸送帶</MovingRailStraight.label>
+	<MovingRailStraight.description>一個用來輸送物品的直線性輸送帶。同時也會供電給相連的輸送帶及週邊的電器。</MovingRailStraight.description>
+
+	<MovingRailLeft.label>左彎輸送帶</MovingRailLeft.label>
+	<MovingRailLeft.description>一個用來輸送物品的左彎輸送帶。同時也會供電給相連的輸送帶及週邊的電器。</MovingRailLeft.description>
+
+	<MovingRailRight.label>右彎輸送帶</MovingRailRight.label>
+	<MovingRailRight.description>一個用來輸送物品的右彎輸送帶。同時也會供電給相連的輸送帶及週邊的電器。</MovingRailRight.description>
+
+	<MovingRailWall.label>牆內輸送帶</MovingRailWall.label>
+	<MovingRailWall.description>一個用來取代牆壁可以在各個房間之間輸送物品的輸送帶，跟牆壁一樣脆弱，但可以隔絕溫度。同時也會供電給相連的輸送帶及週邊的電器。</MovingRailWall.description>
+
+	<MovingRailPusher.label>分類機</MovingRailPusher.label>
+	<MovingRailPusher.description>配備了先進的感測器，用來改變物品的路線，使物品可以在不用的輸送帶之間切換。同時也會供電給相連的輸送帶及週邊的電器。</MovingRailPusher.description>
+
+	<MovingRailPuller.label>撿貨機</MovingRailPuller.label>
+	<MovingRailPuller.description>撿貨機會將物品從儲存區取出。提取器另外配備了區域感測器，可以有條件的提取物品，直到選定的儲存區已經堆滿物回為止。</MovingRailPuller.description>
+
+</LanguageData>

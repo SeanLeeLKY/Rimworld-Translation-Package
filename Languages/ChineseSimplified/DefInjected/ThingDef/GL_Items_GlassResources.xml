@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Glass.label>玻璃</Glass.label>
+
+	<Glass.description>透明材料，尽管易碎，但颇受欢迎。</Glass.description>
+
+	<Glass.stuffProps.stuffAdjective>玻璃</Glass.stuffProps.stuffAdjective>
+
+	<ReinforcedGlass.label>钢化玻璃</ReinforcedGlass.label>
+
+	<ReinforcedGlass.description>比普通玻璃更坚固，但更难制作。</ReinforcedGlass.description>
+
+	<ReinforcedGlass.stuffProps.stuffAdjective>钢化玻璃</ReinforcedGlass.stuffProps.stuffAdjective>
+
+	<LargeCircularGlass.label>大型圆玻璃</LargeCircularGlass.label>
+
+	<LargeCircularGlass.description>为吊灯设计的大圆玻璃</LargeCircularGlass.description>
+
+	<LargeCircularGlass.stuffProps.stuffAdjective>圆玻璃</LargeCircularGlass.stuffProps.stuffAdjective>
+
+</LanguageData>

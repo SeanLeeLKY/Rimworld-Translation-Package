@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Warrior.label>战士</Warrior.label>
+
+	<Scout.label>斥候</Scout.label>
+
+	<Ranger.label>游骑兵</Ranger.label>
+
+	<Worker.label>工匠</Worker.label>
+
+	<Guard.label>守卫</Guard.label>
+
+	<Mind.label>坚强者</Mind.label>
+
+	<Knowledge.label>智者</Knowledge.label>
+
+	<Discovery.label>探索者</Discovery.label>
+
+	<Labour.label>劳动者</Labour.label>
+
+	<Haste.label>催促者</Haste.label>
+
+	<Summer.label>炎夏</Summer.label>
+
+	<Winter.label>凛冬</Winter.label>
+
+	<Defense.label>防卫</Defense.label>
+
+	<Success.label>成就</Success.label>
+
+	<Passion.label>激情</Passion.label>
+
+	<Blessing.label>祝福</Blessing.label>
+
+	<Diligence.label>勤勉</Diligence.label>
+
+	<Research.label>学究</Research.label>
+
+	<Fastwalk.label>快步</Fastwalk.label>
+
+	<Friendship.label>友谊</Friendship.label>
+
+	<Desert.label>沙漠</Desert.label>
+
+	<Tundra.label>冻原</Tundra.label>
+
+	<Protection.label>保护</Protection.label>
+
+	<Memories.label>记忆</Memories.label>
+
+	<Experiments.label>经验</Experiments.label>
+
+	<Everwork.label>全能</Everwork.label>
+
+	<Persuation.label>规劝</Persuation.label>
+
+	<Encounter.label>接触</Encounter.label>
+
+	<Momentum.label>契机</Momentum.label>
+
+	<Victory.label>胜利</Victory.label>
+
+	<Sight.label>锐目</Sight.label>
+
+	<Flame.label>火焰</Flame.label>
+
+	<Ice.label>寒冰</Ice.label>
+
+	<Stronghold.label>要塞</Stronghold.label>
+
+	<Omnipresence.label>无所不在</Omnipresence.label>
+
+	<Omnipotence.label>全知</Omnipotence.label>
+
+	<FatalBlow.label>致命一击</FatalBlow.label>
+
+	<Hypervision.label>聚星</Hypervision.label>
+
+	<Master.label>大师</Master.label>
+
+	<Alliance.label>同盟者</Alliance.label>
+
+	<Sunlight.label>阳光</Sunlight.label>
+
+	<Moonlight.label>月光</Moonlight.label>
+
+	<Titanguard.label>泰坦守卫</Titanguard.label>
+
+	<Infinity.label>无穷</Infinity.label>
+
+	<Possibility.label>希望</Possibility.label>
+
+	<Cycle.label>轮回</Cycle.label>
+
+	<Invulnerability.label>刀枪不入</Invulnerability.label>
+
+	<Warrior.labelShort>战士</Warrior.labelShort>
+
+	<Scout.labelShort>斥候</Scout.labelShort>
+
+	<Ranger.labelShort>游骑兵</Ranger.labelShort>
+
+	<Worker.labelShort>工匠</Worker.labelShort>
+
+	<Guard.labelShort>守卫</Guard.labelShort>
+
+	<Mind.labelShort>坚强者</Mind.labelShort>
+
+	<Knowledge.labelShort>智者</Knowledge.labelShort>
+
+	<Discovery.labelShort>探索者</Discovery.labelShort>
+
+	<Labour.labelShort>劳动者</Labour.labelShort>
+
+	<Haste.labelShort>催促者</Haste.labelShort>
+
+	<Summer.labelShort>炎夏</Summer.labelShort>
+
+	<Winter.labelShort>凛冬</Winter.labelShort>
+
+	<Defense.labelShort>防卫</Defense.labelShort>
+
+	<Success.labelShort>成就</Success.labelShort>
+
+	<Passion.labelShort>激情</Passion.labelShort>
+
+	<Blessing.labelShort>祝福</Blessing.labelShort>
+
+	<Diligence.labelShort>勤勉</Diligence.labelShort>
+
+	<Research.labelShort>学究</Research.labelShort>
+
+	<Fastwalk.labelShort>快步</Fastwalk.labelShort>
+
+	<Friendship.labelShort>友谊</Friendship.labelShort>
+
+	<Desert.labelShort>沙漠</Desert.labelShort>
+
+	<Tundra.labelShort>冻原</Tundra.labelShort>
+
+	<Protection.labelShort>保护</Protection.labelShort>
+
+	<Memories.labelShort>记忆</Memories.labelShort>
+
+	<Experiments.labelShort>经验</Experiments.labelShort>
+
+	<Everwork.labelShort>全能</Everwork.labelShort>
+
+	<Persuation.labelShort>规劝</Persuation.labelShort>
+
+	<Encounter.labelShort>接触</Encounter.labelShort>
+
+	<Momentum.labelShort>契机</Momentum.labelShort>
+
+	<Victory.labelShort>胜利</Victory.labelShort>
+
+	<Sight.labelShort>锐目</Sight.labelShort>
+
+	<Flame.labelShort>火焰</Flame.labelShort>
+
+	<Ice.labelShort>寒冰</Ice.labelShort>
+
+	<Stronghold.labelShort>要塞</Stronghold.labelShort>
+
+	<Omnipresence.labelShort>无所不在</Omnipresence.labelShort>
+
+	<Omnipotence.labelShort>全知</Omnipotence.labelShort>
+
+	<FatalBlow.labelShort>致命一击</FatalBlow.labelShort>
+
+	<Hypervision.labelShort>聚星</Hypervision.labelShort>
+
+	<Master.labelShort>大师</Master.labelShort>
+
+	<Alliance.labelShort>同盟者</Alliance.labelShort>
+
+	<Sunlight.labelShort>阳光</Sunlight.labelShort>
+
+	<Moonlight.labelShort>月光</Moonlight.labelShort>
+
+	<Titanguard.labelShort>泰坦守卫</Titanguard.labelShort>
+
+	<Infinity.labelShort>无穷</Infinity.labelShort>
+
+	<Possibility.labelShort>希望</Possibility.labelShort>
+
+	<Cycle.labelShort>轮回</Cycle.labelShort>
+
+	<Invulnerability.labelShort>刀枪不入</Invulnerability.labelShort>
+
+</LanguageData>

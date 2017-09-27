@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+	<!-- ITab_Infusion !-->
+	<TabInfusion>详述</TabInfusion>
+	<InfusionQuality>品质</InfusionQuality>
+
+	<!-- Notify messages !-->
+	<Infused>附魔！</Infused>
+	<InfusionMessage>你的物品， {0}， 被附魔了！</InfusionMessage>
+
+	<!-- {golden sword} {stuff} !-->
+	<InfusionOf>{0}  {1}</InfusionOf>
+
+	<!-- StatPart description !-->
+	<InfusionDescBonus>附魔属性</InfusionDescBonus>
+
+	<!-- Item description opener -->
+	<ThisApparel>这件衣服</ThisApparel>
+	<ThisWeapon>这件武器</ThisWeapon>
+
+	<!-- Infusion bonus description -->
+	<InfusionDescFrom>来自 {0}</InfusionDescFrom>
+
+	<!-- Infusion classes -->
+	<InfusionCommon>普通</InfusionCommon>
+	<InfusionUncommon>优秀</InfusionUncommon>
+	<InfusionRare>精良</InfusionRare>
+	<InfusionEpic>史诗</InfusionEpic>
+	<InfusionLegendary>传说</InfusionLegendary>
+	<InfusionArtifact>人造</InfusionArtifact>
+
+</LanguageData>

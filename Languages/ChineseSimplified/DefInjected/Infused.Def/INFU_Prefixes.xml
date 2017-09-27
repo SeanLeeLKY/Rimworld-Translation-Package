@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Light.label>轻质的</Light.label>
+
+	<LightApparel.label>轻型的</LightApparel.label>
+
+	<Heavy.label>加重的</Heavy.label>
+
+	<HeavyRange.label>重型的</HeavyRange.label>
+
+	<Small.label>小型的</Small.label>
+
+	<Big.label>大型的</Big.label>
+
+	<Long.label>加长的</Long.label>
+
+	<Thick.label>加厚的</Thick.label>
+
+	<Tough.label>厚重的</Tough.label>
+
+	<Studded.label>坚固的</Studded.label>
+
+	<Fast.label>迅捷的</Fast.label>
+
+	<Careful.label>细心的</Careful.label>
+
+	<CarefulRange.label>细心的</CarefulRange.label>
+
+	<Attractive.label>引人注目的</Attractive.label>
+
+	<Hard.label>坚硬的</Hard.label>
+
+	<Soft.label>柔软的</Soft.label>
+
+	<Mercenary.label>佣兵的</Mercenary.label>
+
+	<MercenaryRange.label>佣兵的</MercenaryRange.label>
+
+	<Spiked.label>尖锐的</Spiked.label>
+
+	<SawedOff.label>短管的</SawedOff.label>
+
+	<Warm.label>温暖的</Warm.label>
+
+	<Breezing.label>虚幻的</Breezing.label>
+
+	<Charming.label>迷人的</Charming.label>
+
+	<Siege.label>坚忍的</Siege.label>
+
+	<Precise.label>精确的</Precise.label>
+
+	<Clean.label>整洁的</Clean.label>
+
+	<Assaulting.label>迅猛的</Assaulting.label>
+
+	<AssaultingRange.label>迅猛的</AssaultingRange.label>
+
+	<Healing.label>医生的</Healing.label>
+
+	<Weaving.label>纺织工的</Weaving.label>
+
+	<Hunting.label>猎人的</Hunting.label>
+
+	<Cooking.label>厨师的</Cooking.label>
+
+	<Mining.label>矿工的</Mining.label>
+
+	<Establishing.label>建筑师的</Establishing.label>
+
+	<Farming.label>农民的</Farming.label>
+
+	<Stonevein.label>石脉的</Stonevein.label>
+
+	<Metalvein.label>铁脉的</Metalvein.label>
+
+	<Taming.label>驯兽师的</Taming.label>
+
+	<Professional.label>专业的</Professional.label>
+
+	<Unholy.label>渎圣的</Unholy.label>
+
+	<UnholyRange.label>渎圣的</UnholyRange.label>
+
+	<Blocking.label>格挡的</Blocking.label>
+
+	<Protecting.label>防护性的</Protecting.label>
+
+	<Swerving.label>偏折的</Swerving.label>
+
+	<Heating.label>灼热的</Heating.label>
+
+	<Chilling.label>冰冷的</Chilling.label>
+
+	<Coated.label>有涂层的</Coated.label>
+
+	<Homing.label>锁定的</Homing.label>
+
+	<HomingRange.label>跟踪的</HomingRange.label>
+
+	<Swift.label>敏捷的</Swift.label>
+
+	<SwiftApparel.label>灵巧的</SwiftApparel.label>
+
+	<Ancient.label>古老的</Ancient.label>
+
+	<AncientRange.label>远古的</AncientRange.label>
+
+	<AncientApparel.label>荒古的</AncientApparel.label>
+
+	<Controlling.label>领袖的</Controlling.label>
+
+	<Fel.label>邪能的</Fel.label>
+
+	<FelRange.label>邪术的</FelRange.label>
+
+	<Communicating.label>健谈的</Communicating.label>
+
+	<Absorbing.label>吸收性的</Absorbing.label>
+
+	<Burning.label>燃烧的</Burning.label>
+
+	<Freezing.label>冰冻的</Freezing.label>
+
+	<Modulating.label>可控温的</Modulating.label>
+
+	<Destructive.label>毁灭的</Destructive.label>
+
+	<Amplified.label>扩散的</Amplified.label>
+
+	<Scribing.label>速写的</Scribing.label>
+
+	<Everprotecting.label>全面防护的</Everprotecting.label>
+
+	<Deflecting.label>折光的</Deflecting.label>
+
+	<Gravitational.label>黑洞的</Gravitational.label>
+
+	<Fluctuating.label>韵律的</Fluctuating.label>
+
+	<Icy.label>冷冽的</Icy.label>
+
+	<Volcanic.label>火山的</Volcanic.label>
+
+	<Influential.label>权威的</Influential.label>
+
+	<Invulnerable.label>刀枪不入的</Invulnerable.label>
+
+	<Flexing.label>百折不挠的</Flexing.label>
+
+	<Hypercharged.label>狂热的</Hypercharged.label>
+
+	<Lightwalk.label>光速的</Lightwalk.label>
+	<Light.labelShort>轻质</Light.labelShort>
+
+	<LightApparel.labelShort>轻型</LightApparel.labelShort>
+
+	<Heavy.labelShort>加重</Heavy.labelShort>
+
+	<HeavyRange.labelShort>重型</HeavyRange.labelShort>
+
+	<Small.labelShort>小型</Small.labelShort>
+
+	<Big.labelShort>大型</Big.labelShort>
+
+	<Long.labelShort>加长</Long.labelShort>
+
+	<Thick.labelShort>加厚</Thick.labelShort>
+
+	<Tough.labelShort>厚重</Tough.labelShort>
+
+	<Studded.labelShort>坚固</Studded.labelShort>
+
+	<Fast.labelShort>迅捷</Fast.labelShort>
+
+	<Careful.labelShort>细心</Careful.labelShort>
+
+	<CarefulRange.labelShort>细心</CarefulRange.labelShort>
+
+	<Attractive.labelShort>引人注目</Attractive.labelShort>
+
+	<Hard.labelShort>坚硬</Hard.labelShort>
+
+	<Soft.labelShort>柔软</Soft.labelShort>
+
+	<Mercenary.labelShort>佣兵</Mercenary.labelShort>
+
+	<MercenaryRange.labelShort>佣兵</MercenaryRange.labelShort>
+
+	<Spiked.labelShort>尖锐</Spiked.labelShort>
+
+	<SawedOff.labelShort>短管</SawedOff.labelShort>
+
+	<Warm.labelShort>温暖</Warm.labelShort>
+
+	<Breezing.labelShort>虚幻</Breezing.labelShort>
+
+	<Charming.labelShort>迷人</Charming.labelShort>
+
+	<Siege.labelShort>坚忍</Siege.labelShort>
+
+	<Precise.labelShort>精确</Precise.labelShort>
+
+	<Clean.labelShort>整洁</Clean.labelShort>
+
+	<Assaulting.labelShort>迅猛</Assaulting.labelShort>
+
+	<AssaultingRange.labelShort>迅猛</AssaultingRange.labelShort>
+
+	<Healing.labelShort>医生</Healing.labelShort>
+
+	<Weaving.labelShort>纺织工</Weaving.labelShort>
+
+	<Hunting.labelShort>猎人</Hunting.labelShort>
+
+	<Cooking.labelShort>厨师</Cooking.labelShort>
+
+	<Mining.labelShort>矿工</Mining.labelShort>
+
+	<Establishing.labelShort>建筑师</Establishing.labelShort>
+
+	<Farming.labelShort>农民</Farming.labelShort>
+
+	<Stonevein.labelShort>石脉</Stonevein.labelShort>
+
+	<Metalvein.labelShort>铁脉</Metalvein.labelShort>
+
+	<Taming.labelShort>驯兽师</Taming.labelShort>
+
+	<Professional.labelShort>专业</Professional.labelShort>
+
+	<Unholy.labelShort>渎圣</Unholy.labelShort>
+
+	<UnholyRange.labelShort>渎圣</UnholyRange.labelShort>
+
+	<Blocking.labelShort>格挡</Blocking.labelShort>
+
+	<Protecting.labelShort>防护性</Protecting.labelShort>
+
+	<Swerving.labelShort>偏折</Swerving.labelShort>
+
+	<Heating.labelShort>灼热</Heating.labelShort>
+
+	<Chilling.labelShort>冰冷</Chilling.labelShort>
+
+	<Coated.labelShort>有涂层</Coated.labelShort>
+
+	<Homing.labelShort>锁定</Homing.labelShort>
+
+	<HomingRange.labelShort>跟踪</HomingRange.labelShort>
+
+	<Swift.labelShort>敏捷</Swift.labelShort>
+
+	<SwiftApparel.labelShort>灵巧</SwiftApparel.labelShort>
+
+	<Ancient.labelShort>古老</Ancient.labelShort>
+
+	<AncientRange.labelShort>远古</AncientRange.labelShort>
+
+	<AncientApparel.labelShort>荒古</AncientApparel.labelShort>
+
+	<Controlling.labelShort>领袖</Controlling.labelShort>
+
+	<Fel.labelShort>邪能</Fel.labelShort>
+
+	<FelRange.labelShort>邪术</FelRange.labelShort>
+
+	<Communicating.labelShort>健谈</Communicating.labelShort>
+
+	<Absorbing.labelShort>吸收性</Absorbing.labelShort>
+
+	<Burning.labelShort>燃烧</Burning.labelShort>
+
+	<Freezing.labelShort>冰冻</Freezing.labelShort>
+
+	<Modulating.labelShort>可控温</Modulating.labelShort>
+
+	<Destructive.labelShort>毁灭</Destructive.labelShort>
+
+	<Amplified.labelShort>扩散</Amplified.labelShort>
+
+	<Scribing.labelShort>速写</Scribing.labelShort>
+
+	<Everprotecting.labelShort>全面防护</Everprotecting.labelShort>
+
+	<Deflecting.labelShort>折光</Deflecting.labelShort>
+
+	<Gravitational.labelShort>黑洞</Gravitational.labelShort>
+
+	<Fluctuating.labelShort>韵律</Fluctuating.labelShort>
+
+	<Icy.labelShort>冷冽</Icy.labelShort>
+
+	<Volcanic.labelShort>火山</Volcanic.labelShort>
+
+	<Influential.labelShort>权威</Influential.labelShort>
+
+	<Invulnerable.labelShort>刀枪不入</Invulnerable.labelShort>
+
+	<Flexing.labelShort>百折不挠</Flexing.labelShort>
+
+	<Hypercharged.labelShort>狂热</Hypercharged.labelShort>
+
+	<Lightwalk.labelShort>光速</Lightwalk.labelShort>
+
+</LanguageData>

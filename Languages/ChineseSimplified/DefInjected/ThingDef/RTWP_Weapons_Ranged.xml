@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Compoundbow -->
+
+  <Arrow_Compound_rt.label>复合弓的箭矢</Arrow_Compound_rt.label>
+
+  <Bow_Compound_rt.label>复合弓</Bow_Compound_rt.label>
+  <Bow_Compound_rt.description>一款使用杠杆原理并通过滑轮达到省力效果的复合弓，因为使用了滑轮，复合弓比传统的反曲弓与长弓更省力、拉伸性更强。</Bow_Compound_rt.description>
+
+
+  <!-- Cross Bow -->
+
+  <Arrow_TCrossbow_rt.label>战术弩的箭矢</Arrow_TCrossbow_rt.label>
+
+  <Bow_TCrossbow_rt.label>战术弩</Bow_TCrossbow_rt.label>
+  <Bow_TCrossbow_rt.description>这种弩常用于比赛和狩猎，部分军队配备有这种弩。</Bow_TCrossbow_rt.description>
+
+
+</LanguageData>

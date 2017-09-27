@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DoBillsMakeGlass.verb>制作玻璃</DoBillsMakeGlass.verb>
+
+	<DoBillsMakeGlass.gerund>正在制作玻璃</DoBillsMakeGlass.gerund>
+
+	<DoBillsMakeLargeCircularGlass.verb>制作大圆玻璃</DoBillsMakeLargeCircularGlass.verb>
+
+	<DoBillsMakeLargeCircularGlass.gerund>正在制作大圆玻璃</DoBillsMakeLargeCircularGlass.gerund>
+
+	<DoBillsMakeReinforcedGlass.verb>制作钢化玻璃</DoBillsMakeReinforcedGlass.verb>
+
+	<DoBillsMakeReinforcedGlass.gerund>正在制作钢化玻璃</DoBillsMakeReinforcedGlass.gerund>
+
+	<DoBillsMakeMolotov.verb>制作莫洛托夫燃烧瓶</DoBillsMakeMolotov.verb>
+
+	<DoBillsMakeMolotov.gerund>正在制作莫洛托夫燃烧瓶</DoBillsMakeMolotov.gerund>
+
+</LanguageData>

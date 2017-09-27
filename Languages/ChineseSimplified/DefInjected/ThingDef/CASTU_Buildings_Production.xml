@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ButcheringSpot.label>屠宰点</ButcheringSpot.label>
+  <ButcheringSpot.description>用作宰杀动物的临时屠宰点。</ButcheringSpot.description>
+  <ButcheringSpot_Blueprint.label>屠宰点 (蓝图)</ButcheringSpot_Blueprint.label>
+  <ButcheringSpot_Frame.label>屠宰点 (建造中)</ButcheringSpot_Frame.label>
+  <ButcheringSpot_Frame.description>用作宰杀动物的临时屠宰点。</ButcheringSpot_Frame.description>
+</LanguageData>

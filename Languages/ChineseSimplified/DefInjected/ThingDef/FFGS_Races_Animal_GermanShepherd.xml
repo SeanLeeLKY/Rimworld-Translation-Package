@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GermanShepherd.label>德国牧羊犬</GermanShepherd.label>
+  <GermanShepherd.description>据说是最聪明和忠诚的狗。德国牧羊犬是一种具有良好的作战能力的工作犬品种。</GermanShepherd.description>
+  <GermanShepherd_Leather.label>牧羊犬皮</GermanShepherd_Leather.label>
+  <GermanShepherd_Leather.description>牧羊犬皮</GermanShepherd_Leather.description>
+  <GermanShepherd_Leather.stuffProps.stuffAdjective>牧羊犬皮</GermanShepherd_Leather.stuffProps.stuffAdjective>
+  <GermanShepherd_Meat.label>德国牧羊犬肉</GermanShepherd_Meat.label>
+  <GermanShepherd_Meat.description>德国牧羊犬肉</GermanShepherd_Meat.description>
+  <GermanShepherd_Corpse.label>德国牧羊犬尸体</GermanShepherd_Corpse.label>
+  <GermanShepherd_Corpse.description>德国牧羊犬尸体</GermanShepherd_Corpse.description>
+
+
+</LanguageData>

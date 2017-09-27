@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <PortableStove.label>便携火炉</PortableStove.label>
+  <PortableStove.description>烹饪饭菜并产生热量. 使用化学燃料作为燃料. 与所有热源一样, 它必须放在封闭的室内才能加热房间，不然你想加热地球？</PortableStove.description>
+  <PortableStove_Blueprint.label>便携火炉 (蓝图)</PortableStove_Blueprint.label>
+  <PortableStove_Blueprint_Install.label>便携火炉 (蓝图)</PortableStove_Blueprint_Install.label>
+  <PortableStove_Frame.label>便携火炉 (建造中)</PortableStove_Frame.label>
+  <PortableStove_Frame.description>烹饪饭菜并产生热量. 使用化学燃料作为燃料. 与所有热源一样, 它必须放在封闭的室内才能加热房间，不然你想加热地球？</PortableStove_Frame.description>
+</LanguageData>

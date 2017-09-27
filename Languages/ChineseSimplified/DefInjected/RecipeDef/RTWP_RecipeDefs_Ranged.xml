@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TCrossbowCraft.label>制作战术弩</TCrossbowCraft.label>
+  <TCrossbowCraft.description>制作战术弩。</TCrossbowCraft.description>
+  <TCrossbowCraft.jobString>正在制作战术弩。</TCrossbowCraft.jobString>
+
+  <CompoundbowCraft.label>制作复合弓</CompoundbowCraft.label>
+  <CompoundbowCraft.description>制作复合弓。</CompoundbowCraft.description>
+  <CompoundbowCraft.jobString>正在制作复合弓。</CompoundbowCraft.jobString>
+
+
+</LanguageData>
