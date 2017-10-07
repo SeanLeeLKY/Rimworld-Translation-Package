@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BuildingResearchTree>建立科技树</BuildingResearchTree>
+
+  <AllowsBuildingX>启用研究 {0}.</AllowsBuildingX>
+  <AllowsCraftingX>启用方剂 {0}.</AllowsCraftingX>
+  <AllowsSowingXinY>启用播种 {0} in {1}.</AllowsSowingXinY>
+
+  <LClickReplaceQueue>左键单击以替换队列</LClickReplaceQueue>
+  <LClickRemoveFromQueue>左键单击以从队列中删除</LClickRemoveFromQueue>
+  <SLClickAddToQueue>左键单击添加到队列</SLClickAddToQueue>
+  <RClickForDetails>右键点击查看详细信息</RClickForDetails>
+
+  <RequiresThis>需要</RequiresThis>
+  <LeadsTo>导致</LeadsTo>
+
+  <ResearchLevels>{0} 研究,你的技术水平是 {1}.</ResearchLevels>
+  <ResearchPenalty>它会花费 {0} 研究时间.</ResearchPenalty>
+
+  <RequireMissing>必要条件缺失!</RequireMissing>
+  <RequireBenchLabel>需要工作台:</RequireBenchLabel>
+  <RequireFacilityLabel>要求设施:</RequireFacilityLabel>
+
+  <ResearchPal>科技树</ResearchPal>
+  <ResearchPal.ShowNotificationPopup>隐藏通知窗口</ResearchPal.ShowNotificationPopup>
+  <ResearchPal.ShowNotificationTip>每当你完成研究,默认暂停并显示通知.</ResearchPal.ShowNotificationTip>
+  <ResearchPal.ShouldPauseOnOpen>暂停显示</ResearchPal.ShouldPauseOnOpen>
+  <ResearchPal.ShouldPauseOnOpenTip>每当显示研究标签时,游戏暂停.</ResearchPal.ShouldPauseOnOpenTip>
+
+</LanguageData>
