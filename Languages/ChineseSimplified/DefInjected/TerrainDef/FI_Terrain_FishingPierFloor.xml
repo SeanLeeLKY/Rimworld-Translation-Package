@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<FishingPierFloorDeepWater.label>渔业码头地板</FishingPierFloorDeepWater.label>
+  <FishingPierFloorDeepWater.label>渔业码头地板</FishingPierFloorDeepWater.label>
+  <FishingPierFloorShallowWater.label>渔业码头地板</FishingPierFloorShallowWater.label>
+  <FishingPierFloorMarsh.label>渔业码头地板</FishingPierFloorMarsh.label>
 
-	<FishingPierFloorShallowWater.label>渔业码头地板</FishingPierFloorShallowWater.label>
-
-	<FishingPierFloorMarsh.label>渔业码头地板</FishingPierFloorMarsh.label>
 
 </LanguageData>
