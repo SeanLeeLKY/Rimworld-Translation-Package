@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<Charged.label>电荷弹</Charged.label>
+
+	<Charged.description>这种带电粒子涂层的子弹能破坏装甲和组织.</Charged.description>
+
+	<ChargedAP.label>聚能电荷弹</ChargedAP.label>
+
+	<ChargedAP.description>将带电粒子聚集在弹头尖端来增强穿甲能力,代价是子弹速度下降.</ChargedAP.description>
+
+	<Ionized.label>离子电荷弹</Ionized.label>
+
+	<Ionized.description>打击机械生物的专用弹,击中时产生EMP,让电气设备短暂失效.</Ionized.description>
+
+	<IncendiaryFuel.label>燃烧剂</IncendiaryFuel.label>
+
+	<IncendiaryFuel.description>充满了易燃材料,受到冲击后会剧烈燃烧.</IncendiaryFuel.description>
+
+	<ThermobaricFuel.label>温压剂</ThermobaricFuel.label>
+
+	<ThermobaricFuel.description>充满了高爆炸性的气溶胶,会引起剧烈的爆炸并点燃周围的易燃材料.</ThermobaricFuel.description>
+
+	<FoamFuel.label>灭火剂</FoamFuel.label>
+
+	<FoamFuel.description>用于消防目的的特殊材料,填充了阻燃泡沫,可以大面积灭火.</FoamFuel.description>
+
+</LanguageData>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<AmmoSet_40Rimfire.label>.40 凸缘式底火子弹</AmmoSet_40Rimfire.label>
+
+	<AmmoSet_32ACP.label>.32 ACP</AmmoSet_32ACP.label>
+
+	<AmmoSet_762x25mmTokarev.label>7.62x25mm 托卡列夫</AmmoSet_762x25mmTokarev.label>
+
+	<AmmoSet_9x19mmPara.label>9x19mm 鲁格弹</AmmoSet_9x19mmPara.label>
+
+	<AmmoSet_45ACP.label>.45 ACP</AmmoSet_45ACP.label>
+
+	<AmmoSet_45Colt.label>.45 柯尔特手枪弹/.410 bore</AmmoSet_45Colt.label>
+
+</LanguageData>

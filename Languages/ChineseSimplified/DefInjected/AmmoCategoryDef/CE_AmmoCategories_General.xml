@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<FullMetalJacket.label>全金属被甲弹</FullMetalJacket.label>
+
+	<FullMetalJacket.description>用金属涂料包裹住软铅芯,保证了中等的穿透能力和停止作用.</FullMetalJacket.description>
+
+	<ArmorPiercing.label>穿甲弹</ArmorPiercing.label>
+
+	<ArmorPiercing.description>硬化钢穿透芯,具有强大的穿甲能力.</ArmorPiercing.description>
+
+	<HollowPoint.label>空尖弹</HollowPoint.label>
+
+	<HollowPoint.description>一种尖端镂空的子弹,击中目标会膨胀,增加损伤,然而会降低穿甲能力.</HollowPoint.description>
+
+	<Sabot.label>脱壳穿甲弹</Sabot.label>
+
+	<Sabot.description>一种发射后会脱落金属套环让弹芯获得更高速度的子弹,能大幅提升穿甲能力.</Sabot.description>
+
+	<IncendiaryAP.label>穿甲燃烧弹</IncendiaryAP.label>
+
+	<IncendiaryAP.description>击中目标后会燃烧并点燃目标.</IncendiaryAP.description>
+
+	<ExplosiveAP.label>高爆穿甲弹</ExplosiveAP.label>
+
+	<ExplosiveAP.description>击中后会爆炸的子弹,造成额外伤害.</ExplosiveAP.description>
+
+</LanguageData>

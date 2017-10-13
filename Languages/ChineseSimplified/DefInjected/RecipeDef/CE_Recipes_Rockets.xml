@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<MakeAmmo_RPG7Grenade_HEAT.label>制作 RPG-7 高爆反坦克榴弹 x5</MakeAmmo_RPG7Grenade_HEAT.label>
+
+	<MakeAmmo_RPG7Grenade_HEAT.description>制作 RPG-7 高爆反坦克榴弹 x5</MakeAmmo_RPG7Grenade_HEAT.description>
+
+	<MakeAmmo_RPG7Grenade_HEAT.jobString>正在制作 RPG-7 高爆反坦克榴弹。</MakeAmmo_RPG7Grenade_HEAT.jobString>
+
+	<MakeAmmo_RPG7Grenade_Thermobaric.label>制作 RPG-7 温压榴弹 x5</MakeAmmo_RPG7Grenade_Thermobaric.label>
+
+	<MakeAmmo_RPG7Grenade_Thermobaric.description>制作 RPG-7 温压榴弹 x5</MakeAmmo_RPG7Grenade_Thermobaric.description>
+
+	<MakeAmmo_RPG7Grenade_Thermobaric.jobString>正在制作 RPG-7 温压榴弹。</MakeAmmo_RPG7Grenade_Thermobaric.jobString>
+
+	<MakeAmmo_RPG7Grenade_Frag.label>制作 RPG-7 破片榴弹 x5</MakeAmmo_RPG7Grenade_Frag.label>
+
+	<MakeAmmo_RPG7Grenade_Frag.description>制作 RPG-7 破片榴弹 x5</MakeAmmo_RPG7Grenade_Frag.description>
+
+	<MakeAmmo_RPG7Grenade_Frag.jobString>正在制作 RPG-7 破片榴弹。</MakeAmmo_RPG7Grenade_Frag.jobString>
+
+	<MakeAmmo_M72LAW_HEAT.label>制作 M72 LAW 高爆榴弹 x5</MakeAmmo_M72LAW_HEAT.label>
+	<MakeAmmo_M72LAW_HEAT.description>制作 5 M72 LAW 高爆榴弹.</MakeAmmo_M72LAW_HEAT.description>
+	<MakeAmmo_M72LAW_HEAT.jobstring>正在制作 M72 LAW 高爆榴弹.</MakeAmmo_M72LAW_HEAT.jobstring>
+
+	<MakeAmmo_M72LAW_Thermobaric.label>制作 M72 LAW 温压榴弹 x5</MakeAmmo_M72LAW_Thermobaric.label>
+	<MakeAmmo_M72LAW_Thermobaric.description>制作 5 M72 LAW 温压榴弹.</MakeAmmo_M72LAW_Thermobaric.description>
+	<MakeAmmo_M72LAW_Thermobaric.jobstring>正在制作 M72 LAW 温压榴弹.</MakeAmmo_M72LAW_Thermobaric.jobstring>
+
+	<MakeAmmo_M72LAW_Frag.label>制作 M72 LAW 破片榴弹 x5</MakeAmmo_M72LAW_Frag.label>
+	<MakeAmmo_M72LAW_Frag.description>制作 5 M72 LAW 破片榴弹.</MakeAmmo_M72LAW_Frag.description>
+	<MakeAmmo_M72LAW_Frag.jobstring>正在制作 M72 LAW 破片榴弹.</MakeAmmo_M72LAW_Frag.jobstring>
+
+	<MakeAmmo_FGMJ_HEAT.label>制作 AT 导弹 x5</MakeAmmo_FGMJ_HEAT.label>
+	<MakeAmmo_FGMJ_HEAT.description>制作 5 AT 导弹 round.</MakeAmmo_FGMJ_HEAT.description>
+	<MakeAmmo_FGMJ_HEAT.jobstring>正在制作 AT 导弹 round.</MakeAmmo_FGMJ_HEAT.jobstring>
+
+	<MakeAmmo_FGMJ_Thermobaric.label>制作 AT 温压导弹 x5</MakeAmmo_FGMJ_Thermobaric.label>
+	<MakeAmmo_FGMJ_Thermobaric.description>制作 5 make AT 温压导弹.</MakeAmmo_FGMJ_Thermobaric.description>
+	<MakeAmmo_FGMJ_Thermobaric.jobstring>正在制作 make AT 温压导弹.</MakeAmmo_FGMJ_Thermobaric.jobstring>
+
+	<MakeAmmo_FGMJ_Frag.label>制作 AT 破片导弹 x5</MakeAmmo_FGMJ_Frag.label>
+	<MakeAmmo_FGMJ_Frag.description>制作 5 AT 破片导弹.</MakeAmmo_FGMJ_Frag.description>
+	<MakeAmmo_FGMJ_Frag.jobstring>正在制作 AT 破片导弹.</MakeAmmo_FGMJ_Frag.jobstring>
+
+	<MakeAmmo_130mmRocketMissile.label>制作 130mm 火箭弹 x2</MakeAmmo_130mmRocketMissile.label>
+	<MakeAmmo_130mmRocketMissile.description>制作 2 130mm 火箭弹.</MakeAmmo_130mmRocketMissile.description>
+	<MakeAmmo_130mmRocketMissile.jobstring>正在制作 130mm 火箭弹.</MakeAmmo_130mmRocketMissile.jobstring>
+
+</LanguageData>
