@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MedicalTab>医疗信息</MedicalTab>
+
+  <!-- sources -->
+  <Colonists>殖民者</Colonists>
+  <Animals>动物</Animals>
+  <Prisoners>囚犯</Prisoners>
+  <Visitors>访客</Visitors>
+  <Hostiles>敌人</Hostiles>
+
+  <!-- x-click -->
+  <MedicalTab.Shift>shift</MedicalTab.Shift>
+  <MedicalTab.Alt>alt</MedicalTab.Alt>
+  <MedicalTab.Ctrl>ctrl</MedicalTab.Ctrl>
+  <MedicalTab.Left>left</MedicalTab.Left>
+  <MedicalTab.Right>right</MedicalTab.Right>
+
+  <MedicalTab.XClickToY>{0} 点击: {1}</MedicalTab.XClickToY>
+
+  <!-- medical care -->
+  <MedicalTab.MassAssignMedicalCare>医疗等级分配</MedicalTab.MassAssignMedicalCare>
+  <MedicalTab.SetDefaultMedicalCare>设置默认医疗护理</MedicalTab.SetDefaultMedicalCare>
+
+  <!-- self-tend -->
+  <MedicalTab.PawnIsIncapableOfX>{0}不能做 {1}</MedicalTab.PawnIsIncapableOfX>
+  <MedicalTab.PawnIsNotAX>{0} 不是 {1}</MedicalTab.PawnIsNotAX>
+  <MedicalTab.ToggleSelfTend>切换自我处理: {0}</MedicalTab.ToggleSelfTend>
+
+  <!-- surgeries -->
+  <MedicalTab.Reduce>减少</MedicalTab.Reduce>
+  <MedicalTab.Increase>增加</MedicalTab.Increase>
+  <MedicalTab.ShowSurgeryOptionsThat>显示流程{0} {1}</MedicalTab.ShowSurgeryOptionsThat>
+  <MedicalTab.ScheduledProcedures>预定程序：</MedicalTab.ScheduledProcedures>
+
+  <!-- settings -->
+  <MedicalTab.SuggestDrugs>建议使用药物</MedicalTab.SuggestDrugs>
+  <MedicalTab.SuggestDrugsTip>药物是否应该列在建议的医疗程序清单上?</MedicalTab.SuggestDrugsTip>
+  <MedicalTab.ShowAllHostiles>显示所有敌人</MedicalTab.ShowAllHostiles>
+  <MedicalTab.ShowAllHostilesTip>默认设置下，只有被击倒的“敌人”才会出现在这个面板上。这个选项能够让所有“敌人”显示在面板上。（也就是所有可见的敌人）</MedicalTab.ShowAllHostilesTip>
+
+
+</LanguageData>
