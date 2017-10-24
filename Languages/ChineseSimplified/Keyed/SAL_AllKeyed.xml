@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <AdjustDirection_Output>调整输出方向</AdjustDirection_Output>
+  <AdjustDirection_Desc>点击顺时针旋转。目前的方向是: {0}</AdjustDirection_Desc>
+  <SALToggleForbidden>切换允许/禁止</SALToggleForbidden>
+  <SALToggleForbidden_Desc>允许/禁止自动装配系统使用。</SALToggleForbidden_Desc>
+  <SALCancelBills>取消工作单</SALCancelBills>
+  <SALCancelBills_Desc>点击使S.A.L.自动装配系统丢弃物品并取消工作。</SALCancelBills_Desc>
+  <SALInspect_CurrentConfig>当前配置：输出: {0}</SALInspect_CurrentConfig>
+  <SALInspect_WorkLeft>离开工作: {0}</SALInspect_WorkLeft>
+  <SALInspect_PowerOff>电源关闭</SALInspect_PowerOff>
+  <SALInspect_ResourcesNeeded>资源: </SALInspect_ResourcesNeeded>
+  <SAL_North>北</SAL_North>
+  <SAL_South>南</SAL_South>
+  <SAL_East>东</SAL_East>
+  <SAL_West>西</SAL_West>
+  <SAL_InvalidDirection>无效</SAL_InvalidDirection>
+  <SAL_Name>一个S.A.L.制作者</SAL_Name><!-- (Some building) is reserved by "SAL_Name".Translate() -->
+  <SmartHopper_SetTargetAmount>设定目标数值</SmartHopper_SetTargetAmount>
+  <SmartHopper_Limit>当前项目限制: {0}</SmartHopper_Limit>
+  <SALInspect_PlacementQueue>配制产品等待放置: {0}</SALInspect_PlacementQueue>
+  <SALAssignTimeTable>编辑活动时间</SALAssignTimeTable>
+  <SALAssignTimeTable_Desc>打开时间表界面。左键单击一个单元格设置为工作，右键单击一个单元格设置为休眠。</SALAssignTimeTable_Desc>
+
+  <!--Letter tooltips-->
+  <SALInformation_CoreDriller>信息:S.A.L.+核心钻机</SALInformation_CoreDriller>
+  <SALInformation_CoreDriller_Desc>这些设置似乎表明，核心钻机的修复程序目前已关闭。关闭时，S.A.L. 机器将无法与它们进行交互。要打开它，请转到选项 - > Mod设置。\n注意: 这条消息只会在每次开始游戏时发送。</SALInformation_CoreDriller_Desc>
+
+  <!--Settings translations-->
+  <SALSettings_CoreDrillerFix>修复TheUbie的核心钻机的交互单元格</SALSettings_CoreDrillerFix>
+  <SALSettings_CoreDrillerFix_Desc>(兼容性补丁) 修复S.A.L.的相互作用单元。 以便他们可以在核心钻机前工作。</SALSettings_CoreDrillerFix_Desc>
+
+</LanguageData>

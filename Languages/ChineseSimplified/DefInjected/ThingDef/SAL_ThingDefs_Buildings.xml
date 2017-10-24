@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 1: General -->
+
+  <AutoCrafterSimple.label>自动装配系统MK-1</AutoCrafterSimple.label>
+  <AutoCrafterSimple.description>第一个版本的自动装配器，能够以5级的技能和速度进行制作。 将其放在工作台的相互作用点上，箭头朝向工作台。 自动装配器也可以做艺术，但它的艺术数据库非常有限，将无法生产杰作。</AutoCrafterSimple.description>
+  <AutoCrafterSimple_Blueprint.label>自动装配系统MK-1(蓝图)</AutoCrafterSimple_Blueprint.label>
+  <AutoCrafterSimple_Frame.label>自动装配系统MK-1(建造中)</AutoCrafterSimple_Frame.label>
+  <AutoCrafterSimple_Frame.description>第一个版本的自动装配器，能够以5级的技能和速度进行制作。 将其放在工作台的相互作用点上，箭头朝向工作台。 自动装配器也可以做艺术，但它的艺术数据库非常有限，将无法生产杰作。</AutoCrafterSimple_Frame.description>
+
+
+  <!-- Tier 2: General -->
+
+  <AutoCrafter.label>自动装配系统MK-2</AutoCrafter.label>
+  <AutoCrafter.description>自动装配系统是S.A.L.的一个支柱，它是一个能够自主制作食谱的小而强大的建造中心，有着12级手工。</AutoCrafter.description>
+  <AutoCrafter_Blueprint.label>自动装配系统MK-2(蓝图)</AutoCrafter_Blueprint.label>
+  <AutoCrafter_Frame.label>自动装配系统MK-2 建造中)</AutoCrafter_Frame.label>
+  <AutoCrafter_Frame.description>自动装配工是S.A.L.的一个支柱，它是一个能够自主制作食谱的小而强大的建造中心，有着12级手工。</AutoCrafter_Frame.description>
+
+
+  <!-- Cooking -->
+
+  <AutoCooker.label>自动烹饪系统</AutoCooker.label>
+  <AutoCooker.description>虽然自动 装配系统的烹饪能够达到一个体面的水平，但自动烹饪系统的食品生产速度更快，更准确，能够达到12级标准。</AutoCooker.description>
+  <AutoCooker_Blueprint.label>自动烹饪系统(蓝图)</AutoCooker_Blueprint.label>
+  <AutoCooker_Frame.label>自动烹饪系统(建造中)</AutoCooker_Frame.label>
+  <AutoCooker_Frame.description>虽然自动 装配系统的烹饪能够达到一个体面的水平，但自动烹饪系统的食品生产速度更快，更准确，能够达到12级标准。</AutoCooker_Frame.description>
+
+
+  <!-- Art -->
+
+  <TheArtMachine.label>艺术系统</TheArtMachine.label>
+  <TheArtMachine.description>像水泵一样泵出水，拥有8级艺术。</TheArtMachine.description>
+  <TheArtMachine_Blueprint.label>艺术系统(蓝图)</TheArtMachine_Blueprint.label>
+  <TheArtMachine_Frame.label>艺术系统(建造中)</TheArtMachine_Frame.label>
+  <TheArtMachine_Frame.description>像水泵一样泵出水，拥有8级艺术。</TheArtMachine_Frame.description>
+
+  <TheArtMaster.label>高级艺术系统</TheArtMaster.label>
+  <TheArtMaster.description>泵出的艺术像一座凶猛的火山爆发出熔岩，拥有18级艺术。</TheArtMaster.description>
+  <TheArtMaster_Blueprint.label>高级艺术系统(蓝图)</TheArtMaster_Blueprint.label>
+  <TheArtMaster_Frame.label>高级艺术系统(建造中)</TheArtMaster_Frame.label>
+  <TheArtMaster_Frame.description>泵出的艺术像一座凶猛的火山爆发出熔岩，拥有18级艺术。</TheArtMaster_Frame.description>
+
+
+  <!-- Overclocked -->
+
+  <OverclockedAutoAssembler.label>超频自动装配系统</OverclockedAutoAssembler.label>
+  <OverclockedAutoAssembler.description>结合闪耀世界的超频科技，以1级的能力工作，但是效果非常显著。</OverclockedAutoAssembler.description>
+  <OverclockedAutoAssembler_Blueprint.label>超频自动装配系统(蓝图)</OverclockedAutoAssembler_Blueprint.label>
+  <OverclockedAutoAssembler_Frame.label>超频自动装配系统(建造中)</OverclockedAutoAssembler_Frame.label>
+  <OverclockedAutoAssembler_Frame.description>结合闪耀世界的超频科技，以1级的能力工作，但是效果非常显著。</OverclockedAutoAssembler_Frame.description>
+
+
+  <!-- Smart hopper -->
+
+  <SAL_SmartHopper.label>智能进料口</SAL_SmartHopper.label>
+  <SAL_SmartHopper.description>一个可以从附近库存中取出物品的进料口，可以编程取一定量的一个物品。 它有一个5W的范围。不幸的是，它不能作为营养膏膏分配器的进料口。</SAL_SmartHopper.description>
+  <SAL_SmartHopper_Blueprint.label>智能漏斗(蓝图)</SAL_SmartHopper_Blueprint.label>
+  <SAL_SmartHopper_Frame.label>智能漏斗(建造中)</SAL_SmartHopper_Frame.label>
+  <SAL_SmartHopper_Frame.description>一个可以从附近库存中取出物品的进料口，可以编程取一定量的一个物品。 它有一个5W的范围。不幸的是，它不能作为营养膏膏分配器的进料口。</SAL_SmartHopper_Frame.description>
+
+
+</LanguageData>

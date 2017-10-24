@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AutomationBasics.label>自动装配基础知识</AutomationBasics.label>
+  <AutomationBasics.description>学习许多有关于自动装配的基础和机制，让你的殖民地通往工业时代！</AutomationBasics.description>
+
+
+  <!-- General -->
+
+  <AutonomousCraftingI.label>自动装配制作技术I</AutonomousCraftingI.label>
+  <AutonomousCraftingI.description>开始学习如何编程才能让自动装配系统熟练的装配物品</AutonomousCraftingI.description>
+
+  <AutonomousCraftingII.label>自动装配制作技术II</AutonomousCraftingII.label>
+  <AutonomousCraftingII.description>开始学习如何编程才能让自动装配系统能够更快，更好，更准确。</AutonomousCraftingII.description>
+
+  <SALSpecialisation.label>S.A.L.专业化</SALSpecialisation.label>
+  <SALSpecialisation.description>开始学习专业化，让不同的系统有专有的装配工作。</SALSpecialisation.description>
+
+
+  <!-- Specialised -->
+
+  <ArtCraftingI.label>艺术I</ArtCraftingI.label>
+  <ArtCraftingI.description>开始学习如何让系统连接到网络并创建合适的艺术。</ArtCraftingI.description>
+
+  <ArtCraftingII.label>艺术II</ArtCraftingII.label>
+  <ArtCraftingII.description>结合闪耀世界技术，让你的装配系统的神经网络反应更加迅速，提高艺术的质量！</ArtCraftingII.description>
+
+  <AutonomousCookingI.label>自动烹饪系统</AutonomousCookingI.label>
+  <AutonomousCookingI.description>学习如何给自动装配系统足够的灵活性和精确度度，以让它们成为厨师。</AutonomousCookingI.description>
+
+  <AutonomousOverclockingI.label>自动烹饪系统I</AutonomousOverclockingI.label>
+  <AutonomousOverclockingI.description>S.A.L. 机器往往工作太慢，重复任务，质量无关紧要。 学习如何以质量为代价来加快速度。</AutonomousOverclockingI.description>
+
+
+</LanguageData>
