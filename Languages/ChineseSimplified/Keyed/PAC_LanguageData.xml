@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PAC.IncapableOf>讨厌的工作类型</PAC.IncapableOf>
+  <PAC.CannotDoThisWork>{0}讨厌做这种工作。</PAC.CannotDoThisWork>
+
+  <PAC.CannotPrioritizeWorkGiverDisabled>无法执行 (无暴力行为的殖民者没有分配武器)</PAC.CannotPrioritizeWorkGiverDisabled>
+  <PAC.CannotPrioritizeNotAssignedToWorkType>无法执行 (殖民者讨厌切没有分配给{0})</PAC.CannotPrioritizeNotAssignedToWorkType>
+  <PAC.IsIncapableOfViolenceLower>{0}是无暴力行为的，没有分配武器</PAC.IsIncapableOfViolenceLower>
+
+  <PAC.BadWorkAssignment.Label>糟糕的工作分配</PAC.BadWorkAssignment.Label>
+  <PAC.BadWorkAssignment.Explanation>至少有一个殖民者被分配到一个讨厌的工作类型。 在短期内，这可能不是问题，但随着时间的推移，可能会导致极度的不快。</PAC.BadWorkAssignment.Explanation>
+
+  <PAC.AssignedAWeapon.Label>无暴力行为的殖民者被分配了一个武器</PAC.AssignedAWeapon.Label>
+  <PAC.AssignedAWeapon.Explanation>一个憎恶暴力的殖民者被分配了武器。 在短期内，这可能不是问题，但随着时间的推移，可能会导致极度的不快。</PAC.AssignedAWeapon.Explanation>
+
+</LanguageData>

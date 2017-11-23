@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AssignedToArt.label>分配艺术工作</AssignedToArt.label>
+  <AssignedToArt.stages.0.label>0 小时</AssignedToArt.stages.0.label>
+  <AssignedToArt.stages.1.label>6 小时</AssignedToArt.stages.1.label>
+  <AssignedToArt.stages.2.label>12 小时</AssignedToArt.stages.2.label>
+  <AssignedToArt.stages.3.label>24 小时</AssignedToArt.stages.3.label>
+  <AssignedToArt.stages.4.label>48 小时</AssignedToArt.stages.4.label>
+
+  <AssignedToCleaning.label>分配清洁工作</AssignedToCleaning.label>
+  <AssignedToCleaning.stages.0.label>0 小时</AssignedToCleaning.stages.0.label>
+  <AssignedToCleaning.stages.1.label>6 小时</AssignedToCleaning.stages.1.label>
+  <AssignedToCleaning.stages.2.label>12 小时</AssignedToCleaning.stages.2.label>
+  <AssignedToCleaning.stages.3.label>24 小时</AssignedToCleaning.stages.3.label>
+  <AssignedToCleaning.stages.4.label>48 小时</AssignedToCleaning.stages.4.label>
+
+  <AssignedToConstruction.label>分配建造工作</AssignedToConstruction.label>
+  <AssignedToConstruction.stages.0.label>0 小时</AssignedToConstruction.stages.0.label>
+  <AssignedToConstruction.stages.1.label>6 小时</AssignedToConstruction.stages.1.label>
+  <AssignedToConstruction.stages.2.label>12 小时</AssignedToConstruction.stages.2.label>
+  <AssignedToConstruction.stages.3.label>24 小时</AssignedToConstruction.stages.3.label>
+  <AssignedToConstruction.stages.4.label>48 小时</AssignedToConstruction.stages.4.label>
+
+  <AssignedToCooking.label>分配烹饪工作</AssignedToCooking.label>
+  <AssignedToCooking.stages.0.label>0 小时</AssignedToCooking.stages.0.label>
+  <AssignedToCooking.stages.1.label>6 小时</AssignedToCooking.stages.1.label>
+  <AssignedToCooking.stages.2.label>12 小时</AssignedToCooking.stages.2.label>
+  <AssignedToCooking.stages.3.label>24 小时</AssignedToCooking.stages.3.label>
+  <AssignedToCooking.stages.4.label>48 小时</AssignedToCooking.stages.4.label>
+
+  <AssignedToCrafting.label>分配制作工作</AssignedToCrafting.label>
+  <AssignedToCrafting.stages.0.label>0 小时</AssignedToCrafting.stages.0.label>
+  <AssignedToCrafting.stages.1.label>6 小时</AssignedToCrafting.stages.1.label>
+  <AssignedToCrafting.stages.2.label>12 小时</AssignedToCrafting.stages.2.label>
+  <AssignedToCrafting.stages.3.label>24 小时</AssignedToCrafting.stages.3.label>
+  <AssignedToCrafting.stages.4.label>48 小时</AssignedToCrafting.stages.4.label>
+
+  <AssignedToDoctor.label>分配医生工作</AssignedToDoctor.label>
+  <AssignedToDoctor.stages.0.label>0 小时</AssignedToDoctor.stages.0.label>
+  <AssignedToDoctor.stages.1.label>6 小时</AssignedToDoctor.stages.1.label>
+  <AssignedToDoctor.stages.2.label>12 小时</AssignedToDoctor.stages.2.label>
+  <AssignedToDoctor.stages.3.label>24 小时</AssignedToDoctor.stages.3.label>
+  <AssignedToDoctor.stages.4.label>48 小时</AssignedToDoctor.stages.4.label>
+
+  <AssignedToFirefighter.label>分配灭火工作</AssignedToFirefighter.label>
+  <AssignedToFirefighter.stages.0.label>0 小时</AssignedToFirefighter.stages.0.label>
+  <AssignedToFirefighter.stages.1.label>6 小时</AssignedToFirefighter.stages.1.label>
+  <AssignedToFirefighter.stages.2.label>12 小时</AssignedToFirefighter.stages.2.label>
+  <AssignedToFirefighter.stages.3.label>24 小时</AssignedToFirefighter.stages.3.label>
+  <AssignedToFirefighter.stages.4.label>48 小时</AssignedToFirefighter.stages.4.label>
+
+  <AssignedToGrowing.label>分配种植工作</AssignedToGrowing.label>
+  <AssignedToGrowing.stages.0.label>0 小时</AssignedToGrowing.stages.0.label>
+  <AssignedToGrowing.stages.1.label>6 小时</AssignedToGrowing.stages.1.label>
+  <AssignedToGrowing.stages.2.label>12 小时</AssignedToGrowing.stages.2.label>
+  <AssignedToGrowing.stages.3.label>24 小时</AssignedToGrowing.stages.3.label>
+  <AssignedToGrowing.stages.4.label>48 小时</AssignedToGrowing.stages.4.label>
+
+  <AssignedToHandling.label>分配驯兽工作</AssignedToHandling.label>
+  <AssignedToHandling.stages.0.label>0 小时</AssignedToHandling.stages.0.label>
+  <AssignedToHandling.stages.1.label>6 小时</AssignedToHandling.stages.1.label>
+  <AssignedToHandling.stages.2.label>12 小时</AssignedToHandling.stages.2.label>
+  <AssignedToHandling.stages.3.label>24 小时</AssignedToHandling.stages.3.label>
+  <AssignedToHandling.stages.4.label>48 小时</AssignedToHandling.stages.4.label>
+
+  <AssignedToHauling.label>分配搬运工作</AssignedToHauling.label>
+  <AssignedToHauling.stages.0.label>0 小时</AssignedToHauling.stages.0.label>
+  <AssignedToHauling.stages.1.label>6 小时</AssignedToHauling.stages.1.label>
+  <AssignedToHauling.stages.2.label>12 小时</AssignedToHauling.stages.2.label>
+  <AssignedToHauling.stages.3.label>24 小时</AssignedToHauling.stages.3.label>
+  <AssignedToHauling.stages.4.label>48 小时</AssignedToHauling.stages.4.label>
+
+  <AssignedToHunting.label>分配狩猎工作</AssignedToHunting.label>
+  <AssignedToHunting.stages.0.label>0 小时</AssignedToHunting.stages.0.label>
+  <AssignedToHunting.stages.1.label>6 小时</AssignedToHunting.stages.1.label>
+  <AssignedToHunting.stages.2.label>12 小时</AssignedToHunting.stages.2.label>
+  <AssignedToHunting.stages.3.label>24 小时</AssignedToHunting.stages.3.label>
+  <AssignedToHunting.stages.4.label>48 小时</AssignedToHunting.stages.4.label>
+
+  <AssignedToMining.label>分配采矿工作</AssignedToMining.label>
+  <AssignedToMining.stages.0.label>0 小时</AssignedToMining.stages.0.label>
+  <AssignedToMining.stages.1.label>6 小时</AssignedToMining.stages.1.label>
+  <AssignedToMining.stages.2.label>12 小时</AssignedToMining.stages.2.label>
+  <AssignedToMining.stages.3.label>24 小时</AssignedToMining.stages.3.label>
+  <AssignedToMining.stages.4.label>48 小时</AssignedToMining.stages.4.label>
+
+  <AssignedToPlantCutting.label>分配割除工作</AssignedToPlantCutting.label>
+  <AssignedToPlantCutting.stages.0.label>0 小时</AssignedToPlantCutting.stages.0.label>
+  <AssignedToPlantCutting.stages.1.label>6 小时</AssignedToPlantCutting.stages.1.label>
+  <AssignedToPlantCutting.stages.2.label>12 小时</AssignedToPlantCutting.stages.2.label>
+  <AssignedToPlantCutting.stages.3.label>24 小时</AssignedToPlantCutting.stages.3.label>
+  <AssignedToPlantCutting.stages.4.label>48 小时</AssignedToPlantCutting.stages.4.label>
+
+  <AssignedToResearch.label>分配研究工作</AssignedToResearch.label>
+  <AssignedToResearch.stages.0.label>0 小时</AssignedToResearch.stages.0.label>
+  <AssignedToResearch.stages.1.label>6 小时</AssignedToResearch.stages.1.label>
+  <AssignedToResearch.stages.2.label>12 小时</AssignedToResearch.stages.2.label>
+  <AssignedToResearch.stages.3.label>24 小时</AssignedToResearch.stages.3.label>
+  <AssignedToResearch.stages.4.label>48 小时</AssignedToResearch.stages.4.label>
+
+  <AssignedToSmithing.label>分配锻造工作</AssignedToSmithing.label>
+  <AssignedToSmithing.stages.0.label>0 小时</AssignedToSmithing.stages.0.label>
+  <AssignedToSmithing.stages.1.label>6 小时</AssignedToSmithing.stages.1.label>
+  <AssignedToSmithing.stages.2.label>12 小时</AssignedToSmithing.stages.2.label>
+  <AssignedToSmithing.stages.3.label>24 小时</AssignedToSmithing.stages.3.label>
+  <AssignedToSmithing.stages.4.label>48 小时</AssignedToSmithing.stages.4.label>
+
+  <AssignedToTailoring.label>分配缝制工作</AssignedToTailoring.label>
+  <AssignedToTailoring.stages.0.label>0 小时</AssignedToTailoring.stages.0.label>
+  <AssignedToTailoring.stages.1.label>6 小时</AssignedToTailoring.stages.1.label>
+  <AssignedToTailoring.stages.2.label>12 小时</AssignedToTailoring.stages.2.label>
+  <AssignedToTailoring.stages.3.label>24 小时</AssignedToTailoring.stages.3.label>
+  <AssignedToTailoring.stages.4.label>48 小时</AssignedToTailoring.stages.4.label>
+
+  <AssignedToWarden.label>分配监管工作</AssignedToWarden.label>
+  <AssignedToWarden.stages.0.label>0 小时</AssignedToWarden.stages.0.label>
+  <AssignedToWarden.stages.1.label>6 小时</AssignedToWarden.stages.1.label>
+  <AssignedToWarden.stages.2.label>12 小时</AssignedToWarden.stages.2.label>
+  <AssignedToWarden.stages.3.label>24 小时</AssignedToWarden.stages.3.label>
+  <AssignedToWarden.stages.4.label>48 小时</AssignedToWarden.stages.4.label>
+
+  <AssignedAWeapon.label>分配了一把武器</AssignedAWeapon.label>
+  <AssignedAWeapon.stages.0.label>0 小时</AssignedAWeapon.stages.0.label>
+  <AssignedAWeapon.stages.1.label>6 小时</AssignedAWeapon.stages.1.label>
+  <AssignedAWeapon.stages.2.label>12 小时</AssignedAWeapon.stages.2.label>
+  <AssignedAWeapon.stages.3.label>24 小时</AssignedAWeapon.stages.3.label>
+  <AssignedAWeapon.stages.4.label>48 小时</AssignedAWeapon.stages.4.label>
+
+
+</LanguageData>
