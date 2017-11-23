@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <RBB.BasicBridges>Rainbeau's Basic Bridges</RBB.BasicBridges>
+  <RBB.BasicBridges>Rainbeau的桥梁（RBB）</RBB.BasicBridges>
 
-  <RBB.BasicBridge>必須放置於淺水或沼澤。</RBB.BasicBridge>
-  <RBB.DeepWaterBridge>必須放置於深水。</RBB.DeepWaterBridge>
-  <RBB.Boardwalk>必須放置於鄰近水域的點。</RBB.Boardwalk>
-  <RBB.NoFloorOnBridge>不能在橋上安裝地板。</RBB.NoFloorOnBridge>
-  <RBB.NotOnFS>不能放置在釣魚點上。</RBB.NotOnFS>
-  <RBB.FSTooClose>距離另一個釣魚點太近了。</RBB.FSTooClose>
-  <RBB.FishingSpot1>釣魚點必須放置在水上，而非泥地上。</RBB.FishingSpot1>
-  <RBB.FishingSpot2>釣魚點必須放置在水或沼澤上，並鄰近橋樑或是沿岸碼頭。</RBB.FishingSpot2>
-  <RBB.ShellfishTrap>必須放置在水或沼澤上，並鄰近橋樑或是沿岸碼頭。</RBB.ShellfishTrap>
-  <RBB.TrapTooClose>太接近另一個蟹籠。 </RBB.TrapTooClose>
+  <RBB.BasicBridge>必须放置在浅水或则沼泽上</RBB.BasicBridge>
+  <RBB.DeepWaterBridge>必须放置在深水上</RBB.DeepWaterBridge>
+  <RBB.Boardwalk>必须放置在水边</RBB.Boardwalk>
+  <RBB.NoFloorOnBridge>无法在桥面上放置地板</RBB.NoFloorOnBridge>
+  <RBB.NotOnFS>不能放置在钓鱼点上</RBB.NotOnFS>
+  <RBB.FSTooClose>钓鱼点放置得过近</RBB.FSTooClose>
+  <RBB.FishingSpot1>钓鱼点必须放置在水或者沼泽上（不能放置在淤泥上）</RBB.FishingSpot1>
+  <RBB.FishingSpot2>钓鱼点必须放置在水面上并且操作位置需要放置在桥面或者地面上</RBB.FishingSpot2>
+  <RBB.ShellfishTrap>必须放置在与桥面或者木板相邻的水面或沼泽上.</RBB.ShellfishTrap>
+  <RBB.TrapTooClose>螃蟹笼放置得过近.</RBB.TrapTooClose>
 
 </LanguageData>
