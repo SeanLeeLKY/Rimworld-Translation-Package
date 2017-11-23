@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeAnimalRationV.label>制作素预制饲料</MakeAnimalRationV.label>
+  <MakeAnimalRationV.description>在屠宰台加工的半成品饲料。 可以在饲料配给罐进行深加工。</MakeAnimalRationV.description>
+  <MakeAnimalRationV.jobString>制作素预制饲料</MakeAnimalRationV.jobString>
+
+  <MakeAnimalRationP.label>制作复合预制饲料</MakeAnimalRationP.label>
+  <MakeAnimalRationP.description>在屠宰台加工的半成品饲料。 可以在饲料配给罐进行深加工。</MakeAnimalRationP.description>
+  <MakeAnimalRationP.jobString>制作复合预制饲料</MakeAnimalRationP.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- BASE RATION -->
+
+  <AnimalRationV.label>素预制饲料</AnimalRationV.label>
+  <AnimalRationV.description>素预制饲料，是素型颗粒饲料的半成品。是一种由谷物和干草混合制成的糊状物。在饲料配给罐中深加工后，它就变成了一种颗粒状的饲料成品。含有更多的营养，而且不会变质。</AnimalRationV.description>
+
+  <AnimalRationP.label>复合预制饲料</AnimalRationP.label>
+  <AnimalRationP.description>复合预制饲料。可以在饲料配给罐中进一步深加工，成品即复合型颗粒饲料。比素型饲料更加有营养。</AnimalRationP.description>
+
+
+  <!-- PELLETS -->
+
+  <PelletsV.label>素型颗粒饲料</PelletsV.label>
+  <PelletsV.description>营养丰富的动物饲料，用植物素材加工而成。</PelletsV.description>
+
+  <PelletsP.label>复合型颗粒饲料</PelletsP.label>
+  <PelletsP.description>营养丰富的动物饲料，用植物素材和肉类混合加工而成。 比素型颗粒饲料更加有营养。</PelletsP.description>
+
+
+</LanguageData>

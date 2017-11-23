@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Base Worktable -->
+
+  <RationTank.label>饲料配给罐</RationTank.label>
+  <RationTank.description>一台专门用于发酵生产动物颗粒饲料的机器。最好不要放在室外，尽管这台机器配备有各种高科技系统，但是在极端温度下会停止工作。</RationTank.description>
+  <RationTank_Blueprint.label>饲料配给罐 (蓝图)</RationTank_Blueprint.label>
+  <RationTank_Blueprint_Install.label>饲料配给罐 (蓝图)</RationTank_Blueprint_Install.label>
+  <RationTank_Frame.label>饲料配给罐 (建造中)</RationTank_Frame.label>
+  <RationTank_Frame.description>一台专门用于发酵生产动物颗粒饲料的机器。最好不要放在室外，尽管这台机器配备有各种高科技系统，但是在极端温度下会停止工作。</RationTank_Frame.description>
+
+
+</LanguageData>
