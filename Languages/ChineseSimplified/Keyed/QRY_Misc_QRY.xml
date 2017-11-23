@@ -5,7 +5,7 @@
   <QRY_SettingsDepletionPercent>采矿作业数量</QRY_SettingsDepletionPercent>
   <QRY_SettingsJunkChance>废物(阻碍物): &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsJunkChance>
   <QRY_SettingsChunkChance>阻碍物: &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</QRY_SettingsChunkChance>
-  <QRY_DepletionLabel>&lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt; mining operations before quarry is unusable</QRY_DepletionLabel>
+  <QRY_DepletionLabel>&lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt; 在采石场失效前可以开采的次数</QRY_DepletionLabel>
 
   <QRY_TooltipLetter>选择土壤是否已经发送,如果未发送，这个消息将在第一次采石场被拆除时发送.</QRY_TooltipLetter>
   <QRY_TooltipJunkChance>有机会得到垃圾,如果垃圾没有开采，则会开采一个随机资源.</QRY_TooltipJunkChance>

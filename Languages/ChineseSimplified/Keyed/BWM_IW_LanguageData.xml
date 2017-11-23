@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IW.ClickToDropTip>现在正在将产品放置于储存区。点击改为直接放在地上。</IW.ClickToDropTip>
+  <IW.ClickToTakeToStockpileTip>现在正在将产品直接放在地上。点击改为放置于储存区。</IW.ClickToTakeToStockpileTip>
+  <IW.CopyJustBillsTip>复制当前工作清单</IW.CopyJustBillsTip>
+  <IW.BreakLinkToOtherBillsTip>取消与其清单的关联</IW.BreakLinkToOtherBillsTip>
+  <IW.TakeToLabel>放到</IW.TakeToLabel>
+  <IW.BestLabel>最佳</IW.BestLabel>
+  <IW.NullLabel>无</IW.NullLabel>
+  <IW.RenameBillTip>重命名清单（空白即重置命名）</IW.RenameBillTip>
+
+  <IW.BillsLabel>清单</IW.BillsLabel>
+
+  <IW.NoColRestrictionLabel>无工作者指定</IW.NoColRestrictionLabel>
+
+  <IW.RestrictToLabel>指定</IW.RestrictToLabel>
+
+  <IW.RestrictJobToSpecificColonistTip>指定工作者</IW.RestrictJobToSpecificColonistTip>
+
+  <IW.CrafterWillToSpecificStockpileTip>制造者将会将产品放置在特定储存区</IW.CrafterWillToSpecificStockpileTip>
+  <IW.CopyFilterButton>复制</IW.CopyFilterButton>
+
+  <IW.CopyFilterTip>复制材料筛选器设置，以粘贴到匹配的筛选器中</IW.CopyFilterTip>
+  <IW.PasteFilterButton>粘贴</IW.PasteFilterButton>
+
+  <IW.RenameTip>点击以使用键盘输入内容</IW.RenameTip>
+  <IW.CountOnStockpilesText>清点所有库存</IW.CountOnStockpilesText>
+
+  <IW.CountInText>仅清点</IW.CountInText>
+  <IW.WillCountTowardsTargetTip>只有指定储存区中的项目才会计入数量</IW.WillCountTowardsTargetTip>
+
+  <IW.CountedItemsFilter>物品清点筛选器：</IW.CountedItemsFilter>
+  <IW.HitPointsTip>只有在耐久度范围内的项目才会计入数量</IW.HitPointsTip>
+
+  <IW.QualityTip>只有在设定质量范围内的项目才会计入数量</IW.QualityTip>
+
+  <IW.MatchInputIngredientsText>匹配制造材料</IW.MatchInputIngredientsText>
+
+  <IW.IngredientsTip>只有符合右侧筛选器成分的项目才会计入数量</IW.IngredientsTip>
+
+  <IW.CountCorpseClothesLabel>包括死人的衣物</IW.CountCorpseClothesLabel>
+  <IW.CountCorpseClothesDesc>在物品清点中计入死人的衣物</IW.CountCorpseClothesDesc>
+
+  <IW.CountEquippedClothesLabel>包括穿着的衣物</IW.CountEquippedClothesLabel>
+  <IW.CountEquippedClothesDesc>在物品清点中计入殖民者正穿着的衣物</IW.CountEquippedClothesDesc>
+
+  <IW.OpenPreviousBillTip>上一个清单设定</IW.OpenPreviousBillTip>
+
+  <IW.OpenNextBillTip>下一个清单设定</IW.OpenNextBillTip>
+  <IW.DoUntilXText>直到完成X个（Do until X）</IW.DoUntilXText>
+
+  <IW.ChangeLinkedBillModeText>在关联模式中使用详细设定</IW.ChangeLinkedBillModeText>
+
+  <IW.CopyAllLabel>全部复制</IW.CopyAllLabel>
+  <IW.CopyAllTip>复制该工作台内的所有清单</IW.CopyAllTip>
+
+  <IW.PasteAllLabel>全部粘贴</IW.PasteAllLabel>
+  <IW.Paste>粘贴</IW.Paste>
+  <IW.PasteAllTip>粘贴之前复制过的清单</IW.PasteAllTip>
+
+  <IW.PasteLinkLabel>关联粘贴</IW.PasteLinkLabel>
+  <IW.PasteLinkTip>粘贴之前复制过的清单，并且将其与被复制的清单相关联</IW.PasteLinkTip>
+
+  <IW.FoundOldBillText>查找过往清单（Found old Bill）</IW.FoundOldBillText>
+  <IW.MigratingToNewFormat>迁移至新格式（migrating to new format）</IW.MigratingToNewFormat>
+
+  <IW.AutoOpenBillTabLabel>自动打开清单标签</IW.AutoOpenBillTabLabel>
+  <IW.AutoOpenBillTabDesc>当工作台被选中时，它的清单选项卡将会被自动打开。</IW.AutoOpenBillTabDesc>
+
+  <IW.ShowItemCountInFilterLabel>在筛选器中显示项目计数</IW.ShowItemCountInFilterLabel>
+  <IW.ShowItemCountInFilterDesc>显示清单中的“原料”选项卡上的计数。</IW.ShowItemCountInFilterDesc>
+
+</LanguageData>

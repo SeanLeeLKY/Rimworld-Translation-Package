@@ -5,15 +5,15 @@
 
   <DeployableTent.label>帐篷</DeployableTent.label>
   <DeployableTent.description>一个帐篷</DeployableTent.description>
-  <DeployableTent.comps.1.useLabel>部署帐篷</DeployableTent.comps.1.useLabel>
+  <DeployableTent.comps.1.useLabel>部署帐篷于</DeployableTent.comps.1.useLabel>
 
   <DeployableTentMedium.label>中型帐篷</DeployableTentMedium.label>
   <DeployableTentMedium.description>一个中型帐篷</DeployableTentMedium.description>
-  <DeployableTentMedium.comps.1.useLabel>部署中型帐篷</DeployableTentMedium.comps.1.useLabel>
+  <DeployableTentMedium.comps.1.useLabel>部署中型帐篷于</DeployableTentMedium.comps.1.useLabel>
 
   <DeployableTentBig.label>大型帐篷</DeployableTentBig.label>
   <DeployableTentBig.description>一个大型帐篷，有三个房间</DeployableTentBig.description>
-  <DeployableTentBig.comps.1.useLabel>部署大型帐篷</DeployableTentBig.comps.1.useLabel>
+  <DeployableTentBig.comps.1.useLabel>部署大型帐篷于</DeployableTentBig.comps.1.useLabel>
 
 
 </LanguageData>
