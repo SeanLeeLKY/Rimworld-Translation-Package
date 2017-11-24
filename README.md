@@ -5,6 +5,9 @@
 大部分未更新到A17的MOD汉化也可以继续使用。
 已经汉化的MOD请到项目提交列表中自行搜寻！
 
+项目地址：
+https://git.coding.net/SeanLee/Rimworld-MODS-Trans-CN.git
+
 ----------
 
 
