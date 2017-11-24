@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FluffyBreakdowns_ComponentLifetimeOne.label>强化组件</FluffyBreakdowns_ComponentLifetimeOne.label>
+  <FluffyBreakdowns_ComponentLifetimeOne.description>通过使用高级热处理金属的组件，我们可以极大地提高各个部件的耐用性。</FluffyBreakdowns_ComponentLifetimeOne.description>
+
+  <FluffyBreakdowns_ComponentLifetimeTwo.label>纳米注入组件</FluffyBreakdowns_ComponentLifetimeTwo.label>
+  <FluffyBreakdowns_ComponentLifetimeTwo.description>采用注入自修复纳米机器人的复合材料，我们可以在原来的基础上进一步增加组件的寿命。</FluffyBreakdowns_ComponentLifetimeTwo.description>
+
+
+</LanguageData>

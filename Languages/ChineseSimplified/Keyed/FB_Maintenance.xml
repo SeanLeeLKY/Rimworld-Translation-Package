@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FluffyBreakdowns.Maintenance>维护度: {0}</FluffyBreakdowns.Maintenance>
+  <FluffyBreakdowns.MaintenanceThreshold>维护阈值 ({0})</FluffyBreakdowns.MaintenanceThreshold>
+  <FluffyBreakdowns.MaintenanceThresholdTip>当维护度于这个阈值时，具有修复技能的殖民者将开始对物件进行维护。</FluffyBreakdowns.MaintenanceThresholdTip>
+  <FluffyBreakdowns.LowMaintenanceThreshold>警告：阈值极低！</FluffyBreakdowns.LowMaintenanceThreshold>
+
+  <FluffyBreakdowns.MaintenanceHome>仅维护生活区</FluffyBreakdowns.MaintenanceHome>
+  <FluffyBreakdowns.MaintenanceHomeTip>如果禁用，殖民者将维护任何地方的设备。</FluffyBreakdowns.MaintenanceHomeTip>
+
+</LanguageData>

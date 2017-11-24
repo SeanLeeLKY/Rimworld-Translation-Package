@@ -1,40 +1,40 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CookMealSushi.label>製作散壽司</CookMealSushi.label>
-  <CookMealSushi.description>製作一碗美味的散壽司</CookMealSushi.description>
-  <CookMealSushi.jobString>製作散壽司。</CookMealSushi.jobString>
+  <CookMealSushi.label>制作生鱼片</CookMealSushi.label>
+  <CookMealSushi.description>制作1份美味的生鱼片.</CookMealSushi.description>
+  <CookMealSushi.jobString>正在制作生鱼片.</CookMealSushi.jobString>
 
-  <CookMealBoiledShellfish.label>煮海鮮湯</CookMealBoiledShellfish.label>
-  <CookMealBoiledShellfish.description>煮一碗海鮮湯</CookMealBoiledShellfish.description>
-  <CookMealBoiledShellfish.jobString>煮海鮮湯。</CookMealBoiledShellfish.jobString>
+  <CookMealBoiledShellfish.label>煮螃蟹/虾</CookMealBoiledShellfish.label>
+  <CookMealBoiledShellfish.description>煮熟螃蟹/虾.</CookMealBoiledShellfish.description>
+  <CookMealBoiledShellfish.jobString>正在煮螃蟹/虾.</CookMealBoiledShellfish.jobString>
 
-  <CookMealEscargot.label>烤蝸牛</CookMealEscargot.label>
-  <CookMealEscargot.description>料理一盤法式烤蝸牛</CookMealEscargot.description>
-  <CookMealEscargot.jobString>烤蝸牛。</CookMealEscargot.jobString>
+  <CookMealEscargot.label>制作法式焗蜗牛</CookMealEscargot.label>
+  <CookMealEscargot.description>制作1份法式焗蜗牛.</CookMealEscargot.description>
+  <CookMealEscargot.jobString>正在制作法式焗蜗牛.</CookMealEscargot.jobString>
 
-  <CookMealShrimpScampi.label>料理蝦</CookMealShrimpScampi.label>
-  <CookMealShrimpScampi.description>料理一盤蒜香鮮蝦</CookMealShrimpScampi.description>
-  <CookMealShrimpScampi.jobString>料理蝦。</CookMealShrimpScampi.jobString>
+  <CookMealShrimpScampi.label>制作基围虾</CookMealShrimpScampi.label>
+  <CookMealShrimpScampi.description>制作1份基围虾.</CookMealShrimpScampi.description>
+  <CookMealShrimpScampi.jobString>正在制作基围虾.</CookMealShrimpScampi.jobString>
 
-  <MakeCucumberMed.label>用海參製作草藥</MakeCucumberMed.label>
-  <MakeCucumberMed.description>用海參製作草藥。</MakeCucumberMed.description>
-  <MakeCucumberMed.jobString>用海參製作草藥。</MakeCucumberMed.jobString>
+  <Cook4MealSushi.label>制作4份生鱼片</Cook4MealSushi.label>
+  <Cook4MealSushi.description>制作4份美味的生鱼片.</Cook4MealSushi.description>
+  <Cook4MealSushi.jobString>正在制作生鱼片.</Cook4MealSushi.jobString>
 
+  <Cook4MealBoiledShellfish.label>煮4份螃蟹/虾</Cook4MealBoiledShellfish.label>
+  <Cook4MealBoiledShellfish.description>煮熟4份螃蟹/虾.</Cook4MealBoiledShellfish.description>
+  <Cook4MealBoiledShellfish.jobString>正在煮螃蟹/虾.</Cook4MealBoiledShellfish.jobString>
 
-  <!-- OLD RECIPE DEFS FOR BACKWARDS COMPATIBILITY -->
+  <Cook4MealEscargot.label>制作4份法式焗蜗牛</Cook4MealEscargot.label>
+  <Cook4MealEscargot.description>制作4份法式焗蜗牛.</Cook4MealEscargot.description>
+  <Cook4MealEscargot.jobString>正在制作法式焗蜗牛.</Cook4MealEscargot.jobString>
 
-  <CleanFish.label>clean fish</CleanFish.label>
-  <CleanFish.description>Clean fish so they can be eaten raw or used in cooking.</CleanFish.description>
-  <CleanFish.jobString>Cleaning fish.</CleanFish.jobString>
+  <Cook4MealShrimpScampi.label>制作4份基围虾</Cook4MealShrimpScampi.label>
+  <Cook4MealShrimpScampi.description>制作4份基围虾.</Cook4MealShrimpScampi.description>
+  <Cook4MealShrimpScampi.jobString>正在制作基围虾.</Cook4MealShrimpScampi.jobString>
 
-  <ButcherEel.label>butcher eel</ButcherEel.label>
-  <ButcherEel.description>Butcher eel for food and skin.</ButcherEel.description>
-  <ButcherEel.jobString>Butchering eel.</ButcherEel.jobString>
-
-  <ButcherSquid.label>butcher squid</ButcherSquid.label>
-  <ButcherSquid.description>Butcher squid for food and "leather."</ButcherSquid.description>
-  <ButcherSquid.jobString>Butchering squid.</ButcherSquid.jobString>
-
+  <MakeCucumberMed.label>用海参制做草药</MakeCucumberMed.label>
+  <MakeCucumberMed.description>使用海参制作草药.</MakeCucumberMed.description>
+  <MakeCucumberMed.jobString>正在使用海参制作草药.</MakeCucumberMed.jobString>
 
 </LanguageData>

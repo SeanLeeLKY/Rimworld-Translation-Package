@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fishing.label>鱼</Fishing.label>
+  <Fishing.description>用鱼竿钓鱼</Fishing.description>
+  <Fishing.labelShort>鱼</Fishing.labelShort>
+  <Fishing.pawnLabel>渔夫</Fishing.pawnLabel>
+  <Fishing.gerundLabel>钓鱼</Fishing.gerundLabel>
+  <Fishing.verb>鱼</Fishing.verb>
+
+
+</LanguageData>

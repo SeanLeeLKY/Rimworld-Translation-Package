@@ -1,0 +1,138 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RFR.FewerRuinsTerrain>编辑地图- 地形设置</RFR.FewerRuinsTerrain>
+  <RFR.FewerRuinsThings>编辑地图- 物品设置</RFR.FewerRuinsThings>
+  <RFR.FewerRuinsWorld>编辑地图- 世界地图设置</RFR.FewerRuinsWorld>
+
+  <RFR.ruinsLevel>新地图上废墟的密度:</RFR.ruinsLevel>
+
+  <RFR.RuinsNone>只有原始风景，没有任何废墟！</RFR.RuinsNone>
+  <RFR.RuinsVeryLow>很少，几乎接近零。</RFR.RuinsVeryLow>
+  <RFR.RuinsLow>较少。</RFR.RuinsLow>
+  <RFR.RuinsNormal>正常。(游戏预设)</RFR.RuinsNormal>
+  <RFR.RuinsHigh>较多。</RFR.RuinsHigh>
+  <RFR.RuinsVeryHigh>很多.</RFR.RuinsVeryHigh>
+  <RFR.RuinsExtreme>极多</RFR.RuinsExtreme>
+  <RFR.RuinsInsane>废墟遍布.</RFR.RuinsInsane>
+  <RFR.RuinsRandom>随机。每次创建新地图时，将随机选择一个设定.</RFR.RuinsRandom>
+
+  <RFR.shrinesLevel>新地图上的远古威胁密度:</RFR.shrinesLevel>
+
+  <RFR.ShrinesNone>不存在远古威胁</RFR.ShrinesNone>
+  <RFR.ShrinesVeryLow>很少，几乎接近零</RFR.ShrinesVeryLow>
+  <RFR.ShrinesLow>较少</RFR.ShrinesLow>
+  <RFR.ShrinesNormal>正常。(游戏预设)</RFR.ShrinesNormal>
+  <RFR.ShrinesHigh>较多。</RFR.ShrinesHigh>
+  <RFR.ShrinesVeryHigh>很多。</RFR.ShrinesVeryHigh>
+  <RFR.ShrinesExtreme>极多。</RFR.ShrinesExtreme>
+  <RFR.ShrinesInsane>威胁无处不在！</RFR.ShrinesInsane>
+  <RFR.ShrinesRandom>随机。每次创建新地图时，将随机选择一个设定。</RFR.ShrinesRandom>
+
+  <RFR.stoneType>远古威胁和废墟的建筑石材:</RFR.stoneType>
+
+  <RFR.StoneVanilla>废墟将由随机的石材建成。(游戏预设)</RFR.StoneVanilla>
+  <RFR.StoneMixed>大部份废墟将由地图本身拥有的石材所构成。</RFR.StoneMixed>
+  <RFR.StoneLocal>所有废墟将由地图本身拥有的石材所构成。</RFR.StoneLocal>
+  <RFR.StoneRandom>随机。每次创建新地图时，将随机选择一个设定。</RFR.StoneRandom>
+
+  <RFR.animalDensityLevel>新地图的动物群落密度:</RFR.animalDensityLevel>
+
+  <RFR.AnimalDensitySparse>稀疏。较少动物。</RFR.AnimalDensitySparse>
+  <RFR.AnimalDensityNormal>正常。(游戏预设)</RFR.AnimalDensityNormal>
+  <RFR.AnimalDensityDense>密集。会有更多的动物。</RFR.AnimalDensityDense>
+  <RFR.AnimalDensityExtreme>拥挤。生机勃勃！</RFR.AnimalDensityExtreme>
+  <RFR.AnimalDensityRandom>随机。每次创建新地图时，将随机选择一个设定。</RFR.AnimalDensityRandom>
+
+  <RFR.plantDensityLevel>新地图上的植物密度:</RFR.plantDensityLevel>
+
+  <RFR.PlantDensitySparse>稀疏，植物相对较少。</RFR.PlantDensitySparse>
+  <RFR.PlantDensityNormal>正常。（游戏预设）</RFR.PlantDensityNormal>
+  <RFR.PlantDensityDense>稠密，比预设更多的植物。</RFR.PlantDensityDense>
+  <RFR.PlantDensityExtreme>密集，绿意盎然！</RFR.PlantDensityExtreme>
+  <RFR.PlantDensityRandom>随机。每次创建新地图时，将随机选择一个设定。</RFR.PlantDensityRandom>
+
+  <RFR.oreLevel>新地图上的矿石密度:</RFR.oreLevel>
+
+  <RFR.OreNone>完全没有矿石 ，当然这会加大游戏难度。</RFR.OreNone>
+  <RFR.OreLow>较少。（游戏预设的一半）</RFR.OreLow>
+  <RFR.OreNormal>正常。（游戏预设）</RFR.OreNormal>
+  <RFR.OreHigh>较多。（游戏预设的二倍）</RFR.OreHigh>
+  <RFR.OreVeryHigh>极多。（游戏预设的四倍）</RFR.OreVeryHigh>
+  <RFR.OreRandom>随机。每次创建新地图时，将随机选择一个设定。</RFR.OreRandom>
+
+  <RFR.geysersLevel>新地图上蒸汽喷泉的密度:</RFR.geysersLevel>
+
+  <RFR.GeysersNone>没有蒸汽喷泉，你将无法使用地热能！</RFR.GeysersNone>
+  <RFR.GeysersLow>较少。（游戏预设的一半）</RFR.GeysersLow>
+  <RFR.GeysersNormal>正常。（游戏预设）</RFR.GeysersNormal>
+  <RFR.GeysersHigh>较多。（游戏预设的二倍）</RFR.GeysersHigh>
+  <RFR.GeysersVeryHigh>极多。（游戏预设的四倍）</RFR.GeysersVeryHigh>
+  <RFR.GeysersRandom>随机。每次创建新地图时，将随机选择一个设定</RFR.GeysersRandom>
+
+  <RFR.chunksLevel>新地图上石块的密度:</RFR.chunksLevel>
+
+  <RFR.ChunksNone>完全没有石块。 你可以根据自己需要去开采石块</RFR.ChunksNone>
+  <RFR.ChunksLow>较少。（游戏预设的一半）</RFR.ChunksLow>
+  <RFR.ChunksNormal>正常。（游戏预设）</RFR.ChunksNormal>
+  <RFR.ChunksRandom>随机。每次创建新地图时，将随机选择一个设定</RFR.ChunksRandom>
+
+  <RFR.mountainLevel>新地图上的山脉:</RFR.mountainLevel>
+
+  <RFR.MountainVeryLow>非常少。 平原地图几乎没有山脉出现。 丘陵地图将有大片的开放空间。</RFR.MountainVeryLow>
+  <RFR.MountainLow>较少</RFR.MountainLow>
+  <RFR.MountainNormal>正常。（游戏预设）</RFR.MountainNormal>
+  <RFR.MountainHigh>较多。</RFR.MountainHigh>
+  <RFR.MountainVeryHigh>很多。</RFR.MountainVeryHigh>
+  <RFR.MountainInsane>极多。平原地图看起来会像丘陵地图，丘陵地图将会是一整片。</RFR.MountainInsane>
+  <RFR.MountainRandom>随机。每次创建新地图时，将随机选择一个设定。</RFR.MountainRandom>
+
+  <RFR.waterLevel>新地图上的水位:</RFR.waterLevel>
+
+  <RFR.WaterVeryLow>很低 湖泊和沼泽地将相当小。</RFR.WaterVeryLow>
+  <RFR.WaterLow>较低。</RFR.WaterLow>
+  <RFR.WaterNormal>正常。（游戏预设）</RFR.WaterNormal>
+  <RFR.WaterHigh>较高。</RFR.WaterHigh>
+  <RFR.WaterVeryHigh>极高。地图上可能会出现大型湖泊或沼泽地。</RFR.WaterVeryHigh>
+  <RFR.WaterRandom>随机。每次创建新地图时，将随机选择一个设定</RFR.WaterRandom>
+
+  <RFR.fertilityLevel>新地图上的土壤肥沃度:</RFR.fertilityLevel>
+
+  <RFR.FertilityNone>非常低。</RFR.FertilityNone>
+  <RFR.FertilityLow>低。</RFR.FertilityLow>
+  <RFR.FertilityNormal>正常。（游戏预设）</RFR.FertilityNormal>
+  <RFR.FertilityHigh>高。</RFR.FertilityHigh>
+  <RFR.FertilityVeryHigh>极高。</RFR.FertilityVeryHigh>
+  <RFR.FertilityRandom>随机。每次创建新地图时，将随机选择一个设定</RFR.FertilityRandom>
+
+  <RFR.coastLevel>新地图上的海平线:</RFR.coastLevel>
+
+  <RFR.CoastNormal>游戏预设。海洋和沙地将出现在地图的一侧。</RFR.CoastNormal>
+  <RFR.CoastHigh1>有点高。会有一片较大的海洋和沙地。</RFR.CoastHigh1>
+  <RFR.CoastHigh2>高。会有一片比游戏预设更大的海洋和沙地。</RFR.CoastHigh2>
+  <RFR.CoastVeryHigh1>很高。会有更多的海洋和沙地。</RFR.CoastVeryHigh1>
+  <RFR.CoastVeryHigh2>更高。更多的海洋和沙地，更少可用的土地。</RFR.CoastVeryHigh2>
+  <RFR.CoastVeryHigh3>极高。地图大部份面积将由海水和沙地所组成。</RFR.CoastVeryHigh3>
+  <RFR.CoastInsane>疯狂的高。 祝你好运，找到落脚的陆地！</RFR.CoastInsane>
+  <RFR.CoastRandom>随机。每次创建新地图时，将随机选择一个设定</RFR.CoastRandom>
+
+  <RFR.DisallowIslands>禁止岛屿出现石块</RFR.DisallowIslands>
+  <RFR.DisallowIslandsTip>如果选中此选项，则不会在海洋，湖泊或沼泽地有岩石露头。 请注意，将此选项与高水位相结合可以极大限度降低山地图上的石块数量。</RFR.DisallowIslandsTip>
+
+  <RFR.stoneMin>每个石块的最小石头种类 (游戏预设 = 2):</RFR.stoneMin>
+  <RFR.stoneMax>每个石块的最大石头种类 (游戏预设 = 3):</RFR.stoneMax>
+
+  <RFR.stoneNotes>如果您将最大石头种类设置为低于最小值，错误将会自动修正，将最大重置为最小值。</RFR.stoneNotes>
+
+  <RFR.graniteCommonality>花岗岩在地图上的相对分布：</RFR.graniteCommonality>
+  <RFR.limestoneCommonality>石灰岩在地图上的相对分布:</RFR.limestoneCommonality>
+  <RFR.marbleCommonality>大理石在地图上的相对分布:</RFR.marbleCommonality>
+  <RFR.sandstoneCommonality>砂岩在地图上的相对分布:</RFR.sandstoneCommonality>
+  <RFR.slateCommonality>石板岩在地图上的相对分布:</RFR.slateCommonality>
+  <RFR.extraStoneCommonality>其他mod添加的石块（如果有的话）在地图上的相对分布:</RFR.extraStoneCommonality>
+
+  <RFR.Rare>罕见</RFR.Rare>
+  <RFR.Average>稀有</RFR.Average>
+  <RFR.Common>普通</RFR.Common>
+
+</LanguageData>
