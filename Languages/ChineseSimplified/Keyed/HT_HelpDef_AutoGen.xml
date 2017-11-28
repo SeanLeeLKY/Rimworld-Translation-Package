@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- HelpDef AutoGen Keys -->
+
+  <!-- Categorization Keys -->
+
+  <AutoHelpCategoryItems>项目</AutoHelpCategoryItems>
+  <AutoHelpCategoryBuildings>建筑物</AutoHelpCategoryBuildings>
+  <AutoHelpCategoryRecipes>配方</AutoHelpCategoryRecipes>
+  <AutoHelpCategoryResearch>研究</AutoHelpCategoryResearch>
+  <AutoHelpCategoryTerrain>地形 &amp; 地板</AutoHelpCategoryTerrain>
+  <AutoHelpCategoryFloraAndFauna>植物类 &amp; 动物类</AutoHelpCategoryFloraAndFauna>
+
+  <AutoHelpSubCategoryTerrain>地形</AutoHelpSubCategoryTerrain>
+  <AutoHelpSubCategoryFlooring>地板</AutoHelpSubCategoryFlooring>
+
+  <AutoHelpSubCategoryPlants>植物</AutoHelpSubCategoryPlants>
+  <AutoHelpSubCategoryAnimals>动物</AutoHelpSubCategoryAnimals>
+  <AutoHelpSubCategoryMechanoids>机器人</AutoHelpSubCategoryMechanoids>
+  <AutoHelpSubCategoryHumanoids>人类</AutoHelpSubCategoryHumanoids>
+  <AutoHelpSubCategoryBiomes>生物类</AutoHelpSubCategoryBiomes>
+
+  <AutoHelpSubCategoryApparel>装备</AutoHelpSubCategoryApparel>
+  <AutoHelpSubCategoryBodyParts>身体部位 &amp; 植入物</AutoHelpSubCategoryBodyParts>
+  <AutoHelpSubCategoryDrugs>药品</AutoHelpSubCategoryDrugs>
+  <AutoHelpSubCategoryMeals>食物</AutoHelpSubCategoryMeals>
+  <AutoHelpSubCategoryWeapons>武器</AutoHelpSubCategoryWeapons>
+
+  <AutoHelpSubCategoryAdvanced>高等</AutoHelpSubCategoryAdvanced>
+  <AutoHelpSubCategoryProjects>研究项目</AutoHelpSubCategoryProjects>
+  <AutoHelpSubCategorySpecial>特殊</AutoHelpSubCategorySpecial>
+
+  <!-- List Prepend Keys -->
+  <AutoHelpListFacilitiesAffecting>受影响于</AutoHelpListFacilitiesAffecting>
+  <AutoHelpListFacilitiesAffected>影响</AutoHelpListFacilitiesAffected>
+  <AutoHelpListJoyActivities>娱乐活动</AutoHelpListJoyActivities>
+  <AutoHelpListRecipeProducts>成品</AutoHelpListRecipeProducts>
+  <AutoHelpListRecipes>配方</AutoHelpListRecipes>
+  <AutoHelpListRecipesLocked>配方锁定</AutoHelpListRecipesLocked>
+  <AutoHelpListRecipesUnlocked>解锁配方</AutoHelpListRecipesUnlocked>
+  <AutoHelpListRecipesOnThings>可在以下工作台生产</AutoHelpListRecipesOnThings>
+  <AutoHelpListRecipesOnThingsLocked>不可用于</AutoHelpListRecipesOnThingsLocked>
+  <AutoHelpListRecipesOnThingsUnlocked>可在以下工作台制作</AutoHelpListRecipesOnThingsUnlocked>
+  <AutoHelpListResearchBy>需求科技</AutoHelpListResearchBy>
+  <AutoHelpListResearchRequired>前置科技</AutoHelpListResearchRequired>
+  <AutoHelpListResearchLeadsTo>解锁研究</AutoHelpListResearchLeadsTo>
+  <AutoHelpListResearchLockout>研究锁定</AutoHelpListResearchLockout>
+  <AutoHelpListStuffCategories>潜在材料</AutoHelpListStuffCategories>
+  <AutoHelpListPlantsLocked>禁止种植</AutoHelpListPlantsLocked>
+  <AutoHelpListPlantsUnlocked>解锁作物</AutoHelpListPlantsUnlocked>
+  <AutoHelpListPlantsIn>可种植于</AutoHelpListPlantsIn>
+  <AutoHelpListThingsLocked>禁止建筑</AutoHelpListThingsLocked>
+  <AutoHelpListThingsUnlocked>解锁建筑</AutoHelpListThingsUnlocked>
+  <AutoHelpListCapacityModifiers>能力乘数</AutoHelpListCapacityModifiers>
+  <AutoHelpListStatOffsets>效果</AutoHelpListStatOffsets>
+  <AutoHelpListNutrition>营养值</AutoHelpListNutrition>
+  <AutoHelpListNutritionPlant>营养值(植物)</AutoHelpListNutritionPlant>
+  <AutoHelpFacilityStats>生长速度加成</AutoHelpFacilityStats>
+  <AutoHelpRequired>需求</AutoHelpRequired>
+  <AutoHelpIdlePower>Idle Draw</AutoHelpIdlePower>
+  <AutoHelpGenerates>Generates</AutoHelpGenerates>
+  <AutoHelpStores>存储</AutoHelpStores>
+  <AutoHelpEfficiency>效率</AutoHelpEfficiency>
+
+  <AutoHelpListPlantYield>产量</AutoHelpListPlantYield>
+  <AutoHelpListCanBePlantedIn>可种植在</AutoHelpListCanBePlantedIn>
+  <AutoHelpListAppearsInBiomes>可在以下生物群系出现</AutoHelpListAppearsInBiomes>
+  <AutoHelpListUnlockableSowTags>需要完成研究解锁</AutoHelpListUnlockableSowTags>
+
+  <AutoHelpListTrainable>可训练以下动作</AutoHelpListTrainable>
+  <AutoHelpListLifestages>成长阶段</AutoHelpListLifestages>
+  <AutoHelpListReproduction>繁殖</AutoHelpListReproduction>
+  <AutoHelpListButcher>屠宰后可获得</AutoHelpListButcher>
+  <AutoHelpListDisassemble>拆解后可获得</AutoHelpListDisassemble>
+  <AutoHelpListMilk>动物产物</AutoHelpListMilk>
+  <AutoHelpListShear>动物产物</AutoHelpListShear>
+
+  <AutoHelpListBiomeTerrain>地形</AutoHelpListBiomeTerrain>
+  <AutoHelpListBiomePlants>植物</AutoHelpListBiomePlants>
+  <AutoHelpListBiomeAnimals>动物</AutoHelpListBiomeAnimals>
+  <AutoHelpListBiomeDiseases>疾病(每年受感染机率)</AutoHelpListBiomeDiseases>
+
+  <!-- Specific Keys -->
+  <AutoHelpSurgeryFixOrReplace>修复或替换</AutoHelpSurgeryFixOrReplace>
+
+  <AutoHelpCost>材料成本</AutoHelpCost>
+  <AutoHelpStuffCost>可选制作材料 ({0})</AutoHelpStuffCost>
+  <AutoHelpThingCost>建造成本</AutoHelpThingCost>
+  <AutoHelpTotalCost>总成本：</AutoHelpTotalCost>
+
+  <AutoHelpMaximumAffected>影响上限：</AutoHelpMaximumAffected>
+  <AutoHelpMaximumParticipants>可参与人数上限：</AutoHelpMaximumParticipants>
+
+  <AutoHelpJoyKind>娱乐类型：</AutoHelpJoyKind>
+  <AutoHelpJoySkill>技能：</AutoHelpJoySkill>
+
+  <AutoHelpListFertility>生长速度</AutoHelpListFertility>
+  <AutoHelpListPathCost>行走速度减益(数字越小越快)</AutoHelpListPathCost>
+
+  <AutoHelpGrowDays>种植时间：</AutoHelpGrowDays>
+  <AutoHelpMinFertility>最小土壤肥力需求：</AutoHelpMinFertility>
+  <AutoHelpLightRange>光照需求：</AutoHelpLightRange>
+
+  <AutoHelpHealthScale>健康值(血量)：</AutoHelpHealthScale>
+  <AutoHelpLifeExpectancy>预期寿命：</AutoHelpLifeExpectancy>
+  <AutoHelpIntelligence>智商：</AutoHelpIntelligence>
+  <AutoHelpDiet>饮食：</AutoHelpDiet>
+  <AutoHelpGestationPeriod>怀孕期：</AutoHelpGestationPeriod>
+  <AutoHelpLitterSize>胎数：</AutoHelpLitterSize>
+  <AutoHelpEggLayer>每{1}产出{0}只蛋</AutoHelpEggLayer>
+  <AutoHelpEveryX>每{0}</AutoHelpEveryX>
+
+  <AutoHelpPower>耗电量</AutoHelpPower>
+
+  <!-- Misc -->
+  <LetterYear>{0}y</LetterYear>
+
+</LanguageData>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+    <MorePlanning.SettingRemoveIfBuildingDespawned.label>建造完成后移除计划</MorePlanning.SettingRemoveIfBuildingDespawned.label>
+    <MorePlanning.SettingRemoveIfBuildingDespawned.desc>在计划上完成建造或拆除时，移除计划。</MorePlanning.SettingRemoveIfBuildingDespawned.desc>
+
+    <MorePlanning.PlanGray>灰色</MorePlanning.PlanGray>
+    <MorePlanning.PlanGrayRemove>移除灰色</MorePlanning.PlanGrayRemove>
+
+    <MorePlanning.PlanBlue>蓝色</MorePlanning.PlanBlue>
+    <MorePlanning.PlanBlueRemove>移除蓝色</MorePlanning.PlanBlueRemove>
+
+    <MorePlanning.PlanRed>红色</MorePlanning.PlanRed>
+    <MorePlanning.PlanRedRemove>移除红色</MorePlanning.PlanRedRemove>
+
+    <MorePlanning.PlanYellow>黄色</MorePlanning.PlanYellow>
+    <MorePlanning.PlanYellowRemove>移除黄色</MorePlanning.PlanYellowRemove>
+
+    <MorePlanning.PlanGreen>绿色</MorePlanning.PlanGreen>
+    <MorePlanning.PlanGreenRemove>移除绿色</MorePlanning.PlanGreenRemove>
+
+    <MorePlanning.PlanDesc>放置计划标记。他们除了帮助规划未来的扩张之外没有别的用处。</MorePlanning.PlanDesc>
+
+    <MorePlanning.PlanVisibility>可见性</MorePlanning.PlanVisibility>
+    <MorePlanning.PlanVisibilityDesc>改变计划的可见性</MorePlanning.PlanVisibilityDesc>
+
+    <Planning.label>更多计划</Planning.label>
+
+    <MorePlanning.Opacity.label>不透明度: {0}%</MorePlanning.Opacity.label>
+    <MorePlanning.Opacity.desc>更改不透明度</MorePlanning.Opacity.desc>
+
+    <MorePlanning.DefaultOpacity>(Default)</MorePlanning.DefaultOpacity>
+
+    <MorePlanning.PlanCopy>复制计划</MorePlanning.PlanCopy>
+    <MorePlanning.PlanCopyDesc>复制所选区域的计划。</MorePlanning.PlanCopyDesc>
+
+    <MorePlanning.PlanCut>剪切计划</MorePlanning.PlanCut>
+    <MorePlanning.PlanCutDesc>剪切所选区域的计划。</MorePlanning.PlanCutDesc>
+
+    <MorePlanning.PlanPaste>粘贴计划</MorePlanning.PlanPaste>
+    <MorePlanning.PlanPasteDesc>粘贴所选区域的计划。</MorePlanning.PlanPasteDesc>
+
+    <MorePlanning.NoCutCopiedPlan>没有计划被剪切或复制。</MorePlanning.NoCutCopiedPlan>
+
+    <MorePlanning.MissingPlanningDesignations>没有找到指定的计划。</MorePlanning.MissingPlanningDesignations>
+
+</LanguageData>

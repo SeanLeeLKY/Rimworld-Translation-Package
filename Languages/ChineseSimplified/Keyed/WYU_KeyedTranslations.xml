@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WhileYoureUp>While You're Up</WhileYoureUp>
+  <WhileYoureUp.RememberPreviousJob>记住以前的工作(可能会导致开发者模式的错误消息)</WhileYoureUp.RememberPreviousJob>
+  <WhileYoureUp.RememberPreviousJobTip>如果启用，殖民者将在完成一次您上班之后恢复原来的工作。 在开发人员模式下可能会导致错误消息，当他们无法回到该工作，但这些错误似乎是可忽略的.</WhileYoureUp.RememberPreviousJobTip>
+
+</LanguageData>
