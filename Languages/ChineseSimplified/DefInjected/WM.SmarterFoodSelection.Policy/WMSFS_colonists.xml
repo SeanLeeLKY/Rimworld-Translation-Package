@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <SFS_DefaultColonistPolicy.label>普通殖民者</SFS_DefaultColonistPolicy.label>
-  <SFS_DefaultColonistPolicy.description>默认的殖民者食物分配规则。\n将优先考虑食物所提供的心情加成。</SFS_DefaultColonistPolicy.description>
+  <SFS_DefaultColonistPolicy.label>默认伙食安排</SFS_DefaultColonistPolicy.label>
+  <SFS_DefaultColonistPolicy.description>默认的伙食安排。\n会有很多关于伙食好坏的意见和想法。</SFS_DefaultColonistPolicy.description>
 
 
 </LanguageData>

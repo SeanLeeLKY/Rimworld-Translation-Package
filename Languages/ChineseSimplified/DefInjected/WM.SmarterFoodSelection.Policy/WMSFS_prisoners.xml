@@ -2,7 +2,7 @@
 <LanguageData>
 
   <SFS_DefaultPrisonerPolicy.label>囚犯</SFS_DefaultPrisonerPolicy.label>
-  <SFS_DefaultPrisonerPolicy.description>默认的囚犯食物分配规则。\n优先提供最差的食物，也会稍许考虑食物所提供的心情加成。</SFS_DefaultPrisonerPolicy.description>
+  <SFS_DefaultPrisonerPolicy.description>默认囚犯伙食安排。\n更倾向于最差的食物。虽然也会有关于伙食的意见和想法，但不必太在意。</SFS_DefaultPrisonerPolicy.description>
 
 
 </LanguageData>
