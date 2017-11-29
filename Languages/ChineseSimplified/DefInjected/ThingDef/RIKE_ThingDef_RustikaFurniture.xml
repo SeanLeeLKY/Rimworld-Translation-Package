@@ -1,0 +1,282 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sitting -->
+
+  <REGSITStool.label>金属皮凳</REGSITStool.label>
+  <REGSITStool.description>“莱格西REGSIT凳”
+
+皮革包裹的钢铁坐凳，走起！
+别具一格的座椅，
+由阿科隆V号的咯嘎勒发明。</REGSITStool.description>
+  <REGSITStool_Blueprint.label>金属皮凳（蓝图）</REGSITStool_Blueprint.label>
+  <REGSITStool_Blueprint_Install.label>金属皮凳（蓝图）</REGSITStool_Blueprint_Install.label>
+  <REGSITStool_Frame.label>金属皮凳 （建设中）</REGSITStool_Frame.label>
+  <REGSITStool_Frame.description>“莱格西REGSIT凳”
+
+皮革包裹的钢铁坐凳，走起！
+别具一格的座椅，
+由阿科隆V号的咯嘎勒发明。</REGSITStool_Frame.description>
+
+  <SITTSLABChair.label>拼接石椅</SITTSLABChair.label>
+  <SITTSLABChair.description>“斯特莱博SITTSLAB椅”
+
+谁说岩石坐起来不舒服？
+这个无比舒适的石椅证明
+他们统统错了！</SITTSLABChair.description>
+  <SITTSLABChair_Blueprint.label>拼接石椅（蓝图）</SITTSLABChair_Blueprint.label>
+  <SITTSLABChair_Blueprint_Install.label>拼接石椅（蓝图）</SITTSLABChair_Blueprint_Install.label>
+  <SITTSLABChair_Frame.label>拼接石椅 （建设中）</SITTSLABChair_Frame.label>
+  <SITTSLABChair_Frame.description>“斯特莱博SITTSLAB椅”
+
+谁说岩石坐起来不舒服？
+这个无比舒适的石椅证明
+他们统统错了！</SITTSLABChair_Frame.description>
+
+  <STAMMRESTChair.label>桩椅</STAMMRESTChair.label>
+  <STAMMRESTChair.description>“斯塔雷斯STAMMREST椅”
+
+斯塔雷斯椅，真材实料。
+最初发现于栅尼斯海姆的红树人废墟，
+随后成为流行的时尚。</STAMMRESTChair.description>
+  <STAMMRESTChair_Blueprint.label>桩椅（蓝图）</STAMMRESTChair_Blueprint.label>
+  <STAMMRESTChair_Blueprint_Install.label>桩椅（蓝图）</STAMMRESTChair_Blueprint_Install.label>
+  <STAMMRESTChair_Frame.label>桩椅 （建设中）</STAMMRESTChair_Frame.label>
+  <STAMMRESTChair_Frame.description>“斯塔雷斯STAMMREST椅”
+
+斯塔雷斯椅，真材实料。
+最初发现于栅尼斯海姆的红树人废墟，
+随后成为流行的时尚。</STAMMRESTChair_Frame.description>
+
+  <PILREKLINCouch.label>部落沙发</PILREKLINCouch.label>
+  <PILREKLINCouch.description>“皮尔克临PILREKLIN沙发”
+
+在这片编织好的毛皮和织物上，
+放空自我。</PILREKLINCouch.description>
+  <PILREKLINCouch_Blueprint.label>部落沙发（蓝图）</PILREKLINCouch_Blueprint.label>
+  <PILREKLINCouch_Blueprint_Install.label>部落沙发（蓝图）</PILREKLINCouch_Blueprint_Install.label>
+  <PILREKLINCouch_Frame.label>部落沙发 （建设中）</PILREKLINCouch_Frame.label>
+  <PILREKLINCouch_Frame.description>“皮尔克临PILREKLIN沙发”
+
+在这片编织好的毛皮和织物上，
+放空自我。</PILREKLINCouch_Frame.description>
+
+  <BUTTEKUSHPillow.label>懒人沙发</BUTTEKUSHPillow.label>
+  <BUTTEKUSHPillow.description>“巴库什BUTTEKUSH坐垫”
+
+让全部的自我陷入这团软垫里吧！</BUTTEKUSHPillow.description>
+  <BUTTEKUSHPillow_Blueprint.label>懒人沙发（蓝图）</BUTTEKUSHPillow_Blueprint.label>
+  <BUTTEKUSHPillow_Blueprint_Install.label>懒人沙发（蓝图）</BUTTEKUSHPillow_Blueprint_Install.label>
+  <BUTTEKUSHPillow_Frame.label>懒人沙发 （建设中）</BUTTEKUSHPillow_Frame.label>
+  <BUTTEKUSHPillow_Frame.description>“巴库什BUTTEKUSH坐垫”
+
+让全部的自我陷入这团软垫里吧！</BUTTEKUSHPillow_Frame.description>
+
+
+  <!-- Tables -->
+
+  <STAMMFLATTTable.label>部落桌</STAMMFLATTTable.label>
+  <STAMMFLATTTable.description>“斯福莱STAMMFLATT桌”
+
+部落桌是用原木
+经过精巧的工艺制作的，
+和桩椅更配喔。</STAMMFLATTTable.description>
+  <STAMMFLATTTable_Blueprint.label>部落桌（蓝图）</STAMMFLATTTable_Blueprint.label>
+  <STAMMFLATTTable_Blueprint_Install.label>部落桌（蓝图）</STAMMFLATTTable_Blueprint_Install.label>
+  <STAMMFLATTTable_Frame.label>部落桌 （建设中）</STAMMFLATTTable_Frame.label>
+  <STAMMFLATTTable_Frame.description>“斯福莱STAMMFLATT桌”
+
+部落桌是用原木
+经过精巧的工艺制作的，
+和桩椅更配喔。</STAMMFLATTTable_Frame.description>
+
+  <SLABFLATTTable.label>石板桌</SLABFLATTTable.label>
+  <SLABFLATTTable.description>“斯莱博弗莱SLABFLATT桌”
+
+绝佳设计的石桌，
+进食的完美场所！</SLABFLATTTable.description>
+  <SLABFLATTTable_Blueprint.label>石板桌（蓝图）</SLABFLATTTable_Blueprint.label>
+  <SLABFLATTTable_Blueprint_Install.label>石板桌（蓝图）</SLABFLATTTable_Blueprint_Install.label>
+  <SLABFLATTTable_Frame.label>石板桌 （建设中）</SLABFLATTTable_Frame.label>
+  <SLABFLATTTable_Frame.description>“斯莱博弗莱SLABFLATT桌”
+
+绝佳设计的石桌，
+进食的完美场所！</SLABFLATTTable_Frame.description>
+
+
+  <!-- Sleeping -->
+
+  <KRUDNEPPSingle.label>原始单人床</KRUDNEPPSingle.label>
+  <KRUDNEPPSingle.description>“克莱内普KRUDNEPP单人床”
+
+在克莱内普床上小憩一下，
+可能看上去摇摇晃晃，但别担心！
+它既安全又舒适！*
+
+（*仅供一人使用。边缘宜家不对
+我们的家具造成的任何伤害负责。
+         ——边缘宜家-法律部）</KRUDNEPPSingle.description>
+  <KRUDNEPPSingle_Blueprint.label>原始单人床（蓝图）</KRUDNEPPSingle_Blueprint.label>
+  <KRUDNEPPSingle_Blueprint_Install.label>原始单人床（蓝图）</KRUDNEPPSingle_Blueprint_Install.label>
+  <KRUDNEPPSingle_Frame.label>原始单人床 （建设中）</KRUDNEPPSingle_Frame.label>
+  <KRUDNEPPSingle_Frame.description>“克莱内普KRUDNEPP单人床”
+
+在克莱内普床上小憩一下，
+可能看上去摇摇晃晃，但别担心！
+它既安全又舒适！*
+
+（*仅供一人使用。边缘宜家不对
+我们的家具造成的任何伤害负责。
+          ——边缘宜家-法律部）</KRUDNEPPSingle_Frame.description>
+
+  <SLABNEPPDouble.label>石板双人床</SLABNEPPDouble.label>
+  <SLABNEPPDouble.description>“石来普SLABNEPP双人床”
+
+纯手工石床，雕刻“贝拉峭壁纹”，
+既舒适又美观（可供两人使用）。</SLABNEPPDouble.description>
+  <SLABNEPPDouble_Blueprint.label>石板双人床（蓝图）</SLABNEPPDouble_Blueprint.label>
+  <SLABNEPPDouble_Blueprint_Install.label>石板双人床（蓝图）</SLABNEPPDouble_Blueprint_Install.label>
+  <SLABNEPPDouble_Frame.label>石板双人床 （建设中）</SLABNEPPDouble_Frame.label>
+  <SLABNEPPDouble_Frame.description>“石来普SLABNEPP双人床”
+
+纯手工石床，雕刻“贝拉峭壁纹”，
+既舒适又美观（可供两人使用）。</SLABNEPPDouble_Frame.description>
+
+  <SNORHOI.label>动物草垫</SNORHOI.label>
+  <SNORHOI.description>“思诺伊SNORHOI动物床”
+
+“你的动物，只需要你的爱，
+一点饲料，和思诺伊草垫。”*
+             ——大哲学家**
+
+（*草草翻译；**匿名）</SNORHOI.description>
+  <SNORHOI_Blueprint.label>动物草垫（蓝图）</SNORHOI_Blueprint.label>
+  <SNORHOI_Blueprint_Install.label>动物草垫（蓝图）</SNORHOI_Blueprint_Install.label>
+  <SNORHOI_Frame.label>动物草垫 （建设中）</SNORHOI_Frame.label>
+  <SNORHOI_Frame.description>“思诺伊SNORHOI动物床”
+
+“你的动物，只需要你的爱，
+一点饲料，和思诺伊草垫。”*
+             ——大哲学家**
+
+（*草草翻译；**匿名）</SNORHOI_Frame.description>
+
+
+  <!-- Lighting -->
+
+  <BOLTASKLamp.label>火盆</BOLTASKLamp.label>
+  <BOLTASKLamp.description>“勃塔思BOLTASK灯”
+
+小小火盆里包裹着，
+微弱而温暖的火苗。*
+
+（*确保有人看管火焰。）</BOLTASKLamp.description>
+  <BOLTASKLamp_Blueprint.label>火盆（蓝图）</BOLTASKLamp_Blueprint.label>
+  <BOLTASKLamp_Blueprint_Install.label>火盆（蓝图）</BOLTASKLamp_Blueprint_Install.label>
+  <BOLTASKLamp_Frame.label>火盆（建设中）</BOLTASKLamp_Frame.label>
+  <BOLTASKLamp_Frame.description>>“勃塔思BOLTASK灯”
+
+小小火盆里包裹着，
+微弱而温暖的火苗。*
+
+（*确保有人看管火焰。）</BOLTASKLamp_Frame.description>
+
+
+  <!-- Art -->
+
+  <KAROMUF.label>卡洛穆夫神像</KAROMUF.label>
+  <KAROMUF.description>卡洛穆夫神像
+
+玉衡星末端上靛蓝沙鼠部落的索多玛
+把神圣的“卡洛穆夫”视为神明。</KAROMUF.description>
+  <KAROMUF_Blueprint_Install.label>卡洛穆夫神像（蓝图）</KAROMUF_Blueprint_Install.label>
+
+  <SMOERTIGE.label>斯摩太基雕像</SMOERTIGE.label>
+  <SMOERTIGE.description>斯摩太基雕像
+
+这绝美的雕像刻下了
+灰人部落的女族长“丽人安哈”
+其神若何，月射寒江。</SMOERTIGE.description>
+  <SMOERTIGE_Blueprint_Install.label>斯摩太基雕像（蓝图）</SMOERTIGE_Blueprint_Install.label>
+
+  <LORDOKI.label>洛多基神像</LORDOKI.label>
+  <LORDOKI.description>洛多基神像
+此雕像描绘了一种狼形神祇，
+名为“洛多基”。
+轩辕XI上的紫红龙虾椎尾视其为神明。</LORDOKI.description>
+  <LORDOKI_Blueprint_Install.label>洛多基神像（蓝图）</LORDOKI_Blueprint_Install.label>
+
+
+  <!-- Decor -->
+
+  <BLUMTASK.label>角花盆</BLUMTASK.label>
+  <BLUMTASK.description>“布朗塔司BLUMTASK花盆”
+
+出自设计师Shinzaram的Shinzhor之手，
+可爱的角型花盆是植物的不二选择。</BLUMTASK.description>
+  <BLUMTASK_Blueprint.label>角花盆（蓝图）</BLUMTASK_Blueprint.label>
+  <BLUMTASK_Blueprint_Install.label>角花盆（蓝图）</BLUMTASK_Blueprint_Install.label>
+  <BLUMTASK_Frame.label>角花盆 （建设中）</BLUMTASK_Frame.label>
+  <BLUMTASK_Frame.description>“布朗塔司BLUMTASK花盆”
+
+出自设计师Shinzaram的Shinzhor之手，
+可爱的角型花盆是植物的不二选择。</BLUMTASK_Frame.description>
+
+  <FLIKFUTRug.label>拼接毯</FLIKFUTRug.label>
+  <FLIKFUTRug.description>“福里福FLIKFUT毯”
+
+五块毛皮拼接，
+装饰你的房间，
+美观不乏粗狂！</FLIKFUTRug.description>
+  <FLIKFUTRug_Blueprint.label>拼接毯（蓝图）</FLIKFUTRug_Blueprint.label>
+  <FLIKFUTRug_Blueprint_Install.label>拼接毯（蓝图）</FLIKFUTRug_Blueprint_Install.label>
+  <FLIKFUTRug_Frame.label>拼接毯 （建设中）</FLIKFUTRug_Frame.label>
+  <FLIKFUTRug_Frame.description>“福里福FLIKFUT毯”
+
+五块毛皮拼接，
+装饰你的房间，
+美观不乏粗狂！</FLIKFUTRug_Frame.description>
+
+  <MATIPESSIRug.label>小型编织地毯</MATIPESSIRug.label>
+  <MATIPESSIRug.description>“马提佩斯MATIPESSI毯”
+
+美观的小毯子，风格参照
+羊驼部落的Abeneiro。</MATIPESSIRug.description>
+  <MATIPESSIRug_Blueprint.label>小型编织地毯（蓝图）</MATIPESSIRug_Blueprint.label>
+  <MATIPESSIRug_Blueprint_Install.label>小型编织地毯（蓝图）</MATIPESSIRug_Blueprint_Install.label>
+  <MATIPESSIRug_Frame.label>小型编织地毯 （建设中）</MATIPESSIRug_Frame.label>
+  <MATIPESSIRug_Frame.description>“马提佩斯MATIPESSI毯”
+
+美观的小毯子，风格参照
+羊驼部落的Abeneiro。</MATIPESSIRug_Frame.description>
+
+  <MISKANTAARug.label>部族风编织毯</MISKANTAARug.label>
+  <MISKANTAARug.description>“米斯坎塔MISKANTAA毯”
+
+以地毯形式呈现的艺术。
+巧夺天工的设计源自于
+阿奇德I号上的葡树萄牙人。</MISKANTAARug.description>
+  <MISKANTAARug_Blueprint.label>部族风编织毯（蓝图）</MISKANTAARug_Blueprint.label>
+  <MISKANTAARug_Blueprint_Install.label>部族风编织毯（蓝图）</MISKANTAARug_Blueprint_Install.label>
+  <MISKANTAARug_Frame.label>部族风编织毯 （建设中）</MISKANTAARug_Frame.label>
+  <MISKANTAARug_Frame.description>“米斯坎塔MISKANTAA毯”
+
+以地毯形式呈现的艺术。
+巧夺天工的设计源自于
+阿奇德I号上的葡树萄牙人。</MISKANTAARug_Frame.description>
+
+  <HOISTEPRug.label>干草垫</HOISTEPRug.label>
+  <HOISTEPRug.description>“霍思普HOISTEP垫”
+
+用这款精挑细选，精编细织的干草垫，
+为你的房间带来农场庭院的观感。</HOISTEPRug.description>
+  <HOISTEPRug_Blueprint.label>干草垫（蓝图）</HOISTEPRug_Blueprint.label>
+  <HOISTEPRug_Blueprint_Install.label>干草垫（蓝图）</HOISTEPRug_Blueprint_Install.label>
+  <HOISTEPRug_Frame.label>干草垫 （建设中）</HOISTEPRug_Frame.label>
+  <HOISTEPRug_Frame.description>“霍思普HOISTEP垫”
+
+用这款精挑细选，精编细织的干草垫，
+为你的房间带来农场庭院的观感。</HOISTEPRug_Frame.description>
+
+
+</LanguageData>

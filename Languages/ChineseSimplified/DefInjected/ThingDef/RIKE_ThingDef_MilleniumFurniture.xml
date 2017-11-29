@@ -1,0 +1,227 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sitting -->
+
+  <BUMRESTStool.label>墩凳</BUMRESTStool.label>
+  <BUMRESTStool.description>新世纪-“勃莱斯BUMREST凳”
+
+一个完美的臀部居所。</BUMRESTStool.description>
+  <BUMRESTStool_Blueprint.label>墩凳（蓝图）</BUMRESTStool_Blueprint.label>
+  <BUMRESTStool_Blueprint_Install.label>墩凳（蓝图）</BUMRESTStool_Blueprint_Install.label>
+  <BUMRESTStool_Frame.label>墩凳（建设中）</BUMRESTStool_Frame.label>
+  <BUMRESTStool_Frame.description>新世纪-“勃莱斯BUMREST凳”
+
+一个完美的臀部居所。</BUMRESTStool_Frame.description>
+
+  <SITEGGArmchair.label>蛋居扶手椅</SITEGGArmchair.label>
+  <SITEGGArmchair.description>新世纪-“西特艾格SITEGG扶手椅”
+
+席蛋而坐，如鸡似鸽。</SITEGGArmchair.description>
+  <SITEGGArmchair_Blueprint.label>蛋居扶手椅（蓝图）</SITEGGArmchair_Blueprint.label>
+  <SITEGGArmchair_Blueprint_Install.label>蛋居扶手椅（蓝图）</SITEGGArmchair_Blueprint_Install.label>
+  <SITEGGArmchair_Frame.label>蛋居扶手椅（建设中）</SITEGGArmchair_Frame.label>
+  <SITEGGArmchair_Frame.description>新世纪-“西特艾格SITEGG扶手椅”
+
+席蛋而坐，如鸡似鸽。</SITEGGArmchair_Frame.description>
+
+  <CHILLEGGCouch.label>蛋居沙发</CHILLEGGCouch.label>
+  <CHILLEGGCouch.description>新世纪-“憩游艾格CHILLEGG沙发”
+
+回归那段“看个片，啪啪啪”
+的地球人传统和美好旧时光。
+
+（“看个片，啪啪啪”的解释/定义可以在
+古代社会结构相关的历史文献中找到。
+              ——边缘宜家，历史部）</CHILLEGGCouch.description>
+  <CHILLEGGCouch_Blueprint.label>蛋居沙发（蓝图）</CHILLEGGCouch_Blueprint.label>
+  <CHILLEGGCouch_Blueprint_Install.label>蛋居沙发（蓝图）</CHILLEGGCouch_Blueprint_Install.label>
+  <CHILLEGGCouch_Frame.label>蛋居沙发（建设中）</CHILLEGGCouch_Frame.label>
+  <CHILLEGGCouch_Frame.description>新世纪-“憩游艾格CHILLEGG沙发”
+
+回归那段“看个片，啪啪啪”
+的地球人传统和美好旧时光。
+
+（“看个片，啪啪啪”的解释/定义可以在
+古代社会结构相关的历史文献中找到。
+              ——边缘宜家，历史部）</CHILLEGGCouch_Frame.description>
+
+
+  <!-- Tables -->
+
+  <EATFLATTTable.label>平板餐桌</EATFLATTTable.label>
+  <EATFLATTTable.description>新世纪-“意弗兰EATFLATT桌”
+
+精致平滑、称心如意的完美桌面，
+令您的用餐体验无出其右！</EATFLATTTable.description>
+  <EATFLATTTable_Blueprint.label>平板餐桌（蓝图）</EATFLATTTable_Blueprint.label>
+  <EATFLATTTable_Blueprint_Install.label>平板餐桌（蓝图）</EATFLATTTable_Blueprint_Install.label>
+  <EATFLATTTable_Frame.label>平板餐桌（建设中）</EATFLATTTable_Frame.label>
+  <EATFLATTTable_Frame.description>新世纪-“意弗兰EATFLATT桌”
+
+精致平滑、称心如意的完美桌面，
+令您的用餐体验无出其右！</EATFLATTTable_Frame.description>
+
+
+  <!-- Sleeping -->
+
+  <SNOREGGSingle.label>蛋眠单人床</SNOREGGSingle.label>
+  <SNOREGGSingle.description>新世纪-“斯诺艾格SNOREGG单人床”
+
+被孤单和寂寞所笼罩？- 别担心！
+蛋眠单人床将您在入梦时紧紧拥抱，
+从此不在深夜里徘徊。</SNOREGGSingle.description>
+  <SNOREGGSingle_Blueprint.label>蛋眠单人床（蓝图）</SNOREGGSingle_Blueprint.label>
+  <SNOREGGSingle_Blueprint_Install.label>蛋眠单人床（蓝图）</SNOREGGSingle_Blueprint_Install.label>
+  <SNOREGGSingle_Frame.label>蛋眠单人床（建设中）</SNOREGGSingle_Frame.label>
+  <SNOREGGSingle_Frame.description>新世纪-“斯诺艾格SNOREGG单人床”
+
+被孤单和寂寞所笼罩？- 别担心！
+蛋眠单人床将您在入梦时紧紧拥抱，
+从此不在深夜里徘徊。</SNOREGGSingle_Frame.description>
+
+  <SNOREGGDouble.label>蛋眠双人床</SNOREGGDouble.label>
+  <SNOREGGDouble.description>新世纪-“斯诺艾格SNOREGG双人床”
+
+无比舒适的蛋型床具，
+睡眠与爱爱皆宜。
+
+（请留意：“爱爱”仅限两人。
+不包括伴侣。 ——边缘宜家，法律部）</SNOREGGDouble.description>
+  <SNOREGGDouble_Blueprint.label>蛋眠双人床（蓝图）</SNOREGGDouble_Blueprint.label>
+  <SNOREGGDouble_Blueprint_Install.label>蛋眠双人床（蓝图）</SNOREGGDouble_Blueprint_Install.label>
+  <SNOREGGDouble_Frame.label>蛋眠双人床（建设中）</SNOREGGDouble_Frame.label>
+  <SNOREGGDouble_Frame.description>新世纪-“斯诺艾格SNOREGG双人床”
+
+无比舒适的蛋型床具，
+睡眠与爱爱皆宜。
+
+（请留意：“爱爱”仅限两人。
+不包括伴侣。 ——边缘宜家，法律部）</SNOREGGDouble_Frame.description>
+
+  <PETSNORR.label>动物睡垫</PETSNORR.label>
+  <PETSNORR.description>新世纪-“派斯诺PETSNOR动物床”
+
+用边缘宜家的派斯诺动物睡垫好好对待你毛茸茸的小伙伴吧。
+不易粘黏宠物毛发，易清洁。</PETSNORR.description>
+  <PETSNORR_Blueprint.label>动物睡垫（蓝图）</PETSNORR_Blueprint.label>
+  <PETSNORR_Blueprint_Install.label>动物睡垫（蓝图）</PETSNORR_Blueprint_Install.label>
+  <PETSNORR_Frame.label>动物睡垫（建设中）</PETSNORR_Frame.label>
+  <PETSNORR_Frame.description>新世纪-“派斯诺PETSNOR动物床”
+
+用边缘宜家的派斯诺动物睡垫好好对待你毛茸茸的小伙伴吧。
+不易粘黏宠物毛发，易清洁。</PETSNORR_Frame.description>
+
+
+  <!-- Lighting -->
+
+  <SHAINBRAITLamp.label>蜂巢落地灯</SHAINBRAITLamp.label>
+  <SHAINBRAITLamp.description>新世纪-纯白的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp.description>
+  <SHAINBRAITLamp_Blueprint.label>蜂巢落地灯（蓝图）</SHAINBRAITLamp_Blueprint.label>
+  <SHAINBRAITLamp_Blueprint_Install.label>蜂巢落地灯（蓝图）</SHAINBRAITLamp_Blueprint_Install.label>
+  <SHAINBRAITLamp_Frame.label>蜂巢落地灯（建设中）</SHAINBRAITLamp_Frame.label>
+  <SHAINBRAITLamp_Frame.description>新世纪-纯白的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp_Frame.description>
+
+  <SHAINBRAITLamp_Red.label>蜂巢落地灯（红）</SHAINBRAITLamp_Red.label>
+  <SHAINBRAITLamp_Red.description>新世纪-通红的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp_Red.description>
+  <SHAINBRAITLamp_Red_Blueprint.label>蜂巢落地灯（红）（蓝图）</SHAINBRAITLamp_Red_Blueprint.label>
+  <SHAINBRAITLamp_Red_Blueprint_Install.label>蜂巢落地灯（红）（蓝图）</SHAINBRAITLamp_Red_Blueprint_Install.label>
+  <SHAINBRAITLamp_Red_Frame.label>蜂巢落地灯（红）（建设中）</SHAINBRAITLamp_Red_Frame.label>
+  <SHAINBRAITLamp_Red_Frame.description>新世纪-通红的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp_Red_Frame.description>
+
+  <SHAINBRAITLamp_Green.label>蜂巢落地灯（绿）</SHAINBRAITLamp_Green.label>
+  <SHAINBRAITLamp_Green.description>新世纪-“沙因布莱SHAINBRAIT落地灯”in mean-green.
+
+月黑风高！要有光！</SHAINBRAITLamp_Green.description>
+  <SHAINBRAITLamp_Green_Blueprint.label>蜂巢落地灯（绿）（蓝图）</SHAINBRAITLamp_Green_Blueprint.label>
+  <SHAINBRAITLamp_Green_Blueprint_Install.label>蜂巢落地灯（绿）（蓝图）</SHAINBRAITLamp_Green_Blueprint_Install.label>
+  <SHAINBRAITLamp_Green_Frame.label>蜂巢落地灯（绿）（建设中）</SHAINBRAITLamp_Green_Frame.label>
+  <SHAINBRAITLamp_Green_Frame.description>新世纪-“沙因布莱SHAINBRAIT落地灯”in mean-green.
+
+月黑风高！要有光！</SHAINBRAITLamp_Green_Frame.description>
+
+  <SHAINBRAITLamp_Blue.label>蜂巢落地灯（蓝）</SHAINBRAITLamp_Blue.label>
+  <SHAINBRAITLamp_Blue.description>新世纪-宝蓝的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp_Blue.description>
+  <SHAINBRAITLamp_Blue_Blueprint.label>蜂巢落地灯（蓝）（蓝图）</SHAINBRAITLamp_Blue_Blueprint.label>
+  <SHAINBRAITLamp_Blue_Blueprint_Install.label>蜂巢落地灯（蓝）（蓝图）</SHAINBRAITLamp_Blue_Blueprint_Install.label>
+  <SHAINBRAITLamp_Blue_Frame.label>蜂巢落地灯（蓝）（建设中）</SHAINBRAITLamp_Blue_Frame.label>
+  <SHAINBRAITLamp_Blue_Frame.description>新世纪-宝蓝的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp_Blue_Frame.description>
+
+  <SHAINBRAITLamp_Violet.label>蜂巢落地灯（紫）</SHAINBRAITLamp_Violet.label>
+  <SHAINBRAITLamp_Violet.description>新世纪-紫罗兰的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp_Violet.description>
+  <SHAINBRAITLamp_Violet_Blueprint.label>蜂巢落地灯（紫）（蓝图）</SHAINBRAITLamp_Violet_Blueprint.label>
+  <SHAINBRAITLamp_Violet_Blueprint_Install.label>蜂巢落地灯（紫）（蓝图）</SHAINBRAITLamp_Violet_Blueprint_Install.label>
+  <SHAINBRAITLamp_Violet_Frame.label>蜂巢落地灯（紫）（建设中）</SHAINBRAITLamp_Violet_Frame.label>
+  <SHAINBRAITLamp_Violet_Frame.description>新世纪-紫罗兰的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp_Violet_Frame.description>
+
+  <SHAINBRAITLamp_Yellow.label>蜂巢落地灯（黄）</SHAINBRAITLamp_Yellow.label>
+  <SHAINBRAITLamp_Yellow.description>新世纪-澄黄的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp_Yellow.description>
+  <SHAINBRAITLamp_Yellow_Blueprint.label>蜂巢落地灯（黄）（蓝图）</SHAINBRAITLamp_Yellow_Blueprint.label>
+  <SHAINBRAITLamp_Yellow_Blueprint_Install.label>蜂巢落地灯（黄）（蓝图）</SHAINBRAITLamp_Yellow_Blueprint_Install.label>
+  <SHAINBRAITLamp_Yellow_Frame.label>蜂巢落地灯（黄）（建设中）</SHAINBRAITLamp_Yellow_Frame.label>
+  <SHAINBRAITLamp_Yellow_Frame.description>新世纪-澄黄的“沙因布莱SHAINBRAIT落地灯”。
+
+月黑风高！要有光！</SHAINBRAITLamp_Yellow_Frame.description>
+
+
+  <!-- Decor -->
+
+  <POTBLUM.label>六方花盆</POTBLUM.label>
+  <POTBLUM.description>新世纪-“普特布鲁POTBLUM花盆”
+
+蔷薇秾艳，罗兰幽幽，
+吾爱之栽，其亦如卿。</POTBLUM.description>
+  <POTBLUM_Blueprint.label>六方花盆（蓝图）</POTBLUM_Blueprint.label>
+  <POTBLUM_Blueprint_Install.label>六方花盆（蓝图）</POTBLUM_Blueprint_Install.label>
+  <POTBLUM_Frame.label>六方花盆（建设中）</POTBLUM_Frame.label>
+  <POTBLUM_Frame.description>新世纪-“普特布鲁POTBLUM花盆”
+
+蔷薇秾艳，罗兰幽幽，
+吾爱之栽，其亦如卿。</POTBLUM_Frame.description>
+
+  <FUTSTENTRug.label>蜂巢地毯</FUTSTENTRug.label>
+  <FUTSTENTRug.description>新世纪-“浮士腾FUTSTENT毯”
+
+专为行走于上而设计的地毯，所以行动起来！
+别再犹豫去感受这足部的奢华触感——</FUTSTENTRug.description>
+  <FUTSTENTRug_Blueprint.label>蜂巢地毯（蓝图）</FUTSTENTRug_Blueprint.label>
+  <FUTSTENTRug_Blueprint_Install.label>蜂巢地毯（蓝图）</FUTSTENTRug_Blueprint_Install.label>
+  <FUTSTENTRug_Frame.label>蜂巢地毯（建设中）</FUTSTENTRug_Frame.label>
+  <FUTSTENTRug_Frame.description>新世纪- 蜂巢地毯
+
+专为行走于上而设计的地毯，所以行动起来！
+别再犹豫去感受这足部的奢华触感——</FUTSTENTRug_Frame.description>
+
+  <STEPFUTRug.label>几何地毯</STEPFUTRug.label>
+  <STEPFUTRug.description>新世纪-“斯台福STEPFUT毯”
+
+顺着几何地毯，走向奢华之路
+妆点每个卧室，明亮任何房间</STEPFUTRug.description>
+  <STEPFUTRug_Blueprint.label>几何地毯（蓝图）</STEPFUTRug_Blueprint.label>
+  <STEPFUTRug_Blueprint_Install.label>几何地毯（蓝图）</STEPFUTRug_Blueprint_Install.label>
+  <STEPFUTRug_Frame.label>几何地毯（建设中）</STEPFUTRug_Frame.label>
+  <STEPFUTRug_Frame.description>新世纪-“斯台福STEPFUT毯”
+
+顺着几何地毯，走向奢华之路。
+妆点每个卧室，明亮任何房间。</STEPFUTRug_Frame.description>
+
+
+</LanguageData>

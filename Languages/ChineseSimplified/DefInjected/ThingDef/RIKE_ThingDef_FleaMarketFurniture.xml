@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sitting -->
+
+  <BULDRESTStool.label>块堆凳</BULDRESTStool.label>
+  <BULDRESTStool.description>“鲍德瑞斯BULDREST凳”
+有人觉得坐在那些堆放的石块上，
+总比坐在地上强。
+事实证明，他们是对的。</BULDRESTStool.description>
+  <BULDRESTStool_Blueprint.label>块堆凳（蓝图）</BULDRESTStool_Blueprint.label>
+  <BULDRESTStool_Blueprint_Install.label>块堆凳（蓝图）</BULDRESTStool_Blueprint_Install.label>
+  <BULDRESTStool_Frame.label>块堆凳（建设中）</BULDRESTStool_Frame.label>
+  <BULDRESTStool_Frame.description>“鲍德瑞斯BULDREST凳”
+有人觉得坐在那些堆放的石块上，
+总比坐在地上强。
+事实证明，他们是对的。</BULDRESTStool_Frame.description>
+
+
+  <!-- Tables -->
+
+  <WODENTable.label>板桌</WODENTable.label>
+  <WODENTable.description>“伍登WODEN桌子”
+一张桌子，木质材料。
+年代久远，摇摇欲坠，毫不入眼。
+但你不必再把食物放在地上了，兴许吧。</WODENTable.description>
+  <WODENTable_Blueprint.label>板桌（蓝图）</WODENTable_Blueprint.label>
+  <WODENTable_Blueprint_Install.label>板桌（蓝图）</WODENTable_Blueprint_Install.label>
+  <WODENTable_Frame.label>板桌（建设中）</WODENTable_Frame.label>
+  <WODENTable_Frame.description>“伍登WODEN桌子”
+一张桌子，木质材料。
+年代久远，摇摇欲坠，毫不入眼。
+但你不必再把食物放在地上了，兴许吧。</WODENTable_Frame.description>
+
+
+  <!-- Sleeping -->
+
+  <PILFURBed.label>地铺</PILFURBed.label>
+  <PILFURBed.description>“皮尔福PILFUR床”
+如果你能躺在一坨东西上，
+为什么还要躺在地板上？</PILFURBed.description>
+  <PILFURBed_Blueprint.label>地铺 （蓝图）</PILFURBed_Blueprint.label>
+  <PILFURBed_Blueprint_Install.label>地铺 （蓝图）</PILFURBed_Blueprint_Install.label>
+  <PILFURBed_Frame.label>地铺 （建设中）</PILFURBed_Frame.label>
+  <PILFURBed_Frame.description>“皮尔福PILFUR床”
+如果你能躺在一坨东西上，
+为什么还要躺在地板上？</PILFURBed_Frame.description>
+
+
+  <!-- Lighting -->
+
+  <KAGESHAINLamp.label>笼罩落地灯</KAGESHAINLamp.label>
+  <KAGESHAINLamp.description>“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp.description>
+  <KAGESHAINLamp_Blueprint.label>笼罩落地灯 （蓝图）</KAGESHAINLamp_Blueprint.label>
+  <KAGESHAINLamp_Blueprint_Install.label>笼罩落地灯 （蓝图）</KAGESHAINLamp_Blueprint_Install.label>
+  <KAGESHAINLamp_Frame.label>笼罩落地灯 （建设中）</KAGESHAINLamp_Frame.label>
+  <KAGESHAINLamp_Frame.description>“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Frame.description>
+
+  <KAGESHAINLamp_Red.label>笼罩落地灯 （红）</KAGESHAINLamp_Red.label>
+  <KAGESHAINLamp_Red.description>通红的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Red.description>
+  <KAGESHAINLamp_Red_Blueprint.label>笼罩落地灯 （红） （蓝图）</KAGESHAINLamp_Red_Blueprint.label>
+  <KAGESHAINLamp_Red_Blueprint_Install.label>笼罩落地灯 （红） （蓝图）</KAGESHAINLamp_Red_Blueprint_Install.label>
+  <KAGESHAINLamp_Red_Frame.label>笼罩落地灯 （红） （建设中）</KAGESHAINLamp_Red_Frame.label>
+  <KAGESHAINLamp_Red_Frame.description>通红的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Red_Frame.description>
+
+  <KAGESHAINLamp_Green.label>笼罩落地灯 （绿）</KAGESHAINLamp_Green.label>
+  <KAGESHAINLamp_Green.description>翠绿的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Green.description>
+  <KAGESHAINLamp_Green_Blueprint.label>笼罩落地灯 （绿） （蓝图）</KAGESHAINLamp_Green_Blueprint.label>
+  <KAGESHAINLamp_Green_Blueprint_Install.label>笼罩落地灯 （绿） （蓝图）</KAGESHAINLamp_Green_Blueprint_Install.label>
+  <KAGESHAINLamp_Green_Frame.label>笼罩落地灯 （绿） （建设中）</KAGESHAINLamp_Green_Frame.label>
+  <KAGESHAINLamp_Green_Frame.description>翠绿的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Green_Frame.description>
+
+  <KAGESHAINLamp_Blue.label>笼罩落地灯 （蓝）</KAGESHAINLamp_Blue.label>
+  <KAGESHAINLamp_Blue.description>宝蓝的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Blue.description>
+  <KAGESHAINLamp_Blue_Blueprint.label>笼罩落地灯 （蓝） （蓝图）</KAGESHAINLamp_Blue_Blueprint.label>
+  <KAGESHAINLamp_Blue_Blueprint_Install.label>笼罩落地灯 （蓝） （蓝图）</KAGESHAINLamp_Blue_Blueprint_Install.label>
+  <KAGESHAINLamp_Blue_Frame.label>笼罩落地灯 （蓝） （建设中）</KAGESHAINLamp_Blue_Frame.label>
+  <KAGESHAINLamp_Blue_Frame.description>宝蓝的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Blue_Frame.description>
+
+  <KAGESHAINLamp_Violet.label>笼罩落地灯（紫）</KAGESHAINLamp_Violet.label>
+  <KAGESHAINLamp_Violet.description>紫罗兰的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Violet.description>
+  <KAGESHAINLamp_Violet_Blueprint.label>笼罩落地灯（紫） （蓝图）</KAGESHAINLamp_Violet_Blueprint.label>
+  <KAGESHAINLamp_Violet_Blueprint_Install.label>笼罩落地灯（紫） （蓝图）</KAGESHAINLamp_Violet_Blueprint_Install.label>
+  <KAGESHAINLamp_Violet_Frame.label>笼罩落地灯（紫） （建设中）</KAGESHAINLamp_Violet_Frame.label>
+  <KAGESHAINLamp_Violet_Frame.description>紫罗兰的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Violet_Frame.description>
+
+  <KAGESHAINLamp_Yellow.label>笼罩落地灯（黄）</KAGESHAINLamp_Yellow.label>
+  <KAGESHAINLamp_Yellow.description>澄黄的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Yellow.description>
+  <KAGESHAINLamp_Yellow_Blueprint.label>笼罩落地灯（黄） （蓝图）</KAGESHAINLamp_Yellow_Blueprint.label>
+  <KAGESHAINLamp_Yellow_Blueprint_Install.label>笼罩落地灯（黄） （蓝图）</KAGESHAINLamp_Yellow_Blueprint_Install.label>
+  <KAGESHAINLamp_Yellow_Frame.label>笼罩落地灯（黄） （建设中）</KAGESHAINLamp_Yellow_Frame.label>
+  <KAGESHAINLamp_Yellow_Frame.description>澄黄的“凯奇沙因KAGESHAIN灯”
+笼罩落地灯的出厂量并不多。
+它在设计上有一个小瑕疵：
+笼型的灯罩无法更换灯泡。
+顾客对此表示介意。</KAGESHAINLamp_Yellow_Frame.description>
+
+  <LAMPONLamp.label>小挂灯</LAMPONLamp.label>
+  <LAMPONLamp.description>“蓝芃LAMPON壁挂灯”
+织物捆扎的灯泡，亮度较低但十分美观。</LAMPONLamp.description>
+  <LAMPONLamp_Blueprint.label>小挂灯（蓝图）</LAMPONLamp_Blueprint.label>
+  <LAMPONLamp_Blueprint_Install.label>小挂灯（蓝图）</LAMPONLamp_Blueprint_Install.label>
+  <LAMPONLamp_Frame.label>小挂灯（建设中）</LAMPONLamp_Frame.label>
+  <LAMPONLamp_Frame.description>“蓝芃LAMPON壁挂灯”
+织物捆扎的灯泡，亮度较低但十分美观。</LAMPONLamp_Frame.description>
+
+
+  <!-- Decor -->
+
+  <FEERSTELL.label>壁炉</FEERSTELL.label>
+  <FEERSTELL.description>“费尔思FEERSTELL壁炉”
+可以代替墙壁建造，
+但背后最好有一个密封的排烟口。
+这样热量可以从壁炉背后循环回来。</FEERSTELL.description>
+  <FEERSTELL_Blueprint.label>壁炉（蓝图）</FEERSTELL_Blueprint.label>
+  <FEERSTELL_Blueprint_Install.label>壁炉（蓝图）</FEERSTELL_Blueprint_Install.label>
+  <FEERSTELL_Frame.label>壁炉（建设中）</FEERSTELL_Frame.label>
+  <FEERSTELL_Frame.description>“费尔思FEERSTELL壁炉”
+可以代替墙壁建造，
+但背后最好有一个密封的排烟口。
+这样热量可以从壁炉背后循环回来。</FEERSTELL_Frame.description>
+
+
+</LanguageData>

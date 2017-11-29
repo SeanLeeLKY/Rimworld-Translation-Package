@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Millenium Furniture -->
+
+  <MilleniumLineFurniture.label>新世纪家具</MilleniumLineFurniture.label>
+  <MilleniumLineFurniture.description>你的一位殖民者发现一个古老的数据存储设备，内含大量旧时的电子文档。
+在这些古老的数据里有一本边缘宜家的杂志，编号#4120。
+这本杂志介绍了“未来风”的边缘宜家新世纪家具，如今你也可以享受这些家具了！</MilleniumLineFurniture.description>
+
+
+  <!-- Rustika Furniture -->
+
+  <RustikaFurniture.label>部落风家具</RustikaFurniture.label>
+  <RustikaFurniture.description>你的一位殖民者发现一个古老的数据存储设备，内含大量旧时的电子文档。
+在这些古老的数据里有一本边缘宜家的杂志，编号#3522，特别期刊。
+里面刊登了大量来自边缘世界里各种各样的“部落风”家具。</RustikaFurniture.description>
+
+
+</LanguageData>

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rugs -->
+
+  <RUGUN.label>方形地毯3x3</RUGUN.label>
+  <RUGUN.description>“洛衮RUGUN毯”精选自 “边缘宜家地毯合辑” 3x3</RUGUN.description>
+  <RUGUN_Blueprint.label>方形地毯（蓝图）</RUGUN_Blueprint.label>
+  <RUGUN_Blueprint_Install.label>方形地毯（蓝图）</RUGUN_Blueprint_Install.label>
+  <RUGUN_Frame.label>方形地毯（建设中）</RUGUN_Frame.label>
+  <RUGUN_Frame.description>“洛衮RUGUN毯”精选自 “边缘宜家地毯合辑” 3x3</RUGUN_Frame.description>
+
+  <RUGDWA.label>方形地毯4x4</RUGDWA.label>
+  <RUGDWA.description>“洛华RUGUN毯”精选自 “边缘宜家地毯合辑” 4x4</RUGDWA.description>
+  <RUGDWA_Blueprint.label>方形地毯 （蓝图）</RUGDWA_Blueprint.label>
+  <RUGDWA_Blueprint_Install.label>方形地毯 （蓝图）</RUGDWA_Blueprint_Install.label>
+  <RUGDWA_Frame.label>方形地毯 （建设中）</RUGDWA_Frame.label>
+  <RUGDWA_Frame.description>“洛华RUGUN毯”精选自 “边缘宜家地毯合辑” 4x4</RUGDWA_Frame.description>
+
+  <RUGTRE.label>圆形地毯3x3</RUGTRE.label>
+  <RUGTRE.description>“洛垂RUGUN毯”精选自 “边缘宜家地毯合辑” 3x3</RUGTRE.description>
+  <RUGTRE_Blueprint.label>圆形地毯 （蓝图）</RUGTRE_Blueprint.label>
+  <RUGTRE_Blueprint_Install.label>圆形地毯 （蓝图）</RUGTRE_Blueprint_Install.label>
+  <RUGTRE_Frame.label>圆形地毯 （建设中）</RUGTRE_Frame.label>
+  <RUGTRE_Frame.description>“洛垂RUGUN毯”精选自 “边缘宜家地毯合辑” 3x3</RUGTRE_Frame.description>
+
+  <RUGFIR.label>圆形地毯2x2</RUGFIR.label>
+  <RUGFIR.description>“洛弗RUGUN毯”精选自 “边缘宜家地毯合辑”2x2</RUGFIR.description>
+  <RUGFIR_Blueprint.label>圆形地毯2x2 （蓝图）</RUGFIR_Blueprint.label>
+  <RUGFIR_Blueprint_Install.label>圆形地毯2x2 （蓝图）</RUGFIR_Blueprint_Install.label>
+  <RUGFIR_Frame.label>圆形地毯2x2 （建设中）</RUGFIR_Frame.label>
+  <RUGFIR_Frame.description>“洛弗RUGUN毯”精选自 “边缘宜家地毯合辑”2x2</RUGFIR_Frame.description>
+
+
+</LanguageData>
