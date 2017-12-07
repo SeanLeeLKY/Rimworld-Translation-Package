@@ -1,9 +1,9 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
 	<name>RimWorld模组汉化整合</name>
 	<author>SeanLee</author>
     <url>https://coding.net/u/SeanLee/p/Rimworld-MODS-Trans-CN</url>
-	<targetVersion>0.17.0</targetVersion>
+	<targetVersion>0.18.0</targetVersion>
 	<description>本模组整合了大量的模组汉化,让你没有安装汉化的后顾之忧。\n点击链接可以检查你是否使用的是最新版本。\n如需联系和建议，请到项目页面直接留言。
 	\n\n\nPS:\n请将本MOD安放在MOD列表的最后一位。\n\n请将本MOD安放在MOD列表的最后一位。\n\n请将本MOD安放在MOD列表的最后一位。\n\n重要的事情说三遍！！！
 	</description>
