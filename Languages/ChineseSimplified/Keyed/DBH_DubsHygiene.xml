@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!--Construction-->
+  <DesignatorRemovePlumbing>拆除管道</DesignatorRemovePlumbing>
+  <DesignatorRemovePlumbingDesc>拆解指定的管道</DesignatorRemovePlumbingDesc>
+
+  <!--Warnings-->
+  <BlockedSewage>污水出口堵塞</BlockedSewage>
+  <BlockedSewageDesc>杂物堵住了排污口。\n\n建造更多排污口或污水处理系统，能够缓解排污压力。</BlockedSewageDesc>
+  <LowWaterTemp>水温低</LowWaterTemp>
+  <LowWaterTempDesc>这个水箱的水温太低，这会让希望使用热水的殖民者感到恼火。\n\n请添加更多的锅炉或其他升温设备。</LowWaterTempDesc>
+
+  <Nowater>缺少蓄水设备</Nowater>
+  <Nosewage>缺少排污设备</Nosewage>
+  <RequiresPlumbing>需要管道</RequiresPlumbing>
+  <AccessRestricted>无法到达</AccessRestricted>
+
+  <TooHot>太热: {0}%</TooHot>
+  <InRain>淋雨: {0}%</InRain>
+  <DirtyHands>肮脏的手 - 疾病风险</DirtyHands>
+  <Contaminated>污染 - 疾病风险</Contaminated>
+
+  <LetterLabelBlockedDrain>下水管堵塞</LetterLabelBlockedDrain>
+  <LetterBlockedDrain>排水管堵塞，需要清洁工疏通清理。</LetterBlockedDrain>
+
+  <!--Restrictions-->
+  <ChangeGenderRestriction>改变性别限制</ChangeGenderRestriction>
+  <CommandFixtureSetAsMedicalLabel>医疗</CommandFixtureSetAsMedicalLabel>
+  <CommandFixtureSetAsMedicalDesc>此灯具仅用于医疗</CommandFixtureSetAsMedicalDesc>
+  <PatientsOnly>仅限医疗</PatientsOnly>
+  <AttackHelicopter>攻击直升机</AttackHelicopter>
+  <Unisex>不分性别</Unisex>
+
+  <!--General-->
+  <WashHands>洗手</WashHands>
+  <Wash>洗澡</Wash>
+  <UseToilet>使用</UseToilet>
+  <SewageUsage>排污使用率 = {0}</SewageUsage>
+  <MustBePlumbing>必须接入管道</MustBePlumbing>
+  <PowerMode>电力模式: {0}W</PowerMode>
+  <TargetTemp>最低温度: {0}</TargetTemp>
+  <LowerPower>降低功耗</LowerPower>
+  <LowerPowerDesc>降低供热</LowerPowerDesc>
+  <RaisePower>提高功耗</RaisePower>
+  <RaisePowerDesc>提高供热</RaisePowerDesc>
+  <GroundCapacity>地面容量: {0} L/天</GroundCapacity>
+  <WaterStorage>蓄水量: {0}L</WaterStorage>
+  <BlockedDrain>排水口堵塞</BlockedDrain>
+  <SewageProcessing>污水处理: {1} L/天 未处理: {0} L</SewageProcessing>
+  <HeatingCapacity>加热能力: {0}</HeatingCapacity>
+  <HotwaterCapacity>热水容量: {0}</HotwaterCapacity>
+
+  <WaterTemp>水温: {0}</WaterTemp>
+
+  <CommandDesignateOpenCloseValveLabel>切换阀门</CommandDesignateOpenCloseValveLabel>
+  <CommandDesignateOpenCloseValveDesc>切换阀门打开或关闭</CommandDesignateOpenCloseValveDesc>
+  <ValveClosed>阀门关闭</ValveClosed>
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plumbing.label>管道系统</Plumbing.label>
+  <Plumbing.description>解锁建造管道、卫生设施、水箱、基本加热和污水处理设备。</Plumbing.description>
+
+  <Irrigation.label>灌溉</Irrigation.label>
+  <Irrigation.description>解锁建造更大的水塔和能够通过灌溉土壤提高农作物生长速度的喷灌机。</Irrigation.description>
+
+  <PoweredHeating.label>电力加热</PoweredHeating.label>
+  <PoweredHeating.description>用温控器制造电热锅炉，可以用于水加热和供暖。</PoweredHeating.description>
+
+  <SewageTreatment.label>污水处理</SewageTreatment.label>
+  <SewageTreatment.description>建设污水处理设备，将污水慢慢转化为饮用水。</SewageTreatment.description>
+
+  <AdvancedToilets.label>高级厕所</AdvancedToilets.label>
+  <AdvancedToilets.description>解锁建造先进的电力马桶，降低每次冲洗的用水量并更加舒适。</AdvancedToilets.description>
+
+  <AdvancedShowers.label>电力淋浴器</AdvancedShowers.label>
+  <AdvancedShowers.description>解锁建造电力淋浴器，能够降低淋浴时间，提高舒适度，但同时会消耗两倍的水。</AdvancedShowers.description>
+
+
+</LanguageData>

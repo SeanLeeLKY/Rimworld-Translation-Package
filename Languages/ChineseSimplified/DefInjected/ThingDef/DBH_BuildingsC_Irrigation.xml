@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Irrigation -->
+
+  <IrrigationSprinkler.label>喷灌器</IrrigationSprinkler.label>
+  <IrrigationSprinkler.description>每天清晨对区域进行一次灌溉，提高土地肥沃度。灌溉需要大量的水。</IrrigationSprinkler.description>
+  <IrrigationSprinkler_Blueprint.label>喷灌器（蓝图）</IrrigationSprinkler_Blueprint.label>
+  <IrrigationSprinkler_Blueprint_Install.label>喷灌器（蓝图）</IrrigationSprinkler_Blueprint_Install.label>
+  <IrrigationSprinkler_Frame.label>喷灌器（建造中）</IrrigationSprinkler_Frame.label>
+  <IrrigationSprinkler_Frame.description>每天清晨对区域进行一次灌溉，提高土地肥沃度。灌溉需要大量的水。</IrrigationSprinkler_Frame.description>
+  
+  <plumbingValve.label>管道阀门</plumbingValve.label>
+  <plumbingValve.description>打开或关闭管道之间的连接。</plumbingValve.description>
+  <plumbingValve_Blueprint.label>管道阀门（蓝图）</plumbingValve_Blueprint.label>
+  <plumbingValve_Frame.label>管道阀门（建造中）</plumbingValve_Frame.label>
+  <plumbingValve_Frame.description>打开或关闭管道之间的连接。</plumbingValve_Frame.description>
+
+
+</LanguageData>

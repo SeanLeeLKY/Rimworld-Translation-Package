@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ClearBlockage.label>清除堵塞</ClearBlockage.label>
+  <ClearBlockage.verb>清除堵塞</ClearBlockage.verb>
+  <ClearBlockage.gerund>清除</ClearBlockage.gerund>
+
+  <washPatient.label>清洁病人</washPatient.label>
+  <washPatient.verb>清洁</washPatient.verb>
+  <washPatient.gerund>清洁</washPatient.gerund>
+
+  <cleanBedpan.label>清理便盆</cleanBedpan.label>
+  <cleanBedpan.verb>清理</cleanBedpan.verb>
+  <cleanBedpan.gerund>清理</cleanBedpan.gerund>
+
+  <DocCleanBedpan.label>清理便盆</DocCleanBedpan.label>
+  <DocCleanBedpan.verb>清理</DocCleanBedpan.verb>
+  <DocCleanBedpan.gerund>清理</DocCleanBedpan.gerund>
+
+
+</LanguageData>
