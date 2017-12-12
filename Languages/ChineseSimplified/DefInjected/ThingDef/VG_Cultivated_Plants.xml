@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!-- New crop types -->
+  <!-- Starter Plants -->
 
   <!--[Core] <PlantPotato.label>土豆</PlantPotato.label>-->
   <!--[Core] <PlantPotato.description>一种简单而营养丰富的块茎植物。即使在比较贫瘠的土地中也能很好地生长。不用多久就能收获。一种强大万能的农作物。</PlantPotato.description>-->
@@ -12,50 +12,32 @@
   <!--[Core] <PlantRice.label>水稻</PlantRice.label>-->
   <!--[Core] <PlantRice.description>一种低矮的谷类植物，肥沃的土壤中茁壮成长，产出粮食很快，但不煮熟的话不好吃。</PlantRice.description>-->
 
+  <PlantBarley.label>大麦</PlantBarley.label>
+  <PlantBarley.description>一种能够免疫枯萎病的强壮谷物，可用于烹调食物和酿酒。</PlantBarley.description>
+
+
+  <!-- Tier 2 Plants -->
+
   <PlantSnowbeet.label>雪甜菜</PlantSnowbeet.label>
   <PlantSnowbeet.description>简单的营养丰富的植物。即使在一些贫瘠的土壤中也能种植。收获迅速。一种强大的多用途的作物。在寒冷的气候下也不会枯萎。</PlantSnowbeet.description>
-
-  <Planteggplant.label>茄子</Planteggplant.label>
-  <Planteggplant.description>紫色的茄子品种。生吃有涩味。</Planteggplant.description>
 
   <Plantredlentil.label>红扁豆</Plantredlentil.label>
   <Plantredlentil.description>红色的扁豆品种。已知的最古老的人工种植作物之一。</Plantredlentil.description>
 
-  <Plantpumpkin.label>南瓜</Plantpumpkin.label>
-  <Plantpumpkin.description>大型的橙色南瓜品种。万圣节上常用来雕成南瓜头。</Plantpumpkin.description>
-
-  <Plantsquash.label>西葫芦</Plantsquash.label>
-  <Plantsquash.description>葫芦科南瓜属的黄色品种。</Plantsquash.description>
-
   <Plantbean.label>黄豆</Plantbean.label>
   <Plantbean.description>黄豆是烹饪中的常见材料。</Plantbean.description>
 
-  <PlantTomato.label>西红柿</PlantTomato.label>
-  <PlantTomato.description>鲜艳的红色果实，既是水果又是蔬菜，适宜种植在肥沃的土壤中。</PlantTomato.description>
+  <PlantOlivetree.label>橄榄树</PlantOlivetree.label>
+  <PlantOlivetree.description>橄榄树，采摘后能保留树木。</PlantOlivetree.description>
 
-  <PlantCarrot.label>胡萝卜</PlantCarrot.label>
-  <PlantCarrot.description>一种长条状的橘红色蔬菜，即使在贫瘠的土壤中也能种植。</PlantCarrot.description>
 
-  <Plantmushroom.label>蘑菇</Plantmushroom.label>
-  <Plantmushroom.description>这种经过转基因处理的壮硕蘑菇可以作为肉食的替代品。</Plantmushroom.description>
-
-  <Plantoats.label>燕麦</Plantoats.label>
-  <Plantoats.description>一种低糖、高营养、高能量的谷物。</Plantoats.description>
-
-  <Plantwheat.label>小麦</Plantwheat.label>
-  <Plantwheat.description>小麦是一种谷物，收获后能制成面粉。</Plantwheat.description>
+  <!-- Other Plants -->
 
   <!--[Core] <PlantHaygrass.label>干草</PlantHaygrass.label>-->
   <!--[Core] <PlantHaygrass.description>各种营养丰富的草混合在一起种植，产出大量用于喂养动物的干草。干草是很好的饲料，但对于人类来说难以下咽。</PlantHaygrass.description>-->
 
   <!--[Core] <PlantGrass.label>草</PlantGrass.label>-->
   <!--[Core] <PlantGrass.description>野草，在稍微有点光线和土地的地方就会长出来。</PlantGrass.description>-->
-
-  <Plantcocoa.label>可可树</Plantcocoa.label>
-  <Plantcocoa.description>可可豆能经过发酵、烘焙、研磨，最后加工成巧克力。</Plantcocoa.description>
-
-  <Plantsugarcane.label>甘蔗</Plantsugarcane.label>
-  <Plantsugarcane.description>甘蔗用于提炼蔗糖。</Plantsugarcane.description>
 
   <PlantTea.label>茶树</PlantTea.label>
   <PlantTea.description>一种灌木。叶子可以冲泡成美味的饮料。</PlantTea.description>
@@ -66,49 +48,8 @@
   <!--[Core] <PlantHops.label>啤酒花</PlantHops.label>-->
   <!--[Core] <PlantHops.description>又名蛇麻草，一种开花植物，产出啤酒花，啤酒原料的必需品。</PlantHops.description>-->
 
-
-  <!-- <ThingDef ParentName="VG_PlantDef">
-	<defName>Plantaloe</defName>
-	<label>aloe plant</label>
-	<description>Aloe is grow for its natural healing properties.</description>
-    <graphicData>
-      <texPath>Things/Plants/aloePlant</texPath>
-      <graphicClass>Graphic_Single</graphicClass>
-    </graphicData>
-    <plant>
-      <harvestedThingDef>aloe</harvestedThingDef>
-	<harvestYield>2</harvestYield>
-      <sowMinSkill>5</sowMinSkill>
-      <growDays>4</growDays>
-      <reproduceMtbDays>3.5</reproduceMtbDays>
-      <fertilitySensitivity>0.6</fertilitySensitivity>
-	<wildBiomes>
-	   <TemperateForest>0.03</TemperateForest>
-	   <TropicalRainforest>0.03</TropicalRainforest>    			   <BorealForest>0.02</BorealForest>
-	   <Tundra>0.02</Tundra>
-        <AridShrubland>0.02</AridShrubland>
-        <Desert>0.01</Desert>
-	</wildBiomes>
-    </plant>
-  </ThingDef> -->
-
-  <!--[Core] <PlantHealroot.label>药草</PlantHealroot.label>-->
-  <!--[Core] <PlantHealroot.description>一种生长缓慢的植物，可以收获草药。\n\n已经被殖民者们选择育种了几个世纪。因其五大医疗功效，被部落人誉为「医者之手」。</PlantHealroot.description>-->
-
-  <!--[Core] <PlantCotton.label>棉花</PlantCotton.label>-->
-  <!--[Core] <PlantCotton.description>产出棉花。一种用于制衣的良好植物纤维。</PlantCotton.description>-->
-
-  <!--[Core] <PlantDevilstrand.label>恶魔菇</PlantDevilstrand.label>-->
-  <!--[Core] <PlantDevilstrand.description>这种经过基因工程改造的脆弱蘑菇能够产出最高级的丝质纤维。据传这种蘑菇拥有非常神秘的特性，它的名称源自它在人群中所激发出的贪欲。</PlantDevilstrand.description>-->
-
-  <PlantFlax.label>亚麻花</PlantFlax.label>
-  <PlantFlax.description>这种花的纤维可以被编织成亚麻布。</PlantFlax.description>
-
-  <PlantNeutroFlower.label>中性花</PlantNeutroFlower.label>
-  <PlantNeutroFlower.description>一种漂亮黄橙色花朵。用于制作中性胺和药物。</PlantNeutroFlower.description>
-
-  <Plantbamboo.label>竹</Plantbamboo.label>
-  <Plantbamboo.description>一种速生型草本植物。</Plantbamboo.description>
+  <!--[Core] <PlantTreeBamboo.label>竹</PlantTreeBamboo.label>-->
+  <!--[Core] <PlantTreeBamboo.description>一种成群生长而又生长迅速的物种，类似于普通的树。可从竹子中收获类似木材的材料。这种植物本身并不好看。</PlantTreeBamboo.description>-->
 
 
 </LanguageData>

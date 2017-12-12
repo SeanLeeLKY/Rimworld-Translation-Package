@@ -45,10 +45,7 @@
   <RawCoconut.label>椰子</RawCoconut.label>
   <RawCoconut.description>长在树上的椰果。有着坚硬的外壳，内部有果肉和大量汁液。可以在食物加工台上劈开得到「椰肉」和「椰汁」。</RawCoconut.description>
 
-  <RawCoconutHalf.label>椰肉</RawCoconutHalf.label>
-  <RawCoconutHalf.description>劈开椰子后得到的椰肉，富含好吃营养的汁液。</RawCoconutHalf.description>
-
-  <!--[Core] <RawBerries.label>草莓</RawBerries.label>-->
+  <!--[Core] <RawBerries.label>莓果</RawBerries.label>-->
   <!--[Core] <RawBerries.description>各种各样的浆果，就算生吃味道也很好。</RawBerries.description>-->
 
   <!--[Core] <RawAgave.label>龙舌兰果</RawAgave.label>-->

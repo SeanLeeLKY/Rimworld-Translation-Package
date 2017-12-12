@@ -15,32 +15,11 @@
   <PlantPeachTree.label>桃树</PlantPeachTree.label>
   <PlantPeachTree.description>桃果，采摘后能保留树木。</PlantPeachTree.description>
 
-  <DateTree.label>海枣树</DateTree.label>
-  <DateTree.description>海枣树，采摘后能保留树木。</DateTree.description>
 
-  <FigTree.label>无花果树</FigTree.label>
-  <FigTree.description>无花果树，采摘后能保留树木。</FigTree.description>
-
-  <PlantCherrytree.label>樱桃树</PlantCherrytree.label>
-  <PlantCherrytree.description>樱桃树，采摘后能保留树木。</PlantCherrytree.description>
-
-  <PlantCoconuttree.label>椰子树</PlantCoconuttree.label>
-  <PlantCoconuttree.description>椰子树，采摘后能保留树木。</PlantCoconuttree.description>
-
-  <PlantOlivetree.label>橄榄树</PlantOlivetree.label>
-  <PlantOlivetree.description>橄榄树，采摘后能保留树木。</PlantOlivetree.description>
-
-  <Plantpineapple.label>菠萝</Plantpineapple.label>
-  <Plantpineapple.description>一种在顶部结果的低矮植物，有点扎手。</Plantpineapple.description>
+  <!-- New fruit crop types -->
 
   <Plantgrape.label>葡萄</Plantgrape.label>
   <Plantgrape.description>能在细长藤蔓上结出甜蜜小果实的植物。</Plantgrape.description>
-
-  <Plantcloudberry.label>云莓</Plantcloudberry.label>
-  <Plantcloudberry.description>寒冷气候中生长的浆果灌木。</Plantcloudberry.description>
-
-  <Plantgooseberry.label>醋粟</Plantgooseberry.label>
-  <Plantgooseberry.description>寒冷气候中生长的浆果灌木。</Plantgooseberry.description>
 
   <!--[Core] <PlantAgave.label>龙舌兰</PlantAgave.label>-->
   <!--[Core] <PlantAgave.description>宽大叶子的沙漠植物，花和茎可以食用。</PlantAgave.description>-->
@@ -53,9 +32,6 @@
 
   <Plantwatermelon.label>西瓜</Plantwatermelon.label>
   <Plantwatermelon.description>这种水果富含维生素A和C，可以生吃，也可以用多种方法进行烹调。</Plantwatermelon.description>
-
-  <!--[Core] <PlantRaspberry.label>野山莓</PlantRaspberry.label>-->
-  <!--[Core] <PlantRaspberry.description>长有好吃的红色浆果的灌木。</PlantRaspberry.description>-->
 
 
 </LanguageData>
