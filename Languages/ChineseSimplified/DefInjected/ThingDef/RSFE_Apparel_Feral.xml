@@ -1,6 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <Apparel_PatchedShirt.label>打满补丁的衬衫</Apparel_PatchedShirt.label>
+  <Apparel_PatchedShirt.description>粗制滥造的衬衫。</Apparel_PatchedShirt.description>
+
   <Apparel_HuskerHood.label>蛮族兜帽</Apparel_HuskerHood.label>
   <Apparel_HuskerHood.description>坚固但制作粗糙的蛮族兜帽。</Apparel_HuskerHood.description>
 

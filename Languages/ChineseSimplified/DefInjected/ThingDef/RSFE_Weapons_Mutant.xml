@@ -9,13 +9,20 @@
   <Feral_RivetCannon.label>铆钉加农炮</Feral_RivetCannon.label>
   <Feral_RivetCannon.description>一种重型的改装过的工业铆钉枪。</Feral_RivetCannon.description>
 
-  <Cluster_ClusterCannon.label>集束炮弹</Cluster_ClusterCannon.label>
+  <Bullet_DMG.label>子弹</Bullet_DMG.label>
 
-  <Feral_ClusterCannon.label>集束加农炮</Feral_ClusterCannon.label>
-  <Feral_ClusterCannon.description>喀，嘣！！ </Feral_ClusterCannon.description>
+  <Feral_DMG.label>双管机枪</Feral_DMG.label>
+  <Feral_DMG.description>来根双喜？</Feral_DMG.description>
 
   <Sunderer.label>巨型砍刀</Sunderer.label>
   <Sunderer.description>巨型砍刀。</Sunderer.description>
+  <Sunderer.tools.0.label>柄</Sunderer.tools.0.label>
+  <Sunderer.tools.1.label>刃</Sunderer.tools.1.label>
+
+  <Bullet_SporeSmoker.label>烟雾孢子</Bullet_SporeSmoker.label>
+
+  <Feral_SporeSmoker.label>烟雾孢子</Feral_SporeSmoker.label>
+  <Feral_SporeSmoker.description>有毒孢子共生团。命中时会产生浓厚的烟雾云。</Feral_SporeSmoker.description>
 
 
 </LanguageData>

@@ -1,40 +1,89 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Bullet_Lynx.label>手枪子弹</Bullet_Lynx.label>
+  <Bullet_TacticalPistol.label>手枪子弹</Bullet_TacticalPistol.label>
 
-  <GD_Lynx.label>GD战术手枪</GD_Lynx.label>
-  <GD_Lynx.description>「灰谷防御」的「猞猁」战术手枪。轻便易用，理想的个人防卫武器。使用小口径高速穿甲弹。</GD_Lynx.description>
+  <GD_TacticalPistol.label>GD战术手枪</GD_TacticalPistol.label>
+  <GD_TacticalPistol.description>「灰谷防御」的「猞猁」战术手枪。轻便易用，理想的个人防卫武器。使用小口径、高速玻璃钢弹头子弹。</GD_TacticalPistol.description>
+  <GD_TacticalPistol.tools.0.label>握把</GD_TacticalPistol.tools.0.label>
+  <GD_TacticalPistol.tools.1.label>枪管</GD_TacticalPistol.tools.1.label>
 
-  <Bullet_ModularCarbine.label>卡宾枪子弹</Bullet_ModularCarbine.label>
+  <Bullet_ModularRifle.label>步枪子弹</Bullet_ModularRifle.label>
 
   <GD_ModularCarbine.label>GD模组化卡宾枪</GD_ModularCarbine.label>
   <GD_ModularCarbine.description>「灰谷防御」的「黑豹」模组化步枪系统，卡宾枪型。因其轻便和舒适性设计使其适合用于防卫任务。同时也是其他MRS的基础平台。\n\nMRS: Modular Rifle System 模组化步枪系统。</GD_ModularCarbine.description>
+  <GD_ModularCarbine.tools.0.label>弹匣</GD_ModularCarbine.tools.0.label>
+  <GD_ModularCarbine.tools.1.label>枪管</GD_ModularCarbine.tools.1.label>
 
-  <Bullet_GRC.label>步枪子弹</Bullet_GRC.label>
+  <GD_ModularRifle.label>GD模组化步枪</GD_ModularRifle.label>
+  <GD_ModularRifle.description>「灰谷防御」的「黑豹」模组化步枪系统，步枪型。因其耐用和设计简单，在远程殖民地民兵中非常受欢迎。</GD_ModularRifle.description>
+  <GD_ModularRifle.tools.0.label>弹匣</GD_ModularRifle.tools.0.label>
+  <GD_ModularRifle.tools.1.label>枪管</GD_ModularRifle.tools.1.label>
 
-  <GD_GRC.label>GD模组化步枪</GD_GRC.label>
-  <GD_GRC.description>「灰谷防御」的「黑豹」模组化步枪系统，步枪型。因其耐用和设计简单，在远程殖民地民兵中非常受欢迎。</GD_GRC.description>
+  <Bullet_ModularDMR.label>步枪子弹</Bullet_ModularDMR.label>
 
-  <Bullet_GRM.label>步枪子弹</Bullet_GRM.label>
+  <GD_ModularDMR.label>GD模组化DMR</GD_ModularDMR.label>
+  <GD_ModularDMR.description>「灰谷防御」的「黑豹」模组化步枪系统，神射手步枪型。是精准火力支援或狩猎的极佳工具。</GD_ModularDMR.description>
+  <GD_ModularDMR.tools.0.label>弹匣</GD_ModularDMR.tools.0.label>
+  <GD_ModularDMR.tools.1.label>枪管</GD_ModularDMR.tools.1.label>
 
-  <GD_GRM.label>GD模组化DMR</GD_GRM.label>
-  <GD_GRM.description>「灰谷防御」的「黑豹」模组化步枪系统，神射手步枪型。是精准火力支援或狩猎的极佳工具。</GD_GRM.description>
+  <GD_ModularLMG.label>GD模组化LMG</GD_ModularLMG.label>
+  <GD_ModularLMG.description>「灰谷防御」的「黑豹」模组化步枪系统，轻机枪型。其持续不断的火力能给部队提供良好的支援。</GD_ModularLMG.description>
+  <GD_ModularLMG.tools.0.label>弹匣</GD_ModularLMG.tools.0.label>
+  <GD_ModularLMG.tools.1.label>枪管</GD_ModularLMG.tools.1.label>
 
-  <Bullet_GRS.label>机枪子弹</Bullet_GRS.label>
+  <Bullet_HVSMG.label>手枪子弹</Bullet_HVSMG.label>
 
-  <GD_GRS.label>GD模组化LMG</GD_GRS.label>
-  <GD_GRS.description>「灰谷防御」的「黑豹」模组化步枪系统，轻机枪型。其持续不断的火力能给部队提供良好的支援。</GD_GRS.description>
+  <GD_HVSMG.label>GD高速冲锋枪</GD_HVSMG.label>
+  <GD_HVSMG.description>「灰谷防御」的「狞猫」高速轻型冲锋枪。为近距离作战设计，发射特制的小口径高速穿甲弹。</GD_HVSMG.description>
 
-  <Bullet_Jaguar.label>榴弹</Bullet_Jaguar.label>
+  <Bullet_MultiLauncher.label>破片榴弹</Bullet_MultiLauncher.label>
 
-  <GD_Jaguar.label>GD榴弹发射器</GD_Jaguar.label>
-  <GD_Jaguar.description>由「灰谷防御」设计的「美洲豹」榴弹发射器，简单但高效的间接火力支援武器。</GD_Jaguar.description>
+  <GD_GrenadeLauncher.label>GD多用途发射器</GD_GrenadeLauncher.label>
+  <GD_GrenadeLauncher.description>用途最多的火力支援武器之一，「美洲豹」多用途发射器是一种可靠有效的火力支援武器。制作简单，如果你有合适的工具，你可以修改其模式。
 
-  <Bullet_Caracal.label>手枪子弹 bullet</Bullet_Caracal.label>
+破片：基础模式。伤害低，覆盖范围大。
+鹿弹：近距离作战模式。一次发射多颗鹿弹。
+燃烧弹：造成燃烧伤害并点燃目标。
+烟雾：不造成伤害。给目标区域提供烟雾幕。</GD_GrenadeLauncher.description>
+  <GD_GrenadeLauncher.tools.0.label>弹匣</GD_GrenadeLauncher.tools.0.label>
+  <GD_GrenadeLauncher.tools.1.label>枪管</GD_GrenadeLauncher.tools.1.label>
 
-  <GD_Caracal.label>GD高速冲锋枪</GD_Caracal.label>
-  <GD_Caracal.description>「灰谷防御」的「狞猫」高速轻型冲锋枪。为近距离作战设计，发射特制的小口径高速穿甲弹。</GD_Caracal.description>
+  <Bullet_INGrenadeLauncher.label>燃烧榴弹</Bullet_INGrenadeLauncher.label>
+
+  <GD_INGrenadeLauncher.label>GD燃烧弹发射器</GD_INGrenadeLauncher.label>
+  <GD_INGrenadeLauncher.description>用途最多的火力支援武器之一，「美洲豹」多用途发射器是一种可靠有效的火力支援武器。制作简单，如果你有合适的工具，你可以修改其模式。
+
+破片：基础模式。伤害低，覆盖范围大。
+鹿弹：近距离作战模式。一次发射多颗鹿弹。
+燃烧弹：造成燃烧伤害并点燃目标。
+烟雾：不造成伤害。给目标区域提供烟雾幕。</GD_INGrenadeLauncher.description>
+  <GD_INGrenadeLauncher.tools.0.label>弹匣</GD_INGrenadeLauncher.tools.0.label>
+  <GD_INGrenadeLauncher.tools.1.label>枪管</GD_INGrenadeLauncher.tools.1.label>
+
+  <Bullet_SKGrenadeLauncher.label>烟雾榴弹</Bullet_SKGrenadeLauncher.label>
+
+  <GD_SKGrenadeLauncher.label>GD烟雾弹发射器</GD_SKGrenadeLauncher.label>
+  <GD_SKGrenadeLauncher.description>用途最多的火力支援武器之一，「美洲豹」多用途发射器是一种可靠有效的火力支援武器。制作简单，如果你有合适的工具，你可以修改其模式。
+
+破片：基础模式。伤害低，覆盖范围大。
+鹿弹：近距离作战模式。一次发射多颗鹿弹。
+燃烧弹：造成燃烧伤害并点燃目标。
+烟雾：不造成伤害。给目标区域提供烟雾幕。</GD_SKGrenadeLauncher.description>
+  <GD_SKGrenadeLauncher.tools.0.label>弹匣</GD_SKGrenadeLauncher.tools.0.label>
+  <GD_SKGrenadeLauncher.tools.1.label>枪管</GD_SKGrenadeLauncher.tools.1.label>
+
+  <Bullet_BSLauncher.label>鹿弹</Bullet_BSLauncher.label>
+
+  <GD_BSLauncher.label>GD鹿弹发射器</GD_BSLauncher.label>
+  <GD_BSLauncher.description>用途最多的火力支援武器之一，「美洲豹」多用途发射器是一种可靠有效的火力支援武器。制作简单，如果你有合适的工具，你可以修改其模式。
+
+破片：基础模式。伤害低，覆盖范围大。
+鹿弹：近距离作战模式。一次发射多颗鹿弹。
+燃烧弹：造成燃烧伤害并点燃目标。
+烟雾：不造成伤害。给目标区域提供烟雾幕。</GD_BSLauncher.description>
+  <GD_BSLauncher.tools.0.label>弹匣</GD_BSLauncher.tools.0.label>
+  <GD_BSLauncher.tools.1.label>枪管</GD_BSLauncher.tools.1.label>
 
 
 </LanguageData>

@@ -21,20 +21,20 @@
   <Gun_NestMMG.label>中型机枪</Gun_NestMMG.label>
   <Gun_NestMMG.description>中型机枪。</Gun_NestMMG.description>
 
-  <Bullet_NestAGS.label>榴弹</Bullet_NestAGS.label>
+  <Bullet_AGS.label>榴弹</Bullet_AGS.label>
 
-  <Gun_NestAGS.label>自动榴弹发射器</Gun_NestAGS.label>
-  <Gun_NestAGS.description>自动榴弹发射器。</Gun_NestAGS.description>
+  <Gun_AGS.label>自动榴弹发射器</Gun_AGS.label>
+  <Gun_AGS.description>自动榴弹发射器。</Gun_AGS.description>
 
-  <Bullet_MC.label>熔火炮弹</Bullet_MC.label>
+  <Bullet_FakeRifle.label>空包弹</Bullet_FakeRifle.label>
 
-  <Gun_MC.label>熔火加农炮</Gun_MC.label>
-  <Gun_MC.description>重型反机甲武器。</Gun_MC.description>
+  <Gun_FakeRifle.label>假枪</Gun_FakeRifle.label>
+  <Gun_FakeRifle.description>假枪。</Gun_FakeRifle.description>
 
-  <Bullet_BC.label>集束火箭</Bullet_BC.label>
+  <Bullet_SuvTurret.label>动能弹</Bullet_SuvTurret.label>
 
-  <Gun_BC.label>弹幕加农炮</Gun_BC.label>
-  <Gun_BC.description>智能火箭发射器。</Gun_BC.description>
+  <Gun_SuvTurret.label>动能长步枪</Gun_SuvTurret.label>
+  <Gun_SuvTurret.description>重型动能武器。</Gun_SuvTurret.description>
 
 
 </LanguageData>

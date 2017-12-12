@@ -1,11 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <MeleeWeapon_Cleaver.label>砍刀</MeleeWeapon_Cleaver.label>
-  <MeleeWeapon_Cleaver.description>粗制滥造的砍刀。</MeleeWeapon_Cleaver.description>
+  <MeleeWeapon_FeralCleaver.label>砍刀</MeleeWeapon_FeralCleaver.label>
+  <MeleeWeapon_FeralCleaver.description>粗制滥造的砍刀。</MeleeWeapon_FeralCleaver.description>
+  <MeleeWeapon_FeralCleaver.tools.0.label>柄</MeleeWeapon_FeralCleaver.tools.0.label>
+  <MeleeWeapon_FeralCleaver.tools.1.label>刃</MeleeWeapon_FeralCleaver.tools.1.label>
 
-  <MeleeWeapon_Glaive.label>大刀</MeleeWeapon_Glaive.label>
-  <MeleeWeapon_Glaive.description>粗制滥造的大刀。</MeleeWeapon_Glaive.description>
+  <MeleeWeapon_FeralGlaive.label>大刀</MeleeWeapon_FeralGlaive.label>
+  <MeleeWeapon_FeralGlaive.description>粗制滥造的大刀。</MeleeWeapon_FeralGlaive.description>
+  <MeleeWeapon_FeralGlaive.tools.0.label>杆</MeleeWeapon_FeralGlaive.tools.0.label>
+  <MeleeWeapon_FeralGlaive.tools.1.label>刃</MeleeWeapon_FeralGlaive.tools.1.label>
 
 
 </LanguageData>

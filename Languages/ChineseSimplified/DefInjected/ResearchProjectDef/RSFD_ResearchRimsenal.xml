@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <CrucibleTech.label>RS：能量熔炉</CrucibleTech.label>
+  <CrucibleTech.label>能量熔炉</CrucibleTech.label>
   <CrucibleTech.description>解锁「联邦」武器装备的制作。\n\n联邦维和部队：Federation Peacekeeper Corps\n武装动力：Arms Dynamics</CrucibleTech.description>
 
-  <PlasmaTech.label>RS：磁力等离子矩阵</PlasmaTech.label>
+  <PlasmaTech.label>磁力等离子矩阵</PlasmaTech.label>
   <PlasmaTech.description>解锁电浆武器的制作。</PlasmaTech.description>
+
+  <PlasmaMortarTech.label>电浆加速装置</PlasmaMortarTech.label>
+  <PlasmaMortarTech.description>解锁制作「电浆轰击炮」。</PlasmaMortarTech.description>
 
 
 </LanguageData>

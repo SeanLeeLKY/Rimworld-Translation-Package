@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShardSentryTech.label>晶刺哨戒炮</ShardSentryTech.label>
+  <ShardSentryTech.description>解锁建造晶刺哨戒炮。</ShardSentryTech.description>
+
+  <MicrowaveTurretTech.label>微波炮塔</MicrowaveTurretTech.label>
+  <MicrowaveTurretTech.description>解锁建造微波炮塔。</MicrowaveTurretTech.description>
+
+  <SiegeEmplacementTech.label>攻城炮台位</SiegeEmplacementTech.label>
+  <SiegeEmplacementTech.description>解锁建造攻城炮台。</SiegeEmplacementTech.description>
+
+  <DefenceEmplacementTech.label>防御炮台位</DefenceEmplacementTech.label>
+  <DefenceEmplacementTech.description>解锁防御炮台。</DefenceEmplacementTech.description>
+
+
+</LanguageData>

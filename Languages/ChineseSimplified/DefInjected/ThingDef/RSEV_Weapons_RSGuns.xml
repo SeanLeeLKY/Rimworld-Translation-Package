@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_RSBattleRifle.label>攻击步枪子弹</Bullet_RSBattleRifle.label>
+
+  <Gun_RSBattleRifle.label>攻击步枪</Gun_RSBattleRifle.label>
+  <Gun_RSBattleRifle.description>突击步枪的表亲，攻击步枪更大的口径提供更大的威力和射程，尽管更重、后坐力更大使其在全自动火力模式下不甚理想。</Gun_RSBattleRifle.description>
+  <Gun_RSBattleRifle.tools.0.label>弹匣</Gun_RSBattleRifle.tools.0.label>
+  <Gun_RSBattleRifle.tools.1.label>枪管</Gun_RSBattleRifle.tools.1.label>
+
+  <Bullet_RSCarbine.label>卡宾枪子弹</Bullet_RSCarbine.label>
+
+  <Gun_RSCarbine.label>卡宾枪</Gun_RSCarbine.label>
+  <Gun_RSCarbine.description>传统突击步枪的缩短版。较小的尺寸和重量使其更易于操作，近距离作战非常理想。</Gun_RSCarbine.description>
+  <Gun_RSCarbine.tools.0.label>弹匣</Gun_RSCarbine.tools.0.label>
+  <Gun_RSCarbine.tools.1.label>枪管</Gun_RSCarbine.tools.1.label>
+
+  <Bullet_PistolHeavyRevolver.label>左轮子弹</Bullet_PistolHeavyRevolver.label>
+
+  <Gun_PistolHeavyRevolver.label>重型左轮</Gun_PistolHeavyRevolver.label>
+  <Gun_PistolHeavyRevolver.description>结构古老的手枪。其大口径弹药有效保证了最大程度的制止力。</Gun_PistolHeavyRevolver.description>
+  <Gun_PistolHeavyRevolver.tools.0.label>握把</Gun_PistolHeavyRevolver.tools.0.label>
+  <Gun_PistolHeavyRevolver.tools.1.label>枪管</Gun_PistolHeavyRevolver.tools.1.label>
+
+  <Bullet_RSAMRifle.label>反器材步枪子弹</Bullet_RSAMRifle.label>
+
+  <Gun_RSAMRifle.label>反器材步枪</Gun_RSAMRifle.label>
+  <Gun_RSAMRifle.description>在边缘世界中通常被称为「开罐器」，反器材步枪是一种大口径、重型狙击步枪，为对抗重装甲目标而设计。</Gun_RSAMRifle.description>
+  <Gun_RSAMRifle.tools.0.label>弹匣</Gun_RSAMRifle.tools.0.label>
+  <Gun_RSAMRifle.tools.1.label>枪管</Gun_RSAMRifle.tools.1.label>
+
+  <Bullet_Repeater.label>连发步枪子弹</Bullet_Repeater.label>
+
+  <Gun_Repeater.label>连发步枪</Gun_Repeater.label>
+  <Gun_Repeater.description>即使是以边缘世界的标准来看也是陈旧的设计，连发步枪在野牦牛牧民中非常受欢迎。射程中等，射速快。</Gun_Repeater.description>
+  <Gun_Repeater.tools.0.label>弹匣</Gun_Repeater.tools.0.label>
+  <Gun_Repeater.tools.1.label>枪管</Gun_Repeater.tools.1.label>
+
+  <Bullet_AutomaticRifle.label>自动步枪子弹</Bullet_AutomaticRifle.label>
+
+  <Gun_AutomaticRifle.label>自动步枪</Gun_AutomaticRifle.label>
+  <Gun_AutomaticRifle.description>重型自动武器。虽然射速比轻机枪低，但大口径子弹保证了可观的火力。</Gun_AutomaticRifle.description>
+  <Gun_AutomaticRifle.tools.0.label>弹匣</Gun_AutomaticRifle.tools.0.label>
+  <Gun_AutomaticRifle.tools.1.label>枪管</Gun_AutomaticRifle.tools.1.label>
+
+  <Bullet_MilitiaRifle.label>步枪子弹</Bullet_MilitiaRifle.label>
+
+  <Gun_MilitiaRifle.label>民兵步枪</Gun_MilitiaRifle.label>
+  <Gun_MilitiaRifle.description>贯穿了人类血腥历史超过3000年，是真正意义上的大规模杀伤性武器。粗糙、易于使用而且廉价，是每个民兵最爱的武器。威力稍微高于突击步枪，虽然其他任何方面都要更差。</Gun_MilitiaRifle.description>
+  <Gun_MilitiaRifle.tools.0.label>弹匣</Gun_MilitiaRifle.tools.0.label>
+  <Gun_MilitiaRifle.tools.1.label>枪管</Gun_MilitiaRifle.tools.1.label>
+
+
+
+</LanguageData>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Injuries -->
+
+  <Teared.label>撕裂</Teared.label>
+  <Teared.comps.0.labelTendedWell>已包扎</Teared.comps.0.labelTendedWell>
+  <Teared.comps.0.labelTendedWellInner>已缝合</Teared.comps.0.labelTendedWellInner>
+  <Teared.comps.0.labelSolidTendedWell>已固定</Teared.comps.0.labelSolidTendedWell>
+  <Teared.comps.2.oldLabel>撕裂伤疤</Teared.comps.2.oldLabel>
+  <Teared.injuryProps.destroyedLabel>撕下</Teared.injuryProps.destroyedLabel>
+  <Teared.injuryProps.destroyedOutLabel>撕毁</Teared.injuryProps.destroyedOutLabel>
+  <Teared.labelNoun>撕裂的伤口</Teared.labelNoun>
+
+
+</LanguageData>

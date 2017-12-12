@@ -2,8 +2,16 @@
 <LanguageData>
 
   <FPCPeacekeeper.label>和平卫士</FPCPeacekeeper.label>
+  <FPCPeacekeeper.labelPlural>和平卫士</FPCPeacekeeper.labelPlural>
+
+  <FPCPeacemaker.label>和平御使</FPCPeacemaker.label>
+  <FPCPeacemaker.labelPlural>和平御使</FPCPeacemaker.labelPlural>
+
   <FPCPeacebringer.label>和平使者</FPCPeacebringer.label>
+  <FPCPeacebringer.labelPlural>和平使者</FPCPeacebringer.labelPlural>
+
   <FPCPeacemonger.label>和平教士</FPCPeacemonger.label>
+  <FPCPeacemonger.labelPlural>和平教士</FPCPeacemonger.labelPlural>
 
 
 </LanguageData>

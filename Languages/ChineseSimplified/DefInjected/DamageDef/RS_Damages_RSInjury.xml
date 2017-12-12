@@ -4,9 +4,6 @@
   <Microwave.label>微波</Microwave.label>
   <Microwave.deathMessage>{0}被活活烧死了！</Microwave.deathMessage>
 
-  <ArmorPiercing.label>穿甲</ArmorPiercing.label>
-  <ArmorPiercing.deathMessage>{0}被打成了碎块！</ArmorPiercing.deathMessage>
-
   <KineticImpact.label>动能冲击</KineticImpact.label>
   <KineticImpact.deathMessage>{0}被打成了肉浆！</KineticImpact.deathMessage>
 
@@ -16,8 +13,11 @@
   <KineticImpactF.label>动能冲击</KineticImpactF.label>
   <KineticImpactF.deathMessage>{0}被打成了肉浆！</KineticImpactF.deathMessage>
 
-  <ChargedBolt.label>子弹</ChargedBolt.label>
-  <ChargedBolt.deathMessage>{0}被射杀了！</ChargedBolt.deathMessage>
+  <Shredder.label>粉碎</Shredder.label>
+  <Shredder.deathMessage>{0}被射杀了。</Shredder.deathMessage>
+
+  <MFlame.label>燃烧</MFlame.label>
+  <MFlame.deathMessage>{0}被烧死了！</MFlame.deathMessage>
 
 
 </LanguageData>

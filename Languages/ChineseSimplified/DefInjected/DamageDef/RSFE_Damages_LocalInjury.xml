@@ -4,5 +4,8 @@
   <Nuke.label>核武器</Nuke.label>
   <Nuke.deathMessage>{0}在爆炸中死亡。</Nuke.deathMessage>
 
+  <Spore.label>孢子</Spore.label>
+  <Spore.deathMessage>{0}在孢子中死亡。</Spore.deathMessage>
+
 
 </LanguageData>

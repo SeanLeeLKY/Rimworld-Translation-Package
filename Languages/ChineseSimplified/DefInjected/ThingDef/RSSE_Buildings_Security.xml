@@ -8,12 +8,14 @@
   <ShardSentry_Blueprint.label>晶刺哨戒炮 (蓝图)</ShardSentry_Blueprint.label>
   <ShardSentry_Blueprint_Install.label>晶刺哨戒炮 (蓝图)</ShardSentry_Blueprint_Install.label>
   <ShardSentry_Frame.label>晶刺哨戒炮 (建造中)</ShardSentry_Frame.label>
+  <ShardSentry_Frame.description>装备了晶刺加农炮的哨戒炮，极高射速但威力小。受损严重时会发生爆炸。可重新部署。</ShardSentry_Frame.description>
 
   <WaveEmitter.label>微波发射器</WaveEmitter.label>
   <WaveEmitter.description>强大的固定式微波发射器。终极人群控制武器。受损严重时会发生爆炸。可重新部署。</WaveEmitter.description>
   <WaveEmitter_Blueprint.label>微波发射器 (蓝图)</WaveEmitter_Blueprint.label>
   <WaveEmitter_Blueprint_Install.label>微波发射器 (蓝图)</WaveEmitter_Blueprint_Install.label>
   <WaveEmitter_Frame.label>微波发射器 (建造中)</WaveEmitter_Frame.label>
+  <WaveEmitter_Frame.description>强大的固定式微波发射器。终极人群控制武器。受损严重时会发生爆炸。可重新部署。</WaveEmitter_Frame.description>
 
 
   <!-- GD -->
@@ -22,39 +24,78 @@
   <NestHMG.description>装备阵地用重机枪的固定式机枪阵地。简单而有效的防御建筑。</NestHMG.description>
   <NestHMG_Blueprint.label>HMG阵地 (蓝图)</NestHMG_Blueprint.label>
   <NestHMG_Frame.label>HMG阵地 (建造中)</NestHMG_Frame.label>
+  <NestHMG_Frame.description>装备阵地用重机枪的固定式机枪阵地。简单而有效的防御建筑。</NestHMG_Frame.description>
 
   <NestAGS.label>AGS阵地</NestAGS.label>
   <NestAGS.description>装备自动榴弹发射器的固定式榴弹阵地。极为有效地迎击大量的敌人。</NestAGS.description>
   <NestAGS_Blueprint.label>AGS阵地 (蓝图)</NestAGS_Blueprint.label>
   <NestAGS_Frame.label>AGS阵地 (建造中)</NestAGS_Frame.label>
+  <NestAGS_Frame.description>装备自动榴弹发射器的固定式榴弹阵地。极为有效地迎击大量的敌人。</NestAGS_Frame.description>
 
   <NestMMG.label>MMG阵地</NestMMG.label>
   <NestMMG.description>三脚架上装备了固定式中型机枪。简单而有效的防御建筑。可重新部署。</NestMMG.description>
   <NestMMG_Blueprint.label>MMG阵地 (蓝图)</NestMMG_Blueprint.label>
   <NestMMG_Blueprint_Install.label>MMG阵地 (蓝图)</NestMMG_Blueprint_Install.label>
   <NestMMG_Frame.label>MMG阵地 (建造中)</NestMMG_Frame.label>
-
-  <MoltenCannon.label>熔火加农炮</MoltenCannon.label>
-  <MoltenCannon.description>驱动融化金属作为炮弹，性能可靠，熔岩加农炮是巨人兵团对抗机械族的主要重型武器。</MoltenCannon.description>
-  <MoltenCannon_Blueprint.label>熔火加农炮 (蓝图)</MoltenCannon_Blueprint.label>
-  <MoltenCannon_Frame.label>熔火加农炮 (建造中)</MoltenCannon_Frame.label>
-
-  <BarrageCannon.label>弹幕加农炮</BarrageCannon.label>
-  <BarrageCannon.description>为远程火力支援而设计。发射集束火箭弹幕打击目标。</BarrageCannon.description>
-  <BarrageCannon_Blueprint.label>弹幕加农炮 (蓝图)</BarrageCannon_Blueprint.label>
-  <BarrageCannon_Frame.label>弹幕加农炮 (建造中)</BarrageCannon_Frame.label>
-
-  <ImpactMine.label>冲击地雷</ImpactMine.label>
-  <ImpactMine.description>具有运动追踪功能的先进地雷。检测到敌人时这种地雷会立即引爆。</ImpactMine.description>
-  <ImpactMine_Blueprint.label>冲击地雷 (蓝图)</ImpactMine_Blueprint.label>
-  <ImpactMine_Blueprint_Install.label>冲击地雷 (蓝图)</ImpactMine_Blueprint_Install.label>
-  <ImpactMine_Frame.label>冲击地雷 (建造中)</ImpactMine_Frame.label>
+  <NestMMG_Frame.description>三脚架上装备了固定式中型机枪。简单而有效的防御建筑。可重新部署。</NestMMG_Frame.description>
 
   <PortableReactor.label>便携式反应堆</PortableReactor.label>
   <PortableReactor.description>小型的、便携式野外用反应堆，消耗铀来产生电力。当你需要电源时可以快速部署。损毁时会发生爆炸。</PortableReactor.description>
   <PortableReactor_Blueprint.label>便携式反应堆 (蓝图)</PortableReactor_Blueprint.label>
   <PortableReactor_Blueprint_Install.label>便携式反应堆 (蓝图)</PortableReactor_Blueprint_Install.label>
   <PortableReactor_Frame.label>便携式反应堆 (建造中)</PortableReactor_Frame.label>
+  <PortableReactor_Frame.description>小型的、便携式野外用反应堆，消耗铀来产生电力。当你需要电源时可以快速部署。损毁时会发生爆炸。</PortableReactor_Frame.description>
+
+  <SuvTurret.label>监控炮塔</SuvTurret.label>
+  <SuvTurret.description>远距离狙击炮塔。可重新部署。</SuvTurret.description>
+  <SuvTurret_Blueprint.label>监控炮塔（蓝图）</SuvTurret_Blueprint.label>
+  <SuvTurret_Blueprint_Install.label>监控炮塔（蓝图）</SuvTurret_Blueprint_Install.label>
+  <SuvTurret_Frame.label>监控炮塔（建造中）</SuvTurret_Frame.label>
+  <SuvTurret_Frame.description>远距离狙击炮塔。可重新部署。</SuvTurret_Frame.description>
+
+  <ImpactMine.label>冲击地雷</ImpactMine.label>
+  <ImpactMine.description>具有运动追踪功能的先进地雷。检测到敌人时这种地雷会立即引爆。</ImpactMine.description>
+  <ImpactMine_Blueprint.label>冲击地雷 (蓝图)</ImpactMine_Blueprint.label>
+  <ImpactMine_Blueprint_Install.label>冲击地雷 (蓝图)</ImpactMine_Blueprint_Install.label>
+  <ImpactMine_Frame.label>冲击地雷 (建造中)</ImpactMine_Frame.label>
+  <ImpactMine_Frame.description>具有运动追踪功能的先进地雷。检测到敌人时这种地雷会立即引爆。</ImpactMine_Frame.description>
+
+  <FuelBarrel.label>燃料桶</FuelBarrel.label>
+  <FuelBarrel.description>装满了化学燃料的大红桶。如你所料，摧毁时会爆炸。</FuelBarrel.description>
+  <FuelBarrel_Blueprint.label>燃料桶（蓝图）</FuelBarrel_Blueprint.label>
+  <FuelBarrel_Blueprint_Install.label>燃料桶（蓝图）</FuelBarrel_Blueprint_Install.label>
+  <FuelBarrel_Frame.label>燃料桶（建造中）</FuelBarrel_Frame.label>
+  <FuelBarrel_Frame.description>装满了化学燃料的红色大桶。如你所料，摧毁时会爆炸。</FuelBarrel_Frame.description>
+
+  <RSDummy.label>假人</RSDummy.label>
+  <RSDummy.description>拿着把假枪的假人。至少可以用来吸引敌人的注意力。</RSDummy.description>
+  <RSDummy_Blueprint.label>假人（蓝图）</RSDummy_Blueprint.label>
+  <RSDummy_Blueprint_Install.label>假人（蓝图）</RSDummy_Blueprint_Install.label>
+  <RSDummy_Frame.label>假人（建造中）</RSDummy_Frame.label>
+  <RSDummy_Frame.description>拿着把假枪的假人。至少可以用来吸引敌人的注意力。</RSDummy_Frame.description>
+
+
+  <!-- Mortar turret -->
+
+  <Turret_MC.label>熔火加农炮</Turret_MC.label>
+  <Turret_MC.description>驱动融化金属作为炮弹，性能可靠，熔火加农炮是巨人兵团对抗机械族的主要重型武器。</Turret_MC.description>
+  <Turret_MC_Blueprint.label>熔火加农炮（蓝图）</Turret_MC_Blueprint.label>
+  <Turret_MC_Frame.label>熔火加农炮（建造中）</Turret_MC_Frame.label>
+  <Turret_MC_Frame.description>驱动融化金属作为炮弹，性能可靠，熔火加农炮是巨人兵团对抗机械族的主要重型武器。</Turret_MC_Frame.description>
+
+  <Artillery_MC.label>熔火加农炮</Artillery_MC.label>
+  <Artillery_MC.description>重型反机械体武器</Artillery_MC.description>
+
+  <RocketTurret.label>火箭炮塔</RocketTurret.label>
+  <RocketTurret.description>安装了反机械族火箭发射器的重型自动炮塔。受损严重时会发生爆炸。</RocketTurret.description>
+  <RocketTurret_Blueprint.label>火箭炮塔（蓝图）</RocketTurret_Blueprint.label>
+  <RocketTurret_Frame.label>火箭炮塔（建造中）</RocketTurret_Frame.label>
+  <RocketTurret_Frame.description>重型自动反机械族火箭发射器。受损严重时会发生爆炸。</RocketTurret_Frame.description>
+
+  <Bullet_RocketTurret.label>火箭</Bullet_RocketTurret.label>
+
+  <Gun_RocketTurret.label>火箭发射器</Gun_RocketTurret.label>
+  <Gun_RocketTurret.description>火箭发射器。</Gun_RocketTurret.description>
 
 
 </LanguageData>

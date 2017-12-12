@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DirectedEMP.label>定向电磁脉冲</DirectedEMP.label>
+  <DirectedEMP.description>解锁「EMP步枪」的制作。</DirectedEMP.description>
+
+  <SmartWeapons.label>智能武器</SmartWeapons.label>
+  <SmartWeapons.description>研究先进的智能武器的设计与制作。</SmartWeapons.description>
+
+
+</LanguageData>

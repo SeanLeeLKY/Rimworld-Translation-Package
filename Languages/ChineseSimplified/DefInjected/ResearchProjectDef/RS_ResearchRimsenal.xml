@@ -1,29 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ShardTech.label>RS：改进型晶体碎片</ShardTech.label>
+  <ShardTech.label>改进型晶体碎片</ShardTech.label>
   <ShardTech.description>解锁「允和高精」的武器装备制作。\n\n允和高精：Yunhwa Precision</ShardTech.description>
 
-  <MicrowaveTech.label>RS：微波发射器</MicrowaveTech.label>
+  <MicrowaveTech.label>微波发射器</MicrowaveTech.label>
   <MicrowaveTech.description>解锁「微波发射器」的制作。</MicrowaveTech.description>
 
-  <MoltenTech.label>RS：微波熔炉</MoltenTech.label>
+  <MoltenTech.label>微波熔炉</MoltenTech.label>
   <MoltenTech.description>解锁「巨人星际」武器装备的制作。\n\n巨人星际：Jotun Interstellar</MoltenTech.description>
 
-  <SiegeTech.label>RS：攻城炮</SiegeTech.label>
+  <SiegeTech.label>攻城炮</SiegeTech.label>
   <SiegeTech.description>解锁便携式「攻城炮」的制作。</SiegeTech.description>
 
-  <KineticTech.label>RS：动能守恒胶体</KineticTech.label>
+  <KineticTech.label>动能守恒胶体</KineticTech.label>
   <KineticTech.description>解锁「底西福涅」武器装备的制作。\n\n底西福涅公司：Tisiphone Enterprise</KineticTech.description>
 
-  <FocusTech.label>RS：集聚动能力场</FocusTech.label>
+  <FocusTech.label>集聚动能场</FocusTech.label>
   <FocusTech.description>解锁「便携式发电机」和「动能标枪」的制作。</FocusTech.description>
 
-  <DefenceTech.label>RS：防御技术</DefenceTech.label>
+  <DefenceTech.label>战术装备制造</DefenceTech.label>
   <DefenceTech.description>解锁「灰谷防御」武器装备的制作。\n\n灰谷防御：Greydale Defence</DefenceTech.description>
-
-  <DirectedEMP.label>RS：定向电磁脉冲</DirectedEMP.label>
-  <DirectedEMP.description>解锁「EMP步枪」的制作。</DirectedEMP.description>
 
 
 </LanguageData>

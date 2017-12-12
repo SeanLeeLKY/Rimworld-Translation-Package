@@ -13,5 +13,9 @@
   <DisassembleMRS-M.description>将模组化DMR拆解成MRS-DMR转换套件和模组化卡宾枪。</DisassembleMRS-M.description>
   <DisassembleMRS-M.jobString>正在拆解模组化DMR。</DisassembleMRS-M.jobString>
 
+  <ResetMultiLauncher.label>重置多用途发射器模式</ResetMultiLauncher.label>
+  <ResetMultiLauncher.description>将多用途发射器的模式重置为基础破片发射器。</ResetMultiLauncher.description>
+  <ResetMultiLauncher.jobString>正在重置多用途发射器模式。</ResetMultiLauncher.jobString>
+
 
 </LanguageData>

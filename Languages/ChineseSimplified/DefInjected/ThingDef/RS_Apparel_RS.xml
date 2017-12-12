@@ -4,26 +4,11 @@
   <Carbonsuit.label>碳素连体服</Carbonsuit.label>
   <Carbonsuit.description>军队专属的碳晶体纤维连体服。轻而薄，强度极高。</Carbonsuit.description>
 
-  <Apparel_TacVest.label>战术背心</Apparel_TacVest.label>
-  <Apparel_TacVest.description>符合人体工程学设计的护甲。能提升穿戴者的作战能力。</Apparel_TacVest.description>
-
-  <Apparel_TacHelmet.label>战术头盔</Apparel_TacHelmet.label>
-  <Apparel_TacHelmet.description>专门设计用于在战斗中保护头部的先进作战头盔。</Apparel_TacHelmet.description>
-
-  <Apparel_Exoframe.label>外骨骼</Apparel_Exoframe.label>
-  <Apparel_Exoframe.description>外骨骼是一种便携机械，由电机、气动系统提供动力，贴合肢体运动的连杆和液压装置，以用于辅助提升穿戴着的力量耐力。</Apparel_Exoframe.description>
-
   <Apparel_Laconian.label>先驱者护甲</Apparel_Laconian.label>
   <Apparel_Laconian.description>专为战地工程师设计的盔甲，「灰谷防御」的「拉科尼安」先驱者护甲集成了成套是工具包，非常适合穿着它在枪林弹雨中建造阵地。</Apparel_Laconian.description>
 
   <Apparel_LaconianH.label>先驱者头盔</Apparel_LaconianH.label>
   <Apparel_LaconianH.description>「拉科尼安」先驱者护甲的头盔。集成了简单的辅助瞄准系统。</Apparel_LaconianH.description>
-
-  <Apparel_CombatArmor.label>格斗护甲</Apparel_CombatArmor.label>
-  <Apparel_CombatArmor.description>「精益」是一种内置护盾的动力装甲，具备机动性、耐久性和杀伤力的近身作战装备。</Apparel_CombatArmor.description>
-
-  <Apparel_CombatHelmet.label>格斗头盔</Apparel_CombatHelmet.label>
-  <Apparel_CombatHelmet.description>「精益」格斗护甲的头盔。通过神经近身格斗增益系统来辅助穿戴者。</Apparel_CombatHelmet.description>
 
   <Apparel_Dropsuit.label>神降护甲</Apparel_Dropsuit.label>
   <Apparel_Dropsuit.description>「允和高精」的「影然」空降服，为实现在世界范围内空投军队而投入生产。完全封闭的服装设计用于在极端环境下作战，比如宇宙真空。安装有增强穿戴着行动速度的推进器。</Apparel_Dropsuit.description>
@@ -43,11 +28,29 @@
   <Apparel_BjornH.label>突击头盔</Apparel_BjornH.label>
   <Apparel_BjornH.description>坚固耐用且安全可靠的「比约恩」突击护甲头盔。</Apparel_BjornH.description>
 
+  <Apparel_FSArmor.label>支援护甲</Apparel_FSArmor.label>
+  <Apparel_FSArmor.description>如果你需要一个移动炮台，请呼叫「独狼」火力支援护甲。急速装填系统、附加弹药仓、内建火控系统，独狼的一切都是为了火力支援。作为代价，独狼在近战中非常脆弱。</Apparel_FSArmor.description>
+
+  <Apparel_FSArmorH.label>支援头盔</Apparel_FSArmorH.label>
+  <Apparel_FSArmorH.description>「独狼」火力支援护甲的头盔。共享火力支援护甲的特性。</Apparel_FSArmorH.description>
+
   <Apparel_Nemesis.label>反射护甲</Apparel_Nemesis.label>
-  <Apparel_Nemesis.description>一款为狩猎联邦残余而打造的动力装甲，以希腊神话中的复仇女神「涅墨西斯」命名。几乎免疫热能攻击，「底西福涅猎人特遣队」的精英猎人会装备这种护甲。</Apparel_Nemesis.description>
+  <Apparel_Nemesis.description>一款为狩猎联邦残余而打造的动力装甲，以希腊神话中的复仇三女神之一「涅墨西斯」命名。几乎免疫热能攻击，「底西福涅猎人特遣队」的精英猎人会装备这种护甲。</Apparel_Nemesis.description>
 
   <Apparel_NemesisH.label>反射头盔</Apparel_NemesisH.label>
   <Apparel_NemesisH.description>集成了一套完整的热量反射系统的头盔。</Apparel_NemesisH.description>
+
+  <Apparel_HazardCarapace.label>险境护甲</Apparel_HazardCarapace.label>
+  <Apparel_HazardCarapace.description>「阿勒克图」险境护甲是为在恶劣环境中执行任务而设计的。在极端寒冷地区、在热浪中，甚至在充满辐射的废土中，底西福涅猎人也能继续无休止的狩猎。阿勒克图：希腊神话复仇三女神之一。</Apparel_HazardCarapace.description>
+
+  <Apparel_HazardCarapaceH.label>险境头盔</Apparel_HazardCarapaceH.label>
+  <Apparel_HazardCarapaceH.description>「阿勒克图」险境护甲的头盔。这种头盔提供了优秀的环境保护性。</Apparel_HazardCarapaceH.description>
+
+  <Apparel_CombatArmor.label>格斗护甲</Apparel_CombatArmor.label>
+  <Apparel_CombatArmor.description>「精益」是一种内置护盾的动力装甲，具备机动性、耐久性和杀伤力的近身作战装备。</Apparel_CombatArmor.description>
+
+  <Apparel_CombatHelmet.label>格斗头盔</Apparel_CombatHelmet.label>
+  <Apparel_CombatHelmet.description>「精益」格斗护甲的头盔。通过神经近身格斗增益系统来辅助穿戴者。</Apparel_CombatHelmet.description>
 
 
 </LanguageData>

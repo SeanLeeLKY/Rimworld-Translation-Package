@@ -2,9 +2,19 @@
 <LanguageData>
 
   <FPCAuxiliary.label>奴隶兵</FPCAuxiliary.label>
+  <FPCAuxiliary.labelPlural>奴隶兵</FPCAuxiliary.labelPlural>
+
   <FPCBomber.label>自杀炸弹</FPCBomber.label>
+  <FPCBomber.labelPlural>自杀炸弹</FPCBomber.labelPlural>
+
   <FPCCommander.label>指挥官</FPCCommander.label>
+  <FPCCommander.labelPlural>指挥官</FPCCommander.labelPlural>
+
   <FPCAssassin.label>刺客</FPCAssassin.label>
+  <FPCAssassin.labelPlural>刺客</FPCAssassin.labelPlural>
+
+  <FPCUnityGuard.label>联合卫兵</FPCUnityGuard.label>
+  <FPCUnityGuard.labelPlural>联合卫兵</FPCUnityGuard.labelPlural>
 
 
 </LanguageData>

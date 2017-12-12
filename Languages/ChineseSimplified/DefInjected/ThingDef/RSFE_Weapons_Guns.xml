@@ -4,52 +4,76 @@
   <Bullet_Scraptooth.label>手枪子弹</Bullet_Scraptooth.label>
 
   <Gun_Scraptooth.label>蛮族双枪</Gun_Scraptooth.label>
-  <Gun_Scraptooth.description>蛮族制作的拼凑而成的手枪。精度和射程较低，但威力和射速高于普通手枪。</Gun_Scraptooth.description>
+  <Gun_Scraptooth.description>「碎牙」，蛮族制作的拼凑而成的手枪。在前端装有钩子，用来勾出你的肉。</Gun_Scraptooth.description>
+  <Gun_Scraptooth.tools.0.label>握把</Gun_Scraptooth.tools.0.label>
+  <Gun_Scraptooth.tools.1.label>枪管</Gun_Scraptooth.tools.1.label>
 
   <Bullet_ScatterStick.label>弹片</Bullet_ScatterStick.label>
 
   <Gun_ScatterStick.label>蛮族散铳</Gun_ScatterStick.label>
-  <Gun_ScatterStick.description>拼凑的前装弹式短铳。致命，但射程极短、且装填时间长。</Gun_ScatterStick.description>
+  <Gun_ScatterStick.description>拼凑的前装弹式短铳。致命，但射程极短、且装填时间长。在前端还装有斧头，在无法开枪的情况下用来终结目标。</Gun_ScatterStick.description>
+  <Gun_ScatterStick.tools.0.label>刀刃</Gun_ScatterStick.tools.0.label>
+  <Gun_ScatterStick.tools.1.label>弹匣</Gun_ScatterStick.tools.1.label>
+  <Gun_ScatterStick.tools.2.label>枪管</Gun_ScatterStick.tools.2.label>
 
-  <Bullet_Thrasher.label>突击步枪子弹</Bullet_Thrasher.label>
+  <Bullet_Thrasher.label>步枪子弹</Bullet_Thrasher.label>
 
-  <Gun_Thrasher.label>蛮族突击步枪</Gun_Thrasher.label>
-  <Gun_Thrasher.description>拼凑的突击步枪。高火力，短射程。</Gun_Thrasher.description>
+  <Gun_Thrasher.label>蛮族步枪</Gun_Thrasher.label>
+  <Gun_Thrasher.description>「打谷机」，使用简陋射击装置拼凑的突击步枪。火力猛，短射程。在前端装有锋利的刺刀。</Gun_Thrasher.description>
+  <Gun_Thrasher.tools.0.label>刺刀</Gun_Thrasher.tools.0.label>
+  <Gun_Thrasher.tools.1.label>弹匣</Gun_Thrasher.tools.1.label>
+  <Gun_Thrasher.tools.2.label>枪管</Gun_Thrasher.tools.2.label>
 
   <Bullet_Crucifier.label>鱼叉</Bullet_Crucifier.label>
 
-  <Gun_Crucifier.label>蛮族鱼叉枪</Gun_Crucifier.label>
-  <Gun_Crucifier.description>电动鱼叉枪。充电很慢，射程远，威力极大。</Gun_Crucifier.description>
+  <Gun_Crucifier.label>蛮族反器材步枪</Gun_Crucifier.label>
+  <Gun_Crucifier.description>「苦难者」是蛮族简易武器中的带头大哥，一种巨大的反器材步枪。射速慢，威力惊人。当被敌人近身时，还能利用长度优势作为长矛使用。</Gun_Crucifier.description>
+  <Gun_Crucifier.tools.0.label>刺刀</Gun_Crucifier.tools.0.label>
+  <Gun_Crucifier.tools.1.label>弹匣</Gun_Crucifier.tools.1.label>
+  <Gun_Crucifier.tools.2.label>枪管</Gun_Crucifier.tools.2.label>
 
   <Bullet_Deathdealer.label>冲锋枪子弹</Bullet_Deathdealer.label>
 
   <Gun_Deathdealer.label>蛮族冲锋枪</Gun_Deathdealer.label>
-  <Gun_Deathdealer.description>粗糙拼凑的轻型冲锋枪。近距离很致命，并且有较高容量的弹夹</Gun_Deathdealer.description>
+  <Gun_Deathdealer.description>「死亡贩子」是粗糙拼凑的轻型冲锋枪。近距离很致命，并且有较高容量的弹夹。而且，你可以用这种满是尖刺玩意去背刺你的敌人。</Gun_Deathdealer.description>
+  <Gun_Deathdealer.tools.0.label>刺刀</Gun_Deathdealer.tools.0.label>
+  <Gun_Deathdealer.tools.1.label>握把</Gun_Deathdealer.tools.1.label>
+  <Gun_Deathdealer.tools.2.label>枪管</Gun_Deathdealer.tools.2.label>
 
   <Bullet_Gnasher.label>钉枪子弹</Bullet_Gnasher.label>
 
   <Gun_Gnasher.label>蛮族钉枪</Gun_Gnasher.label>
-  <Gun_Gnasher.description>改装的重型钉枪。射速极高，但精度非常低，并且威力很小。</Gun_Gnasher.description>
+  <Gun_Gnasher.description>「撕咬者」是一种改装的重型钉枪。射速极高，但精度非常低，并且威力很小。</Gun_Gnasher.description>
+  <Gun_Gnasher.tools.0.label>握把</Gun_Gnasher.tools.0.label>
+  <Gun_Gnasher.tools.1.label>枪管</Gun_Gnasher.tools.1.label>
 
   <Bullet_Scorcher.label>燃烧弹</Bullet_Scorcher.label>
 
   <Gun_Scorcher.label>蛮族火焰喷射器</Gun_Scorcher.label>
-  <Gun_Scorcher.description>拼凑的火焰喷射器。</Gun_Scorcher.description>
+  <Gun_Scorcher.description>「大热天」，拼凑的火焰喷射器。放火吧</Gun_Scorcher.description>
+  <Gun_Scorcher.tools.0.label>弹匣</Gun_Scorcher.tools.0.label>
+  <Gun_Scorcher.tools.1.label>枪管</Gun_Scorcher.tools.1.label>
 
   <Bullet_Thumper.label>火箭</Bullet_Thumper.label>
 
   <Gun_Thumper.label>蛮族火箭发射器</Gun_Thumper.label>
-  <Gun_Thumper.description>拼凑的单发火箭发射器。</Gun_Thumper.description>
+  <Gun_Thumper.description>「大嘴巴」，拼凑的单发火箭发射器。</Gun_Thumper.description>
+  <Gun_Thumper.tools.0.label>弹匣</Gun_Thumper.tools.0.label>
+  <Gun_Thumper.tools.1.label>枪管</Gun_Thumper.tools.1.label>
 
   <Bullet_RatStick.label>爆炸鼠标枪</Bullet_RatStick.label>
 
   <Gun_RatStick.label>蛮族爆炸鼠标枪</Gun_RatStick.label>
   <Gun_RatStick.description>绑着爆炸鼠的肿囊的标枪。</Gun_RatStick.description>
+  <Gun_RatStick.tools.0.label>柄</Gun_RatStick.tools.0.label>
+  <Gun_RatStick.tools.1.label>枪头</Gun_RatStick.tools.1.label>
 
   <Bullet_SkullBuster.label>子弹</Bullet_SkullBuster.label>
 
-  <Gun_SkullBuster.label>蛮族骷髅破坏者</Gun_SkullBuster.label>
-  <Gun_SkullBuster.description>用手摇驱动发射机构的自动重型武器。粗糙，但破坏性大。</Gun_SkullBuster.description>
+  <Gun_SkullBuster.label>蛮族怪枪</Gun_SkullBuster.label>
+  <Gun_SkullBuster.description>「骷髅破坏者」，用手摇驱动发射机构的自动重型武器。粗糙，但破坏性大。</Gun_SkullBuster.description>
+  <Gun_SkullBuster.tools.0.label>弹匣</Gun_SkullBuster.tools.0.label>
+  <Gun_SkullBuster.tools.1.label>枪管</Gun_SkullBuster.tools.1.label>
 
 
 </LanguageData>

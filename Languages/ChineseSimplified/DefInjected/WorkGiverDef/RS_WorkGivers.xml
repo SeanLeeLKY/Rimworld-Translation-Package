@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsGDTable.label>完成灰谷防御清单</DoBillsGDTable.label>
+  <DoBillsGDTable.verb>工作</DoBillsGDTable.verb>
+  <DoBillsGDTable.gerund>工作于</DoBillsGDTable.gerund>
+
+  <DoBillsYPTable.label>完成允和高精清单</DoBillsYPTable.label>
+  <DoBillsYPTable.verb>工作</DoBillsYPTable.verb>
+  <DoBillsYPTable.gerund>工作于</DoBillsYPTable.gerund>
+
+  <DoBillsJITable.label>完成巨人星际清单</DoBillsJITable.label>
+  <DoBillsJITable.verb>工作</DoBillsJITable.verb>
+  <DoBillsJITable.gerund>工作于</DoBillsJITable.gerund>
+
+  <DoBillsTETable.label>完成底西福涅清单</DoBillsTETable.label>
+  <DoBillsTETable.verb>工作</DoBillsTETable.verb>
+  <DoBillsTETable.gerund>工作于</DoBillsTETable.gerund>
+
+
+</LanguageData>

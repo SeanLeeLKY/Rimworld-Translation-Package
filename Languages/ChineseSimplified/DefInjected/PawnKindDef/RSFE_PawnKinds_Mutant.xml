@@ -2,10 +2,22 @@
 <LanguageData>
 
   <FeralOgrenaut.label>食人魔</FeralOgrenaut.label>
+  <FeralOgrenaut.labelPlural>ogrenauts</FeralOgrenaut.labelPlural>
+
   <FeralGutcher.label>食人魔</FeralGutcher.label>
+  <FeralGutcher.labelPlural>食人魔</FeralGutcher.labelPlural>
+
   <FeralHellmaker.label>食人魔</FeralHellmaker.label>
+  <FeralHellmaker.labelPlural>食人魔</FeralHellmaker.labelPlural>
+
   <FeralRazortooth.label>利齿兽</FeralRazortooth.label>
+  <FeralRazortooth.labelPlural>利齿兽</FeralRazortooth.labelPlural>
+
   <FeralTwisted.label>扭曲怪</FeralTwisted.label>
+  <FeralTwisted.labelPlural>扭曲怪</FeralTwisted.labelPlural>
+
+  <FeralShriker.label>无脸怪</FeralShriker.label>
+  <FeralShriker.labelPlural>无脸怪</FeralShriker.labelPlural>
 
 
 </LanguageData>

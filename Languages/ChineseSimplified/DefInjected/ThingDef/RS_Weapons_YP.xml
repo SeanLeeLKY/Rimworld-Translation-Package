@@ -5,26 +5,43 @@
 
   <YP_SeoLi.label>YP晶刺步枪</YP_SeoLi.label>
   <YP_SeoLi.description>「允和高精」的「冰霜」晶刺步枪具有优于传统步枪的精度，配备了更大的弹夹和更高的射速，但牺牲了威力和穿甲能力。</YP_SeoLi.description>
+  <YP_SeoLi.tools.0.label>弹匣</YP_SeoLi.tools.0.label>
+  <YP_SeoLi.tools.1.label>枪管</YP_SeoLi.tools.1.label>
 
   <Bullet_SagPung.label>朔风晶刺</Bullet_SagPung.label>
 
   <YP_SagPung.label>YP晶炮</YP_SagPung.label>
   <YP_SagPung.description>「允和高精」的「朔风」晶炮，发射晶刺的高射速自动霰弹枪。是近距离处理活体目标的理想工具。</YP_SagPung.description>
+  <YP_SagPung.tools.0.label>弹匣</YP_SagPung.tools.0.label>
+  <YP_SagPung.tools.1.label>枪管</YP_SagPung.tools.1.label>
 
-  <Bullet_SangAe.label>霜霾狼牙</Bullet_SangAe.label>
+  <Bullet_SangAe.label>霜霭狼牙</Bullet_SangAe.label>
 
   <YP_SangAe.label>YP狼牙步枪</YP_SangAe.label>
-  <YP_SangAe.description>「允和高精」的「霜霾」狼牙步枪。有别于常规步枪，「霜霾」发射碳晶体穿甲弹。</YP_SangAe.description>
+  <YP_SangAe.description>「允和高精」的「霜霭」狼牙步枪。有别于常规步枪，「霜霭」发射碳晶体穿甲弹。</YP_SangAe.description>
+  <YP_SangAe.tools.0.label>弹匣</YP_SangAe.tools.0.label>
+  <YP_SangAe.tools.1.label>枪管</YP_SangAe.tools.1.label>
 
   <Bullet_SeolHwa.label>雪华晶刺</Bullet_SeolHwa.label>
 
   <YP_SeolHwa.label>YP晶刺双枪</YP_SeolHwa.label>
   <YP_SeolHwa.description>「允和高精」的「雪华」双持手枪。「雪华」的射程很短，但近距离内可以撕碎敌人。</YP_SeolHwa.description>
+  <YP_SeolHwa.tools.0.label>握把</YP_SeolHwa.tools.0.label>
+  <YP_SeolHwa.tools.1.label>刃</YP_SeolHwa.tools.1.label>
 
   <Bullet_GeugGwang.label>微波</Bullet_GeugGwang.label>
 
   <YP_GeugGwang.label>YP微波发射器</YP_GeugGwang.label>
   <YP_GeugGwang.description>「允和高精」的「极光」微波发射器发射的毫米波能让目标皮肤水份沸腾的，产生无法忍受的痛苦。完美的人群控制武器。</YP_GeugGwang.description>
+  <YP_GeugGwang.tools.0.label>弹匣</YP_GeugGwang.tools.0.label>
+  <YP_GeugGwang.tools.1.label>枪管</YP_GeugGwang.tools.1.label>
+
+  <Bullet_VectorShot.label>智能弹</Bullet_VectorShot.label>
+
+  <YP_VectorShot.label>YP矢量射枪</YP_VectorShot.label>
+  <YP_VectorShot.description>「允和高精」的「冰雹」矢量射枪是一种用于城市作战的武器，发射集成了制导系统的智能子弹。借助多光谱扫描仪，冰雹可以瞄准隐藏在掩体后的目标。虽然无视墙体确实是一种非常强大的特点，但由于极短的射程，冰雹只适合作为突击专家的武器。</YP_VectorShot.description>
+  <YP_VectorShot.tools.0.label>弹匣</YP_VectorShot.tools.0.label>
+  <YP_VectorShot.tools.1.label>枪管</YP_VectorShot.tools.1.label>
 
 
 </LanguageData>

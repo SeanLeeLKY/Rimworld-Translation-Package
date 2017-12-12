@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_ChargeSidearm.label>电荷弹</Bullet_ChargeSidearm.label>
+
+  <Gun_ChargeSidearm.label>电荷手枪</Gun_ChargeSidearm.label>
+  <Gun_ChargeSidearm.description>设计用于单手握持和射击的电荷武器。</Gun_ChargeSidearm.description>
+  <Gun_ChargeSidearm.tools.0.label>握把</Gun_ChargeSidearm.tools.0.label>
+  <Gun_ChargeSidearm.tools.1.label>枪管</Gun_ChargeSidearm.tools.1.label>
+
+  <Bullet_ScatterCharger.label>电荷弹</Bullet_ScatterCharger.label>
+
+  <Gun_ScatterCharger.label>电荷散射枪</Gun_ScatterCharger.label>
+  <Gun_ScatterCharger.description>设计用于近距离枪战的电荷武器。</Gun_ScatterCharger.description>
+  <Gun_ScatterCharger.tools.0.label>弹匣</Gun_ScatterCharger.tools.0.label>
+  <Gun_ScatterCharger.tools.1.label>枪管</Gun_ScatterCharger.tools.1.label>
+
+  <Bullet_ChargeDriver.label>电荷弹</Bullet_ChargeDriver.label>
+
+  <Gun_ChargeDriver.label>电荷加速枪</Gun_ChargeDriver.label>
+  <Gun_ChargeDriver.description>基于远距离精准武器技术的电荷武器。</Gun_ChargeDriver.description>
+  <Gun_ChargeDriver.tools.0.label>弹匣</Gun_ChargeDriver.tools.0.label>
+  <Gun_ChargeDriver.tools.1.label>枪管</Gun_ChargeDriver.tools.1.label>
+
+  <Bullet_EMPRifle.label>EMP冲击波</Bullet_EMPRifle.label>
+
+  <Gun_EMPRifle.label>EMP步枪</Gun_EMPRifle.label>
+  <Gun_EMPRifle.description>定向电磁脉冲释能器。用于压制高级电子设备。</Gun_EMPRifle.description>
+  <Gun_EMPRifle.tools.0.label>弹匣</Gun_EMPRifle.tools.0.label>
+  <Gun_EMPRifle.tools.1.label>枪管</Gun_EMPRifle.tools.1.label>
+
+  <Bullet_AssaultCharger.label>电荷弹</Bullet_AssaultCharger.label>
+
+  <Gun_AssaultCharger.label>电荷突击枪</Gun_AssaultCharger.label>
+  <Gun_AssaultCharger.description>基于重型突击武器技术的电荷武器。</Gun_AssaultCharger.description>
+  <Gun_AssaultCharger.tools.0.label>弹匣</Gun_AssaultCharger.tools.0.label>
+  <Gun_AssaultCharger.tools.1.label>枪管</Gun_AssaultCharger.tools.1.label>
+
+  <Bullet_BurstCharger.label>电荷弹</Bullet_BurstCharger.label>
+
+  <Gun_BurstCharger.label>电荷爆裂枪</Gun_BurstCharger.label>
+  <Gun_BurstCharger.description>电荷爆裂枪是电荷步枪的加强版，通常被称为「GEN 2」或者「电荷攻击枪」。降低了射速、提升了重量，换取而来的是延长的射程和更强的冲击力。</Gun_BurstCharger.description>
+  <Gun_BurstCharger.tools.0.label>弹匣</Gun_BurstCharger.tools.0.label>
+  <Gun_BurstCharger.tools.1.label>枪管</Gun_BurstCharger.tools.1.label>
+
+
+</LanguageData>

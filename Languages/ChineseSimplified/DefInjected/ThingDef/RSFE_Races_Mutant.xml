@@ -47,5 +47,14 @@
   <Mutant_Twisted_Corpse.label>扭曲怪尸体</Mutant_Twisted_Corpse.label>
   <Mutant_Twisted_Corpse.description>扭曲怪尸体</Mutant_Twisted_Corpse.description>
 
+  <Mutant_Shadark.label>无脸怪</Mutant_Shadark.label>
+  <Mutant_Shadark.description>无脸怪这种黑暗的生物，习惯于躲藏在树林的阴影中。据说是某些变异人类实验的失败产物，本性阴险狡猾。无脸怪最可怕的特点是可以射出共生孢子。当浓厚的孢子云还未散去时，它们会出其不意地拖走被迷惑的猎物。它们通常出现在蛮族的劫掠派对中，等待机会拖走尸体。</Mutant_Shadark.description>
+  <Mutant_Shadark_Leather.label>无脸怪皮</Mutant_Shadark_Leather.label>
+  <Mutant_Shadark_Leather.description>无脸怪皮</Mutant_Shadark_Leather.description>
+  <Mutant_Shadark_Leather.stuffProps.stuffAdjective>无脸怪皮</Mutant_Shadark_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Human -->
+  <Mutant_Shadark_Corpse.label>无脸怪尸体</Mutant_Shadark_Corpse.label>
+  <Mutant_Shadark_Corpse.description>无脸怪尸体</Mutant_Shadark_Corpse.description>
+
 
 </LanguageData>

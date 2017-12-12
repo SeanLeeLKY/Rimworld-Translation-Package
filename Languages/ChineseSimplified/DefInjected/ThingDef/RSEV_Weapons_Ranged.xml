@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Arrow_Compound.label>碳素箭</Arrow_Compound.label>
+
+  <Bow_Compound.label>复合弓</Bow_Compound.label>
+  <Bow_Compound.description>一张现代的复合弓。射出的箭矢具有极高的速度。</Bow_Compound.description>
+
+  <Bullet_Blowgun.label>飞镖</Bullet_Blowgun.label>
+
+  <Gun_Blowgun.label>吹箭筒</Gun_Blowgun.label>
+  <Gun_Blowgun.description>一种简单的武器，狭长的管子用来发射轻质的弹丸或飞镖。虽然飞镖本身不怎么致命，但尖端会涂上毒药。</Gun_Blowgun.description>
+
+  <Bullet_ThrowingAxes.label>飞斧</Bullet_ThrowingAxes.label>
+
+  <Gun_ThrowingAxes.label>飞斧</Gun_ThrowingAxes.label>
+  <Gun_ThrowingAxes.description>金属锻造的飞斧。在老手手上，近战和远程中都是一种致命武器。</Gun_ThrowingAxes.description>
+  <Gun_ThrowingAxes.tools.0.label>柄</Gun_ThrowingAxes.tools.0.label>
+  <Gun_ThrowingAxes.tools.1.label>刃</Gun_ThrowingAxes.tools.1.label>
+
+  <Bullet_ThrowingClubs.label>投棍</Bullet_ThrowingClubs.label>
+
+  <Gun_ThrowingClubs.label>投棍</Gun_ThrowingClubs.label>
+  <Gun_ThrowingClubs.description>人类最早使用的远程武器之一，投棍在近战和远程攻击中都能使用。</Gun_ThrowingClubs.description>
+  <Gun_ThrowingClubs.tools.0.label>柄</Gun_ThrowingClubs.tools.0.label>
+
+
+</LanguageData>
