@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bloodhound.label>寻血猎犬</Bloodhound.label>
+  <Bloodhound.labelPlural>寻血猎犬</Bloodhound.labelPlural>
+  <Bloodhound.lifeStages.0.label>寻血猎犬幼崽</Bloodhound.lifeStages.0.label>
+  <Bloodhound.lifeStages.0.labelPlural>寻血猎犬幼崽</Bloodhound.lifeStages.0.labelPlural>
+  <Bloodhound.lifeStages.0.labelMale>寻血猎犬幼崽</Bloodhound.lifeStages.0.labelMale>
+  <Bloodhound.lifeStages.0.labelMalePlural>寻血猎犬幼崽</Bloodhound.lifeStages.0.labelMalePlural>
+  <Bloodhound.lifeStages.0.labelFemale>寻血猎犬幼崽</Bloodhound.lifeStages.0.labelFemale>
+  <Bloodhound.lifeStages.0.labelFemalePlural>寻血猎犬幼崽</Bloodhound.lifeStages.0.labelFemalePlural>
+  <Bloodhound.lifeStages.1.label>幼年寻血猎犬</Bloodhound.lifeStages.1.label>
+  <Bloodhound.lifeStages.1.labelPlural>幼年寻血猎犬</Bloodhound.lifeStages.1.labelPlural>
+  <Bloodhound.lifeStages.1.labelMale>雄性幼年寻血猎犬</Bloodhound.lifeStages.1.labelMale>
+  <Bloodhound.lifeStages.1.labelMalePlural>雄性幼年寻血猎犬</Bloodhound.lifeStages.1.labelMalePlural>
+  <Bloodhound.lifeStages.1.labelFemale>雌性幼年寻血猎犬</Bloodhound.lifeStages.1.labelFemale>
+  <Bloodhound.lifeStages.1.labelFemalePlural>雌性幼年寻血猎犬</Bloodhound.lifeStages.1.labelFemalePlural>
+  <Bloodhound.lifeStages.2.label>寻血猎犬</Bloodhound.lifeStages.2.label>
+  <Bloodhound.lifeStages.2.labelPlural>寻血猎犬</Bloodhound.lifeStages.2.labelPlural>
+  <Bloodhound.lifeStages.2.labelMale>雄性寻血猎犬</Bloodhound.lifeStages.2.labelMale>
+  <Bloodhound.lifeStages.2.labelMalePlural>雄性寻血猎犬</Bloodhound.lifeStages.2.labelMalePlural>
+  <Bloodhound.lifeStages.2.labelFemale>雌性寻血猎犬</Bloodhound.lifeStages.2.labelFemale>
+  <Bloodhound.lifeStages.2.labelFemalePlural>雌性寻血猎犬</Bloodhound.lifeStages.2.labelFemalePlural>
+  <Bloodhound.labelMale>雄性寻血猎犬</Bloodhound.labelMale>
+  <Bloodhound.labelMalePlural>雄性寻血猎犬</Bloodhound.labelMalePlural>
+  <Bloodhound.labelFemale>雌性寻血猎犬</Bloodhound.labelFemale>
+  <Bloodhound.labelFemalePlural>雌性寻血猎犬</Bloodhound.labelFemalePlural>
+
+
+</LanguageData>

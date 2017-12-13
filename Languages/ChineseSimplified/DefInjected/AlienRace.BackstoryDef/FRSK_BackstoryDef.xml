@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FennexAgentKid.title>Young agent</FennexAgentKid.title>
+  <FennexAgentKid.titleShort>Kid-agent</FennexAgentKid.titleShort>
+
+  <FennexMisckid.title>Mischevious</FennexMisckid.title>
+  <FennexMisckid.titleShort>Mischevious</FennexMisckid.titleShort>
+
+  <FennexMEng.title>Mech engineer</FennexMEng.title>
+  <FennexMEng.titleShort>M-Engineer</FennexMEng.titleShort>
+
+  <FennexMachinW.title>Machinist</FennexMachinW.title>
+  <FennexMachinW.titleShort>Machinist</FennexMachinW.titleShort>
+
+  <FennexEngineerX.title>Hotrod apprentice</FennexEngineerX.title>
+  <FennexEngineerX.titleShort>Hot-rodder</FennexEngineerX.titleShort>
+
+  <FennexOrchard.title>Fruit rancher</FennexOrchard.title>
+  <FennexOrchard.titleShort>F-Rancher</FennexOrchard.titleShort>
+
+  <FennexTyrokid.title>Tyro</FennexTyrokid.title>
+  <FennexTyrokid.titleShort>Tyro</FennexTyrokid.titleShort>
+
+  <FennexSpacer.title>Noble line</FennexSpacer.title>
+  <FennexSpacer.titleShort>Noble</FennexSpacer.titleShort>
+
+  <FennexForestKid.title>Young forester</FennexForestKid.title>
+  <FennexForestKid.titleShort>Forester-kid</FennexForestKid.titleShort>
+
+  <FennexColonyKid.title>Fennex colonykid</FennexColonyKid.title>
+  <FennexColonyKid.titleShort>Kid</FennexColonyKid.titleShort>
+
+  <FennexCityKid.title>City kid</FennexCityKid.title>
+  <FennexCityKid.titleShort>Urb-kit</FennexCityKid.titleShort>
+
+  <FennexCountryKid.title>Farm kid</FennexCountryKid.title>
+  <FennexCountryKid.titleShort>Farm-kit</FennexCountryKid.titleShort>
+
+  <FennexGeniusKid.title>Young genius</FennexGeniusKid.title>
+  <FennexGeniusKid.titleShort>Prodigy</FennexGeniusKid.titleShort>
+
+  <FennexDigKid.title>Tunnel kit</FennexDigKid.title>
+  <FennexDigKid.titleShort>T-kit</FennexDigKid.titleShort>
+
+
+  <!-- Adult Stories - not porn -->
+
+  <FennexArmorer.title>Armorer</FennexArmorer.title>
+  <FennexArmorer.titleShort>Armorer</FennexArmorer.titleShort>
+
+  <FennexProst.title>Hooker</FennexProst.title>
+  <FennexProst.titleShort>Hooker</FennexProst.titleShort>
+
+  <Fennexminer.title>Deep-tunnel miner</Fennexminer.title>
+  <Fennexminer.titleShort>Deepminer</Fennexminer.titleShort>
+
+  <FennexBiogen.title>Biologist</FennexBiogen.title>
+  <FennexBiogen.titleShort>Biologist</FennexBiogen.titleShort>
+
+  <FennexConn.title>Restaurateur</FennexConn.title>
+  <FennexConn.titleShort>Restaurateur</FennexConn.titleShort>
+
+  <FennexStalkerBS.title>Fennex hunter</FennexStalkerBS.title>
+  <FennexStalkerBS.titleShort>Hunter</FennexStalkerBS.titleShort>
+
+  <FennexDistiller.title>Booze king</FennexDistiller.title>
+  <FennexDistiller.titleShort>Distiller</FennexDistiller.titleShort>
+
+  <FennexTrailblazer.title>Trail blazer</FennexTrailblazer.title>
+  <FennexTrailblazer.titleShort>Blazer</FennexTrailblazer.titleShort>
+
+  <FennexResearcher.title>Historical researcher</FennexResearcher.title>
+  <FennexResearcher.titleShort>Researcher</FennexResearcher.titleShort>
+
+  <FennexDoctor.title>Frontier doctor</FennexDoctor.title>
+  <FennexDoctor.titleShort>Doc</FennexDoctor.titleShort>
+
+  <FennexChef.title>Fennex diner-chef</FennexChef.title>
+  <FennexChef.titleShort>Diner-chef</FennexChef.titleShort>
+
+  <FennexKeeper.title>Fennex librarian</FennexKeeper.title>
+  <FennexKeeper.titleShort>Keeper</FennexKeeper.titleShort>
+
+  <PrivateFennex.title>Runner</PrivateFennex.title>
+  <PrivateFennex.titleShort>Runner</PrivateFennex.titleShort>
+
+  <MajorFennex.title>Tank commander</MajorFennex.title>
+  <MajorFennex.titleShort>T-Commander</MajorFennex.titleShort>
+
+  <FennexSpacerAdult.title>Fennex space-trader</FennexSpacerAdult.title>
+  <FennexSpacerAdult.titleShort>F-Spacer</FennexSpacerAdult.titleShort>
+
+  <FennexTroop.title>Fox-hound</FennexTroop.title>
+  <FennexTroop.titleShort>Foxhound</FennexTroop.titleShort>
+
+  <FennexAssassin.title>Fennex hitman</FennexAssassin.title>
+  <FennexAssassin.titleShort>Cleaner</FennexAssassin.titleShort>
+
+  <FennexAstroPhy.title>Astryphysicist</FennexAstroPhy.title>
+  <FennexAstroPhy.titleShort>Astrophysicist</FennexAstroPhy.titleShort>
+
+  <FennexAgentBS.title>Paleobotanist</FennexAgentBS.title>
+  <FennexAgentBS.titleShort>Paleobotanist</FennexAgentBS.titleShort>
+
+  <FennexMathman.title>Mathematician</FennexMathman.title>
+  <FennexMathman.titleShort>Mathematician</FennexMathman.titleShort>
+
+  <FennexAirMech.title>Airfield mechanic</FennexAirMech.title>
+  <FennexAirMech.titleShort>Air-mechanic</FennexAirMech.titleShort>
+
+  <FennexPlanetol.title>Exoplanetologist</FennexPlanetol.title>
+  <FennexPlanetol.titleShort>Exoplanetologist</FennexPlanetol.titleShort>
+
+
+</LanguageData>

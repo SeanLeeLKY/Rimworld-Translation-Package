@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PawnKindDef Abstract="True" Name="BasePlayerPawnKind"><race>Human</race><combatPower>30</combatPower><baseRecruitDifficulty>0.60</baseRecruitDifficulty><isFighter>false</isFighter><apparelIgnoreSeasons>true</apparelIgnoreSeasons><forceNormalGearQuality>true</forceNormalGearQuality></PawnKindDef -->
+
+  <ChjAndroidColonist.label>自动人形殖民者</ChjAndroidColonist.label>
+  <ChjAndroidColonist.labelPlural>自动人形殖民者</ChjAndroidColonist.labelPlural>
+  <ChjAndroidColonist.labelMale>男性 自动人形殖民者</ChjAndroidColonist.labelMale>
+  <ChjAndroidColonist.labelMalePlural>男性 自动人形殖民者</ChjAndroidColonist.labelMalePlural>
+  <ChjAndroidColonist.labelFemale>女性 自动人形殖民者</ChjAndroidColonist.labelFemale>
+  <ChjAndroidColonist.labelFemalePlural>女性 自动人形殖民者</ChjAndroidColonist.labelFemalePlural>
+
+
+  <!-- Outlanders -->
+
+  <ChjAndroidVillager.label>v村民</ChjAndroidVillager.label>
+  <ChjAndroidVillager.labelPlural>村民</ChjAndroidVillager.labelPlural>
+  <ChjAndroidVillager.labelMale>男性 村民</ChjAndroidVillager.labelMale>
+  <ChjAndroidVillager.labelMalePlural>男性 村民</ChjAndroidVillager.labelMalePlural>
+  <ChjAndroidVillager.labelFemale>女性 村民</ChjAndroidVillager.labelFemale>
+  <ChjAndroidVillager.labelFemalePlural>女性 村民</ChjAndroidVillager.labelFemalePlural>
+
+  <ChjAndroidTownCouncilman.label>议员</ChjAndroidTownCouncilman.label>
+  <ChjAndroidTownCouncilman.labelPlural>议员</ChjAndroidTownCouncilman.labelPlural>
+  <ChjAndroidTownCouncilman.labelMale>男性 议员</ChjAndroidTownCouncilman.labelMale>
+  <ChjAndroidTownCouncilman.labelMalePlural>男性 议员</ChjAndroidTownCouncilman.labelMalePlural>
+  <ChjAndroidTownCouncilman.labelFemale>女性 议员</ChjAndroidTownCouncilman.labelFemale>
+  <ChjAndroidTownCouncilman.labelFemalePlural>女性 议员</ChjAndroidTownCouncilman.labelFemalePlural>
+
+  <ChjAndroidTownTrader.label>城镇贸易商</ChjAndroidTownTrader.label>
+  <ChjAndroidTownTrader.labelPlural>城镇贸易商</ChjAndroidTownTrader.labelPlural>
+  <ChjAndroidTownTrader.labelMale>男性 城镇贸易商</ChjAndroidTownTrader.labelMale>
+  <ChjAndroidTownTrader.labelMalePlural>男性 城镇贸易商</ChjAndroidTownTrader.labelMalePlural>
+  <ChjAndroidTownTrader.labelFemale>女性 城镇贸易商</ChjAndroidTownTrader.labelFemale>
+  <ChjAndroidTownTrader.labelFemalePlural>女性 城镇贸易商</ChjAndroidTownTrader.labelFemalePlural>
+
+  <ChjAndroidTownGuard.label>城镇守卫</ChjAndroidTownGuard.label>
+  <ChjAndroidTownGuard.labelPlural>城镇守卫</ChjAndroidTownGuard.labelPlural>
+  <ChjAndroidTownGuard.labelMale>男性 城镇守卫</ChjAndroidTownGuard.labelMale>
+  <ChjAndroidTownGuard.labelMalePlural>男性 城镇守卫</ChjAndroidTownGuard.labelMalePlural>
+  <ChjAndroidTownGuard.labelFemale>女性 城镇守卫</ChjAndroidTownGuard.labelFemale>
+  <ChjAndroidTownGuard.labelFemalePlural>女性 城镇守卫</ChjAndroidTownGuard.labelFemalePlural>
+
+
+  <!-- Mercenaries -->
+
+  <ChjAndroidGrenadierDestructive.label>掷弹兵</ChjAndroidGrenadierDestructive.label>
+  <ChjAndroidGrenadierDestructive.labelPlural>掷弹兵</ChjAndroidGrenadierDestructive.labelPlural>
+  <ChjAndroidGrenadierDestructive.labelMale>男性 掷弹兵</ChjAndroidGrenadierDestructive.labelMale>
+  <ChjAndroidGrenadierDestructive.labelMalePlural>男性 掷弹兵</ChjAndroidGrenadierDestructive.labelMalePlural>
+  <ChjAndroidGrenadierDestructive.labelFemale>女性 掷弹兵</ChjAndroidGrenadierDestructive.labelFemale>
+  <ChjAndroidGrenadierDestructive.labelFemalePlural>女性 掷弹兵</ChjAndroidGrenadierDestructive.labelFemalePlural>
+
+  <ChjAndroidGrenadierEMP.label>EMP投手</ChjAndroidGrenadierEMP.label>
+  <ChjAndroidGrenadierEMP.labelPlural>EMP投手</ChjAndroidGrenadierEMP.labelPlural>
+  <ChjAndroidGrenadierEMP.labelMale>男性 EMP投手</ChjAndroidGrenadierEMP.labelMale>
+  <ChjAndroidGrenadierEMP.labelMalePlural>男性 EMP投手</ChjAndroidGrenadierEMP.labelMalePlural>
+  <ChjAndroidGrenadierEMP.labelFemale>女性 EMP投手</ChjAndroidGrenadierEMP.labelFemale>
+  <ChjAndroidGrenadierEMP.labelFemalePlural>女性 EMP投手</ChjAndroidGrenadierEMP.labelFemalePlural>
+
+  <ChjAndroidMercenaryGunner.label>雇佣枪手</ChjAndroidMercenaryGunner.label>
+  <ChjAndroidMercenaryGunner.labelPlural>雇佣枪手</ChjAndroidMercenaryGunner.labelPlural>
+  <ChjAndroidMercenaryGunner.labelMale>男性 雇佣枪手</ChjAndroidMercenaryGunner.labelMale>
+  <ChjAndroidMercenaryGunner.labelMalePlural>男性 雇佣枪手</ChjAndroidMercenaryGunner.labelMalePlural>
+  <ChjAndroidMercenaryGunner.labelFemale>女性 雇佣枪手</ChjAndroidMercenaryGunner.labelFemale>
+  <ChjAndroidMercenaryGunner.labelFemalePlural>女性 雇佣枪手</ChjAndroidMercenaryGunner.labelFemalePlural>
+
+  <ChjAndroidMercenarySniper.label>雇佣狙击手</ChjAndroidMercenarySniper.label>
+  <ChjAndroidMercenarySniper.labelPlural>雇佣狙击手</ChjAndroidMercenarySniper.labelPlural>
+  <ChjAndroidMercenarySniper.labelMale>男性 雇佣狙击手</ChjAndroidMercenarySniper.labelMale>
+  <ChjAndroidMercenarySniper.labelMalePlural>男性 雇佣狙击手</ChjAndroidMercenarySniper.labelMalePlural>
+  <ChjAndroidMercenarySniper.labelFemale>女性 雇佣狙击手</ChjAndroidMercenarySniper.labelFemale>
+  <ChjAndroidMercenarySniper.labelFemalePlural>女性 雇佣狙击手</ChjAndroidMercenarySniper.labelFemalePlural>
+
+  <ChjAndroidMercenarySlasher.label>雇佣刀斧手</ChjAndroidMercenarySlasher.label>
+  <ChjAndroidMercenarySlasher.labelPlural>雇佣刀斧手</ChjAndroidMercenarySlasher.labelPlural>
+  <ChjAndroidMercenarySlasher.labelMale>男性 雇佣刀斧手</ChjAndroidMercenarySlasher.labelMale>
+  <ChjAndroidMercenarySlasher.labelMalePlural>男性 雇佣刀斧手</ChjAndroidMercenarySlasher.labelMalePlural>
+  <ChjAndroidMercenarySlasher.labelFemale>女性 雇佣刀斧手</ChjAndroidMercenarySlasher.labelFemale>
+  <ChjAndroidMercenarySlasher.labelFemalePlural>女性 雇佣刀斧手</ChjAndroidMercenarySlasher.labelFemalePlural>
+
+  <ChjAndroidMercenaryHeavy.label>重甲佣兵</ChjAndroidMercenaryHeavy.label>
+  <ChjAndroidMercenaryHeavy.labelPlural>重甲佣兵</ChjAndroidMercenaryHeavy.labelPlural>
+  <ChjAndroidMercenaryHeavy.labelMale>男性 重甲佣兵</ChjAndroidMercenaryHeavy.labelMale>
+  <ChjAndroidMercenaryHeavy.labelMalePlural>男性 重甲佣兵</ChjAndroidMercenaryHeavy.labelMalePlural>
+  <ChjAndroidMercenaryHeavy.labelFemale>女性 重甲佣兵</ChjAndroidMercenaryHeavy.labelFemale>
+  <ChjAndroidMercenaryHeavy.labelFemalePlural>女性 重甲佣兵</ChjAndroidMercenaryHeavy.labelFemalePlural>
+
+
+</LanguageData>

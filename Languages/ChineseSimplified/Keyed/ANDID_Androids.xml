@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <!-- Printer Building -->
+  <AndroidTab>设置</AndroidTab>
+  <AndroidTabTitle>养分来源</AndroidTabTitle>
+  <AndroidNutrition>养分</AndroidNutrition>
+  <AndroidPrinterStatus>状况: {0}</AndroidPrinterStatus>
+  <AndroidPrinterAndroid>自动人形: {0}</AndroidPrinterAndroid>
+  <AndroidPrinterProgress>打印进度: {0}</AndroidPrinterProgress>
+  <AndroidPrinterNeed>需求 {0} {1}。</AndroidPrinterNeed>
+  <AndroidPrinterMaterials>材料:</AndroidPrinterMaterials>
+  <AndroidPrinterStatusEnum0>闲置</AndroidPrinterStatusEnum0>
+  <AndroidPrinterStatusEnum1>填充</AndroidPrinterStatusEnum1>
+  <AndroidPrinterStatusEnum2>打印</AndroidPrinterStatusEnum2>
+  <AndroidPrinterStatusEnum3>已完成</AndroidPrinterStatusEnum3>
+
+  <!-- Letters -->
+  <AndroidPrintedLetterLabel>自动人形-{0}打印完成</AndroidPrintedLetterLabel>
+  <AndroidPrintedLetterDescription>为{0}的诞生庆贺！\n\n作为出生在这个殖民地的新生者，他将被这里美好的生活所吸引，并且会在很长一段时间内都不会介意生活中的低谷。</AndroidPrintedLetterDescription>
+  <AndroidDroidManufactoryLetterLabel>机械奴工{0}制造完成</AndroidDroidManufactoryLetterLabel>
+  <AndroidDroidManufactoryLetterDescription>欢迎{0}来到殖民地。\n\n作为一个全新的机器人(Droid)你可以让它立即投入工作生产中。但不要忘记给{0}及时充电。</AndroidDroidManufactoryLetterDescription>
+
+  <!-- Messages -->
+  <AndroidSpawnedPawnMessageText>组装 {0}</AndroidSpawnedPawnMessageText>
+  <AndroidSpawnedDroidMessageText>{1} 从机器人套件中组装 {0}。</AndroidSpawnedDroidMessageText>
+
+  <!-- Gizmos -->
+  <AndroidGizmoTogglePrintingStartLabel>开始打印</AndroidGizmoTogglePrintingStartLabel>
+  <AndroidGizmoTogglePrintingStartDescription>为待打印的自动人形自定义。</AndroidGizmoTogglePrintingStartDescription>
+  <AndroidGizmoTogglePrintingStopLabel>停止打印</AndroidGizmoTogglePrintingStopLabel>
+  <AndroidGizmoTogglePrintingStopDescription>中止打印进度，所有使用中的素材将永久消失。</AndroidGizmoTogglePrintingStopDescription>
+  <AndroidGizmoPrinterAndroidInfoDescription>查看正在打印中的人形信息。</AndroidGizmoPrinterAndroidInfoDescription>
+  <AndroidGizmoSelfDetonationLabel>自爆</AndroidGizmoSelfDetonationLabel>
+  <AndroidGizmoSelfDetonationDescription>急速升温的能源核熔炉能引起爆炸。只有在紧急情况下才考虑，因为这样的选择是无法回头的。\n\n"一切为了殖民地！" - 殖民地机械工程师</AndroidGizmoSelfDetonationDescription>
+
+  <!-- Dialogs -->
+  <AndroidSelfDetonationConfirmationDialogText>让{0}启动自我毁灭装置？这个操作选择是不可逆的。</AndroidSelfDetonationConfirmationDialogText>
+
+  <!-- Android Customization -->
+  <AndroidCustomization>定制自动人形</AndroidCustomization>
+  <AndroidCustomizationChangeColor>改变颜色</AndroidCustomizationChangeColor>
+  <AndroidCustomizationPrint>开始打印</AndroidCustomizationPrint>
+  <AndroidCustomizationRollFemale>女性体</AndroidCustomizationRollFemale>
+  <AndroidCustomizationRollMale>男性体</AndroidCustomizationRollMale>
+  <AndroidNone>无</AndroidNone>
+  <AndroidCustomizationFirstIdentity>第一身份:</AndroidCustomizationFirstIdentity>
+  <AndroidCustomizationSecondIdentity>第二身份:</AndroidCustomizationSecondIdentity>
+
+  <!-- Startup Dialogs -->
+  <AndroidRebellionGameStartDialog>叛乱进展顺利，内应救出了你和你的同伴，并逃离这个星球，期间没有被追捕。在前往传说中的理想乡——Android的路上，你被警报与接踵而至的爆炸打乱了自己的逃亡计划。在登上紧急逃生舱的时候，心中悬着一股阴霾——我们被跟踪了么？！\n\n为了生存，必须开始制定生存计划。由于仓促的逃亡，你不得不依靠狩猎或电能来维系殖民地的生存。</AndroidRebellionGameStartDialog>
+  <AndroidRunnerGameStartDialog>你是闪耀世界里一个精心策划的实验的一部分——作为数十亿人观看的现实娱乐节目的一部分。在百名“参赛者”的角逐中，你是晋级决赛的一个幸运儿。而你设法通过分散节目组的注意力的时候，在机场抢夺了一架穿梭机离开这个星球，奔向自由。几年之后，你的飞船耗尽了燃料，坠落到一个名为边缘世界(rimworld)的地方。\n\n在成功着陆后，由于一些神秘的原因，你觉醒了更多知识与技能，这会是一个预兆么？</AndroidRunnerGameStartDialog>
+  <AndroidMechanistGameStartDialog>背井离乡，远走高飞是一个艰辛的决定。从极端的追杀者手中艰难的逃脱后，你只能眼睁睁的看着自己大部分的成果被那些蛮横的暴乱分子毁于一旦。现在你要面对事实上流亡的结果，你试图在这个偏远的类地行星上重建自己失去的一切，而你可靠的机械仆役已经准备待续了。\n\n当你从逃生船上下来时，你注意到几个定居点。你希望家中的悲剧不再重演。而这次他们也不会再有机会的。</AndroidMechanistGameStartDialog>
+
+  <!-- Float menu options -->
+  <AndroidConsumeEnergySource>为{0}补给</AndroidConsumeEnergySource>
+  <AndroidConsumeEnergySourceOther>帮助 {0} 补给 {1}</AndroidConsumeEnergySourceOther>
+
+  <!-- Settings -->
+  <AndroidSettingsExplodeOnDeath>自动人形爆炸而亡</AndroidSettingsExplodeOnDeath>
+  <AndroidSettingsExplosionRadius>爆炸半径</AndroidSettingsExplosionRadius>
+  <AndroidSettingsDroidCompatibilityMode>机械奴工(Droid)兼容模式</AndroidSettingsDroidCompatibilityMode>
+  <AndroidSettingsDroidCompatibilityModeTooltip>所有的需求值无效化，以避免在Mods中出现的[NullReferenceException]问题。</AndroidSettingsDroidCompatibilityModeTooltip>
+  <AndroidSettingsDroidDetonationDialog>自毁程序确认对话框</AndroidSettingsDroidDetonationDialog>
+  <AndroidSettingsDroidDetonationDialogTooltip>当您点击机械奴工(Droid)上的自爆按钮时，这个会弹出一个对话框，询问是否确认开启自爆操作。对于经常出现手误操作的用户很有帮助。</AndroidSettingsDroidDetonationDialogTooltip>
+
+</LanguageData>

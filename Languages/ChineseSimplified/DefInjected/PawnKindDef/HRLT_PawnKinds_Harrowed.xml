@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HarrowedFlagellant.label>鞭笞者</HarrowedFlagellant.label>
+  <HarrowedFlagellant.labelPlural>鞭笞者</HarrowedFlagellant.labelPlural>
+
+  <HarrowedMilitant.label>清洗者</HarrowedMilitant.label>
+  <HarrowedMilitant.labelPlural>清洗者</HarrowedMilitant.labelPlural>
+
+  <HarrowedPurger.label>狂热分子</HarrowedPurger.label>
+  <HarrowedPurger.labelPlural>狂热分子</HarrowedPurger.labelPlural>
+
+  <HarrowedPriest.label>祭司</HarrowedPriest.label>
+  <HarrowedPriest.labelPlural>祭司</HarrowedPriest.labelPlural>
+
+  <HarrowedCommander.label>指挥官</HarrowedCommander.label>
+  <HarrowedCommander.labelPlural>指挥官</HarrowedCommander.labelPlural>
+
+  <HarrowedChampion.label>大祭司</HarrowedChampion.label>
+  <HarrowedChampion.labelPlural>大祭司</HarrowedChampion.labelPlural>
+
+  <HarrowedLeader.label>领袖</HarrowedLeader.label>
+  <HarrowedLeader.labelPlural>领袖</HarrowedLeader.labelPlural>
+
+
+</LanguageData>

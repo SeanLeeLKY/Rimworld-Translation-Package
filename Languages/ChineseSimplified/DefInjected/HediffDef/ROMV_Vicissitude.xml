@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_PerfectFormHediff.label>完美形态(转变)</ROMV_PerfectFormHediff.label>
+
+  <ROMV_CorruptFormHediff_Sight.label>松散的皮肤袋</ROMV_CorruptFormHediff_Sight.label>
+  <ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWell>缝合</ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWell>
+  <ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWellInner>缝合</ROMV_CorruptFormHediff_Sight.comps.0.labelTendedWellInner>
+  <ROMV_CorruptFormHediff_Sight.injuryProps.destroyedLabel>不再腐烂</ROMV_CorruptFormHediff_Sight.injuryProps.destroyedLabel>
+
+  <ROMV_CorruptFormHediff_Legs.label>分离骨肉</ROMV_CorruptFormHediff_Legs.label>
+  <ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWell>照料</ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWell>
+  <ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWellInner>照料</ROMV_CorruptFormHediff_Legs.comps.0.labelTendedWellInner>
+  <ROMV_CorruptFormHediff_Legs.injuryProps.destroyedLabel>不再腐烂</ROMV_CorruptFormHediff_Legs.injuryProps.destroyedLabel>
+
+  <ROMV_CorruptFormHediff_Arms.label>韧带撕裂</ROMV_CorruptFormHediff_Arms.label>
+  <ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWell>照料</ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWell>
+  <ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWellInner>照料</ROMV_CorruptFormHediff_Arms.comps.0.labelTendedWellInner>
+  <ROMV_CorruptFormHediff_Arms.injuryProps.destroyedLabel>不再腐烂</ROMV_CorruptFormHediff_Arms.injuryProps.destroyedLabel>
+
+  <ROMV_ZuloFormHediff.label>魔人形态(转变)</ROMV_ZuloFormHediff.label>
+
+
+</LanguageData>

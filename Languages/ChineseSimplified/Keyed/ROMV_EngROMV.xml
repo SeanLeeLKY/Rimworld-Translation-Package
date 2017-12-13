@@ -1,0 +1,132 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- 12-13-17 -->
+  <ROMV_LevelUp>{0}的吸血鬼等级上升一级。</ROMV_LevelUp>
+
+  <!-- 12-9-17 -->
+  <ROMV_SoullessHuskOf>剥去{0}的外壳</ROMV_SoullessHuskOf>
+  <ROMV_AndroidCoolant>自动人形冷却液</ROMV_AndroidCoolant>
+  <ROMV_AndroidCoolantVitae>仿生人</ROMV_AndroidCoolantVitae>
+  <ROMV_AndroidCoolantVitaeDesc>在尝试处理新输入的冷却液和奇怪的血液之后，这个自动人形(android)的生理系统已经合成出了一种不同的生命之血，用来继续处理生理系统功能。</ROMV_AndroidCoolantVitaeDesc>
+  <ROMV_AndroidCoolantDesc>没有冷却液，自动人形将停止生理功能。奇怪的是，这种情况非常类似血液。然而，试图用冷却液喂养有机的吸血鬼是个极其艰难的事情。</ROMV_AndroidCoolantDesc>
+
+  <!-- 12-2-17 -->
+  <ROMV_AshesOf>{0}的尸骸灰烬。</ROMV_AshesOf>
+  <ROMV_NoBloodRemaining>已经没有剩余的生命之血。</ROMV_NoBloodRemaining>
+
+  <!-- 11-26-17 -->
+  <ROMV_NightLength>永久性的减少阳关的百分比，这延长了夜间的时间。</ROMV_NightLength>
+  <ROMV_NightLengthBy>太阳的力量被削弱，夜晚被 {0} 延长了。</ROMV_NightLengthBy>
+  <ROMV_EternalDarkness>夜晚被延长了(永远的暗夜)</ROMV_EternalDarkness>
+
+  <!-- 11-19-17 -->
+  <ROMV_CannotPurgeMechanoids>{0}已经没有血液流出了。</ROMV_CannotPurgeMechanoids>
+
+  <!-- 11-4-17 x2-->
+  <ROMV_HI_UnusedCapacities>NAME是一个死人。HISCAP身体不需要大部分的生理功能。HECAP仍然可以主动地激活身体的功能，就像活着的人一样。只要绝对必要的时候。</ROMV_HI_UnusedCapacities>
+  <ROMV_HI_Unused>未使用</ROMV_HI_Unused>
+  <ROMV_HI_Immunities>阻隔: 疾病，感染，温度影响。</ROMV_HI_Immunities>
+  <ROMV_HI_Vampirism>吸血鬼</ROMV_HI_Vampirism>
+
+  <!-- 11-4-17 -->
+  <ROMV_HI_VampGeneration>吸血鬼({0} 世代)</ROMV_HI_VampGeneration>
+  <ROMV_HI_Generation>{0} 世代</ROMV_HI_Generation>
+  <ROMV_HI_VitaeAvailable>{0} 开始恢复生命之血</ROMV_HI_VitaeAvailable>
+
+  <!-- Used Ability Effects -->
+  <!-- Animalism -->
+  <ROMV_AnimalHerd>野生动物群</ROMV_AnimalHerd>
+  <ROMV_AnimalHerdDesc>感受到看不见的意志驱使，大量的动物涌入了这个地区。</ROMV_AnimalHerdDesc>
+  <!-- Auspex -->
+  <ROMV_MindBeingRead>正在读取心灵: {0}</ROMV_MindBeingRead>
+  <ROMV_HediffRemoved>{0} 删除</ROMV_HediffRemoved>
+
+  <!-- Vampire Ability Buttons -->
+  <ROMV_BloodPoints>血源: {0}</ROMV_BloodPoints>
+  <ROMV_NotEnoughBloodPoints>没有足够的血源。</ROMV_NotEnoughBloodPoints>
+
+  <!-- Vampire Character Screen -->
+  <ROMV_VampireSheet>吸血鬼技能表</ROMV_VampireSheet>
+  <ROMV_CharacterSheet>角色属性面板</ROMV_CharacterSheet>
+  <ROMV_VampireDesc>{0} 转化成为吸血鬼，通过 {1} 的血统。</ROMV_VampireDesc>
+  <ROMV_Disciplines>技能表</ROMV_Disciplines>
+  <ROMV_Level>等级</ROMV_Level>
+  <ROMV_PointsAvailable>可用点数</ROMV_PointsAvailable>
+  <ROMV_NotEnoughAbilityPoints>需要 {1} 能力点数。当前持有 {0}。</ROMV_NotEnoughAbilityPoints>
+  <ROMV_XPDesc>吸血鬼可以通过在殖民地的各种类型的工作中获得经验点数。</ROMV_XPDesc>
+
+  <!-- Float Menus -->
+  <ROMV_Feed>对 {0} 吸血</ROMV_Feed>
+  <ROMV_LethalWarning>(致命的)</ROMV_LethalWarning>
+  <ROMV_Sip>大量吸取 {0} 的血液</ROMV_Sip>
+  <ROMV_FeedVampire>对 {0} 进行吸血(赋予血统)</ROMV_FeedVampire>
+  <ROMV_Diablerie>对 {0} 使用邪术(吞噬灵魂)</ROMV_Diablerie>
+  <ROMV_DiablerieNoBenefit>(没有好处: 更高级的血族)</ROMV_DiablerieNoBenefit>
+  <ROMV_Embrace>初拥 {0} (让吸血鬼来进行)</ROMV_Embrace>
+  <ROMV_CannotEmbrace>不能初拥 {0}</ROMV_CannotEmbrace>
+  <ROMV_EnterTorpor>进入沉睡状态 (无限期沉睡)</ROMV_EnterTorpor>
+
+
+  <ROMV_VampireBirthday>{0} 已经达到 {1} 的生物年龄。\n\n{0} 获得永生的益处，不受衰老的副作用或惩罚。</ROMV_VampireBirthday>
+
+  <!-- Alerts -->
+  <ROMV_Alert_StarvingVampire>饥渴的吸血鬼</ROMV_Alert_StarvingVampire>
+  <ROMV_Alert_StarvingVampireDesc>处于饥渴状态时，如果不让他吸食血液可能会唤醒其内在的渴血冲动。\n\n这些是饥渴的吸血鬼：\n {0}\n\n提示！右键点击棺材，让吸血鬼进入沉睡状态，防止他们变成怪物。</ROMV_Alert_StarvingVampireDesc>
+  <ROMV_Alert_VampireInTheSun>吸血鬼处于阳光下</ROMV_Alert_VampireInTheSun>
+  <ROMV_Alert_VampireInTheSunDesc>有吸血鬼处于阳光直射的地方。在太阳把他们烧成灰烬之前，一定要迅速把他们转移到屋檐下的地方。\n\n这些吸血鬼是：\n {0}</ROMV_Alert_VampireInTheSunDesc>
+
+  <!-- Messages -->
+  <ROMV_Caravan_WarningMixedWithVampires>先把吸血鬼放入棺材里，或者派遣一个吸血鬼的大篷车来。</ROMV_Caravan_WarningMixedWithVampires>
+  <ROMV_EmbracedSuccessfully>{0} 变成了一个吸血鬼, 是 {1} 与 {2} 血脉之子。</ROMV_EmbracedSuccessfully>
+  <ROMV_DiablerieSuccessfully>{0} 吞噬了 {1} 的灵魂。</ROMV_DiablerieSuccessfully>
+  <ROMV_BloodDepletedVamp>{0}/生命之血即将枯竭。必须尽快吸食血液，否则失控的野性会占据主导权。</ROMV_BloodDepletedVamp>
+  <ROMV_BloodDepleted>{0}/的生命之血已经枯竭。</ROMV_BloodDepleted>
+  <ROMV_DeadlyOperation>这个操作会杀死 {0}</ROMV_DeadlyOperation>
+
+  <!-- Hediff Info -->
+  <ROMV_DamageSoaked>{0} 被迷惑住了</ROMV_DamageSoaked>
+  <ROMV_HI_BodySize>身体体型: {0}</ROMV_HI_BodySize>
+  <ROMV_HI_HealthScale>健康程度: {0}</ROMV_HI_HealthScale>
+  <ROMV_HI_DamageSoaked>吸血量: {0}</ROMV_HI_DamageSoaked>
+  <ROMV_HI_Bloodline>血族: {0}</ROMV_HI_Bloodline>
+  <ROMV_HI_Sire>先祖: {0}</ROMV_HI_Sire>
+  <ROMV_HI_Childer>后裔: {0}</ROMV_HI_Childer>
+  <ROMV_HI_Souls>灵魂: {0}</ROMV_HI_Souls>
+  <ROMV_HI_Thralls>奴仆: {0}</ROMV_HI_Thralls>
+  <ROMV_HI_None>无</ROMV_HI_None>
+  <ROMV_HI_Thinblooded>黯淡之血族\n\nNote: 没落的血族无法发展新的吸血鬼，但是他们拥有高于一般吸血鬼两倍的生命力。</ROMV_HI_Thinblooded>
+  <ROMV_Thinblooded>黯淡之血族</ROMV_Thinblooded>
+
+  <!-- Needs Blood Bar -->
+  <ROMV_Vitae>生命力</ROMV_Vitae>
+  <ROMV_VitaeDesc>一旦血液进入吸血鬼的体内，它就会变成吸血鬼力量的来源。这种血液感染了该隐的诅咒，可以在吸食他人的血液后获得。吸血鬼可以使用生命之血来激活一个亡灵尸体。低阶吸血鬼则可以解放自己内在的野性。</ROMV_VitaeDesc>
+  <ROMV_BloodTypeAnimal>动物</ROMV_BloodTypeAnimal>
+  <ROMV_BloodTypeAverage>均衡</ROMV_BloodTypeAverage>
+  <ROMV_BloodTypeLow>低阶血族</ROMV_BloodTypeLow>
+  <ROMV_BloodTypeHigh>高阶血族</ROMV_BloodTypeHigh>
+  <ROMV_BloodType_Unavailable>未知</ROMV_BloodType_Unavailable>
+  <ROMV_FeedMode_Tip>血液获取模式\n\n该功能决定了吸血鬼如何获取生命力的方式。非致命模式吸取血液时不会吸尽导致其死亡。致命模式将会把对象的血液吸尽，是极其不在乎受害者安全的考虑。</ROMV_FeedMode_Tip>
+  <ROMV_FeedMode_CurrentMode>当前模式</ROMV_FeedMode_CurrentMode>
+  <ROMV_FeedMode_None>无自动吸血</ROMV_FeedMode_None>
+  <ROMV_FeedMode_AnimalNonLethal>动物 (非致命)</ROMV_FeedMode_AnimalNonLethal>
+  <ROMV_FeedMode_AnimalLethal>动物 (致命的)</ROMV_FeedMode_AnimalLethal>
+  <ROMV_FeedMode_HumanoidNonLethal>人形 (非致命)</ROMV_FeedMode_HumanoidNonLethal>
+  <ROMV_FeedMode_HumanoidLethal>人形 (致命的)</ROMV_FeedMode_HumanoidLethal>
+
+  <!-- Scenario Editer -->
+  <ROMV_StartingVampires>吸血鬼</ROMV_StartingVampires>
+  <ROMV_MaxVampires>最大初始吸血鬼</ROMV_MaxVampires>
+  <ROMV_VampireGeneration>世代范围 {0}</ROMV_VampireGeneration>
+  <ROMV_StartInCoffins>在棺材里</ROMV_StartInCoffins>
+  <ROMV_Chance>改变</ROMV_Chance>
+  <ROMV_ChanceOf>{0} 的改变</ROMV_ChanceOf>
+  <ROMV_UnknownBloodline>未知的血族</ROMV_UnknownBloodline>
+  <ROMV_StartingVampiresSummary>{0} 将会在 {1} 辈分下 {2} 转化成为吸血鬼 {3}。</ROMV_StartingVampiresSummary>
+  <!-- Start with 3 10th-13th generation Tremere vampires in coffins -->
+
+  <!--<ROMV_DownedGrapple>下落攻击: 成功俘获</ROMV_DownedGrapple>-->
+  <!--<ROMV_SneakGrapple>潜行攻击: 成功俘获</ROMV_SneakGrapple>-->
+  <!--<ROMV_PrisonerGrapple>制服受害者: 成功俘获</ROMV_PrisonerGrapple>-->
+
+</LanguageData>

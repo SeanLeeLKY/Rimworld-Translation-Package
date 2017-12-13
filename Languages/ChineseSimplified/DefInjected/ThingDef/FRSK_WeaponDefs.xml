@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- [[Sword Boye]] -->
+
+  <ForsakenLongBlade.label>遗忘者长刀</ForsakenLongBlade.label>
+  <ForsakenLongBlade.description>斩击</ForsakenLongBlade.description>
+  <ForsakenLongBlade.tools.0.label>刀柄</ForsakenLongBlade.tools.0.label>
+  <ForsakenLongBlade.tools.1.label>刀尖</ForsakenLongBlade.tools.1.label>
+  <ForsakenLongBlade.tools.2.label>刃口</ForsakenLongBlade.tools.2.label>
+
+
+  <!-- [[Axe Boye]] -->
+
+  <ForsakenBattle.label>遗忘者战斧</ForsakenBattle.label>
+  <ForsakenBattle.description>斩击</ForsakenBattle.description>
+  <ForsakenBattle.tools.0.label>握把</ForsakenBattle.tools.0.label>
+  <ForsakenBattle.tools.1.label>斧刃</ForsakenBattle.tools.1.label>
+  <ForsakenBattle.tools.2.label>刃口</ForsakenBattle.tools.2.label>
+
+  <ForsakenBulksword.label>遗忘者大剑</ForsakenBulksword.label>
+  <ForsakenBulksword.description>挥砍</ForsakenBulksword.description>
+  <ForsakenBulksword.tools.0.label>剑柄</ForsakenBulksword.tools.0.label>
+  <ForsakenBulksword.tools.1.label>斧刃</ForsakenBulksword.tools.1.label>
+  <ForsakenBulksword.tools.2.label>刃口</ForsakenBulksword.tools.2.label>
+
+
+</LanguageData>

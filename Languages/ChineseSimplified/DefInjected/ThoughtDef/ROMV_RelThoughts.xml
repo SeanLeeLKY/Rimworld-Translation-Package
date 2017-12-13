@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sire Thoughts -->
+
+  <MySireDestroyed.stages.0.label>我们的君主{0}驾崩了。</MySireDestroyed.stages.0.label>
+  <MySireDestroyed.stages.0.description>我们的君主陛下逝去了。他永远的离开了我们。</MySireDestroyed.stages.0.description>
+
+  <DestroyedMySire.stages.0.label>杀害了我的君主</DestroyedMySire.stages.0.label>
+
+  <SoldMyBloodBondedOne.stages.0.label>血亲被卖掉</SoldMyBloodBondedOne.stages.0.label>
+  <SoldMyBloodBondedOne.stages.0.labelSocial>我的血亲被贩卖掉</SoldMyBloodBondedOne.stages.0.labelSocial>
+  <SoldMyBloodBondedOne.stages.0.description>我的血亲被卖给了一个商人。</SoldMyBloodBondedOne.stages.0.description>
+
+
+  <!-- Childe Thoughts -->
+
+  <MyChildeDestroyed.stages.0.label>我的子嗣{0}死了</MyChildeDestroyed.stages.0.label>
+  <MyChildeDestroyed.stages.0.description>我的子嗣死了，我永远的失去了他。</MyChildeDestroyed.stages.0.description>
+
+  <DestroyedMyChilde.stages.0.label>杀害了我的子嗣</DestroyedMyChilde.stages.0.label>
+
+
+</LanguageData>

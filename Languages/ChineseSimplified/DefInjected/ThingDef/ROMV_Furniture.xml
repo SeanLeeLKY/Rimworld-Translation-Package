@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Beds -->
+
+  <ROMV_SimpleCoffin.label>棺材</ROMV_SimpleCoffin.label>
+  <ROMV_SimpleCoffin.description>一个安葬死者的容器。</ROMV_SimpleCoffin.description>
+  <ROMV_SimpleCoffin_Blueprint.label>棺材(蓝图)</ROMV_SimpleCoffin_Blueprint.label>
+  <ROMV_SimpleCoffin_Blueprint_Install.label>棺材(蓝图)</ROMV_SimpleCoffin_Blueprint_Install.label>
+  <ROMV_SimpleCoffin_Frame.label>棺材(建造中)</ROMV_SimpleCoffin_Frame.label>
+  <ROMV_SimpleCoffin_Frame.description>一个安葬死者的容器。</ROMV_SimpleCoffin_Frame.description>
+
+  <ROMV_SimpleCoffinBed.label>睡眠点</ROMV_SimpleCoffinBed.label>
+  <ROMV_SimpleCoffinBed.description>指定一个让人睡觉的地点。并不舒服。</ROMV_SimpleCoffinBed.description>
+
+  <ROMV_RoyalCoffin.label>王室棺材</ROMV_RoyalCoffin.label>
+  <ROMV_RoyalCoffin.description>一个装饰奢华的安葬容器。专为尊贵的吸血鬼休眠而制。</ROMV_RoyalCoffin.description>
+  <ROMV_RoyalCoffin_Blueprint.label>王室棺材 (蓝图)</ROMV_RoyalCoffin_Blueprint.label>
+  <ROMV_RoyalCoffin_Blueprint_Install.label>王室棺材 (蓝图)</ROMV_RoyalCoffin_Blueprint_Install.label>
+  <ROMV_RoyalCoffin_Frame.label>王室棺材 (建造中)</ROMV_RoyalCoffin_Frame.label>
+  <ROMV_RoyalCoffin_Frame.description>一个装饰奢华的安葬容器。专为尊贵的吸血鬼休眠而制。</ROMV_RoyalCoffin_Frame.description>
+
+  <ROMV_RoyalCoffinBed.label>睡眠点</ROMV_RoyalCoffinBed.label>
+  <ROMV_RoyalCoffinBed.description>指定一个让人睡觉的地点。并不舒服。</ROMV_RoyalCoffinBed.description>
+
+  <ROMV_SarcophagusBed.label>睡眠点</ROMV_SarcophagusBed.label>
+  <ROMV_SarcophagusBed.description>指定一个让人睡觉的地点。并不舒服。</ROMV_SarcophagusBed.description>
+
+
+  <!--<ROMV_HideyHole.label>奇怪的土堆</ROMV_HideyHole.label>-->
+  <!--<ROMV_HideyHole.description>这个块小土堆有种说不出的异样感。</ROMV_HideyHole.description>-->
+  <!--<ROMV_HideyHole_Blueprint.label>奇怪的土堆 (蓝图)</ROMV_HideyHole_Blueprint.label>-->
+  <!--<ROMV_HideyHole_Frame.label>奇怪的土堆 (建造中)</ROMV_HideyHole_Frame.label>-->
+  <!--<ROMV_HideyHole_Frame.description>这个块小土堆有种说不出的异样感。</ROMV_HideyHole_Frame.description>-->
+
+</LanguageData>

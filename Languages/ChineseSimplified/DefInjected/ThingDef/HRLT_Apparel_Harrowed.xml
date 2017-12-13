@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_HarrowedCassock.label>法衣</Apparel_HarrowedCassock.label>
+  <Apparel_HarrowedCassock.description>一件长至脚踝的衣服。</Apparel_HarrowedCassock.description>
+
+  <Apparel_PeakedHat.label>主教冠</Apparel_PeakedHat.label>
+  <Apparel_PeakedHat.description>一顶尖帽子，传统上是由高级的神职人员才能佩戴着的。</Apparel_PeakedHat.description>
+
+  <Apparel_PeakedHatTwo.label>法冠</Apparel_PeakedHatTwo.label>
+  <Apparel_PeakedHatTwo.description>这是一种传统的尖顶帽子。</Apparel_PeakedHatTwo.description>
+
+  <Apparel_HPmask.label>清洗者头盔</Apparel_HPmask.label>
+  <Apparel_HPmask.description>一个宽松的头盔，里面装满了各种各样的草药。</Apparel_HPmask.description>
+
+  <Apparel_HPsuit.label>清洗者装甲</Apparel_HPsuit.label>
+  <Apparel_HPsuit.description>一种阻燃装甲。</Apparel_HPsuit.description>
+
+  <Apparel_HFmask.label>鞭笞者面罩</Apparel_HFmask.label>
+  <Apparel_HFmask.description>一种能散发不同草药，血液和汗水的芳香帽子。</Apparel_HFmask.description>
+
+  <Apparel_HGold.label>原始盔甲</Apparel_HGold.label>
+  <Apparel_HGold.description>一件古老的盔甲。</Apparel_HGold.description>
+
+  <Apparel_HOwl.label>原始猫头鹰头盔</Apparel_HOwl.label>
+  <Apparel_HOwl.description>一个精雕细琢的猫头鹰头盔。</Apparel_HOwl.description>
+
+  <Apparel_MilitantVeil.label>狂热者面纱</Apparel_MilitantVeil.label>
+  <Apparel_MilitantVeil.description>一顶带有红色面纱的金属头盔。</Apparel_MilitantVeil.description>
+
+  <Apparel_HarrowedCommanderMask.label>悲伤的司令面具</Apparel_HarrowedCommanderMask.label>
+  <Apparel_HarrowedCommanderMask.description>一件高级神职人员的面具。</Apparel_HarrowedCommanderMask.description>
+
+  <Apparel_HarrowedCommander.label>指挥官装甲</Apparel_HarrowedCommander.label>
+  <Apparel_HarrowedCommander.description>一件高级神职人员的盔甲。</Apparel_HarrowedCommander.description>
+
+
+</LanguageData>

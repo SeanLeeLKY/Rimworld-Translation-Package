@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_BatSpectralRace.label>幽灵蝙蝠</ROMV_BatSpectralRace.label>
+  <ROMV_BatSpectralRace.description>一种类似吸血蝙蝠的幽灵般的飞行生物。</ROMV_BatSpectralRace.description>
+  <!-- Leather Amount: 0 -->
+  <ROMV_BatSpectralRace_Meat.label>幽灵蝙蝠肉</ROMV_BatSpectralRace_Meat.label>
+  <ROMV_BatSpectralRace_Meat.description>幽灵蝙蝠肉</ROMV_BatSpectralRace_Meat.description>
+  <ROMV_BatSpectralRace_Corpse.label>幽灵蝙蝠尸体</ROMV_BatSpectralRace_Corpse.label>
+  <ROMV_BatSpectralRace_Corpse.description>幽灵蝙蝠尸体</ROMV_BatSpectralRace_Corpse.description>
+
+
+</LanguageData>

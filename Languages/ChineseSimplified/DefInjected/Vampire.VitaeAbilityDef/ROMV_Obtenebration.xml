@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Obtenebration_ArmOfTheAbyss.label>深渊之手</ROMV_Obtenebration_ArmOfTheAbyss.label>
+  <ROMV_Obtenebration_ArmOfTheAbyss.description>召唤一个深渊的触手守护这个区域，攻击经过的人。</ROMV_Obtenebration_ArmOfTheAbyss.description>
+
+  <ROMV_Obtenebration_BlackMetamorphosis.label>黑暗蜕变</ROMV_Obtenebration_BlackMetamorphosis.label>
+  <ROMV_Obtenebration_BlackMetamorphosis.description>能将阴影变为额外的护甲，并且改善你的武器。</ROMV_Obtenebration_BlackMetamorphosis.description>
+
+  <ROMV_Obtenebration_TenebrousForm.label>阴影形态</ROMV_Obtenebration_TenebrousForm.label>
+  <ROMV_Obtenebration_TenebrousForm.description>将施法者变成无敌的黑色阴影，能免疫除了阳光以外的所有伤害。施法者不能用阴影形态攻击其他目标。</ROMV_Obtenebration_TenebrousForm.description>
+
+  <ROMV_Obtenebration_EnterTheAbyss.label>遁入深渊</ROMV_Obtenebration_EnterTheAbyss.label>
+  <ROMV_Obtenebration_EnterTheAbyss.description>允许施法者穿过黑暗的深渊，并瞬间传送到地图上的任何位置。</ROMV_Obtenebration_EnterTheAbyss.description>
+
+
+</LanguageData>

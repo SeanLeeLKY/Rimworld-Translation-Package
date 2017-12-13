@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Blood drain-related deaths -->
+
+  <ROMV_WitnessedVampireFeeding.stages.0.label>亲眼目睹了在吸血的吸血鬼</ROMV_WitnessedVampireFeeding.stages.0.label>
+  <ROMV_WitnessedVampireFeeding.stages.0.description>他们是不是吸了那个家伙的脖子？</ROMV_WitnessedVampireFeeding.stages.0.description>
+
+  <ROMV_WitnessedVampireFeedingVisitor.stages.0.label>目睹了吸血鬼进食行为</ROMV_WitnessedVampireFeedingVisitor.stages.0.label>
+  <ROMV_WitnessedVampireFeedingVisitor.stages.0.description>有人应该去阻止这样的事情。</ROMV_WitnessedVampireFeedingVisitor.stages.0.description>
+
+  <ROMV_WitnessedVampireEmbrace.stages.0.label>亲眼目睹吸血鬼的初拥</ROMV_WitnessedVampireEmbrace.stages.0.label>
+  <ROMV_WitnessedVampireEmbrace.stages.0.description>那个人之前还是活生生的，接着他死了。而现在他们已经……变得不一样了。这真是太不科学了！</ROMV_WitnessedVampireEmbrace.stages.0.description>
+
+  <ROMV_WitnessedVampireEmbraceVisitor.stages.0.label>目睹吸血鬼的繁衍</ROMV_WitnessedVampireEmbraceVisitor.stages.0.label>
+  <ROMV_WitnessedVampireEmbraceVisitor.stages.0.description>这些生物是不可饶恕的。它会看到我摧毁它们的一天。</ROMV_WitnessedVampireEmbraceVisitor.stages.0.description>
+
+  <ROMV_WitnessedVampireDiablerie.stages.0.label>亲眼目睹吸血鬼吞噬灵魂</ROMV_WitnessedVampireDiablerie.stages.0.label>
+  <ROMV_WitnessedVampireDiablerie.stages.0.description>刚才从他身上出来的那个是什么？！</ROMV_WitnessedVampireDiablerie.stages.0.description>
+
+  <ROMV_WitnessedVampireDiablerieVisitor.stages.0.label>目睹吸血鬼猎取灵魂</ROMV_WitnessedVampireDiablerieVisitor.stages.0.label>
+  <ROMV_WitnessedVampireDiablerieVisitor.stages.0.description>这样的东西(吸血鬼)，是不应该存在的！</ROMV_WitnessedVampireDiablerieVisitor.stages.0.description>
+
+
+</LanguageData>

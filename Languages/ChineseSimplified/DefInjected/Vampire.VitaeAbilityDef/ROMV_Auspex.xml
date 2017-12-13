@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Auspex_HeightenedSenses.label>感知增强</ROMV_Auspex_HeightenedSenses.label>
+  <ROMV_Auspex_HeightenedSenses.description>暂时性的提升感官与远程武器的能力。</ROMV_Auspex_HeightenedSenses.description>
+
+  <ROMV_Auspex_CrocodileTongue.label>鳄鱼舌头</ROMV_Auspex_CrocodileTongue.label>
+  <ROMV_Auspex_CrocodileTongue.description>暂时性的给予社交技能的提升与交易时的优势效果。</ROMV_Auspex_CrocodileTongue.description>
+
+  <ROMV_Auspex_RevealIllusions.label>揭示幻想</ROMV_Auspex_RevealIllusions.label>
+  <ROMV_Auspex_RevealIllusions.description>能够揭发假象。消除痛苦，或在地图显现出隐藏的位置。</ROMV_Auspex_RevealIllusions.description>
+
+  <ROMV_Auspex_ReadMind.label>读取心灵</ROMV_Auspex_ReadMind.label>
+  <ROMV_Auspex_ReadMind.description>能够先读目标的心灵。找出他们下一步的行动，并在此之前防止他们使用常规的手段伤害施法者。</ROMV_Auspex_ReadMind.description>
+
+
+</LanguageData>

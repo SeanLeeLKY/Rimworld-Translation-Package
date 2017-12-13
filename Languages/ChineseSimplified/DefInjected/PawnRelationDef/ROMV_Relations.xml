@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- spouse / lover -->
+
+  <ROMV_Sire.label>尊长</ROMV_Sire.label>
+  <ROMV_Sire.labelFemale>尊长</ROMV_Sire.labelFemale>
+
+  <ROMV_Childe.label>贵族</ROMV_Childe.label>
+  <ROMV_Childe.labelFemale>贵族</ROMV_Childe.labelFemale>
+
+
+</LanguageData>

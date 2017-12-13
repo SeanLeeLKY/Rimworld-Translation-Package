@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROM_Vampirism.label>吸血鬼</ROM_Vampirism.label>
+
+  <ROM_VampirismRandom.label>吸血鬼(随机)</ROM_VampirismRandom.label>
+  <ROM_VampirismRandom.stages.0.label>黯淡之血(虚弱)</ROM_VampirismRandom.stages.0.label>
+  <ROM_VampirismRandom.stages.1.label>10-13th 世代(一般)</ROM_VampirismRandom.stages.1.label>
+  <ROM_VampirismRandom.stages.2.label>7-9th 世代(强大)</ROM_VampirismRandom.stages.2.label>
+  <ROM_VampirismRandom.stages.3.label>5-6th 世代(压倒性)</ROM_VampirismRandom.stages.3.label>
+
+  <ROM_VampirismTzimisce.label>吸血鬼(茨密希)</ROM_VampirismTzimisce.label>
+  <ROM_VampirismTzimisce.stages.0.label>黯淡之血(虚弱)</ROM_VampirismTzimisce.stages.0.label>
+  <ROM_VampirismTzimisce.stages.1.label>10-13th 世代(一般)</ROM_VampirismTzimisce.stages.1.label>
+  <ROM_VampirismTzimisce.stages.2.label>7-9th 世代(强大)</ROM_VampirismTzimisce.stages.2.label>
+  <ROM_VampirismTzimisce.stages.3.label>5-6th 世代(压倒性)</ROM_VampirismTzimisce.stages.3.label>
+
+  <ROM_VampirismLasombra.label>吸血鬼(勒森拔)</ROM_VampirismLasombra.label>
+  <ROM_VampirismLasombra.stages.0.label>黯淡之血(虚弱)</ROM_VampirismLasombra.stages.0.label>
+  <ROM_VampirismLasombra.stages.1.label>10-13th 世代(一般)</ROM_VampirismLasombra.stages.1.label>
+  <ROM_VampirismLasombra.stages.2.label>7-9th 世代(强大)</ROM_VampirismLasombra.stages.2.label>
+  <ROM_VampirismLasombra.stages.3.label>5-6th 世代(压倒性)</ROM_VampirismLasombra.stages.3.label>
+
+  <ROM_VampirismTremere.label>吸血鬼(瑞默尔)</ROM_VampirismTremere.label>
+  <ROM_VampirismTremere.stages.0.label>黯淡之血(虚弱)</ROM_VampirismTremere.stages.0.label>
+  <ROM_VampirismTremere.stages.1.label>10-13th 世代(一般)</ROM_VampirismTremere.stages.1.label>
+  <ROM_VampirismTremere.stages.2.label>7-9th 世代(强大)</ROM_VampirismTremere.stages.2.label>
+  <ROM_VampirismTremere.stages.3.label>5-6th 世代(压倒性)</ROM_VampirismTremere.stages.3.label>
+
+  <ROM_VampirismPijavica.label>吸血鬼(皮加维卡)</ROM_VampirismPijavica.label>
+  <ROM_VampirismPijavica.stages.0.label>黯淡之血(虚弱)</ROM_VampirismPijavica.stages.0.label>
+  <ROM_VampirismPijavica.stages.1.label>10-13th 世代(一般)</ROM_VampirismPijavica.stages.1.label>
+  <ROM_VampirismPijavica.stages.2.label>7-9th 世代(强大)</ROM_VampirismPijavica.stages.2.label>
+  <ROM_VampirismPijavica.stages.3.label>5-6th 世代(压倒性)</ROM_VampirismPijavica.stages.3.label>
+
+  <ROM_VampirismGargoyle.label>吸血鬼(卡维尔)</ROM_VampirismGargoyle.label>
+  <ROM_VampirismGargoyle.stages.0.label>黯淡之血(虚弱)</ROM_VampirismGargoyle.stages.0.label>
+  <ROM_VampirismGargoyle.stages.1.label>10-13th 世代(一般)</ROM_VampirismGargoyle.stages.1.label>
+  <ROM_VampirismGargoyle.stages.2.label>7-9th 世代(强大)</ROM_VampirismGargoyle.stages.2.label>
+  <ROM_VampirismGargoyle.stages.3.label>5-6th 世代(压倒性)</ROM_VampirismGargoyle.stages.3.label>
+
+  <ROMV_TheBeast.label>野兽</ROMV_TheBeast.label>
+  <ROMV_TheBeast.stages.0.label>初始-隐藏</ROMV_TheBeast.stages.0.label>
+  <ROMV_TheBeast.stages.1.label>渴望</ROMV_TheBeast.stages.1.label>
+  <ROMV_TheBeast.stages.2.label>饥渴</ROMV_TheBeast.stages.2.label>
+  <ROMV_TheBeast.stages.3.label>饥荒</ROMV_TheBeast.stages.3.label>
+
+  <ROMV_SunExposure.label>阳光照射</ROMV_SunExposure.label>
+  <ROMV_SunExposure.stages.0.label>初始-隐藏</ROMV_SunExposure.stages.0.label>
+  <ROMV_SunExposure.stages.1.label>最初</ROMV_SunExposure.stages.1.label>
+  <ROMV_SunExposure.stages.2.label>少量</ROMV_SunExposure.stages.2.label>
+  <ROMV_SunExposure.stages.3.label>严重</ROMV_SunExposure.stages.3.label>
+
+
+  <!--<ROMV_TheBeast.stages.4.label>释放</ROMV_TheBeast.stages.4.label>-->
+  <!--<ROMV_SunExposure.stages.4.label>极重</ROMV_SunExposure.stages.4.label>-->
+
+</LanguageData>

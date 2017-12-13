@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Dominate_Mesmerise.label>催眠术</ROMV_Dominate_Mesmerise.label>
+  <ROMV_Dominate_Mesmerise.description>暂时性的昏迷并解除目标的精神状态。</ROMV_Dominate_Mesmerise.description>
+
+  <ROMV_Dominate_Sleep.label>沉睡</ROMV_Dominate_Sleep.label>
+  <ROMV_Dominate_Sleep.description>让目标陷入沉睡大约20秒或更长，使之完全丧失行动能力。</ROMV_Dominate_Sleep.description>
+
+  <ROMV_Dominate_Suicide.label>自我毁灭</ROMV_Dominate_Suicide.label>
+  <ROMV_Dominate_Suicide.description>把自己的意志强加给受害者，使其造成致命的伤害。</ROMV_Dominate_Suicide.description>
+
+  <ROMV_Dominate_Possession.label>心灵控制</ROMV_Dominate_Possession.label>
+  <ROMV_Dominate_Possession.description>受害者会暂时性的加入你的阵营。直至最后死于心脏骤停。</ROMV_Dominate_Possession.description>
+
+
+</LanguageData>

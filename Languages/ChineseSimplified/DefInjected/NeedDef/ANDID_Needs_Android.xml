@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChJEnergy.label>能量</ChJEnergy.label>
+  <ChJEnergy.description>能量是这个机器人活动所需的能源，如果消耗殆尽时，自动人形就会进入断电、直至死亡。自动人形体内的生物反应炉可以通过食物摄入来补充能量。\n\n如果没有其他手段获取食物的时候也可以通过连接电池来补充能量。</ChJEnergy.description>
+
+
+</LanguageData>

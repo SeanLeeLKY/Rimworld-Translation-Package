@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Consumables -->
+
+  <ChjAndroidBattery.label>机器人电池</ChjAndroidBattery.label>
+  <ChjAndroidBattery.description>可以兼容自动人形(Android)与机械奴工(Droid)充能的消耗型电池。</ChjAndroidBattery.description>
+
+  <ChjDroidRepairKit.label>机器人维修包</ChjDroidRepairKit.label>
+  <ChjDroidRepairKit.description>一个包含有工具以及修复材料的修理包。可以将机械奴工完全恢复到崭新的状态。也能给机械奴工(Droid)和自动人形(Android)补充冷却剂。</ChjDroidRepairKit.description>
+
+
+  <!-- Solar Apparell -->
+
+  <ChjAndroid_SolarDuster.label>太阳能风衣</ChjAndroid_SolarDuster.label>
+  <ChjAndroid_SolarDuster.description>用来阻挡沙漠的暴晒和尘沙的风衣。现在装上了太阳能电池可以在户外长途旅行。</ChjAndroid_SolarDuster.description>
+
+
+</LanguageData>

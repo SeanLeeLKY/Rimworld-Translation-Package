@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Misc -->
+
+  <ROMV_DigAndHide.reportString>拼命的挖洞。</ROMV_DigAndHide.reportString>
+  <ROMV_Feed.reportString>正在猎食TargetA。</ROMV_Feed.reportString>
+  <ROMV_Sip.reportString>正在猎食TargetA。</ROMV_Sip.reportString>
+  <ROMV_FeedAndReturn.reportString>正在吸食TargetA的血液。</ROMV_FeedAndReturn.reportString>
+  <ROMV_BloodVomit.reportString>呕吐</ROMV_BloodVomit.reportString>
+  <ROMV_FeedAndDestroy.reportString>正在享用TargetA</ROMV_FeedAndDestroy.reportString>
+  <ROMV_FeedVampire.reportString>品味着TargetA的生命之血。</ROMV_FeedVampire.reportString>
+  <ROMV_Diablerie.reportString>试图吞噬TargetA的灵魂。</ROMV_Diablerie.reportString>
+  <ROMV_ConsumeBlood.reportString>正在吞噬TargetA。</ROMV_ConsumeBlood.reportString>
+  <ROMV_Embrace.reportString>拥抱TargetA</ROMV_Embrace.reportString>
+  <ROMV_EnterTorpor.reportString>进入休眠状态。</ROMV_EnterTorpor.reportString>
+
+
+</LanguageData>

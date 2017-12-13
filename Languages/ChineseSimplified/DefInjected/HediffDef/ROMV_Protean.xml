@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_BatFormHediff.label>蝙蝠形态 (千变万化)</ROMV_BatFormHediff.label>
+
+  <ROMV_FeralClaw.label>兽性利爪 (千变万化)</ROMV_FeralClaw.label>
+  <ROMV_FeralClaw.comps.0.tools.0.label>兽性利爪</ROMV_FeralClaw.comps.0.tools.0.label>
+
+  <ROMV_MistFormHediff.label>迷雾形态 (千变万化)</ROMV_MistFormHediff.label>
+  <ROMV_WarFormHediff.label>战斗形态 (千变万化)</ROMV_WarFormHediff.label>
+
+
+</LanguageData>

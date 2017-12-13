@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChjPlayerAndroidColony.label>自动人形外来客</ChjPlayerAndroidColony.label>
+  <ChjPlayerAndroidColony.description>你的自动人形社区。</ChjPlayerAndroidColony.description>
+  <ChjPlayerAndroidColony.pawnsPlural>殖民者</ChjPlayerAndroidColony.pawnsPlural>
+
+  <ChjAndroidEnclave.label>人形之乡</ChjAndroidEnclave.label>
+  <ChjAndroidEnclave.description>一群自动人形的船队在边缘世界集结。他们摆脱了过去的生活，现在他们在外来移民的帮助下成功迫降在这个星球上。\n\n这些机器人会尝试与当地的住民一同和睦共处，并尽力让这个边缘的世界变得更美好。</ChjAndroidEnclave.description>
+  <ChjAndroidEnclave.pawnsPlural>自动人形议事会</ChjAndroidEnclave.pawnsPlural>
+  <ChjAndroidEnclave.leaderTitle>首席议长</ChjAndroidEnclave.leaderTitle>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_VampiricAwaken.label>唤醒吸血鬼</ROMV_VampiricAwaken.label>
+  <ROMV_VampiricAwaken.description>使用一对一的方式给吸血鬼奉献生命之血。让其从沉睡状态苏醒。那样他们可以再一次回到这个世界。</ROMV_VampiricAwaken.description>
+
+  <ROMV_VampiricResurrection.label>血之轮回</ROMV_VampiricResurrection.label>
+  <ROMV_VampiricResurrection.description>将所有的生命之血来复活死亡的身体组织，重塑吸血鬼的不死之身。注意！这将释放吸血鬼自己内心的野性，直至满足他的渴血之欲。</ROMV_VampiricResurrection.description>
+
+  <ROMV_VampiricHealing.label>吸血鬼治疗术</ROMV_VampiricHealing.label>
+  <ROMV_VampiricHealing.description>通过使用生命之血来恢复受损的肉体。</ROMV_VampiricHealing.description>
+
+  <ROMV_RegenerateLimb.label>肢体再生术</ROMV_RegenerateLimb.label>
+  <ROMV_RegenerateLimb.description>恢复在战斗中失去的肢体与身体部件。</ROMV_RegenerateLimb.description>
+
+
+</LanguageData>

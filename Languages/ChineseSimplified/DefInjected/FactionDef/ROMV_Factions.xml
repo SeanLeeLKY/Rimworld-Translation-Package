@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_LegendaryVampires.label>潜藏者(dormant)</ROMV_LegendaryVampires.label>
+  <ROMV_LegendaryVampires.description>传说中的血族，吸血鬼持有着可以支配或毁灭世界的力量。</ROMV_LegendaryVampires.description>
+  <ROMV_LegendaryVampires.fixedName>阴间</ROMV_LegendaryVampires.fixedName>
+  <ROMV_LegendaryVampires.pawnsPlural>潜藏者(dormant)</ROMV_LegendaryVampires.pawnsPlural>
+
+  <ROMV_Camarilla.label>密党(Camarilla)</ROMV_Camarilla.label>
+  <ROMV_Camarilla.description>卡玛利拉是最大的吸血鬼派系。一个表面上代表和保护所有吸血鬼的松散组织。其目的是维持家族社会的现状；因此，它的大部分结构和传统都是假象的。
+在黑暗时代的封建欧洲是该隐派团体，与魔宴(Sabbat)和乱党(Anarchs)的议程格格不入，两者都在寻求机会推翻传统的家族权力结构。</ROMV_Camarilla.description>
+  <ROMV_Camarilla.fixedName>秘隐同盟</ROMV_Camarilla.fixedName>
+  <ROMV_Camarilla.pawnsPlural>外来者</ROMV_Camarilla.pawnsPlural>
+  <ROMV_Camarilla.leaderTitle>亲王</ROMV_Camarilla.leaderTitle>
+
+  <ROMV_Anarch.label>叛乱者(Anarch)</ROMV_Anarch.label>
+  <ROMV_Anarch.description>叛乱者是那些拒绝该隐派系团体的吸血鬼。由此产生的乱党组织，他们被称为“无政府主义运动”。</ROMV_Anarch.description>
+  <ROMV_Anarch.fixedName>叛乱主义者</ROMV_Anarch.fixedName>
+  <ROMV_Anarch.pawnsPlural>乱党</ROMV_Anarch.pawnsPlural>
+  <ROMV_Anarch.leaderTitle>男爵</ROMV_Anarch.leaderTitle>
+
+  <ROMV_Sabbat.label>魔宴(Sabbat)</ROMV_Sabbat.label>
+  <ROMV_Sabbat.description>魔宴同盟是一个松散的该隐派组织，他们拒绝传统。与密党不同，魔宴同盟信奉该隐(Caine)与其孙子(Antediluvian)。也被称作是“该隐之剑”，因为他们相信自己是该隐麾下的军队，一旦该隐之孙降临，他们降毁灭一切。</ROMV_Sabbat.description>
+  <ROMV_Sabbat.pawnsPlural>魔宴同盟</ROMV_Sabbat.pawnsPlural>
+  <ROMV_Sabbat.leaderTitle>头领</ROMV_Sabbat.leaderTitle>
+
+
+</LanguageData>

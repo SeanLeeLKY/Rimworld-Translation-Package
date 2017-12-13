@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Rebel rifle -->
+
+  <ChjAndroidBullet_RebelRifle.label>电荷能量弹</ChjAndroidBullet_RebelRifle.label>
+
+  <ChjAndroidGun_RebelRifle.label>反抗军步枪</ChjAndroidGun_RebelRifle.label>
+  <ChjAndroidGun_RebelRifle.description>一种由工业设备和破碎的电荷武器技术组合出的半自动能量步枪。</ChjAndroidGun_RebelRifle.description>
+  <ChjAndroidGun_RebelRifle.tools.0.label>弹匣</ChjAndroidGun_RebelRifle.tools.0.label>
+  <ChjAndroidGun_RebelRifle.tools.1.label>枪管</ChjAndroidGun_RebelRifle.tools.1.label>
+
+
+  <!-- Rebel pistol -->
+
+  <ChjAndroidBullet_Rebelpistol.label>反抗军手枪子弹</ChjAndroidBullet_Rebelpistol.label>
+
+  <ChjAndroidGun_Rebelpistol.label>反抗军手枪</ChjAndroidGun_Rebelpistol.label>
+  <ChjAndroidGun_Rebelpistol.description>一种用钉枪与落后的电荷技术生产的武器。这种武器可以使用，射击速度快，但有效射程很短。</ChjAndroidGun_Rebelpistol.description>
+  <ChjAndroidGun_Rebelpistol.tools.0.label>握把</ChjAndroidGun_Rebelpistol.tools.0.label>
+  <ChjAndroidGun_Rebelpistol.tools.1.label>枪管</ChjAndroidGun_Rebelpistol.tools.1.label>
+
+
+</LanguageData>

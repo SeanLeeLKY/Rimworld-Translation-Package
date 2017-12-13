@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChJAndroidShutDownDroid.label>关闭</ChJAndroidShutDownDroid.label>
+  <ChJAndroidShutDownDroid.description>关闭机械奴工。</ChJAndroidShutDownDroid.description>
+  <ChJAndroidShutDownDroid.jobString>正在关闭机械奴工</ChJAndroidShutDownDroid.jobString>
+
+  <ChJAndroidRepairKit.label>使用机器人维修包</ChJAndroidRepairKit.label>
+  <ChJAndroidRepairKit.description>使用机器人维修包可以完美的修复损坏的机械奴工。同时也可以给机械奴工(Droid)和自动人形(Android)补充冷却液。</ChJAndroidRepairKit.description>
+  <ChJAndroidRepairKit.jobString>正在使用机器人维修包</ChJAndroidRepairKit.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_MonstrosityRace.label>惊惧兽</ROMV_MonstrosityRace.label>
+  <ROMV_MonstrosityRace.description>一个畸形得让人作呕的骨肉杂糅的怪物。</ROMV_MonstrosityRace.description>
+  <!-- Use Leather From: GrizzlyBear -->
+  <!-- Use Meat From: GrizzlyBear -->
+  <ROMV_MonstrosityRace_Corpse.label>惊惧兽尸体</ROMV_MonstrosityRace_Corpse.label>
+  <ROMV_MonstrosityRace_Corpse.description>惊惧兽的尸体</ROMV_MonstrosityRace_Corpse.description>
+
+
+</LanguageData>

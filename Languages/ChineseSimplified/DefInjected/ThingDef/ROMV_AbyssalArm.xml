@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_AbyssalArmRace.label>深渊之手</ROMV_AbyssalArmRace.label>
+  <ROMV_AbyssalArmRace.description>从深渊里伸出的巨大触手。</ROMV_AbyssalArmRace.description>
+  <!-- Use Leather From: GrizzlyBear -->
+  <!-- Use Meat From: GrizzlyBear -->
+  <ROMV_AbyssalArmRace_Corpse.label>深渊之手的尸体</ROMV_AbyssalArmRace_Corpse.label>
+  <ROMV_AbyssalArmRace_Corpse.description>深渊之手的尸体</ROMV_AbyssalArmRace_Corpse.description>
+
+
+</LanguageData>

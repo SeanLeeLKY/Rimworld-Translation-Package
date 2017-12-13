@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChjAndroid.label>自动人形(Android)</ChjAndroid.label>
+  <ChjAndroid.description>这个人形机械种族的造型绝大多是以人类女性模特为主。\n\n她们的起源已经无从追溯。有种假说她们始源与一个高等文明中逃离者的后代。她们最初是为主人服务，而一些失去玩乐价值的自动人形被遗弃在毁坏的太空货船中。\n\n她们的原型师在设计之初就赋予她们娇弱的身躯，但作为弥补她们有着不卑不亢的精神。值得注意的是，如果她们不幸死于暴力或过载(过热)时会诱爆体内的反应炉。</ChjAndroid.description>
+  <ChjAndroid.tools.0.label>左手</ChjAndroid.tools.0.label>
+  <ChjAndroid.tools.1.label>右手</ChjAndroid.tools.1.label>
+  <ChjAndroid.tools.2.label>脑袋</ChjAndroid.tools.2.label>
+
+
+</LanguageData>

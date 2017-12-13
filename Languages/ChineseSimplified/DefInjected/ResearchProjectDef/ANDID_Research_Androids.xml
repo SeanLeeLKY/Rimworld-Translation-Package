@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- To add a research tab, make a new ResearchTabDef here and then set the <tab> field of your research project to match it -->
+
+  <ChJDroidPrinter.label>机械奴工(Droid)制造</ChJDroidPrinter.label>
+  <ChJDroidPrinter.description>允许殖民者建造机械奴工(Droid)生产线。当提供钢铁和零部件后，将会造出无交流能力，脆弱但能够提供服务的机器奴仆。它们的潜力不大，但是优势在于这类机器人有着不俗的生产性价比与可置换性。</ChJDroidPrinter.description>
+
+  <ChJAndroidPrinter.label>自动人形打印机</ChJAndroidPrinter.label>
+  <ChJAndroidPrinter.description>可以让殖民者建造自动人形(Android)的打印机。在供应足够的构建素材后就能开始生产自动人形。终极的人手短缺解决方案。</ChJAndroidPrinter.description>
+
+  <ChJAndroidDroidRepairKit.label>机器人维修包</ChJAndroidDroidRepairKit.label>
+  <ChJAndroidDroidRepairKit.description>让殖民者生产用于维修机器人的工具包。同时能给机械奴工(Droid)与自动人形(Android)补充冷却液。</ChJAndroidDroidRepairKit.description>
+
+  <ChJAndroidSolarpanelApparel.label>太阳能服饰</ChJAndroidSolarpanelApparel.label>
+  <ChJAndroidSolarpanelApparel.description>允许殖民者制作结合了太阳能电池的风衣。</ChJAndroidSolarpanelApparel.description>
+
+  <ChJAndroidDroidBatteries.label>机器人电池</ChJAndroidDroidBatteries.label>
+  <ChJAndroidDroidBatteries.description>允许殖民者制造可方便携带或是紧急情况下使用的便携式电池。</ChJAndroidDroidBatteries.description>
+
+  <ChJAndroidMaidDresses.label>人形服饰定制</ChJAndroidMaidDresses.label>
+  <ChJAndroidMaidDresses.description>让殖民者定制可爱的女仆装。自动人形们已经开始喜欢上这些衣服了。</ChJAndroidMaidDresses.description>
+
+
+</LanguageData>

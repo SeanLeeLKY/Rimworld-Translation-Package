@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Animalism_Beckoning.label>召唤术</ROMV_Animalism_Beckoning.label>
+  <ROMV_Animalism_Beckoning.description>召唤一群野生动物来到你的殖民地。</ROMV_Animalism_Beckoning.description>
+
+  <ROMV_Animalism_NightwispRavens.label>午夜苍鸦</ROMV_Animalism_NightwispRavens.label>
+  <ROMV_Animalism_NightwispRavens.description>乌鸦群能在短时间内使受害者丧事行动能力。对受害者采取任何的行动都将会驱散乌鸦群，并且会提前结束这种影响的作用。</ROMV_Animalism_NightwispRavens.description>
+
+  <ROMV_Animalism_SpectralWolf.label>幽灵狼</ROMV_Animalism_SpectralWolf.label>
+  <ROMV_Animalism_SpectralWolf.description>召唤一个幽灵般的狼出现并且攻击目标，在一段时间后会消失。</ROMV_Animalism_SpectralWolf.description>
+
+  <ROMV_Animalism_Communion.label>血猎蝙蝠</ROMV_Animalism_Communion.label>
+  <ROMV_Animalism_Communion.description>召唤出三只蝙蝠去狩猎目标，并且吸出其血液，之后会将这些血带回来供其主人享用。</ROMV_Animalism_Communion.description>
+
+
+</LanguageData>

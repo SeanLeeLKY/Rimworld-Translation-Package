@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Bullet types -->
+
+  <Bullet_Purifier.label>火焰</Bullet_Purifier.label>
+  <Bullet_HarrowFistShotgun.label>拳头猎枪</Bullet_HarrowFistShotgun.label>
+  <Bullet_Fulger.label>闪电</Bullet_Fulger.label>
+
+
+  <!-- Harrowed Purifier -->
+
+  <Gun_HarrowPurifier.label>哈维火焰枪</Gun_HarrowPurifier.label>
+  <Gun_HarrowPurifier.description>让圣火净化一切！</Gun_HarrowPurifier.description>
+  <Gun_HarrowPurifier.tools.0.label>枪管</Gun_HarrowPurifier.tools.0.label>
+
+
+  <!-- Harrowed Fist Shotgun -->
+
+  <Gun_HarrowFistShotgun.label>哈维拳头猎枪</Gun_HarrowFistShotgun.label>
+  <Gun_HarrowFistShotgun.description>一个装饰性的变体猎枪包裹在一个人的拳头上。</Gun_HarrowFistShotgun.description>
+  <Gun_HarrowFistShotgun.tools.0.label>枪管</Gun_HarrowFistShotgun.tools.0.label>
+
+
+  <!-- Harrowed Ocelot -->
+
+  <Gun_OcelotRifle.label>哈维"山猫"狙击步枪</Gun_OcelotRifle.label>
+  <Gun_OcelotRifle.description>一种配备了气缸的强大狙击步枪。</Gun_OcelotRifle.description>
+  <Gun_OcelotRifle.tools.0.label>弹夹</Gun_OcelotRifle.tools.0.label>
+  <Gun_OcelotRifle.tools.1.label>枪管</Gun_OcelotRifle.tools.1.label>
+
+
+  <!-- Harrowed Fulger -->
+
+  <Gun_Fulger.label>哈维雷电枪</Gun_Fulger.label>
+  <Gun_Fulger.description>利用大自然的力量作为武器的枪。</Gun_Fulger.description>
+  <Gun_Fulger.tools.0.label>弹夹</Gun_Fulger.tools.0.label>
+  <Gun_Fulger.tools.1.label>枪管</Gun_Fulger.tools.1.label>
+
+
+  <!--<Bullet_OcelotRifle.label>哈维"山猫"狙击步枪子弹</Bullet_OcelotRifle.label>-->
+
+</LanguageData>

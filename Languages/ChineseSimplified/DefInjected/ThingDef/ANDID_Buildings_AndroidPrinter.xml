@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChJAndroidPrinter.label>自动人形打印机</ChJAndroidPrinter.label>
+  <ChJAndroidPrinter.description>专为打印机器人而设计的超大型3D打印机。该设备配备有一个AI核心，用来控制并稳定打印计划的流程。\n\n通过分解有营养的植物与肉，打印机可以提炼并合成新的肉质、主要器官与体液，仿生技术的成熟令人叹为观止。</ChJAndroidPrinter.description>
+  <ChJAndroidPrinter_Blueprint.label>自动人形打印机(蓝图)</ChJAndroidPrinter_Blueprint.label>
+  <ChJAndroidPrinter_Frame.label>自动人形打印机(建造中)</ChJAndroidPrinter_Frame.label>
+  <ChJAndroidPrinter_Frame.description>专为打印机器人而设计的超大型3D打印机。该设备配备有一个AI核心，用来控制并稳定打印计划的流程。\n\n通过分解有营养的植物与肉，打印机可以提炼并合成新的肉质、主要器官与体液，仿生技术的成熟令人叹为观止。</ChJAndroidPrinter_Frame.description>
+
+
+</LanguageData>

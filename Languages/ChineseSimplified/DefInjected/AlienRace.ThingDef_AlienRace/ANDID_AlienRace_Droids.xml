@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChjDroid.label>机械奴工(Droid)</ChjDroid.label>
+  <ChjDroid.description>一种基础的人形机器人。\n\n通常会在其殖民地附近工作及活动，因为它们需要附近有一个“居民维护员”。\n\n虽然它们没有很睿智的能力，但是它们拥有原始的力量及可编程性为弥补。</ChjDroid.description>
+  <ChjDroid.tools.0.label>左手</ChjDroid.tools.0.label>
+  <ChjDroid.tools.1.label>右手</ChjDroid.tools.1.label>
+  <ChjDroid.tools.2.label>脑袋</ChjDroid.tools.2.label>
+
+
+</LanguageData>

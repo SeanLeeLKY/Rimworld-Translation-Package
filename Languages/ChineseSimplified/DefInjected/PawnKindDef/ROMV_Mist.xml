@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_MistKind.label>迷雾</ROMV_MistKind.label>
+  <ROMV_MistKind.labelPlural>迷雾</ROMV_MistKind.labelPlural>
+  <ROMV_MistKind.lifeStages.0.label>迷雾</ROMV_MistKind.lifeStages.0.label>
+  <ROMV_MistKind.lifeStages.0.labelPlural>迷雾</ROMV_MistKind.lifeStages.0.labelPlural>
+  <ROMV_MistKind.lifeStages.0.labelMale>男性 迷雾</ROMV_MistKind.lifeStages.0.labelMale>
+  <ROMV_MistKind.lifeStages.0.labelMalePlural>男性 迷雾</ROMV_MistKind.lifeStages.0.labelMalePlural>
+  <ROMV_MistKind.lifeStages.0.labelFemale>女性 迷雾</ROMV_MistKind.lifeStages.0.labelFemale>
+  <ROMV_MistKind.lifeStages.0.labelFemalePlural>女性 迷雾</ROMV_MistKind.lifeStages.0.labelFemalePlural>
+  <ROMV_MistKind.lifeStages.1.label>迷雾</ROMV_MistKind.lifeStages.1.label>
+  <ROMV_MistKind.lifeStages.1.labelPlural>迷雾</ROMV_MistKind.lifeStages.1.labelPlural>
+  <ROMV_MistKind.lifeStages.1.labelMale>男性 迷雾</ROMV_MistKind.lifeStages.1.labelMale>
+  <ROMV_MistKind.lifeStages.1.labelMalePlural>男性 迷雾</ROMV_MistKind.lifeStages.1.labelMalePlural>
+  <ROMV_MistKind.lifeStages.1.labelFemale>女性 迷雾</ROMV_MistKind.lifeStages.1.labelFemale>
+  <ROMV_MistKind.lifeStages.1.labelFemalePlural>女性 迷雾</ROMV_MistKind.lifeStages.1.labelFemalePlural>
+  <ROMV_MistKind.lifeStages.2.label>迷雾</ROMV_MistKind.lifeStages.2.label>
+  <ROMV_MistKind.lifeStages.2.labelPlural>迷雾</ROMV_MistKind.lifeStages.2.labelPlural>
+  <ROMV_MistKind.lifeStages.2.labelMale>男性 迷雾</ROMV_MistKind.lifeStages.2.labelMale>
+  <ROMV_MistKind.lifeStages.2.labelMalePlural>男性 迷雾</ROMV_MistKind.lifeStages.2.labelMalePlural>
+  <ROMV_MistKind.lifeStages.2.labelFemale>女性 迷雾</ROMV_MistKind.lifeStages.2.labelFemale>
+  <ROMV_MistKind.lifeStages.2.labelFemalePlural>女性 迷雾</ROMV_MistKind.lifeStages.2.labelFemalePlural>
+  <ROMV_MistKind.labelMale>男性 迷雾</ROMV_MistKind.labelMale>
+  <ROMV_MistKind.labelMalePlural>男性 迷雾</ROMV_MistKind.labelMalePlural>
+  <ROMV_MistKind.labelFemale>女性 迷雾</ROMV_MistKind.labelFemale>
+  <ROMV_MistKind.labelFemalePlural>女性 迷雾</ROMV_MistKind.labelFemalePlural>
+
+
+</LanguageData>

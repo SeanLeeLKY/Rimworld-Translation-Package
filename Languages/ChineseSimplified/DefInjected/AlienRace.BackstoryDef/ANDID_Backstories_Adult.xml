@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChJAndroid_Adult_Basic.title>Frontier citizen</ChJAndroid_Adult_Basic.title>
+  <ChJAndroid_Adult_Basic.titleShort>Citizen</ChJAndroid_Adult_Basic.titleShort>
+
+  <ChJAndroid_Adult_Basic2.title>Social citizen</ChJAndroid_Adult_Basic2.title>
+  <ChJAndroid_Adult_Basic2.titleShort>Citizen</ChJAndroid_Adult_Basic2.titleShort>
+
+  <ChJAndroid_Adult_Basic3.title>Amateur miner</ChJAndroid_Adult_Basic3.title>
+  <ChJAndroid_Adult_Basic3.titleShort>Citizen</ChJAndroid_Adult_Basic3.titleShort>
+
+  <ChJAndroid_Adult_Social.title>Entertainer</ChJAndroid_Adult_Social.title>
+  <ChJAndroid_Adult_Social.titleShort>Social</ChJAndroid_Adult_Social.titleShort>
+
+  <ChJAndroid_Adult_Medical.title>Doctor</ChJAndroid_Adult_Medical.title>
+  <ChJAndroid_Adult_Medical.titleShort>Doctor</ChJAndroid_Adult_Medical.titleShort>
+
+  <ChJAndroid_Adult_Manufacturing.title>Artisan</ChJAndroid_Adult_Manufacturing.title>
+  <ChJAndroid_Adult_Manufacturing.titleShort>Artisan</ChJAndroid_Adult_Manufacturing.titleShort>
+
+  <ChJAndroid_Adult_Construction.title>War engineer</ChJAndroid_Adult_Construction.title>
+  <ChJAndroid_Adult_Construction.titleShort>Wargineer</ChJAndroid_Adult_Construction.titleShort>
+
+  <ChJAndroid_Adult_Farmer.title>Hippie</ChJAndroid_Adult_Farmer.title>
+  <ChJAndroid_Adult_Farmer.titleShort>Hippie</ChJAndroid_Adult_Farmer.titleShort>
+
+  <ChJAndroid_Adult_Chef.title>Chef</ChJAndroid_Adult_Chef.title>
+  <ChJAndroid_Adult_Chef.titleShort>Chef</ChJAndroid_Adult_Chef.titleShort>
+
+  <ChJAndroid_Adult_Researcher.title>Genius</ChJAndroid_Adult_Researcher.title>
+  <ChJAndroid_Adult_Researcher.titleShort>Genius</ChJAndroid_Adult_Researcher.titleShort>
+
+  <ChJAndroid_Adult_Marksman.title>Sharpshooter</ChJAndroid_Adult_Marksman.title>
+  <ChJAndroid_Adult_Marksman.titleShort>Marksman</ChJAndroid_Adult_Marksman.titleShort>
+
+  <ChJAndroid_Adult_Brawler.title>Brawler</ChJAndroid_Adult_Brawler.title>
+  <ChJAndroid_Adult_Brawler.titleShort>Brawler</ChJAndroid_Adult_Brawler.titleShort>
+
+  <ChJAndroid_Adult_Protector.title>Protector</ChJAndroid_Adult_Protector.title>
+  <ChJAndroid_Adult_Protector.titleShort>Protector</ChJAndroid_Adult_Protector.titleShort>
+
+  <ChJAndroid_Adult_AnimalHandler.title>Petshop owner</ChJAndroid_Adult_AnimalHandler.title>
+  <ChJAndroid_Adult_AnimalHandler.titleShort>Petshop</ChJAndroid_Adult_AnimalHandler.titleShort>
+
+  <ChJAndroid_Adult_Miner.title>Miner</ChJAndroid_Adult_Miner.title>
+  <ChJAndroid_Adult_Miner.titleShort>Miner</ChJAndroid_Adult_Miner.titleShort>
+
+  <ChJAndroid_Adult_Broken.title>Broken android</ChJAndroid_Adult_Broken.title>
+  <ChJAndroid_Adult_Broken.titleShort>Broken</ChJAndroid_Adult_Broken.titleShort>
+
+  <ChJAndroid_Adult_Sculptor.title>Sculptor</ChJAndroid_Adult_Sculptor.title>
+  <ChJAndroid_Adult_Sculptor.titleShort>Sculptor</ChJAndroid_Adult_Sculptor.titleShort>
+
+  <ChJAndroid_Adult_Abandoned.title>Abandoned</ChJAndroid_Adult_Abandoned.title>
+  <ChJAndroid_Adult_Abandoned.titleShort>Abandoned</ChJAndroid_Adult_Abandoned.titleShort>
+
+  <ChJAndroid_Adult_Janitor.title>Janitor</ChJAndroid_Adult_Janitor.title>
+  <ChJAndroid_Adult_Janitor.titleShort>Janitor</ChJAndroid_Adult_Janitor.titleShort>
+
+  <ChJAndroid_Adult_FighterPilot.title>Fighter pilot</ChJAndroid_Adult_FighterPilot.title>
+  <ChJAndroid_Adult_FighterPilot.titleShort>Pilot</ChJAndroid_Adult_FighterPilot.titleShort>
+
+  <ChJAndroid_Adult_Firefighter.title>Firefighter</ChJAndroid_Adult_Firefighter.title>
+  <ChJAndroid_Adult_Firefighter.titleShort>Firefighter</ChJAndroid_Adult_Firefighter.titleShort>
+
+  <ChJAndroid_Adult_Drifter.title>Drifter</ChJAndroid_Adult_Drifter.title>
+  <ChJAndroid_Adult_Drifter.titleShort>Drifter</ChJAndroid_Adult_Drifter.titleShort>
+
+
+  <!-- Special -->
+
+  <ChJAndroid_Adult_ExtremeSocial.title>Courtesan</ChJAndroid_Adult_ExtremeSocial.title>
+  <ChJAndroid_Adult_ExtremeSocial.titleShort>Courtesan</ChJAndroid_Adult_ExtremeSocial.titleShort>
+
+
+</LanguageData>

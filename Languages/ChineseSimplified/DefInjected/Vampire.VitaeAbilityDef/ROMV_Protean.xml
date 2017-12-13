@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Protean_BatForm.label>蝙蝠形态</ROMV_Protean_BatForm.label>
+  <ROMV_Protean_BatForm.description>成为夜幕下的子嗣，并获得极快的速度与飞行能力。</ROMV_Protean_BatForm.description>
+
+  <ROMV_Protean_FeralClaws.label>兽性利爪</ROMV_Protean_FeralClaws.label>
+  <ROMV_Protean_FeralClaws.description>吸血鬼的指甲都很长很尖，极其吓人的爪子。能轻易的撕裂骨头与血肉。</ROMV_Protean_FeralClaws.description>
+
+  <ROMV_Protean_MistForm.label>迷雾形态</ROMV_Protean_MistForm.label>
+  <ROMV_Protean_MistForm.description>这种能力能使一个吸血鬼的整个身体变成一团精细、令人胆寒的薄雾。既不受到任何伤害，也无法攻击。</ROMV_Protean_MistForm.description>
+
+  <ROMV_Protean_WarForm.label>战斗形态</ROMV_Protean_WarForm.label>
+  <ROMV_Protean_WarForm.description>能把自己变成一副巨大的模样。适合与群体的敌人作战。</ROMV_Protean_WarForm.description>
+
+
+</LanguageData>

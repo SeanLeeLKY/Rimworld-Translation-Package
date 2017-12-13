@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_BatRace.label>蝙蝠</ROMV_BatRace.label>
+  <ROMV_BatRace.description>在基因工程时代到来之前，这种动物曾被认为是唯一能够飞行的哺乳类动物。</ROMV_BatRace.description>
+  <!-- Leather Amount: 0 -->
+  <ROMV_BatRace_Meat.label>蝙蝠肉</ROMV_BatRace_Meat.label>
+  <ROMV_BatRace_Meat.description>蝙蝠肉</ROMV_BatRace_Meat.description>
+  <ROMV_BatRace_Corpse.label>蝙蝠尸体</ROMV_BatRace_Corpse.label>
+  <ROMV_BatRace_Corpse.description>蝙蝠的尸体</ROMV_BatRace_Corpse.description>
+
+
+</LanguageData>

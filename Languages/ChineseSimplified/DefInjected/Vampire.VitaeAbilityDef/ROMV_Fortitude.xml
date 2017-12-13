@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_FortitudeI.label>刚毅 I</ROMV_FortitudeI.label>
+  <ROMV_FortitudeI.description>确保能攻击造成1点伤害。</ROMV_FortitudeI.description>
+
+  <ROMV_FortitudeII.label>刚毅 II</ROMV_FortitudeII.label>
+  <ROMV_FortitudeII.description>确保能攻击造成2点伤害。</ROMV_FortitudeII.description>
+
+  <ROMV_FortitudeIII.label>刚毅 III</ROMV_FortitudeIII.label>
+  <ROMV_FortitudeIII.description>确保能攻击造成3点伤害。</ROMV_FortitudeIII.description>
+
+  <ROMV_FortitudeIV.label>刚毅 IV</ROMV_FortitudeIV.label>
+  <ROMV_FortitudeIV.description>确保能攻击造成4点伤害。</ROMV_FortitudeIV.description>
+
+
+</LanguageData>

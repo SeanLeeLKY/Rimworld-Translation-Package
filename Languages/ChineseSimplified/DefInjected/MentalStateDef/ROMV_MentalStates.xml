@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mental breaks: extreme -->
+
+  <ROMV_VampireBeast.label>狂暴兽性</ROMV_VampireBeast.label>
+  <ROMV_VampireBeast.beginLetter>{0}释放出了其内在的兽性!</ROMV_VampireBeast.beginLetter>
+  <ROMV_VampireBeast.beginLetterLabel>狂暴兽性</ROMV_VampireBeast.beginLetterLabel>
+  <ROMV_VampireBeast.recoveryMessage>{0}的暴怒已经结束了。</ROMV_VampireBeast.recoveryMessage>
+  <ROMV_VampireBeast.baseInspectLine>精神状态：兽性</ROMV_VampireBeast.baseInspectLine>
+
+  <ROMV_Rotschreck.label>阳光恐惧症</ROMV_Rotschreck.label>
+  <ROMV_Rotschreck.beginLetter>{0}正在恐惧地躲避光线！</ROMV_Rotschreck.beginLetter>
+  <ROMV_Rotschreck.beginLetterLabel>阳光恐惧症</ROMV_Rotschreck.beginLetterLabel>
+  <ROMV_Rotschreck.recoveryMessage>{0}的惧光情绪已经消退了。</ROMV_Rotschreck.recoveryMessage>
+  <ROMV_Rotschreck.baseInspectLine>精神状态：惧光</ROMV_Rotschreck.baseInspectLine>
+
+
+</LanguageData>

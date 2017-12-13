@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_WarFormKind.label>战斗形态</ROMV_WarFormKind.label>
+  <ROMV_WarFormKind.labelPlural>战斗形态</ROMV_WarFormKind.labelPlural>
+  <ROMV_WarFormKind.lifeStages.0.label>战斗形态</ROMV_WarFormKind.lifeStages.0.label>
+  <ROMV_WarFormKind.lifeStages.0.labelPlural>战斗形态</ROMV_WarFormKind.lifeStages.0.labelPlural>
+  <ROMV_WarFormKind.lifeStages.0.labelMale>男性 战斗形态</ROMV_WarFormKind.lifeStages.0.labelMale>
+  <ROMV_WarFormKind.lifeStages.0.labelMalePlural>男性 战斗形态</ROMV_WarFormKind.lifeStages.0.labelMalePlural>
+  <ROMV_WarFormKind.lifeStages.0.labelFemale>女性 战斗形态</ROMV_WarFormKind.lifeStages.0.labelFemale>
+  <ROMV_WarFormKind.lifeStages.0.labelFemalePlural>女性 战斗形态</ROMV_WarFormKind.lifeStages.0.labelFemalePlural>
+  <ROMV_WarFormKind.lifeStages.1.label>战斗形态</ROMV_WarFormKind.lifeStages.1.label>
+  <ROMV_WarFormKind.lifeStages.1.labelPlural>战斗形态</ROMV_WarFormKind.lifeStages.1.labelPlural>
+  <ROMV_WarFormKind.lifeStages.1.labelMale>男性 战斗形态</ROMV_WarFormKind.lifeStages.1.labelMale>
+  <ROMV_WarFormKind.lifeStages.1.labelMalePlural>男性 战斗形态</ROMV_WarFormKind.lifeStages.1.labelMalePlural>
+  <ROMV_WarFormKind.lifeStages.1.labelFemale>女性 战斗形态</ROMV_WarFormKind.lifeStages.1.labelFemale>
+  <ROMV_WarFormKind.lifeStages.1.labelFemalePlural>女性 战斗形态</ROMV_WarFormKind.lifeStages.1.labelFemalePlural>
+  <ROMV_WarFormKind.lifeStages.2.label>战斗形态</ROMV_WarFormKind.lifeStages.2.label>
+  <ROMV_WarFormKind.lifeStages.2.labelPlural>战斗形态</ROMV_WarFormKind.lifeStages.2.labelPlural>
+  <ROMV_WarFormKind.lifeStages.2.labelMale>男性 战斗形态</ROMV_WarFormKind.lifeStages.2.labelMale>
+  <ROMV_WarFormKind.lifeStages.2.labelMalePlural>男性 战斗形态</ROMV_WarFormKind.lifeStages.2.labelMalePlural>
+  <ROMV_WarFormKind.lifeStages.2.labelFemale>女性 战斗形态</ROMV_WarFormKind.lifeStages.2.labelFemale>
+  <ROMV_WarFormKind.lifeStages.2.labelFemalePlural>女性 战斗形态</ROMV_WarFormKind.lifeStages.2.labelFemalePlural>
+  <ROMV_WarFormKind.labelMale>男性 战斗形态</ROMV_WarFormKind.labelMale>
+  <ROMV_WarFormKind.labelMalePlural>男性 战斗形态</ROMV_WarFormKind.labelMalePlural>
+  <ROMV_WarFormKind.labelFemale>女性 战斗形态</ROMV_WarFormKind.labelFemale>
+  <ROMV_WarFormKind.labelFemalePlural>女性 战斗形态</ROMV_WarFormKind.labelFemalePlural>
+
+
+</LanguageData>

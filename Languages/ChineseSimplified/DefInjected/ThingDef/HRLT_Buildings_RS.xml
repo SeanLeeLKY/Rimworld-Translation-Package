@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <HarrowTable.label>哈维祭坛</HarrowTable.label>
+  <HarrowTable.description>一张神圣的工作台，用于组装各种哈维教派的装备。</HarrowTable.description>
+  <HarrowTable_Blueprint.label>哈维祭坛(蓝图)</HarrowTable_Blueprint.label>
+  <HarrowTable_Frame.label>哈维祭坛(建造中)</HarrowTable_Frame.label>
+  <HarrowTable_Frame.description>一张神圣的工作台，用于制造各种哈维教派的装备。</HarrowTable_Frame.description>
+
+
+</LanguageData>

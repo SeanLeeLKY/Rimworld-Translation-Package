@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bloodhound.label>寻血猎犬</Bloodhound.label>
+  <Bloodhound.description>一只专门为了狩猎而繁殖的大型猎犬。</Bloodhound.description>
+  <Bloodhound_Leather.label>寻血猎犬皮</Bloodhound_Leather.label>
+  <Bloodhound_Leather.description>寻血猎犬的皮。</Bloodhound_Leather.description>
+  <Bloodhound_Leather.stuffProps.stuffAdjective>寻血猎犬皮</Bloodhound_Leather.stuffProps.stuffAdjective>
+  <Bloodhound_Meat.label>寻血猎犬肉</Bloodhound_Meat.label>
+  <Bloodhound_Meat.description>寻血猎犬的肉。</Bloodhound_Meat.description>
+  <Bloodhound_Corpse.label>寻血猎犬尸体</Bloodhound_Corpse.label>
+  <Bloodhound_Corpse.description>寻血猎犬的尸体。</Bloodhound_Corpse.description>
+
+
+</LanguageData>

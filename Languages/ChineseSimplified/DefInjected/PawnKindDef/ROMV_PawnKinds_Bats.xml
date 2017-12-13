@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_BatKind.label>蝙蝠</ROMV_BatKind.label>
+  <ROMV_BatKind.labelPlural>蝙蝠</ROMV_BatKind.labelPlural>
+  <ROMV_BatKind.lifeStages.0.label>蝙蝠</ROMV_BatKind.lifeStages.0.label>
+  <ROMV_BatKind.lifeStages.0.labelPlural>蝙蝠</ROMV_BatKind.lifeStages.0.labelPlural>
+  <ROMV_BatKind.lifeStages.0.labelMale>男性 蝙蝠</ROMV_BatKind.lifeStages.0.labelMale>
+  <ROMV_BatKind.lifeStages.0.labelMalePlural>男性 蝙蝠</ROMV_BatKind.lifeStages.0.labelMalePlural>
+  <ROMV_BatKind.lifeStages.0.labelFemale>female bat</ROMV_BatKind.lifeStages.0.labelFemale>
+  <ROMV_BatKind.lifeStages.0.labelFemalePlural>female bats</ROMV_BatKind.lifeStages.0.labelFemalePlural>
+  <ROMV_BatKind.lifeStages.1.label>蝙蝠</ROMV_BatKind.lifeStages.1.label>
+  <ROMV_BatKind.lifeStages.1.labelPlural>蝙蝠</ROMV_BatKind.lifeStages.1.labelPlural>
+  <ROMV_BatKind.lifeStages.1.labelMale>男性 蝙蝠</ROMV_BatKind.lifeStages.1.labelMale>
+  <ROMV_BatKind.lifeStages.1.labelMalePlural>男性 蝙蝠</ROMV_BatKind.lifeStages.1.labelMalePlural>
+  <ROMV_BatKind.lifeStages.1.labelFemale>女性 蝙蝠</ROMV_BatKind.lifeStages.1.labelFemale>
+  <ROMV_BatKind.lifeStages.1.labelFemalePlural>女性 蝙蝠</ROMV_BatKind.lifeStages.1.labelFemalePlural>
+  <ROMV_BatKind.lifeStages.2.label>蝙蝠</ROMV_BatKind.lifeStages.2.label>
+  <ROMV_BatKind.lifeStages.2.labelPlural>蝙蝠</ROMV_BatKind.lifeStages.2.labelPlural>
+  <ROMV_BatKind.lifeStages.2.labelMale>男性 蝙蝠</ROMV_BatKind.lifeStages.2.labelMale>
+  <ROMV_BatKind.lifeStages.2.labelMalePlural>男性 蝙蝠</ROMV_BatKind.lifeStages.2.labelMalePlural>
+  <ROMV_BatKind.lifeStages.2.labelFemale>女性 蝙蝠</ROMV_BatKind.lifeStages.2.labelFemale>
+  <ROMV_BatKind.lifeStages.2.labelFemalePlural>女性 蝙蝠</ROMV_BatKind.lifeStages.2.labelFemalePlural>
+  <ROMV_BatKind.labelMale>男性 蝙蝠</ROMV_BatKind.labelMale>
+  <ROMV_BatKind.labelMalePlural>男性 蝙蝠</ROMV_BatKind.labelMalePlural>
+  <ROMV_BatKind.labelFemale>女性 蝙蝠</ROMV_BatKind.labelFemale>
+  <ROMV_BatKind.labelFemalePlural>女性 蝙蝠</ROMV_BatKind.labelFemalePlural>
+
+
+</LanguageData>

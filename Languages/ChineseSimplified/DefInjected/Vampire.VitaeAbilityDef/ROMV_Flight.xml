@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Flight_LightWeight.label>轻量化</ROMV_Flight_LightWeight.label>
+  <ROMV_Flight_LightWeight.description>被动提升运载能力，减轻施法者的重量，允许飞行。</ROMV_Flight_LightWeight.description>
+
+  <ROMV_Flight_WingBuffet.label>羽翼冲击</ROMV_Flight_WingBuffet.label>
+  <ROMV_Flight_WingBuffet.description>通过强力的翼膀冲击对目标造成(stun)伤害。</ROMV_Flight_WingBuffet.description>
+
+  <ROMV_Flight_ShortFlight.label>短距离飞行</ROMV_Flight_ShortFlight.label>
+  <ROMV_Flight_ShortFlight.description>允许你的角色在当前可见的地图上飞行到所选位置。</ROMV_Flight_ShortFlight.description>
+
+  <ROMV_Flight_SkyFall.label>天幕坠落</ROMV_Flight_SkyFall.label>
+  <ROMV_Flight_SkyFall.description>抓起一个人并将其带至高空，然后把他扔到地上，造成巨大的钝性伤害。</ROMV_Flight_SkyFall.description>
+
+  <ROMV_Flight_LongFlight.label>长距离飞行</ROMV_Flight_LongFlight.label>
+  <ROMV_Flight_LongFlight.description>允许施法者飞到世界地图上的任何一个位置。</ROMV_Flight_LongFlight.description>
+
+
+</LanguageData>

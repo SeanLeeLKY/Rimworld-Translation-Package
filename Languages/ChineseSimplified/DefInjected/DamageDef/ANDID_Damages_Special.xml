@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChjPowerFailure.label>能量中断</ChjPowerFailure.label>
+  <ChjPowerFailure.deathMessage>{0} 能源中断而死。</ChjPowerFailure.deathMessage>
+
+
+</LanguageData>

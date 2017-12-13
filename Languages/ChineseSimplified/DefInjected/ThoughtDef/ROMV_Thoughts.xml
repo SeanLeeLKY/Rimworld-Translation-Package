@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Blood drain-related deaths -->
+
+  <ROMV_IConsumedASoul.stages.0.label>吸收了一个灵魂</ROMV_IConsumedASoul.stages.0.label>
+  <ROMV_IConsumedASoul.stages.0.description>我从未感受过如此的满足！</ROMV_IConsumedASoul.stages.0.description>
+
+  <ROMV_ITastedASoul.stages.0.label>品尝到了一个灵魂</ROMV_ITastedASoul.stages.0.label>
+  <ROMV_ITastedASoul.stages.0.description>这真是极好的享受！</ROMV_ITastedASoul.stages.0.description>
+
+  <ROMV_IGaveTheKiss.stages.0.label>享用了新鲜的血液</ROMV_IGaveTheKiss.stages.0.label>
+  <ROMV_IGaveTheKiss.stages.0.description>真是让人愉悦啊。</ROMV_IGaveTheKiss.stages.0.description>
+
+  <ROMV_IWasBittenByAVampire.stages.0.label>被吸血鬼咬了</ROMV_IWasBittenByAVampire.stages.0.label>
+  <ROMV_IWasBittenByAVampire.stages.0.description>一个吸血鬼吸了我的血，为什么是我遇到了这样的事？</ROMV_IWasBittenByAVampire.stages.0.description>
+  <ROMV_IWasBittenByAVampire.stages.1.label>被吸血鬼咬了</ROMV_IWasBittenByAVampire.stages.1.label>
+  <ROMV_IWasBittenByAVampire.stages.1.description>一个吸血鬼吸了我的血，但我却喜欢上了这样的感觉？</ROMV_IWasBittenByAVampire.stages.1.description>
+
+  <ROMV_KnowGuestDiedOfBloodLoss.stages.0.label>合理的放血之刑</ROMV_KnowGuestDiedOfBloodLoss.stages.0.label>
+  <ROMV_KnowGuestDiedOfBloodLoss.stages.0.description>有囚犯或是访客被吸干了血而死。这似乎能够理解，但仍然是一个残酷的手段。</ROMV_KnowGuestDiedOfBloodLoss.stages.0.description>
+  <ROMV_KnowGuestDiedOfBloodLoss.stages.1.label>有人被吸血而死</ROMV_KnowGuestDiedOfBloodLoss.stages.1.label>
+  <ROMV_KnowGuestDiedOfBloodLoss.stages.1.description>有囚犯或是访客被害死了，因为这些殖民者把他们的所有血都抽干了。这真是让人毛骨悚然！</ROMV_KnowGuestDiedOfBloodLoss.stages.1.description>
+
+  <ROMV_KnowColonistDiedOfBloodLoss.stages.0.label>合理的放血之死</ROMV_KnowColonistDiedOfBloodLoss.stages.0.label>
+  <ROMV_KnowColonistDiedOfBloodLoss.stages.0.description>有殖民者被抽干了血而死。这能够理解，但仍然是一个残忍的行为。</ROMV_KnowColonistDiedOfBloodLoss.stages.0.description>
+  <ROMV_KnowColonistDiedOfBloodLoss.stages.1.label>殖民者被吸血致死</ROMV_KnowColonistDiedOfBloodLoss.stages.1.label>
+  <ROMV_KnowColonistDiedOfBloodLoss.stages.1.description>一位殖民者被其他的人放干了全部的血而死。这真是无法容忍的行为。</ROMV_KnowColonistDiedOfBloodLoss.stages.1.description>
+
+
+  <!-- Blood Harvesting -->
+
+  <ROMV_KnowGuestBloodHarvested.stages.0.label>有人的血液被抽取了</ROMV_KnowGuestBloodHarvested.stages.0.label>
+  <ROMV_KnowGuestBloodHarvested.stages.0.description>殖民者从客人或囚犯身上抽取血液。这是不道德的行为，在没有他们同意的情况下抽走他们的血。</ROMV_KnowGuestBloodHarvested.stages.0.description>
+
+  <ROMV_MyBloodHarvested.stages.0.label>我的血被抽走了</ROMV_MyBloodHarvested.stages.0.label>
+  <ROMV_MyBloodHarvested.stages.0.description>这个殖民地的人在我的身上采集血液。天哪！他们把我当什么了？！是血库么！！</ROMV_MyBloodHarvested.stages.0.description>
+
+
+  <!--<ROMV_IWasBittenByAVampire.stages.2.label>我被主人咬了</ROMV_IWasBittenByAVampire.stages.2.label>-->
+  <!--<ROMV_IWasBittenByAVampire.stages.2.description>我把自己的血献给我的主人。</ROMV_IWasBittenByAVampire.stages.2.description>-->
+
+</LanguageData>

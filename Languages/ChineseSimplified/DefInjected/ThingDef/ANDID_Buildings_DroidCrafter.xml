@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChJDroidPrinter.label>机械奴工生产线</ChJDroidPrinter.label>
+  <ChJDroidPrinter.description>当这个生产线配给电源以及材料后，将会装配机械奴工(Droid)。这种机器人是没有灵魂的自律型机器人。由于不需要休息以及无法参与脑力工作，所以它们很合适用于非社交与守卫的任务。</ChJDroidPrinter.description>
+  <ChJDroidPrinter_Blueprint.label>机械奴工生产线(blueprint)</ChJDroidPrinter_Blueprint.label>
+  <ChJDroidPrinter_Frame.label>机械奴工生产线(building)</ChJDroidPrinter_Frame.label>
+  <ChJDroidPrinter_Frame.description>当这个生产线配给电源以及材料后，将会装配机械奴工(Droid)。这种机器人是没有灵魂的自律型机器人。由于不需要休息以及无法参与脑力工作，所以它们很合适用于非社交与守卫的任务。</ChJDroidPrinter_Frame.description>
+
+
+</LanguageData>

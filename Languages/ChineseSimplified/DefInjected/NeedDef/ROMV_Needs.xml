@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Blood.label>生命之血</ROMV_Blood.label>
+  <ROMV_Blood.description>血源存在于生物体内生命之血。每天以一点的速度恢复。当为零时，生物便会迎来死亡。</ROMV_Blood.description>
+
+
+</LanguageData>

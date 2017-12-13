@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Blood_Hunger.label>渴血</ROMV_Blood_Hunger.label>
+  <ROMV_Blood_Hunger.description>允许吸血鬼在附近的地上寻找可以使用的血液。</ROMV_Blood_Hunger.description>
+
+  <ROMV_Blood_Purge.label>净化</ROMV_Blood_Purge.label>
+  <ROMV_Blood_Purge.description>迫使目标呕吐出他们的一些血液在地面上。</ROMV_Blood_Purge.description>
+
+  <ROMV_Blood_StemTheTide.label>快速止血</ROMV_Blood_StemTheTide.label>
+  <ROMV_Blood_StemTheTide.description>停止所有的失血状态。</ROMV_Blood_StemTheTide.description>
+
+  <ROMV_Blood_UnstoppableTide.label>死河</ROMV_Blood_UnstoppableTide.label>
+  <ROMV_Blood_UnstoppableTide.description>将施法者的身体分解成一团漂浮的血浆，用来吸收目标的血液，皮肤以及骨骼。并最终把吸收到的东西给予施法者。</ROMV_Blood_UnstoppableTide.description>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_PotenceI.label>潜在能力 I</ROMV_PotenceI.label>
+  <ROMV_PotenceI.description>被动式的将近战技能提高3级，每一级增加10%的攻击力。</ROMV_PotenceI.description>
+
+  <ROMV_PotenceII.label>潜在能力 II</ROMV_PotenceII.label>
+  <ROMV_PotenceII.description>被动式的将近战技能提高3级，每一级增加10%的攻击力。</ROMV_PotenceII.description>
+
+  <ROMV_PotenceIII.label>潜在能力 III</ROMV_PotenceIII.label>
+  <ROMV_PotenceIII.description>被动式的将近战技能提高3级，每一级增加10%的攻击力。</ROMV_PotenceIII.description>
+
+  <ROMV_PotenceIV.label>潜在能力 IV</ROMV_PotenceIV.label>
+  <ROMV_PotenceIV.description>被动式的将近战技能提高3级，每一级增加10%的攻击力。</ROMV_PotenceIV.description>
+
+
+</LanguageData>

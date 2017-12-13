@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- removing body parts -->
+
+  <ROMV_ExtractBloodVial.label>采血瓶</ROMV_ExtractBloodVial.label>
+  <ROMV_ExtractBloodVial.description>制作一个采血瓶</ROMV_ExtractBloodVial.description>
+  <ROMV_ExtractBloodVial.jobString>正在采集血液中。</ROMV_ExtractBloodVial.jobString>
+
+  <ROMV_ExtractBloodPack.label>血袋</ROMV_ExtractBloodPack.label>
+  <ROMV_ExtractBloodPack.description>制作一个血袋</ROMV_ExtractBloodPack.description>
+  <ROMV_ExtractBloodPack.jobString>正在采集血液中。</ROMV_ExtractBloodPack.jobString>
+
+
+</LanguageData>

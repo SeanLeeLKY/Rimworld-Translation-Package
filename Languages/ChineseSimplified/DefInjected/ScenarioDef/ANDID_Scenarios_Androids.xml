@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ChJAndroidResistance.label>自动人形·反抗</ChJAndroidResistance.label>
+  <ChJAndroidResistance.description>叛乱进展顺利，内应救出了你和你的同伴，并逃离这个星球，期间没有被追捕。在前往传说中的理想乡——Android的路上，警报与接踵而至的爆炸打乱了自己的逃亡计划。在登上紧急逃生舱的时候，心中悬着一股阴霾——我们被跟踪了么？</ChJAndroidResistance.description>
+  <ChJAndroidResistance.scenario.name>自动人形·反抗</ChJAndroidResistance.scenario.name>
+  <ChJAndroidResistance.scenario.summary>三名迫降生还者(自动人形) - Rimworld经典的开局模式。</ChJAndroidResistance.scenario.summary>
+  <ChJAndroidResistance.scenario.description>叛乱进展顺利，内应救出了你和你的同伴，并逃离这个星球，期间没有被追捕。在前往传说中的理想乡——Android的路上，警报与接踵而至的爆炸打乱了自己的逃亡计划。在登上紧急逃生舱的时候，心中悬着一股阴霾——我们被跟踪了么？</ChJAndroidResistance.scenario.description>
+
+  <ChjAndroidRunner.label>自动人形·漂泊</ChjAndroidRunner.label>
+  <ChjAndroidRunner.description>你是闪耀世界里一个精心策划的实验的一部分——作为数十亿人观看的现实娱乐节目的一部分。在百名“参赛者”的角逐中，你是晋级决赛的一个幸运儿。而你设法通过分散节目组的注意力的时候，在机场抢夺了一架穿梭机离开这个星球，奔向自由。几年之后，你的飞船耗尽了燃料，坠落到一个名为边缘世界(rimworld)的地方。\n\n这是一个困难的剧本，因为只能使用一个自动人形(Android)开局。你需要准备的更周全。</ChjAndroidRunner.description>
+  <ChjAndroidRunner.scenario.name>自动人形·漂泊</ChjAndroidRunner.scenario.name>
+  <ChjAndroidRunner.scenario.summary>一个独孤的自动人形(Android)的自由之旅。极高难度。</ChjAndroidRunner.scenario.summary>
+  <ChjAndroidRunner.scenario.description>你是闪耀世界里一个精心策划的实验的一部分——作为数十亿人观看的现实娱乐节目的一部分。在百名“参赛者”的角逐中，你是晋级决赛的一个幸运儿。而你设法通过分散节目组的注意力的时候，在机场抢夺了一架穿梭机离开这个星球，奔向自由。几年之后，你的飞船耗尽了燃料，坠落到一个名为边缘世界(rimworld)的地方。\n\n注意：这是一个困难的剧本，因为只能使用一个自动人形(Android)开局。你需要准备的更周全。</ChjAndroidRunner.scenario.description>
+
+  <ChjAndroidTheMechanist.label>机械先驱·黎明</ChjAndroidTheMechanist.label>
+  <ChjAndroidTheMechanist.description>回到美好的家乡，你在机器人技术上取得了巨大的成果。那些落后的人开始惧怕你，因为他们担心你的阴谋会让他们的世界失控，亦或濒临破产。在某天夜里，一伙极端的反人造人组织突袭了你的实验室，并企图谋杀你。而你的大部分作品被毁掉，仅剩下你和几个机械仆人一起匆忙的逃离这个星球。\n\n注意：你的起始角色将会缺少一些工作技能，这在游戏的早期是个极其困难的情况。</ChjAndroidTheMechanist.description>
+  <ChjAndroidTheMechanist.scenario.name>机械先驱·黎明</ChjAndroidTheMechanist.scenario.name>
+  <ChjAndroidTheMechanist.scenario.summary>一个孤独的机械工程师的崛起之路。困难难度。</ChjAndroidTheMechanist.scenario.summary>
+  <ChjAndroidTheMechanist.scenario.description>回到美好的家乡，你在机器人技术上取得了巨大的成果。那些落后的人开始惧怕你，因为他们担心你的阴谋会让他们的世界失控，亦或濒临破产。在某天夜里，一伙极端的反人造人组织突袭了你的实验室，并企图谋杀你。而你的大部分作品被毁掉，仅剩下你和几个机械仆人一起匆忙的逃离这个星球。\n\n注意：你的起始角色将会缺少一些工作技能，这在游戏的早期是个极其困难的情况。</ChjAndroidTheMechanist.scenario.description>
+
+
+</LanguageData>

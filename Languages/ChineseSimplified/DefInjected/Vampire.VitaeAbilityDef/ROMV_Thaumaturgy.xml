@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Thaumaturgy_BloodStrike.label>血弹打击</ROMV_Thaumaturgy_BloodStrike.label>
+  <ROMV_Thaumaturgy_BloodStrike.description>向目标发射血弹，并且可以回收喷射出去的血液。</ROMV_Thaumaturgy_BloodStrike.description>
+
+  <ROMV_Thaumaturgy_BloodShield.label>血之护盾</ROMV_Thaumaturgy_BloodShield.label>
+  <ROMV_Thaumaturgy_BloodShield.description>血液围绕在施法者周围，能够抵消受到的攻击伤害。</ROMV_Thaumaturgy_BloodShield.description>
+
+  <ROMV_Thaumaturgy_BloodSalvo.label>血泡齐射</ROMV_Thaumaturgy_BloodSalvo.label>
+  <ROMV_Thaumaturgy_BloodSalvo.description>在一个效果区域内发射出3个血弹，并且可以回收喷射出去的血液。</ROMV_Thaumaturgy_BloodSalvo.description>
+
+  <ROMV_Thaumaturgy_BloodBoil.label>沸血爆裂</ROMV_Thaumaturgy_BloodBoil.label>
+  <ROMV_Thaumaturgy_BloodBoil.description>使目标的血液沸腾，直至这些血液爆发而出伤害其他人。</ROMV_Thaumaturgy_BloodBoil.description>
+
+
+</LanguageData>

@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ROMV_Vampirism.label>吸血鬼: 吸血鬼化(Vampirism)</ROMV_Vampirism.label>
+  <ROMV_Vampirism.helpText>吸血鬼的出现是从一种被诅咒的血液注入到已死之人身上而诞生的。吸血鬼不受时间与疾病的蹂躏，并且拥有超越凡人力量和超自然的能力，被称为“戒律”。然而，他们也被不受控的渴望活物之血所折磨，以及被阳光照射下烧成灰烬。那些吸血鬼化的夜行掠食者，是人类唯一的自然天敌。</ROMV_Vampirism.helpText>
+
+  <ROMV_Vitae.label>吸血鬼: 生命之血(Vitae)</ROMV_Vitae.label>
+  <ROMV_Vitae.helpText>这些被吸血鬼的诅咒所腐蚀，最终变成吸血鬼体内的血液。诅咒之血是吸血鬼力量的燃料，它能让吸血鬼继续制造他们的尸体。吸血鬼的体内可以拥有比一般身体更大容量的生命之血。因为诅咒之血的容量奥秘在于其积累的力量而非它的液态体积。</ROMV_Vitae.helpText>
+
+  <ROMV_Bloodlines.label>吸血鬼: 血统(Bloodlines)</ROMV_Bloodlines.label>
+  <ROMV_Bloodlines.helpText>尽管吸血鬼在最初不同的氏族中都有相同的特点，但随着时间的推移，这个诅咒已经发生变化而形成了鲜明的血统。血统不同的吸血鬼也有着不同的“戒律”，其中有好处也有缺点。并且倾向于形成不同的社会文化。</ROMV_Bloodlines.helpText>
+
+  <ROMV_Disciplines.label>吸血鬼: 戒律(Disciplines)</ROMV_Disciplines.label>
+  <ROMV_Disciplines.helpText>戒律是属于吸血鬼的超自然能力。历史上不同的血统已经发展或是掌握了不同的力量。但这些都是对其有利的工具，即使是单单其中一种戒律，也能对活物造成毁灭性的破坏。</ROMV_Disciplines.helpText>
+
+  <ROMV_BloodPoints.label>吸血鬼: 血源(Blood Points)</ROMV_BloodPoints.label>
+  <ROMV_BloodPoints.helpText>所有生物都具备血池的存在，无论大小。有更多的血液并不意味着猎物能满足吸血鬼的饥渴。如果生物的血液质量很好，那么吸血鬼就能从中获得更多的给养。相反，如果血液的质量差，则需要更多的血液。这个概念用简单的单位来表示(即食物的营养度类似)。以下简称为“血源”。</ROMV_BloodPoints.helpText>
+
+  <ROMV_BloodPacks.label>吸血鬼: 血袋(Blood Packs)</ROMV_BloodPacks.label>
+  <ROMV_BloodPacks.helpText>生命之血可以从一个活物身上以一点或者三点来提取而出。一点的量会出存在采血瓶中，三点的量只合适装在血袋里。如果一个吸血鬼喝了这些血，他们就会像从人身上吸血一样获得新生。</ROMV_BloodPacks.helpText>
+
+  <ROMV_TheEmbrace.label>吸血鬼: 初拥(The Embrace)</ROMV_TheEmbrace.label>
+  <ROMV_TheEmbrace.helpText>初拥是吸血鬼生产后代，制造新的吸血鬼的手段，并以此来传播他们的诅咒。吸血鬼会靠近一个人类并吸取他们的血液，直至对象血脉干涸。在他们死后，吸血鬼的君主将把自己的生命之血赋予这些尸体。一旦获得君主的血，这些尸体便会转化成吸血鬼。</ROMV_TheEmbrace.helpText>
+
+  <ROMV_TheBeast.label>吸血鬼: 兽性狂暴(The Beast)</ROMV_TheBeast.label>
+  <ROMV_TheBeast.helpText>每个吸血鬼都具备掠夺的天性。当吸血鬼体内的生命之血稀缺(不足25%)时，这个暴力的角色就会失控，并引到他们去猎食活物，直到他们满足前是不会顾及受害者的生命安危的。</ROMV_TheBeast.helpText>
+
+  <ROMV_Rotschreck.label>吸血鬼: 惧光症(Rötschreck)</ROMV_Rotschreck.label>
+  <ROMV_Rotschreck.helpText>惧光症，又称红色恐惧。是由阳光或是火焰造成的盲目恐慌行为。如果一个吸血鬼在阳光下待太旧，就会在近乎绝望的情况下躲到任何可以避光的角落里。因为太阳的光芒能灼烧他们。</ROMV_Rotschreck.helpText>
+
+
+</LanguageData>

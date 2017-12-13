@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ██████   █████   ██████ ██   ██ ███████
+  ██   ██ ██   ██ ██      ██  ██  ██
+  ██████  ███████ ██      █████   ███████
+  ██      ██   ██ ██      ██  ██       ██
+  ██      ██   ██  ██████ ██   ██ ███████ -->
+
+  <BloodPack_Animal.label>血袋(动物)</BloodPack_Animal.label>
+  <BloodPack_Animal.description>从动物身上采集的血，消耗类恢复品。(1点生命之血)</BloodPack_Animal.description>
+  <BloodPack_Animal.ingestible.ingestCommandString>饮用{0}</BloodPack_Animal.ingestible.ingestCommandString>
+  <BloodPack_Animal.ingestible.ingestReportString>正在饮用{0}.</BloodPack_Animal.ingestible.ingestReportString>
+
+  <BloodPack_LowBlood.label>血袋(低阶)</BloodPack_LowBlood.label>
+  <BloodPack_LowBlood.description>地位卑微之人的血，不符合高级王室的标准用血(妓女、奴隶、无家可归者或是体弱多病者)。通常收集在一个小袋子中。(3点生命之血)</BloodPack_LowBlood.description>
+  <BloodPack_LowBlood.ingestible.ingestCommandString>饮用{0}</BloodPack_LowBlood.ingestible.ingestCommandString>
+  <BloodPack_LowBlood.ingestible.ingestReportString>正在饮用{0}.</BloodPack_LowBlood.ingestible.ingestReportString>
+
+  <BloodPack_AverageBlood.label>血袋(均衡)</BloodPack_AverageBlood.label>
+  <BloodPack_AverageBlood.description>这种血既不太优秀，也不是很低贱。但依旧不合适吸血鬼社会里的高级成员所使用。(3点生命之血)</BloodPack_AverageBlood.description>
+  <BloodPack_AverageBlood.ingestible.ingestCommandString>饮用{0}</BloodPack_AverageBlood.ingestible.ingestCommandString>
+  <BloodPack_AverageBlood.ingestible.ingestReportString>正在饮用{0}.</BloodPack_AverageBlood.ingestible.ingestReportString>
+
+  <BloodPack_HighBlood.label>血袋(高阶)</BloodPack_HighBlood.label>
+  <BloodPack_HighBlood.description>高级地位者之血。合适给富豪或贵族吸血鬼享用的血液(贵族世家，富裕的豪门或是闪耀世界者)通常储存在一个小袋子里(2点生命之血)</BloodPack_HighBlood.description>
+  <BloodPack_HighBlood.ingestible.ingestCommandString>享用{0}</BloodPack_HighBlood.ingestible.ingestCommandString>
+  <BloodPack_HighBlood.ingestible.ingestReportString>正在享用{0}.</BloodPack_HighBlood.ingestible.ingestReportString>
+
+
+  <!-- ██    ██ ██  █████  ██      ███████
+  ██    ██ ██ ██   ██ ██      ██
+  ██    ██ ██ ███████ ██      ███████
+   ██  ██  ██ ██   ██ ██           ██
+    ████   ██ ██   ██ ███████ ███████ -->
+
+  <BloodVial_LowBlood.label>采血瓶(低级)</BloodVial_LowBlood.label>
+  <BloodVial_LowBlood.description>低阶者之血，不符合高级王室的标准用血。储存在一个瓶子中。(1点生命之血)</BloodVial_LowBlood.description>
+  <BloodVial_LowBlood.ingestible.ingestCommandString>饮用{0}</BloodVial_LowBlood.ingestible.ingestCommandString>
+  <BloodVial_LowBlood.ingestible.ingestReportString>正在饮用 {0}.</BloodVial_LowBlood.ingestible.ingestReportString>
+
+  <BloodVial_AverageBlood.label>采血瓶(中级)</BloodVial_AverageBlood.label>
+  <BloodVial_AverageBlood.description>这种血既不太优秀，也不是很低贱。但依旧不合适吸血鬼社会里的高级成员所使用。(1点生命之血)</BloodVial_AverageBlood.description>
+  <BloodVial_AverageBlood.ingestible.ingestCommandString>饮用 {0}</BloodVial_AverageBlood.ingestible.ingestCommandString>
+  <BloodVial_AverageBlood.ingestible.ingestReportString>正在饮用 {0}.</BloodVial_AverageBlood.ingestible.ingestReportString>
+
+  <BloodVial_HighBlood.label>采血瓶(高级)</BloodVial_HighBlood.label>
+  <BloodVial_HighBlood.description>高级地位者之血。合适给富豪或贵族吸血鬼享用的血液(贵族世家，富裕的豪门或是闪耀世界者)通常收集在一个瓶子里。(1点生命之血)</BloodVial_HighBlood.description>
+  <BloodVial_HighBlood.ingestible.ingestCommandString>享用{0}</BloodVial_HighBlood.ingestible.ingestCommandString>
+  <BloodVial_HighBlood.ingestible.ingestReportString>正在享用{0}.</BloodVial_HighBlood.ingestible.ingestReportString>
+
+  <BloodVial_Special.label>采血瓶(特级)</BloodVial_Special.label>
+  <BloodVial_Special.description>极为特殊的血液，据说是从神话动物那里采集到的。储存在一个小瓶子里。(1点生命之血)</BloodVial_Special.description>
+  <BloodVial_Special.ingestible.ingestCommandString>享用{0}</BloodVial_Special.ingestible.ingestCommandString>
+  <BloodVial_Special.ingestible.ingestReportString>正在享用{0}.</BloodVial_Special.ingestible.ingestReportString>
+
+
+</LanguageData>

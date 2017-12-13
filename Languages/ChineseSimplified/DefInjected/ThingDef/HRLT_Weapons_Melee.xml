@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_Thurible.label>哈维香炉</MeleeWeapon_Thurible.label>
+  <MeleeWeapon_Thurible.description>一个闪亮的香炉。</MeleeWeapon_Thurible.description>
+  <MeleeWeapon_Thurible.tools.0.label>香炉</MeleeWeapon_Thurible.tools.0.label>
+
+  <MeleeWeapon_CandleHolder.label>哈维烛台</MeleeWeapon_CandleHolder.label>
+  <MeleeWeapon_CandleHolder.description>一个大烛台。</MeleeWeapon_CandleHolder.description>
+  <MeleeWeapon_CandleHolder.tools.0.label>杆子</MeleeWeapon_CandleHolder.tools.0.label>
+
+  <MeleeWeapon_Crosier.label>哈维权杖</MeleeWeapon_Crosier.label>
+  <MeleeWeapon_Crosier.description>一把美丽的权杖。</MeleeWeapon_Crosier.description>
+  <MeleeWeapon_Crosier.tools.0.label>手柄</MeleeWeapon_Crosier.tools.0.label>
+  <MeleeWeapon_Crosier.tools.1.label>端头</MeleeWeapon_Crosier.tools.1.label>
+
+  <MeleeWeapon_Whip.label>哈维鞭子</MeleeWeapon_Whip.label>
+  <MeleeWeapon_Whip.description>一条苦行者鞭子。抽打自己，唤起赎罪的灵魂。</MeleeWeapon_Whip.description>
+  <MeleeWeapon_Whip.tools.0.label>手柄</MeleeWeapon_Whip.tools.0.label>
+  <MeleeWeapon_Whip.tools.1.label>鞭子</MeleeWeapon_Whip.tools.1.label>
+
+  <MeleeWeapon_Banner.label>哈维幡</MeleeWeapon_Banner.label>
+  <MeleeWeapon_Banner.description>这是一种原始手工制作的哈维幡，并且上面带有锋利的尖角。</MeleeWeapon_Banner.description>
+  <MeleeWeapon_Banner.tools.0.label>杆子</MeleeWeapon_Banner.tools.0.label>
+  <MeleeWeapon_Banner.tools.1.label>尖角</MeleeWeapon_Banner.tools.1.label>
+
+  <MeleeWeapon_Stake.label>哈维圣钉</MeleeWeapon_Stake.label>
+  <MeleeWeapon_Stake.description>一根收过祝福的木桩。用来消灭邪恶之物。</MeleeWeapon_Stake.description>
+  <MeleeWeapon_Stake.tools.0.label>尖角</MeleeWeapon_Stake.tools.0.label>
+
+  <MeleeWeapon_ChampionSword.label>哈维主教剑</MeleeWeapon_ChampionSword.label>
+  <MeleeWeapon_ChampionSword.description>一把闪闪发光的剑。</MeleeWeapon_ChampionSword.description>
+  <MeleeWeapon_ChampionSword.tools.0.label>剑柄</MeleeWeapon_ChampionSword.tools.0.label>
+  <MeleeWeapon_ChampionSword.tools.1.label>尖端</MeleeWeapon_ChampionSword.tools.1.label>
+  <MeleeWeapon_ChampionSword.tools.2.label>剑刃</MeleeWeapon_ChampionSword.tools.2.label>
+
+  <MeleeWeapon_ChampionFlail.label>哈维主教连枷</MeleeWeapon_ChampionFlail.label>
+  <MeleeWeapon_ChampionFlail.description>一个巨大的连枷。</MeleeWeapon_ChampionFlail.description>
+  <MeleeWeapon_ChampionFlail.tools.0.label>手柄</MeleeWeapon_ChampionFlail.tools.0.label>
+  <MeleeWeapon_ChampionFlail.tools.1.label>锤头</MeleeWeapon_ChampionFlail.tools.1.label>
+
+
+</LanguageData>

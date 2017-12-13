@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ForsakenSniper.label>遗忘者狙击手</ForsakenSniper.label>
+  <ForsakenSniper.labelPlural>遗忘者狙击手</ForsakenSniper.labelPlural>
+  <ForsakenSniper.labelMale>男性 遗忘者狙击手</ForsakenSniper.labelMale>
+  <ForsakenSniper.labelMalePlural>男性 遗忘者狙击手</ForsakenSniper.labelMalePlural>
+  <ForsakenSniper.labelFemale>女性 遗忘者狙击手</ForsakenSniper.labelFemale>
+  <ForsakenSniper.labelFemalePlural>女性 遗忘者狙击手</ForsakenSniper.labelFemalePlural>
+
+  <ForsakenSlasher.label>遗忘者杀人狂</ForsakenSlasher.label>
+  <ForsakenSlasher.labelPlural>遗忘者杀人狂</ForsakenSlasher.labelPlural>
+  <ForsakenSlasher.labelMale>男性 遗忘者杀人狂</ForsakenSlasher.labelMale>
+  <ForsakenSlasher.labelMalePlural>男性 遗忘者杀人狂</ForsakenSlasher.labelMalePlural>
+  <ForsakenSlasher.labelFemale>女性 遗忘者杀人狂</ForsakenSlasher.labelFemale>
+  <ForsakenSlasher.labelFemalePlural>女性 遗忘者杀人狂</ForsakenSlasher.labelFemalePlural>
+
+  <ForsakenGunner.label>遗忘者火炮手</ForsakenGunner.label>
+  <ForsakenGunner.labelPlural>遗忘者火炮手</ForsakenGunner.labelPlural>
+  <ForsakenGunner.labelMale>男性 遗忘者火炮手</ForsakenGunner.labelMale>
+  <ForsakenGunner.labelMalePlural>男性 遗忘者火炮手</ForsakenGunner.labelMalePlural>
+  <ForsakenGunner.labelFemale>女性 遗忘者火炮手</ForsakenGunner.labelFemale>
+  <ForsakenGunner.labelFemalePlural>女性 遗忘者火炮手</ForsakenGunner.labelFemalePlural>
+
+
+</LanguageData>
