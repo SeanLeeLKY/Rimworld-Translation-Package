@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NamerFactionWalkblemAgriculture.rulePack.rulesStrings.0>name->漫步者农业[businesstype]</NamerFactionWalkblemAgriculture.rulePack.rulesStrings.0>
+  <NamerFactionWalkblemAgriculture.rulePack.rulesStrings.1>name->漫步者农业[businesstype]</NamerFactionWalkblemAgriculture.rulePack.rulesStrings.1>
+
+  <NamerFactionBaseWalkblemAgriculture.rulePack.rulesStrings.0>name->[angsty][politicalunion]农业[communities]</NamerFactionBaseWalkblemAgriculture.rulePack.rulesStrings.0>
+  <NamerFactionBaseWalkblemAgriculture.rulePack.rulesStrings.1>name->[angsty][smallroman]农业[communities]</NamerFactionBaseWalkblemAgriculture.rulePack.rulesStrings.1>
+  <NamerFactionBaseWalkblemAgriculture.rulePack.rulesStrings.2>name->[angsty]农业[communities]之[positive]</NamerFactionBaseWalkblemAgriculture.rulePack.rulesStrings.2>
+  <NamerFactionBaseWalkblemAgriculture.rulePack.rulesStrings.3>name->[angsty][groupnames]农业中心</NamerFactionBaseWalkblemAgriculture.rulePack.rulesStrings.3>
+
+  <NamerFactionWalkblemMining.rulePack.rulesStrings.0>name->漫步者矿业[businesstype]</NamerFactionWalkblemMining.rulePack.rulesStrings.0>
+
+  <NamerFactionBaseWalkblemMining.rulePack.rulesStrings.0>name->[angsty] [politicalunion]矿业[communities]</NamerFactionBaseWalkblemMining.rulePack.rulesStrings.0>
+  <NamerFactionBaseWalkblemMining.rulePack.rulesStrings.1>name->[angsty] [smallroman]矿业[communities]</NamerFactionBaseWalkblemMining.rulePack.rulesStrings.1>
+  <NamerFactionBaseWalkblemMining.rulePack.rulesStrings.2>name->[angsty]矿业[communities]之[positive]</NamerFactionBaseWalkblemMining.rulePack.rulesStrings.2>
+  <NamerFactionBaseWalkblemMining.rulePack.rulesStrings.3>name->[angsty] [groupnames]矿业中心</NamerFactionBaseWalkblemMining.rulePack.rulesStrings.3>
+
+  <NamerFactionWalkblemPharma.rulePack.rulesStrings.0>name->漫步者药业[businesstype]</NamerFactionWalkblemPharma.rulePack.rulesStrings.0>
+
+  <NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.0>name->[angsty] [politicalunion]药业[communities]</NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.0>
+  <NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.1>name->[angsty] [smallroman]药业[communities]</NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.1>
+  <NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.2>name->[angsty]药业[communities]之[positive]</NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.2>
+  <NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.3>name->[angsty] [groupnames]制药中心</NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.3>
+  <NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.4>name->[angsty]生物制药</NamerFactionBaseWalkblemPharma.rulePack.rulesStrings.4>
+
+  <NamerFactionWalkblemTechnologies.rulePack.rulesStrings.0>name->漫步者科技[businesstype]</NamerFactionWalkblemTechnologies.rulePack.rulesStrings.0>
+  <NamerFactionWalkblemTechnologies.rulePack.rulesStrings.1>name->漫步者[businesstype]科技</NamerFactionWalkblemTechnologies.rulePack.rulesStrings.1>
+
+  <NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.0>name->[angsty] [politicalunion]科技[communities]</NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.0>
+  <NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.1>name->[angsty] [smallroman]科技[communities]</NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.1>
+  <NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.2>name->[angsty]科技[communities]之[positive]</NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.2>
+  <NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.3>name->[angsty] [groupnames]科技中心</NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.3>
+  <NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.4>name->[angsty]科技</NamerFactionBaseWalkblemTechnologies.rulePack.rulesStrings.4>
+
+  <NamerFactionWalkblemMilitary.rulePack.rulesStrings.0>name->漫步者军工[businesstype]</NamerFactionWalkblemMilitary.rulePack.rulesStrings.0>
+
+  <NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.0>name->[angsty] [politicalunion]军工[communities]</NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.0>
+  <NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.1>name->[angsty] [smallroman]军工[communities]</NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.1>
+  <NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.2>name->[angsty] 武器 [communities]之[positive]</NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.2>
+  <NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.3>name->[angsty] [groupnames]军工</NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.3>
+  <NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.4>name->[angsty] 军工复合体</NamerFactionBaseWalkblemMilitary.rulePack.rulesStrings.4>
+
+  <NamerFactionWalkblemTradings.rulePack.rulesStrings.0>name->漫步者银河商业[businesstype]</NamerFactionWalkblemTradings.rulePack.rulesStrings.0>
+
+  <NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.0>name->[angsty] [politicalunion]商贸[communities]</NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.0>
+  <NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.1>name->[angsty] [smallroman] 商贸 [communities]</NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.1>
+  <NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.2>name->[angsty] 商贸 [communities] 之[positive]</NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.2>
+  <NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.3>name->[angsty] [groupnames] 商贸中心</NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.3>
+  <NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.4>name->[angsty] 银河商贸中心</NamerFactionBaseWalkblemTradings.rulePack.rulesStrings.4>
+
+
+</LanguageData>

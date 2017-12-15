@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WalkblemAgriculture.label>漫步者农业集团</WalkblemAgriculture.label>
+  <WalkblemAgriculture.description></WalkblemAgriculture.description>
+  <WalkblemAgriculture.pawnsPlural>农业学家</WalkblemAgriculture.pawnsPlural>
+  <WalkblemAgriculture.leaderTitle>首席执行官</WalkblemAgriculture.leaderTitle>
+
+  <WalkblemMining.label>漫步者矿业集团</WalkblemMining.label>
+  <WalkblemMining.description></WalkblemMining.description>
+  <WalkblemMining.pawnsPlural>矿工</WalkblemMining.pawnsPlural>
+  <WalkblemMining.leaderTitle>首席执行官</WalkblemMining.leaderTitle>
+
+  <WalkblemPharma.label>漫步者药业集团</WalkblemPharma.label>
+  <WalkblemPharma.description></WalkblemPharma.description>
+  <WalkblemPharma.pawnsPlural>药业</WalkblemPharma.pawnsPlural>
+  <WalkblemPharma.leaderTitle>首席执行官</WalkblemPharma.leaderTitle>
+
+  <WalkblemTechnologies.label>漫步者科技集团</WalkblemTechnologies.label>
+  <WalkblemTechnologies.description></WalkblemTechnologies.description>
+  <WalkblemTechnologies.pawnsPlural>技术员</WalkblemTechnologies.pawnsPlural>
+  <WalkblemTechnologies.leaderTitle>首席执行官</WalkblemTechnologies.leaderTitle>
+
+  <WalkblemMilitary.label>漫步者军工复合体</WalkblemMilitary.label>
+  <WalkblemMilitary.description></WalkblemMilitary.description>
+  <WalkblemMilitary.pawnsPlural>军火商</WalkblemMilitary.pawnsPlural>
+  <WalkblemMilitary.leaderTitle>首席执行官</WalkblemMilitary.leaderTitle>
+
+  <WalkblemTradings.label>漫步者银河贸易集团</WalkblemTradings.label>
+  <WalkblemTradings.description></WalkblemTradings.description>
+  <WalkblemTradings.pawnsPlural>贸易商</WalkblemTradings.pawnsPlural>
+  <WalkblemTradings.leaderTitle>首席执行官</WalkblemTradings.leaderTitle>
+
+
+</LanguageData>

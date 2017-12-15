@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Charge rifle -->
+
+  <Bullet_WalkblemChargeRifle.label>电荷弹</Bullet_WalkblemChargeRifle.label>
+
+  <Gun_WalkblemChargeRifle.label>漫步者电荷步枪</Gun_WalkblemChargeRifle.label>
+  <Gun_WalkblemChargeRifle.description>这是一种发射爆炸性电荷弹的能量步枪，配备给漫步者士兵的标准装备。它被设计生产出来的目的只有一个，那就是把敌人撕成碎片。不过漫步者军工最近宣布他们将会大量出售这一制式武器，不过据小道消息称：漫步者军工的某个主要生产基地的操作员在编制自动生产订单的时候睡着了，其直接后果就是在执行的生产订单后面多按了几个零。</Gun_WalkblemChargeRifle.description>
+
+  <Bullet_WalkblemChargeSniperRifle.label>电荷弹</Bullet_WalkblemChargeSniperRifle.label>
+
+  <Gun_WalkblemChargeSniperRifle.label>漫步者电荷狙击枪</Gun_WalkblemChargeSniperRifle.label>
+  <Gun_WalkblemChargeSniperRifle.description>漫步者集团狙击手使用的标准武器，内置爆炸性电荷狙击弹。可以算做银河系内最强大的狙击武器，它有个响亮的名字叫“飞行氰化物”，它第一次出现在战场上的起因是一次集团内部派系斗争，这把当时还在试验阶段的武器一出现在战场上，狙击手就用它整整消灭了一个营的士兵。这样的“测试”结果震惊了所有的人，当然，也迅速的结束了整个战争。</Gun_WalkblemChargeSniperRifle.description>
+
+
+  
+
+  <MeleeWeapon_WalkblemGunblade.label>漫步者枪刃</MeleeWeapon_WalkblemGunblade.label>
+  <MeleeWeapon_WalkblemGunblade.description>漫步者士兵配备的一种充能枪刃，主要用于护送商队任务。因为在边缘世界执行任务时，大量的士兵在野生动物的直接袭击中被友军火力击中而伤亡，促使这种能量武器的出现。在轻合金的武器能量放大模块上应用通用能量发生器，在端体前方聚集大量的电荷能量形成一股回旋射流。这样的能量锋刃可以轻易切开任何的盔甲防护。</MeleeWeapon_WalkblemGunblade.description>
+  <MeleeWeapon_WalkblemGunblade.tools.0.label>紧握</MeleeWeapon_WalkblemGunblade.tools.0.label>
+  <MeleeWeapon_WalkblemGunblade.tools.1.label>能量刃</MeleeWeapon_WalkblemGunblade.tools.1.label>
+
+  <Bullet_WalkblemChargeCannon.label>电荷弹</Bullet_WalkblemChargeCannon.label>
+
+  <Gun_WalkblemChargeCannon.label>漫步者电荷加农炮</Gun_WalkblemChargeCannon.label>
+  <Gun_WalkblemChargeCannon.description>这是安装在漫步者装甲车上的一种能量武器，可以理解为漫步者电荷单兵武器的“大口径”版本。这类武器有效的保证了漫步者集团商队的安全。</Gun_WalkblemChargeCannon.description>
+
+
+</LanguageData>

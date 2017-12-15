@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WalkblemArmoredCaravan.label>漫步者重型装甲车</WalkblemArmoredCaravan.label>
+  <WalkblemArmoredCaravan.description>为了应对最初几年的巨大损失，漫步者银河商业集团决定将他们的漫步者重型装甲步兵车改造成无人驾驶的装甲运输车。因为低估了边缘世界的危险系数以及当地居民的道德水平，使得公司损失了数万亿的资产，其中包括货物损失、先进的漫步者科技设备以及对死去的漫步者士兵家属的赔偿。这种无人驾驶的车辆被定位用于快速安全的运送货物，为雇佣军护卫提供强大的火力支援，并且可以利用它极高的速度和装甲脱离交战区域。</WalkblemArmoredCaravan.description>
+  <WalkblemArmoredCaravan.tools.0.label>Turret Swipe</WalkblemArmoredCaravan.tools.0.label>
+  <WalkblemArmoredCaravan_Leather.label>漫步者重型装甲车装甲板</WalkblemArmoredCaravan_Leather.label>
+  <WalkblemArmoredCaravan_Leather.description>漫步者重型装甲车装甲板</WalkblemArmoredCaravan_Leather.description>
+  <WalkblemArmoredCaravan_Leather.stuffProps.stuffAdjective>漫步者重型装甲车装甲板</WalkblemArmoredCaravan_Leather.stuffProps.stuffAdjective>
+  <!-- Meat Amount: 0 -->
+  <WalkblemArmoredCaravan_Corpse.label>漫步者重型装甲车尸体</WalkblemArmoredCaravan_Corpse.label>
+  <WalkblemArmoredCaravan_Corpse.description>漫步者重型装甲车尸体</WalkblemArmoredCaravan_Corpse.description>
+
+
+</LanguageData>

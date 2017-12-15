@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WalkblemSoldier.label>漫步者士兵</WalkblemSoldier.label>
+  <WalkblemSoldier.labelPlural>漫步者士兵</WalkblemSoldier.labelPlural>
+
+  <WalkblemSniper.label>漫步者狙击手</WalkblemSniper.label>
+  <WalkblemSniper.labelPlural>漫步者狙击手</WalkblemSniper.labelPlural>
+
+  <WalkblemExecutive.label>总经理</WalkblemExecutive.label>
+  <WalkblemExecutive.labelPlural>总经理</WalkblemExecutive.labelPlural>
+
+  <WalkblemGunblader.label>漫步者枪刃斗士</WalkblemGunblader.label>
+  <WalkblemGunblader.labelPlural>漫步者枪刃斗士</WalkblemGunblader.labelPlural>
+  <WalkblemGunblader.description>漫步者枪刃斗士在漫步者军事体系中拥有受人尊敬的地位。他们的作战方式很像古代地球上的武士和忍者的集合体，即使拥有压倒性的优势，他们依旧能够像专业刺客一样简洁冷静的杀戮敌人。他们在边缘世界的首要任务就是保护漫步者集团的资产。 </WalkblemGunblader.description>
+
+  <WalkblemArmoredCaravan.label>漫步者重型装甲车</WalkblemArmoredCaravan.label>
+  <WalkblemArmoredCaravan.labelPlural>漫步者重型装甲车</WalkblemArmoredCaravan.labelPlural>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <WalkblemArmor.label>底盘装甲</WalkblemArmor.label>
+  <WalkblemVehicleChassis.label>载具底盘</WalkblemVehicleChassis.label>
+  <WalkblemAICockpit.label>控制核心</WalkblemAICockpit.label>
+  <WalkblemVehicleTurret.label>炮塔</WalkblemVehicleTurret.label>
+  <WalkblemVehicleTrack.label>履带系统</WalkblemVehicleTrack.label>
+  <MainEngine.label>主引擎</MainEngine.label>
+  <Radiator.label>散热器</Radiator.label>
+  <PowerBank.label>能量栅格</PowerBank.label>
+  <Transmission.label>传输系统</Transmission.label>
+  <ExhaustSystem.label>排气系统</ExhaustSystem.label>
+  <Coolant.label>冷却剂</Coolant.label>
+  <WalkblemTracks.label>履带</WalkblemTracks.label>
+  <WalkblemWheels.label>动力轮</WalkblemWheels.label>
+
+
+</LanguageData>

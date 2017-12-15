@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_WalkblemPowerArmorHelmet.label>漫步者动力装甲头盔</Apparel_WalkblemPowerArmorHelmet.label>
+  <Apparel_WalkblemPowerArmorHelmet.description>漫步者士兵的标准动力装甲头盔，比市面上的一般头盔提供了更多的防护能力。没有人能确切得知具体的提升数据，它可能是泛银河系最好的动力头盔了。据小道消息说：漫步者银河集团的CEO，Mingji Lim利用魔法生成了这种强大的装备。</Apparel_WalkblemPowerArmorHelmet.description>
+
+  <Apparel_WalkblemSmokepopBelt.label>漫步者烟罐腰带</Apparel_WalkblemSmokepopBelt.label>
+  <Apparel_WalkblemSmokepopBelt.description>漫步者士兵装备的标准支援装备。当穿着者被击中的时候，它将爆开产生一团厚重的烟云，遮挡攻击者的视线，防止敌人锁定使用者。单次使用的消耗性装备。</Apparel_WalkblemSmokepopBelt.description>
+
+
+  <!-- Spacer -->
+
+  <Apparel_WalkblemPowerArmor.label>漫步者动力装甲</Apparel_WalkblemPowerArmor.label>
+  <Apparel_WalkblemPowerArmor.description>漫步者士兵的动力装甲具有大幅提高使用者运动、敏捷和力量的功能。漫步者士兵能得到“超级士兵”这一殊荣，有很大一部分原因就是因为穿着漫步者标准动力装甲，这也是让漫步者士兵成为整个银河系高端战力的基础。</Apparel_WalkblemPowerArmor.description>
+
+
+</LanguageData>
