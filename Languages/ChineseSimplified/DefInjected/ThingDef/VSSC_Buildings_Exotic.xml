@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ShipChunk_green_I.label>飞船残骸</ShipChunk_green_I.label>
+  <ShipChunk_green_I.description>一大块飞船残骸。可以从里面拆出一些还能使用的钢铁原料和零部件。</ShipChunk_green_I.description>
+
+  <ShipChunk_greenII.label>飞船残骸</ShipChunk_greenII.label>
+  <ShipChunk_greenII.description>一大块飞船残骸。可以从里面拆出一些还能使用的钢铁原料和零部件。</ShipChunk_greenII.description>
+
+  <ShipChunk_yellow_I.label>黄色飞船残骸</ShipChunk_yellow_I.label>
+  <ShipChunk_yellow_I.description>一大块飞船残骸。可以从里面拆出一些还能使用的钢铁和黄金以及零部件。</ShipChunk_yellow_I.description>
+
+  <ShipChunk_blue_II.label>蓝色飞船残骸</ShipChunk_blue_II.label>
+  <ShipChunk_blue_II.description>一大块飞船残骸。可以从里面拆出一些还能使用的钢铁和玻璃钢以及零部件。</ShipChunk_blue_II.description>
+
+  <ShipChunk_gray_I.label>灰色飞船残骸</ShipChunk_gray_I.label>
+  <ShipChunk_gray_I.description>一大块飞船残骸。可以从里面拆出一些银质材料和零部件。</ShipChunk_gray_I.description>
+
+  <ShipChunk_gray_II.label>灰色飞船残骸</ShipChunk_gray_II.label>
+  <ShipChunk_gray_II.description>一大块飞船残骸。可以从里面拆出一些银质材料和零部件。</ShipChunk_gray_II.description>
+
+  <ShipChunk_purple_I.label>紫色飞船残骸</ShipChunk_purple_I.label>
+  <ShipChunk_purple_I.description>一大块飞船残骸。可以从里面拆出一些非常有用的材料。</ShipChunk_purple_I.description>
+
+
+</LanguageData>
