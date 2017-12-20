@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 4: Hi-tech research bench with multi-analyzer -->
+
+  <RimRoads_DirtRoads.label>基础道路工程</RimRoads_DirtRoads.label>
+  <RimRoads_DirtRoads.description>一个小规模工程。我们的殖民者可以学会如何利用更快捷的交通往返定居点之间的运输。</RimRoads_DirtRoads.description>
+
+  <RimRoads_StoneRoads.label>石料路面工程</RimRoads_StoneRoads.label>
+  <RimRoads_StoneRoads.description>学会建造合适、可持续性的石头路面。通过在沉重的石板路下面铺上碎石的深层路基。</RimRoads_StoneRoads.description>
+
+  <RimRoads_AsphaltRoads.label>标准路面工程</RimRoads_AsphaltRoads.label>
+  <RimRoads_AsphaltRoads.description>学会利用沥青、焦油和凸面结构，创造出令人难以置信的巧妙的道路设计。同时能经得起时间的考验。</RimRoads_AsphaltRoads.description>
+
+  <RimRoads_Highways.label>高速公路工程</RimRoads_Highways.label>
+  <RimRoads_Highways.description>这是建筑学上的一次挑战，构建宽阔的高速公路。需要消耗更多的石料与燃料。</RimRoads_Highways.description>
+
+
+</LanguageData>

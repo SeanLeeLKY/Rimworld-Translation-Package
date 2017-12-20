@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimRoads_BuildRoad>修建路段</RimRoads_BuildRoad>
+  <RimRoads_BuildRoadDesc>让你的远行队构建一条路段。</RimRoads_BuildRoadDesc>
+  <RimRoads_BuildRoadFinished>{0}圆满的完成了一条路段。</RimRoads_BuildRoadFinished>
+  <RimRoads_NoRoadsConstructable>无可用的(研究要求)</RimRoads_NoRoadsConstructable>
+  <RimRoads_DeconstructRoad>拆除路段</RimRoads_DeconstructRoad>
+  <RimRoads_DeconstructRoadDesc>移除这个位置的路段。</RimRoads_DeconstructRoadDesc>
+  <RimRoads_DeconstructionFinished>{0}已经成功的拆除了路段。</RimRoads_DeconstructionFinished>
+
+</LanguageData>
