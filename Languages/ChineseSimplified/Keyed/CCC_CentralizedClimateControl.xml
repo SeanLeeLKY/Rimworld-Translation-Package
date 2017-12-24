@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TargetAirFlow>气流</TargetAirFlow>
+
+  <CentralizedClimateControl.PressuredAirStored>压缩空气储存</CentralizedClimateControl.PressuredAirStored>
+  <CentralizedClimateControl.AirFlowOutput>气流量: {0} cc/s</CentralizedClimateControl.AirFlowOutput>
+
+  <CentralizedClimateControl.Efficiency>压缩空气储存</CentralizedClimateControl.Efficiency>
+  <CentralizedClimateControl.AirFlowNetDisconnected>没有连接到空调系统</CentralizedClimateControl.AirFlowNetDisconnected>
+  <CentralizedClimateControl.AirFlowNetConnected>连接到空调系统</CentralizedClimateControl.AirFlowNetConnected>
+  <CentralizedClimateControl.AirType>空气通过: {0}</CentralizedClimateControl.AirType>
+  <CentralizedClimateControl.AirTemperature>空气温度: {0}</CentralizedClimateControl.AirTemperature>
+
+  <CentralizedClimateControl.HotAir>红色空气管道</CentralizedClimateControl.HotAir>
+  <CentralizedClimateControl.ColdAir>蓝色空气管道</CentralizedClimateControl.ColdAir>
+  <CentralizedClimateControl.FrozenAir>青色空气管道</CentralizedClimateControl.FrozenAir>
+  <CentralizedClimateControl.TotalNetworkAir>空气流量共计: {0} cc/s</CentralizedClimateControl.TotalNetworkAir>
+
+  <CentralizedClimateControl.Producer.IntakeTemperature>进气温度: {0}</CentralizedClimateControl.Producer.IntakeTemperature>
+  <CentralizedClimateControl.Producer.TargetTemperature>目标温度: {0}</CentralizedClimateControl.Producer.TargetTemperature>
+  <CentralizedClimateControl.Producer.ConvertedTemperature>转换后温度: {0}</CentralizedClimateControl.Producer.ConvertedTemperature>
+  <CentralizedClimateControl.Producer.TemperatureArrow>转换中: {0} (进气)  ==&gt;  {1} (排气)</CentralizedClimateControl.Producer.TemperatureArrow>
+  <CentralizedClimateControl.Producer.ExhaustBlocked>设备排热受阻</CentralizedClimateControl.Producer.ExhaustBlocked>
+  <CentralizedClimateControl.Producer.IntakeBlocked>设备进气受阻</CentralizedClimateControl.Producer.IntakeBlocked>
+
+  <CentralizedClimateControl.Consumer.ConvertedTemperature>转换后温度: {0}</CentralizedClimateControl.Consumer.ConvertedTemperature>
+  <CentralizedClimateControl.Consumer.Disconnected>排气扇未连接</CentralizedClimateControl.Consumer.Disconnected>
+
+  <CentralizedClimateControl.Producer.IntakeFanPlaceError>进气扇周围必须有空的单元格</CentralizedClimateControl.Producer.IntakeFanPlaceError>
+  <CentralizedClimateControl.Consumer.AirVentPlaceError>排气扇前方必须留有空的单元格</CentralizedClimateControl.Consumer.AirVentPlaceError>
+  <CentralizedClimateControl.Consumer.AirThermalPlaceError>热交换机后方必须留有空的单元格</CentralizedClimateControl.Consumer.AirThermalPlaceError>
+  <CentralizedClimateControl.Consumer.FlowEfficiencyKey>气流效率: {0}</CentralizedClimateControl.Consumer.FlowEfficiencyKey>
+  <CentralizedClimateControl.Consumer.ThermalEfficiencyKey>热交换效率: {0}</CentralizedClimateControl.Consumer.ThermalEfficiencyKey>
+
+  <CentralizedClimateControl.Command.SwitchPipe.Desc>强制建筑连接上特定颜色的管道</CentralizedClimateControl.Command.SwitchPipe.Desc>
+  <CentralizedClimateControl.Command.SwitchPipe.Auto>自动</CentralizedClimateControl.Command.SwitchPipe.Auto>
+  <CentralizedClimateControl.Command.SwitchPipe.Red>红色管道</CentralizedClimateControl.Command.SwitchPipe.Red>
+  <CentralizedClimateControl.Command.SwitchPipe.Blue>蓝色管道</CentralizedClimateControl.Command.SwitchPipe.Blue>
+  <CentralizedClimateControl.Command.SwitchPipe.Cyan>青色管道</CentralizedClimateControl.Command.SwitchPipe.Cyan>
+
+</LanguageData>

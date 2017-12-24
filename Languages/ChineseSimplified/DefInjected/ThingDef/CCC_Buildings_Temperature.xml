@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <IntakeFan.label>进气扇</IntakeFan.label>
+  <IntakeFan.description>一个进气扇。</IntakeFan.description>
+  <IntakeFan_Blueprint.label>进气扇 (蓝图)</IntakeFan_Blueprint.label>
+  <IntakeFan_Blueprint_Install.label>进气扇 (蓝图)</IntakeFan_Blueprint_Install.label>
+  <IntakeFan_Frame.label>进气扇 (建造中)</IntakeFan_Frame.label>
+  <IntakeFan_Frame.description>一个进气扇。</IntakeFan_Frame.description>
+
+  <redAirPipe.label>红色管道</redAirPipe.label>
+  <redAirPipe.description>用于输送空气的红色管道。</redAirPipe.description>
+  <redAirPipe_Blueprint.label>红色管道 (蓝图)</redAirPipe_Blueprint.label>
+  <redAirPipe_Frame.label>红色管道 (建造中)</redAirPipe_Frame.label>
+  <redAirPipe_Frame.description>用于输送空气的红色管道。</redAirPipe_Frame.description>
+
+  <blueAirPipe.label>蓝色管道</blueAirPipe.label>
+  <blueAirPipe.description>用于输送空气的蓝色管道。</blueAirPipe.description>
+  <blueAirPipe_Blueprint.label>蓝色管道 (蓝图)</blueAirPipe_Blueprint.label>
+  <blueAirPipe_Frame.label>蓝色管道 (建造中)</blueAirPipe_Frame.label>
+  <blueAirPipe_Frame.description>用于输送空气的蓝色管道。</blueAirPipe_Frame.description>
+
+  <cyanAirPipe.label>青色管道</cyanAirPipe.label>
+  <cyanAirPipe.description>用于输送空气的青色管道。</cyanAirPipe.description>
+  <cyanAirPipe_Blueprint.label>青色管道 (蓝图)</cyanAirPipe_Blueprint.label>
+  <cyanAirPipe_Frame.label>青色管道 (建造中)</cyanAirPipe_Frame.label>
+  <cyanAirPipe_Frame.description>用于输送空气的青色管道。</cyanAirPipe_Frame.description>
+
+  <AirThermal.label>热交换机</AirThermal.label>
+  <AirThermal.description>一个用于改变空气温度的热交换机。</AirThermal.description>
+  <AirThermal_Blueprint.label>热交换机 (蓝图)</AirThermal_Blueprint.label>
+  <AirThermal_Blueprint_Install.label>热交换机 (蓝图)</AirThermal_Blueprint_Install.label>
+  <AirThermal_Frame.label>热交换机 (建造中)</AirThermal_Frame.label>
+  <AirThermal_Frame.description>一个用于改变空气温度的热交换机。</AirThermal_Frame.description>
+
+  <AirVent.label>排气扇</AirVent.label>
+  <AirVent.description>一个排气扇。</AirVent.description>
+  <AirVent_Blueprint.label>排气扇 (蓝图)</AirVent_Blueprint.label>
+  <AirVent_Frame.label>排气扇 (建造中)</AirVent_Frame.label>
+  <AirVent_Frame.description>一个排气扇。</AirVent_Frame.description>
+
+  <LargeIntakeFan.label>大进气扇</LargeIntakeFan.label>
+  <LargeIntakeFan.description>一个大进气扇。</LargeIntakeFan.description>
+  <LargeIntakeFan_Blueprint.label>大进气扇 (蓝图)</LargeIntakeFan_Blueprint.label>
+  <LargeIntakeFan_Blueprint_Install.label>大进气扇 (蓝图)</LargeIntakeFan_Blueprint_Install.label>
+  <LargeIntakeFan_Frame.label>大进气扇 (建造中)</LargeIntakeFan_Frame.label>
+  <LargeIntakeFan_Frame.description>一个大进气扇。</LargeIntakeFan_Frame.description>
+
+  <LargeAirThermal.label>大型热交换机</LargeAirThermal.label>
+  <LargeAirThermal.description>一个用于改变空气温度的热交换机。</LargeAirThermal.description>
+  <LargeAirThermal_Blueprint.label>大型热交换机 (蓝图)</LargeAirThermal_Blueprint.label>
+  <LargeAirThermal_Blueprint_Install.label>大型热交换机 (蓝图)</LargeAirThermal_Blueprint_Install.label>
+  <LargeAirThermal_Frame.label>大型热交换机 (建造中)</LargeAirThermal_Frame.label>
+  <LargeAirThermal_Frame.description>一个用于改变空气温度的热交换机。</LargeAirThermal_Frame.description>
+
+  <WallAirVent.label>壁挂式排气扇</WallAirVent.label>
+  <WallAirVent.description>一个挂在墙上的排气扇。</WallAirVent.description>
+  <WallAirVent_Blueprint.label>壁挂式排气扇 (蓝图)</WallAirVent_Blueprint.label>
+  <WallAirVent_Frame.label>壁挂式排气扇 (建造中)</WallAirVent_Frame.label>
+  <WallAirVent_Frame.description>一个挂在墙上的排气扇。</WallAirVent_Frame.description>
+
+
+</LanguageData>
