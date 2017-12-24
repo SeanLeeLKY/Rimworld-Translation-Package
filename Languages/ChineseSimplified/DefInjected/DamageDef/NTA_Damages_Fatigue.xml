@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fatigue.label>疲劳</Fatigue.label>
+  <Fatigue.deathMessage>{0}已死于衰竭。</Fatigue.deathMessage>
+
+  <FatigueBuildup.label>疲劳</FatigueBuildup.label>
+  <FatigueBuildup.deathMessage>{0}已死于衰竭。</FatigueBuildup.deathMessage>
+
+  <Extinguisher.label>熄灭</Extinguisher.label>
+
+  <CreamPied.label>奶油馅饼</CreamPied.label>
+  <CreamPied.deathMessage>{0}已死于衰竭。</CreamPied.deathMessage>
+
+
+</LanguageData>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Security Unfirom -->
+
+  <Apparel_NT_Security.label>安保制服</Apparel_NT_Security.label>
+  <Apparel_NT_Security.description>南特拉森安保人员的标准装备。使用加强纳米纤维缝制，能提供额外的防护。</Apparel_NT_Security.description>
+
+
+  <!-- Security Helm -->
+
+  <Apparel_NT_Helmet.label>安保头盔</Apparel_NT_Helmet.label>
+  <Apparel_NT_Helmet.description>南特拉森安保人员的标准头盔。带有前遮面板，以保护佩戴者的面部。</Apparel_NT_Helmet.description>
+
+
+  <!-- Security Beret -->
+
+  <Apparel_NT_Beret.label>安保礼帽</Apparel_NT_Beret.label>
+  <Apparel_NT_Beret.description>南特拉森安保人员的正式服装。当你风度翩翩时还需要防护？</Apparel_NT_Beret.description>
+
+
+  <!-- Security Vest -->
+
+  <Apparel_NT_Vest.label>安保背心</Apparel_NT_Vest.label>
+  <Apparel_NT_Vest.description>南特拉森安保人员的防弹背心。使用了陶瓷电镀技术和内部填充，有助于防御弹道和钝器攻击。</Apparel_NT_Vest.description>
+
+
+  <!-- Riot Gear -->
+
+  <Apparel_NT_RiotGear.label>防爆装备</Apparel_NT_RiotGear.label>
+  <Apparel_NT_RiotGear.description>一套笨重的防暴装备。专业的冲击板能显著降低钝器攻击，使佩戴者几乎不会受到近战伤害。</Apparel_NT_RiotGear.description>
+
+
+  <!-- Riot Helm -->
+
+  <Apparel_NT_RiotHelm.label>防爆头盔</Apparel_NT_RiotHelm.label>
+  <Apparel_NT_RiotHelm.description>重型防暴头盔意味着更好的头部防护，坚固的遮面板可以保护穿戴者的头部免受直接攻击。</Apparel_NT_RiotHelm.description>
+
+
+  <!-- Deathsquad Suit -->
+
+  <Apparel_NT_DeathsquadSuit.label>敢死队套装</Apparel_NT_DeathsquadSuit.label>
+  <Apparel_NT_DeathsquadSuit.description>一种强力气封的外套，配有柔韧的芳纶创伤板能够保护其佩戴者免受最严重的攻击，能够保护佩戴者免受最严重的攻击，锐利和钝伤。 它带有天生的恐惧感，但你不知道为什么。</Apparel_NT_DeathsquadSuit.description>
+
+
+  <!-- Deathsquad Helmet -->
+
+  <Apparel_NT_DeathsquadHelmet.label>敢死队头盔</Apparel_NT_DeathsquadHelmet.label>
+  <Apparel_NT_DeathsquadHelmet.description>一种强力气封的头盔，配有柔韧的芳纶创伤板能够保护其佩戴者免受最严重的攻击，能够保护佩戴者免受最严重的攻击，锐利和钝伤。 它带有天生的恐惧感，但你不知道为什么。</Apparel_NT_DeathsquadHelmet.description>
+
+
+  <!-- !HONK! -->
+
+  <Apparel_NT_HONK.label>小丑服</Apparel_NT_HONK.label>
+  <Apparel_NT_HONK.description>一个看起来非常滑稽臃肿的超大号小丑服。Why is this even out here?</Apparel_NT_HONK.description>
+
+
+  <!-- !!HONK!! -->
+
+  <Apparel_NT_HONKMask.label>小丑帽</Apparel_NT_HONKMask.label>
+  <Apparel_NT_HONKMask.description>一个亮橙色的大号假发，带上它绝对愚蠢至极。Why is this even out here?</Apparel_NT_HONKMask.description>
+
+
+</LanguageData>

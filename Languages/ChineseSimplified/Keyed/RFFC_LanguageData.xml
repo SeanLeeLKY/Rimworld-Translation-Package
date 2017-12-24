@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+	<RFC.FactionControl>派系生成控制</RFC.FactionControl>
+	
+	<RFC.factionCount>世界地图上的派系总数：</RFC.factionCount>
+	<RFC.factionNotes>原版值是5.请注意，这个数字是最小的，因为下面定义的派别计数可能会超过上面定义的数字。 （例如，如果将派系的总数定义为3，但对于外来者派系，部落和海盗派系的最小数量，则每个派系至少定义2个派系，那么在地图上至少会有6个阵营。）另请注意，如果您 禁用下面的所有派别，但不要将上面的数字设置为0，你将最终成为一个只有海盗派别的世界。 你被警告了！</RFC.factionNotes>
+	<RFC.outlanderMin>最少数量的“外来者”派系（如果设置为0，外地派系将被禁用）出现在地图上：</RFC.outlanderMin>
+	<RFC.tribalMin>在地图上出现最少数量的“部落”派系（如果设定为0，部落派系将被禁用）：</RFC.tribalMin>
+	<RFC.customFriendMin>在地图上出现的每个增加友方阵营的最小数量：</RFC.customFriendMin>
+	<RFC.customEnemyMin>在地图上出现每个增加敌对派系的最小数量：</RFC.customEnemyMin>
+	<RFC.pirateMin>最少数量的海盗派系（如果设置为0，海盗派系将被禁用）出现在地图上：</RFC.pirateMin>
+	
+	<RFC.FactionNations>派系集团基地地理位置</RFC.FactionNations>
+	<RFC.FactionNationsTip>如果选中这个选项，每个派系的基础将被组合在世界地图上，而不是随机散布在任何地方。 当然，任何一个派系的领土数量都可以由世界地图规模和世界派系总数决定。 这个选项可以让你更好地模拟真实国家领土的存在，但是可能会让世界生成更久一些。</RFC.FactionNationsTip>
+
+	<RFC.AllowMechanoids>允许机械族</RFC.AllowMechanoids>
+	<RFC.AllowMechanoidsTip>如果你取消了这个选项，机械族(大部分)将会被移除游戏。你不会被他们袭击，除非你真的没有其他敌对势力。你不需要处理毒（飞船）或心灵（飞船）事故。然而，在远古之类的危险房间里，你仍然可以找到机械人，你可能仍然会发现，在寻找目标的时候，你会发现一些机械类的东西。</RFC.AllowMechanoidsTip>
+
+	<RFC.factionDensity>派系基地密度：</RFC.factionDensity>
+	<RFC.factionDensityVeryLow>非常低。 每派基数很少。</RFC.factionDensityVeryLow>
+	<RFC.factionDensityLow>低。</RFC.factionDensityLow>
+	<RFC.factionDensityNormal>正常.（原版）</RFC.factionDensityNormal>
+	<RFC.factionDensityHigh>普通 .</RFC.factionDensityHigh>
+	<RFC.factionDensityVeryHigh>很高。 世界人口密集。</RFC.factionDensityVeryHigh>
+	
+</LanguageData>

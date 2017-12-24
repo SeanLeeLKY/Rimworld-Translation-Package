@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Basic Laser Rifle -->
+
+  <Bullet_Laser_NT.label>激光束</Bullet_Laser_NT.label>
+
+  <Gun_LaserRifle_NT.label>激光步枪</Gun_LaserRifle_NT.label>
+  <Gun_LaserRifle_NT.description>基本激光武器，通过玻璃和薄金属来发射聚焦光束。</Gun_LaserRifle_NT.description>
+
+
+  <!-- Laser Cannon -->
+
+  <Bullet_HeavyLaser_NT.label>强激光束</Bullet_HeavyLaser_NT.label>
+
+  <Gun_LaserCannon_NT.label>激光炮</Gun_LaserCannon_NT.label>
+  <Gun_LaserCannon_NT.description>重型激光武器，会造成严重的灼烧伤害。</Gun_LaserCannon_NT.description>
+
+
+  <!-- Energy Gun -->
+
+  <Bullet_Disabler_NT.label>致命光束</Bullet_Disabler_NT.label>
+
+  <Gun_EnergyGun_NT.label>高能步枪</Gun_EnergyGun_NT.label>
+  <Gun_EnergyGun_NT.description>激光枪的特殊型号，配备了非常致命的聚焦镜头。</Gun_EnergyGun_NT.description>
+
+
+  <!-- Retro Laser Gun -->
+
+  <Bullet_LesserLaser_NT.label>弱激光束</Bullet_LesserLaser_NT.label>
+
+  <Gun_RetroLaserRifle_NT.label>复古激光步枪</Gun_RetroLaserRifle_NT.label>
+  <Gun_RetroLaserRifle_NT.description>旧型号激光步枪，南特拉森的安保人员或军事部队已经废弃的型号。然而它依然相当致命，且易于维护。因此成为海盗和其他非法者的最爱。</Gun_RetroLaserRifle_NT.description>
+
+
+  <!-- Pulse Rifle -->
+
+  <Bullet_PulseLaser_NT.label>脉冲光束</Bullet_PulseLaser_NT.label>
+
+  <Gun_PulseRifle_NT.label>脉冲步枪</Gun_PulseRifle_NT.label>
+  <Gun_PulseRifle_NT.description>一种重型的超荷激光步枪，发射毁灭性的密集光束。它有三个设置，所有的命名为'破坏'。</Gun_PulseRifle_NT.description>
+
+
+  <!-- Combat Shotgun -->
+
+  <Bullet_Buckshot_NT.label>铅弹丸</Bullet_Buckshot_NT.label>
+
+  <Gun_CombatShotgun_NT.label>霰弹枪</Gun_CombatShotgun_NT.label>
+  <Gun_CombatShotgun_NT.description>使用铅丸弹的武器，能够对近距离目标产生毁灭性的打击。</Gun_CombatShotgun_NT.description>
+
+
+  <!-- Sabre SMG -->
+
+  <Bullet_Regular_NT.label>子弹</Bullet_Regular_NT.label>
+
+  <Gun_SaberSMG_NT.label>马刀冲锋枪</Gun_SaberSMG_NT.label>
+  <Gun_SaberSMG_NT.description>南特拉森皇家海军团队的几个设计之一。射速-3，射程-中。</Gun_SaberSMG_NT.description>
+
+
+  <!-- Extinguisher -->
+
+  <Bullet_Extinguish_NT.label>水泡泡</Bullet_Extinguish_NT.label>
+
+  <Gun_Extinguisher_NT.label>灭火器</Gun_Extinguisher_NT.label>
+  <Gun_Extinguisher_NT.description>一个基本的灭火器，有利于熄灭火灾，可以像武器一样携带。</Gun_Extinguisher_NT.description>
+
+  <Gun_BananaPie_NT.label>香蕉奶油馅饼</Gun_BananaPie_NT.label>
+  <Gun_BananaPie_NT.description>一个沾满香蕉奶油的披萨派，你可以试着把它扔出去！</Gun_BananaPie_NT.description>
+
+  <Gun_Toolbox_NT.label>工具箱</Gun_Toolbox_NT.label>
+  <Gun_Toolbox_NT.description>一个装满工具的金属箱，工程师的好伴侣。</Gun_Toolbox_NT.description>
+
+
+  <!-- Flamethrower -->
+
+  <Bullet_Flammenwerfer_NT.label>火焰</Bullet_Flammenwerfer_NT.label>
+
+  <Gun_Flammenwerfer_NT.label>简易的喷火器</Gun_Flammenwerfer_NT.label>
+  <Gun_Flammenwerfer_NT.description>一个使用燃油管线的简易喷火器，燃料罐和点火器组成。</Gun_Flammenwerfer_NT.description>
+
+
+  <!--<Bullet_Pie_NT.label>香蕉奶油馅饼</Bullet_Pie_NT.label>-->
+
+</LanguageData>

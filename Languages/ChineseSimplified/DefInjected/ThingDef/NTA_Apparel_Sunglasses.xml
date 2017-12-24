@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shades -->
+
+  <NT_Sunglasses.label>太阳镜</NT_Sunglasses.label>
+  <NT_Sunglasses.description>一副普通的太阳镜，强光下能很好的保护你的眼镜。</NT_Sunglasses.description>
+
+  <NT_HUDlasses.label>智能镜</NT_HUDlasses.label>
+  <NT_HUDlasses.description>南特拉森安保人员使用的专用太阳镜。内置的HUD用于监测安全数据和犯罪记录。</NT_HUDlasses.description>
+
+
+</LanguageData>

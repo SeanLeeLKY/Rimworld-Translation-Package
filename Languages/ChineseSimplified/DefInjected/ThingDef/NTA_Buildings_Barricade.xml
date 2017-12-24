@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SecurityBarricade.label>安检路障</SecurityBarricade.label>
+  <SecurityBarricade.description>战斗情况下，南特拉森安保人员可以快速部署的路障，能够有效地封锁战场。</SecurityBarricade.description>
+
+
+  <!--<SecurityBarricade_Blueprint_Install.label>安检路障（蓝图）</SecurityBarricade_Blueprint_Install.label>-->
+
+</LanguageData>

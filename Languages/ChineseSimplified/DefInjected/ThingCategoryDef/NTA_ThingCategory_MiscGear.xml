@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Eyeglasses -->
+
+  <NT_Eyewear.label>南特拉森眼镜</NT_Eyewear.label>
+  <NT_Sunglass.label>眼镜</NT_Sunglass.label>
+
+
+  <!-- Footwear -->
+
+  <NT_Accessories.label>南特拉森配件</NT_Accessories.label>
+  <NT_Shoes.label>鞋子</NT_Shoes.label>
+  <NT_Weapons.label>南特拉森武器</NT_Weapons.label>
+  <NT_Apparel.label>南特拉森服装</NT_Apparel.label>
+
+
+</LanguageData>

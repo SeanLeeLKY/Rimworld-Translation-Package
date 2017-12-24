@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <ModSwitch>Mod开关</ModSwitch>
+
+  <ModSwitch.Tip.Create>保存当前Mod设置</ModSwitch.Tip.Create>
+  <ModSwitch.Tip.Delete>删除</ModSwitch.Tip.Delete>
+  <ModSwitch.Tip.Rename>改名</ModSwitch.Tip.Rename>
+  <ModSwitch.Tip.Settings>设置</ModSwitch.Tip.Settings>
+  <ModSwitch.Tip.Undo>卸载</ModSwitch.Tip.Undo>
+  <ModSwitch.Tip.Apply>应用Mod设置</ModSwitch.Tip.Apply>
+
+  <ModSwitch.CreateNew>创建新的</ModSwitch.CreateNew>
+  <ModSwitch.OverwritExisting>覆盖现有...</ModSwitch.OverwritExisting>
+  <ModSwitch.OverwritExisting.Confirm>确定覆盖{0}?
+
+&lt;i&gt;（您可以通过在选择此选项时按住SHIFT来禁止此对话框。）&lt;/i&gt;</ModSwitch.OverwritExisting.Confirm>
+
+  <ModSwitch.SetOrigin>设置Steam来源...</ModSwitch.SetOrigin>
+  <ModSwitch.SetOrigin.Confirm>手动将{0}的蒸汽原件设置为{1}？
+	
+&lt;b&gt;WARNING:&lt;/b&gt; 警告：如果将本地副本同步到更新的蒸汽版本，将蒸汽原始源设置为不正确的值将导致意外的行为。</ModSwitch.SetOrigin.Confirm>
+
+  <ModSwitch.Import>输入</ModSwitch.Import>
+  <ModSwitch.Import.Savegame>保存游戏</ModSwitch.Import.Savegame>
+
+  <ModSwitch.ModSet.Mods>{0}项目</ModSwitch.ModSet.Mods>
+
+  <ModSwitch.ModSet.ConfirmDelete>确定要删除{0}?</ModSwitch.ModSet.ConfirmDelete>
+
+  <ModSwitch.Confirmation.Title>再次确认</ModSwitch.Confirmation.Title>
+
+  <ModSwitch.MissingMods.Title>缺少Mods</ModSwitch.MissingMods.Title>
+  <ModSwitch.MissingMods>一些Mods来自{0}目前尚未启用:</ModSwitch.MissingMods>
+  <ModSwitch.MissingMods.Choice.Ignore>忽略</ModSwitch.MissingMods.Choice.Ignore>
+  <ModSwitch.MissingMods.Choice.Ignore.Tip>忽略缺少的Mods</ModSwitch.MissingMods.Choice.Ignore.Tip>
+  <ModSwitch.MissingMods.Choice.Workshop>取消&amp;打开创意工坊</ModSwitch.MissingMods.Choice.Workshop>
+  <ModSwitch.MissingMods.Choice.Workshop.Tip>不应用Mod设置。而是尝试从创意工坊检索适用的Mod。请记住，这些Mods可能不再可用。</ModSwitch.MissingMods.Choice.Workshop.Tip>
+  <ModSwitch.MissingMods.Choice.Remove>从设置中删除</ModSwitch.MissingMods.Choice.Remove>
+  <ModSwitch.MissingMods.Choice.Remove.Tip>从储存的Mods设置中删除缺少的Mod。</ModSwitch.MissingMods.Choice.Remove.Tip>
+
+  <ModSwitch.Create.DefaultName>新Mod设置</ModSwitch.Create.DefaultName>
+
+  <ModSwitch.Import.Text>要导入设置还是替换现有的设置？</ModSwitch.Import.Text>
+  <ModSwitch.Import.Choice.Replace>替换</ModSwitch.Import.Choice.Replace>
+  <ModSwitch.Import.Choice.Append>导入</ModSwitch.Import.Choice.Append>
+
+  <ModSwitch.Color>颜色</ModSwitch.Color>
+
+  <ModSwitch.Color.white>白色</ModSwitch.Color.white>
+  <ModSwitch.Color.black>黑色</ModSwitch.Color.black>
+  <ModSwitch.Color.gray>灰色</ModSwitch.Color.gray>
+  <ModSwitch.Color.red>红色</ModSwitch.Color.red>
+  <ModSwitch.Color.green>绿色</ModSwitch.Color.green>
+  <ModSwitch.Color.blue>蓝色</ModSwitch.Color.blue>
+  <ModSwitch.Color.magenta>品红色</ModSwitch.Color.magenta>
+  <ModSwitch.Color.cyan>青色</ModSwitch.Color.cyan>
+  <ModSwitch.Color.yellow>黄色</ModSwitch.Color.yellow>
+
+  <ModSwitch.CopyLocal>创建本地复本</ModSwitch.CopyLocal>
+
+  <ModSwitch.Error.SteamNotRunning>目前没有运行/没有可用的Steam。</ModSwitch.Error.SteamNotRunning>
+
+  <ModSwitch.ExistingSettings>已有新的名称{0}。你可以选择覆盖现有设置或者跳过。</ModSwitch.ExistingSettings>
+  <ModSwitch.ExistingSettings.Choice.Overwrite>覆盖</ModSwitch.ExistingSettings.Choice.Overwrite>
+  <ModSwitch.ExistingSettings.Choice.Skip>跳过</ModSwitch.ExistingSettings.Choice.Skip>
+
+  <ModSwitch.Error.InvalidChars>包含无效字符</ModSwitch.Error.InvalidChars>
+  <ModSwitch.Error.TargetExists>目标已经存在</ModSwitch.Error.TargetExists>
+  <ModSwitch.Error.NotValid>不是有效的Mod路径</ModSwitch.Error.NotValid>
+
+  <ModSwitch.CopyLocal.Result.Copy>将Mod从{0}复制到{1}。</ModSwitch.CopyLocal.Result.Copy>&gt;
+  <ModSwitch.CopyLocal.Result.Settings>已复制{0}设置。</ModSwitch.CopyLocal.Result.Settings>&gt;
+  <ModSwitch.CopyLocal.Result.Skipped>跳过复制设置。</ModSwitch.CopyLocal.Result.Skipped>&gt;
+  <ModSwitch.CopyLocal.Result.TimestampUnknown>&lt;b&gt;Warning&lt;/b&gt;:Steam原始上传时间未知 - 同步支持将会降低。</ModSwitch.CopyLocal.Result.TimestampUnknown>
+
+
+  <ModSwitch.MoveTo>移动至……</ModSwitch.MoveTo>
+  <ModSwitch.MoveTo.Top>顶端</ModSwitch.MoveTo.Top>
+  <ModSwitch.MoveTo.Bottom>底端</ModSwitch.MoveTo.Bottom>
+
+  <ModSwitch.OpenFolder>打开文件夹</ModSwitch.OpenFolder>
+
+  <ModSwitch.Sync>与Steam源同步</ModSwitch.Sync>
+  <ModSwitch.Sync.Identical>相同</ModSwitch.Sync.Identical>
+  <ModSwitch.Sync.Message>mod {0}将被更新为当前的Steam版本。
+
+   {1} - Steam上传日期（上次）本地副本
+   {2} - Steam上的当前Steam上传日期
+
+你想保留你的现有设置从本地副本或将其替换为Steam的版本？</ModSwitch.Sync.Message>
+  <ModSwitch.Sync.UnknownTimestamp>未知</ModSwitch.Sync.UnknownTimestamp>
+  <ModSwitch.Sync.Choice.KeepSettings>保持现有</ModSwitch.Sync.Choice.KeepSettings>
+  <ModSwitch.Sync.Choice.CopySteam>用steam替换</ModSwitch.Sync.Choice.CopySteam>
+
+  <ModSwitch.Search.Watermark>搜索...</ModSwitch.Search.Watermark>
+
+  <ModSwitch.Source.SteamCopy>本地Steam拷贝</ModSwitch.Source.SteamCopy>
+
+  <ModSwitch.RestartRequired.Restart>重新开始</ModSwitch.RestartRequired.Restart>
+  <ModSwitch.RestartRequired.Defer>Later</ModSwitch.RestartRequired.Defer>
+
+</LanguageData>
