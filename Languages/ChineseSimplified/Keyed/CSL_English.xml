@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Children_GeneratedChildrenAge_Title>儿童年龄</Children_GeneratedChildrenAge_Title>
+  <Children_GeneratedChildrenAge_Desc>生产儿童时的默认年龄</Children_GeneratedChildrenAge_Desc>
+
+  <GeneratedChildrenInheritPercentage_Title>技能继承 %</GeneratedChildrenInheritPercentage_Title>
+  <GeneratedChildrenInheritPercentage_Desc>继承父母技能的百分比【0%=所有技能等级1】【其他情况(家长1+家长2 技能等级/2)*百分比】【随机技能=正常生成技能】</GeneratedChildrenInheritPercentage_Desc>
+
+  <Children_GeneratedChildrenLearnMinAge_Title>最低学习年龄</Children_GeneratedChildrenLearnMinAge_Title>
+  <Children_GeneratedChildrenLearnMinAge_Desc>在学校学习的最低年龄</Children_GeneratedChildrenLearnMinAge_Desc>
+
+  <Children_GeneratedChildrenLearnMaxAge_Title>最大学习年龄</Children_GeneratedChildrenLearnMaxAge_Title>
+  <Children_GeneratedChildrenLearnMaxAge_Desc>在学校学习的最大年龄</Children_GeneratedChildrenLearnMaxAge_Desc>
+
+  <Children_GeneratedChildrenTeachMinAge_Title>最低教授年龄</Children_GeneratedChildrenTeachMinAge_Title>
+  <Children_GeneratedChildrenTeachMinAge_Desc>最低教授的年龄</Children_GeneratedChildrenTeachMinAge_Desc>
+
+  <Children_GeneratedChildrenChance_Title>基础怀孕概率</Children_GeneratedChildrenChance_Title>
+  <Children_GeneratedChildrenChance_Desc>0 - 100 生育概率</Children_GeneratedChildrenChance_Desc>
+
+  <GeneratedChildrenInheritPercentage_Desc_0>0%</GeneratedChildrenInheritPercentage_Desc_0>
+  <GeneratedChildrenInheritPercentage_Desc_25>25%</GeneratedChildrenInheritPercentage_Desc_25>
+  <GeneratedChildrenInheritPercentage_Desc_50>50%</GeneratedChildrenInheritPercentage_Desc_50>
+  <GeneratedChildrenInheritPercentage_Desc_75>75%</GeneratedChildrenInheritPercentage_Desc_75>
+  <GeneratedChildrenInheritPercentage_Desc_100>100%</GeneratedChildrenInheritPercentage_Desc_100>
+  <GeneratedChildrenInheritPercentage_Desc_RandomSkills>随机技能</GeneratedChildrenInheritPercentage_Desc_RandomSkills>
+
+</LanguageData>

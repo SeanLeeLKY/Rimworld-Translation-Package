@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFGiantGecko.label>巨型辐射蜥</PFGiantGecko.label>
+  <PFGiantGecko.description>一种巨型的变异蜥蜴，它们虽然不是非常强壮，但是行动迅捷，可以迅速的杀死它们的猎物。</PFGiantGecko.description>
+  <!-- Leather Amount: 0 -->
+  <PFGiantGecko_Meat.label>辐射蜥肉</PFGiantGecko_Meat.label>
+  <PFGiantGecko_Meat.description>辐射蜥肉</PFGiantGecko_Meat.description>
+  <PFGiantGecko_Corpse.label>巨型辐射蜥尸体</PFGiantGecko_Corpse.label>
+  <PFGiantGecko_Corpse.description>巨型辐射蜥尸体</PFGiantGecko_Corpse.description>
+
+
+</LanguageData>

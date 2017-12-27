@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFPsycho.label>疯狂药</PFPsycho.label>
+  <PFPsycho.description>一种废弃的军用激素可以增加力量，但会降低心理承受能力，而且这相当容易上瘾。 </PFPsycho.description>
+  <PFPsycho.ingestible.ingestCommandString>注射 {0}</PFPsycho.ingestible.ingestCommandString>
+  <PFPsycho.ingestible.ingestReportString>注射 {0}.</PFPsycho.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_DoSimpleBills.label>做简单的制作工作</SRV_DoSimpleBills.label>
+  <SRV_DoSimpleBills.verb>制作于</SRV_DoSimpleBills.verb>
+  <SRV_DoSimpleBills.gerund>制作于</SRV_DoSimpleBills.gerund>
+
+  <SRV_DoSimpleButcherBills.label>屠宰动物</SRV_DoSimpleButcherBills.label>
+  <SRV_DoSimpleButcherBills.verb>屠宰于</SRV_DoSimpleButcherBills.verb>
+  <SRV_DoSimpleButcherBills.gerund>屠宰于</SRV_DoSimpleButcherBills.gerund>
+
+  <SRV_DoBillsGrill.label>在烤架上烹饪</SRV_DoBillsGrill.label>
+  <SRV_DoBillsGrill.verb>烧烤于</SRV_DoBillsGrill.verb>
+  <SRV_DoBillsGrill.gerund>烧烤于</SRV_DoBillsGrill.gerund>
+
+  <SRV_DoBillsForge.label>在铁砧锻造原材料</SRV_DoBillsForge.label>
+  <SRV_DoBillsForge.verb>锻造于</SRV_DoBillsForge.verb>
+  <SRV_DoBillsForge.gerund>锻造于</SRV_DoBillsForge.gerund>
+
+  <SRV_WorkGiver_TakeItemOutOfProcessor.label>从加工处移除加工物品</SRV_WorkGiver_TakeItemOutOfProcessor.label>
+  <SRV_WorkGiver_TakeItemOutOfProcessor.verb>取出物品</SRV_WorkGiver_TakeItemOutOfProcessor.verb>
+  <SRV_WorkGiver_TakeItemOutOfProcessor.gerund>取出物品</SRV_WorkGiver_TakeItemOutOfProcessor.gerund>
+
+  <SRV_WorkGiver_FillProcessor.label>装填物品</SRV_WorkGiver_FillProcessor.label>
+  <SRV_WorkGiver_FillProcessor.verb>装填</SRV_WorkGiver_FillProcessor.verb>
+  <SRV_WorkGiver_FillProcessor.gerund>装填</SRV_WorkGiver_FillProcessor.gerund>
+
+  <SRV_TendToSmoker.label>照看熏炉</SRV_TendToSmoker.label>
+  <SRV_TendToSmoker.verb>照看</SRV_TendToSmoker.verb>
+  <SRV_TendToSmoker.gerund>照看</SRV_TendToSmoker.gerund>
+
+
+</LanguageData>

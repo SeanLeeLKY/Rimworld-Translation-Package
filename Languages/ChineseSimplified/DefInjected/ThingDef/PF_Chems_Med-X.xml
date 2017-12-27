@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFMedX.label>抗疼宁</PFMedX.label>
+  <PFMedX.description>一种有效的止痛药，类似吗啡，会让使用者忘却剧烈疼痛，这相当容易上瘾。</PFMedX.description>
+  <PFMedX.ingestible.ingestCommandString>注射 {0}</PFMedX.ingestible.ingestCommandString>
+  <PFMedX.ingestible.ingestReportString>注射 {0}.</PFMedX.ingestible.ingestReportString>
+
+
+</LanguageData>

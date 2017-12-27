@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFSuperStimpakHigh.label>超级治疗针提高</PFSuperStimpakHigh.label>
+  <PFSuperStimpakHigh.labelNoun>超级治疗针提高</PFSuperStimpakHigh.labelNoun>
+
+  <PFSuperStimpakTolerance.label>治疗针耐药性</PFSuperStimpakTolerance.label>
+  <PFSuperStimpakTolerance.stages.1.label>小量的</PFSuperStimpakTolerance.stages.1.label>
+  <PFSuperStimpakTolerance.stages.2.label>大量的</PFSuperStimpakTolerance.stages.2.label>
+  <PFSuperStimpakTolerance.stages.3.label>超量的</PFSuperStimpakTolerance.stages.3.label>
+
+  <PFSuperStimpakAddiction.label>超级治疗针成瘾</PFSuperStimpakAddiction.label>
+  <PFSuperStimpakAddiction.stages.1.label>状态消除</PFSuperStimpakAddiction.stages.1.label>
+
+
+</LanguageData>

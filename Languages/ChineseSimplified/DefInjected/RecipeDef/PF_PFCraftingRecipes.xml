@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFMakeHerbalMedsFromHerbs.label>制作草药</PFMakeHerbalMedsFromHerbs.label>
+  <PFMakeHerbalMedsFromHerbs.description>用布拉克花和山德根制作草药。</PFMakeHerbalMedsFromHerbs.description>
+  <PFMakeHerbalMedsFromHerbs.jobString>制作草药</PFMakeHerbalMedsFromHerbs.jobString>
+
+  <PFMakeStimpakFromStuff.label>制作治疗针</PFMakeStimpakFromStuff.label>
+  <PFMakeStimpakFromStuff.description>从山德根和布拉克花中提取化学物质制作治疗针。</PFMakeStimpakFromStuff.description>
+  <PFMakeStimpakFromStuff.jobString>制作治疗针</PFMakeStimpakFromStuff.jobString>
+
+
+</LanguageData>

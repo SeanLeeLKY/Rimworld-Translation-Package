@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_PF9mmSMG.label>9mm弹药</Bullet_PF9mmSMG.label>
+
+  <Gun_PF9mmSMG.label>9mm冲锋枪</Gun_PF9mmSMG.label>
+  <Gun_PF9mmSMG.description>一种轻型的射速很高但是精度很差的冲锋枪，疯狂射击并祈祷能够打中吧。</Gun_PF9mmSMG.description>
+
+  <Bullet_PF10mmSMG.label>10mm弹药</Bullet_PF10mmSMG.label>
+
+  <Gun_PF10mmSMG.label>10mm冲锋枪</Gun_PF10mmSMG.label>
+  <Gun_PF10mmSMG.description>介于重型和轻型之间的冲锋枪，射程中等。 </Gun_PF10mmSMG.description>
+
+  <Bullet_PFSleepyTyme.label>10mm弹药</Bullet_PFSleepyTyme.label>
+
+  <Gun_PFSleepyTyme.label>“寂静时光”冲锋枪</Gun_PFSleepyTyme.label>
+  <Gun_PFSleepyTyme.description>带消音器的10mm冲锋枪。 </Gun_PFSleepyTyme.description>
+
+  <Bullet_PF12_7mmSMG.label>12.7mm弹药</Bullet_PF12_7mmSMG.label>
+
+  <Gun_PF12_7mmSMG.label>12.7mm冲锋枪</Gun_PF12_7mmSMG.label>
+  <Gun_PF12_7mmSMG.description>重型冲锋枪，威力更高，射速降低，还是射不准。 </Gun_PF12_7mmSMG.description>
+
+  <Bullet_PF22SMG.label>.22LR弹药</Bullet_PF22SMG.label>
+
+  <Gun_PF22SMG.label> 消音版.22冲锋枪</Gun_PF22SMG.label>
+  <Gun_PF22SMG.description>一个带有消音器的冲锋枪，它的伤害很小，射程和精度很差，但是具有很高的射速。 </Gun_PF22SMG.description>
+
+
+</LanguageData>

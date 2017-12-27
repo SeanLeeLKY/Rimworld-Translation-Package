@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_VaultJumpsuit.label>避难所连身衣</Apparel_VaultJumpsuit.label>
+  <Apparel_VaultJumpsuit.description>避难所居民穿的标准连体制服。</Apparel_VaultJumpsuit.description>
+
+  <Apparel_ArmVaultJumpsuit.label>避难所连体护甲</Apparel_ArmVaultJumpsuit.label>
+  <Apparel_ArmVaultJumpsuit.description>一套标准的连体防护服，在战斗中保护着它的穿着者。</Apparel_ArmVaultJumpsuit.description>
+
+  <Apparel_PFVaultSecVest.label>避难所保安背心</Apparel_PFVaultSecVest.label>
+  <Apparel_PFVaultSecVest.description>避难所安保人员穿着的防弹背心。</Apparel_PFVaultSecVest.description>
+
+  <PFVaultSecHelmet.label>避难所保安头盔</PFVaultSecHelmet.label>
+  <PFVaultSecHelmet.description>避难所安保人员穿戴的防暴头盔。</PFVaultSecHelmet.description>
+
+  <Apparel_PFVaultSciCoat.label>避难所实验服</Apparel_PFVaultSciCoat.label>
+  <Apparel_PFVaultSciCoat.description>避难所标准实验室外套，为在紧急情况下“最大限度”的保护安全而设计。</Apparel_PFVaultSciCoat.description>
+
+  <Apparel_PFPipboy3000Vault.label>哔哔小子3000</Apparel_PFPipboy3000Vault.label>
+  <Apparel_PFPipboy3000Vault.description>一台基本款的腕带式电脑，它极大的提高了佩戴者的准确性和工作效率。它包含大量的实用程序，包括一个完整的身体状态扫描仪和一个盖革计数器。</Apparel_PFPipboy3000Vault.description>
+
+  <Apparel_PFPipboy2000Vault.label>哔哔小子2000</Apparel_PFPipboy2000Vault.label>
+  <Apparel_PFPipboy2000Vault.description>一台基本款的腕带式电脑，和最新一代的哔哔小子3000相比它计算速度很慢，但是仍然有助于提高佩戴者的准确性和工作效率。</Apparel_PFPipboy2000Vault.description>
+
+
+</LanguageData>

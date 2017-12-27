@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFRawTatos.label>铃薯</PFRawTatos.label>
+  <PFRawTatos.description>马铃薯和西红柿之间的突变杂交品种。它的味道很难吃，煮熟了也不好吃，但在废土上你没法抱怨。</PFRawTatos.description>
+
+  <PFRazorgrain.label>刀片谷</PFRazorgrain.label>
+  <PFRazorgrain.description>小麦遥远的后代，在严酷的废土上也能生长。</PFRazorgrain.description>
+
+  <PFMutfruit.label>变种果</PFMutfruit.label>
+  <PFMutfruit.description>蓝莓的变异后代，它味道很好，无毒，也不会伤害到你，但是必须经由农民精心种植。</PFMutfruit.description>
+
+  <PFTarberry.label>塔莓</PFTarberry.label>
+  <PFTarberry.description>一种类似蔓越莓的紫色的小浆果，它们味道很好，而且除了食用还有别的用途。</PFTarberry.description>
+
+  <PFBarrelCactusFruit.label>仙人掌果实</PFBarrelCactusFruit.label>
+  <PFBarrelCactusFruit.description>一种粘滑的、略带酸味的水果，采摘于圆筒仙人掌。它们不是特别好吃，但在必要的时候算是一种有营养的食物，而且不容易坏。</PFBarrelCactusFruit.description>
+
+  <PFXanderRootItem.label>山德根</PFXanderRootItem.label>
+  <PFXanderRootItem.description>一种类似于萝卜的植物的根，具有温和的治疗作用。当它与布洛克花的花混合时，就能生产出草药或治疗针。</PFXanderRootItem.description>
+
+  <PFBrocFlowerItem.label>布洛克花</PFBrocFlowerItem.label>
+  <PFBrocFlowerItem.description>一种橙色的小花，带有少量的药用价值。当它与山德根混合在一起时，就能产生出草药或治疗针。</PFBrocFlowerItem.description>
+
+  <PFGiantGeckoEgg.label>巨型辐射蜥卵（受精）</PFGiantGeckoEgg.label>
+  <PFGiantGeckoEgg.description>巨型辐射蜥受精卵。如果一切顺利，它应该孵化成一个辐射蜥幼崽。它可以生吃，但煮过味道更好.</PFGiantGeckoEgg.description>
+
+
+</LanguageData>

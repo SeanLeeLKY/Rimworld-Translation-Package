@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_357_Magnum.label>.357弹药</Bullet_357_Magnum.label>
+
+  <Gun_357_Magnum.label>.357马格南</Gun_357_Magnum.label>
+  <Gun_357_Magnum.description>一种半自动左轮手枪，具有较低的威力，但精度高于其兄弟.44马格南。</Gun_357_Magnum.description>
+
+  <Bullet_Lucky.label>.357弹药</Bullet_Lucky.label>
+
+  <Gun_Lucky.label>“幸运”左轮手枪</Gun_Lucky.label>
+  <Gun_Lucky.description>.357半自动左轮手枪的特殊型号，具有更强的威力，准确性和发射速率。</Gun_Lucky.description>
+
+  <Bullet_44_Magnum.label>.44弹药</Bullet_44_Magnum.label>
+
+  <Gun_44_Magnum.label>.44马格南</Gun_44_Magnum.label>
+  <Gun_44_Magnum.description>一种大口径左轮手枪，具有较高的威力，但精度低于其兄弟.357马格南。</Gun_44_Magnum.description>
+
+  <Bullet_MysteriousMagnum.label>.44弹药</Bullet_MysteriousMagnum.label>
+
+  <Gun_MysteriousMagnum.label>“神秘人”左轮手枪</Gun_MysteriousMagnum.label>
+  <Gun_MysteriousMagnum.description>特殊型号的.44马格南，增加了威力，精度和射程。  </Gun_MysteriousMagnum.description>
+
+  <Bullet_PF9mmPistol.label>9mm弹药</Bullet_PF9mmPistol.label>
+
+  <Gun_PF9mmPistol.label>9mm手枪</Gun_PF9mmPistol.label>
+  <Gun_PF9mmPistol.description>一种半自动手枪，是新加州共和国军队的标配自卫武器，在废土上随处可见。</Gun_PF9mmPistol.description>
+
+  <Bullet_Maria.label>9mm弹药</Bullet_Maria.label>
+
+  <Gun_Maria.label>“玛丽亚”自动手枪</Gun_Maria.label>
+  <Gun_Maria.description>9mm半自动手枪特别版，具有更高的伤害和精度。江湖人称"邮差爆头者"。</Gun_Maria.description>
+
+  <Bullet_PF10mmPistol.label>10mm弹药</Bullet_PF10mmPistol.label>
+
+  <Gun_PF10mmPistol.label>10mm 手枪</Gun_PF10mmPistol.label>
+  <Gun_PF10mmPistol.description>N99 10mm手枪，作为军用制式装备列装后，它的前身N80手枪在2051年被淘汰。一种非常耐用的武器，在废土上被广泛的使用。</Gun_PF10mmPistol.description>
+
+  <Bullet_12_7mmPistol.label>12.7mm弹药</Bullet_12_7mmPistol.label>
+
+  <Gun_12_7mmPistol.label>12.7mm手枪</Gun_12_7mmPistol.label>
+  <Gun_12_7mmPistol.description>瑞士SIG-Sauer 14mm手枪，已重新装备12.7毫米弹药。核战前相当普遍，灾后的数量正在慢慢减少。</Gun_12_7mmPistol.description>
+
+  <Bullet_LilDevil.label>12.7mm弹药</Bullet_LilDevil.label>
+
+  <Gun_LilDevil.label>“小恶魔”自动手枪</Gun_LilDevil.label>
+  <Gun_LilDevil.description>特殊型号的12.7mm手枪。</Gun_LilDevil.description>
+
+  <Bullet_HuntingRevolver.label>.45-70军用弹药</Bullet_HuntingRevolver.label>
+
+  <Gun_HuntingRevolver.label>狩猎左轮</Gun_HuntingRevolver.label>
+  <Gun_HuntingRevolver.description>一种大型左轮手枪，发射.45-70军用弹药，它配备了一个2.46x倍瞄准镜。</Gun_HuntingRevolver.description>
+
+  <Bullet_RangerSequoia.label>.45-70军用弹药</Bullet_RangerSequoia.label>
+
+  <Gun_RangerSequoia.label>“游侠红杉”左轮手枪</Gun_RangerSequoia.label>
+  <Gun_RangerSequoia.description>狩猎左轮的特殊型号，作为新加州共和国配发给游骑兵部队的专用武器，只有20年以上服役经验的老游骑兵们才有资格佩带。是废土上威力最强的单手枪械。</Gun_RangerSequoia.description>
+
+  <Bullet_Silenced_22Pistol.label>.22LR子弹 </Bullet_Silenced_22Pistol.label>
+
+  <Gun_Silenced_22Pistol.label>消音.22手枪</Gun_Silenced_22Pistol.label>
+  <Gun_Silenced_22Pistol.description>一把发射.22子弹并集成消声器的手枪。刺客和那些想偷袭安保区域者常用的武器，它威力极低，但高射速和精度弥补了威力的不足。</Gun_Silenced_22Pistol.description>
+
+  <Bullet_556mm_Pistol.label>5.56mm子弹 </Bullet_556mm_Pistol.label>
+
+  <Gun_556_Pistol.label>5.56mm手枪</Gun_556_Pistol.label>
+  <Gun_556_Pistol.description>一种发射5.56毫米弹药的自动左轮手枪，用.223左轮手枪大幅度改良制成。它重达5磅且具有不错的威力，同时相比其他同类左轮手枪具有更高的精度。</Gun_556_Pistol.description>
+
+  <Bullet_That_Gun.label>5.56mm子弹 </Bullet_That_Gun.label>
+
+  <Gun_ThatGun.label>“那”转轮手枪</Gun_ThatGun.label>
+  <Gun_ThatGun.description>5.56mm手枪的一个特殊型号，它非常沉重，精度和威力比它的普通版稍有增加。</Gun_ThatGun.description>
+
+
+</LanguageData>

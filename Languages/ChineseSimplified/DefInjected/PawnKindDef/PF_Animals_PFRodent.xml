@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFMoleRat.label>鼹鼠</PFMoleRat.label>
+  <PFMoleRat.labelPlural>鼹鼠</PFMoleRat.labelPlural>
+  <PFMoleRat.lifeStages.0.label>鼹鼠</PFMoleRat.lifeStages.0.label>
+  <PFMoleRat.lifeStages.0.labelPlural>鼹鼠</PFMoleRat.lifeStages.0.labelPlural>
+  <PFMoleRat.lifeStages.0.labelMale>公鼹鼠</PFMoleRat.lifeStages.0.labelMale>
+  <PFMoleRat.lifeStages.0.labelMalePlural>公鼹鼠</PFMoleRat.lifeStages.0.labelMalePlural>
+  <PFMoleRat.lifeStages.0.labelFemale>母鼹鼠</PFMoleRat.lifeStages.0.labelFemale>
+  <PFMoleRat.lifeStages.0.labelFemalePlural>母鼹鼠</PFMoleRat.lifeStages.0.labelFemalePlural>
+  <PFMoleRat.lifeStages.1.label>鼹鼠</PFMoleRat.lifeStages.1.label>
+  <PFMoleRat.lifeStages.1.labelPlural>鼹鼠</PFMoleRat.lifeStages.1.labelPlural>
+  <PFMoleRat.lifeStages.1.labelMale>公鼹鼠</PFMoleRat.lifeStages.1.labelMale>
+  <PFMoleRat.lifeStages.1.labelMalePlural>公鼹鼠</PFMoleRat.lifeStages.1.labelMalePlural>
+  <PFMoleRat.lifeStages.1.labelFemale>母鼹鼠</PFMoleRat.lifeStages.1.labelFemale>
+  <PFMoleRat.lifeStages.1.labelFemalePlural>母鼹鼠</PFMoleRat.lifeStages.1.labelFemalePlural>
+  <PFMoleRat.lifeStages.2.label>鼹鼠</PFMoleRat.lifeStages.2.label>
+  <PFMoleRat.lifeStages.2.labelPlural>鼹鼠</PFMoleRat.lifeStages.2.labelPlural>
+  <PFMoleRat.lifeStages.2.labelMale>公鼹鼠</PFMoleRat.lifeStages.2.labelMale>
+  <PFMoleRat.lifeStages.2.labelMalePlural>公鼹鼠</PFMoleRat.lifeStages.2.labelMalePlural>
+  <PFMoleRat.lifeStages.2.labelFemale>母鼹鼠</PFMoleRat.lifeStages.2.labelFemale>
+  <PFMoleRat.lifeStages.2.labelFemalePlural>母鼹鼠</PFMoleRat.lifeStages.2.labelFemalePlural>
+  <PFMoleRat.labelMale>公鼹鼠</PFMoleRat.labelMale>
+  <PFMoleRat.labelMalePlural>公鼹鼠</PFMoleRat.labelMalePlural>
+  <PFMoleRat.labelFemale>母鼹鼠</PFMoleRat.labelFemale>
+  <PFMoleRat.labelFemalePlural>母鼹鼠</PFMoleRat.labelFemalePlural>
+
+
+</LanguageData>

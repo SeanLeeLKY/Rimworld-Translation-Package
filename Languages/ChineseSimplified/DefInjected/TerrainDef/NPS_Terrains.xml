@@ -7,6 +7,13 @@
   <TKKN_ColdSpringsWater.label>冷泉</TKKN_ColdSpringsWater.label>
   <TKKN_HotSpringsWater.label>温泉</TKKN_HotSpringsWater.label>
 
+
+  <!-- compatability stuff, remove later -->
+
+  <TKKN_ColdSprings.label>冷泉（旧的不再使用）</TKKN_ColdSprings.label>
+  <TKKN_HotSprings.label>温泉（旧的不再使用）</TKKN_HotSprings.label>
+  <BridgeTKKN_SpringsWater.label>泉水（桥梁下）</BridgeTKKN_SpringsWater.label>
+
   <TKKN_Salted_Earth.label>盐渍土</TKKN_Salted_Earth.label>
   <TKKN_Salted_Earth.description>掺入盐的土壤在很长时间内都无法生长植物。</TKKN_Salted_Earth.description>
 

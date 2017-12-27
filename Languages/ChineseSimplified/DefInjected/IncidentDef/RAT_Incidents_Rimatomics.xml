@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TransformerExplosion.label>变压器爆炸</TransformerExplosion.label>
+  <TransformerExplosion.letterText>电流过载引发了变压器爆炸。</TransformerExplosion.letterText>
+  <TransformerExplosion.letterLabel>变压器爆炸</TransformerExplosion.letterLabel>
+
+  <CrackedFuel.label>燃料棒破裂</CrackedFuel.label>
+  <CrackedFuel.letterText>反应堆核心上的燃料组件由于高压开裂。</CrackedFuel.letterText>
+  <CrackedFuel.letterLabel>燃料棒破裂</CrackedFuel.letterLabel>
+
+  <SteamBurst.label>蒸汽爆发</SteamBurst.label>
+  <SteamBurst.letterText>高强度的气压导致蒸汽管道爆裂。</SteamBurst.letterText>
+  <SteamBurst.letterLabel>蒸汽爆发</SteamBurst.letterLabel>
+
+  <notNothing.label>?</notNothing.label>
+  <notNothing.letterText>?</notNothing.letterText>
+  <notNothing.letterLabel>?</notNothing.letterLabel>
+
+</LanguageData>

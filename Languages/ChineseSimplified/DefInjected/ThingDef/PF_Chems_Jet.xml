@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFJet.label>捷特</PFJet.label>
+  <PFJet.description>使用捷特会使你处于一种改变的意识状态，在这种状态中，时间似乎会慢下来，允许在短时间内比正常情况下做更多的动作，但是它非常容易上瘾.。</PFJet.description>
+  <PFJet.ingestible.ingestCommandString>注射 {0}</PFJet.ingestible.ingestCommandString>
+  <PFJet.ingestible.ingestReportString>注射 {0}.</PFJet.ingestible.ingestReportString>
+
+
+</LanguageData>

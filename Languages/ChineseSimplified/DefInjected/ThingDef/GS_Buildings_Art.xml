@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Sculptures -->
+
+  <GLO_SculptureSmall.label>萤石小雕塑</GLO_SculptureSmall.label>
+  <GLO_SculptureSmall.description>由一块躯干大小的材料塑造而成的萤石艺术品。</GLO_SculptureSmall.description>
+  <GLO_SculptureSmall_Blueprint_Install.label>萤石小雕塑（蓝图）</GLO_SculptureSmall_Blueprint_Install.label>
+
+  <GLO_SculptureLarge.label>萤石大雕塑</GLO_SculptureLarge.label>
+  <GLO_SculptureLarge.description>由一块成人大小的材料塑造而成的萤石艺术品。</GLO_SculptureLarge.description>
+  <GLO_SculptureLarge_Blueprint_Install.label>萤石大雕塑（蓝图）</GLO_SculptureLarge_Blueprint_Install.label>
+
+  <GLO_SculptureGrand.label>萤石宏伟雕塑</GLO_SculptureGrand.label>
+  <GLO_SculptureGrand.description>由汽车大小的材料塑造而成的艺术品。</GLO_SculptureGrand.description>
+  <GLO_SculptureGrand_Blueprint_Install.label>萤石宏伟雕塑（蓝图）</GLO_SculptureGrand_Blueprint_Install.label>
+
+
+  <!-- Special -->
+
+  <GLO_UnfinishedGlowstoneSculpture.label>未完成的萤石雕塑</GLO_UnfinishedGlowstoneSculpture.label>
+  <GLO_MinifiedGlowstoneSculpture.label>雕塑</GLO_MinifiedGlowstoneSculpture.label>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GLO_LargeGlowstone.label>大块萤石</GLO_LargeGlowstone.label>
+  <GLO_LargeGlowstone.description>一大块萤石结晶。虽然这些发光的岩石的安全性值得怀疑，但它们确实提供了大量的光，而不需要电力。</GLO_LargeGlowstone.description>
+
+  <GLO_SmallGlowstone.label>小块萤石</GLO_SmallGlowstone.label>
+  <GLO_SmallGlowstone.description>一小块萤石结晶。虽然这些发光的岩石的安全性值得怀疑，但它们确实提供了大量的光，而不需要电力。</GLO_SmallGlowstone.description>
+
+  <GLO_GlowstoneCluster.label>萤石簇</GLO_GlowstoneCluster.label>
+  <GLO_GlowstoneCluster.description>一团发光的宝石融合在一起。虽然这些发光的岩石的安全性值得怀疑，但它们确实提供了大量的光，而不需要电力。</GLO_GlowstoneCluster.description>
+
+  <GLO_GlowstoneDust.label>萤石粉</GLO_GlowstoneDust.label>
+  <GLO_GlowstoneDust.description>粉末状的萤石。虽然这些发光的岩石的安全性值得怀疑，但它们确实提供了大量的光，而不需要电力。</GLO_GlowstoneDust.description>
+
+  <GLO_GlowstoneTile.label>萤石砖</GLO_GlowstoneTile.label>
+  <GLO_GlowstoneTile.description>一种镀有萤石的铁砖。可用于制造地板条，提供照明。</GLO_GlowstoneTile.description>
+
+  <GLO_Shell_EMP.label>萤石EMP弹</GLO_Shell_EMP.label>
+  <GLO_Shell_EMP.description>装填了电池和萤石粉的，用于在爆炸时产生EMP。电磁脉冲波会暂时性瘫痪电路。可以用迫击炮发射或者安装成一个陷阱。受损后爆炸。</GLO_Shell_EMP.description>
+
+  <GLO_Bullet_Shell_EMP.label>萤石EMP弹</GLO_Bullet_Shell_EMP.label>
+
+
+</LanguageData>

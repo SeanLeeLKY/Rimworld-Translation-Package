@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_Charcoal.label>木炭</SRV_Charcoal.label>
+  <SRV_Charcoal.description>一大块木头被烧焦，只剩下碳。用作烤架和熏炉的燃料。</SRV_Charcoal.description>
+
+  <SRV_JuteFibers.label>黄麻纤维</SRV_JuteFibers.label>
+  <SRV_JuteFibers.description>黄麻茎的长纤维。可以做成麻布或者用于饲养动物。</SRV_JuteFibers.description>
+
+  <SRV_Burlap.label>麻布</SRV_Burlap.label>
+  <SRV_Burlap.description>由植物材料织成的厚纤维布。这种布料贴身穿着会有点痒，最好用于制作外衣。</SRV_Burlap.description>
+  <SRV_Burlap.stuffProps.stuffAdjective>麻布</SRV_Burlap.stuffProps.stuffAdjective>
+
+  <SRV_VinegarJuice.label>醋汁</SRV_VinegarJuice.label>
+  <SRV_VinegarJuice.description>浓缩的果汁，需要经过发酵之后才能变为醋。</SRV_VinegarJuice.description>
+
+  <SRV_CurdledMilk.label>凝乳
+</SRV_CurdledMilk.label>
+  <SRV_CurdledMilk.description>通过醋酸无害凝结的奶。这种物质在奶酪桶中发酵一段时间后成为可食用的奶酪。</SRV_CurdledMilk.description>
+
+  <SRV_Vinegar.label>醋</SRV_Vinegar.label>
+  <SRV_Vinegar.description>一种温和的酸性液体，用于腌菜。</SRV_Vinegar.description>
+
+
+</LanguageData>

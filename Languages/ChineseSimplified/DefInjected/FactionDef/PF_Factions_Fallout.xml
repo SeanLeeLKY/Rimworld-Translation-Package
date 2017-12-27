@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFVaultFaction.label>避难所居民</PFVaultFaction.label>
+  <PFVaultFaction.description>这个星球曾毁于核战争，在灾难发生前有一部分纯种人类躲避到了地下的避难所，在储存的物资即将消耗殆尽时，他们开始同外界的商人进行交易，但他们依旧不相信外界受过辐射污染的人类。他们配备有统一的套装，最常见的是避难所连体服，并且手持火药和激光武器。</PFVaultFaction.description>
+  <PFVaultFaction.pawnsPlural>避难所居民</PFVaultFaction.pawnsPlural>
+  <PFVaultFaction.leaderTitle>监督者</PFVaultFaction.leaderTitle>
+
+
+</LanguageData>

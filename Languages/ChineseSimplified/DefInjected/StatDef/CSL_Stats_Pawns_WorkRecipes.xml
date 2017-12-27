@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Learning -->
+
+  <SchoolLearnGeneralEfficiency.label>全局学习效率</SchoolLearnGeneralEfficiency.label>
+  <SchoolLearnGeneralEfficiency.description>学习所有科目时的效率乘数。</SchoolLearnGeneralEfficiency.description>
+
+  <SchoolLearnGeneralSpeed.label>全局学习速度</SchoolLearnGeneralSpeed.label>
+  <SchoolLearnGeneralSpeed.description>学习所有科目时的速度。</SchoolLearnGeneralSpeed.description>
+
+
+  <!-- Teaching -->
+
+  <SchoolTeachGeneralEfficiency.label>全局教授效率</SchoolTeachGeneralEfficiency.label>
+  <SchoolTeachGeneralEfficiency.description>教授所有科目时的效率乘数。</SchoolTeachGeneralEfficiency.description>
+
+  <SchoolTeachGeneralSpeed.label>全局教授速度</SchoolTeachGeneralSpeed.label>
+  <SchoolTeachGeneralSpeed.description>教授所有科目时的速度。</SchoolTeachGeneralSpeed.description>
+
+
+</LanguageData>

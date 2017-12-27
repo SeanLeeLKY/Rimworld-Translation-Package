@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFVaultDweller.label>避难所居民</PFVaultDweller.label>
+  <PFVaultDweller.labelPlural>避难所居民</PFVaultDweller.labelPlural>
+
+  <PFVaultScientist.label>避难所科学家</PFVaultScientist.label>
+  <PFVaultScientist.labelPlural>避难所科学家</PFVaultScientist.labelPlural>
+
+  <PFVaultOverseer.label>避难所监督者</PFVaultOverseer.label>
+  <PFVaultOverseer.labelPlural>避难所监督者</PFVaultOverseer.labelPlural>
+
+  <PFVaultMerchant.label>避难所商人</PFVaultMerchant.label>
+  <PFVaultMerchant.labelPlural>避难所商人</PFVaultMerchant.labelPlural>
+
+  <PFVaultSecurityGuard.label>避难所保安</PFVaultSecurityGuard.label>
+  <PFVaultSecurityGuard.labelPlural>避难所保安</PFVaultSecurityGuard.labelPlural>
+
+
+</LanguageData>

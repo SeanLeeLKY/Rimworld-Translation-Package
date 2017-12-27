@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFLaserBurn.label>激光烧伤</PFLaserBurn.label>
+  <PFLaserBurn.comps.0.labelTendedWell>包扎</PFLaserBurn.comps.0.labelTendedWell>
+  <PFLaserBurn.comps.0.labelTendedWellInner>已处理过的</PFLaserBurn.comps.0.labelTendedWellInner>
+  <PFLaserBurn.comps.0.labelSolidTendedWell>已处理过的</PFLaserBurn.comps.0.labelSolidTendedWell>
+  <PFLaserBurn.comps.2.oldLabel>激光烧伤疤痕</PFLaserBurn.comps.2.oldLabel>
+  <PFLaserBurn.injuryProps.destroyedLabel>解体</PFLaserBurn.injuryProps.destroyedLabel>
+  <PFLaserBurn.injuryProps.destroyedOutLabel>焚烧</PFLaserBurn.injuryProps.destroyedOutLabel>
+
+  <PFPlasmaBurn.label>电浆烧伤</PFPlasmaBurn.label>
+  <PFPlasmaBurn.comps.0.labelTendedWell>包扎</PFPlasmaBurn.comps.0.labelTendedWell>
+  <PFPlasmaBurn.comps.0.labelTendedWellInner>已处理过的</PFPlasmaBurn.comps.0.labelTendedWellInner>
+  <PFPlasmaBurn.comps.0.labelSolidTendedWell>已处理过的</PFPlasmaBurn.comps.0.labelSolidTendedWell>
+  <PFPlasmaBurn.comps.2.oldLabel>电浆烧伤疤痕</PFPlasmaBurn.comps.2.oldLabel>
+  <PFPlasmaBurn.injuryProps.destroyedLabel>溶解</PFPlasmaBurn.injuryProps.destroyedLabel>
+  <PFPlasmaBurn.injuryProps.destroyedOutLabel>溶化</PFPlasmaBurn.injuryProps.destroyedOutLabel>
+
+  <PFShishBurn.label>穿刺烧伤</PFShishBurn.label>
+  <PFShishBurn.comps.0.labelTendedWell>包扎</PFShishBurn.comps.0.labelTendedWell>
+  <PFShishBurn.comps.0.labelTendedWellInner>已处理过的</PFShishBurn.comps.0.labelTendedWellInner>
+  <PFShishBurn.comps.0.labelSolidTendedWell>已处理过的</PFShishBurn.comps.0.labelSolidTendedWell>
+  <PFShishBurn.comps.2.oldLabel>旧烙伤</PFShishBurn.comps.2.oldLabel>
+  <PFShishBurn.injuryProps.destroyedLabel>切断</PFShishBurn.injuryProps.destroyedLabel>
+  <PFShishBurn.injuryProps.destroyedOutLabel>切除</PFShishBurn.injuryProps.destroyedOutLabel>
+
+  <PFScorpionSting.label>辐射蝎蜇刺</PFScorpionSting.label>
+  <PFScorpionSting.comps.0.labelTendedWell>已包扎</PFScorpionSting.comps.0.labelTendedWell>
+  <PFScorpionSting.comps.0.labelTendedWellInner>已缝合</PFScorpionSting.comps.0.labelTendedWellInner>
+  <PFScorpionSting.comps.0.labelSolidTendedWell>已固定</PFScorpionSting.comps.0.labelSolidTendedWell>
+  <PFScorpionSting.comps.2.oldLabel>毒刺蜇伤疤痕</PFScorpionSting.comps.2.oldLabel>
+  <PFScorpionSting.injuryProps.destroyedLabel>被切除</PFScorpionSting.injuryProps.destroyedLabel>
+  <PFScorpionSting.injuryProps.destroyedOutLabel>被切除</PFScorpionSting.injuryProps.destroyedOutLabel>
+
+
+</LanguageData>

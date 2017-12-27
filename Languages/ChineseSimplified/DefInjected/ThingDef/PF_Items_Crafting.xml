@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFFocusLens.label>聚光镜</PFFocusLens.label>
+  <PFFocusLens.description>高度聚焦于聚光光束的透镜。它用于镭射武器的生产。</PFFocusLens.description>
+
+  <PFSuperconductor.label>超导体</PFSuperconductor.label>
+  <PFSuperconductor.description>一种没有电阻的导电材料，在枪管中使用时，可以稳定弹药的磁性。它用于生产等离子武器。</PFSuperconductor.description>
+
+  <PFEmptySyringe.label>空的注射器</PFEmptySyringe.label>
+  <PFEmptySyringe.description>一个空的注射器，可以用来制造治疗针（以及其他的新式化学配方）。</PFEmptySyringe.description>
+
+  <PFHardenedLeather.label>硬化皮革</PFHardenedLeather.label>
+  <PFHardenedLeather.description>用于轻型装甲加固的皮革。（目前仅能用于制作避难所护甲）</PFHardenedLeather.description>
+
+
+  <!--<FocusLens.label>聚光镜</FocusLens.label>-->
+  <!--<FocusLens.description>高度聚焦于聚光光束的透镜。它用于镭射武器的生产。</FocusLens.description>-->
+  <!--<Superconductor.label>超导体</Superconductor.label>-->
+  <!--<Superconductor.description>一种没有电阻的导电材料，在枪管中使用时，可以稳定弹药的磁性。它用于生产等离子武器。</Superconductor.description>-->
+  <!--<HardenedLeather.label>硬化皮革</HardenedLeather.label>-->
+  <!--<HardenedLeather.description>用于轻型装甲加固的皮革。</HardenedLeather.description>-->
+
+</LanguageData>

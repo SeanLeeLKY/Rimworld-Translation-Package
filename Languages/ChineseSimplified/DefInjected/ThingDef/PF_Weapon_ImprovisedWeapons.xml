@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_PFRockItLauncher.label>垃圾</Bullet_PFRockItLauncher.label>
+
+  <Gun_PFRockItLauncher.label>垃圾发射器</Gun_PFRockItLauncher.label>
+  <Gun_PFRockItLauncher.description>一把喷射垃圾的简陋发射器。</Gun_PFRockItLauncher.description>
+
+  <Bullet_PFJunkJet.label>垃圾</Bullet_PFJunkJet.label>
+
+  <Gun_PFJunkjet.label>垃圾喷射机</Gun_PFJunkjet.label>
+  <Gun_PFJunkjet.description>一把喷射垃圾的简陋炮筒。</Gun_PFJunkjet.description>
+
+
+</LanguageData>

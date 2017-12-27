@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Proj_PFThrowableDynamite.label>雷管</Proj_PFThrowableDynamite.label>
+
+  <Throwable_PFDynamite.label>雷管</Throwable_PFDynamite.label>
+  <Throwable_PFDynamite.description>老式炸药棒。</Throwable_PFDynamite.description>
+  <Throwable_PFDynamite.verbs.0.label>扔雷管。</Throwable_PFDynamite.verbs.0.label>
+
+  <Proj_ThrowableLFDynamite.label>长引线雷管</Proj_ThrowableLFDynamite.label>
+
+  <Throwable_LFDynamite.label>长引线雷管</Throwable_LFDynamite.label>
+  <Throwable_LFDynamite.description>老式炸药棒，带有较长的引线。</Throwable_LFDynamite.description>
+  <Throwable_LFDynamite.verbs.0.label>扔长引线雷管。</Throwable_LFDynamite.verbs.0.label>
+
+  <Proj_PFThrowablePulseGrenade.label>脉冲手雷</Proj_PFThrowablePulseGrenade.label>
+
+  <Throwable_PFPulseGrenade.label>脉冲手雷</Throwable_PFPulseGrenade.label>
+  <Throwable_PFPulseGrenade.description>这枚手榴弹引爆时会释放出一种很强的电磁脉冲来破坏机器人和电子设备。</Throwable_PFPulseGrenade.description>
+  <Throwable_PFPulseGrenade.verbs.0.label>扔脉冲手雷</Throwable_PFPulseGrenade.verbs.0.label>
+
+  <Proj_PFThrowablePlasmaGrenade.label>电浆手雷</Proj_PFThrowablePlasmaGrenade.label>
+
+  <Throwable_PFPlasmaGrenade.label>电浆手雷</Throwable_PFPlasmaGrenade.label>
+  <Throwable_PFPlasmaGrenade.description>一个强大的手榴弹，手榴弹碎片超标。它携带的能量和碎片配合起来可以完全融化在它的爆炸范围内的一切。</Throwable_PFPlasmaGrenade.description>
+  <Throwable_PFPlasmaGrenade.verbs.0.label>扔电浆手雷</Throwable_PFPlasmaGrenade.verbs.0.label>
+
+
+</LanguageData>

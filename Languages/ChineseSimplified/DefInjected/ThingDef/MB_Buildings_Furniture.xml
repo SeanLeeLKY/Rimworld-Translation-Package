@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Mending_Bed.label>修补床</Mending_Bed.label>
+  <Mending_Bed.description>在修补床上休息时，消耗电力缓慢修复装备服装/武器的耐久。</Mending_Bed.description>
+  <Mending_Bed_Blueprint.label>修补床（蓝图）</Mending_Bed_Blueprint.label>
+  <Mending_Bed_Blueprint_Install.label>修补床（蓝图）</Mending_Bed_Blueprint_Install.label>
+  <Mending_Bed_Frame.label>修补床（建造中）</Mending_Bed_Frame.label>
+  <Mending_Bed_Frame.description>在修补床上休息时，消耗电力缓慢修复装备服装/武器的耐久。</Mending_Bed_Frame.description>
+
+  <Mending_DoubleBed.label>双人修补床</Mending_DoubleBed.label>
+  <Mending_DoubleBed.description>一张单人床，在框架上铺了舒适的床垫和床单用于休息。消耗电力缓慢修复装备服装/武器的耐久。</Mending_DoubleBed.description>
+  <Mending_DoubleBed_Blueprint.label>双人修补床（蓝图）</Mending_DoubleBed_Blueprint.label>
+  <Mending_DoubleBed_Blueprint_Install.label>双人修补床（蓝图）</Mending_DoubleBed_Blueprint_Install.label>
+  <Mending_DoubleBed_Frame.label>双人修补床（建造中）</Mending_DoubleBed_Frame.label>
+  <Mending_DoubleBed_Frame.description>一张单人床，在框架上铺了舒适的床垫和床单用于休息。消耗电力缓慢修复装备服装/武器的耐久。</Mending_DoubleBed_Frame.description>
+
+  <Mending_RoyalBed.label>豪华双人修补床</Mending_RoyalBed.label>
+  <Mending_RoyalBed.description>一张给贵族使用的豪华的，镶金边的床。非常舒适和漂亮。消耗电力缓慢修复装备服装/武器的耐久。</Mending_RoyalBed.description>
+  <Mending_RoyalBed_Blueprint.label>豪华双人修补床（蓝图）</Mending_RoyalBed_Blueprint.label>
+  <Mending_RoyalBed_Blueprint_Install.label>豪华双人修补床（蓝图）</Mending_RoyalBed_Blueprint_Install.label>
+  <Mending_RoyalBed_Frame.label>豪华双人修补床（建造中）</Mending_RoyalBed_Frame.label>
+  <Mending_RoyalBed_Frame.description>一张给贵族使用的豪华的，镶金边的床。非常舒适和漂亮。消耗电力缓慢修复装备服装/武器的耐久。</Mending_RoyalBed_Frame.description>
+
+  <Mending_HospitalBed.label>医疗修补床</Mending_HospitalBed.label>
+  <Mending_HospitalBed.description>一张专为伤员设计的床。可以增加治疗的成功率。消耗电力缓慢修复装备服装/武器的耐久。</Mending_HospitalBed.description>
+  <Mending_HospitalBed_Blueprint.label>医疗修补床（蓝图）</Mending_HospitalBed_Blueprint.label>
+  <Mending_HospitalBed_Blueprint_Install.label>医疗修补床（蓝图）</Mending_HospitalBed_Blueprint_Install.label>
+  <Mending_HospitalBed_Frame.label>医疗修补床（建造中）</Mending_HospitalBed_Frame.label>
+  <Mending_HospitalBed_Frame.description>一张专为伤员设计的床。可以增加治疗的成功率。消耗电力缓慢修复装备服装/武器的耐久。</Mending_HospitalBed_Frame.description>
+
+
+</LanguageData>

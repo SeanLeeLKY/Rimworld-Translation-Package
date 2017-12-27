@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SchoolTable.label>课桌</SchoolTable.label>
+  <SchoolTable.description>一个课桌用于学习。</SchoolTable.description>
+  <SchoolTable_Blueprint.label>课桌（蓝图）</SchoolTable_Blueprint.label>
+  <SchoolTable_Frame.label>课桌（建造中）</SchoolTable_Frame.label>
+  <SchoolTable_Frame.description>一个课桌用于学习。</SchoolTable_Frame.description>
+
+
+</LanguageData>

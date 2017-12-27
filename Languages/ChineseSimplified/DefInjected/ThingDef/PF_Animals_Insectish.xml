@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFRadscorpion.label>辐射蝎</PFRadscorpion.label>
+  <PFRadscorpion.description>因为受到辐射而变得巨大的变异蝎子。</PFRadscorpion.description>
+  <!-- Leather Amount: 0 -->
+  <PFRadscorpion_Meat.label>辐射蝎肉</PFRadscorpion_Meat.label>
+  <PFRadscorpion_Meat.description>辐射蝎肉</PFRadscorpion_Meat.description>
+  <PFRadscorpion_Corpse.label>辐射蝎尸体</PFRadscorpion_Corpse.label>
+  <PFRadscorpion_Corpse.description>辐射蝎尸体</PFRadscorpion_Corpse.description>
+
+  <PFRadroach.label>辐射蟑螂</PFRadroach.label>
+  <PFRadroach.description>因为受到辐射而变得巨型的变异蟑螂。</PFRadroach.description>
+  <!-- Leather Amount: 0 -->
+  <PFRadroach_Meat.label>辐射蟑螂肉</PFRadroach_Meat.label>
+  <PFRadroach_Meat.description>辐射蟑螂肉</PFRadroach_Meat.description>
+  <PFRadroach_Corpse.label>辐射蟑螂肉尸体</PFRadroach_Corpse.label>
+  <PFRadroach_Corpse.description>辐射蟑螂肉尸体</PFRadroach_Corpse.description>
+
+
+</LanguageData>

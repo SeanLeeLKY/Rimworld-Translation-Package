@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFGifted.degreeDatas.0.label>天才</PFGifted.degreeDatas.0.label>
+  <PFGifted.degreeDatas.0.description>NAME从出生开始就是特殊的，并拥有许多强大的技能,.HECAP不屑去学习新知识, 哼，凡人的智慧。</PFGifted.degreeDatas.0.description>
+
+  <PFIntenseTraining.degreeDatas.0.label>训练狂</PFIntenseTraining.degreeDatas.0.label>
+  <PFIntenseTraining.degreeDatas.0.description>NAME出生时就慢人一步，不过那是以前的事了. HECAP会非常努力地跟上其他人, 最终会在每个领域变得更加熟练.</PFIntenseTraining.degreeDatas.0.description>
+
+  <PFGoodNatured.degreeDatas.0.label>和善</PFGoodNatured.degreeDatas.0.label>
+  <PFGoodNatured.degreeDatas.0.description>NAME一向彬彬有礼，HECAP总向每个人展示出最好的一面。这意味着HECAP也很少打架.</PFGoodNatured.degreeDatas.0.description>
+
+  <PFSmoothTalker.degreeDatas.0.label>健谈</PFSmoothTalker.degreeDatas.0.label>
+  <PFSmoothTalker.degreeDatas.0.description>NAME知道该说什么，什么时候说，使谈判和对话变得轻而易举.</PFSmoothTalker.degreeDatas.0.description>
+  <PFSmoothTalker.degreeDatas.1.label>销售员</PFSmoothTalker.degreeDatas.1.label>
+  <PFSmoothTalker.degreeDatas.1.description>NAME很擅长销售，HECAP对交易砍价很熟练，这的确能让人致富.</PFSmoothTalker.degreeDatas.1.description>
+
+  <PFIdiotSavant.degreeDatas.0.label>白痴学者</PFIdiotSavant.degreeDatas.0.label>
+  <PFIdiotSavant.degreeDatas.0.description>关于NAME. HECAP似乎不是很聪明，却不知何故学起技能来特别快.</PFIdiotSavant.degreeDatas.0.description>
+
+  <PFAnimalFriend.degreeDatas.0.label>动物之友</PFAnimalFriend.degreeDatas.0.label>
+  <PFAnimalFriend.degreeDatas.0.description>NAME似乎能和动物交流，HECAP拥有令动物亲近的能力，包括宠物和野生.</PFAnimalFriend.degreeDatas.0.description>
+
+  <PFNerdRage.degreeDatas.0.label>书虫大反击</PFNerdRage.degreeDatas.0.label>
+  <PFNerdRage.degreeDatas.0.description>书呆子也会生气!老虎不发威当我是HelloKitty？而NAME就是一个最好的例子.</PFNerdRage.degreeDatas.0.description>
+
+  <PFCarrying.degreeDatas.0.label>小巧玲珑</PFCarrying.degreeDatas.0.label>
+  <PFCarrying.degreeDatas.0.description>NAME身体很轻盈，虽然可以跑得更快，但体质较弱.</PFCarrying.degreeDatas.0.description>
+  <PFCarrying.degreeDatas.1.label>虎背熊腰</PFCarrying.degreeDatas.1.label>
+  <PFCarrying.degreeDatas.1.description>NAME的背部很强壮，HECAP能携带很多东西</PFCarrying.degreeDatas.1.description>
+  <PFCarrying.degreeDatas.2.label>驮鼠</PFCarrying.degreeDatas.2.label>
+  <PFCarrying.degreeDatas.2.description>NAME就是要成为废土破烂王的男人.</PFCarrying.degreeDatas.2.description>
+
+  <PFWhiskeyRose.degreeDatas.0.label>威士忌与玫瑰</PFWhiskeyRose.degreeDatas.0.label>
+  <PFWhiskeyRose.degreeDatas.0.description>NAME喜欢喝酒，也喜欢射击， 这两个结合起来似乎并不是好主意，不知道是什么工作原理呢...</PFWhiskeyRose.degreeDatas.0.description>
+
+  <PFMaintenance.degreeDatas.0.label>打杂</PFMaintenance.degreeDatas.0.label>
+  <PFMaintenance.degreeDatas.0.description>NAME能快速地将一些东西组装在一起，看起来挺不错的.</PFMaintenance.degreeDatas.0.description>
+  <PFMaintenance.degreeDatas.1.label>建造师</PFMaintenance.degreeDatas.1.label>
+  <PFMaintenance.degreeDatas.1.description>NAME有一手好技术，并有建设各种东西的经验.</PFMaintenance.degreeDatas.1.description>
+  <PFMaintenance.degreeDatas.2.label>工程师</PFMaintenance.degreeDatas.2.label>
+  <PFMaintenance.degreeDatas.2.description>NAME精通各种制作和建设，能够以高品质快速完成项目.</PFMaintenance.degreeDatas.2.description>
+
+  <PFSocialRelation.degreeDatas.0.label>鼓舞人心</PFSocialRelation.degreeDatas.0.label>
+  <PFSocialRelation.degreeDatas.0.description>NAME倾向于激励其HECAP人，人们都很喜欢HECAP.</PFSocialRelation.degreeDatas.0.description>
+  <PFSocialRelation.degreeDatas.1.label>领导</PFSocialRelation.degreeDatas.1.label>
+  <PFSocialRelation.degreeDatas.1.description>NAME是一个天生的领导者，人们总是倾向于跟随HECAP.</PFSocialRelation.degreeDatas.1.description>
+
+  <PFMedical.degreeDatas.0.label>小护士</PFMedical.degreeDatas.0.label>
+  <PFMedical.degreeDatas.0.description>NAME学习过护理，HECAP医术虽然没有训练有素的医生好，但是你真的以为护士是用来救人的吗？</PFMedical.degreeDatas.0.description>
+  <PFMedical.degreeDatas.1.label>医生</PFMedical.degreeDatas.1.label>
+  <PFMedical.degreeDatas.1.description>NAME精通医学，并知道如何抢救重伤者.</PFMedical.degreeDatas.1.description>
+  <PFMedical.degreeDatas.2.label>妙手回春</PFMedical.degreeDatas.2.label>
+  <PFMedical.degreeDatas.2.description>NAME是一个医学奇才，救难英雄,能够熟练担当医疗工作，几乎从来也许可能没有在HECAP的照顾下死亡的病人.</PFMedical.degreeDatas.2.description>
+
+  <PFSurvival.degreeDatas.0.label>生存专家</PFSurvival.degreeDatas.0.label>
+  <PFSurvival.degreeDatas.0.description>NAME经历过死里逃生，并已适应了地狱般生存环境，或多或少.</PFSurvival.degreeDatas.0.description>
+
+  <PFMelee.degreeDatas.0.label>铁拳</PFMelee.degreeDatas.0.label>
+  <PFMelee.degreeDatas.0.description>NAME拥有一双沙煲那么大的拳头，不过HECAP更喜欢掏出大刀往敌人头上砍去.</PFMelee.degreeDatas.0.description>
+
+
+</LanguageData>

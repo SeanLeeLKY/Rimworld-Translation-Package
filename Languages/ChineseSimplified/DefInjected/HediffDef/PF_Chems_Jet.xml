@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFBoosted.label>捷特提高</PFBoosted.label>
+  <PFBoosted.labelNoun>捷特提高</PFBoosted.labelNoun>
+
+  <PFJetTolerance.label>捷特耐药性</PFJetTolerance.label>
+  <PFJetTolerance.stages.1.label>小量的</PFJetTolerance.stages.1.label>
+  <PFJetTolerance.stages.2.label>大量的</PFJetTolerance.stages.2.label>
+  <PFJetTolerance.stages.3.label>超量的</PFJetTolerance.stages.3.label>
+
+  <PFJetAddiction.label>捷特成瘾</PFJetAddiction.label>
+  <PFJetAddiction.stages.1.label>状态消除</PFJetAddiction.stages.1.label>
+
+
+</LanguageData>

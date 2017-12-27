@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFVATSImplant.label>VATS辅助瞄准系统芯片</PFVATSImplant.label>
+  <PFVATSImplant.description>一种可以直接植入使用者大脑的VATS辅助瞄准系统芯片。</PFVATSImplant.description>
+
+  <PFAgilityImplant.label>敏捷芯片</PFAgilityImplant.label>
+  <PFAgilityImplant.description>一种高级反射增强器芯片，增强了使用者的敏捷性，允许他们更快的移动和反应。</PFAgilityImplant.description>
+
+  <PFCharismaImplant.label>魅力芯片</PFCharismaImplant.label>
+  <PFCharismaImplant.description>一种先进的移情合成器芯片，增强使用者的魅力，让他们更容易的进行谈判和说服。</PFCharismaImplant.description>
+
+  <PFEnduranceImplant.label>耐力芯片</PFEnduranceImplant.label>
+  <PFEnduranceImplant.description>一种先进的伤害性感受器芯片，增强使用者的承受能力，让他们可以忍受痛苦，更容易克服疾病或感染。</PFEnduranceImplant.description>
+
+  <PFIntelligenceImplant.label>智力芯片</PFIntelligenceImplant.label>
+  <PFIntelligenceImplant.description>一种先进的逻辑协处理器芯片，增强使用者的智力，使他们能够更迅速地学习新的技能和加快他们的心理过程。</PFIntelligenceImplant.description>
+
+  <PFPerceptionImplant.label>感知芯片</PFPerceptionImplant.label>
+  <PFPerceptionImplant.description>一种先进的光学增强芯片，增强使用者的感知，让他们看的更清楚，射击更精确。</PFPerceptionImplant.description>
+
+  <PFStrengthImplant.label>力量芯片</PFStrengthImplant.label>
+  <PFStrengthImplant.description>一种先进的强化加速器芯片，增强使用者的力量，让他们举起和搬运更重的东西。</PFStrengthImplant.description>
+
+  <PFPMBImplant.label>菲尼克斯单核细胞增殖芯片</PFPMBImplant.label>
+  <PFPMBImplant.description>一种先进的芯片，增强使用者的代谢效率和过滤血液能力，让他们从疾病中康复，并吃的更少。</PFPMBImplant.description>
+
+
+</LanguageData>

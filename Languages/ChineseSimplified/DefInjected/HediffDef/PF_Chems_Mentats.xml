@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFKeen.label>曼他特促进</PFKeen.label>
+  <PFKeen.labelNoun>曼他特促进</PFKeen.labelNoun>
+
+  <PFMentatsTolerance.label>曼他特耐药性</PFMentatsTolerance.label>
+  <PFMentatsTolerance.stages.1.label>小量的</PFMentatsTolerance.stages.1.label>
+  <PFMentatsTolerance.stages.2.label>大量的</PFMentatsTolerance.stages.2.label>
+  <PFMentatsTolerance.stages.3.label>超量的</PFMentatsTolerance.stages.3.label>
+
+  <PFMentatsAddiction.label>曼他特成瘾</PFMentatsAddiction.label>
+  <PFMentatsAddiction.stages.1.label>状态消除</PFMentatsAddiction.stages.1.label>
+
+
+</LanguageData>

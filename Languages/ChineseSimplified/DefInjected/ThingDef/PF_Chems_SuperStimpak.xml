@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFSuperStimpak.label>超级治疗针</PFSuperStimpak.label>
+  <PFSuperStimpak.description>一种含有高质量的药物的注射器，能迅速治疗能迅速治疗伤口、疤痕和感染。</PFSuperStimpak.description>
+  <PFSuperStimpak.ingestible.ingestCommandString>注射 {0}</PFSuperStimpak.ingestible.ingestCommandString>
+  <PFSuperStimpak.ingestible.ingestReportString>注射 {0}.</PFSuperStimpak.ingestible.ingestReportString>
+
+
+</LanguageData>

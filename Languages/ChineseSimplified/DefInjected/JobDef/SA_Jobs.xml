@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_FillProcessor.reportString>正在装填 TargetA.</SRV_FillProcessor.reportString>
+  <SRV_TakeItemOutOfProcessor.reportString>正在从 TargetA 移除加工物品。</SRV_TakeItemOutOfProcessor.reportString>
+  <SRV_TendToSmoker.reportString>正在管理 TargetA.</SRV_TendToSmoker.reportString>
+  <SRV_DisableSnare.reportString>正在禁用 TargetA.</SRV_DisableSnare.reportString>
+
+
+</LanguageData>

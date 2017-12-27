@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFBuffout.label>壮大灵</PFBuffout.label>
+  <PFBuffout.description>一种先进的战前的激素，相当容易上瘾。</PFBuffout.description>
+  <PFBuffout.ingestible.ingestCommandString>吃 {0}</PFBuffout.ingestible.ingestCommandString>
+  <PFBuffout.ingestible.ingestReportString>吃 {0}.</PFBuffout.ingestible.ingestReportString>
+
+
+</LanguageData>

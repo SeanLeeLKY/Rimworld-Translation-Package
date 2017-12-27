@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Researching -->
+
+  <LearnAtSchoolResearching.label>在学校学习智识技能</LearnAtSchoolResearching.label>
+  <LearnAtSchoolResearching.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolResearching.description>
+  <LearnAtSchoolResearching.jobString>正在学校学习智识技能。</LearnAtSchoolResearching.jobString>
+
+  <TeachAtSchoolResearching.label>在学校教授智识技能</TeachAtSchoolResearching.label>
+  <TeachAtSchoolResearching.description>通过授课促进学习。</TeachAtSchoolResearching.description>
+  <TeachAtSchoolResearching.jobString>正在学校教授智识技能。</TeachAtSchoolResearching.jobString>
+
+
+  <!-- Social -->
+
+  <LearnAtSchoolSocial.label>在学校学习社交技能</LearnAtSchoolSocial.label>
+  <LearnAtSchoolSocial.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolSocial.description>
+  <LearnAtSchoolSocial.jobString>正在学校学习社交技能。</LearnAtSchoolSocial.jobString>
+
+  <TeachAtSchoolSocial.label>在学校教授社交技能</TeachAtSchoolSocial.label>
+  <TeachAtSchoolSocial.description>通过授课促进学习。</TeachAtSchoolSocial.description>
+  <TeachAtSchoolSocial.jobString>正在学校教授社交技能。</TeachAtSchoolSocial.jobString>
+
+
+  <!-- Animals -->
+
+  <LearnAtSchoolAnimals.label>在学校学习驯兽技能</LearnAtSchoolAnimals.label>
+  <LearnAtSchoolAnimals.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolAnimals.description>
+  <LearnAtSchoolAnimals.jobString>正在学校学习驯兽技能。</LearnAtSchoolAnimals.jobString>
+
+  <TeachAtSchoolAnimals.label>在学校教授驯兽技能</TeachAtSchoolAnimals.label>
+  <TeachAtSchoolAnimals.description>通过授课促进学习。</TeachAtSchoolAnimals.description>
+  <TeachAtSchoolAnimals.jobString>正在学校教授驯兽技能。</TeachAtSchoolAnimals.jobString>
+
+
+  <!-- Artistic -->
+
+  <LearnAtSchoolArtistic.label>在学校学习艺术技能</LearnAtSchoolArtistic.label>
+  <LearnAtSchoolArtistic.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolArtistic.description>
+  <LearnAtSchoolArtistic.jobString>正在学校学习艺术技能。</LearnAtSchoolArtistic.jobString>
+
+  <TeachAtSchoolArtistic.label>在学校教授艺术技能</TeachAtSchoolArtistic.label>
+  <TeachAtSchoolArtistic.description>通过授课促进学习。</TeachAtSchoolArtistic.description>
+  <TeachAtSchoolArtistic.jobString>正在学校教授艺术技能</TeachAtSchoolArtistic.jobString>
+
+
+  <!-- Cooking -->
+
+  <LearnAtSchoolCooking.label>在学校学习烹饪技能</LearnAtSchoolCooking.label>
+  <LearnAtSchoolCooking.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolCooking.description>
+  <LearnAtSchoolCooking.jobString>正在学校学习烹饪技能。</LearnAtSchoolCooking.jobString>
+
+  <TeachAtSchoolCooking.label>在学校教授烹饪技能</TeachAtSchoolCooking.label>
+  <TeachAtSchoolCooking.description>通过授课促进学习。</TeachAtSchoolCooking.description>
+  <TeachAtSchoolCooking.jobString>正在学校教授烹饪技能。</TeachAtSchoolCooking.jobString>
+
+
+  <!-- Medicine -->
+
+  <LearnAtSchoolMedicine.label>在学校学习医疗技能</LearnAtSchoolMedicine.label>
+  <LearnAtSchoolMedicine.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolMedicine.description>
+  <LearnAtSchoolMedicine.jobString>在学校学习医疗技能。</LearnAtSchoolMedicine.jobString>
+
+  <TeachAtSchoolMedicine.label>在学校教授医疗技能</TeachAtSchoolMedicine.label>
+  <TeachAtSchoolMedicine.description>通过授课促进学习。</TeachAtSchoolMedicine.description>
+  <TeachAtSchoolMedicine.jobString>正在学校教授医疗技能。</TeachAtSchoolMedicine.jobString>
+
+
+  <!-- Mining -->
+
+  <LearnAtSchoolMining.label>在学校学习采矿技能</LearnAtSchoolMining.label>
+  <LearnAtSchoolMining.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolMining.description>
+  <LearnAtSchoolMining.jobString>正在学校学习采矿技能。</LearnAtSchoolMining.jobString>
+
+  <TeachAtSchoolMining.label>在学校教授采矿技能</TeachAtSchoolMining.label>
+  <TeachAtSchoolMining.description>通过授课促进学习。</TeachAtSchoolMining.description>
+  <TeachAtSchoolMining.jobString>正在学校教授采矿技能。</TeachAtSchoolMining.jobString>
+
+
+  <!-- Construction -->
+
+  <LearnAtSchoolConstruction.label>在学校学习建造技能</LearnAtSchoolConstruction.label>
+  <LearnAtSchoolConstruction.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolConstruction.description>
+  <LearnAtSchoolConstruction.jobString>正在学校学习建造技能。</LearnAtSchoolConstruction.jobString>
+
+  <TeachAtSchoolConstruction.label>在学校教授建造技能</TeachAtSchoolConstruction.label>
+  <TeachAtSchoolConstruction.description>通过授课促进学习。</TeachAtSchoolConstruction.description>
+  <TeachAtSchoolConstruction.jobString>正在学校教授建造技能。</TeachAtSchoolConstruction.jobString>
+
+
+  <!-- Tailoring(Crafting) -->
+
+  <LearnAtSchoolTailoring.label>在学校学习缝制技能</LearnAtSchoolTailoring.label>
+  <LearnAtSchoolTailoring.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolTailoring.description>
+  <LearnAtSchoolTailoring.jobString>正在学校学习缝制技能。</LearnAtSchoolTailoring.jobString>
+
+  <TeachAtSchoolTailoring.label>在学校教授缝制技能</TeachAtSchoolTailoring.label>
+  <TeachAtSchoolTailoring.description>通过授课促进学习。</TeachAtSchoolTailoring.description>
+  <TeachAtSchoolTailoring.jobString>正在学校教授缝制技能。</TeachAtSchoolTailoring.jobString>
+
+
+  <!-- Crafting -->
+
+  <LearnAtSchoolCrafting.label>在学校学习手工技能</LearnAtSchoolCrafting.label>
+  <LearnAtSchoolCrafting.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolCrafting.description>
+  <LearnAtSchoolCrafting.jobString>正在学校学习手工技能。</LearnAtSchoolCrafting.jobString>
+
+  <TeachAtSchoolCrafting.label>在学校教授手工技能</TeachAtSchoolCrafting.label>
+  <TeachAtSchoolCrafting.description>通过授课促进学习。</TeachAtSchoolCrafting.description>
+  <TeachAtSchoolCrafting.jobString>正在学校教授手工技能。</TeachAtSchoolCrafting.jobString>
+
+
+  <!-- Growing -->
+
+  <LearnAtSchoolGrowing.label>在学校学习种植技能</LearnAtSchoolGrowing.label>
+  <LearnAtSchoolGrowing.description>通过学习增强指定技能（对16岁的孩子来说。）</LearnAtSchoolGrowing.description>
+  <LearnAtSchoolGrowing.jobString>正在学校学习种植技能。</LearnAtSchoolGrowing.jobString>
+
+  <TeachAtSchoolGrowing.label>在学校教授种植技能</TeachAtSchoolGrowing.label>
+  <TeachAtSchoolGrowing.description>通过授课促进学习。</TeachAtSchoolGrowing.description>
+  <TeachAtSchoolGrowing.jobString>正在学校教授种植技能。</TeachAtSchoolGrowing.jobString>
+
+
+</LanguageData>

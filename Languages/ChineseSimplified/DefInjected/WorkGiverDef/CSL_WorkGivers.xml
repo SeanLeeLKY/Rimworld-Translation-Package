@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <School_Study.label>学习</School_Study.label>
+  <School_Study.verb>学习</School_Study.verb>
+  <School_Study.gerund>学习</School_Study.gerund>
+
+  <School_Teach.label>教授</School_Teach.label>
+  <School_Teach.verb>教授</School_Teach.verb>
+  <School_Teach.gerund>教授</School_Teach.gerund>
+
+
+</LanguageData>

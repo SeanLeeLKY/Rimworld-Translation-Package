@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_PFAEPLaserRifle.label>微型核融合电池</Bullet_PFAEPLaserRifle.label>
+
+  <PFAEPLaser_Rifle.label>AEP9镭射步枪</PFAEPLaser_Rifle.label>
+  <PFAEPLaser_Rifle.description>AEP9镭射步枪能发射强烈的激光杀伤使用者的目标。这是更先进版本的镭射步枪，取代了早期的瓦特2000型号的镭射步枪。</PFAEPLaser_Rifle.description>
+
+  <Bullet_PFTBLaserRifle.label>微型核融合电池</Bullet_PFTBLaserRifle.label>
+
+  <PFTri-Beam_Laser_Rifle.label>三管镭射步枪</PFTri-Beam_Laser_Rifle.label>
+  <PFTri-Beam_Laser_Rifle.description>这是一把三倍火力的镭射步枪，它就像一把散弹枪，一次能发射三束激光。它不如其他镭射武器射程远，也不够它们精准，但是它的火力完全足够弥补这些损失。</PFTri-Beam_Laser_Rifle.description>
+
+  <Bullet_PFW2000LaserRifle.label>微型核融合电池</Bullet_PFW2000LaserRifle.label>
+
+  <PFWLaser_Rifle.label>瓦特2000镭射步枪</PFWLaser_Rifle.label>
+  <PFWLaser_Rifle.description>瓦特2000镭射步枪发射精准的激光来击落目标。这个过时的型号被AEP9所取代，AEP9的射速更高，而且更耐用.</PFWLaser_Rifle.description>
+
+  <Bullet_PFAEPLaserPistol.label>微型核融合电池</Bullet_PFAEPLaserPistol.label>
+
+  <PFAEPLaser_Pistol.label>AEP7镭射手枪</PFAEPLaser_Pistol.label>
+  <PFAEPLaser_Pistol.description>AEP7镭射手枪可以发射密集的激光来杀伤你的敌人.</PFAEPLaser_Pistol.description>
+
+  <Bullet_PewPew.label>微型核融合电池</Bullet_PewPew.label>
+
+  <Laser_PewPew.label>“Pew-Pew ”镭射手枪</Laser_PewPew.label>
+  <Laser_PewPew.description>AEP7镭射手枪的一款特殊型号，它可以发射一种非常强大的激光，但是它的能量消耗很高.</Laser_PewPew.description>
+
+  <Bullet_PFW1000LaserPistol.label>小型能量电池</Bullet_PFW1000LaserPistol.label>
+
+  <PFW1000Laser_Pistol.label>瓦特1000镭射手枪</PFW1000Laser_Pistol.label>
+  <PFW1000Laser_Pistol.description>民用级的瓦特1000镭射手枪能发射聚焦光束，但是因为功率太低和聚焦能力太差使它比军用级别AEP7镭射手枪弱的多。</PFW1000Laser_Pistol.description>
+
+  <Bullet_LaserGatling.label>微型核融合电池</Bullet_LaserGatling.label>
+
+  <PFGatlingLaser.label>镭射加特林</PFGatlingLaser.label>
+  <PFGatlingLaser.description>L30镭射加特林可以以极高射速不停的发射高浓缩的能量，就是精度很差。 </PFGatlingLaser.description>
+
+  <Bullet_PFLaserSniper.label>微型核融合电池</Bullet_PFLaserSniper.label>
+
+  <Laser_PFSniper.label>镭射狙击枪</Laser_PFSniper.label>
+  <Laser_PFSniper.description>一种改装的激光步枪，使用第二个聚焦透镜进一步的提高精度和伤害。</Laser_PFSniper.description>
+
+  <Bullet_LaserMusket.label>微型核融合电池</Bullet_LaserMusket.label>
+
+  <Laser_Musket.label>镭射毛瑟枪</Laser_Musket.label>
+  <Laser_Musket.description>这是一种简易的手动摇柄充能的镭射步枪。它在任何情况下都能保持适当的精度，是一款非常平衡的武器。 </Laser_Musket.description>
+
+
+</LanguageData>

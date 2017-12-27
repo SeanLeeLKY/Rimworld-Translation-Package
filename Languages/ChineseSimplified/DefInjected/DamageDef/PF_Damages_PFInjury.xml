@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AntiMateriel.label>反器材</AntiMateriel.label>
+  <AntiMateriel.deathMessage>{ 0 }已被射死。</AntiMateriel.deathMessage>
+
+  <PFLaser.label>镭射</PFLaser.label>
+  <PFLaser.deathMessage>{ 0 }已被镭射激光击毙。</PFLaser.deathMessage>
+
+  <PFPlasma.label>电浆</PFPlasma.label>
+  <PFPlasma.deathMessage>{ 0 }已被电浆射死。</PFPlasma.deathMessage>
+
+  <PFShishDamage.label>切割伤害</PFShishDamage.label>
+  <PFShishDamage.deathMessage>{0} 已被火焰刀切割致死。</PFShishDamage.deathMessage>
+
+  <PFPlasmaBoom.label>等离子</PFPlasmaBoom.label>
+  <PFPlasmaBoom.deathMessage>{0} 在等离子爆炸中死亡。</PFPlasmaBoom.deathMessage>
+
+  <PFScorpPoison.label>辐射蝎蜇刺</PFScorpPoison.label>
+  <PFScorpPoison.deathMessage>{0} 已被蜇刺致死。</PFScorpPoison.deathMessage>
+
+
+</LanguageData>

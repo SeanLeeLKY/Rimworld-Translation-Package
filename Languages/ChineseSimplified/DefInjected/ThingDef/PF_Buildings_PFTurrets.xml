@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFMachinegunTurret.label>机关枪炮塔</PFMachinegunTurret.label>
+  <PFMachinegunTurret.description>一个简易的机关枪炮塔，它比简易无人机枪坚固的多。尽管有这些改进，它的AI仍然很简单，容易误伤。</PFMachinegunTurret.description>
+  <PFMachinegunTurret_Blueprint.label>机关枪炮塔（蓝图）</PFMachinegunTurret_Blueprint.label>
+  <PFMachinegunTurret_Blueprint_Install.label>机关枪炮塔（蓝图）</PFMachinegunTurret_Blueprint_Install.label>
+  <PFMachinegunTurret_Frame.label>机关枪炮塔（建造中）</PFMachinegunTurret_Frame.label>
+  <PFMachinegunTurret_Frame.description>一个基本的机关枪炮塔，它比简易无人机枪坚固的多。尽管有这些改进，它的AI仍然很简单，容易误伤。</PFMachinegunTurret_Frame.description>
+
+  <Bullet_PFMachinegunTurret.label>5.56mm弹药</Bullet_PFMachinegunTurret.label>
+
+  <PFTurretGun.label>机关枪炮塔</PFTurretGun.label>
+  <PFTurretGun.description>机关枪炮塔</PFTurretGun.description>
+
+  <PFHeavyMachinegunTurret.label>重型机关枪炮塔</PFHeavyMachinegunTurret.label>
+  <PFHeavyMachinegunTurret.description>加强了武装的机关枪炮塔，比简陋的机关枪炮塔更强大。 由于发射更大口径的弹药，它往往会过热，因此射击间隔时间更长。</PFHeavyMachinegunTurret.description>
+  <PFHeavyMachinegunTurret_Blueprint.label>重型机关枪炮塔（蓝图）</PFHeavyMachinegunTurret_Blueprint.label>
+  <PFHeavyMachinegunTurret_Blueprint_Install.label>重型机关枪炮塔（蓝图）</PFHeavyMachinegunTurret_Blueprint_Install.label>
+  <PFHeavyMachinegunTurret_Frame.label>重型机关枪炮塔（建造中）</PFHeavyMachinegunTurret_Frame.label>
+  <PFHeavyMachinegunTurret_Frame.description>更重的机关枪炮塔，比基本的机关枪炮塔更强大。 由于发射更大口径的弹药，它往往会过热，因此射击间隔时间更长。</PFHeavyMachinegunTurret_Frame.description>
+
+  <Bullet_PFHeavyMachinegunTurret.label>5.56mm弹药</Bullet_PFHeavyMachinegunTurret.label>
+
+  <PFHeavyTurretGun.label>重型机关枪炮塔</PFHeavyTurretGun.label>
+  <PFHeavyTurretGun.description>重型机关枪炮塔</PFHeavyTurretGun.description>
+
+
+</LanguageData>

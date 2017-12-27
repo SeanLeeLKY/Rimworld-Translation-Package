@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFShishkebab.label>火焰刀</PFShishkebab.label>
+  <PFShishkebab.description>一把可以短时间喷射燃烧火焰的刀，可以用来烹饪或者戳人。</PFShishkebab.description>
+  <PFShishkebab.tools.0.label>柄</PFShishkebab.tools.0.label>
+  <PFShishkebab.tools.1.label>刃部</PFShishkebab.tools.1.label>
+  <PFShishkebab.tools.2.label>尖头</PFShishkebab.tools.2.label>
+
+  <PFRipper.label>撕裂者</PFRipper.label>
+  <PFRipper.description>这把油锯可以轻易的撕裂你想撕裂的任何东西。</PFRipper.description>
+  <PFRipper.tools.0.label>刃部</PFRipper.tools.0.label>
+  <PFRipper.tools.1.label>尖头</PFRipper.tools.1.label>
+
+
+</LanguageData>

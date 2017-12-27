@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_MakeBurlapJute.label>用黄麻纤维制作麻布</SRV_MakeBurlapJute.label>
+  <SRV_MakeBurlapJute.description>将黄麻纤维加工成麻布。产出8个麻布布料。</SRV_MakeBurlapJute.description>
+  <SRV_MakeBurlapJute.jobString>正在将黄麻纤维加工成麻布。</SRV_MakeBurlapJute.jobString>
+
+  <SRV_MakeSlowBurlapJute.label>用黄麻纤维制作麻布</SRV_MakeSlowBurlapJute.label>
+  <SRV_MakeSlowBurlapJute.description>徒手将黄麻纤维加工成麻布。产出6个麻布布料。</SRV_MakeSlowBurlapJute.description>
+  <SRV_MakeSlowBurlapJute.jobString>正在将黄麻纤维加工成麻布。</SRV_MakeSlowBurlapJute.jobString>
+
+  <SRV_MakeBurlapAgave.label>用龙舌兰制作麻布</SRV_MakeBurlapAgave.label>
+  <SRV_MakeBurlapAgave.description>将龙舌兰加工成麻布。产出8个麻布布料。</SRV_MakeBurlapAgave.description>
+  <SRV_MakeBurlapAgave.jobString>正在将龙舌兰加工成麻布。</SRV_MakeBurlapAgave.jobString>
+
+  <SRV_ExtractMetalFromSlag.label>从钢渣块中熔炼钢铁</SRV_ExtractMetalFromSlag.label>
+  <SRV_ExtractMetalFromSlag.description>用强热从钢渣块中分离出有用的金属。</SRV_ExtractMetalFromSlag.description>
+  <SRV_ExtractMetalFromSlag.jobString>正在从钢渣块中熔炼钢铁。</SRV_ExtractMetalFromSlag.jobString>
+
+  <SRV_MakeVinegarJuice.label>用果汁制作醋汁。</SRV_MakeVinegarJuice.label>
+  <SRV_MakeVinegarJuice.description>浓缩的果汁，需要经过发酵之后才能变为醋。</SRV_MakeVinegarJuice.description>
+  <SRV_MakeVinegarJuice.jobString>用果汁制作醋汁。</SRV_MakeVinegarJuice.jobString>
+
+  <SRV_MakeCurdledMilk.label>用奶制作凝乳。</SRV_MakeCurdledMilk.label>
+  <SRV_MakeCurdledMilk.description>制作凝乳，用于发酵成奶酪。</SRV_MakeCurdledMilk.description>
+  <SRV_MakeCurdledMilk.jobString>正在用奶制作凝乳。</SRV_MakeCurdledMilk.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFBrahmin.label>婆罗门</PFBrahmin.label>
+  <PFBrahmin.description>奶牛的一个遥远的后裔，这基因突变的双头牛是废土上肉和奶的主要来源。</PFBrahmin.description>
+  <PFBrahmin_Leather.label>婆罗门皮革</PFBrahmin_Leather.label>
+  <PFBrahmin_Leather.description>婆罗门皮革</PFBrahmin_Leather.description>
+  <PFBrahmin_Leather.stuffProps.stuffAdjective>婆罗门皮革</PFBrahmin_Leather.stuffProps.stuffAdjective>
+  <PFBrahmin_Meat.label>婆罗门肉</PFBrahmin_Meat.label>
+  <PFBrahmin_Meat.description>婆罗门肉</PFBrahmin_Meat.description>
+  <PFBrahmin_Corpse.label>婆罗门尸体</PFBrahmin_Corpse.label>
+  <PFBrahmin_Corpse.description>婆罗门尸体</PFBrahmin_Corpse.description>
+
+  <PFBighorner.label>大角羊</PFBighorner.label>
+  <PFBighorner.description>羚羊的一个遥远的后裔，这种具有侵略性的基因突变的动物在废土是一个很好的肉食来源。</PFBighorner.description>
+  <PFBighorner_Leather.label>大角羊皮革</PFBighorner_Leather.label>
+  <PFBighorner_Leather.description>大角羊皮革</PFBighorner_Leather.description>
+  <PFBighorner_Leather.stuffProps.stuffAdjective>大角羊皮革</PFBighorner_Leather.stuffProps.stuffAdjective>
+  <PFBighorner_Meat.label>大角羊肉</PFBighorner_Meat.label>
+  <PFBighorner_Meat.description>大角羊肉</PFBighorner_Meat.description>
+  <PFBighorner_Corpse.label>大角羊尸体</PFBighorner_Corpse.label>
+  <PFBighorner_Corpse.description>大角羊尸体</PFBighorner_Corpse.description>
+
+
+</LanguageData>

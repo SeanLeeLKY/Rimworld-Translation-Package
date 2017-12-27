@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Chandelier -->
+  <GLO_ObjectTooTall>{0} 太高了不能将{1}放在这儿。</GLO_ObjectTooTall>
+  <GLO_NeedsRoof>{0} 需要放在屋顶下。</GLO_NeedsRoof>
+
+</LanguageData>

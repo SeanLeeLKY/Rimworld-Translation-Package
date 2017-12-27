@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFNumbed.label>抗疼宁麻醉</PFNumbed.label>
+  <PFNumbed.labelNoun>抗疼宁麻醉</PFNumbed.labelNoun>
+
+  <PFMedXTolerance.label>抗疼宁耐药性</PFMedXTolerance.label>
+  <PFMedXTolerance.stages.1.label>小量的</PFMedXTolerance.stages.1.label>
+  <PFMedXTolerance.stages.2.label>大量的</PFMedXTolerance.stages.2.label>
+  <PFMedXTolerance.stages.3.label>超量的</PFMedXTolerance.stages.3.label>
+
+  <PFMedXAddiction.label>抗疼宁成瘾</PFMedXAddiction.label>
+  <PFMedXAddiction.stages.1.label>状态消除</PFMedXAddiction.stages.1.label>
+
+
+</LanguageData>

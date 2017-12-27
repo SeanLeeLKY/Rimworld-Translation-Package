@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_Grill.label>烤架</SRV_Grill.label>
+  <SRV_Grill.description>用来烹饪食物的小烤架，需要燃料。</SRV_Grill.description>
+  <SRV_Grill_Blueprint.label>烤架（蓝图）</SRV_Grill_Blueprint.label>
+  <SRV_Grill_Blueprint_Install.label>烤架（蓝图）</SRV_Grill_Blueprint_Install.label>
+  <SRV_Grill_Frame.label>烤架（建造中）</SRV_Grill_Frame.label>
+  <SRV_Grill_Frame.description>用来烹饪食物的小烤架，需要燃料。</SRV_Grill_Frame.description>
+
+  <SRV_Forge.label>铁砧</SRV_Forge.label>
+  <SRV_Forge.description>一种用于加热金属并将其加工成有用工具的古老结构。</SRV_Forge.description>
+  <SRV_Forge_Blueprint.label>铁砧（蓝图）</SRV_Forge_Blueprint.label>
+  <SRV_Forge_Frame.label>铁砧（建造中）</SRV_Forge_Frame.label>
+  <SRV_Forge_Frame.description>一种用于加热金属并将其加工成有用工具的古老结构。</SRV_Forge_Frame.description>
+
+  <SRV_Smoker.label>熏炉</SRV_Smoker.label>
+  <SRV_Smoker.description>一个很大的石制熏炉，为烹饪和保存大量的肉而建。需要花很长时间。</SRV_Smoker.description>
+  <SRV_Smoker_Blueprint.label>熏炉（蓝图）</SRV_Smoker_Blueprint.label>
+  <SRV_Smoker_Blueprint_Install.label>熏炉（蓝图）</SRV_Smoker_Blueprint_Install.label>
+  <SRV_Smoker_Frame.label>熏炉（建造中）</SRV_Smoker_Frame.label>
+  <SRV_Smoker_Frame.description>一个很大的石制熏炉，为烹饪和保存大量的肉而建。需要花很长时间。</SRV_Smoker_Frame.description>
+
+  <SRV_TableCamp.label>营地工作台</SRV_TableCamp.label>
+  <SRV_TableCamp.description>一个用于在旅行时做简单任务的轻量折叠桌。</SRV_TableCamp.description>
+  <SRV_TableCamp_Blueprint.label>营地工作台（蓝图）</SRV_TableCamp_Blueprint.label>
+  <SRV_TableCamp_Blueprint_Install.label>营地工作台（蓝图）</SRV_TableCamp_Blueprint_Install.label>
+  <SRV_TableCamp_Frame.label>营地工作台（建造中）</SRV_TableCamp_Frame.label>
+  <SRV_TableCamp_Frame.description>一个用于在旅行时做简单任务的轻量折叠桌。</SRV_TableCamp_Frame.description>
+
+  <SRV_TableButcherCamp.label>营地屠宰台</SRV_TableButcherCamp.label>
+  <SRV_TableButcherCamp.description>一个用于在旅行时屠宰动物的轻量折叠桌。</SRV_TableButcherCamp.description>
+  <SRV_TableButcherCamp_Blueprint.label>营地屠宰台（蓝图）</SRV_TableButcherCamp_Blueprint.label>
+  <SRV_TableButcherCamp_Blueprint_Install.label>营地屠宰台（蓝图）</SRV_TableButcherCamp_Blueprint_Install.label>
+  <SRV_TableButcherCamp_Frame.label>营地屠宰台（建造中）</SRV_TableButcherCamp_Frame.label>
+  <SRV_TableButcherCamp_Frame.description>一个用于在旅行时屠宰动物的轻量折叠桌。</SRV_TableButcherCamp_Frame.description>
+
+
+</LanguageData>

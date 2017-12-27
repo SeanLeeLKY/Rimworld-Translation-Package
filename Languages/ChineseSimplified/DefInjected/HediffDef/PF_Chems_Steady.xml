@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFSteadied.label>稳定剂镇静</PFSteadied.label>
+
+  <PFSteadyTolerance.label>稳定剂耐药性</PFSteadyTolerance.label>
+  <PFSteadyTolerance.stages.1.label>小量的</PFSteadyTolerance.stages.1.label>
+  <PFSteadyTolerance.stages.2.label>大量的</PFSteadyTolerance.stages.2.label>
+  <PFSteadyTolerance.stages.3.label>超量的</PFSteadyTolerance.stages.3.label>
+
+  <PFSteadyAddiction.label>稳定剂成瘾</PFSteadyAddiction.label>
+  <PFSteadyAddiction.stages.1.label>状态消除</PFSteadyAddiction.stages.1.label>
+
+
+</LanguageData>

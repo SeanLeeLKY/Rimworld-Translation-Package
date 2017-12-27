@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFSteadyHigh.stages.0.label>被稳定剂镇静</PFSteadyHigh.stages.0.label>
+  <PFSteadyHigh.stages.0.description>我完全可以通过一个窗口，从几百英尺外射中靶心。</PFSteadyHigh.stages.0.description>
+
+  <PFSteadyWithdrawal.stages.1.label>稳定剂状态消除</PFSteadyWithdrawal.stages.1.label>
+  <PFSteadyWithdrawal.stages.1.description>一切都晃的好厉害，我的眼睛也在晃。</PFSteadyWithdrawal.stages.1.description>
+
+
+</LanguageData>

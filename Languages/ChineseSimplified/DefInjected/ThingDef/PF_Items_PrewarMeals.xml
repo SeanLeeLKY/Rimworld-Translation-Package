@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MealPFDandyBoyApples.label>花花公子苹果脯</MealPFDandyBoyApples.label>
+  <MealPFDandyBoyApples.description>“苹果好，它们永远不会坏！” 一包老旧包装的冻干苹果，味道有点陈旧，但仍然营养丰富。</MealPFDandyBoyApples.description>
+  <MealPFDandyBoyApples.ingestible.ingestCommandString>吃 {0}</MealPFDandyBoyApples.ingestible.ingestCommandString>
+  <MealPFDandyBoyApples.ingestible.ingestReportString>吃 {0}.</MealPFDandyBoyApples.ingestible.ingestReportString>
+
+  <MealPFFancyLadsSnackCakes.label>俏男孩夹心蛋糕</MealPFFancyLadsSnackCakes.label>
+  <MealPFFancyLadsSnackCakes.description>白色的包装盒上印着红色缎带。</MealPFFancyLadsSnackCakes.description>
+  <MealPFFancyLadsSnackCakes.ingestible.ingestCommandString>吃 {0}</MealPFFancyLadsSnackCakes.ingestible.ingestCommandString>
+  <MealPFFancyLadsSnackCakes.ingestible.ingestReportString>吃 {0}.</MealPFFancyLadsSnackCakes.ingestible.ingestReportString>
+
+  <MealPFCram.label>Cram肉罐头</MealPFCram.label>
+  <MealPFCram.description>一罐旧的加工过的肉。</MealPFCram.description>
+  <MealPFCram.ingestible.ingestCommandString>吃 {0}</MealPFCram.ingestible.ingestCommandString>
+  <MealPFCram.ingestible.ingestReportString>吃 {0}.</MealPFCram.ingestible.ingestReportString>
+
+  <MealPFYumYumDeviledEggs.label>佳佳味魔鬼蛋</MealPFYumYumDeviledEggs.label>
+  <MealPFYumYumDeviledEggs.description>老旧包装的魔鬼蛋，看上去还很新鲜，闻起来有股怪味。</MealPFYumYumDeviledEggs.description>
+  <MealPFYumYumDeviledEggs.ingestible.ingestCommandString>吃 {0}</MealPFYumYumDeviledEggs.ingestible.ingestCommandString>
+  <MealPFYumYumDeviledEggs.ingestible.ingestReportString>吃 {0}.</MealPFYumYumDeviledEggs.ingestible.ingestReportString>
+
+  <MealPFPorkNBeans.label>豌豆猪肉罐头</MealPFPorkNBeans.label>
+  <MealPFPorkNBeans.description>老旧的豌豆猪肉罐头，保存很长时间依然可食用。</MealPFPorkNBeans.description>
+  <MealPFPorkNBeans.ingestible.ingestCommandString>吃 {0}</MealPFPorkNBeans.ingestible.ingestCommandString>
+  <MealPFPorkNBeans.ingestible.ingestReportString>吃 {0}.</MealPFPorkNBeans.ingestible.ingestReportString>
+
+  <MealPFBlamcoMacAndCheese.label>布拉科芝士通心粉</MealPFBlamcoMacAndCheese.label>
+  <MealPFBlamcoMacAndCheese.description>一盒陈旧的即食通心粉和芝士，一直完整的保存一辈子。</MealPFBlamcoMacAndCheese.description>
+  <MealPFBlamcoMacAndCheese.ingestible.ingestCommandString>吃 {0}</MealPFBlamcoMacAndCheese.ingestible.ingestCommandString>
+  <MealPFBlamcoMacAndCheese.ingestible.ingestReportString>吃 {0}.</MealPFBlamcoMacAndCheese.ingestible.ingestReportString>
+
+  <MealPFPotatoCrisps.label>薯片</MealPFPotatoCrisps.label>
+  <MealPFPotatoCrisps.description>一盒非常咸的保存良好的土豆薯片，有点陈旧，但味道还不错。</MealPFPotatoCrisps.description>
+  <MealPFPotatoCrisps.ingestible.ingestCommandString>吃 {0}</MealPFPotatoCrisps.ingestible.ingestCommandString>
+  <MealPFPotatoCrisps.ingestible.ingestReportString>吃 {0}.</MealPFPotatoCrisps.ingestible.ingestReportString>
+
+  <MealPFSugarBombs.label>甜麦炮弹</MealPFSugarBombs.label>
+  <MealPFSugarBombs.description>甜麦炮弹：每天100％的糖！</MealPFSugarBombs.description>
+  <MealPFSugarBombs.ingestible.ingestCommandString>吃 {0}</MealPFSugarBombs.ingestible.ingestCommandString>
+  <MealPFSugarBombs.ingestible.ingestReportString>吃 {0}.</MealPFSugarBombs.ingestible.ingestReportString>
+
+  <MealPFInstaMash.label>爽口土豆泥</MealPFInstaMash.label>
+  <MealPFInstaMash.description>一盒陈旧的即食土豆泥，不管里面是不是真的是土豆，至少味道很不错。</MealPFInstaMash.description>
+  <MealPFInstaMash.ingestible.ingestCommandString>吃 {0}</MealPFInstaMash.ingestible.ingestCommandString>
+  <MealPFInstaMash.ingestible.ingestReportString>吃 {0}.</MealPFInstaMash.ingestible.ingestReportString>
+
+  <MealPFSalisburySteak.label>索尔兹伯里牛肉饼</MealPFSalisburySteak.label>
+  <MealPFSalisburySteak.description>一个陈旧的包装盒里面放着一些腌肉和“肉汁”，它们味道还很好，但是谁知道已经放了多久了。</MealPFSalisburySteak.description>
+  <MealPFSalisburySteak.ingestible.ingestCommandString>吃 {0}</MealPFSalisburySteak.ingestible.ingestCommandString>
+  <MealPFSalisburySteak.ingestible.ingestReportString>吃 {0}.</MealPFSalisburySteak.ingestible.ingestReportString>
+
+  <MealPFGumdrops.label>口香糖</MealPFGumdrops.label>
+  <MealPFGumdrops.description>一盒老旧的口香糖，虽然没有什么营养，但是大量的糖份让它很好吃，而且保存的很好。</MealPFGumdrops.description>
+  <MealPFGumdrops.ingestible.ingestCommandString>吃 {0}</MealPFGumdrops.ingestible.ingestCommandString>
+  <MealPFGumdrops.ingestible.ingestReportString>吃 {0}.</MealPFGumdrops.ingestible.ingestReportString>
+
+
+</LanguageData>

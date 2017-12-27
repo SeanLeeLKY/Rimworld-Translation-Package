@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFUltraStimpak.label>终极治疗针</PFUltraStimpak.label>
+  <PFUltraStimpak.description>一种含有高质量的药物的注射器，能迅速治疗能迅速治疗伤口、疤痕、感染，甚至可以再生四肢和器官。</PFUltraStimpak.description>
+  <PFUltraStimpak.ingestible.ingestCommandString>注射 {0}</PFUltraStimpak.ingestible.ingestCommandString>
+  <PFUltraStimpak.ingestible.ingestReportString>注射 {0}.</PFUltraStimpak.ingestible.ingestReportString>
+
+
+</LanguageData>

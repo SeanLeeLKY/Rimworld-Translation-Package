@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Study.label>学习</Study.label>
+  <Study.description>学习增强指定技能。</Study.description>
+  <Study.labelShort>学习</Study.labelShort>
+  <Study.pawnLabel>学生</Study.pawnLabel>
+  <Study.gerundLabel>学习</Study.gerundLabel>
+  <Study.verb>学习</Study.verb>
+
+  <Teach.label>教授</Teach.label>
+  <Teach.description>教授指定技能。</Teach.description>
+  <Teach.labelShort>教授</Teach.labelShort>
+  <Teach.pawnLabel>教授</Teach.pawnLabel>
+  <Teach.gerundLabel>教授</Teach.gerundLabel>
+  <Teach.verb>教授</Teach.verb>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Blackboard.label>黑板</Blackboard.label>
+  <Blackboard.description>一个黑板用于教学。</Blackboard.description>
+  <Blackboard_Blueprint.label>黑板（蓝图）</Blackboard_Blueprint.label>
+  <Blackboard_Frame.label>黑板（建造中）</Blackboard_Frame.label>
+  <Blackboard_Frame.description>一个黑板用于教学。</Blackboard_Frame.description>
+
+
+</LanguageData>

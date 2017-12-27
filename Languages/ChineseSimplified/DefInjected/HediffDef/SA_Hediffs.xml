@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_AteSmokedMeat.label>熏肉</SRV_AteSmokedMeat.label>
+  <SRV_AteSmokedMeat.stages.0.label>初始隐藏</SRV_AteSmokedMeat.stages.0.label>
+  <SRV_AteSmokedMeat.stages.1.label>
+吃了熏肉</SRV_AteSmokedMeat.stages.1.label>
+
+  <SRV_SnaredLarge.label>陷井</SRV_SnaredLarge.label>
+  <SRV_SnaredLarge.stages.0.label>初始隐藏</SRV_SnaredLarge.stages.0.label>
+  <SRV_SnaredLarge.stages.1.label>挣扎中</SRV_SnaredLarge.stages.1.label>
+
+  <SRV_SnaredSmall.label>陷井 (窒息中)</SRV_SnaredSmall.label>
+  <SRV_SnaredSmall.stages.0.label>轻微隐藏</SRV_SnaredSmall.stages.0.label>
+  <SRV_SnaredSmall.stages.1.label>轻微</SRV_SnaredSmall.stages.1.label>
+  <SRV_SnaredSmall.stages.2.label>中等</SRV_SnaredSmall.stages.2.label>
+  <SRV_SnaredSmall.stages.3.label>严重</SRV_SnaredSmall.stages.3.label>
+  <SRV_SnaredSmall.stages.4.label>极重</SRV_SnaredSmall.stages.4.label>
+
+
+</LanguageData>

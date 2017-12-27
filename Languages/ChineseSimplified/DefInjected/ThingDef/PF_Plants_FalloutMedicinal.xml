@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFPlantXanderRoot.label>山德根</PFPlantXanderRoot.label>
+  <PFPlantXanderRoot.description>一种类似于大吐根的植物的根，具有温和的治疗作用。当它与布洛克花的花混合时，就能生产出草药或治疗针。</PFPlantXanderRoot.description>
+
+  <PFPlantBrocFlower.label>布洛克花</PFPlantBrocFlower.label>
+  <PFPlantBrocFlower.description>一种橙色的小花，带有少量的药用价值。当它与一种山德根混合在一起时，就能产生出草药或治疗针。</PFPlantBrocFlower.description>
+
+
+</LanguageData>

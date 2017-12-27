@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFMentats.label>曼他特</PFMentats.label>
+  <PFMentats.description>使用曼他特可以提高心理承受能力，这个略上瘾。 </PFMentats.description>
+  <PFMentats.ingestible.ingestCommandString>吃 {0}</PFMentats.ingestible.ingestCommandString>
+  <PFMentats.ingestible.ingestReportString>吃 {0}.</PFMentats.ingestible.ingestReportString>
+
+
+</LanguageData>

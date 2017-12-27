@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFBrahmin.label>婆罗门</PFBrahmin.label>
+  <PFBrahmin.labelPlural>婆罗门</PFBrahmin.labelPlural>
+  <PFBrahmin.lifeStages.0.label>婆罗门牛犊</PFBrahmin.lifeStages.0.label>
+  <PFBrahmin.lifeStages.0.labelPlural>婆罗门牛犊</PFBrahmin.lifeStages.0.labelPlural>
+  <PFBrahmin.lifeStages.0.labelMale>公婆罗门牛犊</PFBrahmin.lifeStages.0.labelMale>
+  <PFBrahmin.lifeStages.0.labelMalePlural>公婆罗门牛犊</PFBrahmin.lifeStages.0.labelMalePlural>
+  <PFBrahmin.lifeStages.0.labelFemale>母婆罗门牛犊</PFBrahmin.lifeStages.0.labelFemale>
+  <PFBrahmin.lifeStages.0.labelFemalePlural>母婆罗门牛犊</PFBrahmin.lifeStages.0.labelFemalePlural>
+  <PFBrahmin.lifeStages.1.label>婆罗门</PFBrahmin.lifeStages.1.label>
+  <PFBrahmin.lifeStages.1.labelPlural>婆罗门</PFBrahmin.lifeStages.1.labelPlural>
+  <PFBrahmin.lifeStages.1.labelMale>公婆罗门</PFBrahmin.lifeStages.1.labelMale>
+  <PFBrahmin.lifeStages.1.labelMalePlural>公婆罗门</PFBrahmin.lifeStages.1.labelMalePlural>
+  <PFBrahmin.lifeStages.1.labelFemale>母婆罗门</PFBrahmin.lifeStages.1.labelFemale>
+  <PFBrahmin.lifeStages.1.labelFemalePlural>母婆罗门</PFBrahmin.lifeStages.1.labelFemalePlural>
+  <PFBrahmin.lifeStages.2.label>婆罗门</PFBrahmin.lifeStages.2.label>
+  <PFBrahmin.lifeStages.2.labelPlural>婆罗门</PFBrahmin.lifeStages.2.labelPlural>
+  <PFBrahmin.lifeStages.2.labelMale>公婆罗门</PFBrahmin.lifeStages.2.labelMale>
+  <PFBrahmin.lifeStages.2.labelMalePlural>公婆罗门</PFBrahmin.lifeStages.2.labelMalePlural>
+  <PFBrahmin.lifeStages.2.labelFemale>母婆罗门</PFBrahmin.lifeStages.2.labelFemale>
+  <PFBrahmin.lifeStages.2.labelFemalePlural>母婆罗门</PFBrahmin.lifeStages.2.labelFemalePlural>
+  <PFBrahmin.labelMale>公婆罗门</PFBrahmin.labelMale>
+  <PFBrahmin.labelMalePlural>公婆罗门</PFBrahmin.labelMalePlural>
+  <PFBrahmin.labelFemale>母婆罗门</PFBrahmin.labelFemale>
+  <PFBrahmin.labelFemalePlural>母婆罗门</PFBrahmin.labelFemalePlural>
+
+  <PFBighorner.label>大角羊</PFBighorner.label>
+  <PFBighorner.labelPlural>大角羊</PFBighorner.labelPlural>
+  <PFBighorner.lifeStages.0.label>大角羊羊羔</PFBighorner.lifeStages.0.label>
+  <PFBighorner.lifeStages.0.labelPlural>大角羊羊羔</PFBighorner.lifeStages.0.labelPlural>
+  <PFBighorner.lifeStages.0.labelMale>公大角羊羊羔</PFBighorner.lifeStages.0.labelMale>
+  <PFBighorner.lifeStages.0.labelMalePlural>公大角羊羊羔</PFBighorner.lifeStages.0.labelMalePlural>
+  <PFBighorner.lifeStages.0.labelFemale>母大角羊羊羔</PFBighorner.lifeStages.0.labelFemale>
+  <PFBighorner.lifeStages.0.labelFemalePlural>母大角羊羊羔</PFBighorner.lifeStages.0.labelFemalePlural>
+  <PFBighorner.lifeStages.1.label>大角羊</PFBighorner.lifeStages.1.label>
+  <PFBighorner.lifeStages.1.labelPlural>大角羊</PFBighorner.lifeStages.1.labelPlural>
+  <PFBighorner.lifeStages.1.labelMale>公大角羊</PFBighorner.lifeStages.1.labelMale>
+  <PFBighorner.lifeStages.1.labelMalePlural>公大角羊</PFBighorner.lifeStages.1.labelMalePlural>
+  <PFBighorner.lifeStages.1.labelFemale>母大角羊</PFBighorner.lifeStages.1.labelFemale>
+  <PFBighorner.lifeStages.1.labelFemalePlural>母大角羊</PFBighorner.lifeStages.1.labelFemalePlural>
+  <PFBighorner.lifeStages.2.label>大角羊</PFBighorner.lifeStages.2.label>
+  <PFBighorner.lifeStages.2.labelPlural>大角羊</PFBighorner.lifeStages.2.labelPlural>
+  <PFBighorner.lifeStages.2.labelMale>公大角羊</PFBighorner.lifeStages.2.labelMale>
+  <PFBighorner.lifeStages.2.labelMalePlural>公大角羊</PFBighorner.lifeStages.2.labelMalePlural>
+  <PFBighorner.lifeStages.2.labelFemale>母大角羊</PFBighorner.lifeStages.2.labelFemale>
+  <PFBighorner.lifeStages.2.labelFemalePlural>母大角羊</PFBighorner.lifeStages.2.labelFemalePlural>
+  <PFBighorner.labelMale>公大角羊</PFBighorner.labelMale>
+  <PFBighorner.labelMalePlural>公大角羊</PFBighorner.labelMalePlural>
+  <PFBighorner.labelFemale>母大角羊</PFBighorner.labelFemale>
+  <PFBighorner.labelFemalePlural>母大角羊</PFBighorner.labelFemalePlural>
+
+
+</LanguageData>

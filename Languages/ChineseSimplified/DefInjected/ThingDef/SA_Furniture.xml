@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_TableSimple.label>简易小桌</SRV_TableSimple.label>
+  <SRV_TableSimple.description>用树枝做的小桌子，只够一个人在上面吃饭。</SRV_TableSimple.description>
+  <SRV_TableSimple_Blueprint.label>简易小桌（蓝图）</SRV_TableSimple_Blueprint.label>
+  <SRV_TableSimple_Blueprint_Install.label>简易小桌（蓝图）</SRV_TableSimple_Blueprint_Install.label>
+  <SRV_TableSimple_Frame.label>简易小桌（建造中）</SRV_TableSimple_Frame.label>
+  <SRV_TableSimple_Frame.description>用树枝做的小桌子，只够一个人在上面吃饭。</SRV_TableSimple_Frame.description>
+
+  <SRV_StumpChair.label>树墩凳</SRV_StumpChair.label>
+  <SRV_StumpChair.description>打磨平整的用于坐下休息的树桩。</SRV_StumpChair.description>
+  <SRV_StumpChair_Blueprint.label>树墩凳（蓝图）</SRV_StumpChair_Blueprint.label>
+  <SRV_StumpChair_Blueprint_Install.label>树墩凳（蓝图）</SRV_StumpChair_Blueprint_Install.label>
+  <SRV_StumpChair_Frame.label>树墩凳（建造中）</SRV_StumpChair_Frame.label>
+  <SRV_StumpChair_Frame.description>打磨平整的用于坐下休息的树桩。</SRV_StumpChair_Frame.description>
+
+
+</LanguageData>

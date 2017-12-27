@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_VarmintRifle.label>5.66mm弹药</Bullet_VarmintRifle.label>
+
+  <Gun_VarmintRifle.label>狐鼠步枪</Gun_VarmintRifle.label>
+  <Gun_VarmintRifle.description>一种在废土上被广泛使用的耐用的步枪，虽然很准确，但威力较低。</Gun_VarmintRifle.description>
+
+  <Bullet_Ratslayer.label>5.66mm弹药</Bullet_Ratslayer.label>
+
+  <Gun_Ratslayer.label>“鼠辈克星”步枪</Gun_Ratslayer.label>
+  <Gun_Ratslayer.description>狐鼠猎枪轻量版，装备有瞄准器及消音器，具有更高的威力。</Gun_Ratslayer.description>
+
+  <Bullet_AMRifle.label>.50瞬爆弹</Bullet_AMRifle.label>
+
+  <Gun_AMRifle.label>反器材步枪</Gun_AMRifle.label>
+  <Gun_AMRifle.description>一把非常强大的步枪，发射.50口径瞬爆弹。只要你能及时开火，它就能一枪放倒任何活物。</Gun_AMRifle.description>
+
+  <Bullet_AssaultCarbine.label>5mm弹药</Bullet_AssaultCarbine.label>
+
+  <Gun_AssaultCarbine.label>突击卡宾枪</Gun_AssaultCarbine.label>
+  <Gun_AssaultCarbine.description>弹匣式紧凑型自动步枪，射速高，精度好。手中的致命武器，它可以有效地用于近距离作战。</Gun_AssaultCarbine.description>
+
+  <Bullet_BattleRifle.label>.308弹药</Bullet_BattleRifle.label>
+
+  <Gun_BattleRifle.label>战斗步枪</Gun_BattleRifle.label>
+  <Gun_BattleRifle.description>一把半自动步枪发射.308子弹，具有良好的发射速度和威力，它可以高效地战斗，但是子弹过高的散布范围使其在远距离上很难精确瞄准。</Gun_BattleRifle.description>
+
+  <Bullet_ThisMachine.label>.308弹药</Bullet_ThisMachine.label>
+
+  <Gun_ThisMachine.label>“杀敌机器”</Gun_ThisMachine.label>
+  <Gun_ThisMachine.description>M1加兰德战斗步枪的一款特殊型号，它各方面都比普通版稍微优秀那么一点点。枪身上刻着“这玩意专杀共产主义者”，它似乎在过去的战争中已经被使用过。</Gun_ThisMachine.description>
+
+  <Bullet_BBGun.label>BB弹</Bullet_BBGun.label>
+
+  <Gun_BBGun.label>BB枪</Gun_BBGun.label>
+  <Gun_BBGun.description>就是一把射钢珠的玩具枪，能造成一点点的伤害，类似于被石子砸了一下，射程也不是很高，所以这把枪就让未成年的小朋友拿去玩吧。</Gun_BBGun.description>
+
+  <Bullet_AbileneKid.label>BB弹</Bullet_AbileneKid.label>
+
+  <Gun_AbileneKid.label>“阿比林的熊孩子”BB枪</Gun_AbileneKid.label>
+  <Gun_AbileneKid.description>一把独特的“限量版”BB枪，它具有稍高的射程和伤害。 </Gun_AbileneKid.description>
+
+  <Bullet_BrushGun.label>.45-70军用弹药</Bullet_BrushGun.label>
+
+  <Gun_BrushGun.label>短管猎枪</Gun_BrushGun.label>
+  <Gun_BrushGun.description>一把大口径卡宾枪主要用于近中等距离的狩猎。</Gun_BrushGun.description>
+
+  <Bullet_MedicineStick.label>.45-70军用弹药</Bullet_MedicineStick.label>
+
+  <Gun_MedicineStick.label>“捣药杵”步枪</Gun_MedicineStick.label>
+  <Gun_MedicineStick.description>一把特殊型号短管猎枪，具有较高的威力和更高的弹药容量。</Gun_MedicineStick.description>
+
+  <Bullet_LaLongueCarabine.label>.357弹药</Bullet_LaLongueCarabine.label>
+
+  <Gun_LaLongueCarabine.label>“莫希干猎人”杠杆步枪</Gun_LaLongueCarabine.label>
+  <Gun_LaLongueCarabine.description>牛仔连发枪的特殊型号，是新加州共和国第一侦查营斯特林下士自己改装而成，作为自己专用的狙击步枪，它和普通版最大的区别就在于斯特林下士自己装上去的瞄准镜，使得精度要略高一些。显然这位老牛仔也作了些其他小范围的改进，使得伤害和装填速度也都有了小幅提升，枪托上也雕刻了精美的花纹。</Gun_LaLongueCarabine.description>
+
+  <Bullet_CowboyRepeater.label>.357弹药</Bullet_CowboyRepeater.label>
+
+  <Gun_CowboyRepeater.label>牛仔连发枪</Gun_CowboyRepeater.label>
+  <Gun_CowboyRepeater.description>一款小口径步枪，发射.357子弹，西部牛仔们常用的步枪。</Gun_CowboyRepeater.description>
+
+  <Bullet_HuntingRifle.label>.308弹药</Bullet_HuntingRifle.label>
+
+  <Gun_HuntingRifle.label>猎枪</Gun_HuntingRifle.label>
+  <Gun_HuntingRifle.description>一把手动栓式步枪，发射 .308 子弹.</Gun_HuntingRifle.description>
+
+  <Bullet_PFPaciencia.label>.308弹药</Bullet_PFPaciencia.label>
+
+  <PFPaciencia.label>“耐心”猎枪</PFPaciencia.label>
+  <PFPaciencia.description>一把特殊的猎枪，在外表上，它就像是一把普通的猎枪破损了之后没好好修理，而是仓促之间凑合着用了一些应急手段。不过枪托倒是没有损坏，状况很好，上面很随意地包扎着残缺不全的墨西哥国旗。这把枪很有可能杀过无数人。 </PFPaciencia.description>
+
+  <Bullet_PFMarksmanCarbine.label>5.56mm弹药</Bullet_PFMarksmanCarbine.label>
+
+  <PFMarksmanCarbine.label>神射手卡宾枪</PFMarksmanCarbine.label>
+  <PFMarksmanCarbine.description>一把带瞄准镜的半自动步枪。</PFMarksmanCarbine.description>
+
+  <Bullet_PFGobiCampaign.label>.308弹药</Bullet_PFGobiCampaign.label>
+
+  <PFGobiCampaign.label>“戈壁”狙击步枪</PFGobiCampaign.label>
+  <PFGobiCampaign.description>一把特殊的型号的狙击步枪，来自一片沙漠，枪身古旧而且伤痕累累。</PFGobiCampaign.description>
+
+  <Bullet_PFBozar.label>5.56mm弹药</Bullet_PFBozar.label>
+
+  <PFBozar.label>“波扎”轻机枪</PFBozar.label>
+  <PFBozar.description>一把特殊型号的轻机枪，是一把将轻机枪和狙击步枪融合为一体的奇怪武器。</PFBozar.description>
+
+
+</LanguageData>

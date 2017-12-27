@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFRadscorpion.label>辐射蝎</PFRadscorpion.label>
+  <PFRadscorpion.labelPlural>辐射蝎</PFRadscorpion.labelPlural>
+  <PFRadscorpion.lifeStages.0.label>辐射蝎</PFRadscorpion.lifeStages.0.label>
+  <PFRadscorpion.lifeStages.0.labelPlural>辐射蝎</PFRadscorpion.lifeStages.0.labelPlural>
+  <PFRadscorpion.lifeStages.0.labelMale>公辐射蝎</PFRadscorpion.lifeStages.0.labelMale>
+  <PFRadscorpion.lifeStages.0.labelMalePlural>公辐射蝎</PFRadscorpion.lifeStages.0.labelMalePlural>
+  <PFRadscorpion.lifeStages.0.labelFemale>母辐射蝎</PFRadscorpion.lifeStages.0.labelFemale>
+  <PFRadscorpion.lifeStages.0.labelFemalePlural>母辐射蝎</PFRadscorpion.lifeStages.0.labelFemalePlural>
+  <PFRadscorpion.lifeStages.1.label>辐射蝎</PFRadscorpion.lifeStages.1.label>
+  <PFRadscorpion.lifeStages.1.labelPlural>辐射蝎</PFRadscorpion.lifeStages.1.labelPlural>
+  <PFRadscorpion.lifeStages.1.labelMale>公辐射蝎</PFRadscorpion.lifeStages.1.labelMale>
+  <PFRadscorpion.lifeStages.1.labelMalePlural>公辐射蝎</PFRadscorpion.lifeStages.1.labelMalePlural>
+  <PFRadscorpion.lifeStages.1.labelFemale>母辐射蝎</PFRadscorpion.lifeStages.1.labelFemale>
+  <PFRadscorpion.lifeStages.1.labelFemalePlural>母辐射蝎</PFRadscorpion.lifeStages.1.labelFemalePlural>
+  <PFRadscorpion.lifeStages.2.label>辐射蝎</PFRadscorpion.lifeStages.2.label>
+  <PFRadscorpion.lifeStages.2.labelPlural>辐射蝎</PFRadscorpion.lifeStages.2.labelPlural>
+  <PFRadscorpion.lifeStages.2.labelMale>公辐射蝎</PFRadscorpion.lifeStages.2.labelMale>
+  <PFRadscorpion.lifeStages.2.labelMalePlural>公辐射蝎</PFRadscorpion.lifeStages.2.labelMalePlural>
+  <PFRadscorpion.lifeStages.2.labelFemale>母辐射蝎</PFRadscorpion.lifeStages.2.labelFemale>
+  <PFRadscorpion.lifeStages.2.labelFemalePlural>母辐射蝎</PFRadscorpion.lifeStages.2.labelFemalePlural>
+  <PFRadscorpion.labelMale>公辐射蝎</PFRadscorpion.labelMale>
+  <PFRadscorpion.labelMalePlural>公辐射蝎</PFRadscorpion.labelMalePlural>
+  <PFRadscorpion.labelFemale>母辐射蝎</PFRadscorpion.labelFemale>
+  <PFRadscorpion.labelFemalePlural>母辐射蝎</PFRadscorpion.labelFemalePlural>
+
+  <PFRadroach.label>辐射蟑螂</PFRadroach.label>
+  <PFRadroach.labelPlural>辐射蟑螂</PFRadroach.labelPlural>
+  <PFRadroach.lifeStages.0.label>辐射蟑螂</PFRadroach.lifeStages.0.label>
+  <PFRadroach.lifeStages.0.labelPlural>辐射蟑螂</PFRadroach.lifeStages.0.labelPlural>
+  <PFRadroach.lifeStages.0.labelMale>公辐射蟑螂</PFRadroach.lifeStages.0.labelMale>
+  <PFRadroach.lifeStages.0.labelMalePlural>公辐射蟑螂</PFRadroach.lifeStages.0.labelMalePlural>
+  <PFRadroach.lifeStages.0.labelFemale>母辐射蟑螂</PFRadroach.lifeStages.0.labelFemale>
+  <PFRadroach.lifeStages.0.labelFemalePlural>母辐射蟑螂</PFRadroach.lifeStages.0.labelFemalePlural>
+  <PFRadroach.lifeStages.1.label>辐射蟑螂</PFRadroach.lifeStages.1.label>
+  <PFRadroach.lifeStages.1.labelPlural>辐射蟑螂</PFRadroach.lifeStages.1.labelPlural>
+  <PFRadroach.lifeStages.1.labelMale>公辐射蟑螂</PFRadroach.lifeStages.1.labelMale>
+  <PFRadroach.lifeStages.1.labelMalePlural>公辐射蟑螂</PFRadroach.lifeStages.1.labelMalePlural>
+  <PFRadroach.lifeStages.1.labelFemale>母辐射蟑螂</PFRadroach.lifeStages.1.labelFemale>
+  <PFRadroach.lifeStages.1.labelFemalePlural>母辐射蟑螂</PFRadroach.lifeStages.1.labelFemalePlural>
+  <PFRadroach.lifeStages.2.label>辐射蟑螂</PFRadroach.lifeStages.2.label>
+  <PFRadroach.lifeStages.2.labelPlural>辐射蟑螂</PFRadroach.lifeStages.2.labelPlural>
+  <PFRadroach.lifeStages.2.labelMale>公辐射蟑螂</PFRadroach.lifeStages.2.labelMale>
+  <PFRadroach.lifeStages.2.labelMalePlural>公辐射蟑螂</PFRadroach.lifeStages.2.labelMalePlural>
+  <PFRadroach.lifeStages.2.labelFemale>母辐射蟑螂</PFRadroach.lifeStages.2.labelFemale>
+  <PFRadroach.lifeStages.2.labelFemalePlural>母辐射蟑螂</PFRadroach.lifeStages.2.labelFemalePlural>
+  <PFRadroach.labelMale>公辐射蟑螂</PFRadroach.labelMale>
+  <PFRadroach.labelMalePlural>公辐射蟑螂</PFRadroach.labelMalePlural>
+  <PFRadroach.labelFemale>母辐射蟑螂</PFRadroach.labelFemale>
+  <PFRadroach.labelFemalePlural>母辐射蟑螂</PFRadroach.labelFemalePlural>
+
+
+</LanguageData>

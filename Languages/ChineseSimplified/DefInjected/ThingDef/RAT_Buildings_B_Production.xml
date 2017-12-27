@@ -19,11 +19,11 @@
   <ResearchReactor_Frame.label>研究用核反应堆(建造中)</ResearchReactor_Frame.label>
   <ResearchReactor_Frame.description>研究用核反应堆。</ResearchReactor_Frame.description>
 
-  <WeaponsBench.label>能量武器研究台</WeaponsBench.label>
-  <WeaponsBench.description>能量武器研究台。</WeaponsBench.description>
-  <WeaponsBench_Blueprint.label>能量武器研究台(蓝图)</WeaponsBench_Blueprint.label>
-  <WeaponsBench_Frame.label>能量武器研究台(建造中)</WeaponsBench_Frame.label>
-  <WeaponsBench_Frame.description>能量武器研究台。</WeaponsBench_Frame.description>
+  <WeaponsBench.label>能量武器实验台</WeaponsBench.label>
+  <WeaponsBench.description>能量武器实验台。</WeaponsBench.description>
+  <WeaponsBench_Blueprint.label>能量武器实验台(蓝图)</WeaponsBench_Blueprint.label>
+  <WeaponsBench_Frame.label>能量武器实验台(建造中)</WeaponsBench_Frame.label>
+  <WeaponsBench_Frame.description>能量武器实验台。</WeaponsBench_Frame.description>
 
   <PlutoniumProcessor.label>钚分离器</PlutoniumProcessor.label>
   <PlutoniumProcessor.description>使用化学法从核废料中分离出钚元素。</PlutoniumProcessor.description>

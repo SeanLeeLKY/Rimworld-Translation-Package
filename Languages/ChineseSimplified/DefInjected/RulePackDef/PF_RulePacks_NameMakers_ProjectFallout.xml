@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFNamerFactionVaults.rulePack.rulesStrings.0>name->13号避难所</PFNamerFactionVaults.rulePack.rulesStrings.0>
+  <PFNamerFactionVaults.rulePack.rulesStrings.1>name->101号避难所</PFNamerFactionVaults.rulePack.rulesStrings.1>
+  <PFNamerFactionVaults.rulePack.rulesStrings.2>name->111号避难所</PFNamerFactionVaults.rulePack.rulesStrings.2>
+  <PFNamerFactionVaults.rulePack.rulesStrings.3>name->87号避难所</PFNamerFactionVaults.rulePack.rulesStrings.3>
+  <PFNamerFactionVaults.rulePack.rulesStrings.4>name->地下掩体市</PFNamerFactionVaults.rulePack.rulesStrings.4>
+  <PFNamerFactionVaults.rulePack.rulesStrings.5>name->19号避难所</PFNamerFactionVaults.rulePack.rulesStrings.5>
+  <PFNamerFactionVaults.rulePack.rulesStrings.6>name->29号避难所</PFNamerFactionVaults.rulePack.rulesStrings.6>
+  <PFNamerFactionVaults.rulePack.rulesStrings.7>name->43号避难所</PFNamerFactionVaults.rulePack.rulesStrings.7>
+  <PFNamerFactionVaults.rulePack.rulesStrings.8>name->75号避难所</PFNamerFactionVaults.rulePack.rulesStrings.8>
+  <PFNamerFactionVaults.rulePack.rulesStrings.9>name->76号避难所</PFNamerFactionVaults.rulePack.rulesStrings.9>
+  <PFNamerFactionVaults.rulePack.rulesStrings.10>name->81号避难所</PFNamerFactionVaults.rulePack.rulesStrings.10>
+  <PFNamerFactionVaults.rulePack.rulesStrings.11>name->42号避难所</PFNamerFactionVaults.rulePack.rulesStrings.11>
+  <PFNamerFactionVaults.rulePack.rulesStrings.12>name->55号避难所</PFNamerFactionVaults.rulePack.rulesStrings.12>
+  <PFNamerFactionVaults.rulePack.rulesStrings.13>name->56号避难所</PFNamerFactionVaults.rulePack.rulesStrings.13>
+  <PFNamerFactionVaults.rulePack.rulesStrings.14>name->70号避难所</PFNamerFactionVaults.rulePack.rulesStrings.14>
+  <PFNamerFactionVaults.rulePack.rulesStrings.15>name->32号避难所</PFNamerFactionVaults.rulePack.rulesStrings.15>
+  <PFNamerFactionVaults.rulePack.rulesStrings.16>name->32号避难所</PFNamerFactionVaults.rulePack.rulesStrings.16>
+  <PFNamerFactionVaults.rulePack.rulesStrings.17>name->117号避难所</PFNamerFactionVaults.rulePack.rulesStrings.17>
+  <PFNamerFactionVaults.rulePack.rulesStrings.18>name->123号避难所</PFNamerFactionVaults.rulePack.rulesStrings.18>
+
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.0>name->失落丘</PFNamerFactionBrotherhood.rulePack.rulesStrings.0>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.1>name->大教堂</PFNamerFactionBrotherhood.rulePack.rulesStrings.1>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.2>name->隐秘谷</PFNamerFactionBrotherhood.rulePack.rulesStrings.2>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.3>name->独立要塞</PFNamerFactionBrotherhood.rulePack.rulesStrings.3>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.4>name->阿尔法地堡</PFNamerFactionBrotherhood.rulePack.rulesStrings.4>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.5>name->贝塔地堡</PFNamerFactionBrotherhood.rulePack.rulesStrings.5>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.6>name->伽马地堡</PFNamerFactionBrotherhood.rulePack.rulesStrings.6>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.7>name->德尔塔地堡</PFNamerFactionBrotherhood.rulePack.rulesStrings.7>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.8>name->艾司隆地堡</PFNamerFactionBrotherhood.rulePack.rulesStrings.8>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.9>name->丹恩城</PFNamerFactionBrotherhood.rulePack.rulesStrings.9>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.10>name->太阳神一号</PFNamerFactionBrotherhood.rulePack.rulesStrings.10>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.11>name->航点回声</PFNamerFactionBrotherhood.rulePack.rulesStrings.11>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.12>name->13号地堡</PFNamerFactionBrotherhood.rulePack.rulesStrings.12>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.13>name->阿尔法安全屋</PFNamerFactionBrotherhood.rulePack.rulesStrings.13>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.14>name->贝塔安全屋</PFNamerFactionBrotherhood.rulePack.rulesStrings.14>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.15>name->伽马安全屋</PFNamerFactionBrotherhood.rulePack.rulesStrings.15>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.16>name->德尔塔安全屋</PFNamerFactionBrotherhood.rulePack.rulesStrings.16>
+  <PFNamerFactionBrotherhood.rulePack.rulesStrings.17>name->艾司隆安全屋</PFNamerFactionBrotherhood.rulePack.rulesStrings.17>
+
+  <PFNamerFactionVaultFaction.rulePack.rulesStrings.0>name->地下掩体市</PFNamerFactionVaultFaction.rulePack.rulesStrings.0>
+  <PFNamerFactionVaultFaction.rulePack.rulesStrings.1>name->避难所科技</PFNamerFactionVaultFaction.rulePack.rulesStrings.1>
+  <PFNamerFactionVaultFaction.rulePack.rulesStrings.2>name->避难所居民</PFNamerFactionVaultFaction.rulePack.rulesStrings.2>
+  <PFNamerFactionVaultFaction.rulePack.rulesStrings.3>name->避难所</PFNamerFactionVaultFaction.rulePack.rulesStrings.3>
+
+  <NamerFactionPFBrotherhood.rulePack.rulesStrings.0>name->钢铁兄弟会</NamerFactionPFBrotherhood.rulePack.rulesStrings.0>
+
+
+</LanguageData>

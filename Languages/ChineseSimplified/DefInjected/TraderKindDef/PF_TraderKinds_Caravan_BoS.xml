@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Caravan_PFBrotherhood_BulkGoods.label>批发贸易商</Caravan_PFBrotherhood_BulkGoods.label>
+  <Caravan_PFBrotherhood_TechSupplier.label>科技产品贸易商</Caravan_PFBrotherhood_TechSupplier.label>
+  <Caravan_PFBrotherhood_Exotic.label>稀有物品贸易商</Caravan_PFBrotherhood_Exotic.label>
+  <!--[Duplicated] <Visitor_Vault_Standard.label>Trader</Visitor_Vault_Standard.label>-->
+  <Visitor_PFBrotherhood_Standard.label>贸易商</Visitor_PFBrotherhood_Standard.label>
+
+
+</LanguageData>

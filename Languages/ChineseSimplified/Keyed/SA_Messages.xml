@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_ModName>Survivalist's Additions 幸存者添加包</SRV_ModName>
+
+  <SRV_NoIngredient>需要材料</SRV_NoIngredient>
+  <SRV_TemperatureRangeLower>温度范围</SRV_TemperatureRangeLower>
+
+  <!-- Snare -->
+  <SRV_LetterSnareTriggeredLabel>{0} 被捕获!</SRV_LetterSnareTriggeredLabel>
+  <SRV_LetterSnareTriggered>一个 {0} 已经被捕获，并且会逐渐窒息而死。殖民者可以解除陷阱救援动物，或者等待动物死去。</SRV_LetterSnareTriggered>
+  <SRV_LetterSnareTriggeredColony>{0} 闲逛进入了一个捕猎陷阱并且救援。 动物可以通过命令殖民者解除陷阱而从陷阱中获救。</SRV_LetterSnareTriggeredColony>
+  <SRV_MenuOption_DisableSnare>解除陷阱</SRV_MenuOption_DisableSnare>
+
+  <!-- Vinegar Barrel -->
+  <SRV_ContainsJuice>能容纳 {0} / {1} 果汁。</SRV_ContainsJuice>
+  <SRV_ContainsVinegar>能容纳 {0} / {1} 醋。</SRV_ContainsVinegar>
+
+  <!-- Cheese Barrel -->
+  <SRV_ContainsCurdledMilk>能容纳 {0} / {1} 凝乳。</SRV_ContainsCurdledMilk>
+  <SRV_ContainsCheese>能容纳 {0} / {1} 奶酪。</SRV_ContainsCheese>
+  <SRV_Aged>老化</SRV_Aged>
+
+  <!-- Smoker -->
+  <SRV_ContainsFood>能容纳 {0} / {1} 食物。</SRV_ContainsFood>
+  <SRV_ContainsSmokedFood>能容纳 {0} / {1} 熏制食物。</SRV_ContainsSmokedFood>
+  <SRV_Smoked>熏制</SRV_Smoked>
+  <SRV_SmokerLocked>密封烹饪</SRV_SmokerLocked>
+  <SRV_InspectSmokerTending>需要照看。熏制速度: 75%</SRV_InspectSmokerTending>
+  <SRV_SmokerOutOfIdealTemperature>非理想温度。熏制速度: {0}</SRV_SmokerOutOfIdealTemperature>
+  <SRV_IdealSmokingTemperature>理想熏制温度</SRV_IdealSmokingTemperature>
+  <SRV_Rot>腐烂: {0}</SRV_Rot>
+  <SRV_Food>食物</SRV_Food>
+
+  <!-- Charcoal Pit -->
+  <SRV_ContainsWood>能容纳 {0} / {1} 原木。</SRV_ContainsWood>
+  <SRV_ContainsCharcoal>能容纳 {0} / {1} 木碳.</SRV_ContainsCharcoal>
+  <SRV_Charred>碳化</SRV_Charred>
+
+  <!-- Settings -->
+  <SRV_Label_VinegarBarrel_MaxCapacity>酿醋桶最大容量: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_VinegarBarrel_MaxCapacity>
+  <SRV_Label_VinegarBarrel_FermentDays>酿醋桶发酵天数: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_VinegarBarrel_FermentDays>
+
+  <SRV_Label_CheeseBarrel_MaxCapacity>奶酪桶最大容量: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_CheeseBarrel_MaxCapacity>
+  <SRV_Label_CheeseBarrel_AgingDays>奶酪桶发酵天数: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_CheeseBarrel_AgingDays>
+
+  <SRV_Label_Smoker_MaxCapacity>熏炉最大容量: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_Smoker_MaxCapacity>
+  <SRV_Label_Smoker_SmokeHours>熏炉熏制时间（小时）: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt; </SRV_Label_Smoker_SmokeHours>
+  <SRV_Label_Smoker_TendHours>熏炉照看间隔（小时）: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_Smoker_TendHours>
+
+  <SRV_Label_CharcoalPit_MaxCapacity>炭坑最大容量: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_CharcoalPit_MaxCapacity>
+  <SRV_Label_CharcoalPit_BurnHours>碳坑烧制时间（小时）: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_CharcoalPit_BurnHours>
+  <SRV_Label_CharcoalPit_CharcoalPerWoodLog>碳坑中的原木和木炭的产出比例: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_CharcoalPit_CharcoalPerWoodLog>
+
+  <SRV_Label_Snare_FailChance>陷阱失败几率: 难度 x &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</SRV_Label_Snare_FailChance>
+  <SRV_Label_Snare_BreakChance>陷阱破坏几率: 难度 x &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</SRV_Label_Snare_BreakChance>
+
+  <SRV_Label_GenStep_PlantDensity>黄麻和芦苇野外生长乘数: &lt;b&gt;&lt;color=orange&gt;{0}&lt;/color&gt;&lt;/b&gt;</SRV_Label_GenStep_PlantDensity>
+
+  <!-- Settings -->
+  <SRV_ToolTip_VinegarBarrel_MaxCapacity>醸醋桶单次可发酵醋汁的最大数量。</SRV_ToolTip_VinegarBarrel_MaxCapacity>
+  <SRV_ToolTip_VinegarBarrel_FermentDays>醋汁发酵需要多少天的时间。</SRV_ToolTip_VinegarBarrel_FermentDays>
+
+  <SRV_ToolTip_CheeseBarrel_MaxCapacity>奶酪桶单次可发酵凝乳的最大数量。</SRV_ToolTip_CheeseBarrel_MaxCapacity>
+  <SRV_ToolTip_CheeseBarrel_AgingDays>凝乳发酵成奶酪需要多少天时间。</SRV_ToolTip_CheeseBarrel_AgingDays>
+
+  <SRV_ToolTip_Smoker_MaxCapacity>熏炉单次可熏制肉或者奶酪的最大数量。</SRV_ToolTip_Smoker_MaxCapacity>
+  <SRV_ToolTip_Smoker_SmokeHours>熏炉熏制食物需要多少个小时。</SRV_ToolTip_Smoker_SmokeHours>
+  <SRV_ToolTip_Smoker_TendHours>熏炉每隔多少小时需要被殖民者照看。如果熏炉需要照看，则会以70%的速度熏制。照看熏炉不消耗任何材料。</SRV_ToolTip_Smoker_TendHours>
+
+  <SRV_ToolTip_CharcoalPit_MaxCapacity>碳坑单次可烧制原木的最大数量。</SRV_ToolTip_CharcoalPit_MaxCapacity>
+  <SRV_ToolTip_CharcoalPit_BurnHours>烧制成木炭需要多少个小时。</SRV_ToolTip_CharcoalPit_BurnHours>
+  <SRV_ToolTip_CharcoalPit_CharcoalPerWoodLog>每根木头可烧制出多少木炭。 数值将四舍五入到最接近的整数。</SRV_ToolTip_CharcoalPit_CharcoalPerWoodLog>
+
+  <SRV_ToolTip_Snare_FailChance>陷阱捕获动物失败的几率。这个数值乘以游戏难度，和平模式和基地建造者难度是【1X这个数值】，极端挑战模式是【5X这个数值】，以此类推。</SRV_ToolTip_Snare_FailChance>
+  <SRV_ToolTip_Snare_BreakChance>动物挣脱或死亡后，陷阱被破坏的几率。这个百分比以游戏难度，和平模式和基地建造者难度是【1X这个百分比】，极端挑战模式是【5X这个百分比】，以此类推。</SRV_ToolTip_Snare_BreakChance>
+
+  <SRV_ToolTip_GenStep_PlantDensity>芦苇和黄麻在地图初始化野外生长乘数。将值设置为0将禁止野外生长。</SRV_ToolTip_GenStep_PlantDensity>
+
+</LanguageData>

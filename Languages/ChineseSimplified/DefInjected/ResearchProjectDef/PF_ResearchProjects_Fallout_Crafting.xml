@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFAdvancedPowerArmor.label>高级动力装甲</PFAdvancedPowerArmor.label>
+  <PFAdvancedPowerArmor.description>动力装甲技术的进一步进步使生产更高技术和更厚重的装甲装备成为可能。允许你制造x-01动力装甲。</PFAdvancedPowerArmor.description>
+
+  <PFEnergyWeapons.label>能量武器</PFEnergyWeapons.label>
+  <PFEnergyWeapons.description>透镜聚焦的高功率能量光束和超导轨道加速的高温等离子体都是有潜力的武器。允许你制造基础能源武器。</PFEnergyWeapons.description>
+
+  <PFSpecialEnergyWeapons.label>专业化能量武器</PFSpecialEnergyWeapons.label>
+  <PFSpecialEnergyWeapons.description> 更精确的聚焦和更强大的磁力造就了更高功率的特殊用途能量武器。允许你制造特殊的能量武器。</PFSpecialEnergyWeapons.description>
+
+  <PFabricAug.label>衣物增强</PFabricAug.label>
+  <PFabricAug.description>裁缝水平的进步让你达到了避难所科技服装严格的供货准入标准。允许你制作避难所服装.</PFabricAug.description>
+
+  <PFChemProduction.label>化工生产</PFChemProduction.label>
+  <PFChemProduction.description>经过严格的实验，你研制出多种药物的化学配方。允许你制作基本的化学品</PFChemProduction.description>
+
+  <PFBasicTurrets.label>基础炮塔</PFBasicTurrets.label>
+  <PFBasicTurrets.description>你通过基础编程改进了炮塔，尽管依然比较简陋，但是性能有了显著的提升。允许你制造机枪炮塔和重型机枪炮塔。</PFBasicTurrets.description>
+
+
+</LanguageData>

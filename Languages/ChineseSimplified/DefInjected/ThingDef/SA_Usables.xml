@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_MealTurnipSalad.label>萝卜沙拉</SRV_MealTurnipSalad.label>
+  <SRV_MealTurnipSalad.description>新鲜蔬菜切碎混合到一起 ——— 希望有一把干净的小刀。</SRV_MealTurnipSalad.description>
+
+  <SRV_MealCabbageSalad.label>卷心菜沙拉</SRV_MealCabbageSalad.label>
+  <SRV_MealCabbageSalad.description>新鲜蔬菜切碎混合到一起 ——— 希望有一把干净的小刀。</SRV_MealCabbageSalad.description>
+
+  <SRV_MealGrilledMeat.label>烧烤食物（肉）</SRV_MealGrilledMeat.label>
+  <SRV_MealGrilledMeat.description>一种在明火上烹饪或者烟熏的食物。</SRV_MealGrilledMeat.description>
+
+  <SRV_MealGrilledVeg.label>烧烤食物（蔬菜）</SRV_MealGrilledVeg.label>
+  <SRV_MealGrilledVeg.description>一种在明火上烹饪或者烟熏的食物。</SRV_MealGrilledVeg.description>
+
+  <SRV_MealGrilledFine.label>烧烤佳肴</SRV_MealGrilledFine.label>
+  <SRV_MealGrilledFine.description>一种在明火上烹饪或者烟熏的食物。</SRV_MealGrilledFine.description>
+
+  <SRV_Turnip.label>萝卜</SRV_Turnip.label>
+  <SRV_Turnip.description>一种即使没有冷藏也能保存很长时间的根类蔬菜。</SRV_Turnip.description>
+
+  <SRV_Turnip_Green.label>萝卜叶</SRV_Turnip_Green.label>
+  <SRV_Turnip_Green.description>萝卜植株的可食叶片，可以生吃。</SRV_Turnip_Green.description>
+
+  <SRV_Cabbage.label>卷心菜</SRV_Cabbage.label>
+  <SRV_Cabbage.description>生卷心菜。</SRV_Cabbage.description>
+
+  <SRV_PickledTurnip.label>腌萝卜</SRV_PickledTurnip.label>
+  <SRV_PickledTurnip.description>用醋腌制萝卜可以防止腐烂。可以单独食用，也可以用于进餐。</SRV_PickledTurnip.description>
+
+  <SRV_PickledCabbage.label>腌卷心菜</SRV_PickledCabbage.label>
+  <SRV_PickledCabbage.description>用醋腌制卷心菜可以防止腐烂。可以单独食用，也可以在餐食中使用。</SRV_PickledCabbage.description>
+
+  <SRV_MushroomBundle.label>瑞姆菇</SRV_MushroomBundle.label>
+  <SRV_MushroomBundle.description>食用蘑菇。可以作为蛋白质来源吃掉。</SRV_MushroomBundle.description>
+
+  <SRV_PricklyPear.label>仙人果</SRV_PricklyPear.label>
+  <SRV_PricklyPear.description>生的仙人掌果实</SRV_PricklyPear.description>
+
+  <SRV_SmokedMeat.label>熏肉</SRV_SmokedMeat.label>
+  <SRV_SmokedMeat.description>一些烟熏过的肉，可以保存相当长的时间。</SRV_SmokedMeat.description>
+
+  <SRV_Cheese.label>奶酪</SRV_Cheese.label>
+  <SRV_Cheese.description>一种用凝乳发酵而成的食物，很美味在不冷藏的情况下可以保存21天。</SRV_Cheese.description>
+
+  <SRV_SmokedCheese.label>熏奶酪</SRV_SmokedCheese.label>
+  <SRV_SmokedCheese.description>奶酪被熏制后被保留并增强其风味。可以在不冷藏的状态下保存很长一段时间。</SRV_SmokedCheese.description>
+
+
+</LanguageData>

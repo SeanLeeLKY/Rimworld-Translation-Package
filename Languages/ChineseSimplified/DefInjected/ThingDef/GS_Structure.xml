@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GLO_GlowstoneFloorSingle.label>萤石带</GLO_GlowstoneFloorSingle.label>
+  <GLO_GlowstoneFloorSingle.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorSingle.description>
+  <GLO_GlowstoneFloorSingle_Blueprint.label>萤石带（蓝图）</GLO_GlowstoneFloorSingle_Blueprint.label>
+  <GLO_GlowstoneFloorSingle_Frame.label>萤石带（建造中）</GLO_GlowstoneFloorSingle_Frame.label>
+  <GLO_GlowstoneFloorSingle_Frame.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorSingle_Frame.description>
+
+  <GLO_GlowstoneFloorDouble.label>萤石带（双条）</GLO_GlowstoneFloorDouble.label>
+  <GLO_GlowstoneFloorDouble.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorDouble.description>
+  <GLO_GlowstoneFloorDouble_Blueprint.label>萤石带（双条）（蓝图）</GLO_GlowstoneFloorDouble_Blueprint.label>
+  <GLO_GlowstoneFloorDouble_Frame.label>萤石带（双条）（建造中）</GLO_GlowstoneFloorDouble_Frame.label>
+  <GLO_GlowstoneFloorDouble_Frame.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorDouble_Frame.description>
+
+  <GLO_GlowstoneFloorDeadend.label>萤石带（尽头）</GLO_GlowstoneFloorDeadend.label>
+  <GLO_GlowstoneFloorDeadend.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorDeadend.description>
+  <GLO_GlowstoneFloorDeadend_Blueprint.label>萤石带（尽头）（蓝图）</GLO_GlowstoneFloorDeadend_Blueprint.label>
+  <GLO_GlowstoneFloorDeadend_Frame.label>萤石带（尽头）（建造中）</GLO_GlowstoneFloorDeadend_Frame.label>
+  <GLO_GlowstoneFloorDeadend_Frame.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorDeadend_Frame.description>
+
+  <GLO_GlowstoneFloorCornerInner.label>萤石带（内角）</GLO_GlowstoneFloorCornerInner.label>
+  <GLO_GlowstoneFloorCornerInner.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorCornerInner.description>
+  <GLO_GlowstoneFloorCornerInner_Blueprint.label>萤石带（内角）（蓝图）</GLO_GlowstoneFloorCornerInner_Blueprint.label>
+  <GLO_GlowstoneFloorCornerInner_Frame.label>萤石带（内角）（建造中）</GLO_GlowstoneFloorCornerInner_Frame.label>
+  <GLO_GlowstoneFloorCornerInner_Frame.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorCornerInner_Frame.description>
+
+  <GLO_GlowstoneFloorCornerOuter.label>萤石带（外角）</GLO_GlowstoneFloorCornerOuter.label>
+  <GLO_GlowstoneFloorCornerOuter.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorCornerOuter.description>
+  <GLO_GlowstoneFloorCornerOuter_Blueprint.label>萤石带（外角）（蓝图）</GLO_GlowstoneFloorCornerOuter_Blueprint.label>
+  <GLO_GlowstoneFloorCornerOuter_Frame.label>萤石带（外角）（建造中）</GLO_GlowstoneFloorCornerOuter_Frame.label>
+  <GLO_GlowstoneFloorCornerOuter_Frame.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorCornerOuter_Frame.description>
+
+  <GLO_GlowstoneFloorCornerDouble.label>萤石带（双角）</GLO_GlowstoneFloorCornerDouble.label>
+  <GLO_GlowstoneFloorCornerDouble.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorCornerDouble.description>
+  <GLO_GlowstoneFloorCornerDouble_Blueprint.label>萤石带（双角）（蓝图）</GLO_GlowstoneFloorCornerDouble_Blueprint.label>
+  <GLO_GlowstoneFloorCornerDouble_Frame.label>萤石带（双角）（建造中）</GLO_GlowstoneFloorCornerDouble_Frame.label>
+  <GLO_GlowstoneFloorCornerDouble_Frame.description>用于照明走廊或狭窄区域的发光瓷砖。多个萤石带可以占据相同的位置，允许更复杂的设计。</GLO_GlowstoneFloorCornerDouble_Frame.description>
+
+
+</LanguageData>

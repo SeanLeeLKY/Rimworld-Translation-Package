@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFBuffed.label>壮大灵加强</PFBuffed.label>
+  <PFBuffed.labelNoun>壮大灵加强</PFBuffed.labelNoun>
+
+  <PFBuffoutTolerance.label>壮大灵耐药性</PFBuffoutTolerance.label>
+  <PFBuffoutTolerance.stages.1.label>小量的</PFBuffoutTolerance.stages.1.label>
+  <PFBuffoutTolerance.stages.2.label>大量的</PFBuffoutTolerance.stages.2.label>
+  <PFBuffoutTolerance.stages.3.label>超量的</PFBuffoutTolerance.stages.3.label>
+
+  <PFBuffoutAddiction.label>壮大灵成瘾</PFBuffoutAddiction.label>
+  <PFBuffoutAddiction.stages.1.label>状态消除</PFBuffoutAddiction.stages.1.label>
+
+
+</LanguageData>

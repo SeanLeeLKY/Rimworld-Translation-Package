@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GLO_WeldGlowstoneClusterElectric.label>熔炼萤石簇</GLO_WeldGlowstoneClusterElectric.label>
+  <GLO_WeldGlowstoneClusterElectric.description>将大块萤石加热到它们的熔点，然后融合成一个簇，可以做成雕塑。</GLO_WeldGlowstoneClusterElectric.description>
+  <GLO_WeldGlowstoneClusterElectric.jobString>正在将萤石熔炼成簇。</GLO_WeldGlowstoneClusterElectric.jobString>
+
+  <GLO_CutGlowstoneCluster.label>切割萤石簇</GLO_CutGlowstoneCluster.label>
+  <GLO_CutGlowstoneCluster.description>将一块萤石簇切割成四块大块萤石。</GLO_CutGlowstoneCluster.description>
+  <GLO_CutGlowstoneCluster.jobString>正在切割萤石簇。</GLO_CutGlowstoneCluster.jobString>
+
+  <GLO_WeldLargeGlowstoneElectric.label>正在熔炼大块萤石。</GLO_WeldLargeGlowstoneElectric.label>
+  <GLO_WeldLargeGlowstoneElectric.description>将小块萤石加热到它们的熔点，然后熔合成一个大块萤石。</GLO_WeldLargeGlowstoneElectric.description>
+  <GLO_WeldLargeGlowstoneElectric.jobString>正在熔炼萤石。</GLO_WeldLargeGlowstoneElectric.jobString>
+
+  <GLO_CutLargeGlowstone.label>切割大块萤石</GLO_CutLargeGlowstone.label>
+  <GLO_CutLargeGlowstone.description>一块大块萤石切割成四块小块萤石。</GLO_CutLargeGlowstone.description>
+  <GLO_CutLargeGlowstone.jobString>正在切割大块萤石。</GLO_CutLargeGlowstone.jobString>
+
+  <GLO_WeldSmallGlowstoneElectric.label>熔炼小块萤石</GLO_WeldSmallGlowstoneElectric.label>
+  <GLO_WeldSmallGlowstoneElectric.description>将萤石粉加热到它们的熔点，然后熔合成一个小块萤石。</GLO_WeldSmallGlowstoneElectric.description>
+  <GLO_WeldSmallGlowstoneElectric.jobString>正在熔炼萤石。</GLO_WeldSmallGlowstoneElectric.jobString>
+
+  <GLO_CrushSmallGlowstone.label>碾碎小块萤石</GLO_CrushSmallGlowstone.label>
+  <GLO_CrushSmallGlowstone.description>将一个小块萤石碾碎获取4份萤石粉。</GLO_CrushSmallGlowstone.description>
+  <GLO_CrushSmallGlowstone.jobString>正在碾碎小块萤石。</GLO_CrushSmallGlowstone.jobString>
+
+  <GLO_MakeEightGlowstoneTilesElectric.label>制作8块萤石砖</GLO_MakeEightGlowstoneTilesElectric.label>
+  <GLO_MakeEightGlowstoneTilesElectric.description>为照明制作附有萤石粉的铁砖。</GLO_MakeEightGlowstoneTilesElectric.description>
+  <GLO_MakeEightGlowstoneTilesElectric.jobString>在制作萤石砖。</GLO_MakeEightGlowstoneTilesElectric.jobString>
+
+  <GLO_MakeFortyGlowstoneTilesElectric.label>制作40块萤石砖</GLO_MakeFortyGlowstoneTilesElectric.label>
+  <GLO_MakeFortyGlowstoneTilesElectric.description>为照明制作附有萤石粉的铁砖。</GLO_MakeFortyGlowstoneTilesElectric.description>
+  <GLO_MakeFortyGlowstoneTilesElectric.jobString>正在制作萤石砖。</GLO_MakeFortyGlowstoneTilesElectric.jobString>
+
+
+</LanguageData>

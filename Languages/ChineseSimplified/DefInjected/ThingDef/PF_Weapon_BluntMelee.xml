@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MeleeWeapon_PF9Iron.label>9号杆</MeleeWeapon_PF9Iron.label>
+  <MeleeWeapon_PF9Iron.description>一根高尔夫球杆，在废土上被用的太久有点破。</MeleeWeapon_PF9Iron.description>
+  <MeleeWeapon_PF9Iron.tools.0.label>柄</MeleeWeapon_PF9Iron.tools.0.label>
+  <MeleeWeapon_PF9Iron.tools.1.label>头</MeleeWeapon_PF9Iron.tools.1.label>
+
+  <MeleeWeapon_PFNephiGolfDriver.label>“尼斐”的高尔夫球杆</MeleeWeapon_PFNephiGolfDriver.label>
+  <MeleeWeapon_PFNephiGolfDriver.description>一根特殊的9号高尔夫球杆，它最特别的地方就是被尼斐用来打爆了无数冒犯了这个恶魔的人的脑袋之后仍然锃亮如新。</MeleeWeapon_PFNephiGolfDriver.description>
+  <MeleeWeapon_PFNephiGolfDriver.tools.0.label>柄</MeleeWeapon_PFNephiGolfDriver.tools.0.label>
+  <MeleeWeapon_PFNephiGolfDriver.tools.1.label>头</MeleeWeapon_PFNephiGolfDriver.tools.1.label>
+
+  <MeleeWeapon_PFBaseballBat.label>打死棒</MeleeWeapon_PFBaseballBat.label>
+  <MeleeWeapon_PFBaseballBat.description>用来打棒球或敲人的头。</MeleeWeapon_PFBaseballBat.description>
+  <MeleeWeapon_PFBaseballBat.tools.0.label>柄</MeleeWeapon_PFBaseballBat.tools.0.label>
+  <MeleeWeapon_PFBaseballBat.tools.1.label>头</MeleeWeapon_PFBaseballBat.tools.1.label>
+
+  <MeleeWeapon_PFPowerFist.label>动力拳套</MeleeWeapon_PFPowerFist.label>
+  <MeleeWeapon_PFPowerFist.description>使用液压活塞增加冲击力的机械手套。</MeleeWeapon_PFPowerFist.description>
+  <MeleeWeapon_PFPowerFist.tools.0.label>侧面</MeleeWeapon_PFPowerFist.tools.0.label>
+  <MeleeWeapon_PFPowerFist.tools.1.label>拳</MeleeWeapon_PFPowerFist.tools.1.label>
+
+  <MeleeWeapon_PFPipe.label>铅管</MeleeWeapon_PFPipe.label>
+  <MeleeWeapon_PFPipe.description>一根水管只要够粗够重就能打爆你的头。</MeleeWeapon_PFPipe.description>
+  <MeleeWeapon_PFPipe.tools.0.label>柄</MeleeWeapon_PFPipe.tools.0.label>
+  <MeleeWeapon_PFPipe.tools.1.label>头</MeleeWeapon_PFPipe.tools.1.label>
+
+
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_MakePemmicanGrill.label>制作干肉饼</SRV_MakePemmicanGrill.label>
+  <SRV_MakePemmicanGrill.description>制作干肉饼，一种由肉食和素食混合脱水制成的食物。味道平平，不需冷藏也可以保存一年时间。</SRV_MakePemmicanGrill.description>
+  <SRV_MakePemmicanGrill.jobString>正在制作干肉饼。</SRV_MakePemmicanGrill.jobString>
+
+  <SRV_GrillMealMeat.label>烤肉（1）</SRV_GrillMealMeat.label>
+  <SRV_GrillMealMeat.description>准备一份由肉制成的烧烤餐，需要一点时间，不过味道不错。</SRV_GrillMealMeat.description>
+  <SRV_GrillMealMeat.jobString>正在烧烤。</SRV_GrillMealMeat.jobString>
+
+  <SRV_GrillMealMeatDouble.label>烤肉（2）</SRV_GrillMealMeatDouble.label>
+  <SRV_GrillMealMeatDouble.description>准备两份由肉制成的烧烤餐，需要一点时间，不过味道不错。</SRV_GrillMealMeatDouble.description>
+  <SRV_GrillMealMeatDouble.jobString>正在烧烤。</SRV_GrillMealMeatDouble.jobString>
+
+  <SRV_GrillMealVeg.label>烤蔬菜（1）</SRV_GrillMealVeg.label>
+  <SRV_GrillMealVeg.description>准备一份由蔬菜制成的烧烤餐，需要一点时间，不过味道不错。</SRV_GrillMealVeg.description>
+  <SRV_GrillMealVeg.jobString>正在烧烤。</SRV_GrillMealVeg.jobString>
+
+  <SRV_GrillMealVegDouble.label>烤蔬菜（2）</SRV_GrillMealVegDouble.label>
+  <SRV_GrillMealVegDouble.description>准备两份由蔬菜制成的烧烤餐，需要一点时间，不过味道不错。</SRV_GrillMealVegDouble.description>
+  <SRV_GrillMealVegDouble.jobString>正在烧烤。</SRV_GrillMealVegDouble.jobString>
+
+  <SRV_GrillMealFine.label>烤制佳肴</SRV_GrillMealFine.label>
+  <SRV_GrillMealFine.description>准备一份美味的烧烤餐，需要一点时间，味道鲜美。</SRV_GrillMealFine.description>
+  <SRV_GrillMealFine.jobString>正在烧烤。</SRV_GrillMealFine.jobString>
+
+  <SRV_PrepSalad.label>准备萝卜沙拉</SRV_PrepSalad.label>
+  <SRV_PrepSalad.description>用萝卜和蔬菜做沙拉。</SRV_PrepSalad.description>
+  <SRV_PrepSalad.jobString>正在切菜。</SRV_PrepSalad.jobString>
+
+  <SRV_PrepSaladCabbage.label>准备卷心菜沙拉</SRV_PrepSaladCabbage.label>
+  <SRV_PrepSaladCabbage.description>用切碎的卷心菜和蔬菜做沙拉。</SRV_PrepSaladCabbage.description>
+  <SRV_PrepSaladCabbage.jobString>正在切菜。</SRV_PrepSaladCabbage.jobString>
+
+  <SRV_PickleTurnip.label>渍萝卜</SRV_PickleTurnip.label>
+  <SRV_PickleTurnip.description>保存在醋里的萝卜。可以单独食用，也可以在餐食中使用。</SRV_PickleTurnip.description>
+  <SRV_PickleTurnip.jobString>正在腌渍。</SRV_PickleTurnip.jobString>
+
+  <SRV_PickleCabbage.label>制作泡菜</SRV_PickleCabbage.label>
+  <SRV_PickleCabbage.description>保存在醋里的卷心菜。可以单独食用，也可以在餐食中使用。</SRV_PickleCabbage.description>
+  <SRV_PickleCabbage.jobString>正在腌渍。</SRV_PickleCabbage.jobString>
+
+
+</LanguageData>

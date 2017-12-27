@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Facilities -->
+
+  <SRV_Bellows.label>风箱</SRV_Bellows.label>
+  <SRV_Bellows.description>增加锻造速度。需要放置在熔炉或坩埚附近。一个锻炉只能与一个风箱连接.</SRV_Bellows.description>
+  <SRV_Bellows_Blueprint.label>风箱（蓝图）</SRV_Bellows_Blueprint.label>
+  <SRV_Bellows_Blueprint_Install.label>风箱（蓝图）</SRV_Bellows_Blueprint_Install.label>
+  <SRV_Bellows_Frame.label>风箱（建造中）</SRV_Bellows_Frame.label>
+  <SRV_Bellows_Frame.description>增加锻造速度。需要放置在熔炉或坩埚附近。一个锻炉只能与一个风箱连接。</SRV_Bellows_Frame.description>
+
+
+  <!-- Utility -->
+
+  <SRV_VinegarBarrel.label>酿醋桶</SRV_VinegarBarrel.label>
+  <SRV_VinegarBarrel.description>用来发酵醋的桶。</SRV_VinegarBarrel.description>
+  <SRV_VinegarBarrel_Blueprint.label>酿醋桶（蓝图）</SRV_VinegarBarrel_Blueprint.label>
+  <SRV_VinegarBarrel_Blueprint_Install.label>酿醋桶（蓝图）</SRV_VinegarBarrel_Blueprint_Install.label>
+  <SRV_VinegarBarrel_Frame.label>酿醋桶（建造中）</SRV_VinegarBarrel_Frame.label>
+  <SRV_VinegarBarrel_Frame.description>用来发酵醋的桶。</SRV_VinegarBarrel_Frame.description>
+
+  <SRV_CheeseBarrel.label>奶酪桶</SRV_CheeseBarrel.label>
+  <SRV_CheeseBarrel.description>用来发酵奶酪的桶。</SRV_CheeseBarrel.description>
+  <SRV_CheeseBarrel_Blueprint.label>奶酪桶（蓝图）</SRV_CheeseBarrel_Blueprint.label>
+  <SRV_CheeseBarrel_Blueprint_Install.label>奶酪桶（蓝图）</SRV_CheeseBarrel_Blueprint_Install.label>
+  <SRV_CheeseBarrel_Frame.label>奶酪桶（建造中）</SRV_CheeseBarrel_Frame.label>
+  <SRV_CheeseBarrel_Frame.description>用来发酵奶酪的桶。</SRV_CheeseBarrel_Frame.description>
+
+  <SRV_ShelterHeater.label>庇护所加热器</SRV_ShelterHeater.label>
+  <SRV_ShelterHeater.description>燃烧的原木用来产生热量，两天之后就会烧光，可以重新填充。就像所有热源一样，它必须放在室内，这样它就有一个封闭的空间来加热。</SRV_ShelterHeater.description>
+  <SRV_ShelterHeater_Blueprint.label>庇护所加热器（蓝图）</SRV_ShelterHeater_Blueprint.label>
+  <SRV_ShelterHeater_Frame.label>庇护所加热器（建造中）</SRV_ShelterHeater_Frame.label>
+  <SRV_ShelterHeater_Frame.description>燃烧的原木用来产生热量，两天之后就会烧光，可以重新填充。就像所有热源一样，它必须放在室内，这样它就有一个封闭的空间来加热。</SRV_ShelterHeater_Frame.description>
+
+  <SRV_CharcoalPit.label>炭坑</SRV_CharcoalPit.label>
+  <SRV_CharcoalPit.description>一堆燃烧的木头，上面覆盖着用以阻挡氧气的泥土。</SRV_CharcoalPit.description>
+  <SRV_CharcoalPit_Blueprint.label>炭坑（蓝图）</SRV_CharcoalPit_Blueprint.label>
+  <SRV_CharcoalPit_Frame.label>炭坑（建造中）</SRV_CharcoalPit_Frame.label>
+  <SRV_CharcoalPit_Frame.description>一堆燃烧的木头，上面覆盖着用以阻挡氧气的泥土。</SRV_CharcoalPit_Frame.description>
+
+  <SRV_Snare.label>捕猎陷阱</SRV_Snare.label>
+  <SRV_Snare.description>一个捕捉动物的简单陷阱。大体型的动物会被暂时困住，小体形的动物会被抓住并窒息。</SRV_Snare.description>
+  <SRV_Snare_Blueprint.label>捕猎陷阱（蓝图）</SRV_Snare_Blueprint.label>
+  <SRV_Snare_Frame.label>捕猎陷阱（建造中）</SRV_Snare_Frame.label>
+  <SRV_Snare_Frame.description>一个捕捉动物的简单陷阱。大体型的动物会被暂时困住，小形的动物会被抓住和窒息。</SRV_Snare_Frame.description>
+
+
+</LanguageData>

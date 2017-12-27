@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_PFPipePistol.label>.38子弹</Bullet_PFPipePistol.label>
+
+  <Gun_PFPipePistol.label>铁管手枪</Gun_PFPipePistol.label>
+  <Gun_PFPipePistol.description>一把临时拼凑的手枪，容易制造，伤害低。</Gun_PFPipePistol.description>
+
+  <Bullet_PFPipeRevolver.label>.38子弹</Bullet_PFPipeRevolver.label>
+
+  <Gun_PFPipeRevolver.label>铁管左轮手枪</Gun_PFPipeRevolver.label>
+  <Gun_PFPipeRevolver.description>一把临时拼凑的左轮手枪，比铁管手枪难做一点，火力也足点。</Gun_PFPipeRevolver.description>
+
+  <Bullet_PFPipeRifle.label>.38子弹</Bullet_PFPipeRifle.label>
+
+  <Gun_PFPipeRifle.label>铁管步枪</Gun_PFPipeRifle.label>
+  <Gun_PFPipeRifle.description>一把临时拼凑的步枪，制作简单，比手枪打的准。</Gun_PFPipeRifle.description>
+
+  <Bullet_PFPipeSMG.label>.38子弹</Bullet_PFPipeSMG.label>
+
+  <Gun_PFPipeSMG.label>铁管冲锋枪</Gun_PFPipeSMG.label>
+  <Gun_PFPipeSMG.description>一把临时拼凑的冲锋枪，制作简单，射速快。</Gun_PFPipeSMG.description>
+
+
+</LanguageData>

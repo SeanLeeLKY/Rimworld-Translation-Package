@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_PFPlasmaPistol.label>能量电池</Bullet_PFPlasmaPistol.label>
+
+  <PFPlasma_Pistol.label>电浆手枪</PFPlasma_Pistol.label>
+  <PFPlasma_Pistol.description>一款可以用超导轨发射致命高温等离子体的手枪.</PFPlasma_Pistol.description>
+
+  <Bullet_PFPlasmaDefender.label>能量电池</Bullet_PFPlasmaDefender.label>
+
+  <PFPlasma_Defender.label>电浆防卫者</PFPlasma_Defender.label>
+  <PFPlasma_Defender.description>这把旧式格洛克86等离子手枪发射比一般等离子手枪射程更短，但是威力更大的等离子体电浆.</PFPlasma_Defender.description>
+
+  <Bullet_PFPlasmaRifle.label>能量电池</Bullet_PFPlasmaRifle.label>
+
+  <PFPlasma_Rifle.label>电浆步枪</PFPlasma_Rifle.label>
+  <PFPlasma_Rifle.description>一款可以用超导轨发射致命高温等离子体的步枪.</PFPlasma_Rifle.description>
+
+  <Bullet_PFMultiplasRifle.label>能量电池</Bullet_PFMultiplasRifle.label>
+
+  <PFMultiplas_Rifle.label>散射等离子步枪</PFMultiplas_Rifle.label>
+  <PFMultiplas_Rifle.description>一款可以发射三团高温等离子体电浆将目标完全熔化的散弹枪，假如它能打中目标的话...</PFMultiplas_Rifle.description>
+
+  <Bullet_PFPlasmaScattergun.label>能量电池</Bullet_PFPlasmaScattergun.label>
+
+  <PFPlasmaScattergun.label>等离子猎枪</PFPlasmaScattergun.label>
+  <PFPlasmaScattergun.description>一款更先进的散弹枪，可以一次发射四团高温等离子电浆来将目标完全熔化，假如它能打中目标的话...</PFPlasmaScattergun.description>
+
+
+</LanguageData>

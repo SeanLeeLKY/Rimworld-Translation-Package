@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFEnraged.label>疯狂药狂暴</PFEnraged.label>
+  <PFEnraged.labelNoun>疯狂药狂暴</PFEnraged.labelNoun>
+
+  <PFPsychoTolerance.label>疯狂药耐药性</PFPsychoTolerance.label>
+  <PFPsychoTolerance.stages.1.label>小量的</PFPsychoTolerance.stages.1.label>
+  <PFPsychoTolerance.stages.2.label>大量的</PFPsychoTolerance.stages.2.label>
+  <PFPsychoTolerance.stages.3.label>超量的</PFPsychoTolerance.stages.3.label>
+
+  <PFPsychoAddiction.label>疯狂药成瘾</PFPsychoAddiction.label>
+  <PFPsychoAddiction.stages.1.label>状态消除</PFPsychoAddiction.stages.1.label>
+
+
+</LanguageData>

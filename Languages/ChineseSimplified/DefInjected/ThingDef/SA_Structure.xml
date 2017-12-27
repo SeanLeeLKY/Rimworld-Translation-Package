@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_ShelterDoor.label>庇护所门</SRV_ShelterDoor.label>
+  <SRV_ShelterDoor.description>分开房间的简单防护门，通过很快，易摧毁。</SRV_ShelterDoor.description>
+  <SRV_ShelterDoor_Blueprint.label>庇护所门（蓝图）</SRV_ShelterDoor_Blueprint.label>
+  <SRV_ShelterDoor_Frame.label>庇护所门（蓝图）</SRV_ShelterDoor_Frame.label>
+  <SRV_ShelterDoor_Frame.description>分开房间的简单防护门，通过很快，易摧毁。</SRV_ShelterDoor_Frame.description>
+
+  <SRV_WallShelter.label>庇护所墙</SRV_WallShelter.label>
+  <SRV_WallShelter.description>用木头做的简易墙，能够支撑屋顶，但很容易被摧毁。</SRV_WallShelter.description>
+  <SRV_WallShelter_Blueprint.label>庇护所墙（蓝图）</SRV_WallShelter_Blueprint.label>
+  <SRV_WallShelter_Frame.label>庇护所墙（建造中）</SRV_WallShelter_Frame.label>
+  <SRV_WallShelter_Frame.description>用木头做的简易墙，能够支撑屋顶，但很容易被摧毁。</SRV_WallShelter_Frame.description>
+
+
+</LanguageData>

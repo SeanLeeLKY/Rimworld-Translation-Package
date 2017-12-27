@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_PlantTurnip.label>萝卜</SRV_PlantTurnip.label>
+  <SRV_PlantTurnip.description>有可食用叶子的根蔬菜。生长迅速，能够在寒冷的环境中生存。</SRV_PlantTurnip.description>
+
+  <SRV_PlantCabbage.label>卷心菜</SRV_PlantCabbage.label>
+  <SRV_PlantCabbage.description>一种有大叶片的球形植物。需要好的土壤，但能够熬过冬天。</SRV_PlantCabbage.description>
+
+  <SRV_WildJute.label>黄麻</SRV_WildJute.label>
+  <SRV_WildJute.description>一种高大的植物通常生长在非常潮湿的地区。 植物的茎可用于制作麻布或动物饲料。</SRV_WildJute.description>
+
+  <SRV_CultivatedJute.label>黄麻</SRV_CultivatedJute.label>
+  <SRV_CultivatedJute.description>一种高大的植物通常生长在非常潮湿的地区。 植物的茎可用于制作麻布或动物饲料。</SRV_CultivatedJute.description>
+
+  <SRV_HydroJute.label>黄麻</SRV_HydroJute.label>
+  <SRV_HydroJute.description>一种高大的植物通常生长在非常潮湿的地区。 植物的茎可用于制作麻布或动物饲料。</SRV_HydroJute.description>
+
+  <SRV_Mushroom.label>瑞姆菇</SRV_Mushroom.label>
+  <SRV_Mushroom.description>一种在洞穴中罕见的蘑菇。可以收获作为蛋白质来源。</SRV_Mushroom.description>
+
+  <SRV_Hayreed.label>芦苇</SRV_Hayreed.label>
+  <SRV_Hayreed.description>一种生长在河流和池塘边的野生植物。 这种植物是干草的重要来源。</SRV_Hayreed.description>
+
+
+</LanguageData>

@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Bullet_PFCaravanShotgun.label>20口径散弹枪弹药</Bullet_PFCaravanShotgun.label>
+
+  <Gun_PFCaravanShotgun.label>双管散弹枪</Gun_PFCaravanShotgun.label>
+  <Gun_PFCaravanShotgun.description>一把老式的双管猎枪，射程短，但如果你靠的足够近，它可以把目标撕碎。</Gun_PFCaravanShotgun.description>
+
+  <Bullet_PFSCaravanShotgun.label>20口径散弹枪弹药</Bullet_PFSCaravanShotgun.label>
+
+  <Gun_PFSCaravanShotgun.label>耐用双管散弹枪</Gun_PFSCaravanShotgun.label>
+  <Gun_PFSCaravanShotgun.description>双管散弹枪的特殊型号，虽然边缘比较粗糙，但部件更结实，而且一样可以把近距离目标撕碎。</Gun_PFSCaravanShotgun.description>
+
+  <Bullet_PFHuntingShotgun.label>12口径散弹枪弹药</Bullet_PFHuntingShotgun.label>
+
+  <Gun_PFHuntingShotgun.label>散弹猎枪</Gun_PFHuntingShotgun.label>
+  <Gun_PFHuntingShotgun.description>一把强大的狩猎用散弹枪，威力足，射程短。</Gun_PFHuntingShotgun.description>
+
+  <Bullet_PFDinnerBell.label>12口径散弹枪弹药</Bullet_PFDinnerBell.label>
+
+  <Gun_PFDinnerBell.label>“开饭铃”霰弹枪</Gun_PFDinnerBell.label>
+  <Gun_PFDinnerBell.description>散弹猎枪加强版，迷彩涂装，射的更准。 </Gun_PFDinnerBell.description>
+
+  <Bullet_PFLeverActionShotgun.label>20口径散弹枪弹药</Bullet_PFLeverActionShotgun.label>
+
+  <Gun_PFLeverActionShotgun.label>杠杆式霰弹枪</Gun_PFLeverActionShotgun.label>
+  <Gun_PFLeverActionShotgun.description>老式单管猎枪，通常用于狩猎和防御，射程良好，射速快，威力欠佳。</Gun_PFLeverActionShotgun.description>
+
+  <Bullet_PFSawedOffShotgun.label>12口径散弹枪弹药</Bullet_PFSawedOffShotgun.label>
+
+  <Gun_PFSawedOffShotgun.label>短管霰弹枪</Gun_PFSawedOffShotgun.label>
+  <Gun_PFSawedOffShotgun.description>老式的散弹枪，一次可以打两发，但装填较慢，射速较低。</Gun_PFSawedOffShotgun.description>
+
+  <Bullet_PFBigBoomer.label>12口径散弹枪弹药</Bullet_PFBigBoomer.label>
+
+  <Gun_PFBigBoomer.label>“大轰隆”锯管霰弹枪</Gun_PFBigBoomer.label>
+  <Gun_PFBigBoomer.description>短管散弹枪特殊型号，它的名字就是一种警告，威力大，精度高，范围广，小心爆炸。</Gun_PFBigBoomer.description>
+
+  <Bullet_PFSingleShotgun.label>20口径散弹枪弹药</Bullet_PFSingleShotgun.label>
+
+  <Gun_PFSingleShotgun.label>单发散弹枪</Gun_PFSingleShotgun.label>
+  <Gun_PFSingleShotgun.description>老式单管散弹枪，开一枪装填一次。但是装弹快，威力强，射的还准。</Gun_PFSingleShotgun.description>
+
+  <Bullet_PFRiotShotgun.label>12口径散弹枪弹药</Bullet_PFRiotShotgun.label>
+
+  <Gun_PFRiotShotgun.label>防暴散弹枪</Gun_PFRiotShotgun.label>
+  <Gun_PFRiotShotgun.description>战前军用散弹枪，威力强，射的快，范围广，但精度差。</Gun_PFRiotShotgun.description>
+
+
+</LanguageData>

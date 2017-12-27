@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_X-01_Helmet.label>X-01 动力装甲头盔</Apparel_X-01_Helmet.label>
+  <Apparel_X-01_Helmet.description>战后开发的动力装甲头盔。</Apparel_X-01_Helmet.description>
+
+  <Apparel_RaiderPA_Helmet.label>掠夺者 动力装甲头盔</Apparel_RaiderPA_Helmet.label>
+  <Apparel_RaiderPA_Helmet.description>一个具有良好的保护功能的临时头盔，但它比较容易损坏。</Apparel_RaiderPA_Helmet.description>
+
+  <Apparel_PFT-45PA_Helmet.label>T-45 动力装甲头盔</Apparel_PFT-45PA_Helmet.label>
+  <Apparel_PFT-45PA_Helmet.description>战前部署于军队的早期动力装甲头盔。</Apparel_PFT-45PA_Helmet.description>
+
+
+</LanguageData>

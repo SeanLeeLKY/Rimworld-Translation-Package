@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFStimpakHigh.stages.0.label>被治疗针治疗</PFStimpakHigh.stages.0.label>
+  <PFStimpakHigh.stages.0.description>我所有的伤口都在愈合，我会立刻恢复！</PFStimpakHigh.stages.0.description>
+
+  <PFStimpakWithdrawal.stages.1.label>你不用看这个</PFStimpakWithdrawal.stages.1.label>
+  <PFStimpakWithdrawal.stages.1.description>治疗针没有副作用。</PFStimpakWithdrawal.stages.1.description>
+
+
+</LanguageData>

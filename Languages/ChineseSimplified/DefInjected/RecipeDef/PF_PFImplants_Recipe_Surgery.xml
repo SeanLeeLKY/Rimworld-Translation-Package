@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFInstallVATS.label>安装 VATS辅助瞄准系统芯片</PFInstallVATS.label>
+  <PFInstallVATS.description>安装 一个 VATS辅助瞄准系统芯片.</PFInstallVATS.description>
+  <PFInstallVATS.jobString>正在安装 VATS辅助瞄准系统芯片</PFInstallVATS.jobString>
+
+  <PFInstallAgility.label>安装 敏捷芯片</PFInstallAgility.label>
+  <PFInstallAgility.description>安装 一个 敏捷芯片.</PFInstallAgility.description>
+  <PFInstallAgility.jobString>正在安装 敏捷芯片</PFInstallAgility.jobString>
+
+  <PFInstallCharisma.label>安装 魅力芯片</PFInstallCharisma.label>
+  <PFInstallCharisma.description>安装 一个 魅力芯片.</PFInstallCharisma.description>
+  <PFInstallCharisma.jobString>正在安装 魅力芯片</PFInstallCharisma.jobString>
+
+  <PFInstallEndurance.label>安装 耐力芯片</PFInstallEndurance.label>
+  <PFInstallEndurance.description>安装 一个 耐力芯片.</PFInstallEndurance.description>
+  <PFInstallEndurance.jobString>正在安装 耐力芯片</PFInstallEndurance.jobString>
+
+  <PFInstallIntelligence.label>安装 智力芯片</PFInstallIntelligence.label>
+  <PFInstallIntelligence.description>安装 一个 智力芯片.</PFInstallIntelligence.description>
+  <PFInstallIntelligence.jobString>正在安装 智力芯片</PFInstallIntelligence.jobString>
+
+  <PFInstallPerception.label>安装 感知芯片</PFInstallPerception.label>
+  <PFInstallPerception.description>安装 一个 感知芯片.</PFInstallPerception.description>
+  <PFInstallPerception.jobString>正在安装 感知芯片</PFInstallPerception.jobString>
+
+  <PFInstallStrength.label>安装 力量芯片</PFInstallStrength.label>
+  <PFInstallStrength.description>安装 一个 力量芯片.</PFInstallStrength.description>
+  <PFInstallStrength.jobString>正在安装 力量芯片</PFInstallStrength.jobString>
+
+  <PFInstallPMB.label>安装 菲尼克斯单核细胞增殖芯片</PFInstallPMB.label>
+  <PFInstallPMB.description>安装 一个 菲尼克斯单核细胞增殖芯片.</PFInstallPMB.description>
+  <PFInstallPMB.jobString>正在安装 菲尼克斯单核细胞增殖芯片</PFInstallPMB.jobString>
+
+
+</LanguageData>

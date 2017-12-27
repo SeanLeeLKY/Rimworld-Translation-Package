@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFMoleRat.label>鼹鼠</PFMoleRat.label>
+  <PFMoleRat.description>巨大的基因工程鼹鼠</PFMoleRat.description>
+  <PFMoleRat_Leather.label>鼹鼠皮</PFMoleRat_Leather.label>
+  <PFMoleRat_Leather.description>鼹鼠皮</PFMoleRat_Leather.description>
+  <PFMoleRat_Leather.stuffProps.stuffAdjective>鼹鼠皮</PFMoleRat_Leather.stuffProps.stuffAdjective>
+  <PFMoleRat_Meat.label>鼠肉</PFMoleRat_Meat.label>
+  <PFMoleRat_Meat.description>鼠肉</PFMoleRat_Meat.description>
+  <PFMoleRat_Corpse.label>鼹鼠尸体</PFMoleRat_Corpse.label>
+  <PFMoleRat_Corpse.description>鼹鼠尸体</PFMoleRat_Corpse.description>
+
+
+</LanguageData>

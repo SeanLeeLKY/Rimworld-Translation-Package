@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFSuperStimpakHigh.stages.0.label>被超级治疗针治疗</PFSuperStimpakHigh.stages.0.label>
+  <PFSuperStimpakHigh.stages.0.description>我所有的伤势都在愈合！</PFSuperStimpakHigh.stages.0.description>
+
+  <PFSuperStimpakWithdrawal.stages.1.label>You shouldn't be seeing this</PFSuperStimpakWithdrawal.stages.1.label>
+  <PFSuperStimpakWithdrawal.stages.1.description>Super Stimpaks don't even have a withdrawl</PFSuperStimpakWithdrawal.stages.1.description>
+
+
+</LanguageData>

@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFPlantTato.label>铃薯</PFPlantTato.label>
+  <PFPlantTato.description>马铃薯和西红柿之间的突变杂交品种。它的味道很难吃，煮熟了也不好吃，但在废土上你没法抱怨。</PFPlantTato.description>
+
+  <PFPlantRazorgrain.label>刀片谷</PFPlantRazorgrain.label>
+  <PFPlantRazorgrain.description>小麦遥远的后代，在严酷的废土上也能生长。 </PFPlantRazorgrain.description>
+
+  <PFPlantMutfruit.label>变种果</PFPlantMutfruit.label>
+  <PFPlantMutfruit.description>蓝莓和黑莓的变异后代，这种脆脆的浆果是饥饿的旅行者最好的发现之一。</PFPlantMutfruit.description>
+
+  <PFPlantTarberry.label>塔莓</PFPlantTarberry.label>
+  <PFPlantTarberry.description>一簇紫色的小浆果，蔓越莓的后裔。它们很难培养，但很有营养。</PFPlantTarberry.description>
+
+  <PFPlantBarrelCactus.label>圆筒仙人掌</PFPlantBarrelCactus.label>
+  <PFPlantBarrelCactus.description>一种可以在大多数气候条件下生长的仙人掌。它生产的食物很少，但它的果实很有营养。</PFPlantBarrelCactus.description>
+
+
+</LanguageData>

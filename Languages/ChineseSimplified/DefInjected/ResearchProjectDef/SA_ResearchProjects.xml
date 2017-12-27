@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 1: pre-electricity -->
+
+  <SRV_Snare.label>SA：捕猎陷阱</SRV_Snare.label>
+  <SRV_Snare.description>允许殖民者建造捕猎陷阱进行狩猎。</SRV_Snare.description>
+
+  <SRV_Forge.label>SA：早期锻造</SRV_Forge.label>
+  <SRV_Forge.description>允许殖民者建造一个铁砧把原材料锻造成武器。</SRV_Forge.description>
+
+  <SRV_Crucible.label>SA：早期锻造 熔炼升级</SRV_Crucible.label>
+  <SRV_Crucible.description>允许殖民者用铁砧熔炼钢渣块。</SRV_Crucible.description>
+
+
+</LanguageData>

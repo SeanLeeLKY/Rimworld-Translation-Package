@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFVATS.label>VATS辅助瞄准系统芯片</PFVATS.label>
+  <PFAgility.label>敏捷芯片</PFAgility.label>
+  <PFCharisma.label>魅力芯片</PFCharisma.label>
+  <PFEndurance.label>耐力芯片</PFEndurance.label>
+  <PFIntelligence.label>智力芯片</PFIntelligence.label>
+  <PFPerception.label>感知芯片</PFPerception.label>
+  <!--[Duplicated] <PFStrength.label>Strength Implant</PFStrength.label>-->
+  <PFStrength.label>力量芯片</PFStrength.label>
+  <PFPMB.label>菲尼克斯单核细胞增殖芯片</PFPMB.label>
+
+
+</LanguageData>

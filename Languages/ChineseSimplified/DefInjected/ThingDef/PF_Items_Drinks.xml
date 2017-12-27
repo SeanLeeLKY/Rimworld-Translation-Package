@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MealPFNukaCola.label>核子可乐</MealPFNukaCola.label>
+  <MealPFNukaCola.description>一种流行的含有微量放射性的软饮料。</MealPFNukaCola.description>
+  <MealPFNukaCola.ingestible.ingestCommandString>喝 {0}</MealPFNukaCola.ingestible.ingestCommandString>
+  <MealPFNukaCola.ingestible.ingestReportString>喝 {0}.</MealPFNukaCola.ingestible.ingestReportString>
+
+  <MealPFSunsetSarsaparilla.label>夕阳沙士</MealPFSunsetSarsaparilla.label>
+  <MealPFSunsetSarsaparilla.description>一种提神的沙士口味软饮料，出现时间早于核子可乐。</MealPFSunsetSarsaparilla.description>
+  <MealPFSunsetSarsaparilla.ingestible.ingestCommandString>喝 {0}</MealPFSunsetSarsaparilla.ingestible.ingestCommandString>
+  <MealPFSunsetSarsaparilla.ingestible.ingestReportString>喝 {0}.</MealPFSunsetSarsaparilla.ingestible.ingestReportString>
+
+  <MealPFNukaQuantum.label>量子型核子可乐</MealPFNukaQuantum.label>
+  <MealPFNukaQuantum.description>核子可乐的变体，辐射含量和卡路里都是核子可乐的两倍。这玩意儿会发散出强烈的蓝光是因为它所含有的轻度放射性同位素锶-90。 </MealPFNukaQuantum.description>
+  <MealPFNukaQuantum.ingestible.ingestCommandString>喝 {0}</MealPFNukaQuantum.ingestible.ingestCommandString>
+  <MealPFNukaQuantum.ingestible.ingestReportString>喝 {0}.</MealPFNukaQuantum.ingestible.ingestReportString>
+
+  <MealPFNukaQuartz.label>石英型核子可乐</MealPFNukaQuartz.label>
+  <MealPFNukaQuartz.description>乳白色的核子可乐变体，它可以作为一种温和的止痛药，暂时增强视力。 </MealPFNukaQuartz.description>
+  <MealPFNukaQuartz.ingestible.ingestCommandString>喝 {0}</MealPFNukaQuartz.ingestible.ingestCommandString>
+  <MealPFNukaQuartz.ingestible.ingestReportString>喝 {0}.</MealPFNukaQuartz.ingestible.ingestReportString>
+
+  <MealPFNukaCherry.label>核子可乐樱桃味</MealPFNukaCherry.label>
+  <MealPFNukaCherry.description>樱桃风味的核子可乐，密封在鲜红色的瓶子里。</MealPFNukaCherry.description>
+  <MealPFNukaCherry.ingestible.ingestCommandString>喝 {0}</MealPFNukaCherry.ingestible.ingestCommandString>
+  <MealPFNukaCherry.ingestible.ingestReportString>喝 {0}.</MealPFNukaCherry.ingestible.ingestReportString>
+
+
+</LanguageData>

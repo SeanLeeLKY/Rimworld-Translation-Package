@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GLO_TrapIED_DustEMP.label>IED萤石EMP陷阱</GLO_TrapIED_DustEMP.label>
+  <GLO_TrapIED_DustEMP.description>一个简易陷阱，由萤石EMP弹和自制触发机关组成。爆炸可以使机械体瘫痪数秒。即使是不收EMP影响的生物也会触发陷阱。</GLO_TrapIED_DustEMP.description>
+  <GLO_TrapIED_DustEMP_Blueprint.label>IED萤石EMP陷阱（蓝图）</GLO_TrapIED_DustEMP_Blueprint.label>
+  <GLO_TrapIED_DustEMP_Frame.label>IED萤石EMP陷阱（建造中）</GLO_TrapIED_DustEMP_Frame.label>
+  <GLO_TrapIED_DustEMP_Frame.description>一个简易陷阱，由萤石EMP弹和自制触发机关组成。爆炸可以使机械体瘫痪数秒。即使是不收EMP影响的生物也会触发陷阱。</GLO_TrapIED_DustEMP_Frame.description>
+
+
+</LanguageData>

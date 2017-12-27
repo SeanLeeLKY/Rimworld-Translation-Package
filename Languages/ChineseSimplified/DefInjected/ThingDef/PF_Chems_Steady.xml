@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFSteady.label>稳定剂</PFSteady.label>
+  <PFSteady.description>一种稳定手臂，让射击更加准确的化学药物，非常容易上瘾。 </PFSteady.description>
+  <PFSteady.ingestible.ingestCommandString>注射 {0}</PFSteady.ingestible.ingestCommandString>
+  <PFSteady.ingestible.ingestReportString>注射 {0}.</PFSteady.ingestible.ingestReportString>
+
+
+</LanguageData>

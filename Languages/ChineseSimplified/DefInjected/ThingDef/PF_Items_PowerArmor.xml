@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <X-01_PowerArmor.label>X-01 动力装甲</X-01_PowerArmor.label>
+  <X-01_PowerArmor.description>X-01 动力装甲设计于战后，比之前的型号更加先进。 </X-01_PowerArmor.description>
+
+  <Raider_PowerArmor.label>掠夺者 动力装甲</Raider_PowerArmor.label>
+  <Raider_PowerArmor.description>一套临时拼凑出来的动力装甲，它能保护你，但很容易损坏。主要使用者为掠夺者和雇佣军。</Raider_PowerArmor.description>
+
+  <PFT-45PowerArmor.label>T-45 动力装甲</PFT-45PowerArmor.label>
+  <PFT-45PowerArmor.description>最早的动力装甲，在战前就部署于军队的中型动力装甲。然而其系统并不是特别先进，因此限制了穿戴者的活动。</PFT-45PowerArmor.description>
+
+
+</LanguageData>

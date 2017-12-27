@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BirthControl.label>避孕药</BirthControl.label>
+  <BirthControl.description>避孕效果持续5天。（对两性都有效，至少需要其中一位服用。）</BirthControl.description>
+  <BirthControl.ingestible.ingestCommandString>服用 {0}</BirthControl.ingestible.ingestCommandString>
+  <BirthControl.ingestible.ingestReportString>正在服用 {0}。</BirthControl.ingestible.ingestReportString>
+
+
+</LanguageData>

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <GLO_GlowstonePylon.label>水晶塔</GLO_GlowstonePylon.label>
+  <GLO_GlowstonePylon.description>一个用于照亮区域的简单结构。出于某种原因，感觉永远不够。</GLO_GlowstonePylon.description>
+  <GLO_GlowstonePylon_Blueprint.label>水晶塔（蓝图）</GLO_GlowstonePylon_Blueprint.label>
+  <GLO_GlowstonePylon_Blueprint_Install.label>水晶塔（蓝图）</GLO_GlowstonePylon_Blueprint_Install.label>
+  <GLO_GlowstonePylon_Frame.label>水晶塔（建造中）</GLO_GlowstonePylon_Frame.label>
+  <GLO_GlowstonePylon_Frame.description>一个用于照亮区域的简单结构。出于某种原因，感觉永远不够。</GLO_GlowstonePylon_Frame.description>
+
+  <GLO_GlowstoneLamp.label>萤石灯</GLO_GlowstoneLamp.label>
+  <GLO_GlowstoneLamp.description>一盏安装了两个小块萤石的灯，适合于卧室或工作室。</GLO_GlowstoneLamp.description>
+  <GLO_GlowstoneLamp_Blueprint.label>萤石灯（蓝图）</GLO_GlowstoneLamp_Blueprint.label>
+  <GLO_GlowstoneLamp_Blueprint_Install.label>萤石灯（蓝图）</GLO_GlowstoneLamp_Blueprint_Install.label>
+  <GLO_GlowstoneLamp_Frame.label>萤石灯（建造中）</GLO_GlowstoneLamp_Frame.label>
+  <GLO_GlowstoneLamp_Frame.description>一盏安装了两个小块萤石的灯，适合于卧室或工作室。</GLO_GlowstoneLamp_Frame.description>
+
+  <GLO_SmallGlowstoneChandelier.label>小型萤石吊灯</GLO_SmallGlowstoneChandelier.label>
+  <GLO_SmallGlowstoneChandelier.description>一个简单的枝形吊灯上有两个小块萤石。可以挂在高于大多数物体的天花板上。</GLO_SmallGlowstoneChandelier.description>
+  <GLO_SmallGlowstoneChandelier_Blueprint.label>小型萤石吊灯（蓝图）</GLO_SmallGlowstoneChandelier_Blueprint.label>
+  <GLO_SmallGlowstoneChandelier_Blueprint_Install.label>小型萤石吊灯（蓝图）</GLO_SmallGlowstoneChandelier_Blueprint_Install.label>
+  <GLO_SmallGlowstoneChandelier_Frame.label>小型萤石吊灯（建造中）</GLO_SmallGlowstoneChandelier_Frame.label>
+  <GLO_SmallGlowstoneChandelier_Frame.description>一个简单的枝形吊灯上有两个小块萤石。可以挂在高于大多数物体的天花板上。</GLO_SmallGlowstoneChandelier_Frame.description>
+
+  <GLO_GlowstoneChandelier.label>中型萤石吊灯</GLO_GlowstoneChandelier.label>
+  <GLO_GlowstoneChandelier.description>一个简单的枝形吊灯上有四个小块萤石。可以挂在高于大多数物体的天花板上。</GLO_GlowstoneChandelier.description>
+  <GLO_GlowstoneChandelier_Blueprint.label>中型萤石吊灯（蓝图）</GLO_GlowstoneChandelier_Blueprint.label>
+  <GLO_GlowstoneChandelier_Blueprint_Install.label>中型萤石吊灯（蓝图）</GLO_GlowstoneChandelier_Blueprint_Install.label>
+  <GLO_GlowstoneChandelier_Frame.label>中型萤石吊灯（建造中）</GLO_GlowstoneChandelier_Frame.label>
+  <GLO_GlowstoneChandelier_Frame.description>一个简单的枝形吊灯上有四个小块萤石。可以挂在高于大多数物体的天花板上。</GLO_GlowstoneChandelier_Frame.description>
+
+  <GLO_LargeGlowstoneChandelier.label>大型萤石吊灯</GLO_LargeGlowstoneChandelier.label>
+  <GLO_LargeGlowstoneChandelier.description>一个简单的枝形吊灯上有四个大块萤石。可以挂在高于大多数物体的天花板上。</GLO_LargeGlowstoneChandelier.description>
+  <GLO_LargeGlowstoneChandelier_Blueprint.label>大型萤石吊灯（蓝图）</GLO_LargeGlowstoneChandelier_Blueprint.label>
+  <GLO_LargeGlowstoneChandelier_Blueprint_Install.label>大型萤石吊灯（蓝图）</GLO_LargeGlowstoneChandelier_Blueprint_Install.label>
+  <GLO_LargeGlowstoneChandelier_Frame.label>大型萤石吊灯（建造中）</GLO_LargeGlowstoneChandelier_Frame.label>
+  <GLO_LargeGlowstoneChandelier_Frame.description>一个简单的枝形吊灯上有四个大块萤石。可以挂在高于大多数物体的天花板上。</GLO_LargeGlowstoneChandelier_Frame.description>
+
+
+</LanguageData>

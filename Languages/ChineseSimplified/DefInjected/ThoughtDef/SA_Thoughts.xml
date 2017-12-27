@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SRV_WearingBurlapApparel.stages.0.label>穿着麻布服装 {0}</SRV_WearingBurlapApparel.stages.0.label>
+  <SRV_WearingBurlapApparel.stages.0.description>我穿着麻布服装。 很痒很不舒服。</SRV_WearingBurlapApparel.stages.0.description>
+  <SRV_WearingBurlapApparel.stages.1.label>穿着麻布服装 {0} (+1)</SRV_WearingBurlapApparel.stages.1.label>
+  <SRV_WearingBurlapApparel.stages.1.description>我穿着两件麻布服装。 它们让我很痒很不舒服。</SRV_WearingBurlapApparel.stages.1.description>
+  <SRV_WearingBurlapApparel.stages.2.label>穿着麻布服装  {0} (+2)</SRV_WearingBurlapApparel.stages.2.label>
+  <SRV_WearingBurlapApparel.stages.2.description>我穿着三件麻布服装。 它们让我很痒很不舒服。</SRV_WearingBurlapApparel.stages.2.description>
+  <SRV_WearingBurlapApparel.stages.3.label>穿着麻布服装 {0}, 等...</SRV_WearingBurlapApparel.stages.3.label>
+  <SRV_WearingBurlapApparel.stages.3.description>我穿着三件以上麻布服装。 它们让我很痒很不舒服。</SRV_WearingBurlapApparel.stages.3.description>
+
+  <SRV_AteSmokedMeat.stages.0.label>初始隐藏</SRV_AteSmokedMeat.stages.0.label>
+  <SRV_AteSmokedMeat.stages.0.description>不应该出现。</SRV_AteSmokedMeat.stages.0.description>
+  <SRV_AteSmokedMeat.stages.1.label>吃了熏肉</SRV_AteSmokedMeat.stages.1.label>
+  <SRV_AteSmokedMeat.stages.1.description>我吃了一些美味的熏肉。真好吃！</SRV_AteSmokedMeat.stages.1.description>
+
+  <SRV_FoodMadeWithSmokedMeat.stages.0.label>熏肉做的食物</SRV_FoodMadeWithSmokedMeat.stages.0.label>
+  <SRV_FoodMadeWithSmokedMeat.stages.0.description>我吃了一顿用熏肉做的食物。呣~呣~呣~!（舔盘子）</SRV_FoodMadeWithSmokedMeat.stages.0.description>
+
+  <SRV_AteSmokedCheese.stages.0.label>吃了熏奶酪</SRV_AteSmokedCheese.stages.0.label>
+  <SRV_AteSmokedCheese.stages.0.description>我吃了一些美味的熏奶酪。</SRV_AteSmokedCheese.stages.0.description>
+
+  <SRV_FoodMadeWithSmokedCheese.stages.0.label>熏奶酪做的食物</SRV_FoodMadeWithSmokedCheese.stages.0.label>
+  <SRV_FoodMadeWithSmokedCheese.stages.0.description>我吃了一顿用熏奶酪做的食物。</SRV_FoodMadeWithSmokedCheese.stages.0.description>
+
+  <SRV_AteGrilledMeal.stages.0.label>吃了烧烤食物</SRV_AteGrilledMeal.stages.0.label>
+  <SRV_AteGrilledMeal.stages.0.description>我吃了一顿熏烤过的食物。</SRV_AteGrilledMeal.stages.0.description>
+
+  <SRV_AteGrilledMealFine.stages.0.label>吃了烧烤食物</SRV_AteGrilledMealFine.stages.0.label>
+  <SRV_AteGrilledMealFine.stages.0.description>我吃了一顿美味的烧烤食物。呣~呣~呣~!（舔盘子）</SRV_AteGrilledMealFine.stages.0.description>
+
+  <SRV_AteRawTurnip.stages.0.label>吃了生萝卜</SRV_AteRawTurnip.stages.0.label>
+  <SRV_AteRawTurnip.stages.0.description>我不得不吃了生萝卜。感觉不太坏，但我更希望它们煮熟。</SRV_AteRawTurnip.stages.0.description>
+
+  <SRV_AtePickledVeggies.stages.0.label>吃了泡菜</SRV_AtePickledVeggies.stages.0.label>
+  <SRV_AtePickledVeggies.stages.0.description>那些腌制的蔬菜增加了一种神奇的味道。</SRV_AtePickledVeggies.stages.0.description>
+
+  <SRV_FoodMadeWithPickledIngredient.stages.0.label>泡菜做的食物</SRV_FoodMadeWithPickledIngredient.stages.0.label>
+  <SRV_FoodMadeWithPickledIngredient.stages.0.description>我吃了一顿用泡菜做的食物。这有助于打破平淡无奇的一餐。</SRV_FoodMadeWithPickledIngredient.stages.0.description>
+
+
+</LanguageData>

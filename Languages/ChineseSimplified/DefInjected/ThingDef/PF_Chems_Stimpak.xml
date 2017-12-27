@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PFStimpak.label>治疗针</PFStimpak.label>
+  <PFStimpak.description>一种含有高质量的药物的注射器，能迅速治疗创伤。</PFStimpak.description>
+  <PFStimpak.ingestible.ingestCommandString>注射 {0}</PFStimpak.ingestible.ingestCommandString>
+  <PFStimpak.ingestible.ingestReportString>注射 {0}.</PFStimpak.ingestible.ingestReportString>
+
+
+</LanguageData>
