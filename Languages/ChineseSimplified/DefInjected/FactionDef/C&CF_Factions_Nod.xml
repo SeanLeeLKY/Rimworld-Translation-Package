@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <NOD class="label">NOD兄弟会</NOD></NOD.label>
+  <NOD.label>NOD兄弟会</NOD.label>
   <NOD.description>兄弟会是一个致力于散播泰伯利亚晶体的恐怖组织.他们的先知兼首领凯恩相信泰伯利亚是人类进化的下一步。他们并不介意对不同信仰者动用武力</NOD.description>
   <NOD.pawnsPlural>NOD部队</NOD.pawnsPlural>
   <NOD.leaderTitle>先知</NOD.leaderTitle>
