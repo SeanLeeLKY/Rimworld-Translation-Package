@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPGuineaPig.label>豚鼠</ACPGuineaPig.label>
+  <ACPGuineaPig.description>家养啮齿类动物，主要作为肉源，但作为宠物也广受喜爱。</ACPGuineaPig.description>
+  <!-- Use Leather From: ACPFerret -->
+  <!-- Use Meat From: Squirrel -->
+  <ACPGuineaPig_Corpse.label>豚鼠尸体</ACPGuineaPig_Corpse.label>
+  <ACPGuineaPig_Corpse.description>豚鼠尸体</ACPGuineaPig_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPChipmunk.label>花栗鼠</ACPChipmunk.label>
+  <ACPChipmunk.description>一种小型啮齿类动物，它吃东西时脸颊鼓鼓的萌样广为人知。</ACPChipmunk.description>
+  <!-- Use Leather From: Squirrel -->
+  <!-- Use Meat From: Squirrel -->
+  <ACPChipmunk_Corpse.label>花栗鼠尸体</ACPChipmunk_Corpse.label>
+  <ACPChipmunk_Corpse.description>花栗鼠尸体</ACPChipmunk_Corpse.description>
+
+
+</LanguageData>

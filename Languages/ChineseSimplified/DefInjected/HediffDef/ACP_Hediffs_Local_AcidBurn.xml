@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AcidBurn.label>酸液灼烧</AcidBurn.label>
+  <AcidBurn.comps.0.labelTendedWell>已包扎</AcidBurn.comps.0.labelTendedWell>
+  <AcidBurn.comps.0.labelTendedWellInner>已缝合</AcidBurn.comps.0.labelTendedWellInner>
+  <AcidBurn.comps.0.labelSolidTendedWell>已处理</AcidBurn.comps.0.labelSolidTendedWell>
+  <AcidBurn.comps.2.oldLabel>强酸疤痕</AcidBurn.comps.2.oldLabel>
+  <AcidBurn.injuryProps.destroyedLabel>被强酸腐蚀</AcidBurn.injuryProps.destroyedLabel>
+
+
+</LanguageData>

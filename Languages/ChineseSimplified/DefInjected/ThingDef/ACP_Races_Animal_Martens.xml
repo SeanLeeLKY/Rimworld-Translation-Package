@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPFishercat.label>食鱼貂</ACPFishercat.label>
+  <ACPFishercat.description>小型貂科哺乳动物.作为黄鼠狼(鼬鼠)的近亲，食鱼貂身体更长，但寿命更短。尽管体型较小，食鱼貂却是特别凶猛的动物.他们有能力狩猎豪猪，甚至幼鹿。虽然食鱼貂外表可爱，但野性过高，不适合当做宠物饲养。</ACPFishercat.description>
+  <!-- Use Leather From: ACPBison -->
+  <!-- Use Meat From: Alphabeaver -->
+  <ACPFishercat_Corpse.label>食鱼貂尸体</ACPFishercat_Corpse.label>
+  <ACPFishercat_Corpse.description>食鱼貂尸体</ACPFishercat_Corpse.description>
+
+  <ACPErmine.label>白鼬</ACPErmine.label>
+  <ACPErmine.description>体型接近纯白的鼬鼠，鼬鼠家族中体型较小的成员。</ACPErmine.description>
+  <ACPErmine_Leather.label>白色皮</ACPErmine_Leather.label>
+  <ACPErmine_Leather.description>白色皮</ACPErmine_Leather.description>
+  <ACPErmine_Leather.stuffProps.stuffAdjective>白色皮</ACPErmine_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Alphabeaver -->
+  <ACPErmine_Corpse.label>白鼬尸体</ACPErmine_Corpse.label>
+  <ACPErmine_Corpse.description>白鼬尸体</ACPErmine_Corpse.description>
+
+
+</LanguageData>

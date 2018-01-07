@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPGiraffe.label>长颈鹿</ACPGiraffe.label>
+  <ACPGiraffe.labelPlural>长颈鹿</ACPGiraffe.labelPlural>
+  <ACPGiraffe.lifeStages.0.label>长颈鹿幼崽</ACPGiraffe.lifeStages.0.label>
+  <ACPGiraffe.lifeStages.0.labelPlural>长颈鹿幼崽</ACPGiraffe.lifeStages.0.labelPlural>
+  <ACPGiraffe.lifeStages.0.labelMale>公长颈鹿幼崽</ACPGiraffe.lifeStages.0.labelMale>
+  <ACPGiraffe.lifeStages.0.labelMalePlural>公长颈鹿幼崽</ACPGiraffe.lifeStages.0.labelMalePlural>
+  <ACPGiraffe.lifeStages.0.labelFemale>母长颈鹿幼崽</ACPGiraffe.lifeStages.0.labelFemale>
+  <ACPGiraffe.lifeStages.0.labelFemalePlural>母长颈鹿幼崽</ACPGiraffe.lifeStages.0.labelFemalePlural>
+  <ACPGiraffe.lifeStages.1.label>幼年长颈鹿</ACPGiraffe.lifeStages.1.label>
+  <ACPGiraffe.lifeStages.1.labelPlural>幼年长颈鹿</ACPGiraffe.lifeStages.1.labelPlural>
+  <ACPGiraffe.lifeStages.1.labelMale>幼年公长颈鹿</ACPGiraffe.lifeStages.1.labelMale>
+  <ACPGiraffe.lifeStages.1.labelMalePlural>幼年公长颈鹿</ACPGiraffe.lifeStages.1.labelMalePlural>
+  <ACPGiraffe.lifeStages.1.labelFemale>幼年母长颈鹿</ACPGiraffe.lifeStages.1.labelFemale>
+  <ACPGiraffe.lifeStages.1.labelFemalePlural>幼年母长颈鹿</ACPGiraffe.lifeStages.1.labelFemalePlural>
+  <ACPGiraffe.lifeStages.2.label>长颈鹿</ACPGiraffe.lifeStages.2.label>
+  <ACPGiraffe.lifeStages.2.labelPlural>长颈鹿</ACPGiraffe.lifeStages.2.labelPlural>
+  <ACPGiraffe.lifeStages.2.labelMale>公长颈鹿</ACPGiraffe.lifeStages.2.labelMale>
+  <ACPGiraffe.lifeStages.2.labelMalePlural>公长颈鹿</ACPGiraffe.lifeStages.2.labelMalePlural>
+  <ACPGiraffe.lifeStages.2.labelFemale>母长颈鹿</ACPGiraffe.lifeStages.2.labelFemale>
+  <ACPGiraffe.lifeStages.2.labelFemalePlural>母长颈鹿</ACPGiraffe.lifeStages.2.labelFemalePlural>
+  <ACPGiraffe.labelMale>公长颈鹿</ACPGiraffe.labelMale>
+  <ACPGiraffe.labelMalePlural>公长颈鹿</ACPGiraffe.labelMalePlural>
+  <ACPGiraffe.labelFemale>母长颈鹿</ACPGiraffe.labelFemale>
+  <ACPGiraffe.labelFemalePlural>母长颈鹿</ACPGiraffe.labelFemalePlural>
+
+
+</LanguageData>

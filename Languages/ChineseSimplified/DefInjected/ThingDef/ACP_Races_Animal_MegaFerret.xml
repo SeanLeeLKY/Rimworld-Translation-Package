@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPMegaFerret.label>巨型雪貂</ACPMegaFerret.label>
+  <ACPMegaFerret.description>一种十分可爱的鼬鼠科肉食动物.这种雪貂似乎被基因工程修改得更加适合当宠物。</ACPMegaFerret.description>
+  <!-- Use Leather From: ACPSnowLeopard -->
+  <!-- Use Meat From: Alphabeaver -->
+  <ACPMegaFerret_Corpse.label>巨型雪貂尸体</ACPMegaFerret_Corpse.label>
+  <ACPMegaFerret_Corpse.description>巨型雪貂尸体</ACPMegaFerret_Corpse.description>
+
+
+</LanguageData>

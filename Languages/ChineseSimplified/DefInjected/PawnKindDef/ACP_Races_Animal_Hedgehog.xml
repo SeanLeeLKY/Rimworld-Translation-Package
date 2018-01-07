@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPHedgehog.label>刺猬</ACPHedgehog.label>
+  <ACPHedgehog.labelPlural>刺猬</ACPHedgehog.labelPlural>
+  <ACPHedgehog.lifeStages.0.label>刺猬幼崽</ACPHedgehog.lifeStages.0.label>
+  <ACPHedgehog.lifeStages.0.labelPlural>刺猬幼崽</ACPHedgehog.lifeStages.0.labelPlural>
+  <ACPHedgehog.lifeStages.0.labelMale>公刺猬幼崽</ACPHedgehog.lifeStages.0.labelMale>
+  <ACPHedgehog.lifeStages.0.labelMalePlural>公刺猬幼崽</ACPHedgehog.lifeStages.0.labelMalePlural>
+  <ACPHedgehog.lifeStages.0.labelFemale>母刺猬幼崽</ACPHedgehog.lifeStages.0.labelFemale>
+  <ACPHedgehog.lifeStages.0.labelFemalePlural>母刺猬幼崽</ACPHedgehog.lifeStages.0.labelFemalePlural>
+  <ACPHedgehog.lifeStages.1.label>幼年刺猬</ACPHedgehog.lifeStages.1.label>
+  <ACPHedgehog.lifeStages.1.labelPlural>幼年刺猬</ACPHedgehog.lifeStages.1.labelPlural>
+  <ACPHedgehog.lifeStages.1.labelMale>幼年公刺猬</ACPHedgehog.lifeStages.1.labelMale>
+  <ACPHedgehog.lifeStages.1.labelMalePlural>幼年公刺猬</ACPHedgehog.lifeStages.1.labelMalePlural>
+  <ACPHedgehog.lifeStages.1.labelFemale>幼年母刺猬</ACPHedgehog.lifeStages.1.labelFemale>
+  <ACPHedgehog.lifeStages.1.labelFemalePlural>幼年母刺猬</ACPHedgehog.lifeStages.1.labelFemalePlural>
+  <ACPHedgehog.lifeStages.2.label>刺猬</ACPHedgehog.lifeStages.2.label>
+  <ACPHedgehog.lifeStages.2.labelPlural>刺猬</ACPHedgehog.lifeStages.2.labelPlural>
+  <ACPHedgehog.lifeStages.2.labelMale>公刺猬</ACPHedgehog.lifeStages.2.labelMale>
+  <ACPHedgehog.lifeStages.2.labelMalePlural>公刺猬</ACPHedgehog.lifeStages.2.labelMalePlural>
+  <ACPHedgehog.lifeStages.2.labelFemale>母刺猬</ACPHedgehog.lifeStages.2.labelFemale>
+  <ACPHedgehog.lifeStages.2.labelFemalePlural>母刺猬</ACPHedgehog.lifeStages.2.labelFemalePlural>
+  <ACPHedgehog.labelMale>公刺猬</ACPHedgehog.labelMale>
+  <ACPHedgehog.labelMalePlural>公刺猬</ACPHedgehog.labelMalePlural>
+  <ACPHedgehog.labelFemale>母刺猬</ACPHedgehog.labelFemale>
+  <ACPHedgehog.labelFemalePlural>母刺猬</ACPHedgehog.labelFemalePlural>
+
+
+</LanguageData>

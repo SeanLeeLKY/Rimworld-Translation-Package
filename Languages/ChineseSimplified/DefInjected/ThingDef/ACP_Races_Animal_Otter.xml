@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPOtter.label>水獭</ACPOtter.label>
+  <ACPOtter.description>可爱的鼬科小动物，经常在水边的尸体处被发现。</ACPOtter.description>
+  <!-- Use Leather From: ACPBison -->
+  <!-- Use Meat From: Alphabeaver -->
+  <ACPOtter_Corpse.label>水獭尸体</ACPOtter_Corpse.label>
+  <ACPOtter_Corpse.description>水獭尸体</ACPOtter_Corpse.description>
+
+
+</LanguageData>

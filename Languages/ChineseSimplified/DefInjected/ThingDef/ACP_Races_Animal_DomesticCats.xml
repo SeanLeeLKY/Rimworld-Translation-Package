@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPMunchkinCat.label>腊肠猫</ACPMunchkinCat.label>
+  <ACPMunchkinCat.description>一种性情温顺的家猫，非常适合抱在怀里。</ACPMunchkinCat.description>
+  <!-- Use Leather From: Cat -->
+  <!-- Use Meat From: Cat -->
+  <ACPMunchkinCat_Corpse.label>腊肠猫尸体</ACPMunchkinCat_Corpse.label>
+  <ACPMunchkinCat_Corpse.description>腊肠猫尸体</ACPMunchkinCat_Corpse.description>
+
+
+</LanguageData>

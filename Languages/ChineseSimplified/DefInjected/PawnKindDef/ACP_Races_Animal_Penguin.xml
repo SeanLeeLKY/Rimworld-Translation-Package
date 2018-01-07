@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPenguin.label>企鹅</ACPPenguin.label>
+  <ACPPenguin.labelPlural>企鹅</ACPPenguin.labelPlural>
+  <ACPPenguin.lifeStages.0.label>企鹅幼崽</ACPPenguin.lifeStages.0.label>
+  <ACPPenguin.lifeStages.0.labelPlural>企鹅幼崽</ACPPenguin.lifeStages.0.labelPlural>
+  <ACPPenguin.lifeStages.0.labelMale>公企鹅幼崽</ACPPenguin.lifeStages.0.labelMale>
+  <ACPPenguin.lifeStages.0.labelMalePlural>公企鹅幼崽</ACPPenguin.lifeStages.0.labelMalePlural>
+  <ACPPenguin.lifeStages.0.labelFemale>母企鹅幼崽</ACPPenguin.lifeStages.0.labelFemale>
+  <ACPPenguin.lifeStages.0.labelFemalePlural>母企鹅幼崽</ACPPenguin.lifeStages.0.labelFemalePlural>
+  <ACPPenguin.lifeStages.1.label>幼年企鹅</ACPPenguin.lifeStages.1.label>
+  <ACPPenguin.lifeStages.1.labelPlural>幼年企鹅</ACPPenguin.lifeStages.1.labelPlural>
+  <ACPPenguin.lifeStages.1.labelMale>幼年公企鹅</ACPPenguin.lifeStages.1.labelMale>
+  <ACPPenguin.lifeStages.1.labelMalePlural>幼年公企鹅</ACPPenguin.lifeStages.1.labelMalePlural>
+  <ACPPenguin.lifeStages.1.labelFemale>幼年母企鹅</ACPPenguin.lifeStages.1.labelFemale>
+  <ACPPenguin.lifeStages.1.labelFemalePlural>幼年母企鹅</ACPPenguin.lifeStages.1.labelFemalePlural>
+  <ACPPenguin.lifeStages.2.label>企鹅</ACPPenguin.lifeStages.2.label>
+  <ACPPenguin.lifeStages.2.labelPlural>企鹅</ACPPenguin.lifeStages.2.labelPlural>
+  <ACPPenguin.lifeStages.2.labelMale>公企鹅</ACPPenguin.lifeStages.2.labelMale>
+  <ACPPenguin.lifeStages.2.labelMalePlural>公企鹅</ACPPenguin.lifeStages.2.labelMalePlural>
+  <ACPPenguin.lifeStages.2.labelFemale>母企鹅</ACPPenguin.lifeStages.2.labelFemale>
+  <ACPPenguin.lifeStages.2.labelFemalePlural>母企鹅</ACPPenguin.lifeStages.2.labelFemalePlural>
+  <ACPPenguin.labelMale>公企鹅</ACPPenguin.labelMale>
+  <ACPPenguin.labelMalePlural>公企鹅</ACPPenguin.labelMalePlural>
+  <ACPPenguin.labelFemale>母企鹅</ACPPenguin.labelFemale>
+  <ACPPenguin.labelFemalePlural>母企鹅</ACPPenguin.labelFemalePlural>
+
+
+</LanguageData>

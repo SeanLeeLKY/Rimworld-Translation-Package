@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <QuillSting.label>刺伤</QuillSting.label>
+  <QuillSting.comps.0.labelTendedWell>已包扎</QuillSting.comps.0.labelTendedWell>
+  <QuillSting.comps.0.labelTendedWellInner>已缝合</QuillSting.comps.0.labelTendedWellInner>
+  <QuillSting.comps.0.labelSolidTendedWell>已处理</QuillSting.comps.0.labelSolidTendedWell>
+  <QuillSting.comps.2.oldLabel>刺伤疤痕</QuillSting.comps.2.oldLabel>
+  <QuillSting.injuryProps.destroyedLabel>被撕裂</QuillSting.injuryProps.destroyedLabel>
+  <QuillSting.injuryProps.destroyedOutLabel>被撕裂</QuillSting.injuryProps.destroyedOutLabel>
+
+
+</LanguageData>

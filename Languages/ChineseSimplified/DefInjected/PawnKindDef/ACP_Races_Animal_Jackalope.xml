@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPJackalope.label>鹿角兔</ACPJackalope.label>
+  <ACPJackalope.labelPlural>鹿角兔</ACPJackalope.labelPlural>
+  <ACPJackalope.lifeStages.0.label>鹿角兔幼崽</ACPJackalope.lifeStages.0.label>
+  <ACPJackalope.lifeStages.0.labelPlural>鹿角兔幼崽</ACPJackalope.lifeStages.0.labelPlural>
+  <ACPJackalope.lifeStages.0.labelMale>公鹿角兔幼崽</ACPJackalope.lifeStages.0.labelMale>
+  <ACPJackalope.lifeStages.0.labelMalePlural>公鹿角兔幼崽</ACPJackalope.lifeStages.0.labelMalePlural>
+  <ACPJackalope.lifeStages.0.labelFemale>母鹿角兔幼崽</ACPJackalope.lifeStages.0.labelFemale>
+  <ACPJackalope.lifeStages.0.labelFemalePlural>母鹿角兔幼崽</ACPJackalope.lifeStages.0.labelFemalePlural>
+  <ACPJackalope.lifeStages.1.label>幼年鹿角兔</ACPJackalope.lifeStages.1.label>
+  <ACPJackalope.lifeStages.1.labelPlural>幼年鹿角兔</ACPJackalope.lifeStages.1.labelPlural>
+  <ACPJackalope.lifeStages.1.labelMale>幼年公鹿角兔</ACPJackalope.lifeStages.1.labelMale>
+  <ACPJackalope.lifeStages.1.labelMalePlural>幼年公鹿角兔</ACPJackalope.lifeStages.1.labelMalePlural>
+  <ACPJackalope.lifeStages.1.labelFemale>幼年母鹿角兔</ACPJackalope.lifeStages.1.labelFemale>
+  <ACPJackalope.lifeStages.1.labelFemalePlural>幼年母鹿角兔</ACPJackalope.lifeStages.1.labelFemalePlural>
+  <ACPJackalope.lifeStages.2.label>鹿角兔</ACPJackalope.lifeStages.2.label>
+  <ACPJackalope.lifeStages.2.labelPlural>鹿角兔</ACPJackalope.lifeStages.2.labelPlural>
+  <ACPJackalope.lifeStages.2.labelMale>公鹿角兔</ACPJackalope.lifeStages.2.labelMale>
+  <ACPJackalope.lifeStages.2.labelMalePlural>公鹿角兔</ACPJackalope.lifeStages.2.labelMalePlural>
+  <ACPJackalope.lifeStages.2.labelFemale>母鹿角兔</ACPJackalope.lifeStages.2.labelFemale>
+  <ACPJackalope.lifeStages.2.labelFemalePlural>母鹿角兔</ACPJackalope.lifeStages.2.labelFemalePlural>
+  <ACPJackalope.labelMale>公鹿角兔</ACPJackalope.labelMale>
+  <ACPJackalope.labelMalePlural>公鹿角兔</ACPJackalope.labelMalePlural>
+  <ACPJackalope.labelFemale>母鹿角兔</ACPJackalope.labelFemale>
+  <ACPJackalope.labelFemalePlural>母鹿角兔</ACPJackalope.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPeccary.label>西猯</ACPPeccary.label>
+  <ACPPeccary.labelPlural>西猯</ACPPeccary.labelPlural>
+  <ACPPeccary.lifeStages.0.label>西猯幼崽</ACPPeccary.lifeStages.0.label>
+  <ACPPeccary.lifeStages.0.labelPlural>西猯幼崽</ACPPeccary.lifeStages.0.labelPlural>
+  <ACPPeccary.lifeStages.0.labelMale>公西猯幼崽</ACPPeccary.lifeStages.0.labelMale>
+  <ACPPeccary.lifeStages.0.labelMalePlural>公西猯幼崽</ACPPeccary.lifeStages.0.labelMalePlural>
+  <ACPPeccary.lifeStages.0.labelFemale>母西猯幼崽</ACPPeccary.lifeStages.0.labelFemale>
+  <ACPPeccary.lifeStages.0.labelFemalePlural>母西猯幼崽</ACPPeccary.lifeStages.0.labelFemalePlural>
+  <ACPPeccary.lifeStages.1.label>幼年西猯</ACPPeccary.lifeStages.1.label>
+  <ACPPeccary.lifeStages.1.labelPlural>幼年西猯</ACPPeccary.lifeStages.1.labelPlural>
+  <ACPPeccary.lifeStages.1.labelMale>幼年公西猯</ACPPeccary.lifeStages.1.labelMale>
+  <ACPPeccary.lifeStages.1.labelMalePlural>幼年公西猯</ACPPeccary.lifeStages.1.labelMalePlural>
+  <ACPPeccary.lifeStages.1.labelFemale>幼年母西猯</ACPPeccary.lifeStages.1.labelFemale>
+  <ACPPeccary.lifeStages.1.labelFemalePlural>幼年母西猯</ACPPeccary.lifeStages.1.labelFemalePlural>
+  <ACPPeccary.lifeStages.2.label>西猯</ACPPeccary.lifeStages.2.label>
+  <ACPPeccary.lifeStages.2.labelPlural>西猯</ACPPeccary.lifeStages.2.labelPlural>
+  <ACPPeccary.lifeStages.2.labelMale>公西猯</ACPPeccary.lifeStages.2.labelMale>
+  <ACPPeccary.lifeStages.2.labelMalePlural>公西猯</ACPPeccary.lifeStages.2.labelMalePlural>
+  <ACPPeccary.lifeStages.2.labelFemale>母西猯</ACPPeccary.lifeStages.2.labelFemale>
+  <ACPPeccary.lifeStages.2.labelFemalePlural>母西猯</ACPPeccary.lifeStages.2.labelFemalePlural>
+  <ACPPeccary.labelMale>公西猯</ACPPeccary.labelMale>
+  <ACPPeccary.labelMalePlural>公西猯</ACPPeccary.labelMalePlural>
+  <ACPPeccary.labelFemale>母西猯</ACPPeccary.labelFemale>
+  <ACPPeccary.labelFemalePlural>母西猯</ACPPeccary.labelFemalePlural>
+
+
+</LanguageData>

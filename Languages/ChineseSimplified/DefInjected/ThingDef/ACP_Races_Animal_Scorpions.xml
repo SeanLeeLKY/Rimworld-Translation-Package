@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPMegascorpion.label>巨蠍</ACPMegascorpion.label>
+  <ACPMegascorpion.description>巨大的基因工程昆虫，外形酷似蠍子。与绝大多数群居生物不用，它们不会繁殖后代。</ACPMegascorpion.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <ACPMegascorpion_Corpse.label>巨蠍尸体</ACPMegascorpion_Corpse.label>
+  <ACPMegascorpion_Corpse.description>巨蠍尸体</ACPMegascorpion_Corpse.description>
+
+
+</LanguageData>

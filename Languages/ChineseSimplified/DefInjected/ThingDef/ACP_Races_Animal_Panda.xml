@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPanda.label>大熊猫</ACPPanda.label>
+  <ACPPanda.description>一种古怪而又可爱的熊，毛色黑白分明。</ACPPanda.description>
+  <ACPPanda_Leather.label>大熊猫皮</ACPPanda_Leather.label>
+  <ACPPanda_Leather.description>大熊猫皮</ACPPanda_Leather.description>
+  <ACPPanda_Leather.stuffProps.stuffAdjective>大熊猫皮</ACPPanda_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: GrizzlyBear -->
+  <ACPPanda_Corpse.label>大熊猫尸体</ACPPanda_Corpse.label>
+  <ACPPanda_Corpse.description>大熊猫尸体</ACPPanda_Corpse.description>
+
+
+</LanguageData>

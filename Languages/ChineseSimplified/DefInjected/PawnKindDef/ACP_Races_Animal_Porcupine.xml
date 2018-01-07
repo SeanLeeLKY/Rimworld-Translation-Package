@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPorcupine.label>豪猪</ACPPorcupine.label>
+  <ACPPorcupine.labelPlural>豪猪</ACPPorcupine.labelPlural>
+  <ACPPorcupine.lifeStages.0.label>豪猪幼崽</ACPPorcupine.lifeStages.0.label>
+  <ACPPorcupine.lifeStages.0.labelPlural>豪猪幼崽</ACPPorcupine.lifeStages.0.labelPlural>
+  <ACPPorcupine.lifeStages.0.labelMale>公豪猪幼崽</ACPPorcupine.lifeStages.0.labelMale>
+  <ACPPorcupine.lifeStages.0.labelMalePlural>公豪猪幼崽</ACPPorcupine.lifeStages.0.labelMalePlural>
+  <ACPPorcupine.lifeStages.0.labelFemale>母豪猪幼崽</ACPPorcupine.lifeStages.0.labelFemale>
+  <ACPPorcupine.lifeStages.0.labelFemalePlural>母豪猪幼崽</ACPPorcupine.lifeStages.0.labelFemalePlural>
+  <ACPPorcupine.lifeStages.1.label>幼年豪猪</ACPPorcupine.lifeStages.1.label>
+  <ACPPorcupine.lifeStages.1.labelPlural>幼年豪猪</ACPPorcupine.lifeStages.1.labelPlural>
+  <ACPPorcupine.lifeStages.1.labelMale>幼年公豪猪</ACPPorcupine.lifeStages.1.labelMale>
+  <ACPPorcupine.lifeStages.1.labelMalePlural>幼年公豪猪</ACPPorcupine.lifeStages.1.labelMalePlural>
+  <ACPPorcupine.lifeStages.1.labelFemale>幼年母豪猪</ACPPorcupine.lifeStages.1.labelFemale>
+  <ACPPorcupine.lifeStages.1.labelFemalePlural>幼年母豪猪</ACPPorcupine.lifeStages.1.labelFemalePlural>
+  <ACPPorcupine.lifeStages.2.label>豪猪</ACPPorcupine.lifeStages.2.label>
+  <ACPPorcupine.lifeStages.2.labelPlural>豪猪</ACPPorcupine.lifeStages.2.labelPlural>
+  <ACPPorcupine.lifeStages.2.labelMale>公豪猪</ACPPorcupine.lifeStages.2.labelMale>
+  <ACPPorcupine.lifeStages.2.labelMalePlural>公豪猪</ACPPorcupine.lifeStages.2.labelMalePlural>
+  <ACPPorcupine.lifeStages.2.labelFemale>母豪猪</ACPPorcupine.lifeStages.2.labelFemale>
+  <ACPPorcupine.lifeStages.2.labelFemalePlural>母豪猪</ACPPorcupine.lifeStages.2.labelFemalePlural>
+  <ACPPorcupine.labelMale>公豪猪</ACPPorcupine.labelMale>
+  <ACPPorcupine.labelMalePlural>公豪猪</ACPPorcupine.labelMalePlural>
+  <ACPPorcupine.labelFemale>母豪猪</ACPPorcupine.labelFemale>
+  <ACPPorcupine.labelFemalePlural>母豪猪</ACPPorcupine.labelFemalePlural>
+
+
+</LanguageData>

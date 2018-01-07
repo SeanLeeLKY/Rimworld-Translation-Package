@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPXenguana.label>希恩巨蜥</ACPXenguana.label>
+  <ACPXenguana.labelPlural>希恩巨蜥</ACPXenguana.labelPlural>
+  <ACPXenguana.lifeStages.0.label>希恩巨蜥幼崽</ACPXenguana.lifeStages.0.label>
+  <ACPXenguana.lifeStages.0.labelPlural>希恩巨蜥幼崽</ACPXenguana.lifeStages.0.labelPlural>
+  <ACPXenguana.lifeStages.0.labelMale>公希恩巨蜥幼崽</ACPXenguana.lifeStages.0.labelMale>
+  <ACPXenguana.lifeStages.0.labelMalePlural>公希恩巨蜥幼崽</ACPXenguana.lifeStages.0.labelMalePlural>
+  <ACPXenguana.lifeStages.0.labelFemale>母希恩巨蜥幼崽</ACPXenguana.lifeStages.0.labelFemale>
+  <ACPXenguana.lifeStages.0.labelFemalePlural>母希恩巨蜥幼崽</ACPXenguana.lifeStages.0.labelFemalePlural>
+  <ACPXenguana.lifeStages.1.label>幼年希恩巨蜥</ACPXenguana.lifeStages.1.label>
+  <ACPXenguana.lifeStages.1.labelPlural>幼年希恩巨蜥</ACPXenguana.lifeStages.1.labelPlural>
+  <ACPXenguana.lifeStages.1.labelMale>幼年公希恩巨蜥</ACPXenguana.lifeStages.1.labelMale>
+  <ACPXenguana.lifeStages.1.labelMalePlural>幼年公希恩巨蜥</ACPXenguana.lifeStages.1.labelMalePlural>
+  <ACPXenguana.lifeStages.1.labelFemale>幼年母希恩巨蜥</ACPXenguana.lifeStages.1.labelFemale>
+  <ACPXenguana.lifeStages.1.labelFemalePlural>幼年母希恩巨蜥</ACPXenguana.lifeStages.1.labelFemalePlural>
+  <ACPXenguana.lifeStages.2.label>希恩巨蜥</ACPXenguana.lifeStages.2.label>
+  <ACPXenguana.lifeStages.2.labelPlural>希恩巨蜥</ACPXenguana.lifeStages.2.labelPlural>
+  <ACPXenguana.lifeStages.2.labelMale>公希恩巨蜥</ACPXenguana.lifeStages.2.labelMale>
+  <ACPXenguana.lifeStages.2.labelMalePlural>公希恩巨蜥</ACPXenguana.lifeStages.2.labelMalePlural>
+  <ACPXenguana.lifeStages.2.labelFemale>母希恩巨蜥</ACPXenguana.lifeStages.2.labelFemale>
+  <ACPXenguana.lifeStages.2.labelFemalePlural>母希恩巨蜥</ACPXenguana.lifeStages.2.labelFemalePlural>
+  <ACPXenguana.labelMale>公希恩巨蜥</ACPXenguana.labelMale>
+  <ACPXenguana.labelMalePlural>公希恩巨蜥</ACPXenguana.labelMalePlural>
+  <ACPXenguana.labelFemale>母希恩巨蜥</ACPXenguana.labelFemale>
+  <ACPXenguana.labelFemalePlural>母希恩巨蜥</ACPXenguana.labelFemalePlural>
+
+  <ACPXGecko.label>壁虎</ACPXGecko.label>
+  <ACPXGecko.labelPlural>壁虎</ACPXGecko.labelPlural>
+  <ACPXGecko.lifeStages.0.label>壁虎幼崽</ACPXGecko.lifeStages.0.label>
+  <ACPXGecko.lifeStages.0.labelPlural>壁虎幼崽</ACPXGecko.lifeStages.0.labelPlural>
+  <ACPXGecko.lifeStages.0.labelMale>公壁虎幼崽</ACPXGecko.lifeStages.0.labelMale>
+  <ACPXGecko.lifeStages.0.labelMalePlural>公壁虎幼崽</ACPXGecko.lifeStages.0.labelMalePlural>
+  <ACPXGecko.lifeStages.0.labelFemale>母壁虎幼崽</ACPXGecko.lifeStages.0.labelFemale>
+  <ACPXGecko.lifeStages.0.labelFemalePlural>母壁虎幼崽</ACPXGecko.lifeStages.0.labelFemalePlural>
+  <ACPXGecko.lifeStages.1.label>幼年壁虎</ACPXGecko.lifeStages.1.label>
+  <ACPXGecko.lifeStages.1.labelPlural>幼年壁虎</ACPXGecko.lifeStages.1.labelPlural>
+  <ACPXGecko.lifeStages.1.labelMale>幼年公壁虎</ACPXGecko.lifeStages.1.labelMale>
+  <ACPXGecko.lifeStages.1.labelMalePlural>幼年公壁虎</ACPXGecko.lifeStages.1.labelMalePlural>
+  <ACPXGecko.lifeStages.1.labelFemale>幼年母壁虎</ACPXGecko.lifeStages.1.labelFemale>
+  <ACPXGecko.lifeStages.1.labelFemalePlural>幼年母壁虎</ACPXGecko.lifeStages.1.labelFemalePlural>
+  <ACPXGecko.lifeStages.2.label>壁虎</ACPXGecko.lifeStages.2.label>
+  <ACPXGecko.lifeStages.2.labelPlural>壁虎</ACPXGecko.lifeStages.2.labelPlural>
+  <ACPXGecko.lifeStages.2.labelMale>公壁虎</ACPXGecko.lifeStages.2.labelMale>
+  <ACPXGecko.lifeStages.2.labelMalePlural>公壁虎</ACPXGecko.lifeStages.2.labelMalePlural>
+  <ACPXGecko.lifeStages.2.labelFemale>母壁虎</ACPXGecko.lifeStages.2.labelFemale>
+  <ACPXGecko.lifeStages.2.labelFemalePlural>母壁虎</ACPXGecko.lifeStages.2.labelFemalePlural>
+  <ACPXGecko.labelMale>公壁虎</ACPXGecko.labelMale>
+  <ACPXGecko.labelMalePlural>公壁虎</ACPXGecko.labelMalePlural>
+  <ACPXGecko.labelFemale>母壁虎</ACPXGecko.labelFemale>
+  <ACPXGecko.labelFemalePlural>母壁虎</ACPXGecko.labelFemalePlural>
+
+
+</LanguageData>

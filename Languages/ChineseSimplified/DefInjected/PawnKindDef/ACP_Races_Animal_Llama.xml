@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Textures -->
+
+  <ACPLlama.label>大羊驼</ACPLlama.label>
+  <ACPLlama.labelPlural>大羊驼</ACPLlama.labelPlural>
+  <ACPLlama.lifeStages.0.label>大羊驼幼崽</ACPLlama.lifeStages.0.label>
+  <ACPLlama.lifeStages.0.labelPlural>大羊驼幼崽</ACPLlama.lifeStages.0.labelPlural>
+  <ACPLlama.lifeStages.0.labelMale>公大羊驼幼崽</ACPLlama.lifeStages.0.labelMale>
+  <ACPLlama.lifeStages.0.labelMalePlural>公大羊驼幼崽</ACPLlama.lifeStages.0.labelMalePlural>
+  <ACPLlama.lifeStages.0.labelFemale>母大羊驼幼崽</ACPLlama.lifeStages.0.labelFemale>
+  <ACPLlama.lifeStages.0.labelFemalePlural>母大羊驼幼崽</ACPLlama.lifeStages.0.labelFemalePlural>
+  <ACPLlama.lifeStages.1.label>幼年大羊驼</ACPLlama.lifeStages.1.label>
+  <ACPLlama.lifeStages.1.labelPlural>幼年大羊驼</ACPLlama.lifeStages.1.labelPlural>
+  <ACPLlama.lifeStages.1.labelMale>幼年公大羊驼</ACPLlama.lifeStages.1.labelMale>
+  <ACPLlama.lifeStages.1.labelMalePlural>幼年公大羊驼</ACPLlama.lifeStages.1.labelMalePlural>
+  <ACPLlama.lifeStages.1.labelFemale>幼年母大羊驼</ACPLlama.lifeStages.1.labelFemale>
+  <ACPLlama.lifeStages.1.labelFemalePlural>幼年母大羊驼</ACPLlama.lifeStages.1.labelFemalePlural>
+  <ACPLlama.lifeStages.2.label>大羊驼</ACPLlama.lifeStages.2.label>
+  <ACPLlama.lifeStages.2.labelPlural>大羊驼</ACPLlama.lifeStages.2.labelPlural>
+  <ACPLlama.lifeStages.2.labelMale>公大羊驼</ACPLlama.lifeStages.2.labelMale>
+  <ACPLlama.lifeStages.2.labelMalePlural>公大羊驼</ACPLlama.lifeStages.2.labelMalePlural>
+  <ACPLlama.lifeStages.2.labelFemale>母大羊驼</ACPLlama.lifeStages.2.labelFemale>
+  <ACPLlama.lifeStages.2.labelFemalePlural>母大羊驼</ACPLlama.lifeStages.2.labelFemalePlural>
+  <ACPLlama.labelMale>公大羊驼</ACPLlama.labelMale>
+  <ACPLlama.labelMalePlural>公大羊驼</ACPLlama.labelMalePlural>
+  <ACPLlama.labelFemale>母大羊驼</ACPLlama.labelFemale>
+  <ACPLlama.labelFemalePlural>母大羊驼</ACPLlama.labelFemalePlural>
+
+
+</LanguageData>

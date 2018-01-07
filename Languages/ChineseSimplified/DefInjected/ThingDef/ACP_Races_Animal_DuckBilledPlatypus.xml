@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPDuckBilledPlatypus.label>鸭嘴兽</ACPDuckBilledPlatypus.label>
+  <ACPDuckBilledPlatypus.description>你也许会认为鸭嘴兽是基因工程的产物，但这种奇葩卵生的哺乳动物完全是自然进化而来的。</ACPDuckBilledPlatypus.description>
+  <!-- Use Leather From: ACPBison -->
+  <ACPDuckBilledPlatypus_Meat.label>鸭嘴兽肉</ACPDuckBilledPlatypus_Meat.label>
+  <ACPDuckBilledPlatypus_Meat.description>鸭嘴兽肉</ACPDuckBilledPlatypus_Meat.description>
+  <ACPDuckBilledPlatypus_Corpse.label>鸭嘴兽尸体</ACPDuckBilledPlatypus_Corpse.label>
+  <ACPDuckBilledPlatypus_Corpse.description>鸭嘴兽尸体</ACPDuckBilledPlatypus_Corpse.description>
+
+
+</LanguageData>

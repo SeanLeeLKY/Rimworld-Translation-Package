@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPWalrus.label>海象</ACPWalrus.label>
+  <ACPWalrus.labelPlural>海象</ACPWalrus.labelPlural>
+  <ACPWalrus.lifeStages.0.label>海象幼崽</ACPWalrus.lifeStages.0.label>
+  <ACPWalrus.lifeStages.0.labelPlural>海象幼崽</ACPWalrus.lifeStages.0.labelPlural>
+  <ACPWalrus.lifeStages.0.labelMale>公海象幼崽</ACPWalrus.lifeStages.0.labelMale>
+  <ACPWalrus.lifeStages.0.labelMalePlural>公海象幼崽</ACPWalrus.lifeStages.0.labelMalePlural>
+  <ACPWalrus.lifeStages.0.labelFemale>母海象幼崽</ACPWalrus.lifeStages.0.labelFemale>
+  <ACPWalrus.lifeStages.0.labelFemalePlural>母海象幼崽</ACPWalrus.lifeStages.0.labelFemalePlural>
+  <ACPWalrus.lifeStages.1.label>幼年海象</ACPWalrus.lifeStages.1.label>
+  <ACPWalrus.lifeStages.1.labelPlural>幼年海象</ACPWalrus.lifeStages.1.labelPlural>
+  <ACPWalrus.lifeStages.1.labelMale>幼年公海象</ACPWalrus.lifeStages.1.labelMale>
+  <ACPWalrus.lifeStages.1.labelMalePlural>幼年公海象</ACPWalrus.lifeStages.1.labelMalePlural>
+  <ACPWalrus.lifeStages.1.labelFemale>幼年母海象</ACPWalrus.lifeStages.1.labelFemale>
+  <ACPWalrus.lifeStages.1.labelFemalePlural>幼年母海象</ACPWalrus.lifeStages.1.labelFemalePlural>
+  <ACPWalrus.lifeStages.2.label>海象</ACPWalrus.lifeStages.2.label>
+  <ACPWalrus.lifeStages.2.labelPlural>海象</ACPWalrus.lifeStages.2.labelPlural>
+  <ACPWalrus.lifeStages.2.labelMale>公海象</ACPWalrus.lifeStages.2.labelMale>
+  <ACPWalrus.lifeStages.2.labelMalePlural>公海象</ACPWalrus.lifeStages.2.labelMalePlural>
+  <ACPWalrus.lifeStages.2.labelFemale>母海象</ACPWalrus.lifeStages.2.labelFemale>
+  <ACPWalrus.lifeStages.2.labelFemalePlural>母海象</ACPWalrus.lifeStages.2.labelFemalePlural>
+  <ACPWalrus.labelMale>公海象</ACPWalrus.labelMale>
+  <ACPWalrus.labelMalePlural>公海象</ACPWalrus.labelMalePlural>
+  <ACPWalrus.labelFemale>母海象</ACPWalrus.labelFemale>
+  <ACPWalrus.labelFemalePlural>母海象</ACPWalrus.labelFemalePlural>
+
+
+</LanguageData>

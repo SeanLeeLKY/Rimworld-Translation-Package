@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPFerret.label>雪貂</ACPFerret.label>
+  <ACPFerret.labelPlural>雪貂</ACPFerret.labelPlural>
+  <ACPFerret.lifeStages.0.label>雪貂幼崽</ACPFerret.lifeStages.0.label>
+  <ACPFerret.lifeStages.0.labelPlural>雪貂幼崽</ACPFerret.lifeStages.0.labelPlural>
+  <ACPFerret.lifeStages.0.labelMale>公雪貂幼崽</ACPFerret.lifeStages.0.labelMale>
+  <ACPFerret.lifeStages.0.labelMalePlural>公雪貂幼崽</ACPFerret.lifeStages.0.labelMalePlural>
+  <ACPFerret.lifeStages.0.labelFemale>母雪貂幼崽</ACPFerret.lifeStages.0.labelFemale>
+  <ACPFerret.lifeStages.0.labelFemalePlural>母雪貂幼崽</ACPFerret.lifeStages.0.labelFemalePlural>
+  <ACPFerret.lifeStages.1.label>幼年雪貂</ACPFerret.lifeStages.1.label>
+  <ACPFerret.lifeStages.1.labelPlural>幼年雪貂</ACPFerret.lifeStages.1.labelPlural>
+  <ACPFerret.lifeStages.1.labelMale>幼年公雪貂</ACPFerret.lifeStages.1.labelMale>
+  <ACPFerret.lifeStages.1.labelMalePlural>幼年公雪貂</ACPFerret.lifeStages.1.labelMalePlural>
+  <ACPFerret.lifeStages.1.labelFemale>幼年母雪貂</ACPFerret.lifeStages.1.labelFemale>
+  <ACPFerret.lifeStages.1.labelFemalePlural>幼年母雪貂</ACPFerret.lifeStages.1.labelFemalePlural>
+  <ACPFerret.lifeStages.2.label>雪貂</ACPFerret.lifeStages.2.label>
+  <ACPFerret.lifeStages.2.labelPlural>雪貂</ACPFerret.lifeStages.2.labelPlural>
+  <ACPFerret.lifeStages.2.labelMale>公雪貂</ACPFerret.lifeStages.2.labelMale>
+  <ACPFerret.lifeStages.2.labelMalePlural>公雪貂</ACPFerret.lifeStages.2.labelMalePlural>
+  <ACPFerret.lifeStages.2.labelFemale>母雪貂</ACPFerret.lifeStages.2.labelFemale>
+  <ACPFerret.lifeStages.2.labelFemalePlural>母雪貂</ACPFerret.lifeStages.2.labelFemalePlural>
+  <ACPFerret.labelMale>公雪貂</ACPFerret.labelMale>
+  <ACPFerret.labelMalePlural>公雪貂</ACPFerret.labelMalePlural>
+  <ACPFerret.labelFemale>母雪貂</ACPFerret.labelFemale>
+  <ACPFerret.labelFemalePlural>母雪貂</ACPFerret.labelFemalePlural>
+
+
+</LanguageData>

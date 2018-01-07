@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPanda.label>大熊猫</ACPPanda.label>
+  <ACPPanda.labelPlural>大熊猫</ACPPanda.labelPlural>
+  <ACPPanda.lifeStages.0.label>大熊猫幼崽</ACPPanda.lifeStages.0.label>
+  <ACPPanda.lifeStages.0.labelPlural>大熊猫幼崽</ACPPanda.lifeStages.0.labelPlural>
+  <ACPPanda.lifeStages.0.labelMale>公大熊猫幼崽</ACPPanda.lifeStages.0.labelMale>
+  <ACPPanda.lifeStages.0.labelMalePlural>公大熊猫幼崽</ACPPanda.lifeStages.0.labelMalePlural>
+  <ACPPanda.lifeStages.0.labelFemale>母大熊猫幼崽</ACPPanda.lifeStages.0.labelFemale>
+  <ACPPanda.lifeStages.0.labelFemalePlural>母大熊猫幼崽</ACPPanda.lifeStages.0.labelFemalePlural>
+  <ACPPanda.lifeStages.1.label>幼年大熊猫</ACPPanda.lifeStages.1.label>
+  <ACPPanda.lifeStages.1.labelPlural>幼年大熊猫</ACPPanda.lifeStages.1.labelPlural>
+  <ACPPanda.lifeStages.1.labelMale>幼年公大熊猫</ACPPanda.lifeStages.1.labelMale>
+  <ACPPanda.lifeStages.1.labelMalePlural>幼年公大熊猫</ACPPanda.lifeStages.1.labelMalePlural>
+  <ACPPanda.lifeStages.1.labelFemale>幼年母大熊猫</ACPPanda.lifeStages.1.labelFemale>
+  <ACPPanda.lifeStages.1.labelFemalePlural>幼年母大熊猫</ACPPanda.lifeStages.1.labelFemalePlural>
+  <ACPPanda.lifeStages.2.label>大熊猫</ACPPanda.lifeStages.2.label>
+  <ACPPanda.lifeStages.2.labelPlural>大熊猫</ACPPanda.lifeStages.2.labelPlural>
+  <ACPPanda.lifeStages.2.labelMale>公大熊猫</ACPPanda.lifeStages.2.labelMale>
+  <ACPPanda.lifeStages.2.labelMalePlural>公大熊猫</ACPPanda.lifeStages.2.labelMalePlural>
+  <ACPPanda.lifeStages.2.labelFemale>母大熊猫</ACPPanda.lifeStages.2.labelFemale>
+  <ACPPanda.lifeStages.2.labelFemalePlural>母大熊猫</ACPPanda.lifeStages.2.labelFemalePlural>
+  <ACPPanda.labelMale>公大熊猫</ACPPanda.labelMale>
+  <ACPPanda.labelMalePlural>公大熊猫</ACPPanda.labelMalePlural>
+  <ACPPanda.labelFemale>母大熊猫</ACPPanda.labelFemale>
+  <ACPPanda.labelFemalePlural>母大熊猫</ACPPanda.labelFemalePlural>
+
+
+</LanguageData>

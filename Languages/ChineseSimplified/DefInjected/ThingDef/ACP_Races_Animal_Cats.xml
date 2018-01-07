@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPLion.label>狮子</ACPLion.label>
+  <ACPLion.description>狮子也许是古代大型猫科动物中最著名的族群.由于雄狮头部特别的长鬃毛，狮子的性别通常非常容易分辨.这种性别差异性在猫科生物中非常的独特。狮子是群居型动物，其族群通常由一头雄狮与众多雌性后宫组成，然而进行狩猎的工作的通常是雌狮。历史上有过尝试消除这种不平等性的运动，然而不幸的失败了。</ACPLion.description>
+  <ACPLion_Leather.label>黄褐色皮</ACPLion_Leather.label>
+  <ACPLion_Leather.description>黄褐色皮</ACPLion_Leather.description>
+  <ACPLion_Leather.stuffProps.stuffAdjective>黄褐色皮</ACPLion_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <ACPLion_Corpse.label>狮子尸体</ACPLion_Corpse.label>
+  <ACPLion_Corpse.description>狮子尸体</ACPLion_Corpse.description>
+
+  <ACPTiger.label>老虎</ACPTiger.label>
+  <ACPTiger.description>世界上最大的原生态猫科生物.强大、危险、独立的猎手。拥有迷人的身体斑纹。</ACPTiger.description>
+  <!-- Use Leather From: ACPLion -->
+  <!-- Use Meat From: Cat -->
+  <ACPTiger_Corpse.label>老虎尸体</ACPTiger_Corpse.label>
+  <ACPTiger_Corpse.description>老虎尸体</ACPTiger_Corpse.description>
+
+  <ACPCheetah.label>猎豹</ACPCheetah.label>
+  <ACPCheetah.description>虽然不是最强大猎手，但猎豹是非常优秀的奔跑健将。从猎豹手里逃脱是非常困难的。</ACPCheetah.description>
+  <!-- Use Leather From: ACPLion -->
+  <!-- Use Meat From: Cat -->
+  <ACPCheetah_Corpse.label>猎豹尸体</ACPCheetah_Corpse.label>
+  <ACPCheetah_Corpse.description>猎豹尸体</ACPCheetah_Corpse.description>
+
+  <ACPAmurLeopard.label>远东豹</ACPAmurLeopard.label>
+  <ACPAmurLeopard.description>在被人类迁移到其它之前，远东豹曾濒临灭绝。由于有厚皮与紧实的体型，远东豹能忍受大多数猫科动物无法忍受的严寒。</ACPAmurLeopard.description>
+  <!-- Use Leather From: ACPLion -->
+  <!-- Use Meat From: Cat -->
+  <ACPAmurLeopard_Corpse.label>远东豹尸体</ACPAmurLeopard_Corpse.label>
+  <ACPAmurLeopard_Corpse.description>远东豹尸体</ACPAmurLeopard_Corpse.description>
+
+  <ACPSnowLeopard.label>雪豹</ACPSnowLeopard.label>
+  <ACPSnowLeopard.description>雪豹是大型猫科动物中体型较小的成员。雪豹大多栖息在寒冷地带，它们白色的皮毛在雪地能提供极佳的伪装。</ACPSnowLeopard.description>
+  <ACPSnowLeopard_Leather.label>灰白色皮</ACPSnowLeopard_Leather.label>
+  <ACPSnowLeopard_Leather.description>灰白色皮</ACPSnowLeopard_Leather.description>
+  <ACPSnowLeopard_Leather.stuffProps.stuffAdjective>灰白色皮</ACPSnowLeopard_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cat -->
+  <ACPSnowLeopard_Corpse.label>雪豹尸体</ACPSnowLeopard_Corpse.label>
+  <ACPSnowLeopard_Corpse.description>雪豹尸体</ACPSnowLeopard_Corpse.description>
+
+
+</LanguageData>

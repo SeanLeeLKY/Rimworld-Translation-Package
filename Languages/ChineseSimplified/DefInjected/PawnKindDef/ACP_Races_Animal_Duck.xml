@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPDuck.label>野鸭</ACPDuck.label>
+  <ACPDuck.labelPlural>野鸭</ACPDuck.labelPlural>
+  <ACPDuck.lifeStages.0.label>野鸭崽</ACPDuck.lifeStages.0.label>
+  <ACPDuck.lifeStages.0.labelPlural>野鸭崽</ACPDuck.lifeStages.0.labelPlural>
+  <ACPDuck.lifeStages.0.labelMale>公野鸭崽</ACPDuck.lifeStages.0.labelMale>
+  <ACPDuck.lifeStages.0.labelMalePlural>公野鸭崽</ACPDuck.lifeStages.0.labelMalePlural>
+  <ACPDuck.lifeStages.0.labelFemale>母野鸭崽</ACPDuck.lifeStages.0.labelFemale>
+  <ACPDuck.lifeStages.0.labelFemalePlural>母野鸭崽</ACPDuck.lifeStages.0.labelFemalePlural>
+  <ACPDuck.lifeStages.1.label>幼年野鸭</ACPDuck.lifeStages.1.label>
+  <ACPDuck.lifeStages.1.labelPlural>幼年野鸭</ACPDuck.lifeStages.1.labelPlural>
+  <ACPDuck.lifeStages.1.labelMale>幼年公野鸭</ACPDuck.lifeStages.1.labelMale>
+  <ACPDuck.lifeStages.1.labelMalePlural>幼年公野鸭</ACPDuck.lifeStages.1.labelMalePlural>
+  <ACPDuck.lifeStages.1.labelFemale>幼年母野鸭</ACPDuck.lifeStages.1.labelFemale>
+  <ACPDuck.lifeStages.1.labelFemalePlural>幼年母野鸭</ACPDuck.lifeStages.1.labelFemalePlural>
+  <ACPDuck.lifeStages.2.label>野鸭</ACPDuck.lifeStages.2.label>
+  <ACPDuck.lifeStages.2.labelPlural>野鸭</ACPDuck.lifeStages.2.labelPlural>
+  <ACPDuck.lifeStages.2.labelMale>公野鸭</ACPDuck.lifeStages.2.labelMale>
+  <ACPDuck.lifeStages.2.labelMalePlural>公野鸭</ACPDuck.lifeStages.2.labelMalePlural>
+  <ACPDuck.lifeStages.2.labelFemale>母野鸭</ACPDuck.lifeStages.2.labelFemale>
+  <ACPDuck.lifeStages.2.labelFemalePlural>母野鸭</ACPDuck.lifeStages.2.labelFemalePlural>
+  <ACPDuck.labelMale>公野鸭</ACPDuck.labelMale>
+  <ACPDuck.labelMalePlural>公野鸭</ACPDuck.labelMalePlural>
+  <ACPDuck.labelFemale>母野鸭</ACPDuck.labelFemale>
+  <ACPDuck.labelFemalePlural>母野鸭</ACPDuck.labelFemalePlural>
+
+
+</LanguageData>

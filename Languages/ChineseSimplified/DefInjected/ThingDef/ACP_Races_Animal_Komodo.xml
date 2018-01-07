@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPKomodo.label>科莫多巨蜥</ACPKomodo.label>
+  <ACPKomodo.description>科莫多巨蜥是现存的体型最大的蜥蜴，其体长最大可以到3米，体重可以超过70公斤。它们的下颚有两个存有一些毒液的腺体，因此被它们咬到将会中毒。和一般的蜥蜴不同，科莫多巨蜥会群体狩猎。</ACPKomodo.description>
+  <ACPKomodo_Leather.label>科莫多巨蜥皮</ACPKomodo_Leather.label>
+  <ACPKomodo_Leather.description>科莫多巨蜥皮</ACPKomodo_Leather.description>
+  <ACPKomodo_Leather.stuffProps.stuffAdjective>科莫多巨蜥皮</ACPKomodo_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Iguana -->
+  <ACPKomodo_Corpse.label>科莫多巨蜥尸体</ACPKomodo_Corpse.label>
+  <ACPKomodo_Corpse.description>科莫多巨蜥尸体</ACPKomodo_Corpse.description>
+
+
+</LanguageData>

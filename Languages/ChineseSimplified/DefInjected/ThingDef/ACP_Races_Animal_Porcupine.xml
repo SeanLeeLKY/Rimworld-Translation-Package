@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPorcupine.label>豪猪</ACPPorcupine.label>
+  <ACPPorcupine.description>大型有刺哺乳动物，能将射出自身的尖刺来阻止捕食者。</ACPPorcupine.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Pig -->
+  <ACPPorcupine_Corpse.label>豪猪尸体</ACPPorcupine_Corpse.label>
+  <ACPPorcupine_Corpse.description>豪猪尸体</ACPPorcupine_Corpse.description>
+
+
+</LanguageData>

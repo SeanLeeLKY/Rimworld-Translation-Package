@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPDirewolf.label>恐狼</ACPDirewolf.label>
+  <ACPDirewolf.labelPlural>恐狼</ACPDirewolf.labelPlural>
+  <ACPDirewolf.lifeStages.0.label>恐狼幼崽</ACPDirewolf.lifeStages.0.label>
+  <ACPDirewolf.lifeStages.0.labelPlural>恐狼幼崽</ACPDirewolf.lifeStages.0.labelPlural>
+  <ACPDirewolf.lifeStages.0.labelMale>公恐狼幼崽</ACPDirewolf.lifeStages.0.labelMale>
+  <ACPDirewolf.lifeStages.0.labelMalePlural>公恐狼幼崽</ACPDirewolf.lifeStages.0.labelMalePlural>
+  <ACPDirewolf.lifeStages.0.labelFemale>母恐狼幼崽</ACPDirewolf.lifeStages.0.labelFemale>
+  <ACPDirewolf.lifeStages.0.labelFemalePlural>母恐狼幼崽</ACPDirewolf.lifeStages.0.labelFemalePlural>
+  <ACPDirewolf.lifeStages.1.label>幼年恐狼</ACPDirewolf.lifeStages.1.label>
+  <ACPDirewolf.lifeStages.1.labelPlural>幼年恐狼</ACPDirewolf.lifeStages.1.labelPlural>
+  <ACPDirewolf.lifeStages.1.labelMale>幼年公恐狼</ACPDirewolf.lifeStages.1.labelMale>
+  <ACPDirewolf.lifeStages.1.labelMalePlural>幼年公恐狼</ACPDirewolf.lifeStages.1.labelMalePlural>
+  <ACPDirewolf.lifeStages.1.labelFemale>幼年母恐狼</ACPDirewolf.lifeStages.1.labelFemale>
+  <ACPDirewolf.lifeStages.1.labelFemalePlural>幼年母恐狼</ACPDirewolf.lifeStages.1.labelFemalePlural>
+  <ACPDirewolf.lifeStages.2.label>恐狼</ACPDirewolf.lifeStages.2.label>
+  <ACPDirewolf.lifeStages.2.labelPlural>恐狼</ACPDirewolf.lifeStages.2.labelPlural>
+  <ACPDirewolf.lifeStages.2.labelMale>公恐狼</ACPDirewolf.lifeStages.2.labelMale>
+  <ACPDirewolf.lifeStages.2.labelMalePlural>公恐狼</ACPDirewolf.lifeStages.2.labelMalePlural>
+  <ACPDirewolf.lifeStages.2.labelFemale>母恐狼</ACPDirewolf.lifeStages.2.labelFemale>
+  <ACPDirewolf.lifeStages.2.labelFemalePlural>母恐狼</ACPDirewolf.lifeStages.2.labelFemalePlural>
+  <ACPDirewolf.labelMale>公恐狼</ACPDirewolf.labelMale>
+  <ACPDirewolf.labelMalePlural>公恐狼</ACPDirewolf.labelMalePlural>
+  <ACPDirewolf.labelFemale>母恐狼</ACPDirewolf.labelFemale>
+  <ACPDirewolf.labelFemalePlural>母恐狼</ACPDirewolf.labelFemalePlural>
+
+  <ACPBlackwolf.label>黑恐狼</ACPBlackwolf.label>
+  <ACPBlackwolf.labelPlural>黑恐狼</ACPBlackwolf.labelPlural>
+  <ACPBlackwolf.lifeStages.0.label>黑恐狼幼崽</ACPBlackwolf.lifeStages.0.label>
+  <ACPBlackwolf.lifeStages.0.labelPlural>黑恐狼幼崽</ACPBlackwolf.lifeStages.0.labelPlural>
+  <ACPBlackwolf.lifeStages.0.labelMale>公黑恐狼幼崽</ACPBlackwolf.lifeStages.0.labelMale>
+  <ACPBlackwolf.lifeStages.0.labelMalePlural>公黑恐狼幼崽</ACPBlackwolf.lifeStages.0.labelMalePlural>
+  <ACPBlackwolf.lifeStages.0.labelFemale>母黑恐狼幼崽</ACPBlackwolf.lifeStages.0.labelFemale>
+  <ACPBlackwolf.lifeStages.0.labelFemalePlural>母黑恐狼幼崽</ACPBlackwolf.lifeStages.0.labelFemalePlural>
+  <ACPBlackwolf.lifeStages.1.label>幼年黑恐狼</ACPBlackwolf.lifeStages.1.label>
+  <ACPBlackwolf.lifeStages.1.labelPlural>幼年黑恐狼</ACPBlackwolf.lifeStages.1.labelPlural>
+  <ACPBlackwolf.lifeStages.1.labelMale>幼年公黑恐狼</ACPBlackwolf.lifeStages.1.labelMale>
+  <ACPBlackwolf.lifeStages.1.labelMalePlural>幼年公黑恐狼</ACPBlackwolf.lifeStages.1.labelMalePlural>
+  <ACPBlackwolf.lifeStages.1.labelFemale>幼年母黑恐狼</ACPBlackwolf.lifeStages.1.labelFemale>
+  <ACPBlackwolf.lifeStages.1.labelFemalePlural>幼年母黑恐狼</ACPBlackwolf.lifeStages.1.labelFemalePlural>
+  <ACPBlackwolf.lifeStages.2.label>黑恐狼</ACPBlackwolf.lifeStages.2.label>
+  <ACPBlackwolf.lifeStages.2.labelPlural>黑恐狼</ACPBlackwolf.lifeStages.2.labelPlural>
+  <ACPBlackwolf.lifeStages.2.labelMale>公黑恐狼</ACPBlackwolf.lifeStages.2.labelMale>
+  <ACPBlackwolf.lifeStages.2.labelMalePlural>公黑恐狼</ACPBlackwolf.lifeStages.2.labelMalePlural>
+  <ACPBlackwolf.lifeStages.2.labelFemale>母黑恐狼</ACPBlackwolf.lifeStages.2.labelFemale>
+  <ACPBlackwolf.lifeStages.2.labelFemalePlural>母黑恐狼</ACPBlackwolf.lifeStages.2.labelFemalePlural>
+  <ACPBlackwolf.labelMale>公黑恐狼</ACPBlackwolf.labelMale>
+  <ACPBlackwolf.labelMalePlural>公黑恐狼</ACPBlackwolf.labelMalePlural>
+  <ACPBlackwolf.labelFemale>母黑恐狼</ACPBlackwolf.labelFemale>
+  <ACPBlackwolf.labelFemalePlural>母黑恐狼</ACPBlackwolf.labelFemalePlural>
+
+  <ACPSpiritwolf.label>灵狼</ACPSpiritwolf.label>
+  <ACPSpiritwolf.labelPlural>灵狼</ACPSpiritwolf.labelPlural>
+  <ACPSpiritwolf.lifeStages.0.label>灵狼幼崽</ACPSpiritwolf.lifeStages.0.label>
+  <ACPSpiritwolf.lifeStages.0.labelPlural>灵狼幼崽</ACPSpiritwolf.lifeStages.0.labelPlural>
+  <ACPSpiritwolf.lifeStages.0.labelMale>公灵狼幼崽</ACPSpiritwolf.lifeStages.0.labelMale>
+  <ACPSpiritwolf.lifeStages.0.labelMalePlural>公灵狼幼崽</ACPSpiritwolf.lifeStages.0.labelMalePlural>
+  <ACPSpiritwolf.lifeStages.0.labelFemale>母灵狼幼崽</ACPSpiritwolf.lifeStages.0.labelFemale>
+  <ACPSpiritwolf.lifeStages.0.labelFemalePlural>母灵狼幼崽</ACPSpiritwolf.lifeStages.0.labelFemalePlural>
+  <ACPSpiritwolf.lifeStages.1.label>幼年灵狼</ACPSpiritwolf.lifeStages.1.label>
+  <ACPSpiritwolf.lifeStages.1.labelPlural>幼年灵狼</ACPSpiritwolf.lifeStages.1.labelPlural>
+  <ACPSpiritwolf.lifeStages.1.labelMale>幼年公灵狼</ACPSpiritwolf.lifeStages.1.labelMale>
+  <ACPSpiritwolf.lifeStages.1.labelMalePlural>幼年公灵狼</ACPSpiritwolf.lifeStages.1.labelMalePlural>
+  <ACPSpiritwolf.lifeStages.1.labelFemale>幼年母灵狼</ACPSpiritwolf.lifeStages.1.labelFemale>
+  <ACPSpiritwolf.lifeStages.1.labelFemalePlural>幼年母灵狼</ACPSpiritwolf.lifeStages.1.labelFemalePlural>
+  <ACPSpiritwolf.lifeStages.2.label>灵狼</ACPSpiritwolf.lifeStages.2.label>
+  <ACPSpiritwolf.lifeStages.2.labelPlural>灵狼</ACPSpiritwolf.lifeStages.2.labelPlural>
+  <ACPSpiritwolf.lifeStages.2.labelMale>公灵狼</ACPSpiritwolf.lifeStages.2.labelMale>
+  <ACPSpiritwolf.lifeStages.2.labelMalePlural>公灵狼</ACPSpiritwolf.lifeStages.2.labelMalePlural>
+  <ACPSpiritwolf.lifeStages.2.labelFemale>母灵狼</ACPSpiritwolf.lifeStages.2.labelFemale>
+  <ACPSpiritwolf.lifeStages.2.labelFemalePlural>母灵狼</ACPSpiritwolf.lifeStages.2.labelFemalePlural>
+  <ACPSpiritwolf.labelMale>公灵狼</ACPSpiritwolf.labelMale>
+  <ACPSpiritwolf.labelMalePlural>公灵狼</ACPSpiritwolf.labelMalePlural>
+  <ACPSpiritwolf.labelFemale>母灵狼</ACPSpiritwolf.labelFemale>
+  <ACPSpiritwolf.labelFemalePlural>母灵狼</ACPSpiritwolf.labelFemalePlural>
+
+  <ACPSpiritwolfFF.label>远古灵狼</ACPSpiritwolfFF.label>
+  <ACPSpiritwolfFF.labelPlural>远古灵狼</ACPSpiritwolfFF.labelPlural>
+  <ACPSpiritwolfFF.lifeStages.0.label>远古灵狼幼崽</ACPSpiritwolfFF.lifeStages.0.label>
+  <ACPSpiritwolfFF.lifeStages.0.labelPlural>远古灵狼幼崽</ACPSpiritwolfFF.lifeStages.0.labelPlural>
+  <ACPSpiritwolfFF.lifeStages.0.labelMale>公远古灵狼幼崽</ACPSpiritwolfFF.lifeStages.0.labelMale>
+  <ACPSpiritwolfFF.lifeStages.0.labelMalePlural>公远古灵狼幼崽</ACPSpiritwolfFF.lifeStages.0.labelMalePlural>
+  <ACPSpiritwolfFF.lifeStages.0.labelFemale>母远古灵狼幼崽</ACPSpiritwolfFF.lifeStages.0.labelFemale>
+  <ACPSpiritwolfFF.lifeStages.0.labelFemalePlural>母远古灵狼幼崽</ACPSpiritwolfFF.lifeStages.0.labelFemalePlural>
+  <ACPSpiritwolfFF.lifeStages.1.label>幼年远古灵狼</ACPSpiritwolfFF.lifeStages.1.label>
+  <ACPSpiritwolfFF.lifeStages.1.labelPlural>幼年远古灵狼</ACPSpiritwolfFF.lifeStages.1.labelPlural>
+  <ACPSpiritwolfFF.lifeStages.1.labelMale>幼年公远古灵狼</ACPSpiritwolfFF.lifeStages.1.labelMale>
+  <ACPSpiritwolfFF.lifeStages.1.labelMalePlural>幼年公远古灵狼</ACPSpiritwolfFF.lifeStages.1.labelMalePlural>
+  <ACPSpiritwolfFF.lifeStages.1.labelFemale>幼年母远古灵狼</ACPSpiritwolfFF.lifeStages.1.labelFemale>
+  <ACPSpiritwolfFF.lifeStages.1.labelFemalePlural>幼年母远古灵狼</ACPSpiritwolfFF.lifeStages.1.labelFemalePlural>
+  <ACPSpiritwolfFF.lifeStages.2.label>远古灵狼</ACPSpiritwolfFF.lifeStages.2.label>
+  <ACPSpiritwolfFF.lifeStages.2.labelPlural>远古灵狼</ACPSpiritwolfFF.lifeStages.2.labelPlural>
+  <ACPSpiritwolfFF.lifeStages.2.labelMale>公远古灵狼</ACPSpiritwolfFF.lifeStages.2.labelMale>
+  <ACPSpiritwolfFF.lifeStages.2.labelMalePlural>公远古灵狼</ACPSpiritwolfFF.lifeStages.2.labelMalePlural>
+  <ACPSpiritwolfFF.lifeStages.2.labelFemale>母远古灵狼</ACPSpiritwolfFF.lifeStages.2.labelFemale>
+  <ACPSpiritwolfFF.lifeStages.2.labelFemalePlural>母远古灵狼</ACPSpiritwolfFF.lifeStages.2.labelFemalePlural>
+  <ACPSpiritwolfFF.labelMale>公远古灵狼</ACPSpiritwolfFF.labelMale>
+  <ACPSpiritwolfFF.labelMalePlural>公远古灵狼</ACPSpiritwolfFF.labelMalePlural>
+  <ACPSpiritwolfFF.labelFemale>母远古灵狼</ACPSpiritwolfFF.labelFemale>
+  <ACPSpiritwolfFF.labelFemalePlural>母远古灵狼</ACPSpiritwolfFF.labelFemalePlural>
+
+
+</LanguageData>

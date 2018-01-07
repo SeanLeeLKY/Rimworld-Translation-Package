@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPSpottedSeal.label>海豹</ACPSpottedSeal.label>
+  <ACPSpottedSeal.description>小型极地哺乳动物，不经常浮出水面（原文为not much into clubbing这句似乎是梗，译者不知道怎么翻译瞎翻的，直译是不喜欢泡吧。</ACPSpottedSeal.description>
+  <!-- Use Leather From: ACPHippopotamus -->
+  <!-- Use Meat From: ACPHippopotamus -->
+  <ACPSpottedSeal_Corpse.label>海豹尸体</ACPSpottedSeal_Corpse.label>
+  <ACPSpottedSeal_Corpse.description>海豹尸体</ACPSpottedSeal_Corpse.description>
+
+
+</LanguageData>

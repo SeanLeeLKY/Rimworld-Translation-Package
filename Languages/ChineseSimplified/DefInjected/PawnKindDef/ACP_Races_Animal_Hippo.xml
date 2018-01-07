@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPHippopotamus.label>河马</ACPHippopotamus.label>
+  <ACPHippopotamus.labelPlural>河马</ACPHippopotamus.labelPlural>
+  <ACPHippopotamus.lifeStages.0.label>河马幼崽</ACPHippopotamus.lifeStages.0.label>
+  <ACPHippopotamus.lifeStages.0.labelPlural>河马幼崽</ACPHippopotamus.lifeStages.0.labelPlural>
+  <ACPHippopotamus.lifeStages.0.labelMale>公河马幼崽</ACPHippopotamus.lifeStages.0.labelMale>
+  <ACPHippopotamus.lifeStages.0.labelMalePlural>公河马幼崽</ACPHippopotamus.lifeStages.0.labelMalePlural>
+  <ACPHippopotamus.lifeStages.0.labelFemale>母河马幼崽</ACPHippopotamus.lifeStages.0.labelFemale>
+  <ACPHippopotamus.lifeStages.0.labelFemalePlural>母河马幼崽</ACPHippopotamus.lifeStages.0.labelFemalePlural>
+  <ACPHippopotamus.lifeStages.1.label>幼年河马</ACPHippopotamus.lifeStages.1.label>
+  <ACPHippopotamus.lifeStages.1.labelPlural>幼年河马</ACPHippopotamus.lifeStages.1.labelPlural>
+  <ACPHippopotamus.lifeStages.1.labelMale>幼年公河马</ACPHippopotamus.lifeStages.1.labelMale>
+  <ACPHippopotamus.lifeStages.1.labelMalePlural>幼年公河马</ACPHippopotamus.lifeStages.1.labelMalePlural>
+  <ACPHippopotamus.lifeStages.1.labelFemale>幼年母河马</ACPHippopotamus.lifeStages.1.labelFemale>
+  <ACPHippopotamus.lifeStages.1.labelFemalePlural>幼年母河马</ACPHippopotamus.lifeStages.1.labelFemalePlural>
+  <ACPHippopotamus.lifeStages.2.label>河马</ACPHippopotamus.lifeStages.2.label>
+  <ACPHippopotamus.lifeStages.2.labelPlural>河马</ACPHippopotamus.lifeStages.2.labelPlural>
+  <ACPHippopotamus.lifeStages.2.labelMale>公河马</ACPHippopotamus.lifeStages.2.labelMale>
+  <ACPHippopotamus.lifeStages.2.labelMalePlural>公河马</ACPHippopotamus.lifeStages.2.labelMalePlural>
+  <ACPHippopotamus.lifeStages.2.labelFemale>母河马</ACPHippopotamus.lifeStages.2.labelFemale>
+  <ACPHippopotamus.lifeStages.2.labelFemalePlural>母河马</ACPHippopotamus.lifeStages.2.labelFemalePlural>
+  <ACPHippopotamus.labelMale>公河马</ACPHippopotamus.labelMale>
+  <ACPHippopotamus.labelMalePlural>公河马</ACPHippopotamus.labelMalePlural>
+  <ACPHippopotamus.labelFemale>母河马</ACPHippopotamus.labelFemale>
+  <ACPHippopotamus.labelFemalePlural>母河马</ACPHippopotamus.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPMegaFerret.label>巨貂</ACPMegaFerret.label>
+  <ACPMegaFerret.labelPlural>巨貂</ACPMegaFerret.labelPlural>
+  <ACPMegaFerret.lifeStages.0.label>巨貂幼崽</ACPMegaFerret.lifeStages.0.label>
+  <ACPMegaFerret.lifeStages.0.labelPlural>巨貂幼崽</ACPMegaFerret.lifeStages.0.labelPlural>
+  <ACPMegaFerret.lifeStages.0.labelMale>公巨貂幼崽</ACPMegaFerret.lifeStages.0.labelMale>
+  <ACPMegaFerret.lifeStages.0.labelMalePlural>公巨貂幼崽</ACPMegaFerret.lifeStages.0.labelMalePlural>
+  <ACPMegaFerret.lifeStages.0.labelFemale>母巨貂幼崽</ACPMegaFerret.lifeStages.0.labelFemale>
+  <ACPMegaFerret.lifeStages.0.labelFemalePlural>母巨貂幼崽</ACPMegaFerret.lifeStages.0.labelFemalePlural>
+  <ACPMegaFerret.lifeStages.1.label>幼年巨貂</ACPMegaFerret.lifeStages.1.label>
+  <ACPMegaFerret.lifeStages.1.labelPlural>幼年巨貂</ACPMegaFerret.lifeStages.1.labelPlural>
+  <ACPMegaFerret.lifeStages.1.labelMale>幼年公巨貂</ACPMegaFerret.lifeStages.1.labelMale>
+  <ACPMegaFerret.lifeStages.1.labelMalePlural>幼年公巨貂</ACPMegaFerret.lifeStages.1.labelMalePlural>
+  <ACPMegaFerret.lifeStages.1.labelFemale>幼年母巨貂</ACPMegaFerret.lifeStages.1.labelFemale>
+  <ACPMegaFerret.lifeStages.1.labelFemalePlural>幼年母巨貂</ACPMegaFerret.lifeStages.1.labelFemalePlural>
+  <ACPMegaFerret.lifeStages.2.label>巨貂</ACPMegaFerret.lifeStages.2.label>
+  <ACPMegaFerret.lifeStages.2.labelPlural>巨貂</ACPMegaFerret.lifeStages.2.labelPlural>
+  <ACPMegaFerret.lifeStages.2.labelMale>公巨貂</ACPMegaFerret.lifeStages.2.labelMale>
+  <ACPMegaFerret.lifeStages.2.labelMalePlural>公巨貂</ACPMegaFerret.lifeStages.2.labelMalePlural>
+  <ACPMegaFerret.lifeStages.2.labelFemale>母巨貂</ACPMegaFerret.lifeStages.2.labelFemale>
+  <ACPMegaFerret.lifeStages.2.labelFemalePlural>母巨貂</ACPMegaFerret.lifeStages.2.labelFemalePlural>
+  <ACPMegaFerret.labelMale>公巨貂</ACPMegaFerret.labelMale>
+  <ACPMegaFerret.labelMalePlural>公巨貂</ACPMegaFerret.labelMalePlural>
+  <ACPMegaFerret.labelFemale>母巨貂</ACPMegaFerret.labelFemale>
+  <ACPMegaFerret.labelFemalePlural>母巨貂</ACPMegaFerret.labelFemalePlural>
+
+
+</LanguageData>

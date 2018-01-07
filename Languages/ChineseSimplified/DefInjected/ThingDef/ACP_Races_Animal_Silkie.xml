@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPSilkieChicken.label>乌鸡</ACPSilkieChicken.label>
+  <ACPSilkieChicken.description>鸡的亚种，因其独特的绒毛摸起来像丝绸一样而被命名。(SilkieChicken，直译为丝绸般的鸡。大吃货国是根据骨头的颜色命名的，壮哉我大吃货国)
+  乌鸡性情温顺，产蛋速度较快，每过几天就会产下一枚奶油色的蛋。</ACPSilkieChicken.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Cassowary -->
+  <ACPSilkieChicken_Corpse.label>乌鸡尸体</ACPSilkieChicken_Corpse.label>
+  <ACPSilkieChicken_Corpse.description>乌鸡尸体</ACPSilkieChicken_Corpse.description>
+
+
+</LanguageData>

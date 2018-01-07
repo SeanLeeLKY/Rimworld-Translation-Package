@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPSheep.label>绵羊</ACPSheep.label>
+  <ACPSheep.description>中等体型的牧场动物，通常用于产毛与产肉。</ACPSheep.description>
+  <!-- Use Leather From: ACPBlackRhinoceros -->
+  <ACPSheep_Meat.label>羊肉</ACPSheep_Meat.label>
+  <ACPSheep_Meat.description>羊肉</ACPSheep_Meat.description>
+  <ACPSheep_Corpse.label>绵羊尸体</ACPSheep_Corpse.label>
+  <ACPSheep_Corpse.description>绵羊尸体</ACPSheep_Corpse.description>
+
+
+</LanguageData>

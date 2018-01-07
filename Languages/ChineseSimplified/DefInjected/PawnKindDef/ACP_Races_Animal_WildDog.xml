@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPWildDog.label>非洲野犬</ACPWildDog.label>
+  <ACPWildDog.labelPlural>非洲野犬</ACPWildDog.labelPlural>
+  <ACPWildDog.lifeStages.0.label>非洲野犬幼崽</ACPWildDog.lifeStages.0.label>
+  <ACPWildDog.lifeStages.0.labelPlural>非洲野犬幼崽</ACPWildDog.lifeStages.0.labelPlural>
+  <ACPWildDog.lifeStages.0.labelMale>公非洲野犬幼崽</ACPWildDog.lifeStages.0.labelMale>
+  <ACPWildDog.lifeStages.0.labelMalePlural>公非洲野犬幼崽</ACPWildDog.lifeStages.0.labelMalePlural>
+  <ACPWildDog.lifeStages.0.labelFemale>母非洲野犬幼崽</ACPWildDog.lifeStages.0.labelFemale>
+  <ACPWildDog.lifeStages.0.labelFemalePlural>母非洲野犬幼崽</ACPWildDog.lifeStages.0.labelFemalePlural>
+  <ACPWildDog.lifeStages.1.label>幼年非洲野犬</ACPWildDog.lifeStages.1.label>
+  <ACPWildDog.lifeStages.1.labelPlural>幼年非洲野犬</ACPWildDog.lifeStages.1.labelPlural>
+  <ACPWildDog.lifeStages.1.labelMale>幼年公非洲野犬</ACPWildDog.lifeStages.1.labelMale>
+  <ACPWildDog.lifeStages.1.labelMalePlural>幼年公非洲野犬</ACPWildDog.lifeStages.1.labelMalePlural>
+  <ACPWildDog.lifeStages.1.labelFemale>幼年母非洲野犬</ACPWildDog.lifeStages.1.labelFemale>
+  <ACPWildDog.lifeStages.1.labelFemalePlural>幼年母非洲野犬</ACPWildDog.lifeStages.1.labelFemalePlural>
+  <ACPWildDog.lifeStages.2.label>非洲野犬</ACPWildDog.lifeStages.2.label>
+  <ACPWildDog.lifeStages.2.labelPlural>非洲野犬</ACPWildDog.lifeStages.2.labelPlural>
+  <ACPWildDog.lifeStages.2.labelMale>公非洲野犬</ACPWildDog.lifeStages.2.labelMale>
+  <ACPWildDog.lifeStages.2.labelMalePlural>公非洲野犬</ACPWildDog.lifeStages.2.labelMalePlural>
+  <ACPWildDog.lifeStages.2.labelFemale>母非洲野犬</ACPWildDog.lifeStages.2.labelFemale>
+  <ACPWildDog.lifeStages.2.labelFemalePlural>母非洲野犬</ACPWildDog.lifeStages.2.labelFemalePlural>
+  <ACPWildDog.labelMale>公非洲野犬</ACPWildDog.labelMale>
+  <ACPWildDog.labelMalePlural>公非洲野犬</ACPWildDog.labelMalePlural>
+  <ACPWildDog.labelFemale>母非洲野犬</ACPWildDog.labelFemale>
+  <ACPWildDog.labelFemalePlural>母非洲野犬</ACPWildDog.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPDomesticRabbit.label>家兔</ACPDomesticRabbit.label>
+  <ACPDomesticRabbit.labelPlural>家兔</ACPDomesticRabbit.labelPlural>
+  <ACPDomesticRabbit.lifeStages.0.label>家兔幼崽</ACPDomesticRabbit.lifeStages.0.label>
+  <ACPDomesticRabbit.lifeStages.0.labelPlural>家兔幼崽</ACPDomesticRabbit.lifeStages.0.labelPlural>
+  <ACPDomesticRabbit.lifeStages.0.labelMale>公家兔幼崽</ACPDomesticRabbit.lifeStages.0.labelMale>
+  <ACPDomesticRabbit.lifeStages.0.labelMalePlural>公家兔幼崽</ACPDomesticRabbit.lifeStages.0.labelMalePlural>
+  <ACPDomesticRabbit.lifeStages.0.labelFemale>母家兔幼崽</ACPDomesticRabbit.lifeStages.0.labelFemale>
+  <ACPDomesticRabbit.lifeStages.0.labelFemalePlural>母家兔幼崽</ACPDomesticRabbit.lifeStages.0.labelFemalePlural>
+  <ACPDomesticRabbit.lifeStages.1.label>幼年家兔</ACPDomesticRabbit.lifeStages.1.label>
+  <ACPDomesticRabbit.lifeStages.1.labelPlural>幼年家兔</ACPDomesticRabbit.lifeStages.1.labelPlural>
+  <ACPDomesticRabbit.lifeStages.1.labelMale>幼年公家兔</ACPDomesticRabbit.lifeStages.1.labelMale>
+  <ACPDomesticRabbit.lifeStages.1.labelMalePlural>幼年公家兔</ACPDomesticRabbit.lifeStages.1.labelMalePlural>
+  <ACPDomesticRabbit.lifeStages.1.labelFemale>幼年母家兔</ACPDomesticRabbit.lifeStages.1.labelFemale>
+  <ACPDomesticRabbit.lifeStages.1.labelFemalePlural>幼年母家兔</ACPDomesticRabbit.lifeStages.1.labelFemalePlural>
+  <ACPDomesticRabbit.lifeStages.2.label>家兔</ACPDomesticRabbit.lifeStages.2.label>
+  <ACPDomesticRabbit.lifeStages.2.labelPlural>家兔</ACPDomesticRabbit.lifeStages.2.labelPlural>
+  <ACPDomesticRabbit.lifeStages.2.labelMale>公家兔</ACPDomesticRabbit.lifeStages.2.labelMale>
+  <ACPDomesticRabbit.lifeStages.2.labelMalePlural>公家兔</ACPDomesticRabbit.lifeStages.2.labelMalePlural>
+  <ACPDomesticRabbit.lifeStages.2.labelFemale>母家兔</ACPDomesticRabbit.lifeStages.2.labelFemale>
+  <ACPDomesticRabbit.lifeStages.2.labelFemalePlural>母家兔</ACPDomesticRabbit.lifeStages.2.labelFemalePlural>
+  <ACPDomesticRabbit.labelMale>公家兔</ACPDomesticRabbit.labelMale>
+  <ACPDomesticRabbit.labelMalePlural>公家兔</ACPDomesticRabbit.labelMalePlural>
+  <ACPDomesticRabbit.labelFemale>母家兔</ACPDomesticRabbit.labelFemale>
+  <ACPDomesticRabbit.labelFemalePlural>母家兔</ACPDomesticRabbit.labelFemalePlural>
+
+
+</LanguageData>

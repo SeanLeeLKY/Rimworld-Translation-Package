@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPBison.label>野牛</ACPBison.label>
+  <ACPBison.labelPlural>野牛</ACPBison.labelPlural>
+  <ACPBison.lifeStages.0.label>野牛幼崽</ACPBison.lifeStages.0.label>
+  <ACPBison.lifeStages.0.labelPlural>野牛幼崽</ACPBison.lifeStages.0.labelPlural>
+  <ACPBison.lifeStages.0.labelMale>公野牛幼崽</ACPBison.lifeStages.0.labelMale>
+  <ACPBison.lifeStages.0.labelMalePlural>公野牛幼崽</ACPBison.lifeStages.0.labelMalePlural>
+  <ACPBison.lifeStages.0.labelFemale>母野牛幼崽</ACPBison.lifeStages.0.labelFemale>
+  <ACPBison.lifeStages.0.labelFemalePlural>母野牛幼崽</ACPBison.lifeStages.0.labelFemalePlural>
+  <ACPBison.lifeStages.1.label>幼年野牛</ACPBison.lifeStages.1.label>
+  <ACPBison.lifeStages.1.labelPlural>幼年野牛</ACPBison.lifeStages.1.labelPlural>
+  <ACPBison.lifeStages.1.labelMale>幼年公野牛</ACPBison.lifeStages.1.labelMale>
+  <ACPBison.lifeStages.1.labelMalePlural>幼年公野牛</ACPBison.lifeStages.1.labelMalePlural>
+  <ACPBison.lifeStages.1.labelFemale>幼年母野牛</ACPBison.lifeStages.1.labelFemale>
+  <ACPBison.lifeStages.1.labelFemalePlural>幼年母野牛</ACPBison.lifeStages.1.labelFemalePlural>
+  <ACPBison.lifeStages.2.label>野牛</ACPBison.lifeStages.2.label>
+  <ACPBison.lifeStages.2.labelPlural>野牛</ACPBison.lifeStages.2.labelPlural>
+  <ACPBison.lifeStages.2.labelMale>公野牛</ACPBison.lifeStages.2.labelMale>
+  <ACPBison.lifeStages.2.labelMalePlural>公野牛</ACPBison.lifeStages.2.labelMalePlural>
+  <ACPBison.lifeStages.2.labelFemale>母野牛</ACPBison.lifeStages.2.labelFemale>
+  <ACPBison.lifeStages.2.labelFemalePlural>母野牛</ACPBison.lifeStages.2.labelFemalePlural>
+  <ACPBison.labelMale>公野牛</ACPBison.labelMale>
+  <ACPBison.labelMalePlural>公野牛</ACPBison.labelMalePlural>
+  <ACPBison.labelFemale>母野牛</ACPBison.labelFemale>
+  <ACPBison.labelFemalePlural>母野牛</ACPBison.labelFemalePlural>
+
+
+</LanguageData>

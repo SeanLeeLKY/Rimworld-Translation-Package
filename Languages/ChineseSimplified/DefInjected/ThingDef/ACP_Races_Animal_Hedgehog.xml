@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPHedgehog.label>刺猬</ACPHedgehog.label>
+  <ACPHedgehog.description>带刺的小型哺乳动物，遇到危险时会缩成一团。</ACPHedgehog.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Squirrel -->
+  <ACPHedgehog_Corpse.label>刺猬尸体</ACPHedgehog_Corpse.label>
+  <ACPHedgehog_Corpse.description>刺猬尸体</ACPHedgehog_Corpse.description>
+
+
+</LanguageData>

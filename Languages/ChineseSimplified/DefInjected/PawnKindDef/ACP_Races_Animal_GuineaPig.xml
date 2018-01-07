@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPGuineaPig.label>豚鼠</ACPGuineaPig.label>
+  <ACPGuineaPig.labelPlural>豚鼠</ACPGuineaPig.labelPlural>
+  <ACPGuineaPig.lifeStages.0.label>豚鼠幼崽</ACPGuineaPig.lifeStages.0.label>
+  <ACPGuineaPig.lifeStages.0.labelPlural>豚鼠幼崽</ACPGuineaPig.lifeStages.0.labelPlural>
+  <ACPGuineaPig.lifeStages.0.labelMale>公豚鼠幼崽</ACPGuineaPig.lifeStages.0.labelMale>
+  <ACPGuineaPig.lifeStages.0.labelMalePlural>公豚鼠幼崽</ACPGuineaPig.lifeStages.0.labelMalePlural>
+  <ACPGuineaPig.lifeStages.0.labelFemale>母豚鼠幼崽</ACPGuineaPig.lifeStages.0.labelFemale>
+  <ACPGuineaPig.lifeStages.0.labelFemalePlural>母豚鼠幼崽</ACPGuineaPig.lifeStages.0.labelFemalePlural>
+  <ACPGuineaPig.lifeStages.1.label>幼年豚鼠</ACPGuineaPig.lifeStages.1.label>
+  <ACPGuineaPig.lifeStages.1.labelPlural>幼年豚鼠</ACPGuineaPig.lifeStages.1.labelPlural>
+  <ACPGuineaPig.lifeStages.1.labelMale>幼年公豚鼠</ACPGuineaPig.lifeStages.1.labelMale>
+  <ACPGuineaPig.lifeStages.1.labelMalePlural>幼年公豚鼠</ACPGuineaPig.lifeStages.1.labelMalePlural>
+  <ACPGuineaPig.lifeStages.1.labelFemale>幼年母豚鼠</ACPGuineaPig.lifeStages.1.labelFemale>
+  <ACPGuineaPig.lifeStages.1.labelFemalePlural>幼年母豚鼠</ACPGuineaPig.lifeStages.1.labelFemalePlural>
+  <ACPGuineaPig.lifeStages.2.label>豚鼠</ACPGuineaPig.lifeStages.2.label>
+  <ACPGuineaPig.lifeStages.2.labelPlural>豚鼠</ACPGuineaPig.lifeStages.2.labelPlural>
+  <ACPGuineaPig.lifeStages.2.labelMale>公豚鼠</ACPGuineaPig.lifeStages.2.labelMale>
+  <ACPGuineaPig.lifeStages.2.labelMalePlural>公豚鼠</ACPGuineaPig.lifeStages.2.labelMalePlural>
+  <ACPGuineaPig.lifeStages.2.labelFemale>母豚鼠</ACPGuineaPig.lifeStages.2.labelFemale>
+  <ACPGuineaPig.lifeStages.2.labelFemalePlural>母豚鼠</ACPGuineaPig.lifeStages.2.labelFemalePlural>
+  <ACPGuineaPig.labelMale>公豚鼠</ACPGuineaPig.labelMale>
+  <ACPGuineaPig.labelMalePlural>公豚鼠</ACPGuineaPig.labelMalePlural>
+  <ACPGuineaPig.labelFemale>母豚鼠</ACPGuineaPig.labelFemale>
+  <ACPGuineaPig.labelFemalePlural>母豚鼠</ACPGuineaPig.labelFemalePlural>
+
+
+</LanguageData>

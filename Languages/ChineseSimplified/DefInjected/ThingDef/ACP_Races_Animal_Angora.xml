@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPAngoraRabbit.label>安哥拉兔</ACPAngoraRabbit.label>
+  <ACPAngoraRabbit.description>一种家兔，因其柔软的长毛而被人类饲养。</ACPAngoraRabbit.description>
+  <ACPAngoraRabbit.tools.0.label>左爪</ACPAngoraRabbit.tools.0.label>
+  <ACPAngoraRabbit.tools.1.label>右爪</ACPAngoraRabbit.tools.1.label>
+  <ACPAngoraRabbit.tools.3.label>头</ACPAngoraRabbit.tools.3.label>
+  <!-- Use Leather From: Hare -->
+  <!-- Use Meat From: Hare -->
+  <ACPAngoraRabbit_Corpse.label>安哥拉兔尸体</ACPAngoraRabbit_Corpse.label>
+  <ACPAngoraRabbit_Corpse.description>安哥拉兔尸体</ACPAngoraRabbit_Corpse.description>
+
+
+</LanguageData>

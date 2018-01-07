@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPFishercat.label>食鱼貂</ACPFishercat.label>
+  <ACPFishercat.labelPlural>食鱼貂</ACPFishercat.labelPlural>
+  <ACPFishercat.lifeStages.0.label>食鱼貂幼崽</ACPFishercat.lifeStages.0.label>
+  <ACPFishercat.lifeStages.0.labelPlural>食鱼貂幼崽</ACPFishercat.lifeStages.0.labelPlural>
+  <ACPFishercat.lifeStages.0.labelMale>公食鱼貂幼崽</ACPFishercat.lifeStages.0.labelMale>
+  <ACPFishercat.lifeStages.0.labelMalePlural>公食鱼貂幼崽</ACPFishercat.lifeStages.0.labelMalePlural>
+  <ACPFishercat.lifeStages.0.labelFemale>母食鱼貂幼崽</ACPFishercat.lifeStages.0.labelFemale>
+  <ACPFishercat.lifeStages.0.labelFemalePlural>母食鱼貂幼崽</ACPFishercat.lifeStages.0.labelFemalePlural>
+  <ACPFishercat.lifeStages.1.label>幼年食鱼貂</ACPFishercat.lifeStages.1.label>
+  <ACPFishercat.lifeStages.1.labelPlural>幼年食鱼貂</ACPFishercat.lifeStages.1.labelPlural>
+  <ACPFishercat.lifeStages.1.labelMale>幼年公食鱼貂</ACPFishercat.lifeStages.1.labelMale>
+  <ACPFishercat.lifeStages.1.labelMalePlural>幼年公食鱼貂</ACPFishercat.lifeStages.1.labelMalePlural>
+  <ACPFishercat.lifeStages.1.labelFemale>幼年母食鱼貂</ACPFishercat.lifeStages.1.labelFemale>
+  <ACPFishercat.lifeStages.1.labelFemalePlural>幼年母食鱼貂</ACPFishercat.lifeStages.1.labelFemalePlural>
+  <ACPFishercat.lifeStages.2.label>食鱼貂</ACPFishercat.lifeStages.2.label>
+  <ACPFishercat.lifeStages.2.labelPlural>食鱼貂</ACPFishercat.lifeStages.2.labelPlural>
+  <ACPFishercat.lifeStages.2.labelMale>公食鱼貂</ACPFishercat.lifeStages.2.labelMale>
+  <ACPFishercat.lifeStages.2.labelMalePlural>公食鱼貂</ACPFishercat.lifeStages.2.labelMalePlural>
+  <ACPFishercat.lifeStages.2.labelFemale>母食鱼貂</ACPFishercat.lifeStages.2.labelFemale>
+  <ACPFishercat.lifeStages.2.labelFemalePlural>母食鱼貂</ACPFishercat.lifeStages.2.labelFemalePlural>
+  <ACPFishercat.labelMale>公食鱼貂</ACPFishercat.labelMale>
+  <ACPFishercat.labelMalePlural>公食鱼貂</ACPFishercat.labelMalePlural>
+  <ACPFishercat.labelFemale>母食鱼貂</ACPFishercat.labelFemale>
+  <ACPFishercat.labelFemalePlural>母食鱼貂</ACPFishercat.labelFemalePlural>
+
+  <ACPErmine.label>白鼬</ACPErmine.label>
+  <ACPErmine.labelPlural>白鼬</ACPErmine.labelPlural>
+  <ACPErmine.lifeStages.0.label>白鼬幼崽</ACPErmine.lifeStages.0.label>
+  <ACPErmine.lifeStages.0.labelPlural>白鼬幼崽</ACPErmine.lifeStages.0.labelPlural>
+  <ACPErmine.lifeStages.0.labelMale>公白鼬幼崽</ACPErmine.lifeStages.0.labelMale>
+  <ACPErmine.lifeStages.0.labelMalePlural>公白鼬幼崽</ACPErmine.lifeStages.0.labelMalePlural>
+  <ACPErmine.lifeStages.0.labelFemale>母白鼬幼崽</ACPErmine.lifeStages.0.labelFemale>
+  <ACPErmine.lifeStages.0.labelFemalePlural>母白鼬幼崽</ACPErmine.lifeStages.0.labelFemalePlural>
+  <ACPErmine.lifeStages.1.label>幼年白鼬</ACPErmine.lifeStages.1.label>
+  <ACPErmine.lifeStages.1.labelPlural>幼年白鼬</ACPErmine.lifeStages.1.labelPlural>
+  <ACPErmine.lifeStages.1.labelMale>幼年公白鼬</ACPErmine.lifeStages.1.labelMale>
+  <ACPErmine.lifeStages.1.labelMalePlural>幼年公白鼬</ACPErmine.lifeStages.1.labelMalePlural>
+  <ACPErmine.lifeStages.1.labelFemale>幼年母白鼬</ACPErmine.lifeStages.1.labelFemale>
+  <ACPErmine.lifeStages.1.labelFemalePlural>幼年母白鼬</ACPErmine.lifeStages.1.labelFemalePlural>
+  <ACPErmine.lifeStages.2.label>白鼬</ACPErmine.lifeStages.2.label>
+  <ACPErmine.lifeStages.2.labelPlural>白鼬</ACPErmine.lifeStages.2.labelPlural>
+  <ACPErmine.lifeStages.2.labelMale>公白鼬</ACPErmine.lifeStages.2.labelMale>
+  <ACPErmine.lifeStages.2.labelMalePlural>公白鼬</ACPErmine.lifeStages.2.labelMalePlural>
+  <ACPErmine.lifeStages.2.labelFemale>母白鼬</ACPErmine.lifeStages.2.labelFemale>
+  <ACPErmine.lifeStages.2.labelFemalePlural>母白鼬</ACPErmine.lifeStages.2.labelFemalePlural>
+  <ACPErmine.labelMale>公白鼬</ACPErmine.labelMale>
+  <ACPErmine.labelMalePlural>公白鼬</ACPErmine.labelMalePlural>
+  <ACPErmine.labelFemale>母白鼬</ACPErmine.labelFemale>
+  <ACPErmine.labelFemalePlural>母白鼬</ACPErmine.labelFemalePlural>
+
+
+</LanguageData>

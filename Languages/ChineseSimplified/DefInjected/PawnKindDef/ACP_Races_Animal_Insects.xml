@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPSilkspider.label>丝绸蜘蛛</ACPSilkspider.label>
+  <ACPSilkspider.labelPlural>丝绸蜘蛛</ACPSilkspider.labelPlural>
+  <ACPSilkspider.lifeStages.0.label>丝绸蜘蛛幼虫</ACPSilkspider.lifeStages.0.label>
+  <ACPSilkspider.lifeStages.0.labelPlural>丝绸蜘蛛幼虫</ACPSilkspider.lifeStages.0.labelPlural>
+  <ACPSilkspider.lifeStages.0.labelMale>公丝绸蜘蛛幼虫</ACPSilkspider.lifeStages.0.labelMale>
+  <ACPSilkspider.lifeStages.0.labelMalePlural>公丝绸蜘蛛幼虫</ACPSilkspider.lifeStages.0.labelMalePlural>
+  <ACPSilkspider.lifeStages.0.labelFemale>母丝绸蜘蛛幼虫</ACPSilkspider.lifeStages.0.labelFemale>
+  <ACPSilkspider.lifeStages.0.labelFemalePlural>母丝绸蜘蛛幼虫</ACPSilkspider.lifeStages.0.labelFemalePlural>
+  <ACPSilkspider.lifeStages.1.label>幼年丝绸蜘蛛</ACPSilkspider.lifeStages.1.label>
+  <ACPSilkspider.lifeStages.1.labelPlural>幼年丝绸蜘蛛</ACPSilkspider.lifeStages.1.labelPlural>
+  <ACPSilkspider.lifeStages.1.labelMale>幼年公丝绸蜘蛛</ACPSilkspider.lifeStages.1.labelMale>
+  <ACPSilkspider.lifeStages.1.labelMalePlural>幼年公丝绸蜘蛛</ACPSilkspider.lifeStages.1.labelMalePlural>
+  <ACPSilkspider.lifeStages.1.labelFemale>幼年母丝绸蜘蛛</ACPSilkspider.lifeStages.1.labelFemale>
+  <ACPSilkspider.lifeStages.1.labelFemalePlural>幼年母丝绸蜘蛛</ACPSilkspider.lifeStages.1.labelFemalePlural>
+  <ACPSilkspider.lifeStages.2.label>丝绸蜘蛛</ACPSilkspider.lifeStages.2.label>
+  <ACPSilkspider.lifeStages.2.labelPlural>丝绸蜘蛛</ACPSilkspider.lifeStages.2.labelPlural>
+  <ACPSilkspider.lifeStages.2.labelMale>公丝绸蜘蛛</ACPSilkspider.lifeStages.2.labelMale>
+  <ACPSilkspider.lifeStages.2.labelMalePlural>公丝绸蜘蛛</ACPSilkspider.lifeStages.2.labelMalePlural>
+  <ACPSilkspider.lifeStages.2.labelFemale>母丝绸蜘蛛</ACPSilkspider.lifeStages.2.labelFemale>
+  <ACPSilkspider.lifeStages.2.labelFemalePlural>母丝绸蜘蛛</ACPSilkspider.lifeStages.2.labelFemalePlural>
+  <ACPSilkspider.labelMale>公丝绸蜘蛛</ACPSilkspider.labelMale>
+  <ACPSilkspider.labelMalePlural>公丝绸蜘蛛</ACPSilkspider.labelMalePlural>
+  <ACPSilkspider.labelFemale>母丝绸蜘蛛</ACPSilkspider.labelFemale>
+  <ACPSilkspider.labelFemalePlural>母丝绸蜘蛛</ACPSilkspider.labelFemalePlural>
+
+  <ACPHaulerAnt.label>搬运蚁</ACPHaulerAnt.label>
+  <ACPHaulerAnt.labelPlural>搬运蚁</ACPHaulerAnt.labelPlural>
+  <ACPHaulerAnt.lifeStages.0.label>搬运蚁幼虫</ACPHaulerAnt.lifeStages.0.label>
+  <ACPHaulerAnt.lifeStages.0.labelPlural>搬运蚁幼虫</ACPHaulerAnt.lifeStages.0.labelPlural>
+  <ACPHaulerAnt.lifeStages.0.labelMale>公搬运蚁幼虫</ACPHaulerAnt.lifeStages.0.labelMale>
+  <ACPHaulerAnt.lifeStages.0.labelMalePlural>公搬运蚁幼虫</ACPHaulerAnt.lifeStages.0.labelMalePlural>
+  <ACPHaulerAnt.lifeStages.0.labelFemale>母搬运蚁幼虫</ACPHaulerAnt.lifeStages.0.labelFemale>
+  <ACPHaulerAnt.lifeStages.0.labelFemalePlural>母搬运蚁幼虫</ACPHaulerAnt.lifeStages.0.labelFemalePlural>
+  <ACPHaulerAnt.lifeStages.1.label>幼年搬运蚁</ACPHaulerAnt.lifeStages.1.label>
+  <ACPHaulerAnt.lifeStages.1.labelPlural>幼年搬运蚁</ACPHaulerAnt.lifeStages.1.labelPlural>
+  <ACPHaulerAnt.lifeStages.1.labelMale>幼年公搬运蚁</ACPHaulerAnt.lifeStages.1.labelMale>
+  <ACPHaulerAnt.lifeStages.1.labelMalePlural>幼年公搬运蚁</ACPHaulerAnt.lifeStages.1.labelMalePlural>
+  <ACPHaulerAnt.lifeStages.1.labelFemale>幼年母搬运蚁</ACPHaulerAnt.lifeStages.1.labelFemale>
+  <ACPHaulerAnt.lifeStages.1.labelFemalePlural>幼年母搬运蚁</ACPHaulerAnt.lifeStages.1.labelFemalePlural>
+  <ACPHaulerAnt.lifeStages.2.label>搬运蚁</ACPHaulerAnt.lifeStages.2.label>
+  <ACPHaulerAnt.lifeStages.2.labelPlural>搬运蚁</ACPHaulerAnt.lifeStages.2.labelPlural>
+  <ACPHaulerAnt.lifeStages.2.labelMale>公搬运蚁</ACPHaulerAnt.lifeStages.2.labelMale>
+  <ACPHaulerAnt.lifeStages.2.labelMalePlural>公搬运蚁</ACPHaulerAnt.lifeStages.2.labelMalePlural>
+  <ACPHaulerAnt.lifeStages.2.labelFemale>母搬运蚁</ACPHaulerAnt.lifeStages.2.labelFemale>
+  <ACPHaulerAnt.lifeStages.2.labelFemalePlural>母搬运蚁</ACPHaulerAnt.lifeStages.2.labelFemalePlural>
+  <ACPHaulerAnt.labelMale>公搬运蚁</ACPHaulerAnt.labelMale>
+  <ACPHaulerAnt.labelMalePlural>公搬运蚁</ACPHaulerAnt.labelMalePlural>
+  <ACPHaulerAnt.labelFemale>母搬运蚁</ACPHaulerAnt.labelFemale>
+  <ACPHaulerAnt.labelFemalePlural>母搬运蚁</ACPHaulerAnt.labelFemalePlural>
+
+  <ACPAcidAnt.label>酸蚁</ACPAcidAnt.label>
+  <ACPAcidAnt.labelPlural>酸蚁</ACPAcidAnt.labelPlural>
+  <ACPAcidAnt.lifeStages.0.label>酸蚁幼虫</ACPAcidAnt.lifeStages.0.label>
+  <ACPAcidAnt.lifeStages.0.labelPlural>酸蚁幼虫</ACPAcidAnt.lifeStages.0.labelPlural>
+  <ACPAcidAnt.lifeStages.0.labelMale>公酸蚁幼虫</ACPAcidAnt.lifeStages.0.labelMale>
+  <ACPAcidAnt.lifeStages.0.labelMalePlural>公酸蚁幼虫</ACPAcidAnt.lifeStages.0.labelMalePlural>
+  <ACPAcidAnt.lifeStages.0.labelFemale>母酸蚁幼虫</ACPAcidAnt.lifeStages.0.labelFemale>
+  <ACPAcidAnt.lifeStages.0.labelFemalePlural>母酸蚁幼虫</ACPAcidAnt.lifeStages.0.labelFemalePlural>
+  <ACPAcidAnt.lifeStages.1.label>幼年酸蚁</ACPAcidAnt.lifeStages.1.label>
+  <ACPAcidAnt.lifeStages.1.labelPlural>幼年酸蚁</ACPAcidAnt.lifeStages.1.labelPlural>
+  <ACPAcidAnt.lifeStages.1.labelMale>幼年公酸蚁</ACPAcidAnt.lifeStages.1.labelMale>
+  <ACPAcidAnt.lifeStages.1.labelMalePlural>幼年公酸蚁</ACPAcidAnt.lifeStages.1.labelMalePlural>
+  <ACPAcidAnt.lifeStages.1.labelFemale>幼年母酸蚁</ACPAcidAnt.lifeStages.1.labelFemale>
+  <ACPAcidAnt.lifeStages.1.labelFemalePlural>幼年母酸蚁</ACPAcidAnt.lifeStages.1.labelFemalePlural>
+  <ACPAcidAnt.lifeStages.2.label>酸蚁</ACPAcidAnt.lifeStages.2.label>
+  <ACPAcidAnt.lifeStages.2.labelPlural>酸蚁</ACPAcidAnt.lifeStages.2.labelPlural>
+  <ACPAcidAnt.lifeStages.2.labelMale>公酸蚁</ACPAcidAnt.lifeStages.2.labelMale>
+  <ACPAcidAnt.lifeStages.2.labelMalePlural>公酸蚁</ACPAcidAnt.lifeStages.2.labelMalePlural>
+  <ACPAcidAnt.lifeStages.2.labelFemale>母酸蚁</ACPAcidAnt.lifeStages.2.labelFemale>
+  <ACPAcidAnt.lifeStages.2.labelFemalePlural>母酸蚁</ACPAcidAnt.lifeStages.2.labelFemalePlural>
+  <ACPAcidAnt.labelMale>公酸蚁</ACPAcidAnt.labelMale>
+  <ACPAcidAnt.labelMalePlural>公酸蚁</ACPAcidAnt.labelMalePlural>
+  <ACPAcidAnt.labelFemale>母酸蚁</ACPAcidAnt.labelFemale>
+  <ACPAcidAnt.labelFemalePlural>母酸蚁</ACPAcidAnt.labelFemalePlural>
+
+
+</LanguageData>

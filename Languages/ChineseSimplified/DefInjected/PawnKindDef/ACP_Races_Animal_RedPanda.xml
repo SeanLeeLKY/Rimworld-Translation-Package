@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPRedPanda.label>小熊猫</ACPRedPanda.label>
+  <ACPRedPanda.labelPlural>小熊猫</ACPRedPanda.labelPlural>
+  <ACPRedPanda.lifeStages.0.label>小熊猫幼崽</ACPRedPanda.lifeStages.0.label>
+  <ACPRedPanda.lifeStages.0.labelPlural>小熊猫幼崽</ACPRedPanda.lifeStages.0.labelPlural>
+  <ACPRedPanda.lifeStages.0.labelMale>公小熊猫幼崽</ACPRedPanda.lifeStages.0.labelMale>
+  <ACPRedPanda.lifeStages.0.labelMalePlural>公小熊猫幼崽</ACPRedPanda.lifeStages.0.labelMalePlural>
+  <ACPRedPanda.lifeStages.0.labelFemale>母小熊猫幼崽</ACPRedPanda.lifeStages.0.labelFemale>
+  <ACPRedPanda.lifeStages.0.labelFemalePlural>母小熊猫幼崽</ACPRedPanda.lifeStages.0.labelFemalePlural>
+  <ACPRedPanda.lifeStages.1.label>幼年小熊猫</ACPRedPanda.lifeStages.1.label>
+  <ACPRedPanda.lifeStages.1.labelPlural>幼年小熊猫</ACPRedPanda.lifeStages.1.labelPlural>
+  <ACPRedPanda.lifeStages.1.labelMale>幼年公小熊猫</ACPRedPanda.lifeStages.1.labelMale>
+  <ACPRedPanda.lifeStages.1.labelMalePlural>幼年公小熊猫</ACPRedPanda.lifeStages.1.labelMalePlural>
+  <ACPRedPanda.lifeStages.1.labelFemale>幼年母小熊猫</ACPRedPanda.lifeStages.1.labelFemale>
+  <ACPRedPanda.lifeStages.1.labelFemalePlural>幼年母小熊猫</ACPRedPanda.lifeStages.1.labelFemalePlural>
+  <ACPRedPanda.lifeStages.2.label>小熊猫</ACPRedPanda.lifeStages.2.label>
+  <ACPRedPanda.lifeStages.2.labelPlural>小熊猫</ACPRedPanda.lifeStages.2.labelPlural>
+  <ACPRedPanda.lifeStages.2.labelMale>公小熊猫</ACPRedPanda.lifeStages.2.labelMale>
+  <ACPRedPanda.lifeStages.2.labelMalePlural>公小熊猫</ACPRedPanda.lifeStages.2.labelMalePlural>
+  <ACPRedPanda.lifeStages.2.labelFemale>母小熊猫</ACPRedPanda.lifeStages.2.labelFemale>
+  <ACPRedPanda.lifeStages.2.labelFemalePlural>母小熊猫</ACPRedPanda.lifeStages.2.labelFemalePlural>
+  <ACPRedPanda.labelMale>公小熊猫</ACPRedPanda.labelMale>
+  <ACPRedPanda.labelMalePlural>公小熊猫</ACPRedPanda.labelMalePlural>
+  <ACPRedPanda.labelFemale>母小熊猫</ACPRedPanda.labelFemale>
+  <ACPRedPanda.labelFemalePlural>母小熊猫</ACPRedPanda.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPBlackbear.label>黑熊</ACPBlackbear.label>
+  <ACPBlackbear.labelPlural>黑熊</ACPBlackbear.labelPlural>
+  <ACPBlackbear.lifeStages.0.label>黑熊</ACPBlackbear.lifeStages.0.label>
+  <ACPBlackbear.lifeStages.0.labelPlural>黑熊幼崽</ACPBlackbear.lifeStages.0.labelPlural>
+  <ACPBlackbear.lifeStages.0.labelMale>公黑熊幼崽</ACPBlackbear.lifeStages.0.labelMale>
+  <ACPBlackbear.lifeStages.0.labelMalePlural>公黑熊幼崽</ACPBlackbear.lifeStages.0.labelMalePlural>
+  <ACPBlackbear.lifeStages.0.labelFemale>母黑熊幼崽</ACPBlackbear.lifeStages.0.labelFemale>
+  <ACPBlackbear.lifeStages.0.labelFemalePlural>母黑熊幼崽</ACPBlackbear.lifeStages.0.labelFemalePlural>
+  <ACPBlackbear.lifeStages.1.label>幼年黑熊</ACPBlackbear.lifeStages.1.label>
+  <ACPBlackbear.lifeStages.1.labelPlural>幼年黑熊</ACPBlackbear.lifeStages.1.labelPlural>
+  <ACPBlackbear.lifeStages.1.labelMale>幼年公黑熊</ACPBlackbear.lifeStages.1.labelMale>
+  <ACPBlackbear.lifeStages.1.labelMalePlural>幼年公黑熊</ACPBlackbear.lifeStages.1.labelMalePlural>
+  <ACPBlackbear.lifeStages.1.labelFemale>幼年母黑熊</ACPBlackbear.lifeStages.1.labelFemale>
+  <ACPBlackbear.lifeStages.1.labelFemalePlural>幼年母黑熊</ACPBlackbear.lifeStages.1.labelFemalePlural>
+  <ACPBlackbear.lifeStages.2.label>黑熊</ACPBlackbear.lifeStages.2.label>
+  <ACPBlackbear.lifeStages.2.labelPlural>黑熊</ACPBlackbear.lifeStages.2.labelPlural>
+  <ACPBlackbear.lifeStages.2.labelMale>公黑熊</ACPBlackbear.lifeStages.2.labelMale>
+  <ACPBlackbear.lifeStages.2.labelMalePlural>公黑熊</ACPBlackbear.lifeStages.2.labelMalePlural>
+  <ACPBlackbear.lifeStages.2.labelFemale>母黑熊</ACPBlackbear.lifeStages.2.labelFemale>
+  <ACPBlackbear.lifeStages.2.labelFemalePlural>母黑熊</ACPBlackbear.lifeStages.2.labelFemalePlural>
+  <ACPBlackbear.labelMale>公黑熊</ACPBlackbear.labelMale>
+  <ACPBlackbear.labelMalePlural>公黑熊</ACPBlackbear.labelMalePlural>
+  <ACPBlackbear.labelFemale>母黑熊</ACPBlackbear.labelFemale>
+  <ACPBlackbear.labelFemalePlural>母黑熊</ACPBlackbear.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPJackalope.label>鹿角兔</ACPJackalope.label>
+  <ACPJackalope.description>一种似乎被改变过基因的奇怪兔子，头骨上长有鹿角(译者注:鹿角兔Jackalope实际上是一种幻想生物，在自然界的历史上并没有存在的迹象)。</ACPJackalope.description>
+  <!-- Use Leather From: Hare -->
+  <!-- Use Meat From: Hare -->
+  <ACPJackalope_Corpse.label>鹿角兔尸体</ACPJackalope_Corpse.label>
+  <ACPJackalope_Corpse.description>鹿角兔尸体</ACPJackalope_Corpse.description>
+
+
+</LanguageData>

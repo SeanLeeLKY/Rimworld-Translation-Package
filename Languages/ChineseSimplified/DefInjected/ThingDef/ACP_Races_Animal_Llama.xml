@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal Base -->
+
+  <ACPLlama.label>大羊驼</ACPLlama.label>
+  <ACPLlama.description>一种骆驼属家畜，作为肉源或者毛源而被广泛饲养.它们可以进行驮运，也可以训练成十分理想看家动物来保护费侵略性家畜，如绵羊。(传说中牧羊草泥马！)</ACPLlama.description>
+  <ACPLlama_Leather.label>大羊驼皮</ACPLlama_Leather.label>
+  <ACPLlama_Leather.description>大羊驼皮</ACPLlama_Leather.description>
+  <ACPLlama_Leather.stuffProps.stuffAdjective>大羊驼皮</ACPLlama_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Alpaca -->
+  <ACPLlama_Corpse.label>大羊驼尸体</ACPLlama_Corpse.label>
+  <ACPLlama_Corpse.description>大羊驼尸体</ACPLlama_Corpse.description>
+
+
+</LanguageData>

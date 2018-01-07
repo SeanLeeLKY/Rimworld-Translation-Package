@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPAngoraWool.label>安哥拉兔毛</ACPAngoraWool.label>
+  <ACPAngoraWool.description>安哥拉兔产的柔毛，非常暖和。</ACPAngoraWool.description>
+  <ACPAngoraWool.stuffProps.stuffAdjective>安哥拉兔毛</ACPAngoraWool.stuffProps.stuffAdjective>
+
+  <ACPLlamaWool.label>大羊驼毛</ACPLlamaWool.label>
+  <ACPLlamaWool.description>大羊驼产的毛，柔软而又暖和。</ACPLlamaWool.description>
+  <ACPLlamaWool.stuffProps.stuffAdjective>大羊驼毛</ACPLlamaWool.stuffProps.stuffAdjective>
+
+  <ACPSpidersilk.label>蜘蛛丝</ACPSpidersilk.label>
+  <ACPSpidersilk.description>基因工程改良过的昆虫所产的一种非同寻常的多用途丝。</ACPSpidersilk.description>
+  <ACPSpidersilk.stuffProps.stuffAdjective>蜘蛛丝</ACPSpidersilk.stuffProps.stuffAdjective>
+
+  <ACPBisondown.label>柔顺的野牛毛</ACPBisondown.label>
+  <ACPBisondown.description>野牛的毛。神马玩意儿?我智障了?</ACPBisondown.description>
+  <ACPBisondown.stuffProps.stuffAdjective>柔顺的野牛毛</ACPBisondown.stuffProps.stuffAdjective>
+
+  <ACPBDireWolfWool.label>黑恐狼毛</ACPBDireWolfWool.label>
+  <ACPBDireWolfWool.description>曾经灭绝过的恐狼所产的毛，稀有、坚韧且绝缘性强，因而非常珍贵。</ACPBDireWolfWool.description>
+  <ACPBDireWolfWool.stuffProps.stuffAdjective>黑恐狼毛</ACPBDireWolfWool.stuffProps.stuffAdjective>
+
+  <ACPDireWolfWool.label>恐狼毛</ACPDireWolfWool.label>
+  <ACPDireWolfWool.description>曾经灭绝过的恐狼所产的毛，稀有、坚韧且绝缘性强，因而非常珍贵。</ACPDireWolfWool.description>
+  <ACPDireWolfWool.stuffProps.stuffAdjective>恐狼毛</ACPDireWolfWool.stuffProps.stuffAdjective>
+
+  <ACPSheepWool.label>绵羊毛</ACPSheepWool.label>
+  <ACPSheepWool.description>就那种普通的羊毛。</ACPSheepWool.description>
+  <ACPSheepWool.stuffProps.stuffAdjective>绵羊毛</ACPSheepWool.stuffProps.stuffAdjective>
+
+  <ACPFerretSilk.label>雪貂丝</ACPFerretSilk.label>
+  <ACPFerretSilk.description>这TMD到底是啥? 雪貂丝? 什么鬼?</ACPFerretSilk.description>
+  <ACPFerretSilk.stuffProps.stuffAdjective>雪貂丝</ACPFerretSilk.stuffProps.stuffAdjective>
+
+
+  <!-- Muahaha -->
+
+</LanguageData>

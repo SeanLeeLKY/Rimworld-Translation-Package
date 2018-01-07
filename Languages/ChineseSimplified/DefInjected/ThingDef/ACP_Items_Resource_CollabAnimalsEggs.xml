@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPSilkieEggUnfertilized.label>乌鸡蛋(未受精)</ACPSilkieEggUnfertilized.label>
+  <ACPSilkieEggUnfertilized.description>一颗奶油色的乌鸡蛋。</ACPSilkieEggUnfertilized.description>
+
+  <ACPSilkieEggFertilized.label>乌鸡蛋(已受精)</ACPSilkieEggFertilized.label>
+  <ACPSilkieEggFertilized.description>一颗奶油色的乌鸡蛋，如果一切顺利，几天后小乌鸡就会破壳而出。</ACPSilkieEggFertilized.description>
+
+  <ACPQuailEggUnfertilized.label>鹌鹑蛋(未受精)</ACPQuailEggUnfertilized.label>
+  <ACPQuailEggUnfertilized.description>一颗布满斑点的鹌鹑蛋。</ACPQuailEggUnfertilized.description>
+
+  <ACPQuailEggFertilized.label>鹌鹑蛋(已受精)</ACPQuailEggFertilized.label>
+  <ACPQuailEggFertilized.description>一颗布满斑点的鹌鹑蛋。如果一切顺利，几天后小鹌鹑就会破壳而出。</ACPQuailEggFertilized.description>
+
+  <ACPEggPtarmiganUnfertilized.label>雷鸟蛋(未受精)</ACPEggPtarmiganUnfertilized.label>
+  <ACPEggPtarmiganUnfertilized.description>一颗未受精的雷鸟蛋。可以生吃，但强烈建议烹饪后食用。</ACPEggPtarmiganUnfertilized.description>
+
+  <ACPEggPtarmiganFertilized.label>雷鸟蛋(已受精)</ACPEggPtarmiganFertilized.label>
+  <ACPEggPtarmiganFertilized.description>一颗已受精的雷鸟蛋。如果一切顺利，几天后小雷鸟就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggPtarmiganFertilized.description>
+
+  <ACPEggBustardFertilized.label>大鸨蛋(已受精)</ACPEggBustardFertilized.label>
+  <ACPEggBustardFertilized.description>一颗已受精的大鸨蛋。如果一切顺利，几天后小大鸨鸟就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggBustardFertilized.description>
+
+  <ACPEggThornyDevilFertilized.label>澳洲魔蜥蛋(已受精)</ACPEggThornyDevilFertilized.label>
+  <ACPEggThornyDevilFertilized.description>一颗已受精的澳洲魔蜥蛋。如果一切顺利，几天小后澳洲魔蜥就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggThornyDevilFertilized.description>
+
+  <ACPEggPlatypusFertilized.label>鸭嘴兽蛋(已受精)</ACPEggPlatypusFertilized.label>
+  <ACPEggPlatypusFertilized.description>一颗已受精的鸭嘴兽蛋。如果一切顺利，几天后小鸭嘴兽就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggPlatypusFertilized.description>
+
+  <ACPEggPenguinFertilized.label>企鹅蛋(已受精)</ACPEggPenguinFertilized.label>
+  <ACPEggPenguinFertilized.description>一颗已受精的企鹅蛋。如果一切顺利，几天后小企鹅就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggPenguinFertilized.description>
+
+  <ACPEggxenguanaFertilized.label>希恩巨蜥蛋(已受精)</ACPEggxenguanaFertilized.label>
+  <ACPEggxenguanaFertilized.description>一颗已受精的希恩巨蜥蛋。如果一切顺利，几天后小希恩巨蜥就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggxenguanaFertilized.description>
+
+  <ACPEggGeckoFertilized.label>壁虎蛋(已受精)</ACPEggGeckoFertilized.label>
+  <ACPEggGeckoFertilized.description>一颗已受精的壁虎蛋。如果一切顺利，几天后小壁虎就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggGeckoFertilized.description>
+
+  <ACPEggKiwiFertilized.label>几维鸟蛋(已受精)</ACPEggKiwiFertilized.label>
+  <ACPEggKiwiFertilized.description>一颗已受精的几维鸟蛋。如果一切顺利，几天后小几维鸟就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggKiwiFertilized.description>
+
+  <ACPEggDGooseUnfertilized.label>鹅蛋(未受精)</ACPEggDGooseUnfertilized.label>
+  <ACPEggDGooseUnfertilized.description>一颗未受精鹅蛋。可以生吃，但强烈建议烹饪后食用</ACPEggDGooseUnfertilized.description>
+
+  <ACPEggDGooseFertilized.label>鹅蛋(已受精)</ACPEggDGooseFertilized.label>
+  <ACPEggDGooseFertilized.description>一颗已受精的鹅蛋。如果一切顺利，几天后小鹅就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggDGooseFertilized.description>
+
+  <ACPEggWGooseFertilized.label>野鹅蛋(已受精)</ACPEggWGooseFertilized.label>
+  <ACPEggWGooseFertilized.description>一颗已受精的野鹅蛋。如果一切顺利，几天后小野鹅就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggWGooseFertilized.description>
+
+  <ACPEggDuckFertilized.label>鸭蛋(已受精)</ACPEggDuckFertilized.label>
+  <ACPEggDuckFertilized.description>一颗已受精的鸭蛋。如果一切顺利，几天后小鸭就会破壳而出鸭.可以生吃，烹饪后食用更佳。</ACPEggDuckFertilized.description>
+
+  <ACPEggKomodoFertilized.label>科莫多巨蜥蛋(已受精)</ACPEggKomodoFertilized.label>
+  <ACPEggKomodoFertilized.description>一颗已受精的科莫多巨蜥.如果一切顺利，几天后小科莫多巨蜥就会破壳而出.可以生吃，烹饪后食用更佳。</ACPEggKomodoFertilized.description>
+
+
+</LanguageData>

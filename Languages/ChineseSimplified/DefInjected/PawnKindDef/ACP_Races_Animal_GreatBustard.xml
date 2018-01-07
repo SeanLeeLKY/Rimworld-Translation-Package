@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPGreatBustard.label>大鸨</ACPGreatBustard.label>
+  <ACPGreatBustard.labelPlural>大鸨</ACPGreatBustard.labelPlural>
+  <ACPGreatBustard.lifeStages.0.label>大鸨幼崽</ACPGreatBustard.lifeStages.0.label>
+  <ACPGreatBustard.lifeStages.0.labelPlural>大鸨幼崽</ACPGreatBustard.lifeStages.0.labelPlural>
+  <ACPGreatBustard.lifeStages.0.labelMale>公大鸨幼崽</ACPGreatBustard.lifeStages.0.labelMale>
+  <ACPGreatBustard.lifeStages.0.labelMalePlural>公大鸨幼崽</ACPGreatBustard.lifeStages.0.labelMalePlural>
+  <ACPGreatBustard.lifeStages.0.labelFemale>母大鸨幼崽</ACPGreatBustard.lifeStages.0.labelFemale>
+  <ACPGreatBustard.lifeStages.0.labelFemalePlural>母大鸨幼崽</ACPGreatBustard.lifeStages.0.labelFemalePlural>
+  <ACPGreatBustard.lifeStages.1.label>幼年大鸨</ACPGreatBustard.lifeStages.1.label>
+  <ACPGreatBustard.lifeStages.1.labelPlural>幼年大鸨</ACPGreatBustard.lifeStages.1.labelPlural>
+  <ACPGreatBustard.lifeStages.1.labelMale>幼年公大鸨</ACPGreatBustard.lifeStages.1.labelMale>
+  <ACPGreatBustard.lifeStages.1.labelMalePlural>幼年公大鸨</ACPGreatBustard.lifeStages.1.labelMalePlural>
+  <ACPGreatBustard.lifeStages.1.labelFemale>幼年母大鸨</ACPGreatBustard.lifeStages.1.labelFemale>
+  <ACPGreatBustard.lifeStages.1.labelFemalePlural>幼年母大鸨</ACPGreatBustard.lifeStages.1.labelFemalePlural>
+  <ACPGreatBustard.lifeStages.2.label>大鸨</ACPGreatBustard.lifeStages.2.label>
+  <ACPGreatBustard.lifeStages.2.labelPlural>大鸨</ACPGreatBustard.lifeStages.2.labelPlural>
+  <ACPGreatBustard.lifeStages.2.labelMale>公大鸨</ACPGreatBustard.lifeStages.2.labelMale>
+  <ACPGreatBustard.lifeStages.2.labelMalePlural>公大鸨</ACPGreatBustard.lifeStages.2.labelMalePlural>
+  <ACPGreatBustard.lifeStages.2.labelFemale>母大鸨</ACPGreatBustard.lifeStages.2.labelFemale>
+  <ACPGreatBustard.lifeStages.2.labelFemalePlural>母大鸨</ACPGreatBustard.lifeStages.2.labelFemalePlural>
+  <ACPGreatBustard.labelMale>公大鸨</ACPGreatBustard.labelMale>
+  <ACPGreatBustard.labelMalePlural>公大鸨</ACPGreatBustard.labelMalePlural>
+  <ACPGreatBustard.labelFemale>母大鸨</ACPGreatBustard.labelFemale>
+  <ACPGreatBustard.labelFemalePlural>母大鸨</ACPGreatBustard.labelFemalePlural>
+
+
+</LanguageData>

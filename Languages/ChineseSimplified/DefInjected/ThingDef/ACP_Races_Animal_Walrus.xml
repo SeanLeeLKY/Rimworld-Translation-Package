@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPWalrus.label>海象</ACPWalrus.label>
+  <ACPWalrus.description>最大的极地哺乳动物，游泳速度极快，非常危险，然而在陆地上行动很慢.不要轻视它们，最重要的一点:别向它们打听蛋头博士(蛋头博士Eggman是个梗，是索尼克系列的反派boss。蛋头博士Eggman的名字来源于甲克虫乐队的一首歌"I am the Walrus"我是海象，其中有一句歌词是这样的："I am the Eggman， they are the Eggman")</ACPWalrus.description>
+  <!-- Use Leather From: ACPHippopotamus -->
+  <!-- Use Meat From: ACPHippopotamus -->
+  <ACPWalrus_Corpse.label>海象尸体</ACPWalrus_Corpse.label>
+  <ACPWalrus_Corpse.description>海象尸体</ACPWalrus_Corpse.description>
+
+
+</LanguageData>

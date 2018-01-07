@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPHorse.label>马</ACPHorse.label>
+  <ACPHorse.description>大而温顺的食草动物，奔跑速度快，身体强壮.马与人类相处已有数千年的历史，所以你当然能在这里发现它们的身影.不幸的是你的所有殖民者都没有骑马的天赋，不然它们还能成为很好的坐骑。</ACPHorse.description>
+  <!-- Use Leather From: ACPFerret -->
+  <ACPHorse_Meat.label>马肉</ACPHorse_Meat.label>
+  <ACPHorse_Meat.description>马肉</ACPHorse_Meat.description>
+  <ACPHorse_Corpse.label>马尸体</ACPHorse_Corpse.label>
+  <ACPHorse_Corpse.description>马尸体</ACPHorse_Corpse.description>
+
+
+  <!-- Wooly Horse -->
+
+  <ACPWoolyHorse.label>长毛马</ACPWoolyHorse.label>
+  <ACPWoolyHorse.description>体型肥硕毛皮较厚的，能更好的适应寒冷气候.比较奇特的是，长毛马有返祖现象，它们的马蹄有脚趾.这些脚趾较大且更加分散，具有雪地靴一样的功效.更加奇特的是，长毛马似乎是杂食性动物，它们口中长有一套犬牙。
+  </ACPWoolyHorse.description>
+  <ACPWoolyHorse_Leather.label>长毛马皮</ACPWoolyHorse_Leather.label>
+  <ACPWoolyHorse_Leather.description>长毛马皮</ACPWoolyHorse_Leather.description>
+  <ACPWoolyHorse_Leather.stuffProps.stuffAdjective>长毛马皮</ACPWoolyHorse_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: ACPHorse -->
+  <ACPWoolyHorse_Corpse.label>长毛马尸体</ACPWoolyHorse_Corpse.label>
+  <ACPWoolyHorse_Corpse.description>长毛马尸体</ACPWoolyHorse_Corpse.description>
+
+
+</LanguageData>

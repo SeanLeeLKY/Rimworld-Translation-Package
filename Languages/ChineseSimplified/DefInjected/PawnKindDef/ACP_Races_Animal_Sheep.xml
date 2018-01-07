@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPSheep.label>绵羊</ACPSheep.label>
+  <ACPSheep.labelPlural>绵羊</ACPSheep.labelPlural>
+  <ACPSheep.lifeStages.0.label>绵羊幼崽</ACPSheep.lifeStages.0.label>
+  <ACPSheep.lifeStages.0.labelPlural>绵羊幼崽</ACPSheep.lifeStages.0.labelPlural>
+  <ACPSheep.lifeStages.0.labelMale>公绵羊幼崽</ACPSheep.lifeStages.0.labelMale>
+  <ACPSheep.lifeStages.0.labelMalePlural>公绵羊幼崽</ACPSheep.lifeStages.0.labelMalePlural>
+  <ACPSheep.lifeStages.0.labelFemale>母绵羊幼崽</ACPSheep.lifeStages.0.labelFemale>
+  <ACPSheep.lifeStages.0.labelFemalePlural>母绵羊幼崽</ACPSheep.lifeStages.0.labelFemalePlural>
+  <ACPSheep.lifeStages.1.label>幼年绵羊</ACPSheep.lifeStages.1.label>
+  <ACPSheep.lifeStages.1.labelPlural>幼年绵羊</ACPSheep.lifeStages.1.labelPlural>
+  <ACPSheep.lifeStages.1.labelMale>幼年公绵羊</ACPSheep.lifeStages.1.labelMale>
+  <ACPSheep.lifeStages.1.labelMalePlural>幼年公绵羊</ACPSheep.lifeStages.1.labelMalePlural>
+  <ACPSheep.lifeStages.1.labelFemale>幼年母绵羊</ACPSheep.lifeStages.1.labelFemale>
+  <ACPSheep.lifeStages.1.labelFemalePlural>幼年母绵羊</ACPSheep.lifeStages.1.labelFemalePlural>
+  <ACPSheep.lifeStages.2.label>绵羊</ACPSheep.lifeStages.2.label>
+  <ACPSheep.lifeStages.2.labelPlural>绵羊</ACPSheep.lifeStages.2.labelPlural>
+  <ACPSheep.lifeStages.2.labelMale>公绵羊</ACPSheep.lifeStages.2.labelMale>
+  <ACPSheep.lifeStages.2.labelMalePlural>公绵羊</ACPSheep.lifeStages.2.labelMalePlural>
+  <ACPSheep.lifeStages.2.labelFemale>母绵羊</ACPSheep.lifeStages.2.labelFemale>
+  <ACPSheep.lifeStages.2.labelFemalePlural>母绵羊</ACPSheep.lifeStages.2.labelFemalePlural>
+  <ACPSheep.labelMale>公绵羊</ACPSheep.labelMale>
+  <ACPSheep.labelMalePlural>公绵羊</ACPSheep.labelMalePlural>
+  <ACPSheep.labelFemale>母绵羊</ACPSheep.labelFemale>
+  <ACPSheep.labelFemalePlural>母绵羊</ACPSheep.labelFemalePlural>
+
+
+</LanguageData>

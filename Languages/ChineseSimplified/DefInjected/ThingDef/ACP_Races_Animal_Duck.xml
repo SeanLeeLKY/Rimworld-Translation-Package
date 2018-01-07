@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPDuck.label>野鸭</ACPDuck.label>
+  <ACPDuck.description>一种小型鸟类，在全世界的水边都有发现。野鸭擅长游泳与飞行，野鸭肉很受人类喜欢。</ACPDuck.description>
+  <!-- Use Leather From: ACPDomesticGoose -->
+  <!-- Use Meat From: Cassowary -->
+  <ACPDuck_Corpse.label>野鸭尸体</ACPDuck_Corpse.label>
+  <ACPDuck_Corpse.description>野鸭尸体</ACPDuck_Corpse.description>
+
+
+</LanguageData>

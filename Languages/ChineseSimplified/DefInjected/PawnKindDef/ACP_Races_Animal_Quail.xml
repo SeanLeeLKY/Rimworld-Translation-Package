@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Quail Assets -->
+
+  <ACPValleyQuail.label>谷鹌鹑</ACPValleyQuail.label>
+  <ACPValleyQuail.labelPlural>谷鹌鹑</ACPValleyQuail.labelPlural>
+  <ACPValleyQuail.lifeStages.0.label>谷鹌鹑仔</ACPValleyQuail.lifeStages.0.label>
+  <ACPValleyQuail.lifeStages.0.labelPlural>谷鹌鹑仔</ACPValleyQuail.lifeStages.0.labelPlural>
+  <ACPValleyQuail.lifeStages.0.labelMale>公谷鹌鹑仔</ACPValleyQuail.lifeStages.0.labelMale>
+  <ACPValleyQuail.lifeStages.0.labelMalePlural>公谷鹌鹑仔</ACPValleyQuail.lifeStages.0.labelMalePlural>
+  <ACPValleyQuail.lifeStages.0.labelFemale>母谷鹌鹑仔</ACPValleyQuail.lifeStages.0.labelFemale>
+  <ACPValleyQuail.lifeStages.0.labelFemalePlural>母谷鹌鹑仔</ACPValleyQuail.lifeStages.0.labelFemalePlural>
+  <ACPValleyQuail.lifeStages.1.label>幼年谷鹌鹑</ACPValleyQuail.lifeStages.1.label>
+  <ACPValleyQuail.lifeStages.1.labelPlural>幼年谷鹌鹑</ACPValleyQuail.lifeStages.1.labelPlural>
+  <ACPValleyQuail.lifeStages.1.labelMale>幼年公谷鹌鹑</ACPValleyQuail.lifeStages.1.labelMale>
+  <ACPValleyQuail.lifeStages.1.labelMalePlural>幼年公谷鹌鹑</ACPValleyQuail.lifeStages.1.labelMalePlural>
+  <ACPValleyQuail.lifeStages.1.labelFemale>幼年母谷鹌鹑</ACPValleyQuail.lifeStages.1.labelFemale>
+  <ACPValleyQuail.lifeStages.1.labelFemalePlural>幼年母谷鹌鹑</ACPValleyQuail.lifeStages.1.labelFemalePlural>
+  <ACPValleyQuail.lifeStages.2.label>谷鹌鹑</ACPValleyQuail.lifeStages.2.label>
+  <ACPValleyQuail.lifeStages.2.labelPlural>谷鹌鹑</ACPValleyQuail.lifeStages.2.labelPlural>
+  <ACPValleyQuail.lifeStages.2.labelMale>公谷鹌鹑</ACPValleyQuail.lifeStages.2.labelMale>
+  <ACPValleyQuail.lifeStages.2.labelMalePlural>公谷鹌鹑</ACPValleyQuail.lifeStages.2.labelMalePlural>
+  <ACPValleyQuail.lifeStages.2.labelFemale>母谷鹌鹑</ACPValleyQuail.lifeStages.2.labelFemale>
+  <ACPValleyQuail.lifeStages.2.labelFemalePlural>母谷鹌鹑</ACPValleyQuail.lifeStages.2.labelFemalePlural>
+  <ACPValleyQuail.labelMale>公谷鹌鹑</ACPValleyQuail.labelMale>
+  <ACPValleyQuail.labelMalePlural>公谷鹌鹑</ACPValleyQuail.labelMalePlural>
+  <ACPValleyQuail.labelFemale>母谷鹌鹑</ACPValleyQuail.labelFemale>
+  <ACPValleyQuail.labelFemalePlural>母谷鹌鹑</ACPValleyQuail.labelFemalePlural>
+
+
+</LanguageData>

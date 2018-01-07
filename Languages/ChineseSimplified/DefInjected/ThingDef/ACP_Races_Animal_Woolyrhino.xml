@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPWoolyRhino.label>披毛犀</ACPWoolyRhino.label>
+  <ACPWoolyRhino.description>浑身都长满粗毛的犀牛，比它们没毛的亲戚们更能适应严寒气候。</ACPWoolyRhino.description>
+  <ACPWoolyRhino_Leather.label>披毛犀皮</ACPWoolyRhino_Leather.label>
+  <ACPWoolyRhino_Leather.description>披毛犀皮</ACPWoolyRhino_Leather.description>
+  <ACPWoolyRhino_Leather.stuffProps.stuffAdjective>披毛犀皮</ACPWoolyRhino_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Rhinoceros -->
+  <ACPWoolyRhino_Corpse.label>披毛犀尸体</ACPWoolyRhino_Corpse.label>
+  <ACPWoolyRhino_Corpse.description>披毛犀尸体</ACPWoolyRhino_Corpse.description>
+
+
+</LanguageData>

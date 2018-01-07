@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPSilkieChicken.label>乌鸡</ACPSilkieChicken.label>
+  <ACPSilkieChicken.labelPlural>乌鸡</ACPSilkieChicken.labelPlural>
+  <ACPSilkieChicken.lifeStages.0.label>乌鸡仔</ACPSilkieChicken.lifeStages.0.label>
+  <ACPSilkieChicken.lifeStages.0.labelPlural>乌鸡仔</ACPSilkieChicken.lifeStages.0.labelPlural>
+  <ACPSilkieChicken.lifeStages.0.labelMale>公乌鸡仔</ACPSilkieChicken.lifeStages.0.labelMale>
+  <ACPSilkieChicken.lifeStages.0.labelMalePlural>公乌鸡仔</ACPSilkieChicken.lifeStages.0.labelMalePlural>
+  <ACPSilkieChicken.lifeStages.0.labelFemale>母乌鸡仔</ACPSilkieChicken.lifeStages.0.labelFemale>
+  <ACPSilkieChicken.lifeStages.0.labelFemalePlural>母乌鸡仔</ACPSilkieChicken.lifeStages.0.labelFemalePlural>
+  <ACPSilkieChicken.lifeStages.1.label>幼年乌鸡</ACPSilkieChicken.lifeStages.1.label>
+  <ACPSilkieChicken.lifeStages.1.labelPlural>幼年乌鸡</ACPSilkieChicken.lifeStages.1.labelPlural>
+  <ACPSilkieChicken.lifeStages.1.labelMale>幼年公乌鸡</ACPSilkieChicken.lifeStages.1.labelMale>
+  <ACPSilkieChicken.lifeStages.1.labelMalePlural>幼年公乌鸡</ACPSilkieChicken.lifeStages.1.labelMalePlural>
+  <ACPSilkieChicken.lifeStages.1.labelFemale>幼年母乌鸡</ACPSilkieChicken.lifeStages.1.labelFemale>
+  <ACPSilkieChicken.lifeStages.1.labelFemalePlural>幼年母乌鸡</ACPSilkieChicken.lifeStages.1.labelFemalePlural>
+  <ACPSilkieChicken.lifeStages.2.label>乌鸡</ACPSilkieChicken.lifeStages.2.label>
+  <ACPSilkieChicken.lifeStages.2.labelPlural>乌鸡</ACPSilkieChicken.lifeStages.2.labelPlural>
+  <ACPSilkieChicken.lifeStages.2.labelMale>公乌鸡</ACPSilkieChicken.lifeStages.2.labelMale>
+  <ACPSilkieChicken.lifeStages.2.labelMalePlural>公乌鸡</ACPSilkieChicken.lifeStages.2.labelMalePlural>
+  <ACPSilkieChicken.lifeStages.2.labelFemale>母乌鸡</ACPSilkieChicken.lifeStages.2.labelFemale>
+  <ACPSilkieChicken.lifeStages.2.labelFemalePlural>母乌鸡</ACPSilkieChicken.lifeStages.2.labelFemalePlural>
+  <ACPSilkieChicken.labelMale>公乌鸡</ACPSilkieChicken.labelMale>
+  <ACPSilkieChicken.labelMalePlural>公乌鸡</ACPSilkieChicken.labelMalePlural>
+  <ACPSilkieChicken.labelFemale>母乌鸡</ACPSilkieChicken.labelFemale>
+  <ACPSilkieChicken.labelFemalePlural>母乌鸡</ACPSilkieChicken.labelFemalePlural>
+
+
+</LanguageData>

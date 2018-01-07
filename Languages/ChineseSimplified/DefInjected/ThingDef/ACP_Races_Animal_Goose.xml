@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPDomesticGoose.label>家鹅</ACPDomesticGoose.label>
+  <ACPDomesticGoose.description>一种大型家养鸟类，因其羽毛与肉被人类广泛饲养。</ACPDomesticGoose.description>
+  <ACPDomesticGoose_Leather.label>鸟类皮</ACPDomesticGoose_Leather.label>
+  <ACPDomesticGoose_Leather.description>鸟类皮</ACPDomesticGoose_Leather.description>
+  <ACPDomesticGoose_Leather.stuffProps.stuffAdjective>鸟类皮</ACPDomesticGoose_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cassowary -->
+  <ACPDomesticGoose_Corpse.label>家鹅尸体</ACPDomesticGoose_Corpse.label>
+  <ACPDomesticGoose_Corpse.description>家鹅尸体</ACPDomesticGoose_Corpse.description>
+
+  <ACPWildGoose.label>大雁</ACPWildGoose.label>
+  <ACPWildGoose.description>一种大型鸟类，能排成“人”字队型进行长距离飞行。</ACPWildGoose.description>
+  <!-- Use Leather From: ACPDomesticGoose -->
+  <!-- Use Meat From: Cassowary -->
+  <ACPWildGoose_Corpse.label>大雁尸体</ACPWildGoose_Corpse.label>
+  <ACPWildGoose_Corpse.description>大雁尸体</ACPWildGoose_Corpse.description>
+
+
+</LanguageData>

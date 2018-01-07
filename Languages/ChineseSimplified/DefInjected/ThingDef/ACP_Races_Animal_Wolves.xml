@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPDirewolf.label>恐狼</ACPDirewolf.label>
+  <ACPDirewolf.description>恐狼也许是狼的突变产物，成年雄恐狼能达到一匹小马的体型。它们的鬃毛缠绕在一起就像一个厚毛毡，这为它们提供了很好的严寒以及物理保护。它们的牙齿也非常大，但仍能与头骨以及身体其它部位保持协调，其咬合力量的强度只能从一些样本上得知。(其实后面还有一大堆相关的叙述，译者懒得翻译了)恐狼十分聪明，甚至有人说恐狼有能力使用工具，只是受到了没有灵活双手的限制.当然这些谣言并没有得到证实。
+	  
+  值得一提的是恐狼在银河系的各地都有目击报告，有些星球甚至距离甚远或者气候完全不同.因此我们只能假设恐狼是自然的进化的产物而不是在22世纪人类离开地球前的基因工程产物。
+	  
+  部落文化流传着许多关于恐狼的传说。这些传说中恐狼常被描述为人类的帮手，拯救人类与危难当中;或者饥饿的猎人，威胁着整个部落。萨满社会将恐狼作为家族的保卫者崇拜，他们认为恐狼能给信徒带来超自然的忍耐力、恢复力与勇气。
+	</ACPDirewolf.description>
+  <!-- Use Leather From: WolfTimber -->
+  <!-- Use Meat From: WolfTimber -->
+  <ACPDirewolf_Corpse.label>恐狼尸体</ACPDirewolf_Corpse.label>
+  <ACPDirewolf_Corpse.description>恐狼尸体</ACPDirewolf_Corpse.description>
+
+  <ACPBlackwolf.label>黑恐狼</ACPBlackwolf.label>
+  <ACPBlackwolf.description> 恐狼也许是狼的突变产物，成年雄恐狼能达到一匹小马的体型。它们的鬃毛缠绕在一起就像一个厚毛毡，这为它们提供了很好的严寒以及物理保护。它们的牙齿也非常大，但仍能与头骨以及身体其它部位保持协调。其咬合力量的强度只能从一些样本上得知。(其实后面还有一大堆相关的叙述，译者懒得翻译了)恐狼十分聪明，甚至有人说恐狼有能力使用工具，只是受到了没有灵活双手的限制。当然这些谣言并没有得到证实。
+	  
+  值得一提的是恐狼在银河系的各地都有目击报告，有些星球甚至距离甚远或者气候完全不同.因此我们只能假设恐狼是自然的进化的产物而不是在22世纪人类离开地球前的基因工程产物.
+  部落文化流传着许多关于恐狼的传说.这些传说中恐狼常被描述为人类的帮手，拯救人类与危难当中;或者饥饿的猎人，威胁着整个部落.萨满社会将恐狼作为家族的保卫者崇拜，他们认为恐狼能给信徒带来超自然的忍耐力、恢复力与勇气。
+	</ACPBlackwolf.description>
+  <ACPBlackwolf_Leather.label>黑恐狼毛</ACPBlackwolf_Leather.label>
+  <ACPBlackwolf_Leather.description>黑恐狼毛</ACPBlackwolf_Leather.description>
+  <ACPBlackwolf_Leather.stuffProps.stuffAdjective>黑恐狼毛</ACPBlackwolf_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: WolfTimber -->
+  <ACPBlackwolf_Corpse.label>黑恐狼尸体</ACPBlackwolf_Corpse.label>
+  <ACPBlackwolf_Corpse.description>黑恐狼尸体</ACPBlackwolf_Corpse.description>
+
+  <ACPSpiritwolf.label>灵狼</ACPSpiritwolf.label>
+  <ACPSpiritwolf.description>灵狼据说是森林的意志，或者狼族守护者的先祖之魂。不管灵狼是怎么出现的，它都是一种令人敬畏的生物。</ACPSpiritwolf.description>
+  <!-- Use Leather From: WolfArctic -->
+  <!-- Use Meat From: WolfTimber -->
+  <ACPSpiritwolf_Corpse.label>灵狼尸体</ACPSpiritwolf_Corpse.label>
+  <ACPSpiritwolf_Corpse.description>灵狼尸体</ACPSpiritwolf_Corpse.description>
+
+  <ACPSpiritwolfFF.label>远古灵狼</ACPSpiritwolfFF.label>
+  <ACPSpiritwolfFF.description>灵狼据说是森林的意志，或者狼族守护者的先祖之魂.不管灵狼是怎么出现的，它都是一种令人敬畏的生物。</ACPSpiritwolfFF.description>
+  <!-- Use Leather From: WolfArctic -->
+  <!-- Use Meat From: WolfTimber -->
+  <ACPSpiritwolfFF_Corpse.label>远古灵狼尸体</ACPSpiritwolfFF_Corpse.label>
+  <ACPSpiritwolfFF_Corpse.description>远古灵狼尸体</ACPSpiritwolfFF_Corpse.description>
+
+
+</LanguageData>

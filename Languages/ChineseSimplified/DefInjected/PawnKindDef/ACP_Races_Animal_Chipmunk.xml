@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPChipmunk.label>花栗鼠</ACPChipmunk.label>
+  <ACPChipmunk.labelPlural>花栗鼠</ACPChipmunk.labelPlural>
+  <ACPChipmunk.lifeStages.0.label>花栗鼠幼崽</ACPChipmunk.lifeStages.0.label>
+  <ACPChipmunk.lifeStages.0.labelPlural>花栗鼠幼崽</ACPChipmunk.lifeStages.0.labelPlural>
+  <ACPChipmunk.lifeStages.0.labelMale>公花栗鼠幼崽</ACPChipmunk.lifeStages.0.labelMale>
+  <ACPChipmunk.lifeStages.0.labelMalePlural>公花栗鼠幼崽</ACPChipmunk.lifeStages.0.labelMalePlural>
+  <ACPChipmunk.lifeStages.0.labelFemale>母花栗鼠幼崽</ACPChipmunk.lifeStages.0.labelFemale>
+  <ACPChipmunk.lifeStages.0.labelFemalePlural>母花栗鼠幼崽</ACPChipmunk.lifeStages.0.labelFemalePlural>
+  <ACPChipmunk.lifeStages.1.label>幼年花栗鼠</ACPChipmunk.lifeStages.1.label>
+  <ACPChipmunk.lifeStages.1.labelPlural>幼年花栗鼠</ACPChipmunk.lifeStages.1.labelPlural>
+  <ACPChipmunk.lifeStages.1.labelMale>幼年公花栗鼠</ACPChipmunk.lifeStages.1.labelMale>
+  <ACPChipmunk.lifeStages.1.labelMalePlural>幼年幼年公花栗鼠</ACPChipmunk.lifeStages.1.labelMalePlural>
+  <ACPChipmunk.lifeStages.1.labelFemale>幼年母花栗鼠</ACPChipmunk.lifeStages.1.labelFemale>
+  <ACPChipmunk.lifeStages.1.labelFemalePlural>幼年母花栗鼠</ACPChipmunk.lifeStages.1.labelFemalePlural>
+  <ACPChipmunk.lifeStages.2.label>花栗鼠</ACPChipmunk.lifeStages.2.label>
+  <ACPChipmunk.lifeStages.2.labelPlural>花栗鼠</ACPChipmunk.lifeStages.2.labelPlural>
+  <ACPChipmunk.lifeStages.2.labelMale>公花栗鼠</ACPChipmunk.lifeStages.2.labelMale>
+  <ACPChipmunk.lifeStages.2.labelMalePlural>公花栗鼠</ACPChipmunk.lifeStages.2.labelMalePlural>
+  <ACPChipmunk.lifeStages.2.labelFemale>母花栗鼠</ACPChipmunk.lifeStages.2.labelFemale>
+  <ACPChipmunk.lifeStages.2.labelFemalePlural>母花栗鼠</ACPChipmunk.lifeStages.2.labelFemalePlural>
+  <ACPChipmunk.labelMale>公花栗鼠</ACPChipmunk.labelMale>
+  <ACPChipmunk.labelMalePlural>公花栗鼠</ACPChipmunk.labelMalePlural>
+  <ACPChipmunk.labelFemale>母花栗鼠</ACPChipmunk.labelFemale>
+  <ACPChipmunk.labelFemalePlural>母花栗鼠</ACPChipmunk.labelFemalePlural>
+
+
+</LanguageData>

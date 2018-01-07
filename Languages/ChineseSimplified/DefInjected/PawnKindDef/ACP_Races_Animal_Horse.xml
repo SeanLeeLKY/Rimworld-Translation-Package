@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPHorse.label>马</ACPHorse.label>
+  <ACPHorse.labelPlural>马</ACPHorse.labelPlural>
+  <ACPHorse.lifeStages.0.label>马崽</ACPHorse.lifeStages.0.label>
+  <ACPHorse.lifeStages.0.labelPlural>马崽</ACPHorse.lifeStages.0.labelPlural>
+  <ACPHorse.lifeStages.0.labelMale>公马崽</ACPHorse.lifeStages.0.labelMale>
+  <ACPHorse.lifeStages.0.labelMalePlural>公马崽</ACPHorse.lifeStages.0.labelMalePlural>
+  <ACPHorse.lifeStages.0.labelFemale>母马崽</ACPHorse.lifeStages.0.labelFemale>
+  <ACPHorse.lifeStages.0.labelFemalePlural>母马崽</ACPHorse.lifeStages.0.labelFemalePlural>
+  <ACPHorse.lifeStages.1.label>小马</ACPHorse.lifeStages.1.label>
+  <ACPHorse.lifeStages.1.labelPlural>小马</ACPHorse.lifeStages.1.labelPlural>
+  <ACPHorse.lifeStages.1.labelMale>小公马</ACPHorse.lifeStages.1.labelMale>
+  <ACPHorse.lifeStages.1.labelMalePlural>小公马</ACPHorse.lifeStages.1.labelMalePlural>
+  <ACPHorse.lifeStages.1.labelFemale>小母马</ACPHorse.lifeStages.1.labelFemale>
+  <ACPHorse.lifeStages.1.labelFemalePlural>小母马</ACPHorse.lifeStages.1.labelFemalePlural>
+  <ACPHorse.lifeStages.2.label>马</ACPHorse.lifeStages.2.label>
+  <ACPHorse.lifeStages.2.labelPlural>马</ACPHorse.lifeStages.2.labelPlural>
+  <ACPHorse.lifeStages.2.labelMale>公马</ACPHorse.lifeStages.2.labelMale>
+  <ACPHorse.lifeStages.2.labelMalePlural>公马</ACPHorse.lifeStages.2.labelMalePlural>
+  <ACPHorse.lifeStages.2.labelFemale>母马</ACPHorse.lifeStages.2.labelFemale>
+  <ACPHorse.lifeStages.2.labelFemalePlural>母马</ACPHorse.lifeStages.2.labelFemalePlural>
+  <ACPHorse.labelMale>公马</ACPHorse.labelMale>
+  <ACPHorse.labelMalePlural>公马</ACPHorse.labelMalePlural>
+  <ACPHorse.labelFemale>母马</ACPHorse.labelFemale>
+  <ACPHorse.labelFemalePlural>母马</ACPHorse.labelFemalePlural>
+
+
+  <!-- Wooly Horse -->
+
+  <ACPWoolyHorse.label>长毛马</ACPWoolyHorse.label>
+  <ACPWoolyHorse.labelPlural>长毛马</ACPWoolyHorse.labelPlural>
+  <ACPWoolyHorse.lifeStages.0.label>长毛马崽</ACPWoolyHorse.lifeStages.0.label>
+  <ACPWoolyHorse.lifeStages.0.labelPlural>长毛马崽</ACPWoolyHorse.lifeStages.0.labelPlural>
+  <ACPWoolyHorse.lifeStages.0.labelMale>公长毛马崽</ACPWoolyHorse.lifeStages.0.labelMale>
+  <ACPWoolyHorse.lifeStages.0.labelMalePlural>公长毛马崽</ACPWoolyHorse.lifeStages.0.labelMalePlural>
+  <ACPWoolyHorse.lifeStages.0.labelFemale>母长毛马崽</ACPWoolyHorse.lifeStages.0.labelFemale>
+  <ACPWoolyHorse.lifeStages.0.labelFemalePlural>母长毛马崽</ACPWoolyHorse.lifeStages.0.labelFemalePlural>
+  <ACPWoolyHorse.lifeStages.1.label>小长毛马</ACPWoolyHorse.lifeStages.1.label>
+  <ACPWoolyHorse.lifeStages.1.labelPlural>小长毛马</ACPWoolyHorse.lifeStages.1.labelPlural>
+  <ACPWoolyHorse.lifeStages.1.labelMale>小公长毛马</ACPWoolyHorse.lifeStages.1.labelMale>
+  <ACPWoolyHorse.lifeStages.1.labelMalePlural>小公长毛马</ACPWoolyHorse.lifeStages.1.labelMalePlural>
+  <ACPWoolyHorse.lifeStages.1.labelFemale>小长毛马</ACPWoolyHorse.lifeStages.1.labelFemale>
+  <ACPWoolyHorse.lifeStages.1.labelFemalePlural>小长毛马</ACPWoolyHorse.lifeStages.1.labelFemalePlural>
+  <ACPWoolyHorse.lifeStages.2.label>长毛马</ACPWoolyHorse.lifeStages.2.label>
+  <ACPWoolyHorse.lifeStages.2.labelPlural>长毛马</ACPWoolyHorse.lifeStages.2.labelPlural>
+  <ACPWoolyHorse.lifeStages.2.labelMale>公长毛马</ACPWoolyHorse.lifeStages.2.labelMale>
+  <ACPWoolyHorse.lifeStages.2.labelMalePlural>公长毛马</ACPWoolyHorse.lifeStages.2.labelMalePlural>
+  <ACPWoolyHorse.lifeStages.2.labelFemale>母长毛马</ACPWoolyHorse.lifeStages.2.labelFemale>
+  <ACPWoolyHorse.lifeStages.2.labelFemalePlural>母长毛马</ACPWoolyHorse.lifeStages.2.labelFemalePlural>
+  <ACPWoolyHorse.labelMale>公长毛马</ACPWoolyHorse.labelMale>
+  <ACPWoolyHorse.labelMalePlural>公长毛马</ACPWoolyHorse.labelMalePlural>
+  <ACPWoolyHorse.labelFemale>母长毛马</ACPWoolyHorse.labelFemale>
+  <ACPWoolyHorse.labelFemalePlural>母长毛马</ACPWoolyHorse.labelFemalePlural>
+
+
+</LanguageData>

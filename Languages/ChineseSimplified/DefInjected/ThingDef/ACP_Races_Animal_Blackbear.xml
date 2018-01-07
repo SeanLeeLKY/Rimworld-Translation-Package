@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPBlackbear.label>黑熊</ACPBlackbear.label>
+  <ACPBlackbear.description>中等体型的熊，一般居住在森林深处。黑熊的危险性远低于其它同类，除非被直接激怒，黑熊几乎不会攻击人类。在自然界中，黑熊是食性最杂和独行性最高的熊。</ACPBlackbear.description>
+  <ACPBlackbear_Leather.label>黑色皮</ACPBlackbear_Leather.label>
+  <ACPBlackbear_Leather.description>黑色皮</ACPBlackbear_Leather.description>
+  <ACPBlackbear_Leather.stuffProps.stuffAdjective>黑色皮</ACPBlackbear_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: GrizzlyBear -->
+  <ACPBlackbear_Corpse.label>黑熊尸体</ACPBlackbear_Corpse.label>
+  <ACPBlackbear_Corpse.description>黑熊尸体</ACPBlackbear_Corpse.description>
+
+
+</LanguageData>

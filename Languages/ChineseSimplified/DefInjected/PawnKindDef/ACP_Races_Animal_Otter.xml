@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPOtter.label>水獭</ACPOtter.label>
+  <ACPOtter.labelPlural>水獭</ACPOtter.labelPlural>
+  <ACPOtter.lifeStages.0.label>水獭幼崽</ACPOtter.lifeStages.0.label>
+  <ACPOtter.lifeStages.0.labelPlural>水獭幼崽</ACPOtter.lifeStages.0.labelPlural>
+  <ACPOtter.lifeStages.0.labelMale>公水獭幼崽</ACPOtter.lifeStages.0.labelMale>
+  <ACPOtter.lifeStages.0.labelMalePlural>公水獭幼崽</ACPOtter.lifeStages.0.labelMalePlural>
+  <ACPOtter.lifeStages.0.labelFemale>母水獭幼崽</ACPOtter.lifeStages.0.labelFemale>
+  <ACPOtter.lifeStages.0.labelFemalePlural>母水獭幼崽</ACPOtter.lifeStages.0.labelFemalePlural>
+  <ACPOtter.lifeStages.1.label>幼年水獭</ACPOtter.lifeStages.1.label>
+  <ACPOtter.lifeStages.1.labelPlural>幼年水獭</ACPOtter.lifeStages.1.labelPlural>
+  <ACPOtter.lifeStages.1.labelMale>幼年公水獭</ACPOtter.lifeStages.1.labelMale>
+  <ACPOtter.lifeStages.1.labelMalePlural>幼年公水獭</ACPOtter.lifeStages.1.labelMalePlural>
+  <ACPOtter.lifeStages.1.labelFemale>幼年母水獭</ACPOtter.lifeStages.1.labelFemale>
+  <ACPOtter.lifeStages.1.labelFemalePlural>幼年母水獭</ACPOtter.lifeStages.1.labelFemalePlural>
+  <ACPOtter.lifeStages.2.label>水獭</ACPOtter.lifeStages.2.label>
+  <ACPOtter.lifeStages.2.labelPlural>水獭</ACPOtter.lifeStages.2.labelPlural>
+  <ACPOtter.lifeStages.2.labelMale>公水獭</ACPOtter.lifeStages.2.labelMale>
+  <ACPOtter.lifeStages.2.labelMalePlural>公水獭</ACPOtter.lifeStages.2.labelMalePlural>
+  <ACPOtter.lifeStages.2.labelFemale>母水獭</ACPOtter.lifeStages.2.labelFemale>
+  <ACPOtter.lifeStages.2.labelFemalePlural>母水獭</ACPOtter.lifeStages.2.labelFemalePlural>
+  <ACPOtter.labelMale>公水獭</ACPOtter.labelMale>
+  <ACPOtter.labelMalePlural>公水獭</ACPOtter.labelMalePlural>
+  <ACPOtter.labelFemale>母水獭</ACPOtter.labelFemale>
+  <ACPOtter.labelFemalePlural>母水獭</ACPOtter.labelFemalePlural>
+
+
+</LanguageData>

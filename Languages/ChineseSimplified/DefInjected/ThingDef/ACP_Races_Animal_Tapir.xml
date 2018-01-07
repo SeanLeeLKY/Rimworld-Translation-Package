@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPTapir.label>貘</ACPTapir.label>
+  <ACPTapir.description>貘很酷，不是么?</ACPTapir.description>
+  <!-- Use Leather From: ACPBlackRhinoceros -->
+  <!-- Use Meat From: Pig -->
+  <ACPTapir_Corpse.label>貘尸体</ACPTapir_Corpse.label>
+  <ACPTapir_Corpse.description>貘尸体</ACPTapir_Corpse.description>
+
+
+</LanguageData>

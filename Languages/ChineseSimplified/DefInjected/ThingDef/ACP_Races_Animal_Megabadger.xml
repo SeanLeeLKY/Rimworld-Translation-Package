@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPMegabadger.label>巨獾</ACPMegabadger.label>
+  <ACPMegabadger.description>真正的巨型獾类，成年期体型能达到大象那么大。巨獾是极其危险的生物，它们能将完全成长的大树咬成碎片，皮厚到足矣挡住大多数子弹。巨獾与小型獾类一样极具攻击性，有报道称巨獾曾经毁灭过整个殖民地。在所有情况下，避免与巨獾的任何接触都是明智的选择。</ACPMegabadger.description>
+  <ACPMegabadger_Leather.label>巨獾皮</ACPMegabadger_Leather.label>
+  <ACPMegabadger_Leather.description>巨獾皮</ACPMegabadger_Leather.description>
+  <ACPMegabadger_Leather.stuffProps.stuffAdjective>巨獾皮</ACPMegabadger_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Alphabeaver -->
+  <ACPMegabadger_Corpse.label>巨獾尸体</ACPMegabadger_Corpse.label>
+  <ACPMegabadger_Corpse.description>巨獾尸体</ACPMegabadger_Corpse.description>
+
+
+</LanguageData>

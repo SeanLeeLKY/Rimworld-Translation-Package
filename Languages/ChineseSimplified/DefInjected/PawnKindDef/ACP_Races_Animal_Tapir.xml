@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPTapir.label>貘</ACPTapir.label>
+  <ACPTapir.labelPlural>貘</ACPTapir.labelPlural>
+  <ACPTapir.lifeStages.0.label>貘崽</ACPTapir.lifeStages.0.label>
+  <ACPTapir.lifeStages.0.labelPlural>貘崽</ACPTapir.lifeStages.0.labelPlural>
+  <ACPTapir.lifeStages.0.labelMale>公貘崽</ACPTapir.lifeStages.0.labelMale>
+  <ACPTapir.lifeStages.0.labelMalePlural>公貘崽</ACPTapir.lifeStages.0.labelMalePlural>
+  <ACPTapir.lifeStages.0.labelFemale>母貘崽</ACPTapir.lifeStages.0.labelFemale>
+  <ACPTapir.lifeStages.0.labelFemalePlural>母貘崽</ACPTapir.lifeStages.0.labelFemalePlural>
+  <ACPTapir.lifeStages.1.label>幼年貘</ACPTapir.lifeStages.1.label>
+  <ACPTapir.lifeStages.1.labelPlural>幼年貘</ACPTapir.lifeStages.1.labelPlural>
+  <ACPTapir.lifeStages.1.labelMale>幼年公貘</ACPTapir.lifeStages.1.labelMale>
+  <ACPTapir.lifeStages.1.labelMalePlural>幼年公貘</ACPTapir.lifeStages.1.labelMalePlural>
+  <ACPTapir.lifeStages.1.labelFemale>幼年母貘</ACPTapir.lifeStages.1.labelFemale>
+  <ACPTapir.lifeStages.1.labelFemalePlural>幼年母貘</ACPTapir.lifeStages.1.labelFemalePlural>
+  <ACPTapir.lifeStages.2.label>貘</ACPTapir.lifeStages.2.label>
+  <ACPTapir.lifeStages.2.labelPlural>貘</ACPTapir.lifeStages.2.labelPlural>
+  <ACPTapir.lifeStages.2.labelMale>公貘</ACPTapir.lifeStages.2.labelMale>
+  <ACPTapir.lifeStages.2.labelMalePlural>公貘</ACPTapir.lifeStages.2.labelMalePlural>
+  <ACPTapir.lifeStages.2.labelFemale>母貘</ACPTapir.lifeStages.2.labelFemale>
+  <ACPTapir.lifeStages.2.labelFemalePlural>母貘</ACPTapir.lifeStages.2.labelFemalePlural>
+  <ACPTapir.labelMale>公貘</ACPTapir.labelMale>
+  <ACPTapir.labelMalePlural>公貘</ACPTapir.labelMalePlural>
+  <ACPTapir.labelFemale>母貘</ACPTapir.labelFemale>
+  <ACPTapir.labelFemalePlural>母貘</ACPTapir.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPtarmigan.label>雷鸟</ACPPtarmigan.label>
+  <ACPPtarmigan.labelPlural>雷鸟</ACPPtarmigan.labelPlural>
+  <ACPPtarmigan.lifeStages.0.label>雷鸟崽</ACPPtarmigan.lifeStages.0.label>
+  <ACPPtarmigan.lifeStages.0.labelPlural>雷鸟崽</ACPPtarmigan.lifeStages.0.labelPlural>
+  <ACPPtarmigan.lifeStages.0.labelMale>公雷鸟崽</ACPPtarmigan.lifeStages.0.labelMale>
+  <ACPPtarmigan.lifeStages.0.labelMalePlural>公雷鸟崽</ACPPtarmigan.lifeStages.0.labelMalePlural>
+  <ACPPtarmigan.lifeStages.0.labelFemale>母雷鸟崽</ACPPtarmigan.lifeStages.0.labelFemale>
+  <ACPPtarmigan.lifeStages.0.labelFemalePlural>母雷鸟崽</ACPPtarmigan.lifeStages.0.labelFemalePlural>
+  <ACPPtarmigan.lifeStages.1.label>幼年雷鸟</ACPPtarmigan.lifeStages.1.label>
+  <ACPPtarmigan.lifeStages.1.labelPlural>幼年雷鸟</ACPPtarmigan.lifeStages.1.labelPlural>
+  <ACPPtarmigan.lifeStages.1.labelMale>幼年公雷鸟</ACPPtarmigan.lifeStages.1.labelMale>
+  <ACPPtarmigan.lifeStages.1.labelMalePlural>幼年公雷鸟</ACPPtarmigan.lifeStages.1.labelMalePlural>
+  <ACPPtarmigan.lifeStages.1.labelFemale>幼年雷鸟母雷鸟</ACPPtarmigan.lifeStages.1.labelFemale>
+  <ACPPtarmigan.lifeStages.1.labelFemalePlural>幼年母雷鸟</ACPPtarmigan.lifeStages.1.labelFemalePlural>
+  <ACPPtarmigan.lifeStages.2.label>雷鸟</ACPPtarmigan.lifeStages.2.label>
+  <ACPPtarmigan.lifeStages.2.labelPlural>雷鸟</ACPPtarmigan.lifeStages.2.labelPlural>
+  <ACPPtarmigan.lifeStages.2.labelMale>雷鸟公雷鸟</ACPPtarmigan.lifeStages.2.labelMale>
+  <ACPPtarmigan.lifeStages.2.labelMalePlural>公雷鸟</ACPPtarmigan.lifeStages.2.labelMalePlural>
+  <ACPPtarmigan.lifeStages.2.labelFemale>雷鸟母雷鸟</ACPPtarmigan.lifeStages.2.labelFemale>
+  <ACPPtarmigan.lifeStages.2.labelFemalePlural>母雷鸟</ACPPtarmigan.lifeStages.2.labelFemalePlural>
+  <ACPPtarmigan.labelMale>雷鸟公雷鸟</ACPPtarmigan.labelMale>
+  <ACPPtarmigan.labelMalePlural>雷鸟公雷鸟</ACPPtarmigan.labelMalePlural>
+  <ACPPtarmigan.labelFemale>雷鸟母雷鸟</ACPPtarmigan.labelFemale>
+  <ACPPtarmigan.labelFemalePlural>雷鸟母雷鸟</ACPPtarmigan.labelFemalePlural>
+
+
+</LanguageData>

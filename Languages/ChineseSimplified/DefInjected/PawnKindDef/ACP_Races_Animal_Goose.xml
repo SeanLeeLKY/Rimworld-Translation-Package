@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPDomesticGoose.label>家鹅</ACPDomesticGoose.label>
+  <ACPDomesticGoose.labelPlural>家鹅</ACPDomesticGoose.labelPlural>
+  <ACPDomesticGoose.lifeStages.0.label>家鹅幼崽</ACPDomesticGoose.lifeStages.0.label>
+  <ACPDomesticGoose.lifeStages.0.labelPlural>家鹅幼崽</ACPDomesticGoose.lifeStages.0.labelPlural>
+  <ACPDomesticGoose.lifeStages.0.labelMale>公家鹅幼崽</ACPDomesticGoose.lifeStages.0.labelMale>
+  <ACPDomesticGoose.lifeStages.0.labelMalePlural>公家鹅幼崽</ACPDomesticGoose.lifeStages.0.labelMalePlural>
+  <ACPDomesticGoose.lifeStages.0.labelFemale>母家鹅幼崽</ACPDomesticGoose.lifeStages.0.labelFemale>
+  <ACPDomesticGoose.lifeStages.0.labelFemalePlural>母家鹅幼崽</ACPDomesticGoose.lifeStages.0.labelFemalePlural>
+  <ACPDomesticGoose.lifeStages.1.label>幼年家鹅</ACPDomesticGoose.lifeStages.1.label>
+  <ACPDomesticGoose.lifeStages.1.labelPlural>幼年家鹅</ACPDomesticGoose.lifeStages.1.labelPlural>
+  <ACPDomesticGoose.lifeStages.1.labelMale>幼年公家鹅</ACPDomesticGoose.lifeStages.1.labelMale>
+  <ACPDomesticGoose.lifeStages.1.labelMalePlural>幼年公家鹅</ACPDomesticGoose.lifeStages.1.labelMalePlural>
+  <ACPDomesticGoose.lifeStages.1.labelFemale>幼年母家鹅</ACPDomesticGoose.lifeStages.1.labelFemale>
+  <ACPDomesticGoose.lifeStages.1.labelFemalePlural>幼年母家鹅</ACPDomesticGoose.lifeStages.1.labelFemalePlural>
+  <ACPDomesticGoose.lifeStages.2.label>家鹅</ACPDomesticGoose.lifeStages.2.label>
+  <ACPDomesticGoose.lifeStages.2.labelPlural>家鹅</ACPDomesticGoose.lifeStages.2.labelPlural>
+  <ACPDomesticGoose.lifeStages.2.labelMale>公家鹅</ACPDomesticGoose.lifeStages.2.labelMale>
+  <ACPDomesticGoose.lifeStages.2.labelMalePlural>公家鹅</ACPDomesticGoose.lifeStages.2.labelMalePlural>
+  <ACPDomesticGoose.lifeStages.2.labelFemale>母家鹅</ACPDomesticGoose.lifeStages.2.labelFemale>
+  <ACPDomesticGoose.lifeStages.2.labelFemalePlural>母家鹅</ACPDomesticGoose.lifeStages.2.labelFemalePlural>
+  <ACPDomesticGoose.labelMale>公家鹅</ACPDomesticGoose.labelMale>
+  <ACPDomesticGoose.labelMalePlural>公家鹅</ACPDomesticGoose.labelMalePlural>
+  <ACPDomesticGoose.labelFemale>母家鹅</ACPDomesticGoose.labelFemale>
+  <ACPDomesticGoose.labelFemalePlural>母家鹅</ACPDomesticGoose.labelFemalePlural>
+
+  <ACPWildGoose.label>大雁</ACPWildGoose.label>
+  <ACPWildGoose.labelPlural>大雁</ACPWildGoose.labelPlural>
+  <ACPWildGoose.lifeStages.0.label>大雁幼崽</ACPWildGoose.lifeStages.0.label>
+  <ACPWildGoose.lifeStages.0.labelPlural>大雁幼崽</ACPWildGoose.lifeStages.0.labelPlural>
+  <ACPWildGoose.lifeStages.0.labelMale>公大雁幼崽</ACPWildGoose.lifeStages.0.labelMale>
+  <ACPWildGoose.lifeStages.0.labelMalePlural>公大雁幼崽</ACPWildGoose.lifeStages.0.labelMalePlural>
+  <ACPWildGoose.lifeStages.0.labelFemale>母大雁幼崽</ACPWildGoose.lifeStages.0.labelFemale>
+  <ACPWildGoose.lifeStages.0.labelFemalePlural>母大雁幼崽</ACPWildGoose.lifeStages.0.labelFemalePlural>
+  <ACPWildGoose.lifeStages.1.label>幼年大雁</ACPWildGoose.lifeStages.1.label>
+  <ACPWildGoose.lifeStages.1.labelPlural>幼年大雁</ACPWildGoose.lifeStages.1.labelPlural>
+  <ACPWildGoose.lifeStages.1.labelMale>幼年公大雁</ACPWildGoose.lifeStages.1.labelMale>
+  <ACPWildGoose.lifeStages.1.labelMalePlural>幼年公大雁</ACPWildGoose.lifeStages.1.labelMalePlural>
+  <ACPWildGoose.lifeStages.1.labelFemale>幼年母大雁</ACPWildGoose.lifeStages.1.labelFemale>
+  <ACPWildGoose.lifeStages.1.labelFemalePlural>幼年母大雁</ACPWildGoose.lifeStages.1.labelFemalePlural>
+  <ACPWildGoose.lifeStages.2.label>大雁</ACPWildGoose.lifeStages.2.label>
+  <ACPWildGoose.lifeStages.2.labelPlural>大雁</ACPWildGoose.lifeStages.2.labelPlural>
+  <ACPWildGoose.lifeStages.2.labelMale>公大雁</ACPWildGoose.lifeStages.2.labelMale>
+  <ACPWildGoose.lifeStages.2.labelMalePlural>公大雁</ACPWildGoose.lifeStages.2.labelMalePlural>
+  <ACPWildGoose.lifeStages.2.labelFemale>母大雁</ACPWildGoose.lifeStages.2.labelFemale>
+  <ACPWildGoose.lifeStages.2.labelFemalePlural>母大雁</ACPWildGoose.lifeStages.2.labelFemalePlural>
+  <ACPWildGoose.labelMale>公大雁</ACPWildGoose.labelMale>
+  <ACPWildGoose.labelMalePlural>公大雁</ACPWildGoose.labelMalePlural>
+  <ACPWildGoose.labelFemale>母大雁</ACPWildGoose.labelFemale>
+  <ACPWildGoose.labelFemalePlural>母大雁</ACPWildGoose.labelFemalePlural>
+
+
+</LanguageData>

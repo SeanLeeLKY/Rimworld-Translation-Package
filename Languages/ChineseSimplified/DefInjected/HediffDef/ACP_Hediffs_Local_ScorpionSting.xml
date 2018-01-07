@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sting.label>刺伤</Sting.label>
+  <Sting.comps.0.labelTendedWell>已包扎</Sting.comps.0.labelTendedWell>
+  <Sting.comps.0.labelTendedWellInner>已缝合</Sting.comps.0.labelTendedWellInner>
+  <Sting.comps.0.labelSolidTendedWell>已处理</Sting.comps.0.labelSolidTendedWell>
+  <Sting.comps.2.oldLabel>刺疤痕痕</Sting.comps.2.oldLabel>
+  <Sting.injuryProps.destroyedLabel>被撕裂</Sting.injuryProps.destroyedLabel>
+  <Sting.injuryProps.destroyedOutLabel>被撕裂</Sting.injuryProps.destroyedOutLabel>
+
+
+</LanguageData>

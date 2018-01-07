@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPFerret.label>雪貂</ACPFerret.label>
+  <ACPFerret.description>这种肉食性鼬鼠可爱而顽皮，小心你的财产，因为它们也是小小的窃贼。</ACPFerret.description>
+  <ACPFerret_Leather.label>浅黄色皮</ACPFerret_Leather.label>
+  <ACPFerret_Leather.description>浅黄色皮</ACPFerret_Leather.description>
+  <ACPFerret_Leather.stuffProps.stuffAdjective>浅黄色皮</ACPFerret_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Alphabeaver -->
+  <ACPFerret_Corpse.label>雪貂尸体</ACPFerret_Corpse.label>
+  <ACPFerret_Corpse.description>雪貂尸体</ACPFerret_Corpse.description>
+
+
+</LanguageData>

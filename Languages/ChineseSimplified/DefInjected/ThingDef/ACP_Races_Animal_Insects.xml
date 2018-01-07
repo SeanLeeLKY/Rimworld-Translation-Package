@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPSilkspider.label>丝绸蜘蛛</ACPSilkspider.label>
+  <ACPSilkspider.description>基因工程产生的一种蜘蛛形状的昆虫，用于产丝。丝绸蜘蛛非常脆弱，但如果你能好好的保护它们，你会得到一种美丽而坚韧的丝绸作为回报。</ACPSilkspider.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <ACPSilkspider_Corpse.label>丝绸蜘蛛尸体</ACPSilkspider_Corpse.label>
+  <ACPSilkspider_Corpse.description>丝绸蜘蛛尸体</ACPSilkspider_Corpse.description>
+
+  <ACPHaulerAnt.label>搬运蚁</ACPHaulerAnt.label>
+  <ACPHaulerAnt.description>基因工程产生的巨大蚂蚁，通常用于搬运工作。</ACPHaulerAnt.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <ACPHaulerAnt_Corpse.label>搬运蚁尸体</ACPHaulerAnt_Corpse.label>
+  <ACPHaulerAnt_Corpse.description>搬运蚁尸体</ACPHaulerAnt_Corpse.description>
+
+  <ACPAcidAnt.label>酸蚁</ACPAcidAnt.label>
+  <ACPAcidAnt.description>这些蚂蚁体型很小，但一定要小心不要被它们咬到，它们的分泌物会造成严重的酸性灼伤。</ACPAcidAnt.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <ACPAcidAnt_Corpse.label>酸蚁尸体</ACPAcidAnt_Corpse.label>
+  <ACPAcidAnt_Corpse.description>酸蚁尸体</ACPAcidAnt_Corpse.description>
+
+
+</LanguageData>

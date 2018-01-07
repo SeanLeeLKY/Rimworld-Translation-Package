@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPGiraffe.label>长颈鹿</ACPGiraffe.label>
+  <ACPGiraffe.description>长颈鹿或许是世界上最聪明最美丽的动物，看看它们身上美丽的斑点与华丽的蓝舌头，进化的奇迹。</ACPGiraffe.description>
+  <!-- Use Leather From: ACPLion -->
+  <!-- Use Meat From: Cow -->
+  <ACPGiraffe_Corpse.label>长颈鹿尸体</ACPGiraffe_Corpse.label>
+  <ACPGiraffe_Corpse.description>长颈鹿尸体</ACPGiraffe_Corpse.description>
+
+
+</LanguageData>

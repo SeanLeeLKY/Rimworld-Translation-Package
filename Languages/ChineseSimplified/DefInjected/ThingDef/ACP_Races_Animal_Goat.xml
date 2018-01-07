@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPMajoreraGoat.label>梅杰瑞拉山羊</ACPMajoreraGoat.label>
+  <ACPMajoreraGoat.description>起源于地球加那利群岛的一种山羊，因其强壮与产奶的特性被广泛出口。</ACPMajoreraGoat.description>
+  <!-- Use Leather From: Ibex -->
+  <!-- Use Meat From: Ibex -->
+  <ACPMajoreraGoat_Corpse.label>梅杰瑞拉山羊尸体</ACPMajoreraGoat_Corpse.label>
+  <ACPMajoreraGoat_Corpse.description>梅杰瑞拉山羊尸体</ACPMajoreraGoat_Corpse.description>
+
+
+</LanguageData>

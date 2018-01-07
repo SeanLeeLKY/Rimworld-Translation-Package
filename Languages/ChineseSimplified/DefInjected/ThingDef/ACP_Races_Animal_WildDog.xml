@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPWildDog.label>非洲野犬</ACPWildDog.label>
+  <ACPWildDog.description>一种群体狩猎的中型野狗。</ACPWildDog.description>
+  <!-- Use Leather From: ACPFerret -->
+  <ACPWildDog_Meat.label>狗肉</ACPWildDog_Meat.label>
+  <ACPWildDog_Meat.description>狗肉</ACPWildDog_Meat.description>
+  <ACPWildDog_Corpse.label>非洲野犬尸体</ACPWildDog_Corpse.label>
+  <ACPWildDog_Corpse.description>非洲野犬尸体</ACPWildDog_Corpse.description>
+
+
+</LanguageData>

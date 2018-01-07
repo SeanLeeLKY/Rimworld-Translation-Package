@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPBlackRhinoceros.label>黑犀牛</ACPBlackRhinoceros.label>
+  <ACPBlackRhinoceros.description>一种大型陆生哺乳动物，通常很温顺，但面对入侵时会毫不犹豫的用尖角发起冲锋。</ACPBlackRhinoceros.description>
+  <ACPBlackRhinoceros_Leather.label>黑色皮</ACPBlackRhinoceros_Leather.label>
+  <ACPBlackRhinoceros_Leather.description>黑色皮</ACPBlackRhinoceros_Leather.description>
+  <ACPBlackRhinoceros_Leather.stuffProps.stuffAdjective>黑色皮</ACPBlackRhinoceros_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Rhinoceros -->
+  <ACPBlackRhinoceros_Corpse.label>黑犀牛尸体</ACPBlackRhinoceros_Corpse.label>
+  <ACPBlackRhinoceros_Corpse.description>黑犀牛尸体</ACPBlackRhinoceros_Corpse.description>
+
+
+</LanguageData>

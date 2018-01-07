@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPHoneyBadger.label>蜜獾</ACPHoneyBadger.label>
+  <ACPHoneyBadger.labelPlural>蜜獾</ACPHoneyBadger.labelPlural>
+  <ACPHoneyBadger.lifeStages.0.label>蜜獾幼崽</ACPHoneyBadger.lifeStages.0.label>
+  <ACPHoneyBadger.lifeStages.0.labelPlural>蜜獾幼崽</ACPHoneyBadger.lifeStages.0.labelPlural>
+  <ACPHoneyBadger.lifeStages.0.labelMale>公蜜獾幼崽</ACPHoneyBadger.lifeStages.0.labelMale>
+  <ACPHoneyBadger.lifeStages.0.labelMalePlural>公蜜獾幼崽</ACPHoneyBadger.lifeStages.0.labelMalePlural>
+  <ACPHoneyBadger.lifeStages.0.labelFemale>母蜜獾幼崽</ACPHoneyBadger.lifeStages.0.labelFemale>
+  <ACPHoneyBadger.lifeStages.0.labelFemalePlural>母蜜獾幼崽</ACPHoneyBadger.lifeStages.0.labelFemalePlural>
+  <ACPHoneyBadger.lifeStages.1.label>幼年蜜獾</ACPHoneyBadger.lifeStages.1.label>
+  <ACPHoneyBadger.lifeStages.1.labelPlural>幼年蜜獾</ACPHoneyBadger.lifeStages.1.labelPlural>
+  <ACPHoneyBadger.lifeStages.1.labelMale>幼年公蜜獾</ACPHoneyBadger.lifeStages.1.labelMale>
+  <ACPHoneyBadger.lifeStages.1.labelMalePlural>幼年公蜜獾</ACPHoneyBadger.lifeStages.1.labelMalePlural>
+  <ACPHoneyBadger.lifeStages.1.labelFemale>幼年母蜜獾</ACPHoneyBadger.lifeStages.1.labelFemale>
+  <ACPHoneyBadger.lifeStages.1.labelFemalePlural>幼年母蜜獾</ACPHoneyBadger.lifeStages.1.labelFemalePlural>
+  <ACPHoneyBadger.lifeStages.2.label>蜜獾</ACPHoneyBadger.lifeStages.2.label>
+  <ACPHoneyBadger.lifeStages.2.labelPlural>蜜獾</ACPHoneyBadger.lifeStages.2.labelPlural>
+  <ACPHoneyBadger.lifeStages.2.labelMale>公蜜獾</ACPHoneyBadger.lifeStages.2.labelMale>
+  <ACPHoneyBadger.lifeStages.2.labelMalePlural>公蜜獾</ACPHoneyBadger.lifeStages.2.labelMalePlural>
+  <ACPHoneyBadger.lifeStages.2.labelFemale>母蜜獾</ACPHoneyBadger.lifeStages.2.labelFemale>
+  <ACPHoneyBadger.lifeStages.2.labelFemalePlural>母蜜獾</ACPHoneyBadger.lifeStages.2.labelFemalePlural>
+  <ACPHoneyBadger.labelMale>公蜜獾</ACPHoneyBadger.labelMale>
+  <ACPHoneyBadger.labelMalePlural>公蜜獾</ACPHoneyBadger.labelMalePlural>
+  <ACPHoneyBadger.labelFemale>母蜜獾</ACPHoneyBadger.labelFemale>
+  <ACPHoneyBadger.labelFemalePlural>母蜜獾</ACPHoneyBadger.labelFemalePlural>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPRedPanda.label>小熊猫</ACPRedPanda.label>
+  <ACPRedPanda.description>毛茸茸杂食动物，曾被争论过是否属于浣熊科。小熊猫(许多世界了称之为“火狐”)是一种以竹子、水果、小型昆虫为食的温顺动物。虽然它叫小熊猫且吃竹子，但它和大熊猫甚至熊科动物都没啥关系。小熊猫独特的进化路线使它独属一科。小熊猫大部分的时间都花在睡眠和进食上，生活习性就像一只家猫。21世纪早期，由于非法偷猎与栖息地减少。小熊猫曾濒临灭绝，然而，当饲养小熊猫作为宠物流行起来之后，它们的数量瞬间爆炸了</ACPRedPanda.description>
+  <ACPRedPanda_Leather.label>小熊猫皮</ACPRedPanda_Leather.label>
+  <ACPRedPanda_Leather.description>小熊猫皮</ACPRedPanda_Leather.description>
+  <ACPRedPanda_Leather.stuffProps.stuffAdjective>小熊猫皮</ACPRedPanda_Leather.stuffProps.stuffAdjective>
+  <ACPRedPanda_Meat.label>小熊猫肉</ACPRedPanda_Meat.label>
+  <ACPRedPanda_Meat.description>小熊猫肉</ACPRedPanda_Meat.description>
+  <ACPRedPanda_Corpse.label>小熊猫尸体</ACPRedPanda_Corpse.label>
+  <ACPRedPanda_Corpse.description>小熊猫尸体</ACPRedPanda_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPSpottedSeal.label>海豹</ACPSpottedSeal.label>
+  <ACPSpottedSeal.labelPlural>海豹</ACPSpottedSeal.labelPlural>
+  <ACPSpottedSeal.lifeStages.0.label>海豹幼崽</ACPSpottedSeal.lifeStages.0.label>
+  <ACPSpottedSeal.lifeStages.0.labelPlural>海豹幼崽</ACPSpottedSeal.lifeStages.0.labelPlural>
+  <ACPSpottedSeal.lifeStages.0.labelMale>公海豹幼崽</ACPSpottedSeal.lifeStages.0.labelMale>
+  <ACPSpottedSeal.lifeStages.0.labelMalePlural>公海豹幼崽</ACPSpottedSeal.lifeStages.0.labelMalePlural>
+  <ACPSpottedSeal.lifeStages.0.labelFemale>母海豹幼崽</ACPSpottedSeal.lifeStages.0.labelFemale>
+  <ACPSpottedSeal.lifeStages.0.labelFemalePlural>母海豹幼崽</ACPSpottedSeal.lifeStages.0.labelFemalePlural>
+  <ACPSpottedSeal.lifeStages.1.label>幼年海豹</ACPSpottedSeal.lifeStages.1.label>
+  <ACPSpottedSeal.lifeStages.1.labelPlural>幼年海豹</ACPSpottedSeal.lifeStages.1.labelPlural>
+  <ACPSpottedSeal.lifeStages.1.labelMale>幼年公海豹</ACPSpottedSeal.lifeStages.1.labelMale>
+  <ACPSpottedSeal.lifeStages.1.labelMalePlural>幼年公海豹</ACPSpottedSeal.lifeStages.1.labelMalePlural>
+  <ACPSpottedSeal.lifeStages.1.labelFemale>幼年母海豹</ACPSpottedSeal.lifeStages.1.labelFemale>
+  <ACPSpottedSeal.lifeStages.1.labelFemalePlural>幼年母海豹</ACPSpottedSeal.lifeStages.1.labelFemalePlural>
+  <ACPSpottedSeal.lifeStages.2.label>海豹</ACPSpottedSeal.lifeStages.2.label>
+  <ACPSpottedSeal.lifeStages.2.labelPlural>海豹</ACPSpottedSeal.lifeStages.2.labelPlural>
+  <ACPSpottedSeal.lifeStages.2.labelMale>公海豹</ACPSpottedSeal.lifeStages.2.labelMale>
+  <ACPSpottedSeal.lifeStages.2.labelMalePlural>公海豹</ACPSpottedSeal.lifeStages.2.labelMalePlural>
+  <ACPSpottedSeal.lifeStages.2.labelFemale>母海豹</ACPSpottedSeal.lifeStages.2.labelFemale>
+  <ACPSpottedSeal.lifeStages.2.labelFemalePlural>母海豹</ACPSpottedSeal.lifeStages.2.labelFemalePlural>
+  <ACPSpottedSeal.labelMale>公海豹</ACPSpottedSeal.labelMale>
+  <ACPSpottedSeal.labelMalePlural>公海豹</ACPSpottedSeal.labelMalePlural>
+  <ACPSpottedSeal.labelFemale>母海豹</ACPSpottedSeal.labelFemale>
+  <ACPSpottedSeal.labelFemalePlural>母海豹</ACPSpottedSeal.labelFemalePlural>
+
+
+</LanguageData>

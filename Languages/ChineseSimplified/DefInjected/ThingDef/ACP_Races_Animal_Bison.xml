@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPBison.label>野牛</ACPBison.label>
+  <ACPBison.description>大型草原食草动物，因其与远古时期西部的联系而被广泛认知。</ACPBison.description>
+  <ACPBison.tools.0.label>头</ACPBison.tools.0.label>
+  <ACPBison_Leather.label>棕色皮</ACPBison_Leather.label>
+  <ACPBison_Leather.description>棕色皮</ACPBison_Leather.description>
+  <ACPBison_Leather.stuffProps.stuffAdjective>棕色皮</ACPBison_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cow -->
+  <ACPBison_Corpse.label>野牛尸体</ACPBison_Corpse.label>
+  <ACPBison_Corpse.description>野牛尸体</ACPBison_Corpse.description>
+
+
+</LanguageData>

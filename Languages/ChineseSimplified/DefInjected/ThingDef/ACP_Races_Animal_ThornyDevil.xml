@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPThornyDevil.label>澳洲魔蜥</ACPThornyDevil.label>
+  <ACPThornyDevil.description>非常耐旱的蜥蜴，在最干旱的沙漠都有发现。它们独特的体型让它们能将湿气聚集到口部。</ACPThornyDevil.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Iguana -->
+  <ACPThornyDevil_Corpse.label>澳洲魔蜥尸体</ACPThornyDevil_Corpse.label>
+  <ACPThornyDevil_Corpse.description>澳洲魔蜥尸体</ACPThornyDevil_Corpse.description>
+
+
+</LanguageData>

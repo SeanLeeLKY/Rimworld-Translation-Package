@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Sting.label>刺伤</Sting.label>
+  <Sting.deathMessage>{0} 被刺死了</Sting.deathMessage>
+
+  <ScorpionSting.label>蝎刺</ScorpionSting.label>
+  <ScorpionSting.deathMessage>{0} 被刺死了</ScorpionSting.deathMessage>
+
+  <QuillSting.label>豪猪尖刺</QuillSting.label>
+  <QuillSting.deathMessage>{0} 被刺死了</QuillSting.deathMessage>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPtarmigan.label>雷鸟</ACPPtarmigan.label>
+  <ACPPtarmigan.description>小型猎禽。为了适应寒冷气候，雷鸟的腿部长有羽毛，十分容易分辨。</ACPPtarmigan.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Cassowary -->
+  <ACPPtarmigan_Corpse.label>雷鸟尸体</ACPPtarmigan_Corpse.label>
+  <ACPPtarmigan_Corpse.description>雷鸟尸体</ACPPtarmigan_Corpse.description>
+
+
+</LanguageData>

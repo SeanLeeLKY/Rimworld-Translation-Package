@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPDomesticRabbit.label>家兔</ACPDomesticRabbit.label>
+  <ACPDomesticRabbit.description>看起来最无辜的家养动物，家兔弱小但是很温顺。人类饲养家兔的历史很长，通常是为其鲜美的肉质而做为家畜或者其无人能敌的可爱而做为宠物。</ACPDomesticRabbit.description>
+  <!-- Use Leather From: Hare -->
+  <!-- Use Meat From: Hare -->
+  <ACPDomesticRabbit_Corpse.label>家兔尸体</ACPDomesticRabbit_Corpse.label>
+  <ACPDomesticRabbit_Corpse.description>家兔尸体</ACPDomesticRabbit_Corpse.description>
+
+
+</LanguageData>

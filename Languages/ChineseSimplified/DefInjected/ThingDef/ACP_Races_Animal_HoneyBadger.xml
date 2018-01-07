@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPHoneyBadger.label>蜜獾</ACPHoneyBadger.label>
+  <ACPHoneyBadger.description>尽管特别钟爱蜂蜜，蜜獾实际上是完全的杂食性动物，你不会想成为它们的下一道餐点的。</ACPHoneyBadger.description>
+  <!-- Use Leather From: ACPSnowLeopard -->
+  <!-- Use Meat From: Alphabeaver -->
+  <ACPHoneyBadger_Corpse.label>蜜獾尸体</ACPHoneyBadger_Corpse.label>
+  <ACPHoneyBadger_Corpse.description>蜜獾尸体</ACPHoneyBadger_Corpse.description>
+
+
+</LanguageData>

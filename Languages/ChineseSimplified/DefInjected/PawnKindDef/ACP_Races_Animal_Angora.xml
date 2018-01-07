@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPAngoraRabbit.label>安哥拉兔</ACPAngoraRabbit.label>
+  <ACPAngoraRabbit.labelPlural>安哥拉兔</ACPAngoraRabbit.labelPlural>
+  <ACPAngoraRabbit.lifeStages.0.label>安哥拉兔幼崽</ACPAngoraRabbit.lifeStages.0.label>
+  <ACPAngoraRabbit.lifeStages.0.labelPlural>安哥拉兔幼崽</ACPAngoraRabbit.lifeStages.0.labelPlural>
+  <ACPAngoraRabbit.lifeStages.0.labelMale>公安哥拉兔幼崽</ACPAngoraRabbit.lifeStages.0.labelMale>
+  <ACPAngoraRabbit.lifeStages.0.labelMalePlural>公安哥拉兔幼崽</ACPAngoraRabbit.lifeStages.0.labelMalePlural>
+  <ACPAngoraRabbit.lifeStages.0.labelFemale>母安哥拉兔幼崽</ACPAngoraRabbit.lifeStages.0.labelFemale>
+  <ACPAngoraRabbit.lifeStages.0.labelFemalePlural>母安哥拉兔幼崽</ACPAngoraRabbit.lifeStages.0.labelFemalePlural>
+  <ACPAngoraRabbit.lifeStages.1.label>幼年安哥拉兔</ACPAngoraRabbit.lifeStages.1.label>
+  <ACPAngoraRabbit.lifeStages.1.labelPlural>幼年安哥拉兔</ACPAngoraRabbit.lifeStages.1.labelPlural>
+  <ACPAngoraRabbit.lifeStages.1.labelMale>幼年安哥拉公兔</ACPAngoraRabbit.lifeStages.1.labelMale>
+  <ACPAngoraRabbit.lifeStages.1.labelMalePlural>幼年安哥拉公兔</ACPAngoraRabbit.lifeStages.1.labelMalePlural>
+  <ACPAngoraRabbit.lifeStages.1.labelFemale>幼年母安哥拉兔</ACPAngoraRabbit.lifeStages.1.labelFemale>
+  <ACPAngoraRabbit.lifeStages.1.labelFemalePlural>幼年母安哥拉兔</ACPAngoraRabbit.lifeStages.1.labelFemalePlural>
+  <ACPAngoraRabbit.lifeStages.2.label>安哥拉兔</ACPAngoraRabbit.lifeStages.2.label>
+  <ACPAngoraRabbit.lifeStages.2.labelPlural>成年安哥拉兔</ACPAngoraRabbit.lifeStages.2.labelPlural>
+  <ACPAngoraRabbit.lifeStages.2.labelMale>公安哥拉兔</ACPAngoraRabbit.lifeStages.2.labelMale>
+  <ACPAngoraRabbit.lifeStages.2.labelMalePlural>公安哥拉兔</ACPAngoraRabbit.lifeStages.2.labelMalePlural>
+  <ACPAngoraRabbit.lifeStages.2.labelFemale>母安哥拉兔</ACPAngoraRabbit.lifeStages.2.labelFemale>
+  <ACPAngoraRabbit.lifeStages.2.labelFemalePlural>母安哥拉兔</ACPAngoraRabbit.lifeStages.2.labelFemalePlural>
+  <ACPAngoraRabbit.labelMale>公安哥拉兔</ACPAngoraRabbit.labelMale>
+  <ACPAngoraRabbit.labelMalePlural>公安哥拉兔</ACPAngoraRabbit.labelMalePlural>
+  <ACPAngoraRabbit.labelFemale>母安哥拉兔</ACPAngoraRabbit.labelFemale>
+  <ACPAngoraRabbit.labelFemalePlural>母安哥拉兔</ACPAngoraRabbit.labelFemalePlural>
+
+
+</LanguageData>

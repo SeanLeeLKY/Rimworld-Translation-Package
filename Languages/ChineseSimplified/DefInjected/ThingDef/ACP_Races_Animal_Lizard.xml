@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPXenguana.label>希恩巨蜥</ACPXenguana.label>
+  <ACPXenguana.description>神秘的希恩族人饲养的大型蜥蜴(希恩族Xenn's race是rimworld另一个mod，作者是这个mod的作者之一)。</ACPXenguana.description>
+  <ACPXenguana_Leather.label>希恩巨蜥皮</ACPXenguana_Leather.label>
+  <ACPXenguana_Leather.description>希恩巨蜥皮</ACPXenguana_Leather.description>
+  <ACPXenguana_Leather.stuffProps.stuffAdjective>希恩巨蜥皮</ACPXenguana_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Iguana -->
+  <ACPXenguana_Corpse.label>希恩巨蜥尸体</ACPXenguana_Corpse.label>
+  <ACPXenguana_Corpse.description>希恩巨蜥尸体</ACPXenguana_Corpse.description>
+
+  <ACPXGecko.label>壁虎</ACPXGecko.label>
+  <ACPXGecko.description>小型蜥蜴，亚种遍布世界各地。</ACPXGecko.description>
+  <ACPXGecko_Leather.label>壁虎皮</ACPXGecko_Leather.label>
+  <ACPXGecko_Leather.description>壁虎皮</ACPXGecko_Leather.description>
+  <ACPXGecko_Leather.stuffProps.stuffAdjective>壁虎皮</ACPXGecko_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Iguana -->
+  <ACPXGecko_Corpse.label>壁虎尸体</ACPXGecko_Corpse.label>
+  <ACPXGecko_Corpse.description>壁虎尸体</ACPXGecko_Corpse.description>
+
+
+</LanguageData>

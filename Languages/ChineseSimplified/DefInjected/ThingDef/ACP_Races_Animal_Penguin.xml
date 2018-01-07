@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPenguin.label>企鹅</ACPPenguin.label>
+  <ACPPenguin.description>肉食性无羽毛鸟类，常在寒冷气候被发现。</ACPPenguin.description>
+  <!-- Use Leather From: ACPBlackRhinoceros -->
+  <!-- Use Meat From: Cassowary -->
+  <ACPPenguin_Corpse.label>企鹅尸体</ACPPenguin_Corpse.label>
+  <ACPPenguin_Corpse.description>企鹅尸体</ACPPenguin_Corpse.description>
+
+
+</LanguageData>

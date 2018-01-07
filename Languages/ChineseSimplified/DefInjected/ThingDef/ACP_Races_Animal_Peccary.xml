@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPPeccary.label>西貒</ACPPeccary.label>
+  <ACPPeccary.description>非常像豬的哺乳動物，但比豬更加適應炎熱的氣候。</ACPPeccary.description>
+  <!-- Use Leather From: Pig -->
+  <!-- Use Meat From: Pig -->
+  <ACPPeccary_Corpse.label>西貒屍體</ACPPeccary_Corpse.label>
+  <ACPPeccary_Corpse.description>西貒屍體</ACPPeccary_Corpse.description>
+
+
+</LanguageData>

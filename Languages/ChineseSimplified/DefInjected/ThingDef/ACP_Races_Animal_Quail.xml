@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Animal -->
+
+  <ACPValleyQuail.label>谷鹌鹑</ACPValleyQuail.label>
+  <ACPValleyQuail.description>居住在地上的猎禽。众所周知，鹌鹑有漂亮的羽毛与有斑纹的蛋。</ACPValleyQuail.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Cassowary -->
+  <ACPValleyQuail_Corpse.label>谷鹌鹑尸体</ACPValleyQuail_Corpse.label>
+  <ACPValleyQuail_Corpse.description>谷鹌鹑尸体</ACPValleyQuail_Corpse.description>
+
+
+</LanguageData>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ToxicVenom.label>剧毒</ToxicVenom.label>
+  <ToxicVenom.stages.0.label>轻微</ToxicVenom.stages.0.label>
+  <ToxicVenom.stages.1.label>中等</ToxicVenom.stages.1.label>
+  <ToxicVenom.stages.2.label>剧烈</ToxicVenom.stages.2.label>
+
+
+</LanguageData>

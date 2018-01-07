@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPHippopotamus.label>河马</ACPHippopotamus.label>
+  <ACPHippopotamus.description>常常出没于干旱生态区河流的大型哺乳动物。河马也许看起来很温顺，但实际上是最危险的动物之一。</ACPHippopotamus.description>
+  <ACPHippopotamus.tools.1.label>左脚</ACPHippopotamus.tools.1.label>
+  <ACPHippopotamus.tools.2.label>右脚</ACPHippopotamus.tools.2.label>
+  <ACPHippopotamus.tools.3.label>头</ACPHippopotamus.tools.3.label>
+  <ACPHippopotamus_Leather.label>厚脂肪皮</ACPHippopotamus_Leather.label>
+  <ACPHippopotamus_Leather.description>厚脂肪皮</ACPHippopotamus_Leather.description>
+  <ACPHippopotamus_Leather.stuffProps.stuffAdjective>厚脂肪皮</ACPHippopotamus_Leather.stuffProps.stuffAdjective>
+  <ACPHippopotamus_Meat.label>厚脂肪肉</ACPHippopotamus_Meat.label>
+  <ACPHippopotamus_Meat.description>厚脂肪肉</ACPHippopotamus_Meat.description>
+  <ACPHippopotamus_Corpse.label>河马尸体</ACPHippopotamus_Corpse.label>
+  <ACPHippopotamus_Corpse.description>河马尸体</ACPHippopotamus_Corpse.description>
+
+
+</LanguageData>

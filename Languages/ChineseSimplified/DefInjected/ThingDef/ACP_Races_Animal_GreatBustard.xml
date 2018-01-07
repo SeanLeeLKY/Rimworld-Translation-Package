@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPGreatBustard.label>大鸨</ACPGreatBustard.label>
+  <ACPGreatBustard.description>一种体型较大的鸟类，雌雄区别明显。大鸨虽然体型较大，但奔跑于飞行速度非常快。</ACPGreatBustard.description>
+  <!-- Use Leather From: ACPDomesticGoose -->
+  <!-- Use Meat From: Cassowary -->
+  <ACPGreatBustard_Corpse.label>大鸨尸体</ACPGreatBustard_Corpse.label>
+  <ACPGreatBustard_Corpse.description>大鸨尸体</ACPGreatBustard_Corpse.description>
+
+
+</LanguageData>

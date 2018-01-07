@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ACPKiwi.label>几维鸟</ACPKiwi.label>
+  <ACPKiwi.description>无羽毛的鸟类，产的卵特别的大。</ACPKiwi.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Cassowary -->
+  <ACPKiwi_Corpse.label>几维鸟尸体</ACPKiwi_Corpse.label>
+  <ACPKiwi_Corpse.description>几维鸟尸体</ACPKiwi_Corpse.description>
+
+
+</LanguageData>
