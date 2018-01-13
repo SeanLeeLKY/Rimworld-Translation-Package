@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Fluffy.ResearchTree.AllowsBuildingX>解锁建筑物 {0}</Fluffy.ResearchTree.AllowsBuildingX>
+  <Fluffy.ResearchTree.AllowsCraftingX>解锁配方 {0}</Fluffy.ResearchTree.AllowsCraftingX>
+  <Fluffy.ResearchTree.AllowsSowingXinY>启用种植 {0} 于 {1}</Fluffy.ResearchTree.AllowsSowingXinY>
+  <Fluffy.ResearchTree.AllowsPlantingX>启用种植 {0}</Fluffy.ResearchTree.AllowsPlantingX>
+
+  <Fluffy.ResearchTree.LClickReplaceQueue>Left-Click 替换队列</Fluffy.ResearchTree.LClickReplaceQueue>
+  <Fluffy.ResearchTree.LClickRemoveFromQueue>Left-Click 从队列移除</Fluffy.ResearchTree.LClickRemoveFromQueue>
+  <Fluffy.ResearchTree.SLClickAddToQueue>Shift-Left-Click 加入队列</Fluffy.ResearchTree.SLClickAddToQueue>
+  <!-- <Fluffy.ResearchTree.RClickForDetails>Right click for details</Fluffy.ResearchTree.RClickForDetails> -->
+  <Fluffy.ResearchTree.RClickInstaFinish>(测试) Right-Click 立刻完成</Fluffy.ResearchTree.RClickInstaFinish>
+
+  <Fluffy.ResearchTree.Requires>需要</Fluffy.ResearchTree.Requires>
+  <Fluffy.ResearchTree.LeadsTo>通向</Fluffy.ResearchTree.LeadsTo>
+
+  <Fluffy.ResearchTree.QueuedNode>已经在队列中</Fluffy.ResearchTree.QueuedNode>
+  <Fluffy.ResearchTree.MissingFacilities>缺失 {0}</Fluffy.ResearchTree.MissingFacilities>
+
+  <Fluffy.ResearchTree.NoResearchFound>未找到科研项目</Fluffy.ResearchTree.NoResearchFound>
+  <Fluffy.ResearchTree.NothingQueued>无研究队列</Fluffy.ResearchTree.NothingQueued>
+  <Fluffy.ResearchTree.NextInQueue>队列下一项: {0}</Fluffy.ResearchTree.NextInQueue>
+
+  <Fluffy.ResearchTree.PreparingTree>准备科研树...</Fluffy.ResearchTree.PreparingTree>
+
+</LanguageData>
