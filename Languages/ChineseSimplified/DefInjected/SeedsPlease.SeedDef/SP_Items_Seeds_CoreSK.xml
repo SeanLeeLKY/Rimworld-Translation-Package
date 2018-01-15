@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <SeedStrawberry.label>草莓种子</SeedStrawberry.label>
+  <SeedStrawberry.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedStrawberry.description>
+
+  <Seedblueberry.label>蓝莓种子</Seedblueberry.label>
+  <Seedblueberry.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedblueberry.description>
+
+  <Seedcloudberry.label>云莓种子</Seedcloudberry.label>
+  <Seedcloudberry.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedcloudberry.description>
+
+  <Seedgooseberry.label>醋栗种子</Seedgooseberry.label>
+  <Seedgooseberry.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedgooseberry.description>
+
+  <Seedcocoa.label>可可豆种子</Seedcocoa.label>
+  <Seedcocoa.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedcocoa.description>
+
+  <SeedAppletree.label>苹果种子</SeedAppletree.label>
+  <SeedAppletree.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedAppletree.description>
+
+  <SeedBananaTree.label>香蕉种子</SeedBananaTree.label>
+  <SeedBananaTree.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedBananaTree.description>
+
+  <SeedorangeTree.label>橙树种子</SeedorangeTree.label>
+  <SeedorangeTree.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedorangeTree.description>
+
+  <SeedPeachTree.label>桃树种子</SeedPeachTree.label>
+  <SeedPeachTree.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedPeachTree.description>
+
+  <Seedgrape.label>葡萄种子</Seedgrape.label>
+  <Seedgrape.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedgrape.description>
+
+  <SeedFlax.label>亚麻种子</SeedFlax.label>
+  <SeedFlax.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedFlax.description>
+
+  <SeedHops.label>啤酒花种子</SeedHops.label>
+  <SeedHops.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedHops.description>
+
+  <Seedsugarcane.label>甘蔗种子</Seedsugarcane.label>
+  <Seedsugarcane.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedsugarcane.description>
+
+  <SeedTreeBamboo.label>竹子种子</SeedTreeBamboo.label>
+  <SeedTreeBamboo.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreeBamboo.description>
+
+  <Seedoats.label>燕麦种子</Seedoats.label>
+  <Seedoats.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedoats.description>
+
+  <Seedwheat.label>小麦种子</Seedwheat.label>
+  <Seedwheat.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedwheat.description>
+
+  <SeedSmokeleaf.label>大麻种子</SeedSmokeleaf.label>
+  <SeedSmokeleaf.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedSmokeleaf.description>
+
+  <SeedPsychoid.label>精神叶种子</SeedPsychoid.label>
+  <SeedPsychoid.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedPsychoid.description>
+
+  <SeedTobacco.label>烟叶种子</SeedTobacco.label>
+  <SeedTobacco.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTobacco.description>
+
+  <SeedCoffee.label>咖啡豆种子</SeedCoffee.label>
+  <SeedCoffee.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedCoffee.description>
+
+  <SeedTea.label>茶叶种子</SeedTea.label>
+  <SeedTea.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTea.description>
+
+  <SeedHeveaTree.label>橡胶树种子</SeedHeveaTree.label>
+  <SeedHeveaTree.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedHeveaTree.description>
+
+  <SeedWildHealroot.label>芦荟种子</SeedWildHealroot.label>
+  <SeedWildHealroot.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedWildHealroot.description>
+
+  <SeedNeutroFlower.label>中性花种子</SeedNeutroFlower.label>
+  <SeedNeutroFlower.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedNeutroFlower.description>
+
+  <SeedPotato.label>土豆种子</SeedPotato.label>
+  <SeedPotato.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedPotato.description>
+
+  <SeedCorn.label>玉米种子</SeedCorn.label>
+  <SeedCorn.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedCorn.description>
+
+  <SeedRice.label>水稻种子</SeedRice.label>
+  <SeedRice.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedRice.description>
+
+  <Seedeggplant.label>茄子种子</Seedeggplant.label>
+  <Seedeggplant.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedeggplant.description>
+
+  <Seedbean.label>黄豆种子</Seedbean.label>
+  <Seedbean.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedbean.description>
+
+  <SeedTomato.label>番茄种子</SeedTomato.label>
+  <SeedTomato.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTomato.description>
+
+  <SeedCarrot.label>胡萝卜种子</SeedCarrot.label>
+  <SeedCarrot.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedCarrot.description>
+
+  <SeedCabbage.label>卷心菜种子</SeedCabbage.label>
+  <SeedCabbage.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedCabbage.description>
+
+  <Seedmushroom.label>蘑菇种子</Seedmushroom.label>
+  <Seedmushroom.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedmushroom.description>
+
+  <SeedRhododendron.label>杜鹃种子</SeedRhododendron.label>
+  <SeedRhododendron.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedRhododendron.description>
+
+  <SeedMangrove.label>红树种子</SeedMangrove.label>
+  <SeedMangrove.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedMangrove.description>
+
+  <SeedTreePalm.label>棕榈树种子</SeedTreePalm.label>
+  <SeedTreePalm.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreePalm.description>
+
+  <SeedTreeDrago.label>龙血树种子</SeedTreeDrago.label>
+  <SeedTreeDrago.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreeDrago.description>
+
+  <SeedTreeOak.label>橡树种子</SeedTreeOak.label>
+  <SeedTreeOak.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreeOak.description>
+
+  <SeedTreePoplar.label>杨树种子</SeedTreePoplar.label>
+  <SeedTreePoplar.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreePoplar.description>
+
+  <SeedTreePine.label>松树种子</SeedTreePine.label>
+  <SeedTreePine.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreePine.description>
+
+  <SeedTreeBirch.label>桦树种子</SeedTreeBirch.label>
+  <SeedTreeBirch.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreeBirch.description>
+
+  <SeedTreeTeak.label>柚树种子</SeedTreeTeak.label>
+  <SeedTreeTeak.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreeTeak.description>
+
+  <SeedTreeCecropia.label>号角树种子</SeedTreeCecropia.label>
+  <SeedTreeCecropia.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreeCecropia.description>
+
+  <SeedTreeWillow.label>柳树种子</SeedTreeWillow.label>
+  <SeedTreeWillow.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreeWillow.description>
+
+  <SeedTreeCypress.label>柏树种子</SeedTreeCypress.label>
+  <SeedTreeCypress.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreeCypress.description>
+
+  <SeedTreeMaple.label>枫树种子</SeedTreeMaple.label>
+  <SeedTreeMaple.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedTreeMaple.description>
+
+  <SeedHaygrass.label>干草种子</SeedHaygrass.label>
+  <SeedHaygrass.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedHaygrass.description>
+
+  <SeedWildRose.label>野玫瑰种子</SeedWildRose.label>
+  <SeedWildRose.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedWildRose.description>
+
+  <SeedHypericum.label>金丝桃种子</SeedHypericum.label>
+  <SeedHypericum.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedHypericum.description>
+
+  <SeedMint.label>薄荷种子</SeedMint.label>
+  <SeedMint.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedMint.description>
+
+  <Seedonion.label>洋葱种子</Seedonion.label>
+  <Seedonion.description>这些转基因种子能够在一个陌生的环境旺盛生长。</Seedonion.description>
+
+
+</LanguageData>

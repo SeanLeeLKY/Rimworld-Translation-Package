@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtractSeedShimmershroom.label>挑选微光蘑菇种子</ExtractSeedShimmershroom.label>
+  <ExtractSeedShimmershroom.description>挑选微光蘑菇种子</ExtractSeedShimmershroom.description>
+  <ExtractSeedShimmershroom.jobString>挑选种子中。</ExtractSeedShimmershroom.jobString>
+
+  <ExtractSeedGlowbulb.label>挑选炽光蘑菇种子</ExtractSeedGlowbulb.label>
+  <ExtractSeedGlowbulb.description>挑选炽光蘑菇种子</ExtractSeedGlowbulb.description>
+  <ExtractSeedGlowbulb.jobString>挑选种子中。</ExtractSeedGlowbulb.jobString>
+
+  <ExtractSeedGleamcap.label>挑选闪帽蘑菇种子</ExtractSeedGleamcap.label>
+  <ExtractSeedGleamcap.description>挑选闪帽蘑菇种子</ExtractSeedGleamcap.description>
+  <ExtractSeedGleamcap.jobString>挑选种子中。</ExtractSeedGleamcap.jobString>
+
+
+</LanguageData>

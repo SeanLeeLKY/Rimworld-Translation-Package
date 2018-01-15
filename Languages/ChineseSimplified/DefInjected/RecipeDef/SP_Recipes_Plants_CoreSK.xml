@@ -1,0 +1,173 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ExtractSeedStrawberry.label>挑选草莓种子</ExtractSeedStrawberry.label>
+  <ExtractSeedStrawberry.description>从草莓中挑选种子。</ExtractSeedStrawberry.description>
+  <ExtractSeedStrawberry.jobString>挑选种子中。</ExtractSeedStrawberry.jobString>
+
+  <ExtractSeedblueberry.label>挑选蓝莓种子</ExtractSeedblueberry.label>
+  <ExtractSeedblueberry.description>从蓝莓中挑选种子。</ExtractSeedblueberry.description>
+  <ExtractSeedblueberry.jobString>挑选种子中。</ExtractSeedblueberry.jobString>
+
+  <ExtractSeedcloudberry.label>挑选云莓种子</ExtractSeedcloudberry.label>
+  <ExtractSeedcloudberry.description>从云莓中挑选种子。</ExtractSeedcloudberry.description>
+  <ExtractSeedcloudberry.jobString>挑选种子中。</ExtractSeedcloudberry.jobString>
+
+  <ExtractSeedgooseberry.label>挑选醋栗种子</ExtractSeedgooseberry.label>
+  <ExtractSeedgooseberry.description>从醋栗中挑选种子。</ExtractSeedgooseberry.description>
+  <ExtractSeedgooseberry.jobString>挑选种子中。</ExtractSeedgooseberry.jobString>
+
+  <ExtractSeedcocoa.label>挑选可可豆种子</ExtractSeedcocoa.label>
+  <ExtractSeedcocoa.description>从可可豆中挑选种子。</ExtractSeedcocoa.description>
+  <ExtractSeedcocoa.jobString>挑选种子中。</ExtractSeedcocoa.jobString>
+
+  <ExtractSeedAppletree.label>挑选苹果种子</ExtractSeedAppletree.label>
+  <ExtractSeedAppletree.description>从苹果中挑选种子。</ExtractSeedAppletree.description>
+  <ExtractSeedAppletree.jobString>挑选种子中。</ExtractSeedAppletree.jobString>
+
+  <ExtractSeedBananaTree.label>挑选香蕉种子</ExtractSeedBananaTree.label>
+  <ExtractSeedBananaTree.description>从香蕉中挑选种子。</ExtractSeedBananaTree.description>
+  <ExtractSeedBananaTree.jobString>挑选种子中。</ExtractSeedBananaTree.jobString>
+
+  <ExtractSeedorangeTree.label>挑选橙子种子</ExtractSeedorangeTree.label>
+  <ExtractSeedorangeTree.description>从橙中挑选种子。</ExtractSeedorangeTree.description>
+  <ExtractSeedorangeTree.jobString>挑选种子中。</ExtractSeedorangeTree.jobString>
+
+  <ExtractSeedPeachTree.label>挑选桃树种子</ExtractSeedPeachTree.label>
+  <ExtractSeedPeachTree.description>从桃子中挑选种子。</ExtractSeedPeachTree.description>
+  <ExtractSeedPeachTree.jobString>挑选种子中。</ExtractSeedPeachTree.jobString>
+
+  <ExtractSeedgrape.label>挑选葡萄种子</ExtractSeedgrape.label>
+  <ExtractSeedgrape.description>从葡萄中挑选种子。</ExtractSeedgrape.description>
+  <ExtractSeedgrape.jobString>挑选种子中。</ExtractSeedgrape.jobString>
+
+  <ExtractSeedCotton.label>挑选棉花种子</ExtractSeedCotton.label>
+  <ExtractSeedCotton.description>从棉花中挑选种子.</ExtractSeedCotton.description>
+  <ExtractSeedCotton.jobString>挑选种子中。</ExtractSeedCotton.jobString>
+
+  <ExtractSeedFlax.label>挑选亚麻种子</ExtractSeedFlax.label>
+  <ExtractSeedFlax.description>从亚麻中挑选种子。</ExtractSeedFlax.description>
+  <ExtractSeedFlax.jobString>挑选种子中。</ExtractSeedFlax.jobString>
+
+  <ExtractSeedDevilstrand.label>挑选恶魔菇种子</ExtractSeedDevilstrand.label>
+  <ExtractSeedDevilstrand.description>从恶魔菇中挑选种子.</ExtractSeedDevilstrand.description>
+  <ExtractSeedDevilstrand.jobString>挑选种子中。</ExtractSeedDevilstrand.jobString>
+
+  <ExtractSeedHops.label>挑选啤酒花种子</ExtractSeedHops.label>
+  <ExtractSeedHops.description>从啤酒花中挑选种子。 </ExtractSeedHops.description>
+  <ExtractSeedHops.jobString>挑选种子中。</ExtractSeedHops.jobString>
+
+  <ExtractSeedsugarcane.label>挑选甘蔗种子</ExtractSeedsugarcane.label>
+  <ExtractSeedsugarcane.description>从甘蔗中挑选种子。</ExtractSeedsugarcane.description>
+  <ExtractSeedsugarcane.jobString>挑选种子中。</ExtractSeedsugarcane.jobString>
+
+  <ExtractSeedTreeBamboo.label>挑选竹子种子</ExtractSeedTreeBamboo.label>
+  <ExtractSeedTreeBamboo.description>挑选竹子种子</ExtractSeedTreeBamboo.description>
+  <ExtractSeedTreeBamboo.jobString>挑选种子中。</ExtractSeedTreeBamboo.jobString>
+
+  <ExtractSeedoats.label>挑选燕麦种子</ExtractSeedoats.label>
+  <ExtractSeedoats.description>从燕麦中挑选种子。</ExtractSeedoats.description>
+  <ExtractSeedoats.jobString>挑选种子中。</ExtractSeedoats.jobString>
+
+  <ExtractSeedwheat.label>挑选小麦种子</ExtractSeedwheat.label>
+  <ExtractSeedwheat.description>从小麦中挑选种子。</ExtractSeedwheat.description>
+  <ExtractSeedwheat.jobString>挑选种子中。</ExtractSeedwheat.jobString>
+
+  <ExtractSeedSmokeleaf.label>挑选大麻种子</ExtractSeedSmokeleaf.label>
+  <ExtractSeedSmokeleaf.description>从大麻中挑选种子。 </ExtractSeedSmokeleaf.description>
+  <ExtractSeedSmokeleaf.jobString>挑选种子中。</ExtractSeedSmokeleaf.jobString>
+
+  <ExtractSeedPsychoid.label>挑选精神叶种子</ExtractSeedPsychoid.label>
+  <ExtractSeedPsychoid.description>从精神叶中挑选种子。 </ExtractSeedPsychoid.description>
+  <ExtractSeedPsychoid.jobString>挑选种子中。</ExtractSeedPsychoid.jobString>
+
+  <ExtractSeedTobacco.label>挑选烟叶种子</ExtractSeedTobacco.label>
+  <ExtractSeedTobacco.description>从烟叶中挑选种子。</ExtractSeedTobacco.description>
+  <ExtractSeedTobacco.jobString>挑选种子中。</ExtractSeedTobacco.jobString>
+
+  <ExtractSeedCoffee.label>挑选咖啡豆种子</ExtractSeedCoffee.label>
+  <ExtractSeedCoffee.description>从咖啡豆中挑选种子。</ExtractSeedCoffee.description>
+  <ExtractSeedCoffee.jobString>挑选种子中。</ExtractSeedCoffee.jobString>
+
+  <ExtractSeedTea.label>挑选茶叶种子</ExtractSeedTea.label>
+  <ExtractSeedTea.description>从茶叶中挑选种子。</ExtractSeedTea.description>
+  <ExtractSeedTea.jobString>挑选种子中。</ExtractSeedTea.jobString>
+
+  <ExtractSeedHeveaTree.label>挑选橡胶种子</ExtractSeedHeveaTree.label>
+  <ExtractSeedHeveaTree.description>从天然橡胶中挑选种子。</ExtractSeedHeveaTree.description>
+  <ExtractSeedHeveaTree.jobString>挑选种子中。</ExtractSeedHeveaTree.jobString>
+
+  <ExtractSeedHealroot.label>挑选药草种子</ExtractSeedHealroot.label>
+  <ExtractSeedHealroot.description>从药草中挑选种子.</ExtractSeedHealroot.description>
+  <ExtractSeedHealroot.jobString>挑选种子中。</ExtractSeedHealroot.jobString>
+
+  <ExtractSeedWildHealroot.label>挑选芦荟种子</ExtractSeedWildHealroot.label>
+  <ExtractSeedWildHealroot.description>挑选芦荟种子</ExtractSeedWildHealroot.description>
+  <ExtractSeedWildHealroot.jobString>挑选种子中。</ExtractSeedWildHealroot.jobString>
+
+  <ExtractSeedNeutroFlower.label>挑选中性花种子</ExtractSeedNeutroFlower.label>
+  <ExtractSeedNeutroFlower.description>从中性花中挑选种子。</ExtractSeedNeutroFlower.description>
+  <ExtractSeedNeutroFlower.jobString>挑选种子中。</ExtractSeedNeutroFlower.jobString>
+
+  <ExtractSeedPotato.label>挑选土豆种子</ExtractSeedPotato.label>
+  <ExtractSeedPotato.description>从土豆中挑选种子。 </ExtractSeedPotato.description>
+  <ExtractSeedPotato.jobString>挑选种子中。</ExtractSeedPotato.jobString>
+
+  <ExtractSeedCorn.label>挑选玉米种子</ExtractSeedCorn.label>
+  <ExtractSeedCorn.description>从玉米中挑选种子。 </ExtractSeedCorn.description>
+  <ExtractSeedCorn.jobString>挑选种子中。</ExtractSeedCorn.jobString>
+
+  <ExtractSeedRice.label>挑选水稻种子</ExtractSeedRice.label>
+  <ExtractSeedRice.description>从水稻中挑选种子。 </ExtractSeedRice.description>
+  <ExtractSeedRice.jobString>挑选种子中。</ExtractSeedRice.jobString>
+
+  <ExtractSeedeggplant.label>挑选茄子种子</ExtractSeedeggplant.label>
+  <ExtractSeedeggplant.description>从茄子中挑选种子。</ExtractSeedeggplant.description>
+  <ExtractSeedeggplant.jobString>挑选种子中。</ExtractSeedeggplant.jobString>
+
+  <ExtractSeedbean.label>挑选黄豆种子</ExtractSeedbean.label>
+  <ExtractSeedbean.description>从黄豆中挑选种子。</ExtractSeedbean.description>
+  <ExtractSeedbean.jobString>挑选种子中。</ExtractSeedbean.jobString>
+
+  <ExtractSeedTomato.label>挑选番茄种子</ExtractSeedTomato.label>
+  <ExtractSeedTomato.description>从番茄中挑选种子。</ExtractSeedTomato.description>
+  <ExtractSeedTomato.jobString>挑选种子中。</ExtractSeedTomato.jobString>
+
+  <ExtractSeedCarrot.label>挑选胡萝卜种子</ExtractSeedCarrot.label>
+  <ExtractSeedCarrot.description>从胡萝卜中挑选种子。</ExtractSeedCarrot.description>
+  <ExtractSeedCarrot.jobString>挑选种子中。</ExtractSeedCarrot.jobString>
+
+  <ExtractSeedCabbage.label>挑选卷心菜种子</ExtractSeedCabbage.label>
+  <ExtractSeedCabbage.description>挑选卷心菜种子</ExtractSeedCabbage.description>
+  <ExtractSeedCabbage.jobString>挑选种子中。</ExtractSeedCabbage.jobString>
+
+  <ExtractSeedmushroom.label>挑选蘑菇种子</ExtractSeedmushroom.label>
+  <ExtractSeedmushroom.description>从蘑菇中挑选种子。</ExtractSeedmushroom.description>
+  <ExtractSeedmushroom.jobString>挑选种子中。</ExtractSeedmushroom.jobString>
+
+  <ExtractSeedTreePalm.label>挑选椰子种子</ExtractSeedTreePalm.label>
+  <ExtractSeedTreePalm.description>挑选椰子种子</ExtractSeedTreePalm.description>
+  <ExtractSeedTreePalm.jobString>挑选种子中。</ExtractSeedTreePalm.jobString>
+
+  <ExtractSeedHaygrass.label>挑选干草种子</ExtractSeedHaygrass.label>
+  <ExtractSeedHaygrass.description>从干草中挑选种子。</ExtractSeedHaygrass.description>
+  <ExtractSeedHaygrass.jobString>挑选种子中。</ExtractSeedHaygrass.jobString>
+
+  <ExtractSeedWildRose.label>挑选野玫瑰种子</ExtractSeedWildRose.label>
+  <ExtractSeedWildRose.description>挑选野玫瑰种子</ExtractSeedWildRose.description>
+  <ExtractSeedWildRose.jobString>挑选种子中。</ExtractSeedWildRose.jobString>
+
+  <ExtractSeedHypericum.label>挑选金丝桃种子</ExtractSeedHypericum.label>
+  <ExtractSeedHypericum.description>挑选金丝桃种子</ExtractSeedHypericum.description>
+  <ExtractSeedHypericum.jobString>挑选种子中。</ExtractSeedHypericum.jobString>
+
+  <ExtractSeedMint.label>挑选薄荷种子</ExtractSeedMint.label>
+  <ExtractSeedMint.description>挑选薄荷种子</ExtractSeedMint.description>
+  <ExtractSeedMint.jobString>挑选种子中。</ExtractSeedMint.jobString>
+
+  <ExtractSeedonion.label>挑选洋葱种子</ExtractSeedonion.label>
+  <ExtractSeedonion.description>挑选洋葱种子</ExtractSeedonion.description>
+  <ExtractSeedonion.jobString>挑选种子中。</ExtractSeedonion.jobString>
+
+
+</LanguageData>

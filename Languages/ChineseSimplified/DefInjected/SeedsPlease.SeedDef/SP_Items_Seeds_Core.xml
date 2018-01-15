@@ -16,9 +16,7 @@
   <SeedHaygrass.label>干草种子</SeedHaygrass.label>
   <SeedHaygrass.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedHaygrass.description>
 
-  <!--[Duplicated] <SeedHealroot.label>healroot种子</SeedHealroot.label>-->
-  <!--[Duplicated] <SeedHealroot.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedHealroot.description>-->
-
+  
   <SeedHops.label>啤酒花种子</SeedHops.label>
   <SeedHops.description>这些转基因种子能够在一个陌生的环境旺盛生长。</SeedHops.description>
 
