@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <IntakeFan.label>进气扇</IntakeFan.label>
+<IntakeFan.label>进气扇</IntakeFan.label>
   <IntakeFan.description>一个进气扇。</IntakeFan.description>
   <IntakeFan_Blueprint.label>进气扇 (蓝图)</IntakeFan_Blueprint.label>
   <IntakeFan_Blueprint_Install.label>进气扇 (蓝图)</IntakeFan_Blueprint_Install.label>

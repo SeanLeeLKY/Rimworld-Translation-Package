@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <BasicClimateControl.label>基础空气温度控制</BasicClimateControl.label>
+  <BasicClimateControl.description>建造基本的集中供热和冷却系统来调整殖民地温度。</BasicClimateControl.description>
+
+  <IndustrialClimateControl.label>工业级空气温度控制</IndustrialClimateControl.label>
+  <IndustrialClimateControl.description>建造大容量空气吸入和温度控制系统。</IndustrialClimateControl.description>
+
+
+</LanguageData>
