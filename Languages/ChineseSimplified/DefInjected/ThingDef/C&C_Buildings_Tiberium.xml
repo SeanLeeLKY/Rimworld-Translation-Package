@@ -1,39 +1,39 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TiberiumCraterGreen_TBNS.label>绿晶陨坑</TiberiumCraterGreen_TBNS.label>
-  <TiberiumCraterGreen_TBNS.description>一片绿色晶体陨坑。</TiberiumCraterGreen_TBNS.description>
+  <TiberiumCraterGreen_TBNS.label>绿色泰伯利亚矿坑</TiberiumCraterGreen_TBNS.label>
+  <TiberiumCraterGreen_TBNS.description>一个绿色的矿坑，顾名思义它会产生绿色泰伯利亚。 </TiberiumCraterGreen_TBNS.description>
 
-  <TiberiumCraterBlue_TBNS.label>蓝晶陨坑</TiberiumCraterBlue_TBNS.label>
-  <TiberiumCraterBlue_TBNS.description>一片美丽的蓝色晶体。</TiberiumCraterBlue_TBNS.description>
+  <TiberiumCraterBlue_TBNS.label>蓝色泰伯利亚矿坑</TiberiumCraterBlue_TBNS.label>
+  <TiberiumCraterBlue_TBNS.description>一个漂亮的蓝色矿坑，顾名思义它会产生蓝色泰伯利亚。</TiberiumCraterBlue_TBNS.description>
 
-  <TiberiumMeteor_TBNS.label>泰伯利亚陨石</TiberiumMeteor_TBNS.label>
-  <TiberiumMeteor_TBNS.description>一颗天外陨石，里面包含了各式各样的晶体物质。</TiberiumMeteor_TBNS.description>
+  <TiberiumMeteor_TBNS.label>泰伯利亚流星</TiberiumMeteor_TBNS.label>
+  <TiberiumMeteor_TBNS.description>一块外星陨石，包含了各种各样的发光水晶。有人认为它会产生泰伯利亚，但实际上并非如此。它本身不能产生任何晶体，仅仅是像坠毁的飞船碎片一样提供给你少量的各种钛矿(红色、绿色和蓝色)。这是无害的。</TiberiumMeteor_TBNS.description>
 
-  <TiberiumMonolith_TBNS.label>蓝色泰伯利亚晶柱</TiberiumMonolith_TBNS.label>
-  <TiberiumMonolith_TBNS.description>一颗钻出地面的蓝色泰伯利亚晶体柱。</TiberiumMonolith_TBNS.description>
+  <TiberiumMonolith_TBNS.label>蓝色泰伯利亚巨石</TiberiumMonolith_TBNS.label>
+  <TiberiumMonolith_TBNS.description>一块从地下长出的蓝色泰伯利亚巨石，会产生蓝色泰伯利亚。</TiberiumMonolith_TBNS.description>
 
-  <BlossomTree_TBNS.label>布洛瑟母树</BlossomTree_TBNS.label>
-  <BlossomTree_TBNS.description>一颗奇怪的外星树木，看起来它能够加速周围的绿晶生长</BlossomTree_TBNS.description>
+  <BlossomTree_TBNS.label>开花树</BlossomTree_TBNS.label>
+  <BlossomTree_TBNS.description>一颗奇异的树。这是泰伯利亚豆荚的唯一来源。 </BlossomTree_TBNS.description>
 
   <TiberiumShard_TBNS.label>泰伯利亚碎片</TiberiumShard_TBNS.label>
-  <TiberiumShard_TBNS.description>一大块外星陨石碎片，看起来很不寻常。</TiberiumShard_TBNS.description>
+  <TiberiumShard_TBNS.description>一个少见的太空碎片，它会产生红色泰伯利亚。</TiberiumShard_TBNS.description>
 
-  <Veinhole_TBNS.label>血肉兽穴</Veinhole_TBNS.label>
-  <Veinhole_TBNS.description>一个血肉兽的巢穴。由泰伯利亚物质从外星带来，在兽穴的周围会生长出大量的藤脉，但是要小心附近游荡的奇怪生物，而且如果过于靠近兽穴，可能会引发兽穴喷射大量有毒物质。</Veinhole_TBNS.description>
+  <Veinhole_TBNS.label>藤蔓洞穴</Veinhole_TBNS.label>
+  <Veinhole_TBNS.description>藤蔓洞穴是一种独立的物种, 它会产生泰伯利亚藤蔓和藤蔓洞穴的卵，也能创造出会攻击周围一定范围内所有生命体的藤蔓节点。摧毁藤蔓洞穴将杀死它周围所有的藤蔓和藤蔓节点。藤蔓洞穴有时也会吞噬靠近它的美味，或者说就是你的殖民者们。\n\n要小心他造成的钝器伤害，同时太过靠近也会受到有毒气体的感染。</Veinhole_TBNS.description>
 
-  <TiberiumTower_TBNS.label>绿色泰伯利亚晶塔</TiberiumTower_TBNS.label>
-  <TiberiumTower_TBNS.description>一根从地下生出的晶塔，看起来需要很长时间才能形成这种东西。</TiberiumTower_TBNS.description>
+  <TiberiumTower_TBNS.label>绿色水晶塔</TiberiumTower_TBNS.label>
+  <TiberiumTower_TBNS.description>从地面升起的绿色水晶塔，这些结构通常需要数年才能形成。它类似于巨大的石块，但它并不产生任何的泰伯利亚，本质上来说仅仅是一个装饰。 </TiberiumTower_TBNS.description>
 
-  <TiberiumGeyser.label>泰伯利亚喷泉</TiberiumGeyser.label>
-  <TiberiumGeyser.description>这个地热喷泉被泰伯利亚物质感染了。它周围的地面非常的不稳定，从它旁边走过可能会引起泰伯利亚毒气泄漏。它是泰伯利亚精炼塔的绝佳基址。</TiberiumGeyser.description>
+  <TiberiumGeyser.label>泰伯利亚蒸汽泉</TiberiumGeyser.label>
+  <TiberiumGeyser.description>这个气泉已经被泰伯利亚感染，它的周围变得极不稳定，会因为走动导致泰伯利亚气体从裂缝中释放出来。可以用于建造泰伯利亚采气井。</TiberiumGeyser.description>
 
   <TiberiumCrack.label>泰伯利亚裂隙</TiberiumCrack.label>
 
-  <VeinholeHub_TBNS.label>兽穴节点</VeinholeHub_TBNS.label>
-  <VeinholeHub_TBNS.description>一个很像血肉兽穴的奇怪地穴，会攻击站在它附近的一切生物。</VeinholeHub_TBNS.description>
+  <VeinholeHub_TBNS.label>藤蔓节点</VeinholeHub_TBNS.label>
+  <VeinholeHub_TBNS.description>藤蔓的这一结构将会攻击它周围一个圆形区域内所有可见的生命体。</VeinholeHub_TBNS.description>
 
-  <VeinTentacle.label>藤脉触须</VeinTentacle.label>
+  <VeinTentacle.label>藤蔓触手</VeinTentacle.label>
 
 
 </LanguageData>

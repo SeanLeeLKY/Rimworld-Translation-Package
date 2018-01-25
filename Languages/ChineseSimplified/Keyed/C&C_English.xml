@@ -1,12 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Tiberium_Damages_Structures>泰伯利亚损伤建筑物</Tiberium_Damages_Structures>
-  <Tiberium_Damages_Structures_Desc>决定泰伯利亚是否损伤建筑物。</Tiberium_Damages_Structures_Desc>
-  <Tiberium_Damages_Items>泰伯利亚损伤物品</Tiberium_Damages_Items>
-  <Tiberium_Damages_Items_Desc>决定泰伯利亚是否损伤物品。</Tiberium_Damages_Items_Desc>
-  <MessageTiberiumSuitLeak>泰伯利亚防护服泄漏！</MessageTiberiumSuitLeak>
-  <MustPlaceOnTiberiumGeyser>必须放置于泰伯利亚喷泉之上。</MustPlaceOnTiberiumGeyser>
-  <CannotReachTiberium>泰伯利亚成瘾的成员无法接触到泰伯利亚！</CannotReachTiberium>
+  <MessageTiberiumSuitLeak>Tiberium protection suit is leaking!</MessageTiberiumSuitLeak>
+  <MustPlaceOnTiberiumGeyser>This must be placed on a Tiberium geyser.</MustPlaceOnTiberiumGeyser>
+  <CannotReachTiberium>Tiberium addicted pawn cannot reach Tiberium!</CannotReachTiberium>
+  <VeinHubSpawned>A veinhub has been spawned by a Veinhole!</VeinHubSpawned>
+  <MessagePawnEaten>A pawn has been eaten by a Veinhole, should've been more careful!</MessagePawnEaten>
+  <VisceroidUsedToBeLabel>This Visceroid used to be </VisceroidUsedToBeLabel>
+
+  <UseProducerCapLabel>Tiberium Producer-Cap</UseProducerCapLabel>
+  <UseProducerCapDesc>Limit the amount of Tiberium Producers that can spawn by event.</UseProducerCapDesc>
+  <TiberiumProducersAmtLabel>Tiberium Producer Amount</TiberiumProducersAmtLabel>
+  <TiberiumProducersAmtDesc>Set the amount of Tiberium Producers that can spawn.</TiberiumProducersAmtDesc>
+  <UseSpreadRadiusLabel>Use Spread Radius</UseSpreadRadiusLabel>
+  <UseSpreadRadiusDesc>This makes Tiberium only spread in a certain radius around producers.</UseSpreadRadiusDesc>
+
+
+  <BuildingDamage>Tiberium Damages Structures:</BuildingDamage>
+  <BuildingDamageDesc>Activate this to let Tiberium damage any structure.</BuildingDamageDesc>
+  <EntityDamage>Tiberium Damages Entities:</EntityDamage>
+  <EntityDamageDesc>Activate this to let Tiberium damage any item or object.</EntityDamageDesc>
+  <TiberiumTileInfestation>Tiberium Infestation at: </TiberiumTileInfestation>
+  <TiberiumTileInfestationFull>Tiberium Infestation at: 100%</TiberiumTileInfestationFull>
 
 </LanguageData>

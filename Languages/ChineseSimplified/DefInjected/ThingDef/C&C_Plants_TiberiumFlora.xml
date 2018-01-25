@@ -2,7 +2,19 @@
 <LanguageData>
 
   <TiberiumPlant.label>泰伯利亚植物</TiberiumPlant.label>
-  <TiberiumPlant.description>风格奇特的生物。看起来是被泰伯利亚感染后形成的。</TiberiumPlant.description>
+  <TiberiumPlant.description>一株看起来很奇怪的植物，似乎含有泰伯利亚。</TiberiumPlant.description>
+
+  <TiberiumGrass.label>泰伯利亚草</TiberiumGrass.label>
+  <TiberiumGrass.description>一株像草的奇怪植物。</TiberiumGrass.description>
+
+  <TiberiumBush.label>泰伯利亚灌木</TiberiumBush.label>
+  <TiberiumBush.description>一堆由不同泰伯利亚植物组成的灌木。</TiberiumBush.description>
+
+  <TiberiumShroom.label>泰伯利亚蘑菇</TiberiumShroom.label>
+  <TiberiumShroom.description>如果它在泰伯利亚中暴露太久就会变得像蘑菇一样。</TiberiumShroom.description>
+
+  <TiberiumTree.label>泰伯利亚树</TiberiumTree.label>
+  <TiberiumTree.description>这是一颗看起来很奇怪的树，虽然他并没有什么用。</TiberiumTree.description>
 
 
 </LanguageData>

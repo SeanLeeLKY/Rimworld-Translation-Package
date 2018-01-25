@@ -2,8 +2,8 @@
 <LanguageData>
 
   <IonStorm.label>离子风暴</IonStorm.label>
-  <IonStorm.description>注意！本地区正在经历一场离子风暴，电力短缺可能会导致一些意想不到的后果！</IonStorm.description>
-  <IonStorm.endMessage>离子风暴已经结束！</IonStorm.endMessage>
+  <IonStorm.description>你的地图上已经触发了离子风暴！小心，这导致的电力中断可能会带来不必要的麻烦。 </IonStorm.description>
+  <IonStorm.endMessage>离子风暴即将结束</IonStorm.endMessage>
 
 
 </LanguageData>

@@ -3,11 +3,11 @@
 
   <!-- Crawler Egg -->
 
-  <EggCrawelerUnfertilized.label>晶蛇卵 (未受精.)</EggCrawelerUnfertilized.label>
-  <EggCrawelerUnfertilized.description>未受精的蛇卵。可以生吃，但是最好还是烹饪一下。</EggCrawelerUnfertilized.description>
+  <EggCrawelerUnfertilized.label>泰伯利亚蛇的蛋（未受精）</EggCrawelerUnfertilized.label>
+  <EggCrawelerUnfertilized.description>未受精的蛇蛋。可以生吃，但是煮熟会更好。 </EggCrawelerUnfertilized.description>
 
-  <EggCrawlerFertilized.label>晶蛇卵 (已受精.)</EggCrawlerFertilized.label>
-  <EggCrawlerFertilized.description>已受精的蛇卵。如果没有其他的问题，将会在一段时间后孵出小蛇。可以生吃，但是最好还是烹饪一下。</EggCrawlerFertilized.description>
+  <EggCrawlerFertilized.label>泰伯利亚蛇的蛋（已受精）</EggCrawlerFertilized.label>
+  <EggCrawlerFertilized.description>如果一切顺利，它会孵化成一条泰伯利亚蛇。可以生吃，但煮熟会更好。</EggCrawlerFertilized.description>
 
 
 </LanguageData>

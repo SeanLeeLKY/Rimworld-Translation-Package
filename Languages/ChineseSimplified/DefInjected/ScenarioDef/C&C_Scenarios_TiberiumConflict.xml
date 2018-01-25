@@ -1,11 +1,11 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TiberiumConflict.label>泰伯利亚冲突</TiberiumConflict.label>
-  <TiberiumConflict.description>你们四个从冷冻逃生舱醒来的时候，已经完全记不起之前发生了什么事情了。你们所在的这个地方周围都闪烁着一种奇怪的光，并且大量覆盖着各种绿色、蓝色和红色的奇怪晶体。当然，你很快就会知道这些奇怪的物质有多么危险和可怕。</TiberiumConflict.description>
-  <TiberiumConflict.scenario.name>泰伯利亚冲突</TiberiumConflict.scenario.name>
-  <TiberiumConflict.scenario.description>你们四个从冷冻逃生舱醒来的时候，已经完全记不起之前发生了什么事情了。你们所在的这个地方周围都闪烁着一种奇怪的光，并且大量覆盖着各种绿色、蓝色和红色的奇怪晶体。当然，你很快就会知道这些奇怪的物质有多么危险和可怕。</TiberiumConflict.scenario.description>
-  <TiberiumConflict.scenario.summary>四名幸存者降落在一个被泰伯利亚物质感染的星球上。</TiberiumConflict.scenario.summary>
+  <TiberiumConflict.label>泰伯利亚：求生</TiberiumConflict.label>
+  <TiberiumConflict.description>你们四人从冷冻仓内醒来。你不记得自己是何时开始沉睡的，只知道这个世界现在充满着一种陌生的辉光，它覆盖着红色、绿色和蓝色的晶体。 你很快就会知道它们的危险之处了。--翻译者：神在月</TiberiumConflict.description>
+  <TiberiumConflict.scenario.name>泰伯利亚：求生</TiberiumConflict.scenario.name>
+  <TiberiumConflict.scenario.summary>生存在泰伯利亚遗迹的四名幸存者</TiberiumConflict.scenario.summary>
+  <TiberiumConflict.scenario.description>你们四人从冷冻仓内醒来。你不记得自己是何时开始沉睡的，只知道这个世界现在充满着一种陌生的辉光，它覆盖着红色、绿色和蓝色的晶体。 你很快就会知道它们的危险之处了。--翻译者：神在月</TiberiumConflict.scenario.description>
 
 
 </LanguageData>

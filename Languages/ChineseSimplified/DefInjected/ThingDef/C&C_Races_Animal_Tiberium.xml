@@ -1,25 +1,25 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Visceroid_TBI.label>费瑟洛</Visceroid_TBI.label>
-  <Visceroid_TBI.description>一种令人望而生畏的奇怪生命体。通常是被泰伯利亚辐射杀死的生物尸体形成的。 </Visceroid_TBI.description>
-  <Visceroid_TBI_Leather.label>费瑟洛皮</Visceroid_TBI_Leather.label>
-  <Visceroid_TBI_Leather.description>费瑟洛皮</Visceroid_TBI_Leather.description>
-  <Visceroid_TBI_Leather.stuffProps.stuffAdjective>费瑟洛皮</Visceroid_TBI_Leather.stuffProps.stuffAdjective>
-  <Visceroid_TBI_Meat.label>费瑟洛肉块</Visceroid_TBI_Meat.label>
-  <Visceroid_TBI_Meat.description>费瑟洛肉块</Visceroid_TBI_Meat.description>
-  <Visceroid_TBI_Corpse.label>费瑟洛尸体</Visceroid_TBI_Corpse.label>
-  <Visceroid_TBI_Corpse.description>费瑟洛尸体</Visceroid_TBI_Corpse.description>
+  <Visceroid_TBI.label>器官兽</Visceroid_TBI.label>
+  <Visceroid_TBI.description>一个长满斑点的诡异生命体，由死去的生物被泰伯利亚改造而成。</Visceroid_TBI.description>
+  <Visceroid_TBI_Leather.label>器官兽的皮</Visceroid_TBI_Leather.label>
+  <Visceroid_TBI_Leather.description>器官兽的皮</Visceroid_TBI_Leather.description>
+  <Visceroid_TBI_Leather.stuffProps.stuffAdjective>器官兽的皮</Visceroid_TBI_Leather.stuffProps.stuffAdjective>
+  <Visceroid_TBI_Meat.label>器官兽的肉</Visceroid_TBI_Meat.label>
+  <Visceroid_TBI_Meat.description>器官兽的肉</Visceroid_TBI_Meat.description>
+  <Visceroid_TBI_Corpse.label>器官兽尸体</Visceroid_TBI_Corpse.label>
+  <Visceroid_TBI_Corpse.description>器官兽尸体</Visceroid_TBI_Corpse.description>
 
-  <Veinmonster_TBI.label>血肉兽</Veinmonster_TBI.label>
-  <Veinmonster_TBI.description>血肉兽，也被称为“肉团”或者“内脏团”，是丛生于脉藤中的奇特生物。虽然它们很小，但是一旦数量多起来，它们会变得异常危险，所以，当你看到血肉兽穴的时候，一定要小心控制它的规模，最好立刻摧毁它。</Veinmonster_TBI.description>
-  <Veinmonster_TBI_Leather.label>血肉兽皮</Veinmonster_TBI_Leather.label>
-  <Veinmonster_TBI_Leather.description>血肉兽皮</Veinmonster_TBI_Leather.description>
-  <Veinmonster_TBI_Leather.stuffProps.stuffAdjective>血肉兽皮</Veinmonster_TBI_Leather.stuffProps.stuffAdjective>
-  <Veinmonster_TBI_Meat.label>血肉兽肉块</Veinmonster_TBI_Meat.label>
-  <Veinmonster_TBI_Meat.description>血肉兽肉块</Veinmonster_TBI_Meat.description>
-  <Veinmonster_TBI_Corpse.label>血肉兽尸体</Veinmonster_TBI_Corpse.label>
-  <Veinmonster_TBI_Corpse.description>血肉兽尸体</Veinmonster_TBI_Corpse.description>
+  <Veinmonster_TBI.label>藤蔓怪</Veinmonster_TBI.label>
+  <Veinmonster_TBI.description>藤蔓怪，也被称为原器官兽，由藤蔓衍生出的生命体。他们本身的威胁很小，但当一大群聚集在一起时将拥有可怕的力量。一定要在他们数量变得太多之前摧毁那个藤蔓洞穴。</Veinmonster_TBI.description>
+  <Veinmonster_TBI_Leather.label>藤蔓怪的皮</Veinmonster_TBI_Leather.label>
+  <Veinmonster_TBI_Leather.description>藤蔓怪的皮</Veinmonster_TBI_Leather.description>
+  <Veinmonster_TBI_Leather.stuffProps.stuffAdjective>藤蔓怪的皮</Veinmonster_TBI_Leather.stuffProps.stuffAdjective>
+  <Veinmonster_TBI_Meat.label>藤蔓怪的肉</Veinmonster_TBI_Meat.label>
+  <Veinmonster_TBI_Meat.description>藤蔓怪的肉</Veinmonster_TBI_Meat.description>
+  <Veinmonster_TBI_Corpse.label>藤蔓怪尸体</Veinmonster_TBI_Corpse.label>
+  <Veinmonster_TBI_Corpse.description>藤蔓怪尸体</Veinmonster_TBI_Corpse.description>
 
 
 </LanguageData>

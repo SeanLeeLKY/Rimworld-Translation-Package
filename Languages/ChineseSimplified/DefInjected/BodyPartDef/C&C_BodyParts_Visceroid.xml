@@ -1,17 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <VisceroidBody.label>费瑟洛躯体</VisceroidBody.label>
-  <VisceroidVeins.label>脉络</VisceroidVeins.label>
+  <VisceroidBody.label>躯干</VisceroidBody.label>
+  <VisceroidVeins.label>经脉</VisceroidVeins.label>
   <VisceroidDigester.label>消化器官</VisceroidDigester.label>
   <VisceroidBreather.label>呼吸器官</VisceroidBreather.label>
-  <VisceroidOrifice.label>口孔</VisceroidOrifice.label>
-  <LeftTentacle.label>左侧触手</LeftTentacle.label>
-  <RightTentacle.label>右侧触手</RightTentacle.label>
+  <VisceroidOrifice.label>嘴</VisceroidOrifice.label>
+  <LeftTentacle.label>左部触手</LeftTentacle.label>
+  <RightTentacle.label>右部触手</RightTentacle.label>
   <MiddleTentacle.label>中部触手</MiddleTentacle.label>
-  <VeinmonsterMouth.label>口器</VeinmonsterMouth.label>
+  <VeinmonsterMouth.label>嘴</VeinmonsterMouth.label>
   <MiddleEye.label>眼</MiddleEye.label>
-  <VeinmonsterBody.label>血肉兽躯体</VeinmonsterBody.label>
+  <VeinmonsterBody.label>躯干</VeinmonsterBody.label>
 
 
 </LanguageData>

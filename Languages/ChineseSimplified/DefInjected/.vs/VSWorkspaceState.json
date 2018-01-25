@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\JobDef",
+    "\\KeyBindingCategoryDef",
+    "\\NeedDef",
+    "\\PawnKindDef",
+    "\\RecipeDef",
+    "\\ResearchProjectDef",
+    "\\ResearchTabDef",
+    "\\ScenarioDef",
+    "\\ThingDef"
+  ],
+  "SelectedNode": "\\ThingDef\\Races_Tiberium_Fiends.xml",
+  "PreviewInSolutionExplorer": false
+}

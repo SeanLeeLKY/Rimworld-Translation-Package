@@ -1,15 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TiberiumResearchBench.label>泰伯利亚研究站</TiberiumResearchBench.label>
-  <TiberiumResearchBench.description>一个用于泰伯利亚科技的研究台。\n\n高科技工具能够加快研究速度。\n\n需要电力才能工作。</TiberiumResearchBench.description>
-  <TiberiumResearchBench_Blueprint.label>泰伯利亚研究站 (蓝图)</TiberiumResearchBench_Blueprint.label>
-  <TiberiumResearchBench_Frame.label>泰伯利亚研究站 (建造中)</TiberiumResearchBench_Frame.label>
+  <TiberiumResearchBench.label>泰伯利亚研究台</TiberiumResearchBench.label>
+  <TiberiumResearchBench.description>一个专门用于研究泰伯利亚科技的设施。\n\n使用高科技加快了研究速度。\n\n需要消耗电力。</TiberiumResearchBench.description>
+  <TiberiumResearchBench_Blueprint.label>泰伯利亚研究台（蓝图）</TiberiumResearchBench_Blueprint.label>
+  <TiberiumResearchBench_Frame.label>泰伯利亚研究台（建造中）</TiberiumResearchBench_Frame.label>
+  <TiberiumResearchBench_Frame.description>一个专门用于研究泰伯利亚科技的设施。\n\n使用高科技加快了研究速度。\n\n需要消耗电力。</TiberiumResearchBench_Frame.description>
 
-  <TiberiumResearchCraftingBench.label>泰伯利亚研制中心</TiberiumResearchCraftingBench.label>
-  <TiberiumResearchCraftingBench.description>这个建筑物用于制造泰伯利亚物品。</TiberiumResearchCraftingBench.description>
-  <TiberiumResearchCraftingBench_Blueprint.label>泰伯利亚研制中心 (蓝图)</TiberiumResearchCraftingBench_Blueprint.label>
-  <TiberiumResearchCraftingBench_Frame.label>泰伯利亚研制中心 (建造中)</TiberiumResearchCraftingBench_Frame.label>
+  <TiberiumResearchCraftingBench.label>泰伯利亚研究制作适配器</TiberiumResearchCraftingBench.label>
+  <TiberiumResearchCraftingBench.description>这个建筑可以制作泰矿物品。</TiberiumResearchCraftingBench.description>
+  <TiberiumResearchCraftingBench_Blueprint.label>泰伯利亚研究制作适配器（蓝图）</TiberiumResearchCraftingBench_Blueprint.label>
+  <TiberiumResearchCraftingBench_Frame.label>泰伯利亚研究制作适配器（建造中）</TiberiumResearchCraftingBench_Frame.label>
+  <TiberiumResearchCraftingBench_Frame.description>这个建筑可以制作泰矿物品。</TiberiumResearchCraftingBench_Frame.description>
 
 
 </LanguageData>

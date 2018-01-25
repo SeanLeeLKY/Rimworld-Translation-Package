@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TiberiumGreen.label>绿色泰伯利亚</TiberiumGreen.label>
+  <TiberiumGreen.description>一个发光的绿色水晶，看起来怪怪的。去接触它可能很危险。绿色泰伯利亚是最常见的，传播的很快而且能感染一切物质，可以提炼出钢铁。</TiberiumGreen.description>
+
+  <TiberiumPod.label>泰伯利亚豆荚</TiberiumPod.label>
+  <TiberiumPod.description>一个发光的绿色晶体, 从连接在地上的豆荚中生长出来，看起来很奇怪。去接触它可能很危险。\n\n泰伯利亚豆荚更像是泰伯利亚的原始存在形态，它比蓝色的泰伯利亚扩散的更慢一些，只能在被感染的地形上生长，同时可以产出绿色泰伯利亚。它只会感染物体但对生物来说仍然有毒。</TiberiumPod.description>
+
+  <TiberiumBlue.label>蓝色泰伯利亚</TiberiumBlue.label>
+  <TiberiumBlue.description>一个发光的蓝色晶体，看起来是那么的美丽又充满了未知。蓝色泰伯利亚比绿色更危险，虽然它扩散缓慢但是会发生爆炸。可以提炼出玻璃钢。</TiberiumBlue.description>
+
+  <TiberiumRed.label>红色泰伯利亚</TiberiumRed.label>
+  <TiberiumRed.description>一个发光的红色晶体，看起来是那么的美丽又充满了未知。\n\n红色泰伯利亚极为罕见并且生长缓慢，可以从中提取出黄金和铀。</TiberiumRed.description>
+
+  <TiberiumDesertGreen.label>绿色泰伯利亚碎片</TiberiumDesertGreen.label>
+  <TiberiumDesertGreen.description>从沙子里长出来的绿色碎片，看起来不稳定。泰矿碎片是沙漠中泰伯利亚的存在形态，它们只能由更大的晶体碎片产生，当他们在沙子附近时，只能散布在沙粒表层。它们生长缓慢，看起来不怎么健康，但仍然有毒性。如果收获及时也可以得到泰伯利亚，但他们本身不感染任何东西。 </TiberiumDesertGreen.description>
+
+  <TiberiumDesertBlue.label>蓝色泰伯利亚碎片</TiberiumDesertBlue.label>
+  <TiberiumDesertBlue.description>从沙子里长出来的蓝色碎片，看起来不稳定。泰矿碎片是沙漠中泰伯利亚的存在形态，它们只能由更大的晶体碎片产生，当他们在沙子附近时，只能散布在沙粒表层。它们生长缓慢，看起来不怎么健康，但仍然有毒性。如果收获及时也可以得到泰伯利亚，但他们本身不感染任何东西。</TiberiumDesertBlue.description>
+
+  <TiberiumDesertRed.label>红色泰伯利亚碎片</TiberiumDesertRed.label>
+  <TiberiumDesertRed.description>从沙子里长出来的红色碎片，看起来不稳定。泰矿碎片是沙漠中泰伯利亚的存在形态，它们只能由更大的晶体碎片产生，当他们在沙子附近时，只能散布在沙粒表层。它们生长缓慢，看起来不怎么健康，但仍然有毒性。如果收获及时也可以得到泰伯利亚，但他们本身不感染任何东西。</TiberiumDesertRed.description>
+
+
+  <!-- Tiberium Moss -->
+
+  <TiberiumMossGreen.label>绿色泰伯利亚苔藓</TiberiumMossGreen.label>
+  <TiberiumMossGreen.description>一块苔藓覆盖着这里，它看起来有很高的毒性。\n\n泰伯利亚苔藓是有毒的，同时没有任何用处，它不能被收获，只生长在岩石地形或苔藓地上。它不生成晶体或同化其他地形，如水、土壤和沙子。</TiberiumMossGreen.description>
+
+  <TiberiumMossBlue.label>蓝色泰伯利亚苔藓</TiberiumMossBlue.label>
+  <TiberiumMossBlue.description>一块苔藓覆盖着这里，它看起来有很高的毒性。\n\n泰伯利亚苔藓是有毒的，同时没有任何用处，它不能被收获，只生长在岩石地形或苔藓地上。它不生成晶体或同化其他地形，如水、土壤和沙子。</TiberiumMossBlue.description>
+
+  <TiberiumGlacier.label>泰伯利亚冰川</TiberiumGlacier.label>
+  <TiberiumGlacier.description>巨大的地层结晶水。\n\n泰伯利亚冰川只生长在水中以及曾存在过泰伯利亚的某些水下地形上。它们的形态很不成熟，没有任何用处，也无法进一步扩散。</TiberiumGlacier.description>
+
+  <TiberiumVein.label>藤蔓</TiberiumVein.label>
+  <TiberiumVein.description>一种跳动着的红褐色纤维质藤蔓。它从藤蔓洞穴中长出来。\n\n只能由藤蔓洞穴产生，会对生物造成物理伤害，但在那之后将会消失。 </TiberiumVein.description>
+
+
+  <!-- Decorative -->
+
+  <PlantGreenTiberium.label>绿色泰伯利亚</PlantGreenTiberium.label>
+  <PlantGreenTiberium.description>一个漂亮的绿色水晶，当贴近你的脸时会感觉很温暖。</PlantGreenTiberium.description>
+
+  <PlantBlueTiberium.label>蓝色泰伯利亚</PlantBlueTiberium.label>
+  <PlantBlueTiberium.description>一个漂亮的蓝色水晶，当贴近你的脸时会感觉很温暖。</PlantBlueTiberium.description>
+
+  <PlantRedTiberium.label>红色泰伯利亚</PlantRedTiberium.label>
+  <PlantRedTiberium.description>一个漂亮的红色水晶，当贴近你的脸时会感觉很温暖。</PlantRedTiberium.description>
+
+
+</LanguageData>

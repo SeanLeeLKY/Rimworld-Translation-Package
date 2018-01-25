@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These are Mote ThingDefs. Remain the same, DO NOT translate them. -->
+
+  <Mote_BlastSound.label>粉尘</Mote_BlastSound.label>
+  <Mote_BlastWave.label>粉尘</Mote_BlastWave.label>
+  <Mote_TiberiumGas.label>粉尘</Mote_TiberiumGas.label>
+  <Mote_Nuke.label>粉尘</Mote_Nuke.label>
+
+
+</LanguageData>

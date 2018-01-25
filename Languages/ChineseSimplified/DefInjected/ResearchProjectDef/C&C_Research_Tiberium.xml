@@ -2,22 +2,22 @@
 <LanguageData>
 
   <TiberiumResearch.label>泰伯利亚基础研究</TiberiumResearch.label>
-  <TiberiumResearch.description>解锁泰伯利亚技术研究:\n\n -允许建造泰伯利亚研究建筑。</TiberiumResearch.description>
+  <TiberiumResearch.description>允许进行泰伯利亚科技的研究：建造泰伯利亚研究台</TiberiumResearch.description>
 
   <TiberiumKnowledge.label>泰伯利亚知识</TiberiumKnowledge.label>
-  <TiberiumKnowledge.description>了解泰伯利亚晶体的基本知识:\n\n -允许建造泰伯利亚研究物品制作台(TRCA) \n\n -解锁在TRCA制作泰伯利亚（传奇）之书\n\n -解锁在TRCA制作泰伯利亚防护服。</TiberiumKnowledge.description>
+  <TiberiumKnowledge.description>学习泰伯利亚知识：建造泰伯利亚研究制作适配器 \n\n -在TRCA制作泰伯利亚书籍\n\n -在TRCA制作泰伯利亚防护套装</TiberiumKnowledge.description>
 
-  <TiberiumResearchRefining.label>泰晶精炼技术</TiberiumResearchRefining.label>
-  <TiberiumResearchRefining.description>理解泰伯利亚晶体精炼技术。\n\n -允许建造泰伯利亚精炼厂。</TiberiumResearchRefining.description>
+  <TiberiumResearchRefining.label>泰伯利亚精炼</TiberiumResearchRefining.label>
+  <TiberiumResearchRefining.description>允许对泰伯利亚进行精炼\n\n -建造泰伯利亚精炼厂</TiberiumResearchRefining.description>
 
-  <TiberiumPower.label>泰晶能量技术</TiberiumPower.label>
-  <TiberiumPower.description>理解泰晶的能量构成，允许建造泰伯利亚发电站，解锁制作泰伯利亚燃料。</TiberiumPower.description>
+  <TiberiumPower.label>泰伯利亚电力</TiberiumPower.label>
+  <TiberiumPower.description>允许建造泰伯利亚发电站和提炼泰伯利亚燃料。</TiberiumPower.description>
 
-  <TiberiumInhibition.label>泰晶抑制技术</TiberiumInhibition.label>
-  <TiberiumInhibition.description>削弱泰伯利亚晶体的活力，抑制其进一步生长:\n\n -允许建造深地层冻结装置。</TiberiumInhibition.description>
+  <TiberiumInhibition.label>泰伯利亚抑制</TiberiumInhibition.label>
+  <TiberiumInhibition.description>利用泰伯利亚的特性阻止其进一步蔓延:\n\n -建造深层冷冻器</TiberiumInhibition.description>
 
-  <TiberiumInhibitionTribal.label>简易泰晶阻生器</TiberiumInhibitionTribal.label>
-  <TiberiumInhibitionTribal.description>简易方便的地面冰冻箱，它能以自己为中心，在小范围内形成一个有时间限制的土壤冰冻区域。原始但是方便有效的技术，紧急情况下可以迅速降低泰晶的危害。</TiberiumInhibitionTribal.description>
+  <TiberiumInhibitionTribal.label>泰伯利亚生长阻碍</TiberiumInhibitionTribal.label>
+  <TiberiumInhibitionTribal.description>你的部落发现了一种聪明的方法来减少泰伯利亚威胁：一个可以在小范围内冻结地面的冰箱子。</TiberiumInhibitionTribal.description>
 
 
 </LanguageData>

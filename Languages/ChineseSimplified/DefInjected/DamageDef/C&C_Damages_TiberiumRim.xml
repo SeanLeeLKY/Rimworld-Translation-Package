@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <TRRailgun.label>轨道炮</TRRailgun.label>
+  <TRRailgun.deathMessage>{0}死于轨道炮射击。</TRRailgun.deathMessage>
+
+  <TRLaser.label>激光</TRLaser.label>
+  <TRLaser.deathMessage>{0}死于激光穿透。</TRLaser.deathMessage>
+
+  <TRSound.label>音爆</TRSound.label>
+  <TRSound.deathMessage>{0}死于声波冲击。</TRSound.deathMessage>
+
+  <TRTiberiumBomb.label>泰伯利亚爆炸</TRTiberiumBomb.label>
+  <TRTiberiumBomb.deathMessage>{0}死于泰伯利亚瓦斯。</TRTiberiumBomb.deathMessage>
+
+  <TRTiberiumshotGreen.label>泰伯利亚爆炸</TRTiberiumshotGreen.label>
+  <TRTiberiumshotGreen.deathMessage>{0}死于泰伯利亚瓦斯。</TRTiberiumshotGreen.deathMessage>
+
+  <TRTiberiumShotBlue.label>泰伯利亚爆炸</TRTiberiumShotBlue.label>
+  <TRTiberiumShotBlue.deathMessage>{0}死于泰伯利亚瓦斯。</TRTiberiumShotBlue.deathMessage>
+
+  <TRNuke.label>核武器</TRNuke.label>
+  <TRNuke.deathMessage>{0} 死于核爆。 </TRNuke.deathMessage>
+
+
+  <!-- only specialized siege attack -->
+
+  <TRSiege.label>地震波</TRSiege.label>
+  <TRSiege.deathMessage>{0}死于地震</TRSiege.deathMessage>
+
+
+</LanguageData>

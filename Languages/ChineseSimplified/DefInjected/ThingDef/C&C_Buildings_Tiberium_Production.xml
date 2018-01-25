@@ -2,19 +2,22 @@
 <LanguageData>
 
   <TiberiumRefinery.label>泰伯利亚精炼厂</TiberiumRefinery.label>
-  <TiberiumRefinery.description>一种特殊的化学处理设备。能够将完整的泰伯利亚晶体转化成为可以使用的资源。</TiberiumRefinery.description>
-  <TiberiumRefinery_Blueprint.label>泰伯利亚精炼厂 (蓝图)</TiberiumRefinery_Blueprint.label>
-  <TiberiumRefinery_Frame.label>泰伯利亚精炼厂 (建造中)</TiberiumRefinery_Frame.label>
+  <TiberiumRefinery.description>一个专业的化工精炼厂。用于把致命的泰伯利亚提炼成有用的资源。</TiberiumRefinery.description>
+  <TiberiumRefinery_Blueprint.label>泰伯利亚精炼厂（蓝图）</TiberiumRefinery_Blueprint.label>
+  <TiberiumRefinery_Frame.label>泰伯利亚精炼厂（建造中）</TiberiumRefinery_Frame.label>
+  <TiberiumRefinery_Frame.description>一个专业的化工精炼厂。用于把致命的泰伯利亚提炼成有用的资源。</TiberiumRefinery_Frame.description>
 
-  <TiberiumPowerPlant.label>泰伯利亚电站</TiberiumPowerPlant.label>
-  <TiberiumPowerPlant.description>利用泰伯利亚燃料产生的化学反应生产电力。必须手动添加燃料。</TiberiumPowerPlant.description>
-  <TiberiumPowerPlant_Blueprint.label>泰伯利亚电站 (蓝图)</TiberiumPowerPlant_Blueprint.label>
-  <TiberiumPowerPlant_Frame.label>泰伯利亚电站 (建造中)</TiberiumPowerPlant_Frame.label>
+  <TiberiumPowerPlant.label>泰伯利亚发电厂</TiberiumPowerPlant.label>
+  <TiberiumPowerPlant.description>消耗泰伯利亚燃料产生电力，必须手动补充燃料。</TiberiumPowerPlant.description>
+  <TiberiumPowerPlant_Blueprint.label>泰伯利亚发电厂（蓝图）</TiberiumPowerPlant_Blueprint.label>
+  <TiberiumPowerPlant_Frame.label>泰伯利亚发电厂（建造中）</TiberiumPowerPlant_Frame.label>
+  <TiberiumPowerPlant_Frame.description>消耗泰伯利亚燃料产生电力，必须手动补充燃料。</TiberiumPowerPlant_Frame.description>
 
-  <TiberiumSpike.label>泰伯利亚精炼塔</TiberiumSpike.label>
-  <TiberiumSpike.description>一个能缓慢的产生泰伯利亚晶体的建筑。</TiberiumSpike.description>
-  <TiberiumSpike_Blueprint.label>泰伯利亚精炼塔 (蓝图)</TiberiumSpike_Blueprint.label>
-  <TiberiumSpike_Frame.label>泰伯利亚精炼塔 (建造中)</TiberiumSpike_Frame.label>
+  <TiberiumSpike.label>泰伯利亚采气井</TiberiumSpike.label>
+  <TiberiumSpike.description>缓慢生产未加工的泰伯利亚。</TiberiumSpike.description>
+  <TiberiumSpike_Blueprint.label>泰伯利亚采气井（蓝图）</TiberiumSpike_Blueprint.label>
+  <TiberiumSpike_Frame.label>泰伯利亚采气井（建造中）</TiberiumSpike_Frame.label>
+  <TiberiumSpike_Frame.description>缓慢生产未加工的泰伯利亚。</TiberiumSpike_Frame.description>
 
 
 </LanguageData>

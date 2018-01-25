@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <DoBillsTibRefinery.label>在泰伯利亚精炼厂工作</DoBillsTibRefinery.label>
-  <DoBillsTibRefinery.verb>精炼泰矿</DoBillsTibRefinery.verb>
-  <DoBillsTibRefinery.gerund>精炼泰矿于</DoBillsTibRefinery.gerund>
+  <DoBillsTibRefinery.label>泰伯利亚精炼厂</DoBillsTibRefinery.label>
+  <DoBillsTibRefinery.verb>提炼泰伯利亚</DoBillsTibRefinery.verb>
+  <DoBillsTibRefinery.gerund>工作于</DoBillsTibRefinery.gerund>
 
-  <DoBillsTibResearch.label>在泰伯利亚研究站工作</DoBillsTibResearch.label>
-  <DoBillsTibResearch.verb>制作泰伯利亚物品</DoBillsTibResearch.verb>
-  <DoBillsTibResearch.gerund>制作泰伯利亚物品于</DoBillsTibResearch.gerund>
+  <DoBillsTibResearch.label>泰伯利亚研究台工作</DoBillsTibResearch.label>
+  <DoBillsTibResearch.verb>提炼泰伯利亚</DoBillsTibResearch.verb>
+  <DoBillsTibResearch.gerund>工作于</DoBillsTibResearch.gerund>
 
 
 </LanguageData>
