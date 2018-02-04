@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RPG7 -->
+
+  <Bullet_RNRPG7Rocket.label>火箭</Bullet_RNRPG7Rocket.label>
+
+  <Gun_RPG7Launcher.label>RPG-7火箭助推榴弹</Gun_RPG7Launcher.label>
+  <Gun_RPG7Launcher.description>RPG的全称是火箭弹 Propelled Grenade(便携式)火箭助推榴弹发射器，通常简称为RPG或火箭筒。这种武器源自于二战德国的铁拳反坦克火箭弹，在冷战时期的苏联得到了巨大的发展。这是一个庞大的反装甲火箭助推式榴弹家族，其中最杰出的代表就是RPG-7型火箭筒，自其问世以来，世界上有107个国家拥有和生产了数以百万计的RPG-7火箭筒和它的改进型号，是世界上应用最广泛的“重型”武器。</Gun_RPG7Launcher.description>
+  <Gun_RPG7Launcher.tools.0.label>炮筒</Gun_RPG7Launcher.tools.0.label>
+
+
+  <!-- LAW -->
+
+  <Bullet_RNM72LAWRocket.label>火箭弹</Bullet_RNM72LAWRocket.label>
+
+  <Gun_M72LAWLauncher.label>M72 LAW</Gun_M72LAWLauncher.label>
+  <Gun_M72LAWLauncher.description>M72式LAW，LAW即轻型反坦克武器Light Anti-Tank Weapon、或称轻型反装甲武器Light Anti-Armor Weapon，简称 LAW 或 LAWS （轻型反坦克武器系统）。其最大的特点是采用了一种创新的概念：预封装的可发射的火箭和使用后即弃的发射器。由于携带和使用相当方便，	M72受到广泛欢迎。</Gun_M72LAWLauncher.description>
+  <Gun_M72LAWLauncher.tools.0.label>炮筒</Gun_M72LAWLauncher.tools.0.label>
+
+
+  <!-- RPG-27 -->
+
+  <Bullet_RNRPG27Rocket.label>火箭弹</Bullet_RNRPG27Rocket.label>
+
+  <Gun_RPG27Launcher.label>RPG-27</Gun_RPG27Launcher.label>
+  <Gun_RPG27Launcher.description>塔沃尔加РПГ－27(俄文：Реакт ивныйПротивотанковыйГрантомётТаволгаРПГ-27)式火箭筒是俄罗斯研制的一种单发型单兵手持式反坦克武器，通常配装105mm穿甲火箭弹，用于对抗坦克、步兵战车、装甲人员输送车、自行火炮和其他装甲目标。</Gun_RPG27Launcher.description>
+  <Gun_RPG27Launcher.tools.0.label>炮筒</Gun_RPG27Launcher.tools.0.label>
+
+
+  <!-- AT4 -->
+
+  <Bullet_RNAT4Rocket.label>火箭弹</Bullet_RNAT4Rocket.label>
+
+  <Gun_AT4Launcher.label>AT4反坦克火箭筒</Gun_AT4Launcher.label>
+  <Gun_AT4Launcher.description>M136 AT4火箭筒属于预装弹、射击后可抛弃的一次性使用武器，采用无后坐力炮发射原理。其机械瞄准具由山字形准星和可调的同心内外环照门组成，也可使用微光瞄准镜和光电火控系统。在美国陆军的部队中，大多数已经换装了AT4火箭筒，而淘汰了M72 LAW。</Gun_AT4Launcher.description>
+  <Gun_AT4Launcher.tools.0.label>炮筒</Gun_AT4Launcher.tools.0.label>
+
+
+  <!-- China Lake -->
+
+  <!--[Duplicated] <Proj_RNNadeRound.label>grenade</Proj_RNNadeRound.label>-->
+
+  <Gun_ChinaLakeLauncher.label>中国湖泵动式榴弹发射器</Gun_ChinaLakeLauncher.label>
+  <Gun_ChinaLakeLauncher.description>全称为China Lake Pump-Action Grenade Launcher，是一种由美国军队特别项目部之一的中国湖海军武器中心于1968年开发和生产的手提型泵动式连发型榴弹发射器，发射40毫米榴弹。</Gun_ChinaLakeLauncher.description>
+  <Gun_ChinaLakeLauncher.tools.0.label>炮筒</Gun_ChinaLakeLauncher.tools.0.label>
+
+
+  <!-- M320 -->
+
+  <!--[Duplicated] <Proj_RNNadeRound.label>grenade</Proj_RNNadeRound.label>-->
+
+  <Gun_M320Launcher.label>M320榴弹发射器</Gun_M320Launcher.label>
+  <Gun_M320Launcher.description>M320榴弹发射器是美国军队配备的一种单兵便携式、枪体下挂式一体榴弹发射器。</Gun_M320Launcher.description>
+  <Gun_M320Launcher.tools.0.label>炮筒</Gun_M320Launcher.tools.0.label>
+
+
+  <!-- HK69A1 -->
+
+  <!--[Duplicated] <Proj_RNNadeRound.label>grenade</Proj_RNNadeRound.label>-->
+
+  <Gun_HK69A1Launcher.label>HK69A1榴弹发射器</Gun_HK69A1Launcher.label>
+  <Gun_HK69A1Launcher.description>一种可独立使用的手持式榴弹发射器，亦被称为“榴弹手枪”（Grenade pistol）。HK69A1榴弹发射器于1979年设计定型，同年被德军采用，80年代初正式装备德军，沙特阿拉伯和斯里兰卡等许多国家也采用该型榴弹发射器。</Gun_HK69A1Launcher.description>
+  <Gun_HK69A1Launcher.tools.0.label>炮筒</Gun_HK69A1Launcher.tools.0.label>
+
+
+  <!-- XM25 -->
+
+  <!--[Duplicated] <Proj_RNNadeRound.label>grenade</Proj_RNNadeRound.label>-->
+
+  <Gun_XM25Launcher.label>XM25 CDTE</Gun_XM25Launcher.label>
+  <Gun_XM25Launcher.description>XM25空爆弹发射器（XM25 Air-Burst Assault Weapon）是由ATK开发的一种CDTE(Counter Defilade Target Engagement System，反防御目标应对系统)，发射25毫米电子引信榴弹，可通过设定火控系统令引信榴弹在目标空中引爆，比传统榴弹有更大的范围杀伤力。</Gun_XM25Launcher.description>
+  <Gun_XM25Launcher.tools.0.label>炮筒</Gun_XM25Launcher.tools.0.label>
+
+
+  <!-- MGL -->
+
+  <Proj_RNNadeRound.label>手榴弹</Proj_RNNadeRound.label>
+
+  <Gun_MGLLauncher.label>MGL榴弹发射器</Gun_MGLLauncher.label>
+  <Gun_MGLLauncher.description>MGL 40mm榴弹发射器是目前世界上产量最大的40mm连发式便携榴弹发射器，由南非阿姆斯科公司（Armscor, ZA，后改名为米尔科姆公司Milkor, ZA）于1983年投产，在南非国防军服役超过二十年，最初命名为Y2，后来正式改名为MGL。MGL至今已经被超过30个国家所采用，参与过从丛林到沙漠等不同恶劣环境下的实战。与其他40mm榴弹发射器相比，MGL有6发容弹量，能在3秒内打完6发榴弹，因此在伏击或快速通过城市的战斗中相当有用。MGL系列有多种改进型，其中新型的MGL-140由于《变形金刚》真人电影版中作为对付外星机械生命体的大杀器而备爱瞩目。</Gun_MGLLauncher.description>
+  <Gun_MGLLauncher.tools.0.label>炮筒</Gun_MGLLauncher.tools.0.label>
+
+
+  <!-- Railgun -->
+
+  <Bullet_RNRailgunCharge.label>能量束</Bullet_RNRailgunCharge.label>
+
+  <Gun_RNRailgun.label>磁轨炮</Gun_RNRailgun.label>
+  <Gun_RNRailgun.description>电磁炮，或称磁轨炮（RailGun），是一种利用电磁对实弹弹头进行加速的装置，即利用电磁发射技术制成的一种先进的动能杀伤武器。与传统武器通过火药燃气压力作用于弹头不同，轨道炮是利用电磁系统中电磁场的作用力，其作用的时间要长得多，可大大提高弹丸的速度和射程。</Gun_RNRailgun.description>
+  <Gun_RNRailgun.tools.0.label>炮筒</Gun_RNRailgun.tools.0.label>
+
+
+</LanguageData>

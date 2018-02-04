@@ -1,0 +1,301 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- MP5 -->
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>machine pistol bullet</Bullet_RNMachinePistol.label>-->
+
+  <Gun_RNMP5SMG.label>HK MP5冲锋枪</Gun_RNMP5SMG.label>
+  <Gun_RNMP5SMG.description>极具名气的HK MP5，一种由德国军械公司黑克勒-科赫（Heckler and Koch）所设计制造的微型冲锋枪。由于该系列冲锋枪在近距离作战中的射击精度及火力都相当可靠，因此多国的军警人员都选择将其作为制式枪械使用，该枪甚至成为了反恐怖特种部队的标志。</Gun_RNMP5SMG.description>
+  <Gun_RNMP5SMG.tools.0.label>握把</Gun_RNMP5SMG.tools.0.label>
+  <Gun_RNMP5SMG.tools.1.label>枪管</Gun_RNMP5SMG.tools.1.label>
+
+
+  <!-- MP5RedDot -->
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>machine pistol bullet</Bullet_RNMachinePistol.label>-->
+
+  <Gun_RNMP5RDotSMG.label>HK MP5冲锋枪 (带红点瞄具)</Gun_RNMP5RDotSMG.label>
+  <Gun_RNMP5RDotSMG.description>极具名气的HK MP5，一种由德国军械公司黑克勒-科赫（Heckler and Koch）所设计制造的微型冲锋枪。由于该系列冲锋枪在近距离作战中的射击精度及火力都相当可靠，因此多国的军警人员都选择将其作为制式枪械使用，该枪甚至成为了反恐怖特种部队的标志。\n这把HK MP5加装了红点式瞄准镜和红外激光标定器配件，因此提升了实战效能。</Gun_RNMP5RDotSMG.description>
+  <Gun_RNMP5RDotSMG.tools.0.label>握把</Gun_RNMP5RDotSMG.tools.0.label>
+  <Gun_RNMP5RDotSMG.tools.1.label>枪管</Gun_RNMP5RDotSMG.tools.1.label>
+
+
+  <!-- MP5SD -->
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>machine pistol bullet</Bullet_RNMachinePistol.label>-->
+
+  <Gun_RNMP5SDSMG.label>HK MP5冲锋枪 (带消声器)</Gun_RNMP5SDSMG.label>
+  <Gun_RNMP5SDSMG.description>极具名气的HK MP5系列，一种由德国军械公司黑克勒-科赫（Heckler and Koch）所设计制造的微型冲锋枪。由于该系列冲锋枪在近距离作战中的射击精度及火力都相当可靠，因此多国的军警人员都选择将其作为制式枪械使用，该枪甚至成为了反恐怖特种部队的标志。\n这种型号的HK MP5专为特种行动而进行了改造，拥有固定式枪托和特制的消声器。</Gun_RNMP5SDSMG.description>
+  <Gun_RNMP5SDSMG.tools.0.label>握把</Gun_RNMP5SDSMG.tools.0.label>
+  <Gun_RNMP5SDSMG.tools.1.label>枪管</Gun_RNMP5SDSMG.tools.1.label>
+
+
+  <!-- MPX -->
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>machine pistol bullet</Bullet_RNMachinePistol.label>-->
+
+  <Gun_RNMPXSMG.label>SIG MPX冲锋枪</Gun_RNMPXSMG.label>
+  <Gun_RNMPXSMG.description>MPX是由西格-绍尔武器公司（SIG-Sauer）于2013年推出的一款高度模块化设计的系列冲锋枪，它易于操作，而且可靠性和精准度都相当不错。很显然地，这种新型冲锋枪的设计目的正是作为枪械市场上著名的HK MP5冲锋枪的竞争对手。</Gun_RNMPXSMG.description>
+  <Gun_RNMPXSMG.tools.0.label>握把</Gun_RNMPXSMG.tools.0.label>
+  <Gun_RNMPXSMG.tools.1.label>枪管</Gun_RNMPXSMG.tools.1.label>
+
+
+  <!-- MP7 -->
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>machine pistol bullet</Bullet_RNMachinePistol.label>-->
+
+  <Gun_RNMP7SMG.label>HK MP7冲锋枪</Gun_RNMP7SMG.label>
+  <Gun_RNMP7SMG.description>由德国军械公司黑克勒-科赫(HK)所研发的单兵自卫武器（PDW），这种武器的人机工效较好，结构设计也十分注重可操作性，在近距离接敌时也能发挥出不错的威力。</Gun_RNMP7SMG.description>
+  <Gun_RNMP7SMG.tools.0.label>握把</Gun_RNMP7SMG.tools.0.label>
+  <Gun_RNMP7SMG.tools.1.label>枪管</Gun_RNMP7SMG.tools.1.label>
+
+
+  <!-- UZI -->
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>machine pistol bullet</Bullet_RNMachinePistol.label>-->
+
+  <Gun_RNUZISMG.label>UZI冲锋枪</Gun_RNUZISMG.label>
+  <Gun_RNUZISMG.description>乌兹冲锋枪是以它的发明人——以色列军人里约特纳特·乌兹·盖尔命名的。该枪结构紧凑、动作可靠、勤务性好，在近距离接敌时能发挥出不错的威力。</Gun_RNUZISMG.description>
+  <Gun_RNUZISMG.tools.0.label>握把</Gun_RNUZISMG.tools.0.label>
+  <Gun_RNUZISMG.tools.1.label>枪管</Gun_RNUZISMG.tools.1.label>
+
+
+  <!-- MAC11 -->
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>machine pistol bullet</Bullet_RNMachinePistol.label>-->
+
+  <Gun_RNMAC11SMG.label>MAC-11冲锋枪</Gun_RNMAC11SMG.label>
+  <Gun_RNMAC11SMG.description>全称为MilitaryArmamentCorporationModel 11，即“军事装备集团第11型”，简称M-11，是MAC-10的.380 ACP口径版本。由于.380口径子弹的低贯穿力，该枪被全球大量保安部队和特种部队所采用，通常用于在击毙/击伤目标的同时确保不会对环境或交通工具造成太大的破坏。</Gun_RNMAC11SMG.description>
+  <Gun_RNMAC11SMG.tools.0.label>握把</Gun_RNMAC11SMG.tools.0.label>
+  <Gun_RNMAC11SMG.tools.1.label>枪管</Gun_RNMAC11SMG.tools.1.label>
+
+
+  <!-- HoneyBadger -->
+
+  <Bullet_RNAACBlackout.label>冲锋手枪子弹</Bullet_RNAACBlackout.label>
+
+  <Gun_RNHoneyBadgerPDW.label>“蜜獾”PDW</Gun_RNHoneyBadgerPDW.label>
+  <Gun_RNHoneyBadgerPDW.description>“蜜獾”（HoneyBadger）是美国特种作战司令部（USSOCOM）试验的一种称为Low-VisibilityCarbine的武器，以轻便、紧凑为特点，其目的是用来替代目前使用的MP5SD-N和MP7A1。该枪由先进武器装备公司（AdvancedArmamentCorporation，简称AAC）研制，并发射该公司最新研制的.300AACBLK弹。</Gun_RNHoneyBadgerPDW.description>
+  <Gun_RNHoneyBadgerPDW.tools.0.label>握把</Gun_RNHoneyBadgerPDW.tools.0.label>
+  <Gun_RNHoneyBadgerPDW.tools.1.label>枪管</Gun_RNHoneyBadgerPDW.tools.1.label>
+
+
+  <!-- ASVAL -->
+
+  <Bullet_RNASVALBoolet.label>冲锋手枪子弹</Bullet_RNASVALBoolet.label>
+
+  <Gun_RNASVAL.label>AS Val微声自动步枪</Gun_RNASVAL.label>
+  <Gun_RNASVAL.description>AS“Val”特种突击步枪（Val对应的俄文字母为“Вал”，意思是“巨浪”）是由前苏联中央精密机械工程研究院（TSNIITochMash）为特种部队设计的一款微声突击步枪，发射9X39MM亚音速弹，与另一种名为VSS的微声狙击步枪属于同一系列的武器。</Gun_RNASVAL.description>
+  <Gun_RNASVAL.tools.0.label>握把</Gun_RNASVAL.tools.0.label>
+  <Gun_RNASVAL.tools.1.label>枪管</Gun_RNASVAL.tools.1.label>
+
+
+  <!-- SKORPION -->
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>machine pistol bullet</Bullet_RNMachinePistol.label>-->
+
+  <Gun_RNCZSkorpion.label>CZ“蝎”式冲锋枪</Gun_RNCZSkorpion.label>
+  <Gun_RNCZSkorpion.description>蝎式EVO III（SCORPION EVO III）冲锋枪是著名的捷克轻武器制造商CZ-UB在2009年推出的产品，这个名称的意思是第3代蝎式冲锋枪。CZ-UB把最初的.32 ACP口径vz.61蝎式冲锋枪划分为第1代，又把1980年代后期推出的两种9mm口径（9×18和9×19）的蝎式冲锋枪划分为第二代，而现在这种蝎式冲锋枪就算作第3代。该枪设计非常符合人体工程学，易于操作及维护。</Gun_RNCZSkorpion.description>
+  <Gun_RNCZSkorpion.tools.0.label>握把</Gun_RNCZSkorpion.tools.0.label>
+  <Gun_RNCZSkorpion.tools.1.label>枪管</Gun_RNCZSkorpion.tools.1.label>
+
+
+  <!-- Skorpion -->
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>machine pistol bullet</Bullet_RNMachinePistol.label>-->
+
+  <Gun_RNSkorpionSMG.label>Vz. 61蝎式冲锋枪</Gun_RNSkorpionSMG.label>
+  <Gun_RNSkorpionSMG.description>由原东欧国家捷克斯洛伐克生产的口径为7.65mm的M61式冲锋枪，体积不比战斗手枪大多少，所以有人认为它应该算作冲锋手枪。它的设计初衷确实是作为一种双用途武器——既可像冲锋枪那样双手抵肩连发射击，又可像手枪那样单手射击，既可以作为近距离战斗中的突击武器，也可以代替手枪作为个人防卫武器。该枪在捷克被警察、安全部队和反恐部队中被广泛采用，但同样的，由于它尺寸小极易隐藏，而且消声效果极好，因此也被一些恐怖主义组织所使用。</Gun_RNSkorpionSMG.description>
+  <Gun_RNSkorpionSMG.tools.0.label>握把</Gun_RNSkorpionSMG.tools.0.label>
+  <Gun_RNSkorpionSMG.tools.1.label>枪管</Gun_RNSkorpionSMG.tools.1.label>
+
+
+  <!-- MAC11SD -->
+
+  <Bullet_RNMachinePistol.label>冲锋手枪子弹</Bullet_RNMachinePistol.label>
+
+  <Gun_RNMAC11SDSMG.label>MAC-11冲锋枪 (带消声器)</Gun_RNMAC11SDSMG.label>
+  <Gun_RNMAC11SDSMG.description>全称为Military Armament Corporation Model 11，即“军事装备集团第11型”，简称M-11，是MAC-10的.380 ACP口径版本。由于.380口径子弹的低贯穿力，该枪被全球大量保安部队和特种部队所采用，通常用于在击毙/击伤目标的同时确保不会对环境或交通工具造成太大的破坏。\n这把MAC-11加装了特制的消声器。</Gun_RNMAC11SDSMG.description>
+  <Gun_RNMAC11SDSMG.tools.0.label>握把</Gun_RNMAC11SDSMG.tools.0.label>
+  <Gun_RNMAC11SDSMG.tools.1.label>枪管</Gun_RNMAC11SDSMG.tools.1.label>
+
+  <!--[Duplicated] <Bullet_RNAK74USMG.label>heavy SMG bullet</Bullet_RNAK74USMG.label>-->
+
+  <Gun_RNAK74USMG.label>AK-74U</Gun_RNAK74USMG.label>
+  <Gun_RNAK74USMG.description>属于著名卡拉什尼科夫枪族(即AK系列)，是在AK-74步枪的基础上改进的短枪管紧凑型突击步枪。AK-74U的典型特征就是枪管短，因此枪口初速也降低了，射程也相应缩短，是一种近距离自卫武器，主要装备特种行动分队、空降部队、工兵、通信兵、炮兵、车辆驾驶员、航空载具的机组成员、导演部队及执法机构的特种部队等。</Gun_RNAK74USMG.description>
+  <Gun_RNAK74USMG.tools.0.label>握把</Gun_RNAK74USMG.tools.0.label>
+  <Gun_RNAK74USMG.tools.1.label>枪管</Gun_RNAK74USMG.tools.1.label>
+
+  <!--[Duplicated] <Bullet_RNAK74USMG.label>heavy SMG bullet</Bullet_RNAK74USMG.label>-->
+
+  <Gun_RNAKS74USMG.label>AKS-74U</Gun_RNAKS74USMG.label>
+  <Gun_RNAKS74USMG.description>属于著名卡拉什尼科夫枪族(即AK系列)，是在AKS-74步枪的基础上改进的短枪管紧凑型突击步枪。AK-74U的典型特征就是枪管短，因此枪口初速也降低了，射程也相应缩短，是一种近距离自卫武器，主要装备特种行动分队、空降部队、工兵、通信兵、炮兵、车辆驾驶员、航空载具的机组成员、导演部队及执法机构的特种部队等。</Gun_RNAKS74USMG.description>
+  <Gun_RNAKS74USMG.tools.0.label>握把</Gun_RNAKS74USMG.tools.0.label>
+  <Gun_RNAKS74USMG.tools.1.label>枪管</Gun_RNAKS74USMG.tools.1.label>
+
+  <Bullet_RNAK74USMG.label>重型冲锋枪子弹</Bullet_RNAK74USMG.label>
+
+  <Gun_RNZastavaM92SMG.label>扎斯塔瓦M92</Gun_RNZastavaM92SMG.label>
+  <Gun_RNZastavaM92SMG.description>Zastava M92是由南斯拉夫扎斯塔瓦武器公司（ZastavaArms）设计及生产的短枪管紧凑型突击步枪，该枪是以Zastava M85作基础衍生而成的产品——因此也可以理解为是南斯拉夫版的AK-74U，因为除了外形及改装性能不同外，它们之间用途及定位的差别并不算大。</Gun_RNZastavaM92SMG.description>
+  <Gun_RNZastavaM92SMG.tools.0.label>握把</Gun_RNZastavaM92SMG.tools.0.label>
+  <Gun_RNZastavaM92SMG.tools.1.label>枪管</Gun_RNZastavaM92SMG.tools.1.label>
+
+
+  <!-- UMP45 -->
+
+  <!--[Duplicated] <Bullet_RNUMPSMG.label>heavy SMG bullet</Bullet_RNUMPSMG.label>-->
+
+  <Gun_RNUMP45SMG.label>UMP-45冲锋枪</Gun_RNUMP45SMG.label>
+  <Gun_RNUMP45SMG.description>德国黑克勒-科赫(HK)公司专为美国特种部队开发的使用.45 ACP弹药的战斗武器，以代替实战条件下威力不佳的9mm冲锋枪。由于性能优异、后座力小、易于分解等优点，被多个特种部队及特警队采用。</Gun_RNUMP45SMG.description>
+  <Gun_RNUMP45SMG.tools.0.label>握把</Gun_RNUMP45SMG.tools.0.label>
+  <Gun_RNUMP45SMG.tools.1.label>枪管</Gun_RNUMP45SMG.tools.1.label>
+
+  <Bullet_RNUMPSMG.label>重型冲锋枪子弹</Bullet_RNUMPSMG.label>
+
+  <Gun_RNUMP45SDSMG.label>UMP-45冲锋枪 (带消声器)</Gun_RNUMP45SDSMG.label>
+  <Gun_RNUMP45SDSMG.description>德国黑克勒-科赫(HK)公司专为美国特种部队开发的使用.45 ACP弹药的战斗武器，以代替实战条件下威力不佳的9mm冲锋枪。由于性能优异、后座力小、易于分解等优点，被多个特种部队及特警队采用。\n这把HK UMP-45加装了内红点瞄准镜、前握把和消声器，因此实战效能得到了提升。</Gun_RNUMP45SDSMG.description>
+  <Gun_RNUMP45SDSMG.tools.0.label>握把</Gun_RNUMP45SDSMG.tools.0.label>
+  <Gun_RNUMP45SDSMG.tools.1.label>枪管</Gun_RNUMP45SDSMG.tools.1.label>
+
+
+  <!-- PePe19 -->
+
+  <Bullet_RNPP19SMG.label>冲锋手枪子弹</Bullet_RNPP19SMG.label>
+
+  <Gun_RNPP19SMG.label>PP-19“野牛”冲锋枪</Gun_RNPP19SMG.label>
+  <Gun_RNPP19SMG.description>PP-19“野牛”式冲锋枪是在1993年由俄罗斯伊兹玛什公司的两位工程师——AK步枪设计者之子维克多·卡拉什尼科夫(Victor Kalashnikov)和SVD设计者之子阿列克赛·德拉贡诺夫(Alexey Dragunov)共同设计出的一种新颖的冲锋枪。该枪特别的设计在于枪体下方可以同时充当护木的弹匣。</Gun_RNPP19SMG.description>
+  <Gun_RNPP19SMG.tools.0.label>握把</Gun_RNPP19SMG.tools.0.label>
+  <Gun_RNPP19SMG.tools.1.label>枪管</Gun_RNPP19SMG.tools.1.label>
+
+
+  <!-- P90 Rush B -->
+
+  <!--[Duplicated] <Bullet_RNP90SMG.label>machine pistol bullet</Bullet_RNP90SMG.label>-->
+
+  <Gun_RNP90SMG.label>P90 PDW</Gun_RNP90SMG.label>
+  <Gun_RNP90SMG.description>于1990年由比利时国营赫斯塔尔公司所推出，属于个人防卫武器类别的一种枪械。P90是全名“Project 90”的简写，意即90年代的武器专项。值得一提的是，P90是世界上第一支使用了全新弹药的个人防卫武器。P90独特的外形是建基于深入的人体工程学研究，在提高使用舒适性的同时也保证了火力和高穿透力。\n是的，你可以拿着它RUSH B，大概吧。</Gun_RNP90SMG.description>
+  <Gun_RNP90SMG.tools.0.label>握把</Gun_RNP90SMG.tools.0.label>
+  <Gun_RNP90SMG.tools.1.label>枪管</Gun_RNP90SMG.tools.1.label>
+
+  <Bullet_RNP90SMG.label>冲锋手枪子弹</Bullet_RNP90SMG.label>
+
+  <Gun_RNP90SDSMG.label>P90 PDW (带消声器)</Gun_RNP90SDSMG.label>
+  <Gun_RNP90SDSMG.description>于1990年由比利时国营赫斯塔尔公司所推出，属于个人防卫武器类别的一种枪械。P90是全名“Project 90”的简写，意即90年代的武器专项。值得一提的是，P90是世界上第一支使用了全新弹药的个人防卫武器。P90独特的外形是建基于深入的人体工程学研究，在提高使用舒适性的同时也保证了火力和高穿透力。\n是的，你可以拿着它静静地RUSH B，大概。</Gun_RNP90SDSMG.description>
+  <Gun_RNP90SDSMG.tools.0.label>握把</Gun_RNP90SDSMG.tools.0.label>
+  <Gun_RNP90SDSMG.tools.1.label>枪管</Gun_RNP90SDSMG.tools.1.label>
+
+
+  <!-- KRISS -->
+
+  <Bullet_RNKVSMG.label>冲锋手枪子弹</Bullet_RNKVSMG.label>
+
+  <Gun_RNKrissVectorSMG.label>KRISS Vector冲锋枪</Gun_RNKrissVectorSMG.label>
+  <Gun_RNKrissVectorSMG.description>KRISS Vector系列冲锋枪是由美国枪械公司“美国KRISS公司”所研制及生产的冲锋枪枪族，发射45.ACP手枪弹。美国KRISS公司的前身为转型武器研究国防工业（即Transformational Defense Industries，简称TDI）。此枪利用不均匀的后座力和同轴式设计，在保证.45口径子弹的威力的同时还能解决其后座力过大和枪口上跳严重的问题。</Gun_RNKrissVectorSMG.description>
+  <Gun_RNKrissVectorSMG.tools.0.label>握把</Gun_RNKrissVectorSMG.tools.0.label>
+  <Gun_RNKrissVectorSMG.tools.1.label>枪管</Gun_RNKrissVectorSMG.tools.1.label>
+
+
+  <!-- SHOTGUNS BOI -->
+
+  <Bullet_RNSawnOffShotgun.label>霰弹枪子弹</Bullet_RNSawnOffShotgun.label>
+
+  <Gun_RNSawnOffShotgun.label>短管霰弹枪</Gun_RNSawnOffShotgun.label>
+  <Gun_RNSawnOffShotgun.description>在外观上看来就是将枪管截短了的双管猎枪。据称这种改造能将双管霰弹枪的近战威慑力提升到最大，甚至被禁用，但实际上这样会让枪口初速、动能、以及弹丸散布变大、射程变短，所以这种改造仅仅只是为了使枪械可以方便携带而已。</Gun_RNSawnOffShotgun.description>
+  <Gun_RNSawnOffShotgun.tools.0.label>枪托</Gun_RNSawnOffShotgun.tools.0.label>
+  <Gun_RNSawnOffShotgun.tools.1.label>枪管</Gun_RNSawnOffShotgun.tools.1.label>
+
+
+  <!-- shorty -->
+
+  <Bullet_RNShortyShotgun.label>霰弹枪子弹</Bullet_RNShortyShotgun.label>
+
+  <Gun_RNSuperShortyShotgun.label>矮个子霰弹枪</Gun_RNSuperShortyShotgun.label>
+  <Gun_RNSuperShortyShotgun.description>超级矮个子霰弹枪（Super-Shorty）由美国谢尔布武器公司(Serbu Firearms Inc)于1998年研发。这种紧凑小巧的霰弹枪并不是完全由谢尔布公司设计，而是在莫斯伯格500和雷明顿870的基础上截短改装而成。其实改装截短霰弹枪的枪匠不少，但谢尔布公司是第一个把这种截短枪当成一个正式产品来经营的公司。</Gun_RNSuperShortyShotgun.description>
+  <Gun_RNSuperShortyShotgun.tools.0.label>枪托</Gun_RNSuperShortyShotgun.tools.0.label>
+  <Gun_RNSuperShortyShotgun.tools.1.label>枪管</Gun_RNSuperShortyShotgun.tools.1.label>
+
+
+  <!-- PUMPSHOTGUN -->
+
+  <!--[Duplicated] <Bullet_RNPumpShotgun.label>shotgun blast</Bullet_RNPumpShotgun.label>-->
+
+  <Gun_RN870Shotgun.label>雷明顿870霰弹枪</Gun_RN870Shotgun.label>
+  <Gun_RN870Shotgun.description>有名的Remington 870泵动式12号口径霰弹枪，由美国雷明顿兵工厂于50年代初研制，因其结构紧凑、性能可靠、价格合理，很快成为美国人喜爱的流行武器，同时也被美国军警采用。从50年代初至今，它一直是美国军警界的专用装备，美国边防警卫队尤其钟爱此枪。</Gun_RN870Shotgun.description>
+  <Gun_RN870Shotgun.tools.0.label>枪托</Gun_RN870Shotgun.tools.0.label>
+  <Gun_RN870Shotgun.tools.1.label>枪管</Gun_RN870Shotgun.tools.1.label>
+
+
+  <!-- TrenchGun -->
+
+  <!--[Duplicated] <Bullet_RNPumpShotgun.label>shotgun blast</Bullet_RNPumpShotgun.label>-->
+
+  <Gun_RNTrenchShotgun.label>M97堑壕枪</Gun_RNTrenchShotgun.label>
+  <Gun_RNTrenchShotgun.description>温彻斯特M1897（Winchester Model（M）1897）是由著名的美国枪械设计师约翰·勃朗宁设计、由美国温彻斯特连发武器公司生产的泵动式及外击锤型设计的霰弹枪，可发射12号霰弹或16号霰弹，还有不同长度的枪管可供选择。用过它的士兵们都喜欢称其为“堑壕清扫器”（Trench sweeper或Trench gun），因为在堑壕等狭窄地带近距离接敌时它的火力十分可观，而且射击时几乎不需要瞄准。该枪于旧世界的第一次世界大战期间相当活跃，而且也曾有使用该枪的协约国士兵在被俘后会被直接处死的传言，可见其当时的威慑力非同一般。</Gun_RNTrenchShotgun.description>
+  <Gun_RNTrenchShotgun.tools.0.label>枪托</Gun_RNTrenchShotgun.tools.0.label>
+  <Gun_RNTrenchShotgun.tools.1.label>枪管</Gun_RNTrenchShotgun.tools.1.label>
+
+
+  <!-- KS-23 -->
+
+  <!--[Duplicated] <Bullet_RNPumpShotgun.label>shotgun blast</Bullet_RNPumpShotgun.label>-->
+
+  <Gun_RNKS23Shotgun.label>KS-23镇暴枪</Gun_RNKS23Shotgun.label>
+  <Gun_RNKS23Shotgun.description>KS-23霰弹枪是现今批量生产和装备部队的霰弹枪之中口径最大的一种。该枪的研制始于1970年，当时的苏联内务部需要一种用于控制监狱暴动的镇暴武器，经过反复研究后，决定采用接近4号口径的霰弹枪，因为该型枪械可以把同口径的催泪弹准确地投掷至100～150米远；为了达到预期的精度，还需要采用线膛枪管。按照这样的要求，TSNII TochMash（中央科研精密机械设备建设研究所）于1981年设计出了23mm口径的KS-23（俄语КС-23）。该枪采用泵动原理供弹，管状弹仓并列于枪管下方，再加上所发射的弹药和霰弹结构很相似，都是铜弹底和纸壳，所以在许多资料中都被称为“霰弹枪”。不过该枪采用的是线膛枪管，而且其名称KS-23的全称其实是“23mm特种卡宾枪”（Карабин Специальный 23мм），由于其用途特殊，因此产量并不算大。。</Gun_RNKS23Shotgun.description>
+  <Gun_RNKS23Shotgun.tools.0.label>stock</Gun_RNKS23Shotgun.tools.0.label>
+  <Gun_RNKS23Shotgun.tools.1.label>barrel</Gun_RNKS23Shotgun.tools.1.label>
+
+
+  <!-- Super90 -->
+
+  <!--[Duplicated] <Bullet_RNPumpShotgun.label>shotgun blast</Bullet_RNPumpShotgun.label>-->
+
+  <Gun_RNBenelliM3Shotgun.label>伯奈利M3霰弹枪</Gun_RNBenelliM3Shotgun.label>
+  <Gun_RNBenelliM3Shotgun.description>由意大利伯奈利公司在1990年代后期设计和生产的现代化标准型半自动泵动式霰弹枪，发射12号口径霰弹，适合猎手、执法机关和军队三方使用。</Gun_RNBenelliM3Shotgun.description>
+  <Gun_RNBenelliM3Shotgun.tools.0.label>枪托</Gun_RNBenelliM3Shotgun.tools.0.label>
+  <Gun_RNBenelliM3Shotgun.tools.1.label>枪管</Gun_RNBenelliM3Shotgun.tools.1.label>
+
+
+  <!-- SPAS -->
+
+  <!--[Duplicated] <Bullet_RNPumpShotgun.label>shotgun blast</Bullet_RNPumpShotgun.label>-->
+
+  <Gun_RNSPAS12Shotgun.label>SPAS-12多功能霰弹枪</Gun_RNSPAS12Shotgun.label>
+  <Gun_RNSPAS12Shotgun.description>SPAS-12（Special Purpose Automatic Shotgun，意为“特殊用途自动型霰弹枪”）是由意大利的弗兰基公司在1970年代后期设计的一种特种用途军警用的近战武器，它最大的特点是可以选择半自动装填或传统的泵动装填方式操作，以适合不同的任务需求和弹药类型。</Gun_RNSPAS12Shotgun.description>
+  <Gun_RNSPAS12Shotgun.tools.0.label>枪托</Gun_RNSPAS12Shotgun.tools.0.label>
+  <Gun_RNSPAS12Shotgun.tools.1.label>枪管</Gun_RNSPAS12Shotgun.tools.1.label>
+
+
+  <!-- Benelli M4 -->
+
+  <Bullet_RNPumpShotgun.label>霰弹枪子弹</Bullet_RNPumpShotgun.label>
+
+  <Gun_RNXM1014Shotgun.label>伯奈利XM1014战斗霰弹枪</Gun_RNXM1014Shotgun.label>
+  <Gun_RNXM1014Shotgun.description>伯奈利M4超级90半自动霰弹枪最初是为美军研制的三军战斗霰弹枪（Joint Service Combat Shotgun，简称JSCS），这种霰弹枪的需求最初是由美国海军陆战队在20世纪90年代初提出的，随后被修订为包括整个美国军队的采购项目。经过美国AARDEC（陆军军械研究、发展与工程中心）的对比试验，伯奈利公司和HK公司联合提交的样枪脱颖而出，在1999年4月被美国海军陆战队命名为XM1014，并签定合同预生产20支样枪以进行更严格的试验，当通过全部试验后，其名称中的“X”被取消，M1014新枪开始代替莫斯伯格M590霰弹枪及其他美国海军陆战队装备的泵动霰弹枪开始列装。</Gun_RNXM1014Shotgun.description>
+  <Gun_RNXM1014Shotgun.tools.0.label>枪托</Gun_RNXM1014Shotgun.tools.0.label>
+  <Gun_RNXM1014Shotgun.tools.1.label>枪管</Gun_RNXM1014Shotgun.tools.1.label>
+
+
+  <!-- SAIGA -->
+
+  <Gun_RNSAIGAShotgun.label>Saiga-12半自动霰弹枪</Gun_RNSAIGAShotgun.label>
+  <Gun_RNSAIGAShotgun.description>Saiga-12（俄语：Сайга-12）是由俄罗斯伊兹玛什工厂于1990年代以卡拉什尼科夫的AK系列为蓝本研制的半自动战斗霰弹枪。和各种卡拉什尼科夫步枪的衍生型一样，它是转拴式枪机、气动式操作和使用弹匣供弹的枪械。所有Saiga-12的型号的机匣右侧都装有可识别为卡拉什尼科夫样式枪族的大型保险杠杆，可以装在机匣左边以安装瞄准镜的瞄准镜导轨，和装上机匣顶部以保护装置于后方的反冲弹簧组件的大型防尘盖。</Gun_RNSAIGAShotgun.description>
+  <Gun_RNSAIGAShotgun.tools.0.label>枪托</Gun_RNSAIGAShotgun.tools.0.label>
+  <Gun_RNSAIGAShotgun.tools.1.label>枪管</Gun_RNSAIGAShotgun.tools.1.label>
+
+  <Gun_RNUSAS12Shotgun.label>USAS-12自动霰弹枪</Gun_RNUSAS12Shotgun.label>
+  <Gun_RNUSAS12Shotgun.description>由美国的吉尔伯特设备有限公司在1980年代设计、交由韩国大宇集团所生产的一种全自动战斗霰弹枪。与传统的霰弹枪不同，这种霰弹枪采用的是全自动发射模式，因此美国烟酒、枪炮及爆裂物管理局（英文：Bureau of Alcohol, Tobacco, Firearms and Explosives，简称：ATF）宣称，它“并不适合运动的用途”以及是一款“毁灭性武器”（第三类枪械），它也成为了全美国枪械法中1934枝明文禁止的枪械之一。</Gun_RNUSAS12Shotgun.description>
+  <Gun_RNUSAS12Shotgun.tools.0.label>枪托</Gun_RNUSAS12Shotgun.tools.0.label>
+  <Gun_RNUSAS12Shotgun.tools.1.label>枪管</Gun_RNUSAS12Shotgun.tools.1.label>
+
+  <Gun_RNAA12Shotgun.label>AA-12自动霰弹枪</Gun_RNAA12Shotgun.label>
+  <Gun_RNAA12Shotgun.description>在1972年，美国枪械设计师麦斯威尔·艾奇逊（Maxwell Atchisson）研制了一种12号口径的全自动霰弹枪。当时他根据越南战争的经验，认为诸如在东南亚所常见的那种丛林环境中，渗透巡逻队的尖兵急需一种近程自卫武器，其火力和停止作用应比普通步枪大得多，又要瞄准迅速。因为当时许多渗透巡逻队的尖兵都是使用射速慢、容弹量低的泵动式霰弹枪。艾奇逊自动霰弹枪非常适用于像城市街道或丛林那样的近战环境，与传统的霰弹枪不同，这种霰弹枪采用的是全自动发射模式，它能在伏击、房间清除和其他类似战斗情形下提供强大的近程火力。</Gun_RNAA12Shotgun.description>
+  <Gun_RNAA12Shotgun.tools.0.label>枪托</Gun_RNAA12Shotgun.tools.0.label>
+  <Gun_RNAA12Shotgun.tools.1.label>枪管</Gun_RNAA12Shotgun.tools.1.label>
+
+
+  <!--[Duplicated] <Bullet_RNMachinePistol.label>冲锋手枪子弹</Bullet_RNMachinePistol.label>-->
+  <!--[Duplicated] <Bullet_RNP90SMG.label>冲锋手枪子弹</Bullet_RNP90SMG.label>-->
+  <!--[Duplicated] <Bullet_RNPumpShotgun.label>霰弹枪子弹</Bullet_RNPumpShotgun.label>-->
+
+</LanguageData>

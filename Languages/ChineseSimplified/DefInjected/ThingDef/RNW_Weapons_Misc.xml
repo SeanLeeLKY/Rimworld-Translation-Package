@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ballistic Knife boi -->
+
+  <Proj_BallisticKnife.label>可拆卸的刀片</Proj_BallisticKnife.label>
+
+  <RNBallisticKnife.label>弹射战术刀</RNBallisticKnife.label>
+  <RNBallisticKnife.description>这种特制的战术刀带有可装卸的刀片，可以通过按下扳机或操作手柄上的杠杆或开关将刀刃弹出一段距离外。</RNBallisticKnife.description>
+  <RNBallisticKnife.tools.0.label>刀刃</RNBallisticKnife.tools.0.label>
+  <RNBallisticKnife.tools.1.label>刀柄</RNBallisticKnife.tools.1.label>
+  <RNBallisticKnife.tools.2.label>尖端</RNBallisticKnife.tools.2.label>
+
+
+</LanguageData>

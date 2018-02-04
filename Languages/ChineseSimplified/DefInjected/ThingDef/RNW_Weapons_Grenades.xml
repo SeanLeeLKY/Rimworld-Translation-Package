@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Molotov cocktail -->
+
+  <Weapon_VodkaMolotov.label>莫洛托夫鸡尾酒</Weapon_VodkaMolotov.label>
+  <Weapon_VodkaMolotov.description>噢，我亲爱的伊万亚兹诺维奇，你可知道在俄罗斯，伏特加是当医药用的，而现在，我们的敌人该把我们当成医生了。</Weapon_VodkaMolotov.description>
+  <Weapon_VodkaMolotov.verbs.0.label>投掷莫洛托夫鸡尾酒</Weapon_VodkaMolotov.verbs.0.label>
+
+  <Proj_VodkaMolotov.label>莫洛托夫鸡尾酒</Proj_VodkaMolotov.label>
+
+
+  <!-- Frag grenade -->
+
+  <Weapon_RNHEGrenade.label>高爆手雷</Weapon_RNHEGrenade.label>
+  <Weapon_RNHEGrenade.description>常见的军用高爆手雷，通常用于压制阵地和肃清建筑物。</Weapon_RNHEGrenade.description>
+  <Weapon_RNHEGrenade.verbs.0.label>投掷高爆手雷</Weapon_RNHEGrenade.verbs.0.label>
+
+  <Proj_HEGrenade.label>高爆手雷</Proj_HEGrenade.label>
+
+
+  <!-- Flash grenade -->
+
+  <Weapon_RNFlashbangs.label>战术闪光弹</Weapon_RNFlashbangs.label>
+  <Weapon_RNFlashbangs.description>战术闪光弹，通常用于在确保目标存活的情况下使其致盲，从而失去抵抗能力。</Weapon_RNFlashbangs.description>
+  <Weapon_RNFlashbangs.verbs.0.label>投掷闪光弹</Weapon_RNFlashbangs.verbs.0.label>
+
+  <Proj_RNGrenadeFlash.label>闪光弹</Proj_RNGrenadeFlash.label>
+
+
+  <!-- Incendiary -->
+
+  <Weapon_RNIncendiaryGrenade.label>战术燃烧手雷</Weapon_RNIncendiaryGrenade.label>
+  <Weapon_RNIncendiaryGrenade.description>一种可以在爆炸之后放出可燃性气/液体并点燃周遭物体的手雷，不过实际上这种武器在战场上是禁止使用的。</Weapon_RNIncendiaryGrenade.description>
+  <Weapon_RNIncendiaryGrenade.verbs.0.label>投掷燃烧弹</Weapon_RNIncendiaryGrenade.verbs.0.label>
+
+  <Proj_RNGrenadeIncendiary.label>燃烧弹</Proj_RNGrenadeIncendiary.label>
+
+
+  <!-- smoke grenade -->
+
+  <Weapon_RNSmokeGrenade.label>战术烟雾弹</Weapon_RNSmokeGrenade.label>
+  <Weapon_RNSmokeGrenade.description>战术烟雾弹，或称“烟罐”，通常用于释放烟幕阻碍敌方视线从而使我方单位可以安全通过，如果装填了消防泡沫，还可以用来灭火。</Weapon_RNSmokeGrenade.description>
+  <Weapon_RNSmokeGrenade.verbs.0.label>投掷烟雾弹</Weapon_RNSmokeGrenade.verbs.0.label>
+
+  <Proj_RNSmokeGrenade.label>烟雾弹</Proj_RNSmokeGrenade.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Do bills at the armorer table -->
+
+  <DoBillsRimmuNationArmorerTable.label>在Rimmu-Nation工作台上制作</DoBillsRimmuNationArmorerTable.label>
+  <DoBillsRimmuNationArmorerTable.verb>制作</DoBillsRimmuNationArmorerTable.verb>
+  <DoBillsRimmuNationArmorerTable.gerund>制作</DoBillsRimmuNationArmorerTable.gerund>
+
+  <DoBillsRimmuNationSmithyTable.label>在Rimmu-Nation工作台上制作</DoBillsRimmuNationSmithyTable.label>
+  <DoBillsRimmuNationSmithyTable.verb>制作</DoBillsRimmuNationSmithyTable.verb>
+  <DoBillsRimmuNationSmithyTable.gerund>制作</DoBillsRimmuNationSmithyTable.gerund>
+
+
+</LanguageData>

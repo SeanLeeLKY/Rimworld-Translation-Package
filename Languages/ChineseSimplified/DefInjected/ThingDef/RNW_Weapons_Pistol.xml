@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- NAGANTREVOLVERBOI -->
+
+  <Bullet_RNNagantRevolver.label>左轮枪子弹</Bullet_RNNagantRevolver.label>
+
+  <RN_NagantRevolverP.label>纳甘M1895转轮手枪</RN_NagantRevolverP.label>
+  <RN_NagantRevolverP.description>纳甘转轮手枪由一位名为纳甘的比利时人于1895年发明，因此称为纳甘M1895。此枪型虽然威力不足、发射速度较慢，但由于其结实可靠的特性，仍然受到了沙俄军队以及后来的苏联军队的欢迎，尤其是骑兵团和装甲兵团。因此，此枪型直到1945年才正式停产。</RN_NagantRevolverP.description>
+  <RN_NagantRevolverP.tools.0.label>握把</RN_NagantRevolverP.tools.0.label>
+  <RN_NagantRevolverP.tools.1.label>枪管</RN_NagantRevolverP.tools.1.label>
+
+
+  <!-- RAGINGBULL -->
+
+  <Bullet_RNBullRevolver.label>左轮枪子弹</Bullet_RNBullRevolver.label>
+
+  <RN_RagingBullRevolverP.label>“愤怒公牛”左轮手枪</RN_RagingBullRevolverP.label>
+  <RN_RagingBullRevolverP.description>巴西“桃乐丝”公司的Family of Hunters的RAGING BULL系列转轮手枪，这个系列的特征是铳口带有一体化的防跳设计、枪管上方带有固定原厂导轨的格栅、按照枪管的长度分别有三格（六寸半）和四格（八寸半）、握把后方有红色的橡胶条脊背。</RN_RagingBullRevolverP.description>
+  <RN_RagingBullRevolverP.tools.0.label>握把</RN_RagingBullRevolverP.tools.0.label>
+  <RN_RagingBullRevolverP.tools.1.label>枪管</RN_RagingBullRevolverP.tools.1.label>
+
+
+  <!-- Python -->
+
+  <Bullet_RN357Revolver.label>左轮枪子弹</Bullet_RN357Revolver.label>
+
+  <RN_ColtPythonRevolverP.label>柯尔特“巨蟒”左轮手枪</RN_ColtPythonRevolverP.label>
+  <RN_ColtPythonRevolverP.description>一把双动操作的左轮手枪，于1955年推出后不久就立即占据了美国执法机关的市场，当中6英寸枪管在军方人员之中流行起来，而4英寸枪管则被认为最适合便衣探员所使用。“蟒蛇”的声誉是源自其较高的准确性、顺畅且容易扣下的扳机和较紧密的弹仓闭锁，据称其威力甚至足以在近距离内一枪击倒一只猛兽。现在蟒蛇手枪仍然在市场上十分流行，但是因为其已经停产的缘故，价格变得越来越高。</RN_ColtPythonRevolverP.description>
+  <RN_ColtPythonRevolverP.tools.0.label>握把</RN_ColtPythonRevolverP.tools.0.label>
+  <RN_ColtPythonRevolverP.tools.1.label>枪管</RN_ColtPythonRevolverP.tools.1.label>
+
+
+  <!-- Deagle -->
+
+  <!--[Duplicated] <Bullet_RN50Pistol.label>autopistol bullet</Bullet_RN50Pistol.label>-->
+
+  <RN_DesertEagleP.label>沙漠之鹰手枪</RN_DesertEagleP.label>
+  <RN_DesertEagleP.description>沙漠之鹰手枪是于1980年由MRI(马格南研究公司)发布的一款狩猎用大型手枪。原型枪在1981年完成，而最终定型和生产则是在以色列军事工业公司（IMI）。这种手枪的身影频繁出现于游戏与影视之中，其大威力和漂亮的外形更是让其名气大涨。</RN_DesertEagleP.description>
+  <RN_DesertEagleP.tools.0.label>握把</RN_DesertEagleP.tools.0.label>
+  <RN_DesertEagleP.tools.1.label>枪管</RN_DesertEagleP.tools.1.label>
+
+  <Bullet_RN50Pistol.label>自动手枪子弹</Bullet_RN50Pistol.label>
+
+  <RN_JuanDeagP.label>Juan deag手枪</RN_JuanDeagP.label>
+  <RN_JuanDeagP.description>特制的收藏版纯金沙漠之鹰手枪。是的，其收藏价值高于其实用价值，但是谁在乎呢？</RN_JuanDeagP.description>
+  <RN_JuanDeagP.tools.0.label>握把</RN_JuanDeagP.tools.0.label>
+  <RN_JuanDeagP.tools.1.label>枪管</RN_JuanDeagP.tools.1.label>
+
+
+  <!-- FiveSeven -->
+
+  <Bullet_RNFiveSevenPistol.label>自动手枪子弹</Bullet_RNFiveSevenPistol.label>
+
+  <RN_FiveSevenP.label>FN57式手枪</RN_FiveSevenP.label>
+  <RN_FiveSevenP.description>为了推广SS190 5.7x28mm口径弹，比利时FN公司开发了命名为Five-seveN的手枪，首尾两个字母表示开发厂商，而带上这个商业标记的名称很难为其取一个合适的中文译名，只可勉强称为“57式”手枪。从这个宣传意味极重的特殊名称就说明FN公司为推广SS190弹确实是不遗余力的。Five-seveN手枪通过精心设计，首次在手枪套筒上成功采用钢——塑料复合结构，支架用钢板冲压成形，击针室用机械加工，用固定销固定在支架上，外面覆上高强度工程塑料，然后表面再经过磷化处理，因此这种手枪在保证轻便的同时又保证了高耐久度。</RN_FiveSevenP.description>
+  <RN_FiveSevenP.tools.0.label>握把</RN_FiveSevenP.tools.0.label>
+  <RN_FiveSevenP.tools.1.label>枪管</RN_FiveSevenP.tools.1.label>
+
+
+  <!-- 1911 -->
+
+  <!--[Duplicated] <Bullet_RN45ACPPistol.label>autopistol bullet</Bullet_RN45ACPPistol.label>-->
+
+  <RN_1911P.label>柯尔特M1911手枪</RN_1911P.label>
+  <RN_1911P.description>世界上装备时间最长、装备数量最多的传奇手枪之一，它由美国著名的枪械设计师约翰·摩西·勃朗宁所设计，但最后却由勃朗宁公司的竞争对手柯尔特公司买下其专利权并加以出售。其总生产数量超过了250万把，这项惊人的记录始终未被其他手枪所打破。从1911年发布起，美军即把柯尔特M1911选定为制式手枪，先后参加了一战、二战、朝鲜战争和越南战争，其衍生型号更是直至2016年才被美军彻底换装。M1911使用.45ACP弹，其威力可观，而且这种枪械的特点一是结构简单，零件数小，分解结合比较方便；二是机构动作可靠，安全性好，故障率低，因此也曾有人说过“即使人类灭亡了，猴子也会拿着1911继续打仗”。该枪仅有的不足是重量体积较大，射击时后坐力大，容易影响射击精度。</RN_1911P.description>
+  <RN_1911P.tools.0.label>握把</RN_1911P.tools.0.label>
+  <RN_1911P.tools.1.label>枪管</RN_1911P.tools.1.label>
+
+
+  <!-- Makarov -->
+
+  <!--[Duplicated] <Bullet_RN45ACPPistol.label>autopistol bullet</Bullet_RN45ACPPistol.label>-->
+
+  <RN_MakarovPistolP.label>马卡洛夫手枪</RN_MakarovPistolP.label>
+  <RN_MakarovPistolP.description>在第二次世界大战结束后，苏联总结战时的经验发现手枪在实战中使用率极低，再加上托卡列夫TT-33手枪的一些固有缺点，因此决定开发新的军官自卫手枪，马卡洛夫手枪（或称PM手枪，PM是其设计师马卡洛夫名字的英文缩写）由此诞生。该枪于1951年被苏军选作制式手枪装备部队，后来还广泛装备于警察部队。由于该枪体积小，重量轻，一般被中级以上军官佩带，所以又叫做“校官手枪”。该枪应用广泛、生产量大，算是世界上的著名枪械之一，原本计划于21世纪初撤装，但其身影至今仍在军警及民用市场活跃。</RN_MakarovPistolP.description>
+  <RN_MakarovPistolP.tools.0.label>握把</RN_MakarovPistolP.tools.0.label>
+  <RN_MakarovPistolP.tools.1.label>枪管</RN_MakarovPistolP.tools.1.label>
+
+
+  <!-- G17 -->
+
+  <!--[Duplicated] <Bullet_RN9mmPistol.label>autopistol bullet</Bullet_RN9mmPistol.label>-->
+
+  <RN_Glock17P.label>G17手枪</RN_Glock17P.label>
+  <RN_Glock17P.description>格洛克手枪是奥地利格洛克有限公司（Glock GmbH）研制生产的一系列自动手枪的统称，17实际上是指其弹匣容量。最初的格洛克17手枪是格洛克公司于1983年应奥地利陆军的要求所研制的，自此过后格洛克系列手枪受到司法单位、平民甚至是罪犯的热烈欢迎。格洛克系列手枪首先从9mm口径的格洛克17开始，后陆续推出了数十种不同口径、不同战术用途的系列型号，覆盖全球的军、警及民用市场。作为军用，有奥地利、挪威、瑞典等40多个国家军队列装；作为警用更是遍地开花，使用部门达1400多个，著名的德国GSG9反恐特种部队、美国FBI联邦调查局、美国SWAT特警都是格洛克手枪的忠实用户。格洛克公司对外宣传最多的，就是其“安全可靠”的设计准则以及“简单实用”的设计风格。</RN_Glock17P.description>
+  <RN_Glock17P.tools.0.label>握把</RN_Glock17P.tools.0.label>
+  <RN_Glock17P.tools.1.label>枪管</RN_Glock17P.tools.1.label>
+
+
+  <!-- M9 -->
+
+  <!--[Duplicated] <Bullet_RN9mmPistol.label>autopistol bullet</Bullet_RN9mmPistol.label>-->
+
+  <RN_M9P.label>M9A1手枪</RN_M9P.label>
+  <RN_M9P.description>1978年，为了取代老旧的0.45ACP口径柯尔特M1911A1半自动手枪，美国空军提出需采用一种新的9mm半自动手枪。美国三军轻武器规划委员会代表空军向几家著名的枪械公司发出邀请，最终于1985年由意大利伯莱塔公司提交的92SB-F手枪赢得了资格，被美军正式命名为M9手枪并进行了列装。2003年，M9推出改进型，名为M9A1，主要加入了皮卡汀尼导轨（Picatinny rail）以对应战术灯、激光指示器及其他附件的安装。与常见的那些外形庄严肃穆的手枪不同，M9手枪的外形优美且别具一格，其采用全球独特的大开口式套筒，具有减轻手枪的重量、减少抛/退壳故障、易于枪管散热和遇到装填/卡壳故障时可迅速排除等优点，但这种大开口套筒上部敞开，枪管上部完全暴露，枪管上的喷涂保护层易脱落，容易造成枪管生锈。不过，M9手枪能获得“世界第一手枪”的美誉决非偶然，该枪的美观性及可靠性都是毋庸置疑的。</RN_M9P.description>
+  <RN_M9P.tools.0.label>握把</RN_M9P.tools.0.label>
+  <RN_M9P.tools.1.label>枪管</RN_M9P.tools.1.label>
+
+
+  <!-- Tec-9 -->
+
+  <!--[Duplicated] <Bullet_RN9mmPistol.label>autopistol bullet</Bullet_RN9mmPistol.label>-->
+
+  <RN_Tec9P.label>Tec-9</RN_Tec9P.label>
+  <RN_Tec9P.description>英特拉泰克TEC-9是一款由瑞典国际动力公司的美国分部英特拉泰克公司所设计生产的反冲作用操作半自动枪械，发射9× 19mm鲁格手枪弹，被美国烟酒枪炮及爆裂物管理局归类为手枪。这种枪械的结构简单可靠，短小精悍，最早是作为军用武器推销给军方，不过射速逊于MP5系列而没有被采用，只好改成半自动型面向平民，后来因为电视剧的影响而成了毒贩和帮派分子的标配，外加没有被执法机构采用过，因此名声并不好。</RN_Tec9P.description>
+  <RN_Tec9P.tools.0.label>grip</RN_Tec9P.tools.0.label>
+  <RN_Tec9P.tools.1.label>barrel</RN_Tec9P.tools.1.label>
+
+
+  <!-- P320 -->
+
+  <!--[Duplicated] <Bullet_RN9mmPistol.label>autopistol bullet</Bullet_RN9mmPistol.label>-->
+
+  <RN_P320P.label>P320手枪</RN_P320P.label>
+  <RN_P320P.description>2015年，美军启动XM-17手枪招标，目标是装备一种比现有伯莱塔M9手枪效能更高、更具杀伤力的武器。XM-17项目的竞争最后在两大著名枪械公司——瑞士的西格-绍尔(SIG Sauer)和比利时的格洛克(Glock)之间进行，格洛克公司一度被认为将成为最后的获胜者，但最终却被西格公司翻盘，该公司将在其西格-绍尔P320手枪的基础上，为美军研制XM-17型模块化手枪系统，包括附件和弹药。根据西格公司的介绍，P320手枪的特色是其高模块化和高适应性。通过可更换的零件和握把，西格P320手枪可以发射9毫米北约弹、.357SIG子弹以及.40SGW子弹。同时，西格公司称P320手枪的口径和大小以及握把的设计，可以说是当今世界最适合射手的武器。</RN_P320P.description>
+  <RN_P320P.tools.0.label>握把</RN_P320P.tools.0.label>
+  <RN_P320P.tools.1.label>枪管</RN_P320P.tools.1.label>
+
+
+  <!-- MP445 -->
+
+  <Bullet_RN40Pistol.label>自动手枪子弹</Bullet_RN40Pistol.label>
+
+  <RN_MP445P.label>MP-445手枪</RN_MP445P.label>
+  <RN_MP445P.description>MP-445“瓦良格”（俄语：“Варяг”)是一款由俄罗斯联邦枪械制造商伊热夫斯克机械工厂研制和生产的现代型半自动手枪，可发射9×19mm帕拉贝鲁姆手枪弹和.40SW手枪弹。它采用15发可拆卸式双排弹匣，并且具有轻易装上战术灯、镭射瞄准器和其他战术配件的战术导轨。就像像它的前辈MP-444那样，瓦良格具有由强大的热固性塑料制成的底把。</RN_MP445P.description>
+  <RN_MP445P.tools.0.label>握把</RN_MP445P.tools.0.label>
+  <RN_MP445P.tools.1.label>枪管</RN_MP445P.tools.1.label>
+
+
+  <!-- USP-S -->
+
+  <Bullet_RN45ACPPistol.label>自动手枪子弹</Bullet_RN45ACPPistol.label>
+
+  <RN_USPSP.label>USP手枪 (带消声器)</RN_USPSP.label>
+  <RN_USPSP.description>USP（德语：Universale Selbstladepistole，英语：Universal Self-loading Pistol，即“通用自动装填手枪”）是德国黑克勒-科赫(即HK)公司设计的一款为满足民用市场、执法部门及军方需求的半自动手枪，其数量众多的衍生型号也确实满足了这些需求。USP在传统结构的基础上融进了多项革新，因此其战术实用性相当高，甚至有人声称这种手枪仅次于沙漠之鹰手枪。</RN_USPSP.description>
+  <RN_USPSP.tools.0.label>握把</RN_USPSP.tools.0.label>
+  <RN_USPSP.tools.1.label>枪管</RN_USPSP.tools.1.label>
+
+
+  <!-- MK23Socom -->
+
+  <Bullet_RN9mmPistol.label>自动手枪子弹</Bullet_RN9mmPistol.label>
+
+  <RN_MK23SOCOMP.label>MK23 SOCOM手枪</RN_MK23SOCOMP.label>
+  <RN_MK23SOCOMP.description>MK23战斗手枪，全称HK MK23 Mod 0，是1991年由德国黑克勒-科赫(Heckler and Koch）公司设计生产的半自动手枪，曾通过美国特种行动司令部（UnitedStatesSpecialOperationsCommand，简称USSOCOM，下辖部队包括DEVGRU、DeltaForce和绿色贝雷帽等）在20世纪90年代的“进攻型手枪武器系统（OHWS）”计划而成为该时期特种部队的列装武器。MK23Mod0被定义为一款竞赛级军用手枪，其精准度、可靠性和火力都非常可观，唯一美中不足的就是它在尺寸和重量两方面都实在过大和过重，而后来同样由HK公司设计的USP Compact-Tactical(紧凑战术型HKUSP)更是证明了这一点——因为它们同样可以安装各种消声器和战术附件，但是USP相较于MK23要轻便得多。</RN_MK23SOCOMP.description>
+  <RN_MK23SOCOMP.tools.0.label>握把</RN_MK23SOCOMP.tools.0.label>
+  <RN_MK23SOCOMP.tools.1.label>枪管</RN_MK23SOCOMP.tools.1.label>
+
+
+  <!--[Duplicated] <Bullet_RN50Pistol.label>自动手枪子弹</Bullet_RN50Pistol.label>-->
+  <!--[Duplicated] <Bullet_RN45ACPPistol.label>自动手枪子弹</Bullet_RN45ACPPistol.label>-->
+  <!--[Duplicated] <Bullet_RN9mmPistol.label>自动手枪子弹</Bullet_RN9mmPistol.label>-->
+
+</LanguageData>

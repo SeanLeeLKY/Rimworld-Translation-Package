@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Hostile Airstrike ^^ -->
+
+  <RNHostileAirBombardment.label>“鬼怪”空袭激光目标靶向器</RNHostileAirBombardment.label>
+  <RNHostileAirBombardment.description>这个一次性的激光目标靶向器可以让你呼叫一架洛克希德AC-130H“鬼怪”式空中炮艇（Lockheed AC-130H Gunship “Spectre”）来对目标区域进行猛烈的火力打击。</RNHostileAirBombardment.description>
+
+
+  <!-- Spectre Airstrike -->
+
+  <RNAirBombardment.label>“鬼怪”空袭激光目标靶向器</RNAirBombardment.label>
+  <RNAirBombardment.description>这个一次性的激光目标靶向器可以让你呼叫一架洛克希德AC-130H“鬼怪”式空中炮艇（Lockheed AC-130H Gunship “Spectre”）来对目标区域进行猛烈的火力打击。</RNAirBombardment.description>
+
+
+  <!-- ODIN STRIKE -->
+
+  <RNODINOrbitalBeam.label>“奥丁”空间轨道炮靶向仪</RNODINOrbitalBeam.label>
+  <RNODINOrbitalBeam.description>这个装载了高功率一次性电池的设备可以让你与核心世界中一个名为美国的国家所部署的“奥丁”（ODIN，即Orbital Defense Initiative，轨道主动防御计划）空间站取得联系，对指定区域发动威力强大的轨道能量轰炸。</RNODINOrbitalBeam.description>
+
+
+</LanguageData>

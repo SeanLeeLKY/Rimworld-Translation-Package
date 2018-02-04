@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <RimmuNationTableMachining.label>Rimmu-Nation枪械组装台</RimmuNationTableMachining.label>
+  <RimmuNationTableMachining.description>用于组装Rimmu-Nation冲锋枪和手枪等基本枪械的工作台。</RimmuNationTableMachining.description>
+  <RimmuNationTableMachining_Blueprint.label>Rimmu-Nation枪械组装台 (蓝图)</RimmuNationTableMachining_Blueprint.label>
+  <RimmuNationTableMachining_Frame.label>Rimmu-Nation枪械组装台 (建造中)</RimmuNationTableMachining_Frame.label>
+  <RimmuNationTableMachining_Frame.description>用于组装Rimmu-Nation冲锋枪和手枪等基本枪械的工作台。</RimmuNationTableMachining_Frame.description>
+
+
+  <!-- RIFLEMAN BENCH -->
+
+  <RimmuNationTableRifle.label>Rimmu-Nation步兵工作台</RimmuNationTableRifle.label>
+  <RimmuNationTableRifle.description>用于组装Rimmu-Nation突击步枪等主力枪械的工作台。</RimmuNationTableRifle.description>
+  <RimmuNationTableRifle_Blueprint.label>Rimmu-Nation步兵工作台 (蓝图)</RimmuNationTableRifle_Blueprint.label>
+  <RimmuNationTableRifle_Frame.label>Rimmu-Nation步兵工作台 (建造中)</RimmuNationTableRifle_Frame.label>
+  <RimmuNationTableRifle_Frame.description>用于组装Rimmu-Nation突击步枪等主力枪械的工作台。</RimmuNationTableRifle_Frame.description>
+
+  <RimmuNationTableSniper.label>Rimmu-Nation神射手工作台</RimmuNationTableSniper.label>
+  <RimmuNationTableSniper.description>用于组装Rimmu-Nation狙击枪和步枪等精准枪械的工作台。</RimmuNationTableSniper.description>
+  <RimmuNationTableSniper_Blueprint.label>Rimmu-Nation神射手工作台 (蓝图)</RimmuNationTableSniper_Blueprint.label>
+  <RimmuNationTableSniper_Frame.label>Rimmu-Nation神射手工作台 (建造中)</RimmuNationTableSniper_Frame.label>
+  <RimmuNationTableSniper_Frame.description>用于组装Rimmu-Nation狙击枪和步枪等精准枪械的工作台。</RimmuNationTableSniper_Frame.description>
+
+
+  <!-- HEAVY WEAPONS -->
+
+  <RimmuNationTableExplosives.label>Rimmu-Nation特种工作台</RimmuNationTableExplosives.label>
+  <RimmuNationTableExplosives.description>用于组装Rimmu-Nation特种装备的工作台。</RimmuNationTableExplosives.description>
+  <RimmuNationTableExplosives_Blueprint.label>Rimmu-Nation特种工作台 (蓝图)</RimmuNationTableExplosives_Blueprint.label>
+  <RimmuNationTableExplosives_Frame.label>Rimmu-Nation特种工作台 (建造中)</RimmuNationTableExplosives_Frame.label>
+  <RimmuNationTableExplosives_Frame.description>用于组装Rimmu-Nation特种装备的工作台。</RimmuNationTableExplosives_Frame.description>
+
+
+  <!-- Smithy -->
+
+  <RimmuNationSmithy.label>Rimmu-Nation锻造组装台</RimmuNationSmithy.label>
+  <RimmuNationSmithy.description>用于制作Rimmu-Nation近战武器的工作台。</RimmuNationSmithy.description>
+  <RimmuNationSmithy_Blueprint.label>Rimmu-Nation锻造台 (蓝图)</RimmuNationSmithy_Blueprint.label>
+  <RimmuNationSmithy_Frame.label>Rimmu-Nation锻造台 (建造中)</RimmuNationSmithy_Frame.label>
+  <RimmuNationSmithy_Frame.description>用于制作Rimmu-Nation近战武器的工作台。</RimmuNationSmithy_Frame.description>
+
+
+</LanguageData>

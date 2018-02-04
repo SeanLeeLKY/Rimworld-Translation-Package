@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RimmuNation_ClaymoreMine.label>"阔剑"地雷</RimmuNation_ClaymoreMine.label>
+  <RimmuNation_ClaymoreMine.description>M18A1 Claymore，或称“阔剑”，一种由旧世界美国军队开发的定向人员杀伤地雷。</RimmuNation_ClaymoreMine.description>
+  <RimmuNation_ClaymoreMine_Blueprint.label>"阔剑"地雷 (蓝图)</RimmuNation_ClaymoreMine_Blueprint.label>
+  <RimmuNation_ClaymoreMine_Frame.label>"阔剑"地雷 (部署中)</RimmuNation_ClaymoreMine_Frame.label>
+  <RimmuNation_ClaymoreMine_Frame.description>M18A1 Claymore，或称“阔剑”，一种由旧世界美国军队开发的定向人员杀伤地雷。</RimmuNation_ClaymoreMine_Frame.description>
+
+
+  <!-- Apeture sentry turret -->
+
+  <RNPortalSentry.label>光圈科技™防卫炮塔</RNPortalSentry.label>
+  <RNPortalSentry.description>一种带有个人化人格思维程序、遍布光圈科技™培训设施的固定式防卫炮塔。【严重受损时会爆炸】</RNPortalSentry.description>
+  <RNPortalSentry_Blueprint.label>光圈科技™防卫炮塔 (蓝图)</RNPortalSentry_Blueprint.label>
+  <RNPortalSentry_Blueprint_Install.label>光圈科技™防卫炮塔 (蓝图)</RNPortalSentry_Blueprint_Install.label>
+  <RNPortalSentry_Frame.label>光圈科技™防卫炮塔 (部署中)</RNPortalSentry_Frame.label>
+  <RNPortalSentry_Frame.description>一种带有个人化人格思维程序、遍布光圈科技™培训设施的固定式防卫炮塔。【严重受损时会爆炸】</RNPortalSentry_Frame.description>
+
+  <Bullet_RNPortalSentry.label>步哨枪子弹</Bullet_RNPortalSentry.label>
+
+  <Gun_RNPortalTurret.label>步哨枪</Gun_RNPortalTurret.label>
+  <Gun_RNPortalTurret.description>一把连接在炮塔底座上的枪。</Gun_RNPortalTurret.description>
+
+
+  <!-- RN sentry turret -->
+
+  <RNSentryGun.label>步哨枪</RNSentryGun.label>
+  <RNSentryGun.description>这种步哨枪装载了防卫摄像头、传感器和一把速射机枪，可以自动瞄准被传感器探测到的目标，然后用可观的火力将其打成筛子。【严重受损时会爆炸】</RNSentryGun.description>
+  <RNSentryGun_Blueprint.label>步哨枪 (蓝图)</RNSentryGun_Blueprint.label>
+  <RNSentryGun_Blueprint_Install.label>步哨枪 (蓝图)</RNSentryGun_Blueprint_Install.label>
+  <RNSentryGun_Frame.label>步哨枪 (部署中)</RNSentryGun_Frame.label>
+  <RNSentryGun_Frame.description>这种步哨枪装载了防卫摄像头、传感器和一把速射机枪，可以自动瞄准被传感器探测到的目标，然后用可观的火力将其打成筛子。【严重受损时会爆炸】</RNSentryGun_Frame.description>
+
+  <Bullet_RNSentryGun.label>步哨枪子弹</Bullet_RNSentryGun.label>
+
+  <Gun_RNSentryGunTurret.label>步哨枪</Gun_RNSentryGunTurret.label>
+  <Gun_RNSentryGunTurret.description>一把连接在炮塔底座上的枪。</Gun_RNSentryGunTurret.description>
+
+
+  <!-- RN Portable sentry turret -->
+
+  <RNPortableSentry.label>便携式步哨枪</RNPortableSentry.label>
+  <RNPortableSentry.description>这种特制的公文包除了可以作为炮塔底座以外还包含了防卫摄像头、传感器、支架和一把P90 PDW。这种步哨枪轻便且容易部署，但不耐用。【严重受损时会爆炸】</RNPortableSentry.description>
+  <RNPortableSentry_Blueprint.label>便携式步哨枪 (蓝图)</RNPortableSentry_Blueprint.label>
+  <RNPortableSentry_Blueprint_Install.label>便携式步哨枪 (蓝图)</RNPortableSentry_Blueprint_Install.label>
+  <RNPortableSentry_Frame.label>便携式步哨枪 (部署中)</RNPortableSentry_Frame.label>
+  <RNPortableSentry_Frame.description>这种特制的公文包除了可以作为底座以外还包含了防卫摄像头、传感器、支架和一把P90 PDW。这种步哨枪轻便且容易部署，但不耐用。【严重受损时会爆炸】</RNPortableSentry_Frame.description>
+
+  <Bullet_RNPortableSentry.label>步哨枪子弹</Bullet_RNPortableSentry.label>
+
+  <Gun_RNPortableTurret.label>步哨枪</Gun_RNPortableTurret.label>
+  <Gun_RNPortableTurret.description>一把连接在炮塔底座上的枪。</Gun_RNPortableTurret.description>
+
+
+</LanguageData>

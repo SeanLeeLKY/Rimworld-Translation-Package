@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RNBomb.label>炸伤</RNBomb.label>
+  <RNBomb.deathMessage>{0}被炸死了。</RNBomb.deathMessage>
+
+
+  <!-- Other crap -->
+
+  <RNChargeBomb.label>炸伤</RNChargeBomb.label>
+  <RNChargeBomb.deathMessage>{0}被炸死了。</RNChargeBomb.deathMessage>
+
+  <RNSmoke.label>烟雾</RNSmoke.label>
+  <RNSmoke.deathMessage>{0}被杀死了。</RNSmoke.deathMessage>
+
+  <RNMollyFlame.label>烧伤</RNMollyFlame.label>
+  <RNMollyFlame.deathMessage>{0}被烧死了。</RNMollyFlame.deathMessage>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Temporary hack; ranged weapons need to use the old pre-flavorful-combat system to avoid a rebalance cascade. -->
+
+  <!--[Core] <RangedStab.label>刺伤</RangedStab.label>-->
+  <!--[Core] <RangedStab.deathMessage>{0}被刺死了。</RangedStab.deathMessage>-->
+
+  <!--[Core] <Bullet.label>子弹伤</Bullet.label>-->
+  <!--[Core] <Bullet.deathMessage>{0}被枪射杀了。</Bullet.deathMessage>-->
+
+  <!--[Core] <Arrow.label>箭伤</Arrow.label>-->
+  <!--[Core] <Arrow.deathMessage>{0}被箭射杀了。</Arrow.deathMessage>-->
+
+  <!--[Core] <ArrowHighVelocity.label>箭伤</ArrowHighVelocity.label>-->
+  <!--[Core] <ArrowHighVelocity.deathMessage>{0}被箭射杀了。</ArrowHighVelocity.deathMessage>-->
+
+
+</LanguageData>

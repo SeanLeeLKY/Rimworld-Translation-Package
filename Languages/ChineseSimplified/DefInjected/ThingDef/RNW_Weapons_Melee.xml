@@ -1,0 +1,155 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Shawshank -->
+
+  <MeleeWeapon_RNPrisonShank.label>简易匕首</MeleeWeapon_RNPrisonShank.label>
+  <MeleeWeapon_RNPrisonShank.description>或称“Prison Shank(囚犯小刀)”，一种只要用胶带或布料裹住一块尖锐的金属、木料或玻璃就可以制成的简单的刺杀武器。</MeleeWeapon_RNPrisonShank.description>
+  <MeleeWeapon_RNPrisonShank.tools.0.label>握把</MeleeWeapon_RNPrisonShank.tools.0.label>
+  <MeleeWeapon_RNPrisonShank.tools.1.label>尖端</MeleeWeapon_RNPrisonShank.tools.1.label>
+
+
+  <!-- Bayonet -->
+
+  <MeleeWeapon_RNBayonetKnife.label>M9刺刀</MeleeWeapon_RNBayonetKnife.label>
+  <MeleeWeapon_RNBayonetKnife.description>M9式刺刀是基于美国弗罗比斯公司的巴克马斯特猎刀改进而成的军用武器，常下挂于步枪，也可作匕首和野战工作刀使用。其刃口部位经局部热处理，刀口锋利，能砍树枝木棒，切割绳索。刀背较长一段有锯齿，锯齿坚利，角度合适，能锯断飞机壳体和50.8mm厚的松木板。</MeleeWeapon_RNBayonetKnife.description>
+  <MeleeWeapon_RNBayonetKnife.tools.0.label>握把</MeleeWeapon_RNBayonetKnife.tools.0.label>
+  <MeleeWeapon_RNBayonetKnife.tools.1.label>刃</MeleeWeapon_RNBayonetKnife.tools.1.label>
+  <MeleeWeapon_RNBayonetKnife.tools.2.label>尖端</MeleeWeapon_RNBayonetKnife.tools.2.label>
+
+
+  <!-- dagger -->
+
+  <MeleeWeapon_RNSkyrimKnife.label>天际匕首</MeleeWeapon_RNSkyrimKnife.label>
+  <MeleeWeapon_RNSkyrimKnife.description>这把匕首来自于遥远的天际省——信不信由你。</MeleeWeapon_RNSkyrimKnife.description>
+  <MeleeWeapon_RNSkyrimKnife.tools.0.label>握把</MeleeWeapon_RNSkyrimKnife.tools.0.label>
+  <MeleeWeapon_RNSkyrimKnife.tools.1.label>刃</MeleeWeapon_RNSkyrimKnife.tools.1.label>
+  <MeleeWeapon_RNSkyrimKnife.tools.2.label>尖端</MeleeWeapon_RNSkyrimKnife.tools.2.label>
+
+
+  <!-- EickhornRecondo -->
+
+  <MeleeWeapon_RNRecondoKnife.label>Recondo IV战术刀</MeleeWeapon_RNRecondoKnife.label>
+  <MeleeWeapon_RNRecondoKnife.description>由德国Eickhorn公司生产的战术刀，刃使用激光切割和数控研磨55 SI7碳钢，黑色Kalgard涂层防腐蚀保护，玻璃纤维握把。所用金属通过美国MIL-STD-171盐雾（雾气）耐腐蚀测试，工作环境温度达-40°C至+80°C，每把匕首各有不同的序列号。</MeleeWeapon_RNRecondoKnife.description>
+  <MeleeWeapon_RNRecondoKnife.tools.0.label>握把</MeleeWeapon_RNRecondoKnife.tools.0.label>
+  <MeleeWeapon_RNRecondoKnife.tools.1.label>刃</MeleeWeapon_RNRecondoKnife.tools.1.label>
+  <MeleeWeapon_RNRecondoKnife.tools.2.label>尖端</MeleeWeapon_RNRecondoKnife.tools.2.label>
+
+
+  <!-- FSDagger -->
+
+  <MeleeWeapon_RNFairbairnSkyesKnife.label>费赛二氏战斗刀</MeleeWeapon_RNFairbairnSkyesKnife.label>
+  <MeleeWeapon_RNFairbairnSkyesKnife.description>费赛二氏战斗刀（Fairbairn-Sykes Fighting Knife，简称F-S Fighting Knife），是一种具备双面刃的匕首，由威廉·费尔贝恩与艾瑞克·赛克斯于第二次世界大战之前在中国上海所设计，后成为英国特种空勤团（即SAS）的制式装备。这种格斗刀外观并不华丽，但确实是肉搏、刺杀的绝佳利器。</MeleeWeapon_RNFairbairnSkyesKnife.description>
+  <MeleeWeapon_RNFairbairnSkyesKnife.tools.0.label>握把</MeleeWeapon_RNFairbairnSkyesKnife.tools.0.label>
+  <MeleeWeapon_RNFairbairnSkyesKnife.tools.1.label>刃</MeleeWeapon_RNFairbairnSkyesKnife.tools.1.label>
+  <MeleeWeapon_RNFairbairnSkyesKnife.tools.2.label>尖端</MeleeWeapon_RNFairbairnSkyesKnife.tools.2.label>
+
+
+  <!-- GutKnife -->
+
+  <MeleeWeapon_RNGutKnife.label>穿肠刀</MeleeWeapon_RNGutKnife.label>
+  <MeleeWeapon_RNGutKnife.description>BUCK阿尔法猎手直刀带内脏钩版本。内脏钩是猎人在肢解猎物时安全地勾出猎物的消化系统内脏，避免将其割破而污染猎物的肉的一种特殊设计。不同于影视作品、小说或者游戏里描写的那么暴力，现实的近战格斗中这个钩几乎没有任何正面作用，反而容易卡在敌人的骨头间或者衣服上导致无法拔出。</MeleeWeapon_RNGutKnife.description>
+  <MeleeWeapon_RNGutKnife.tools.0.label>握把</MeleeWeapon_RNGutKnife.tools.0.label>
+  <MeleeWeapon_RNGutKnife.tools.1.label>刃</MeleeWeapon_RNGutKnife.tools.1.label>
+  <MeleeWeapon_RNGutKnife.tools.2.label>尖端</MeleeWeapon_RNGutKnife.tools.2.label>
+
+
+  <!-- Karambit -->
+
+  <MeleeWeapon_RNKarambitKnife.label>爪刀</MeleeWeapon_RNKarambitKnife.label>
+  <MeleeWeapon_RNKarambitKnife.description>Karambit爪刀起源于巴厘岛，为印尼、马来亚等地流行的一种个人随身刀具，适合防身用，现在又演化出了各种各样的功能。其最初的形状是参考自印度教中比玛和哈奴曼神的爪的形状，后来逐渐变成现在的样子。</MeleeWeapon_RNKarambitKnife.description>
+  <MeleeWeapon_RNKarambitKnife.tools.0.label>握把</MeleeWeapon_RNKarambitKnife.tools.0.label>
+  <MeleeWeapon_RNKarambitKnife.tools.1.label>刃</MeleeWeapon_RNKarambitKnife.tools.1.label>
+  <MeleeWeapon_RNKarambitKnife.tools.2.label>尖端</MeleeWeapon_RNKarambitKnife.tools.2.label>
+
+  <MeleeWeapon_RNSkinnerKnife.label>剥皮刀</MeleeWeapon_RNSkinnerKnife.label>
+  <MeleeWeapon_RNSkinnerKnife.description>一种手工锻造的大马士革式猎刀，外观华丽，同时也很实用。</MeleeWeapon_RNSkinnerKnife.description>
+  <MeleeWeapon_RNSkinnerKnife.tools.0.label>握把</MeleeWeapon_RNSkinnerKnife.tools.0.label>
+  <MeleeWeapon_RNSkinnerKnife.tools.1.label>刃</MeleeWeapon_RNSkinnerKnife.tools.1.label>
+  <MeleeWeapon_RNSkinnerKnife.tools.2.label>尖端</MeleeWeapon_RNSkinnerKnife.tools.2.label>
+
+  <MeleeWeapon_RNSpetsnazMachete.label>Spetsnaz砍刀</MeleeWeapon_RNSpetsnazMachete.label>
+  <MeleeWeapon_RNSpetsnazMachete.description>Spetsnaz是指俄罗斯特殊使命部队(спецназ)，即雪域特战队。这种俄罗斯风格的砍刀外形与常见的Machete砍刀和尼泊尔弯刀不同，但它们用途是一样的，清除挡路的一切，人，或是物。</MeleeWeapon_RNSpetsnazMachete.description>
+  <MeleeWeapon_RNSpetsnazMachete.tools.0.label>握把</MeleeWeapon_RNSpetsnazMachete.tools.0.label>
+  <MeleeWeapon_RNSpetsnazMachete.tools.1.label>刃</MeleeWeapon_RNSpetsnazMachete.tools.1.label>
+
+
+  <!-- Ka-bar -->
+
+  <MeleeWeapon_RNKABARKnife.label>KA-BAR战斗刀</MeleeWeapon_RNKABARKnife.label>
+  <MeleeWeapon_RNKABARKnife.description>KA-BAR战斗刀是Ka Bar刀具公司生产的一款格斗刀，于1945年列装USMC并命名为“美国海军陆战队格斗及多用途刀(USMC Fighting/Utility Knife)”。Ka Bar公司原名Union Razor Co.,被称为Ka-bar 是源于一位猎人的推荐信函。这位猎人在打猎的途中遇到了熊，子弹用尽的他只好拿起了他那由Union Razor Co.所造的高品质猎刀来与熊搏斗，因而保住了性命。他在信上写到这把刀可以杀熊（Kill a bear ），但是因为这位猎人的教育层度不高，将它写成Kil a bar，后来又被人们缩写成Ka-Bar，因此Ka-Bar这个名字便为大家所传颂。</MeleeWeapon_RNKABARKnife.description>
+  <MeleeWeapon_RNKABARKnife.tools.0.label>握把</MeleeWeapon_RNKABARKnife.tools.0.label>
+  <MeleeWeapon_RNKABARKnife.tools.1.label>刃</MeleeWeapon_RNKABARKnife.tools.1.label>
+  <MeleeWeapon_RNKABARKnife.tools.2.label>尖端</MeleeWeapon_RNKABARKnife.tools.2.label>
+
+
+  <!-- Baseball -->
+
+  <MeleeWeapon_RNBaseballBat.label>棒球棒</MeleeWeapon_RNBaseballBat.label>
+  <MeleeWeapon_RNBaseballBat.description>你可以用这根棒子打出一个漂亮的全垒打，无论你打的是球，还是敌人的头。</MeleeWeapon_RNBaseballBat.description>
+  <MeleeWeapon_RNBaseballBat.tools.0.label>握把</MeleeWeapon_RNBaseballBat.tools.0.label>
+  <MeleeWeapon_RNBaseballBat.tools.1.label>头</MeleeWeapon_RNBaseballBat.tools.1.label>
+
+
+  <!-- Cricket -->
+
+  <MeleeWeapon_RNCricketBat.label>板球拍</MeleeWeapon_RNCricketBat.label>
+  <MeleeWeapon_RNCricketBat.description>板球(Cricket)，又称木球，一向让人称颂为“绅士的游戏”和“贵族运动”，是一项崇尚“体育精神”（sportsmanship)和“公平比赛”(fairplay)的运动。\n而板球拍，就是用来抽这些贵族那柔嫩的小屁屁的东西。</MeleeWeapon_RNCricketBat.description>
+  <MeleeWeapon_RNCricketBat.tools.0.label>握把</MeleeWeapon_RNCricketBat.tools.0.label>
+  <MeleeWeapon_RNCricketBat.tools.1.label>头</MeleeWeapon_RNCricketBat.tools.1.label>
+
+
+  <!-- Caber -->
+
+  <MeleeWeapon_RNTheCaber.label>破门大锤</MeleeWeapon_RNTheCaber.label>
+  <MeleeWeapon_RNTheCaber.description>一种特制的敲打、破坏用装备，其主要特征是一端十分沉重、另一端则带有凿子，其本身还可以作为撬棍。\n\n大锤 80，专为破门查水表而生。</MeleeWeapon_RNTheCaber.description>
+  <MeleeWeapon_RNTheCaber.tools.0.label>chisel</MeleeWeapon_RNTheCaber.tools.0.label>
+  <MeleeWeapon_RNTheCaber.tools.1.label>头</MeleeWeapon_RNTheCaber.tools.1.label>
+
+
+  <!-- Crowbar -->
+
+  <MeleeWeapon_RNCrowbar.label>撬棍</MeleeWeapon_RNCrowbar.label>
+  <MeleeWeapon_RNCrowbar.description>撬棍是一种以粗重金属棒为主体的工具，主要特征是其中一边为弯曲和平而尖的末端，以切入到较狭窄的角度，让使用者可以撬开门或之类的物件。不过，这种特别的设计也可以使其作为防身武器使用。</MeleeWeapon_RNCrowbar.description>
+  <MeleeWeapon_RNCrowbar.tools.0.label>chisel</MeleeWeapon_RNCrowbar.tools.0.label>
+  <MeleeWeapon_RNCrowbar.tools.1.label>头</MeleeWeapon_RNCrowbar.tools.1.label>
+
+  <MeleeWeapon_RNNightstick.label>警棍</MeleeWeapon_RNNightstick.label>
+  <MeleeWeapon_RNNightstick.description>由橡胶包裹金属或木质棍芯制成的棍子，长度与人的手臂相近，通常用于对袭来的刀具进行卡刃、同时对目标发动具威力又不会致命的打击。</MeleeWeapon_RNNightstick.description>
+  <MeleeWeapon_RNNightstick.tools.0.label>握把</MeleeWeapon_RNNightstick.tools.0.label>
+  <MeleeWeapon_RNNightstick.tools.1.label>头</MeleeWeapon_RNNightstick.tools.1.label>
+
+
+  <!-- Broadsword -->
+
+  <MeleeWeapon_RNBroadSword.label>大剑</MeleeWeapon_RNBroadSword.label>
+  <MeleeWeapon_RNBroadSword.description>大剑不仅是一种强大的武器，同时也是一种战士的信仰。为了诺德！</MeleeWeapon_RNBroadSword.description>
+  <MeleeWeapon_RNBroadSword.tools.0.label>握把</MeleeWeapon_RNBroadSword.tools.0.label>
+  <MeleeWeapon_RNBroadSword.tools.1.label>尖端</MeleeWeapon_RNBroadSword.tools.1.label>
+  <MeleeWeapon_RNBroadSword.tools.2.label>刃</MeleeWeapon_RNBroadSword.tools.2.label>
+
+
+  <!-- Katanner -->
+
+  <MeleeWeapon_RNKatana.label>武士刀</MeleeWeapon_RNKatana.label>
+  <MeleeWeapon_RNKatana.description>这种机械锻造的武士刀与那些手工锻造的武士刀不同。至于哪里不同呢，我也不知道。反正你只要知道可以拿着它将敌人砍得七零八落就好了。</MeleeWeapon_RNKatana.description>
+  <MeleeWeapon_RNKatana.tools.0.label>握把</MeleeWeapon_RNKatana.tools.0.label>
+  <MeleeWeapon_RNKatana.tools.1.label>尖端</MeleeWeapon_RNKatana.tools.1.label>
+  <MeleeWeapon_RNKatana.tools.2.label>刃</MeleeWeapon_RNKatana.tools.2.label>
+
+
+  <!-- Blunt -->
+
+  <MeleeWeapon_RNMachete.label>迈歇提砍刀</MeleeWeapon_RNMachete.label>
+  <MeleeWeapon_RNMachete.description>迈歇提(Machete)砍刀，原型是核心世界一个名为墨西哥的国家的人民用以砍伐仙人掌以清出道路的工具。这种砍刀适合用来清除障碍，当然用来砍人也不错。</MeleeWeapon_RNMachete.description>
+  <MeleeWeapon_RNMachete.tools.0.label>握把</MeleeWeapon_RNMachete.tools.0.label>
+  <MeleeWeapon_RNMachete.tools.1.label>尖端</MeleeWeapon_RNMachete.tools.1.label>
+  <MeleeWeapon_RNMachete.tools.2.label>刃</MeleeWeapon_RNMachete.tools.2.label>
+
+  <MeleeWeapon_RNTomahawk.label>Tomahawk战斧</MeleeWeapon_RNTomahawk.label>
+  <MeleeWeapon_RNTomahawk.description>Tomahawk是指一种北美土著常用的战斧，俗称印第安战斧，通常由绑在木棍或鹿角上的石头制成，还会加上鹰羽、链珠等装饰，这种斧子除了肉搏、投掷作战以外，还可以作为工具使用。当然了，你手上的这把是现代技术的产物。</MeleeWeapon_RNTomahawk.description>
+  <MeleeWeapon_RNTomahawk.tools.0.label>握把</MeleeWeapon_RNTomahawk.tools.0.label>
+  <MeleeWeapon_RNTomahawk.tools.1.label>刃</MeleeWeapon_RNTomahawk.tools.1.label>
+
+
+</LanguageData>

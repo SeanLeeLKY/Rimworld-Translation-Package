@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- LMG -->
+
+  <!--[Duplicated] <Bullet_RNBooletLMG.label>LMG bullet</Bullet_RNBooletLMG.label>-->
+
+  <Gun_DP28LMG.label>DP-28轻机枪</Gun_DP28LMG.label>
+  <Gun_DP28LMG.description>捷格加廖夫轻机枪于1926年设计定型，1928年装备苏军，因此而命名为DP-28。其结构简单，制造工艺要求不高，在第二次世界大战中发挥了重要作用。</Gun_DP28LMG.description>
+  <Gun_DP28LMG.tools.0.label>枪托</Gun_DP28LMG.tools.0.label>
+  <Gun_DP28LMG.tools.1.label>枪管</Gun_DP28LMG.tools.1.label>
+
+
+  <!-- M60 -->
+
+  <!--[Duplicated] <Bullet_RNBooletLMG.label>LMG bullet</Bullet_RNBooletLMG.label>-->
+
+  <Gun_DPM60LMG.label>M60通用机枪</Gun_DPM60LMG.label>
+  <Gun_DPM60LMG.description>M60式7.62mm通用机枪由美国春田(SpringField，或称斯普林菲尔德，与日本无关)兵工厂研发，其设计工作起始于第二次世界大战末期，经过了T44式、T52式、T61式等多次改进，于1957年正式定型为M60式，并且全面投产。M60式通用机枪也是世界上最著名的机枪之一，除美军外，韩国、澳大利亚等30多个国家的军队也都装备了该枪型武器。</Gun_DPM60LMG.description>
+  <Gun_DPM60LMG.tools.0.label>枪托</Gun_DPM60LMG.tools.0.label>
+  <Gun_DPM60LMG.tools.1.label>枪管</Gun_DPM60LMG.tools.1.label>
+
+
+  <!-- RPD -->
+
+  <!--[Duplicated] <Bullet_RNBooletLMG.label>LMG bullet</Bullet_RNBooletLMG.label>-->
+
+  <Gun_DPRPDLMG.label>RPD机枪</Gun_DPRPDLMG.label>
+  <Gun_DPRPDLMG.description>РПД7．62mm轻机枪是前苏联枪械设计师捷格加廖夫于1943年设计，使用前苏联M43式7．62×39,mm中间型枪弹。二次大战后正式装备苏军，以代替捷格加廖夫DP-28轻机枪。于60年代起，苏联和一些东欧国家就已经用更新的RPK 7.62mm轻机枪来取代RPD进行列装。</Gun_DPRPDLMG.description>
+  <Gun_DPRPDLMG.tools.0.label>枪托</Gun_DPRPDLMG.tools.0.label>
+  <Gun_DPRPDLMG.tools.1.label>枪管</Gun_DPRPDLMG.tools.1.label>
+
+
+  <!-- RPK74 -->
+
+  <!--[Duplicated] <Bullet_RNBooletLMG.label>LMG bullet</Bullet_RNBooletLMG.label>-->
+
+  <Gun_DPRPKLMG.label>RPK-74轻机枪</Gun_DPRPKLMG.label>
+  <Gun_DPRPKLMG.description>在新的5.45毫米M74步枪弹和AK-74突击步枪装备苏军后，以AK-74为基础的班用轻机枪也开始研制，RPK-74应运而生。该枪主要将AK-74的枪管进行了加长、加重，枪口初速增至960米/秒，此外还加装了轻型两脚架。RPK-74采用一种容量为45发的长弹匣，与AK-74的30发弹匣通用，因此RPK-74也能使用AK-74的弹匣。不过，通常枪械在发射5000发以上的子弹后枪管都会开始严重烧蚀，而RPK采用的固定式枪管不支持随时更换，因此该枪严格上来说只能算作重型突击步枪，因为它无法进行长时间的压制射击。</Gun_DPRPKLMG.description>
+  <Gun_DPRPKLMG.tools.0.label>枪托</Gun_DPRPKLMG.tools.0.label>
+  <Gun_DPRPKLMG.tools.1.label>枪管</Gun_DPRPKLMG.tools.1.label>
+
+
+  <!-- Zastava M84 -->
+
+  <!--[Duplicated] <Bullet_RNBooletLMG.label>LMG bullet</Bullet_RNBooletLMG.label>-->
+
+  <Gun_DPZastavaM84LMG.label>扎斯塔瓦M84轻机枪</Gun_DPZastavaM84LMG.label>
+  <Gun_DPZastavaM84LMG.description>M84式7.62mm通用机枪由前南斯拉夫扎斯塔瓦武器公司生产，目的是应用前苏联的7.62×54mmR枪弹。无论是外形还是性能上，M84都与前苏联ПК7.62mm机枪族的ПКМ（即PKM）十分相似。</Gun_DPZastavaM84LMG.description>
+  <Gun_DPZastavaM84LMG.tools.0.label>枪托</Gun_DPZastavaM84LMG.tools.0.label>
+  <Gun_DPZastavaM84LMG.tools.1.label>枪管</Gun_DPZastavaM84LMG.tools.1.label>
+
+
+  <!-- PKM -->
+
+  <!--[Duplicated] <Bullet_RNBooletLMG.label>LMG bullet</Bullet_RNBooletLMG.label>-->
+
+  <Gun_DPPKMLMG.label>PKM机枪</Gun_DPPKMLMG.label>
+  <Gun_DPPKMLMG.description>PK通用机枪（英文：Pulemyot Kalashnikova，俄文：Пулемет Калашникова）是由AK系列突击步枪设计者米哈伊尔·季莫费耶维奇·卡拉什尼科夫于1960年代所设计的通用机枪，用于取代当时设计老旧的RPD轻机枪和SG-43中型机枪，并大量装备苏联军队。</Gun_DPPKMLMG.description>
+  <Gun_DPPKMLMG.tools.0.label>枪托</Gun_DPPKMLMG.tools.0.label>
+  <Gun_DPPKMLMG.tools.1.label>枪管</Gun_DPPKMLMG.tools.1.label>
+
+
+  <!-- M249 SAW -->
+
+  <!--[Duplicated] <Bullet_RNBooletLMG.label>LMG bullet</Bullet_RNBooletLMG.label>-->
+
+  <Gun_M249SAWLMG.label>M249 SAW</Gun_M249SAWLMG.label>
+  <Gun_M249SAWLMG.description>全称M249班用自动武器（M249 squad automatic weapon），美国军方正式名称为“Squad Automatic Weapon, 5.56mm, M249”。是美军以比利时Fabrique Nationale（FN）制造的FN Minimi轻机枪为基础的改良版本，于1984年正式成为美军三军制式班用机枪，亦是步兵班中最具持久连续火力的武器。</Gun_M249SAWLMG.description>
+  <Gun_M249SAWLMG.tools.0.label>枪托</Gun_M249SAWLMG.tools.0.label>
+  <Gun_M249SAWLMG.tools.1.label>枪管</Gun_M249SAWLMG.tools.1.label>
+
+
+  <!-- M240 -->
+
+  <!--[Duplicated] <Bullet_RNBooletLMG.label>LMG bullet</Bullet_RNBooletLMG.label>-->
+
+  <Gun_M240BravoLMG.label>M240B通用机枪</Gun_M240BravoLMG.label>
+  <Gun_M240BravoLMG.description>M240Bravo是美国陆军和海军陆战队列装的制式标准步兵中型机枪，它同时也在美国空军、海军和海岸警卫队之中服役，是从1990年代中期开始装备的M240系列机枪的衍生型号。</Gun_M240BravoLMG.description>
+  <Gun_M240BravoLMG.tools.0.label>枪托</Gun_M240BravoLMG.tools.0.label>
+  <Gun_M240BravoLMG.tools.1.label>枪管</Gun_M240BravoLMG.tools.1.label>
+
+
+  <!-- Minimi -->
+
+  <Bullet_RNBooletLMG.label>轻机枪子弹</Bullet_RNBooletLMG.label>
+
+  <Gun_FNMinimiLMG.label>FN Minimi轻机枪</Gun_FNMinimiLMG.label>
+  <Gun_FNMinimiLMG.description>英文全称为Mini-mitrailleuse，是一款20世纪70年代由比利时Fabrique Nationale公司设计的气体传动式轻机枪，于80年代正式服役于美军，后被世界上数十个国家采购并装备于部队。</Gun_FNMinimiLMG.description>
+  <Gun_FNMinimiLMG.tools.0.label>枪托</Gun_FNMinimiLMG.tools.0.label>
+  <Gun_FNMinimiLMG.tools.1.label>枪管</Gun_FNMinimiLMG.tools.1.label>
+
+
+  <!-- Minigun -->
+
+  <Bullet_RNMinigun.label>火神机炮子弹</Bullet_RNMinigun.label>
+
+  <Gun_M61VulcanMinigun.label>M61“火神”式机炮</Gun_M61VulcanMinigun.label>
+  <Gun_M61VulcanMinigun.description>M61火神式航空机关炮（M61 "Vulcan" Aircraft Gun）是一种由美军开发、通常被装载在战斗机和直升机上的高射速近距离火炮系统，通用代号GAU-4(GAU是通用自动火炮，Gun Automatic Universal的缩写)，口径为20mm，其航空用版本被赋予M61的代号。这种武器使用电力驱动六管滚动运作，以极高的射速和强大的破坏力而为人所知。不过值得一提的是，手持这种武器射击并不明智，除非你套着铁罐头(指动力装甲)。</Gun_M61VulcanMinigun.description>
+  <Gun_M61VulcanMinigun.tools.0.label>炮筒</Gun_M61VulcanMinigun.tools.0.label>
+
+
+</LanguageData>

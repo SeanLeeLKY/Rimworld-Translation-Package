@@ -1,0 +1,340 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ACR -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNACRRifle.label>ACR突击步枪</Gun_RNACRRifle.label>
+  <Gun_RNACRRifle.description>Bushmaster ACR “Masada（“Masada”是以色列古代犹太国的象征）”步枪系统是MagPul公司第一个成品枪产品，首度公开是在2007年美国著名的枪械展SHOT Show上。据称Masada步枪的研制时间很短，MagPul公司的研发小组只花不足4个月就制作出了原型枪，而且只花了不到7万美元的费用。之所以能用这么短时间和这么少的资金，是因为Masada系统是把许多已经发展成熟的设计加以汇集，并运用MagPul公司多年来生产AR式步枪配件的经验，把它们整合了在一起。MagPul Masada系统很明显是受到了FN SCAR系列步枪的启发，并打算在模块化方面做得更彻底。但SCAR特种步枪计划已经过了投标阶段，因此Masada的市场只能是面对执法机构和民用了。</Gun_RNACRRifle.description>
+  <Gun_RNACRRifle.tools.0.label>枪托</Gun_RNACRRifle.tools.0.label>
+  <Gun_RNACRRifle.tools.1.label>枪管</Gun_RNACRRifle.tools.1.label>
+
+
+  <!-- AUG -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNAUGRifle.label>AUG突击步枪</Gun_RNAUGRifle.label>
+  <Gun_RNAUGRifle.description>斯太尔AUG（德语Armee Universal Gewehr的缩写，即陆军通用步枪）是一种导气式、弹匣供弹、射击方式可选的无托结构步枪，于1977年奥地利斯泰尔-曼利夏（Steyr Mannlicher）公司推出，是史上首款被军队正式列装、实际采用犊牛式无托结构设计的军用突击步枪，使用5.56mm北约口径弹药。该枪采用的一系列设计都相当聪明：无托结构便于携带、不易钩挂；塑料枪身轻便、耐腐蚀；高倍瞄准镜使得射程和精度都得以提升；模块化的部件设计方便安装、拆卸以及更换。很少有无托结构的步枪能获得执法机构或特种部队的采用，而AUG是个例外，可以说，斯太尔AUG是商业上最成功的无托结构突击步枪。</Gun_RNAUGRifle.description>
+  <Gun_RNAUGRifle.tools.0.label>枪托</Gun_RNAUGRifle.tools.0.label>
+  <Gun_RNAUGRifle.tools.1.label>枪管</Gun_RNAUGRifle.tools.1.label>
+
+
+  <!-- C7 -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNC7CarbineRifle.label>C7自动步枪</Gun_RNC7CarbineRifle.label>
+  <Gun_RNC7CarbineRifle.description>C7系列步枪是加拿大军队的制式自动突击步枪，由加拿大柯尔特（Colt Canada）公司生产，属于M16突击步枪的衍生型。通常配发30发5.56x45mm NATO（即北约口径）塑料制弹匣，亦可与M16的铝制弹匣通用。要分别C7和M16，首先要留意机匣，C7系列除铭文外还印有加拿大的特征——枫叶标记，还有一个特征就是M16系列主要使用合金制造，而加拿大生产的C7系列则使用更为轻便的塑料作为主体。</Gun_RNC7CarbineRifle.description>
+  <Gun_RNC7CarbineRifle.tools.0.label>枪托</Gun_RNC7CarbineRifle.tools.0.label>
+  <Gun_RNC7CarbineRifle.tools.1.label>枪管</Gun_RNC7CarbineRifle.tools.1.label>
+
+
+  <!-- C8 -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNC8CarbineRifle.label>C8自动步枪</Gun_RNC8CarbineRifle.label>
+  <Gun_RNC8CarbineRifle.description>C8式5.56mm突击卡宾枪和C7式5.56mm突击步枪一样，是美国m16a1/a2突击步枪的衍生产品，只不过C8式卡宾枪采用了伸缩式枪托和短枪管，但其他标准部件都可与C7式步枪互换。该型步枪结构紧凑，寿命高，精度好。</Gun_RNC8CarbineRifle.description>
+  <Gun_RNC8CarbineRifle.tools.0.label>枪托</Gun_RNC8CarbineRifle.tools.0.label>
+  <Gun_RNC8CarbineRifle.tools.1.label>枪管</Gun_RNC8CarbineRifle.tools.1.label>
+
+
+  <!-- G3 -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNG3Rifle.label>G3自动步枪</Gun_RNG3Rifle.label>
+  <Gun_RNG3Rifle.description>G3自动步枪是联邦德国（即历史上的西德）研制的一种采用滚柱闭锁枪机的自动步枪，其历史可以追溯到第二次世界大战。当时一位名为路德维希·福尔格里姆勒(Ludwig Vorgrimler)的工程师所在的一个从事武器研制工作的工程师小组受命研制一种新型突击步枪，于是他们于1944年设计了一种名为MKB GERAT 06的枪械，这种武器虽然是类似于MG42的滚柱闭锁，但却应用的是导气式原理 。在这之后毛瑟兵工厂的设计师们继续这项研制工作，并为此研制了一种半刚性的滚柱闭锁枪机，结果新式步枪的零件刚生产完，战争就结束了，毛瑟兵工厂的一些雇员被拘留在荷兰并被英国命令继续组装这些武器，于是就产生了第一支用滚柱闭锁枪机的突击步枪“Stg45”。Stg45的半刚性滚柱闭锁枪机就是G3步枪的枪机的雏形。\n1950年，路德维希·福尔格里姆勒几经周折辗转到了西班牙，并且加入西班牙特种材料技术研究中心（CETME），参加了一个专门研制新式枪械的专家组。很快，他得到了信任，而且公司还批准了由他负责设计的新枪方案。新的步枪很快就被制造出来，并取名为赛特迈(CETME)步枪。1956年，联邦德国与西班牙政府签订合同，订购首批500支的CETME步枪，条件是允许由HK公司（德国黑克勒-科赫有限公司）进行生产，而路德维希·福尔格里姆勒也随着CETME步枪回到了联邦德国。该枪型于1957年初试验结束，同年装备联邦德国军队。1958年，联邦德国与西班牙达成特许生产协议，并将生产任务交给HK公司。HK公司根据军队试验组提出的改进意见，对赛特迈步枪进行了改进，改进后的步枪——即命名为G3。</Gun_RNG3Rifle.description>
+  <Gun_RNG3Rifle.tools.0.label>枪托</Gun_RNG3Rifle.tools.0.label>
+  <Gun_RNG3Rifle.tools.1.label>枪管</Gun_RNG3Rifle.tools.1.label>
+
+
+  <!-- G36C -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNG36CRifle.label>G36C突击步枪</Gun_RNG36CRifle.label>
+  <Gun_RNG36CRifle.description>全称为HK G36 Compact Assault rifle ，即G36突击步枪紧凑型，G36系列突击步枪是德国黑克勒-科赫公司（即HK）于1995年推出的现代化第三代突击步枪。G36C是作为突击行动中使用的突入武器（ENTRY GUN）而设计的，因此为了应对近距离接敌环境而采用的“短”和“轻”设计就是它最大的特点。不过即使在尺寸与冲锋枪相仿的情况下，却拥有着步枪的火力，就是它最大的特点。</Gun_RNG36CRifle.description>
+  <Gun_RNG36CRifle.tools.0.label>枪托</Gun_RNG36CRifle.tools.0.label>
+  <Gun_RNG36CRifle.tools.1.label>枪管</Gun_RNG36CRifle.tools.1.label>
+
+
+  <!-- Stoner 63 -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNStoner63Rifle.label>斯通纳63自动步枪</Gun_RNStoner63Rifle.label>
+  <Gun_RNStoner63Rifle.description>Stoner 63是由尤金·斯通纳设计、L. James Sullivan以7.62 NATO的Stoner62缩小改造而成的5.56 NATO模组化武器系统，由凯迪拉克盖集于1963年起生产，是越南战争中美国海军海豹部队所使用的武器之一。</Gun_RNStoner63Rifle.description>
+  <Gun_RNStoner63Rifle.tools.0.label>枪托</Gun_RNStoner63Rifle.tools.0.label>
+  <Gun_RNStoner63Rifle.tools.1.label>枪管</Gun_RNStoner63Rifle.tools.1.label>
+
+
+  <!-- HK416 -->
+
+  <!--[Duplicated] <Bullet_RNHK416Rifle.label>assault rifle bullet</Bullet_RNHK416Rifle.label>-->
+
+  <Gun_RNHK416Rifle.label>HK416自动步枪</Gun_RNHK416Rifle.label>
+  <Gun_RNHK416Rifle.description>由德国黑克勒-科赫(Heckler and Koch，缩写为HK)以HK G36突击步枪的气动系统在M4卡宾枪的设计上重新改造而成，通常作为整枝步枪出售，但同样可以通过换装气动系统、上机匣组件、枪管和弹匣来改造AR-15系列的步枪组合而成。该枪原名为“HKM4”，其研制计划于2002年就已经开始。当时HK公司改进了英国的SA80（L85/L86）武器系统后，就开始着手评估改进M16系列卡宾枪的技术可行性，研究的目的是提高M16系列武器的可靠性及使用寿命。HK公司预期将来可能生产及销售完整的HKM4，也可以为军队或执法机构提供把现有武器改装成HKM4的服务。可能是由于柯尔特公司在2004年打算起诉HK公司侵犯了他们的权利的缘故，HK公司放弃了HKM4这个名称，而改称为HK416（“4”大概是指M4，“16”大概是指M16），于2005年2月开始正式推出市场。HK416同时采用了新式结构的皮卡汀尼导轨护木，因此与原来的M16/M4步枪在外形上有明显的区别。</Gun_RNHK416Rifle.description>
+  <Gun_RNHK416Rifle.tools.0.label>枪托</Gun_RNHK416Rifle.tools.0.label>
+  <Gun_RNHK416Rifle.tools.1.label>枪管</Gun_RNHK416Rifle.tools.1.label>
+
+
+  <!-- HK416 SD -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNHK416SDRifle.label>HK416自动步枪 (带消声器)</Gun_RNHK416SDRifle.label>
+  <Gun_RNHK416SDRifle.description>由德国黑克勒-科赫(Heckler and Koch，缩写为HK)以HK G36突击步枪的气动系统在M4卡宾枪的设计上重新改造而成，通常作为整枝步枪出售，但同样可以通过换装气动系统、上机匣组件、枪管和弹匣来改造AR-15系列的步枪组合而成。该枪原名为“HKM4”，其研制计划于2002年就已经开始。当时HK公司改进了英国的SA80（L85/L86）武器系统后，就开始着手评估改进M16系列卡宾枪的技术可行性，研究的目的是提高M16系列武器的可靠性及使用寿命。HK公司预期将来可能生产及销售完整的HKM4，也可以为军队或执法机构提供把现有武器改装成HKM4的服务。可能是由于柯尔特公司在2004年打算起诉HK公司侵犯了他们的权利的缘故，HK公司放弃了HKM4这个名称，而改称为HK416（“4”大概是指M4，“16”大概是指M16），于2005年2月开始正式推出市场。HK416同时采用了新式结构的皮卡汀尼导轨护木，因此与原来的M16/M4步枪在外形上有明显的区别。\n\n这把HK416加装了战术配件，因此实战效能得到了提升。</Gun_RNHK416SDRifle.description>
+  <Gun_RNHK416SDRifle.tools.0.label>枪托</Gun_RNHK416SDRifle.tools.0.label>
+  <Gun_RNHK416SDRifle.tools.1.label>枪管</Gun_RNHK416SDRifle.tools.1.label>
+
+
+  <!-- M4A1 -->
+
+  <Bullet_RNHK416Rifle.label>突击步枪子弹</Bullet_RNHK416Rifle.label>
+
+  <Gun_RNM4A1Rifle.label>M4A1</Gun_RNM4A1Rifle.label>
+  <Gun_RNM4A1Rifle.description>M4卡宾枪是由柯尔特公司（Colt）研制的M16步枪缩短型，而M4A1是M4步枪的第一型改进版，曾作为制式武器大量列装旧世界的美国军队。该枪主要改进是把原来的固定式提把改为可以安装不同的模块化瞄准装置的M1913导轨，即平顶型机匣。此外，该枪采用伸缩枪托，射击方式可选半自动或全自动，护木内采用了双层的铝制隔热层，枪管上还增加了一个缩颈用以挂装M203榴弹发射器。总而言之，M4A1有值得夸耀的射程、杀伤力、高射速和高精度，但AR系列步枪一贯的可靠性方面的问题也仍时不时地在它身上出现。</Gun_RNM4A1Rifle.description>
+  <Gun_RNM4A1Rifle.tools.0.label>枪托</Gun_RNM4A1Rifle.tools.0.label>
+  <Gun_RNM4A1Rifle.tools.1.label>枪管</Gun_RNM4A1Rifle.tools.1.label>
+
+
+  <!-- M4A1-SD -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNM4A1SDRifle.label>M4A1 (带消声器)</Gun_RNM4A1SDRifle.label>
+  <Gun_RNM4A1SDRifle.description>M4卡宾枪是由柯尔特公司（Colt）研制的M16步枪缩短型，而M4A1是M4步枪的第一型改进版，曾作为制式武器大量列装旧世界的美国军队。该枪主要改进是把原来的固定式提把改为可以安装不同的模块化瞄准装置的M1913导轨，即平顶型机匣。此外，该枪采用伸缩枪托，射击方式可选半自动或全自动，护木内采用了双层的铝制隔热层，枪管上还增加了一个缩颈用以挂装M203榴弹发射器。总而言之，M4A1有值得夸耀的射程、杀伤力、高射速和高精度，但AR系列步枪一贯的可靠性方面的问题也仍时不时地在它身上出现。\n\n这把M4A1突击步枪进行了改装，因此有着比普通版更高的实战效能。</Gun_RNM4A1SDRifle.description>
+  <Gun_RNM4A1SDRifle.tools.0.label>枪托</Gun_RNM4A1SDRifle.tools.0.label>
+  <Gun_RNM4A1SDRifle.tools.1.label>枪管</Gun_RNM4A1SDRifle.tools.1.label>
+
+
+  <!-- FAMAS -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNFAMASRifle.label>FAMAS自动步枪</Gun_RNFAMASRifle.label>
+  <Gun_RNFAMASRifle.description>FAMAS是法语“轻型自动步枪，圣艾蒂安生产”（Fusil Automatique, Manufacture d'Armes de St. Etienne）的缩写，正如其名称所表达的意思，FAMAS是由法国GIAT集团（Groupement Industriel des Armements Terrestres）下属的圣艾蒂安（St. Etienne）兵工厂生产的，使用5.56×45mm NATO弹药，研制该枪的主导思想是既能取代MAT-49式9mm冲锋枪和MAS 49/56式7.5mm步枪，又能取代一部分轻机枪。\n二战后，法国人认为把他们的7.5×54mm步枪弹改进一下就可以现代化了，因此在小口径步枪热时，法国最初研究的FAMAS仍是7.5×54mm口径的。可是到了1970年，法国终于还是决定和其他北约国家看齐，将FAMAS改为发射雷明顿M193枪弹。1971年St. Etienne提交了10支样枪供法国步兵团试验，经过两年的试验后对某些部件做了修改，并增加了3发点射控制装置后，于1979年向法国陆军提交了第一批的FAMAS F1，并首先装备伞兵部队。按原定计划，法国军方共需采购40万支，但后因军费不足，结果缩减至28万支。只是此时北约各国都将小口径枪弹改为SS109枪弹，但法国军队的FAMAS仍然使用M193枪弹。FAMAS最初的型号为FAMAS F1，随法军参加过乍得和海湾战争，表现尚可（即不是表现特别的好，也没有致命的缺点）。除法国军队外，加蓬、吉布提、黎巴嫩、塞内加尔、阿联酋等国的军队也有装备FAMAS。</Gun_RNFAMASRifle.description>
+  <Gun_RNFAMASRifle.tools.0.label>枪托</Gun_RNFAMASRifle.tools.0.label>
+  <Gun_RNFAMASRifle.tools.1.label>枪管</Gun_RNFAMASRifle.tools.1.label>
+
+
+  <!-- L85A2 -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNL85A2Rifle.label>L85A2自动步枪</Gun_RNL85A2Rifle.label>
+  <Gun_RNL85A2Rifle.description>尽管英国军队已经习惯了使用SA80系列枪族，但该型枪所存在的严重的可靠性方面的问题却不能无视。最初解决这些问题的方法是由军队的技术人员轮流到各个作战单位对枪支进行改装，不幸的是改进必须的零部件经常供应不足，而且到了1994年SA80系列停产，连备件都无法供应了，因此在1996年9月北约把L85A1从指定的轻武器列表中除名。这件事最终刺激了英国军方的高层，他们决定对目前的SA80进行重大改进，于是德国的HK公司获得了一份价值一亿两千万美元的、目的是改进两万支SA80突击步枪的合约，并由HK公司在奥本多夫的分公司实施改进。专家估计一旦改进项目完成，SA80枪族的可靠性和效率将不低于现有的任何突击步枪。改进后的SA80枪族改进型（MoD）也是有步兵武器（IW）和轻型支援武器（LSW）两种型号，IW称为L85A2，LSW称为L86A2。HK公司的设计小组（主设计师是G36的主设计师）对武器的内部作了相当多的修改，希望能通过该项目使SA80的服役期延长至2015年或2020年，同时能重返北约武器列表。</Gun_RNL85A2Rifle.description>
+  <Gun_RNL85A2Rifle.tools.0.label>枪托</Gun_RNL85A2Rifle.tools.0.label>
+  <Gun_RNL85A2Rifle.tools.1.label>枪管</Gun_RNL85A2Rifle.tools.1.label>
+
+
+  <!-- XM8 -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNXM8Rifle.label>XM8突击步枪</Gun_RNXM8Rifle.label>
+  <Gun_RNXM8Rifle.description>全称为XM8轻型模块化武器，曾计划用于换装美国军队列装的M16式步枪和M4式卡宾枪，但最终因为计划终止而不了了之。\n基本上XM8是一种全模块化的武器系统，共有4个型号，分别为：基本型、精确射击型、重型枪管自动步枪型和紧凑型。XM8的模块化部件包括了枪管、枪托、弹匣、瞄准系统，可以很迅速地更换这些部件而改变成不同的型号。整体外形呈流线型，看起来就像一条鱼，但也能够明显看出G36的外形特征，因此有些人会误认为XM8仅仅是改变了外形的G36。但实际上XM8是对G36进行了大幅度的改进，并采用了XM29研究成果中的许多新技术，不仅改善了G36固有的一些缺点，还提高了G36系列的战术性能，因此与其说它是披了不同外衣的G36，倒不如说是G36的升级型，事实上德国HK公司也正在把XM8上采用的新技术转移到新生产的G36改进型上。</Gun_RNXM8Rifle.description>
+  <Gun_RNXM8Rifle.tools.0.label>枪托</Gun_RNXM8Rifle.tools.0.label>
+  <Gun_RNXM8Rifle.tools.1.label>枪管</Gun_RNXM8Rifle.tools.1.label>
+
+
+  <!-- M4A4 -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <!--[Duplicated] <Gun_RNM4A4Rifle.label>M4A4</Gun_RNM4A4Rifle.label>-->
+  <!--[Duplicated] <Gun_RNM4A4Rifle.description>A general-purpose military weapon for field or urban combat. Good range, low power, high rate of fire.</Gun_RNM4A4Rifle.description>-->
+  <!--[Duplicated] <Gun_RNM4A4Rifle.tools.0.label>stock</Gun_RNM4A4Rifle.tools.0.label>-->
+  <!--[Duplicated] <Gun_RNM4A4Rifle.tools.1.label>barrel</Gun_RNM4A4Rifle.tools.1.label>-->
+
+
+  <!-- M27 -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNM27Rifle.label>M27自动步枪</Gun_RNM27Rifle.label>
+  <Gun_RNM27Rifle.description>HK M27自动步枪，是美国海军陆战队对德国军火制造商黑克勒-科赫公司的5.56×45mm北约口径突击步枪HK416的16.5 英吋（419.1 毫米）枪管型重枪管版本的正式命名。M27的设计和技术都是由HK416改进而成，而HK416本身就是以M4卡宾枪（M16步枪的14.5 英吋枪管卡宾枪）作为蓝本，因此其转栓枪机对美军来说并不算陌生，只不过将其原来的直接导气改为了HK G36的短行程活塞传动型气动系统。短行程活塞传动型气动系统在AR-15/M16枪族上的好处是射击时火药燃烧后剩下的污物和积碳残渣都不会像原来的直接导气般残留在枪机框和上机匣以内，这使得M27的可靠性提高，维护工作不会过于频繁。</Gun_RNM27Rifle.description>
+  <Gun_RNM27Rifle.tools.0.label>枪托</Gun_RNM27Rifle.tools.0.label>
+  <Gun_RNM27Rifle.tools.1.label>枪管</Gun_RNM27Rifle.tools.1.label>
+
+
+  <!-- M4A4SD -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <!--[Duplicated] <Gun_RNM4A4SDRifle.label>M4A4 (SD)</Gun_RNM4A4SDRifle.label>-->
+  <!--[Duplicated] <Gun_RNM4A4SDRifle.description>A general-purpose military weapon for field or urban combat. Good range, low power, high rate of fire.</Gun_RNM4A4SDRifle.description>-->
+  <!--[Duplicated] <Gun_RNM4A4SDRifle.tools.0.label>stock</Gun_RNM4A4SDRifle.tools.0.label>-->
+  <!--[Duplicated] <Gun_RNM4A4SDRifle.tools.1.label>barrel</Gun_RNM4A4SDRifle.tools.1.label>-->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNM4A4Rifle.label>M16A4自动步枪</Gun_RNM4A4Rifle.label>
+  <Gun_RNM4A4Rifle.description>M16A4自动步枪是AR系列M16自动步枪的一种改型，使用30发5.56mm NATO弹匣，具有3发点射功能，并且将枪械与火控系统分别进行了模块化设计，该枪同时也作为美国陆军和美国海豹突击队的标准装备。稳定的命中率和独特的3发点射功能充分体现了它瞬间火力强大的优点，但3发点射后有着较长延迟，不利于快速应对多个目标。</Gun_RNM4A4Rifle.description>
+  <Gun_RNM4A4Rifle.tools.0.label>枪托</Gun_RNM4A4Rifle.tools.0.label>
+  <Gun_RNM4A4Rifle.tools.1.label>枪管</Gun_RNM4A4Rifle.tools.1.label>
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNM4A4SDRifle.label>M16A4自动步枪 (带消声器)</Gun_RNM4A4SDRifle.label>
+  <Gun_RNM4A4SDRifle.description>M16A4自动步枪是AR系列M16自动步枪的一种改型，使用30发5.56mm NATO弹匣，具有3发点射功能，并且将枪械与火控系统分别进行了模块化设计，该枪同时也作为美国陆军和美国海豹突击队的标准装备。稳定的命中率和独特的3发点射功能充分体现了它瞬间火力强大的优点，但3发点射后有着较长延迟，不利于快速应对多个目标。\n\n这把M16A4进行了改装并加装了消音器，因此适用于隐秘行动。</Gun_RNM4A4SDRifle.description>
+  <Gun_RNM4A4SDRifle.tools.0.label>枪托</Gun_RNM4A4SDRifle.tools.0.label>
+  <Gun_RNM4A4SDRifle.tools.1.label>枪管</Gun_RNM4A4SDRifle.tools.1.label>
+
+
+  <!-- SCAR-H -->
+
+  <!--[Duplicated] <Bullet_RN762Rifle.label>assault rifle bullet</Bullet_RN762Rifle.label>-->
+
+  <Gun_RNSCARHRifle.label>SCAR-H突击步枪</Gun_RNSCARHRifle.label>
+  <Gun_RNSCARHRifle.description>全称为特种部队战斗突击步枪（SOF Combat Assault Rifle，缩写作SCAR） ，是比利时Fabrique Nationale（FN）公司为了满足美军特战司令部USSOCOM的SCAR标案而制造的现代突击步枪。此枪族有两种主体版本，一种是使用5.56 NATO的SCAR-L（轻型版），另一种则是使用7.62 NATO的SCAR-H（重型版），两种都可以改装成“狙击型态”或“近战型态”（Close Quarters Combat），首次于2007年7月开始小批量量产并配往美军部队，并预计取代原本列装的M4系列步枪。</Gun_RNSCARHRifle.description>
+  <Gun_RNSCARHRifle.tools.0.label>枪托</Gun_RNSCARHRifle.tools.0.label>
+  <Gun_RNSCARHRifle.tools.1.label>枪管</Gun_RNSCARHRifle.tools.1.label>
+
+
+  <!-- AK47 -->
+
+  <!--[Duplicated] <Bullet_RN762Rifle.label>assault rifle bullet</Bullet_RN762Rifle.label>-->
+
+  <Gun_RNAK47Rifle.label>AK-47自动步枪</Gun_RNAK47Rifle.label>
+  <Gun_RNAK47Rifle.description>这款传奇般的步枪全称为1947-год Автомат Калашникова，即“1947年式卡拉什尼科夫步枪”，英文为AK-47 Assault rifle，由前苏联枪械设计师米哈伊尔·季莫费耶维奇·卡拉什尼科夫（1919~2013）设计，该枪于1947年定型，1949年正式列装苏联军队，至此以后一直影响着苏联及后来的俄罗斯。AK-47以其极佳的可靠性及大威力著称，而且结构简单，容易分解，但其连发射击时枪口上跳严重，影响精度。除了大规模装备于苏军外，世界上有许多国家也都进行了仿制或获得了特许生产，其中包括德国、捷克斯洛伐克、前南斯拉夫、匈牙利、中国、波兰、罗马尼亚、保加利亚、埃及、古巴、朝鲜等，至今仍有AK系列及其仿制型号的生产，其设计思路也影响了以色列、芬兰、中国等多个国家的步枪设计路线。按统计，AK系列（包括未经许可的仿制品）的总产量至少从三千万到一亿不等，是人类历史上累积产量最多的枪械，其主要衍生型包括AKM、RPK、AKMSU、AK74、RPK74、AKS74、AK100等几个大类。</Gun_RNAK47Rifle.description>
+  <Gun_RNAK47Rifle.tools.0.label>枪托</Gun_RNAK47Rifle.tools.0.label>
+  <Gun_RNAK47Rifle.tools.1.label>枪管</Gun_RNAK47Rifle.tools.1.label>
+
+
+  <!-- Wasteland -->
+
+  <!--[Duplicated] <Bullet_RN762Rifle.label>assault rifle bullet</Bullet_RN762Rifle.label>-->
+
+  <Gun_RNAK47WastelandRifle.label>AK-47自动步枪 (废土)</Gun_RNAK47WastelandRifle.label>
+  <Gun_RNAK47WastelandRifle.description>核战后的末日，你需要什么来活下去？答案是：地铁、蘑菇、猪、防毒面具、伏特加、以及一把装满军用子弹的AK-47。</Gun_RNAK47WastelandRifle.description>
+  <Gun_RNAK47WastelandRifle.tools.0.label>枪托</Gun_RNAK47WastelandRifle.tools.0.label>
+  <Gun_RNAK47WastelandRifle.tools.1.label>枪管</Gun_RNAK47WastelandRifle.tools.1.label>
+
+
+  <!-- Golden AK -->
+
+  <!--[Duplicated] <Bullet_RN762Rifle.label>assault rifle bullet</Bullet_RN762Rifle.label>-->
+
+  <Gun_RNAK47GoldRifle.label>AK-47自动步枪 (黄金)</Gun_RNAK47GoldRifle.label>
+  <Gun_RNAK47GoldRifle.description>没什么比一把AK步枪来得更实在了，尤其当那把AK还是由黄金打造而成的时候。</Gun_RNAK47GoldRifle.description>
+  <Gun_RNAK47GoldRifle.tools.0.label>枪托</Gun_RNAK47GoldRifle.tools.0.label>
+  <Gun_RNAK47GoldRifle.tools.1.label>枪管</Gun_RNAK47GoldRifle.tools.1.label>
+
+
+  <!-- TYPE 56 -->
+
+  <!--[Duplicated] <Bullet_RN762Rifle.label>assault rifle bullet</Bullet_RN762Rifle.label>-->
+
+  <Gun_RNType56Rifle.label>56式自动步枪</Gun_RNType56Rifle.label>
+  <Gun_RNType56Rifle.description>中国五六式冲锋枪是苏联AK-47突击步枪的中国仿制版，在中国于1956年生产定型，发射7.62X39mm五六式步枪弹。按国际惯例，中国五六式冲锋枪应归类为突击步枪范畴，与56式半自动步枪（苏联SKS半自动步枪中国仿制版）和56式轻机枪（苏联RPD轻机枪中国仿制版）并称为五六式枪族。该枪曾大规模列装于中国人民解放军，后被更为先进的步枪取代而退居二线，现仅作为下线部队及新兵适应性练习用武器。</Gun_RNType56Rifle.description>
+  <Gun_RNType56Rifle.tools.0.label>枪托</Gun_RNType56Rifle.tools.0.label>
+  <Gun_RNType56Rifle.tools.1.label>枪管</Gun_RNType56Rifle.tools.1.label>
+
+
+  <!-- Zastava M70 -->
+
+  <!--[Duplicated] <Bullet_RN762Rifle.label>assault rifle bullet</Bullet_RN762Rifle.label>-->
+
+  <Gun_RNZastavaM70Rifle.label>扎斯塔瓦M70突击步枪</Gun_RNZastavaM70Rifle.label>
+  <Gun_RNZastavaM70Rifle.description>M70突击步枪是前南斯拉夫扎斯塔瓦武器公司生产的武器，属于AKM和AKMS步枪的仿制型号。该枪发射南斯拉夫生产的M67步枪弹（南斯拉夫仿制生产的M43步枪弹，但为增大杀伤力而改造为铅心结构），但也可发射M43步枪弹。虽有一些改动，但M70与AKM基本结构仍然相同。最主要的改进之处是M70在导气箍部位加装了枪榴弹表尺，使得表尺转轴可以关闭导气孔。当表尺竖起时，导气孔就会关闭（因为发射枪榴弹会使膛压变高，如不关闭导气孔会损伤枪机），枪口可以安装发射枪榴弹的套管。另外其护木每侧有3个散热孔，机匣采用1.6毫米厚的钢板冲压制造，类似RPK轻机枪（AKM的机匣是采用的1毫米厚的钢板），因此其强度比AKM要强，但重量也相应增加了，这些也是M70与AKM系列最明显的区别。</Gun_RNZastavaM70Rifle.description>
+  <Gun_RNZastavaM70Rifle.tools.0.label>枪托</Gun_RNZastavaM70Rifle.tools.0.label>
+  <Gun_RNZastavaM70Rifle.tools.1.label>枪管</Gun_RNZastavaM70Rifle.tools.1.label>
+
+
+  <!-- AKS47 -->
+
+  <Bullet_RN762Rifle.label>突击步枪子弹</Bullet_RN762Rifle.label>
+
+  <Gun_RNAKS47Rifle.label>AKS-47自动步枪</Gun_RNAKS47Rifle.label>
+  <Gun_RNAKS47Rifle.description>AKS-47是AK枪族的一员，这种折叠枪托型的AK-47步枪是为伞兵部队、坦克兵和特种分队研制的。该枪的俄语名称为AKC-47，西方称为AKS-47，属于AK枪族最早的型号之一，同属AK-47的第1型，两者基本无差，只需要注意不要将它跟同样采用折叠式枪托的中国五六式冲锋枪搞混即可。</Gun_RNAKS47Rifle.description>
+  <Gun_RNAKS47Rifle.tools.0.label>枪托</Gun_RNAKS47Rifle.tools.0.label>
+  <Gun_RNAKS47Rifle.tools.1.label>枪管</Gun_RNAKS47Rifle.tools.1.label>
+
+
+  <!-- AN94 -->
+
+  <!--[Duplicated] <Bullet_RNNewAKRifle.label>assault rifle bullet</Bullet_RNNewAKRifle.label>-->
+
+  <Gun_RNAN94Rifle.label>AN-94自动步枪</Gun_RNAN94Rifle.label>
+  <Gun_RNAN94Rifle.description>AK-74小口径步枪问世以后，根据历次战斗中的经验，士兵们普遍反映该枪的精度不能令人满意。于是，苏俄国防部又计划重新研制一种全新的自动步枪。最终，苏俄军方于1994年选中了伊孜玛什兵工厂坚纳基·尼科诺夫（Gennady Nikonov）带领的设计小组提交的ASN步枪，并正式定型为AN-94突击步枪，AN是“Automat Nikonova”的缩写，即“尼科诺夫突击步枪”之意，其全名为5,45-мм автомат Никонова обр. 1994 г.（1994年式5.45口径尼科诺夫自动步枪）。该枪外表大量采用玻璃纤维增强的聚酰胺，从托底向前直到前握把，整个枪身基本都是用这种材料制作的。发射5.45mm小口径弹药，通用30发或45发容量的AK-74弹匣和最新的60发4排弹匣。</Gun_RNAN94Rifle.description>
+  <Gun_RNAN94Rifle.tools.0.label>枪托</Gun_RNAN94Rifle.tools.0.label>
+  <Gun_RNAN94Rifle.tools.1.label>枪管</Gun_RNAN94Rifle.tools.1.label>
+
+
+  <!-- AK12 -->
+
+  <!--[Duplicated] <Bullet_RN556Rifle.label>assault rifle bullet</Bullet_RN556Rifle.label>-->
+
+  <Gun_RNA12Rifle.label>AK-12突击步枪</Gun_RNA12Rifle.label>
+  <Gun_RNA12Rifle.description>AK-12突击步枪是2010年由俄罗斯卡拉什尼科夫集团研发的一种长行程活塞导气式、采用回旋式枪机的突击步枪，重量为3.3千克，口径包括5.45毫米、5.56毫米、7.62毫米和一种保密口径，供弹具可选30发可拆卸式双排弹匣、60发可拆卸式四排弹匣和95发可拆卸式弹鼓。虽然作为AK系列步枪，但其拉机柄不再与枪机呈现一体化式设计，而是改为可拆卸式，并可以左右安装。其最显著的特点就是弹容量更大、可单手操作，而且拥有多种口径、多种组件可选。</Gun_RNA12Rifle.description>
+  <Gun_RNA12Rifle.tools.0.label>枪托</Gun_RNA12Rifle.tools.0.label>
+  <Gun_RNA12Rifle.tools.1.label>枪管</Gun_RNA12Rifle.tools.1.label>
+
+  <Bullet_RN556Rifle.label>突击步枪子弹</Bullet_RN556Rifle.label>
+
+  <Gun_RNZastavaM21Rifle.label>扎斯塔瓦M21突击步枪</Gun_RNZastavaM21Rifle.label>
+  <Gun_RNZastavaM21Rifle.description>塞尔维亚扎斯塔瓦武器公司从前南斯拉夫时代便开始生产AK系列突击步枪，以至于后来研制的北约制式小口径枪械也是在AK系步枪的基础上发展而成的，例如这种发射5.56x45mm NATO弹的扎斯塔瓦M21突击步枪。该枪结构与AK系列步枪基本相同，但全枪各部均设有皮卡汀尼导轨，使其具有了现代感的同时也得以加装各种战术部件。该枪还有M21B狙击步枪(长枪管型)和M21s卡宾枪(短枪管型)，均采用折叠式枪托。</Gun_RNZastavaM21Rifle.description>
+  <Gun_RNZastavaM21Rifle.tools.0.label>枪托</Gun_RNZastavaM21Rifle.tools.0.label>
+  <Gun_RNZastavaM21Rifle.tools.1.label>枪管</Gun_RNZastavaM21Rifle.tools.1.label>
+
+
+  <!-- GALIL -->
+
+  <Bullet_RNGALILRifle.label>突击步枪子弹</Bullet_RNGALILRifle.label>
+
+  <Gun_RNGALILRifle.label>加利尔突击步枪</Gun_RNGALILRifle.label>
+  <Gun_RNGALILRifle.description>加利尔（Galil）突击步枪是核心世界一个名为以色列的国家于1967年的“六日战争”中的取得教训的产物。由于当时以色列军大量装备的FN FAL自动步枪在沙漠环境中经常出现故障，因此以色列人加利尔——IMI的首席武器设计师，便着手进行各种武器的野战试验，根据试验的结果，他得出一个理论：卡拉什尼科夫自动步枪是一只“沙漠之虎”（Kalashnikov was the "tiger of the desert"），而这个正是我们所需要的。于是他和IMI的另一位设计师Yaacov Lior带领着一个研制小组，开始设计一种发射5.56mm M193型枪弹的新式步枪。1969年3月，加利尔设计的步枪与M16A1、斯通纳63、AK47、HK33以及以色列另一位著名设计师乌兹·盖尔（Uziel Gal，乌兹冲锋枪的设计者）所设计的作品一起进行竞争，在野战测试中特别强调在沙漠环境中的表现，而加利尔小组的步枪表现突出。1972年，以色列国防部决定采用这种全新的、以研制小组的组长名字命名的——加利尔步枪，并计划在1973年列装以色列国防军（IDF），不过直到“赎罪日战争”爆发时它仍未投产，于1974年时才正式进入以色列国防军服役。加利尔（Galil）突击步枪是核心世界一个名为以色列的国家于1967年的“六日战争”中的取得教训的产物。由于当时以色列军大量装备的FN FAL自动步枪在沙漠环境中经常出现故障，因此以色列人加利尔——IMI的首席武器设计师，便着手进行各种武器的野战试验，根据试验的结果，他得出一个理论：卡拉什尼科夫自动步枪是一只“沙漠之虎”（Kalashnikov was the "tiger of the desert"），而这个正是我们所需要的。于是他和IMI的另一位设计师Yaacov Lior带领着一个研制小组，开始设计一种发射5.56mm M193型枪弹的新式步枪。1969年3月，加利尔设计的步枪与M16A1、斯通纳63、AK47、HK33以及以色列另一位著名设计师乌兹·盖尔（Uziel Gal，乌兹冲锋枪的设计者）所设计的作品一起进行竞争，在野战测试中特别强调在沙漠环境中的表现，而加利尔小组的步枪表现突出。1972年，以色列国防部决定采用这种全新的、以研制小组的组长名字命名的——加利尔步枪，原计划于1973年列装以色列国防军（IDF），不过直到1974年时加利尔步枪才正式进入以色列国防军服役。从外形上，加利尔与FAL步枪有点相似，但也带有卡拉什尼科夫自动步枪的明显的特征。不过，加利尔真正的直系亲属应该是芬兰的Valmet 加利尔（Galil）突击步枪是核心世界一个名为以色列的国家于1967年的“六日战争”中的取得教训的产物。由于当时以色列军大量装备的FN FAL自动步枪在沙漠环境中经常出现故障，因此以色列人加利尔——IMI的首席武器设计师，便着手进行各种武器的野战试验，根据试验的结果，他得出一个理论：卡拉什尼科夫自动步枪是一只“沙漠之虎”（Kalashnikov was the "tiger of the desert"），而这个正是我们所需要的。于是他和IMI的另一位设计师Yaacov Lior带领着一个研制小组，开始设计一种发射5.56mm M193型枪弹的新式步枪。1969年3月，加利尔设计的步枪与M16A1、斯通纳63、AK47、HK33以及以色列另一位著名设计师乌兹·盖尔（Uziel Gal，乌兹冲锋枪的设计者）所设计的作品一起进行竞争，在野战测试中特别强调在沙漠环境中的表现，而加利尔小组的步枪表现突出。1972年，以色列国防部决定采用这种全新的、以研制小组的组长名字命名的——加利尔步枪，原计划于1973年列装以色列国防军（IDF），不过直到1974年时加利尔步枪才正式进入以色列国防军服役。从外形上，加利尔与FAL步枪有点相似，但也带有卡拉什尼科夫自动步枪的明显的特征。不过，加利尔真正的直系亲属应该是芬兰的Valmet M62，而且事实上，加利尔的第一个原型就是在芬兰首都赫尔辛基用M62机匣制造的。但后来加利尔的机匣改用铣削，以至于在相同口径步枪中，加利尔是最重的。</Gun_RNGALILRifle.description>
+  <Gun_RNGALILRifle.tools.0.label>枪托</Gun_RNGALILRifle.tools.0.label>
+  <Gun_RNGALILRifle.tools.1.label>枪管</Gun_RNGALILRifle.tools.1.label>
+
+
+  <!-- AK74 -->
+
+  <Bullet_RNNewAKRifle.label>突击步枪子弹</Bullet_RNNewAKRifle.label>
+
+  <Gun_RNAK74Rifle.label>AK-74自动步枪</Gun_RNAK74Rifle.label>
+  <Gun_RNAK74Rifle.description>AK-74突击步枪是以AK-47突击步枪和AKM突击步枪进一步发展而成的小口径AK系列步枪。该枪于70年代初装备苏联军队，以逐步取代AKM。\n由于美国M16步枪的成功，1960-1970年代许多国家都纷纷开始研制小口径步枪，因为小口径枪弹的综合性能要高于7.62mm中间威力型枪弹，于是苏联也开始研制新型的小口径步枪弹及武器。1960年代，苏联两位子弹设计家维克多·萨巴尼科夫与利迪亚·布拉夫斯科亚研制了一种5.6×42mm口径的步枪弹，最后发展成现在被称为M74型的5.45×39mm步枪弹。同时卡拉什尼科夫也在1960年代开始对AKM进行改进，意图缩小口径以发射小口径步枪弹，而最终的结果，就是AK-74步枪了。</Gun_RNAK74Rifle.description>
+  <Gun_RNAK74Rifle.tools.0.label>枪托</Gun_RNAK74Rifle.tools.0.label>
+  <Gun_RNAK74Rifle.tools.1.label>枪管</Gun_RNAK74Rifle.tools.1.label>
+
+
+  <!-- SKS -->
+  <!--[Duplicated] <Bullet_RNM14762Rifle.label>assault rifle bullet</Bullet_RNM14762Rifle.label>-->
+  <!--<Gun_RNSKSRifle.label>SKS半自动步枪</Gun_RNSKSRifle.label>-->
+  <!--<Gun_RNSKSRifle.description>SKS半自动步枪是前苏联著名枪械设计师谢尔盖·加夫里罗维奇·西蒙诺夫于第二次世界大战期间设计、于1946年定型并装备于苏军的半自动步枪，SKS即“西蒙诺夫自动装填卡宾枪”的缩写。该枪是第一支发射前苏联7.62×39mm M43中间型威力枪弹的半自动步枪，采用导气式枪机原理，而且通常随枪配有剑形刺刀。虽然外形看起来跟同时期的AK步枪很像，但实际上它并不属于卡拉什尼科夫枪族的一员，不过它跟AK一样具有结构简单，刚度好等优点，是一支性能良好的武器。</Gun_RNSKSRifle.description>-->
+  <!--<Gun_RNSKSRifle.tools.0.label>枪托</Gun_RNSKSRifle.tools.0.label>-->
+  <!--<Gun_RNSKSRifle.tools.1.label>枪管</Gun_RNSKSRifle.tools.1.label>-->
+  <!-- M1Garrand -->
+  <!--<Gun_RNM1GarandRifle.label>M1加兰德步枪</Gun_RNM1GarandRifle.label>-->
+  <!--<Gun_RNM1GarandRifle.description>这款颇具传奇气息的步枪正式名称为United States Rifle, Caliber .30-06, M1，因其设计师约翰·坎特厄斯·加兰德而得名，于1936年1月9日起列装美国军队，历经第二次世界大战和朝鲜战争，直到其停产的1957年，全世界共生产了近1000万支该型步枪。\n同时M1加兰德是第二次世界大战中最著名的半自动步枪，除了M1卡宾枪外，它是美国在二战中产量最大的轻武器。实战表明M1步枪是当时最好的战斗步枪之一，其特征性的8发弹匣以及弹匣打空后自动弹出弹仓的设计与当时为数众多的手拉栓动式步枪相比，无疑拥有着更强的火力延续性。</Gun_RNM1GarandRifle.description>-->
+  <!--<Gun_RNM1GarandRifle.tools.0.label>枪托</Gun_RNM1GarandRifle.tools.0.label>-->
+  <!--<Gun_RNM1GarandRifle.tools.1.label>枪管</Gun_RNM1GarandRifle.tools.1.label>-->
+  <!-- M14 -->
+  <!--<Gun_RNM14Rifle.label>M14步枪</Gun_RNM14Rifle.label>-->
+  <!--<Gun_RNM14Rifle.description>M14是美国枪械设计师约翰·坎特厄斯·加兰德在二战后以M1卡宾枪为基础而开发而成的自动步枪，于1957年列装美军并投入使用，但很快又于1968年被撤装。\nM14的撤装主要原因是因为越南战争。M14太长太重，在又热又潮的热带丛林环境中无法很好运用，再加上其使用的7.62×51mm子弹过重的重量也使得巡逻小分队的单兵携弹量有限。另外美军士兵所使用的M14大多数都只能单发射击，在近距离接敌时其火力难以与AK-47步枪抗衡。美国军方在M14暴露出这些问题时就开始寻找新的替代品，最终选择了小口径的M16突击步枪。不过M14被取代并不能说是因为它的性能差，只是从现代战争的大环境而言，M14算是过时了。不过，M14精度高和射程远的特点一直为人所称道，以至于后来以M14为基础改进的各种衍生型号，在战斗中的表现都相当的好。</Gun_RNM14Rifle.description>-->
+  <!--<Gun_RNM14Rifle.tools.0.label>枪托</Gun_RNM14Rifle.tools.0.label>-->
+  <!--<Gun_RNM14Rifle.tools.1.label>枪管</Gun_RNM14Rifle.tools.1.label>-->
+  <!-- M1A -->
+  <!--<Bullet_RNM14762Rifle.label>突击步枪子弹</Bullet_RNM14762Rifle.label>-->
+  <!--<Gun_RNM1ARifle.label>M1A步枪</Gun_RNM1ARifle.label>-->
+  <!--<Gun_RNM1ARifle.description>由美国春田（SpringField，或称“斯普林菲尔德”，与日本无关）公司生产的M14系列步枪，使用7.62×51mm NATO（北约口径）弹药。可以理解为M14步枪的现代版本，以精度高、射程远为特点。</Gun_RNM1ARifle.description>-->
+  <!--<Gun_RNM1ARifle.tools.0.label>枪托</Gun_RNM1ARifle.tools.0.label>-->
+  <!--<Gun_RNM1ARifle.tools.1.label>枪管</Gun_RNM1ARifle.tools.1.label>-->
+  <!--[Duplicated] <Bullet_RN556Rifle.label>突击步枪子弹</Bullet_RN556Rifle.label>-->
+  <!--[Duplicated] <Bullet_RNHK416Rifle.label>突击步枪子弹</Bullet_RNHK416Rifle.label>-->
+  <!--[Duplicated] <Gun_RNM4A4Rifle.tools.0.label>枪托</Gun_RNM4A4Rifle.tools.0.label>-->
+  <!--[Duplicated] <Gun_RNM4A4Rifle.tools.1.label>枪管</Gun_RNM4A4Rifle.tools.1.label>-->
+  <!--[Duplicated] <Gun_RNM4A4SDRifle.label>M4A4 (带消声器)</Gun_RNM4A4SDRifle.label>-->
+  <!--[Duplicated] <Gun_RNM4A4SDRifle.tools.0.label>枪托</Gun_RNM4A4SDRifle.tools.0.label>-->
+  <!--[Duplicated] <Gun_RNM4A4SDRifle.tools.1.label>枪管</Gun_RNM4A4SDRifle.tools.1.label>-->
+  <!--[Duplicated] <Bullet_RN762Rifle.label>突击步枪子弹</Bullet_RN762Rifle.label>-->
+  <!--[Duplicated] <Bullet_RNNewAKRifle.label>突击步枪子弹</Bullet_RNNewAKRifle.label>-->
+  <!--[Duplicated] <Bullet_RNM14762Rifle.label>突击步枪子弹</Bullet_RNM14762Rifle.label>-->
+  <!--[Duplicated] <Gun_RNM4A4Rifle.description>一种常用于野外或城市中的通用军事武器。射程远，火力低，射速快。</Gun_RNM4A4Rifle.description>-->
+  <!--[Duplicated] <Gun_RNM4A4SDRifle.description>一种常用于野外或城市中的通用军事武器。射程远，火力低，射速快。</Gun_RNM4A4SDRifle.description>-->
+
+</LanguageData>

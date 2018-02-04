@@ -1,0 +1,243 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Intervention -->
+
+  <Bullet_Sniper408Rifle.label>狙击步枪子弹</Bullet_Sniper408Rifle.label>
+
+  <Gun_InterventionSniperRifle.label>CheyTac M200</Gun_InterventionSniperRifle.label>
+  <Gun_InterventionSniperRifle.description>CheyTacM200狙击步枪（CheyTac Intervention M-200；Intervention意为“干预”），是一款由美国CheyTac公司生产的手动枪机操作式狙击步枪，使用了手动旋转后拉式枪机系统并装上了可自由伸缩设计的枪托，枪托配有可折叠式后脚架和托腮架。CheyTac M-200主要用途是阻截远距离的无防护目标，它使用了7发容量的可拆式单排弹匣供弹，发射.408 CheyTac或.375 CheyTac子弹。据CheyTac文件指出，M200整个系统能够在高达2,286 米（2,500 码）的距离打出比1 角分还要小的精度，是所有现代狙击步枪之中射程最长的一支。\n需要注意的是“intervention”乃是这个系列武器的名称，不代表其用途，应该翻译成“干预”而非“战术干扰”。</Gun_InterventionSniperRifle.description>
+  <Gun_InterventionSniperRifle.tools.0.label>枪托</Gun_InterventionSniperRifle.tools.0.label>
+  <Gun_InterventionSniperRifle.tools.1.label>枪管</Gun_InterventionSniperRifle.tools.1.label>
+
+
+  <!-- 50 Cal -->
+
+  <!--[Duplicated] <Bullet_Sniper50CalRifle.label>sniper rifle bullet</Bullet_Sniper50CalRifle.label>-->
+
+  <Gun_RNTac50SniperRifle.label>TAC-50 LRSW</Gun_RNTac50SniperRifle.label>
+  <Gun_RNTac50SniperRifle.description>TAC-50 LRSW（Long Range Sniper Weapon，长距离狙击武器）是于1980年由美国麦克米兰公司（McMillan Brothers Rifle Co.）推出的一款.50口径狙击步枪/反器材步枪，于2000年被加拿大军队采用并列装，经历过2001年的阿富汗战争和伊拉克战争。该枪采用旋转后拉式枪机，5发容量弹匣，麦克米兰玻璃纤维枪托，手枪型握把和外表有凹槽的竞赛级的优质枪管。据称TEC-50在配备特装弹的情况下可达到0.5 MOA的精度，这在.50 BMG口径的步枪中是属于相当高的。</Gun_RNTac50SniperRifle.description>
+  <Gun_RNTac50SniperRifle.tools.0.label>枪托</Gun_RNTac50SniperRifle.tools.0.label>
+  <Gun_RNTac50SniperRifle.tools.1.label>枪管</Gun_RNTac50SniperRifle.tools.1.label>
+
+  <Bullet_Sniper50CalRifle.label>狙击步枪子弹</Bullet_Sniper50CalRifle.label>
+
+  <Gun_50CalSniperRifle.label>M82A1</Gun_50CalSniperRifle.label>
+  <Gun_50CalSniperRifle.description>这种大家伙是由美国巴雷特（Barrett）公司研发生产的M82重型SASR（Special Application Scoped Rifle，即特殊用途狙击步枪）系列中的一款，几乎是西方国家的军队都有使用，包括美军特种部队。因其使用威力巨大的.50 BMG（12.7x99mm勃朗宁大口径机枪弹）弹药，美军还给了它一个昵称“轻50”（Light Fifty）。虽然曾经有声明称在战场上使用巴雷特M82系列步枪射击敌人是不人道的行为，而且本身其过大的体积和重量以及开火时巨大的动静都极其容易暴露狙击手的位置，但无论如何，M82系列都以其射程远、精度高、威力大等优良性能，几乎在12.7毫米狙击步枪市场上占据了统治地位。</Gun_50CalSniperRifle.description>
+  <Gun_50CalSniperRifle.tools.0.label>枪托</Gun_50CalSniperRifle.tools.0.label>
+  <Gun_50CalSniperRifle.tools.1.label>枪管</Gun_50CalSniperRifle.tools.1.label>
+
+
+  <!-- M110 -->
+
+  <!--[Duplicated] <Bullet_Sniper762Rifle.label>sniper rifle bullet</Bullet_Sniper762Rifle.label>-->
+
+  <Gun_M110SniperRifle.label>M110 SASS</Gun_M110SniperRifle.label>
+  <Gun_M110SniperRifle.description>全称“M110半自动狙击手系统”（M110 Semi-Automatic Sniper System），是由美国骑士军备公司（Knight's Armament Company，简称KAC，或译作奈特公司）研制的一款7.62x51mm口径单兵半自动狙击步枪，由原型SR-XM110 SASS在经受重重考验、于2006年底成为美军制式狙击步枪之一后，最终定型。该枪的开发目的是为了作为有效的反人员及反轻型器材半自动步枪以替换美国陆军狙击手和班组精确射手所装备的M24 SWS，但事实上，在宣称列装的几年后，M110的装备数量仍然不多，因其在中远距离上表现不够好，因此依然无法撼动M24稳固的地位。虽然陆军的官方声明都是一片赞誉，甚至还颁了个什么年度最佳发明奖，但实际上在前线有很多士兵对M110的可靠性和精确度都牢骚满腹，对于这支“走后门”选上的枪很不以为然。</Gun_M110SniperRifle.description>
+  <Gun_M110SniperRifle.tools.0.label>枪托</Gun_M110SniperRifle.tools.0.label>
+  <Gun_M110SniperRifle.tools.1.label>枪管</Gun_M110SniperRifle.tools.1.label>
+
+
+  <!-- L129A1 -->
+
+  <!--[Duplicated] <Bullet_Sniper762Rifle.label>sniper rifle bullet</Bullet_Sniper762Rifle.label>-->
+
+  <Gun_L129A1SniperRifle.label>L129A1</Gun_L129A1SniperRifle.label>
+  <Gun_L129A1SniperRifle.description>一款专为驻阿富汗英军所设计的精确射手步枪/狙击步枪，仅有限地在英国军队及其特种部队中列装，预计将取代所有以手动枪机操作的L96A1。据称当时英军所配备的小口径武器难以击中500米以上的目标，因此急需一款发射7.62 × 51mm北约弹、并能够轻易击中在800米以上距离目标的半自动狙击步枪，L129A1应运而生。</Gun_L129A1SniperRifle.description>
+  <Gun_L129A1SniperRifle.tools.0.label>枪托</Gun_L129A1SniperRifle.tools.0.label>
+  <Gun_L129A1SniperRifle.tools.1.label>枪管</Gun_L129A1SniperRifle.tools.1.label>
+
+
+  <!-- G28 -->
+
+  <!--[Duplicated] <Bullet_Sniper762Rifle.label>sniper rifle bullet</Bullet_Sniper762Rifle.label>-->
+
+  <Gun_G28SniperRifle.label>G28</Gun_G28SniperRifle.label>
+  <Gun_G28SniperRifle.description>最初称为DMR762，是由德国HK公司生产的MR308（HK416的7.62x51毫米版本）的德军订制版本，只有半自动开火模式。 2016年3月，HK G28的改进型在美国陆军Compact Semi-Automatic-Sniper-System（紧凑型半自动狙击系统）项目中击败了FN的CSR-20、SIG的MCX、雷明顿CSASS等其他7家公司的样枪，赢得CSASS项目，被美国陆军命名为M110A1，将取代原有的M110 SASS。</Gun_G28SniperRifle.description>
+  <Gun_G28SniperRifle.tools.0.label>枪托</Gun_G28SniperRifle.tools.0.label>
+  <Gun_G28SniperRifle.tools.1.label>枪管</Gun_G28SniperRifle.tools.1.label>
+
+
+  <!-- SCAR 20 SSR -->
+
+  <!--[Duplicated] <Bullet_Sniper762Rifle.label>sniper rifle bullet</Bullet_Sniper762Rifle.label>-->
+
+  <Gun_SCAR20SniperRifle.label>SCAR Mk.20</Gun_SCAR20SniperRifle.label>
+  <Gun_SCAR20SniperRifle.description>MK20狙击支援步枪（Mk20 Sniper Support Rifle，或简称SSR）是一款由比利时国营赫斯塔尔以SCAR系列的长枪管重型（即FN SCAR-H MK17）为蓝本改进的一种狙击型步枪（精确射手步枪），发射7.62×51mm NATO（北约口径）弹。该枪的改进包括了机匣护木部份的延长（护木顶部、两侧和底部的MIL-STD-1913战术导轨亦有所延长），强度增加的枪管节套和枪管轮廓以减少射击时引发的震荡，以及修改为只能半自动（单发）射击的增强型模块化竞赛级扳机组件，将精度提高至至在600 米（656.17 码，1,968.5 英尺）的距离散布范围为1.5 MOA。另外，为了提高其人机工效，该枪还应用一个不可折叠但可按照使用者需要调节底板长度、装上了高弹性材料覆盖表面的斜面型托腮板的铝和高分子高精度射击型枪托，并且在枪托底部带有一小段皮卡汀尼导轨用以加装驻锄（2009年下半年以前的早期型仍然在使用SCAR的折叠及伸缩式标准型第3代枪托）。Mk 20狙击支援步枪与FN SCAR-H（Mk 17）之间具有60%的零部件通用性。</Gun_SCAR20SniperRifle.description>
+  <Gun_SCAR20SniperRifle.tools.0.label>枪托</Gun_SCAR20SniperRifle.tools.0.label>
+  <Gun_SCAR20SniperRifle.tools.1.label>枪管</Gun_SCAR20SniperRifle.tools.1.label>
+
+
+  <!-- PSG-1 -->
+
+  <!--[Duplicated] <Bullet_Sniper762Rifle.label>sniper rifle bullet</Bullet_Sniper762Rifle.label>-->
+
+  <Gun_PSG1SniperRifle.label>PSG-1</Gun_PSG1SniperRifle.label>
+  <Gun_PSG1SniperRifle.description>德国HK（即黑克勒-科赫）公司不仅想占领军用狙击武器市场，还想占领警用狙击武器市场的统治地位，但旗下的产品HK G3/SG1不是最佳选择，因为它始终是按军用自动步枪要求设计的，而警方狙击手则需要一种高命中精度的专门武器，在较远距离上可以对付单个或数个目标。为此，HK公司在G3步枪的基础上开发出专门的狙击步枪PSG-1。该枪的基本结构与G3步枪相同，采用了加厚的重型枪管、特殊型弹药和内置消音器，发射时几乎听不到枪声，同时也有很高的命中率，但射程和穿透力却比普通狙击步枪要差得多，而且一系列的设计也使它的重量过重而不适合被带上战场，因此PSG-1可谓说是专门的警用精确狙击步枪。同时该枪也是狙击步枪中最贵的，单价约10,000美元，加上两年后备零件和售后服务合同，买得起的用户并不多。</Gun_PSG1SniperRifle.description>
+  <Gun_PSG1SniperRifle.tools.0.label>枪托</Gun_PSG1SniperRifle.tools.0.label>
+  <Gun_PSG1SniperRifle.tools.1.label>枪管</Gun_PSG1SniperRifle.tools.1.label>
+
+
+  <!-- WA2000 -->
+
+  <Bullet_Sniper762Rifle.label>狙击步枪子弹</Bullet_Sniper762Rifle.label>
+
+  <Gun_WA2000SniperRifle.label>WA2000</Gun_WA2000SniperRifle.label>
+  <Gun_WA2000SniperRifle.description>瓦尔特WA2000狙击步枪由卡尔·瓦尔特公司在1970年代末至1980年代初研制，首次亮相是在1982年，其后被德国和几个欧洲国家的一些特警单位少量采用。在当时，许多高精度狙击步枪的设计往往都是以一些运动步枪或猎枪为基础改进而成的，但WA2000与众不同，该枪是完全以军/警狙击手为唯一目标用户所作的全新设计。这种半自动步枪采用无托结构，全枪长度只有905mm，不足一米，相当紧凑，但即使如此，却拥有着极高的射击精度。由于WA2000在生产过程中完全以质量和精度为首要目标，不计制造成本，结果导致售价昂贵，乏人问津，产量和销售量都相当有限。</Gun_WA2000SniperRifle.description>
+  <Gun_WA2000SniperRifle.tools.0.label>枪托</Gun_WA2000SniperRifle.tools.0.label>
+  <Gun_WA2000SniperRifle.tools.1.label>枪管</Gun_WA2000SniperRifle.tools.1.label>
+
+
+  <!-- SVD -->
+
+  <!--[Duplicated] <Bullet_Sniper762SVURifle.label>sniper rifle bullet</Bullet_Sniper762SVURifle.label>-->
+
+  <Gun_DragunovSVDSniperRifle.label>SVD</Gun_DragunovSVDSniperRifle.label>
+  <Gun_DragunovSVDSniperRifle.description>前苏联军队于1963年选中了由前苏联设计师德拉贡诺夫借鉴AK步枪的可靠设计而研发的一种狙击步枪以代替莫辛-纳甘狙击步枪，称为CBД(Снайперская Винтовка Драгунова)狙击步枪，英文为SVD(Snayperskaya Vinyovka Dragunov)，通过进一步的改进后，于1967年开始装备苏军。该枪可以发射两种7.62X54R弹药，分别为普通弹和7N1狙击弹，同时具有非常强的穿透力。早期的SVD狙击步枪为发射普通弹设计，枪管缠距为320mm，后来为了适应发射更精准的7N1狙击弹而将缠距缩短到240mm，结果使得SVD狙击步枪在发射普通弹时精度很差，从而让人误认为它其实是一支精确射击步枪。</Gun_DragunovSVDSniperRifle.description>
+  <Gun_DragunovSVDSniperRifle.tools.0.label>枪托</Gun_DragunovSVDSniperRifle.tools.0.label>
+  <Gun_DragunovSVDSniperRifle.tools.1.label>枪管</Gun_DragunovSVDSniperRifle.tools.1.label>
+
+  <!--[Duplicated] <Bullet_Sniper762SVURifle.label>sniper rifle bullet</Bullet_Sniper762SVURifle.label>-->
+
+  <Gun_ZastavaM76SniperRifle.label>扎斯塔瓦M76</Gun_ZastavaM76SniperRifle.label>
+  <Gun_ZastavaM76SniperRifle.description>M76式7.92mm狙击步枪是前南斯拉夫参照前苏联的AKM突击步枪于70年代中期研制的，后用它逐步取代了前南斯拉夫40年代末生产的发射7.92mm毛瑟枪弹的M48式弹仓式步枪和M69式弹仓式狙击步枪。该枪的基本结构与AKM步枪大致相同，其明显的区别是：口径改为7．92mm；由单、连发射击方式改为单发射击方式；枪管加长到550mm。另外，该枪采用10发装可卸式弹匣供弹，枪口有消焰器，枪管下有刺刀座。</Gun_ZastavaM76SniperRifle.description>
+  <Gun_ZastavaM76SniperRifle.tools.0.label>枪托</Gun_ZastavaM76SniperRifle.tools.0.label>
+  <Gun_ZastavaM76SniperRifle.tools.1.label>枪管</Gun_ZastavaM76SniperRifle.tools.1.label>
+
+
+  <!-- SVU -->
+
+  <Bullet_Sniper762SVURifle.label>狙击步枪子弹</Bullet_Sniper762SVURifle.label>
+
+  <Gun_SVUSniperRifle.label>SVU</Gun_SVUSniperRifle.label>
+  <Gun_SVUSniperRifle.description>SVU是在1991年开始为俄罗斯执法机构特种部队的城市战斗需要而研制的战术步枪，基本上可以理解为是SVD的无托结构缩短型。不过严格地说，虽然SVU是SVD的改型，且有40%的零件通用，但实际上SVU与SVDS及SVDK不同，该枪的研制与德拉贡诺夫毫无关系，因而其名称中也没有德拉贡诺夫名字的缩写。由于改为无托结构，枪管也比SVD要短，因此这种步枪非常紧凑，但有效射程不如SVD。</Gun_SVUSniperRifle.description>
+  <Gun_SVUSniperRifle.tools.0.label>枪托</Gun_SVUSniperRifle.tools.0.label>
+  <Gun_SVUSniperRifle.tools.1.label>枪管</Gun_SVUSniperRifle.tools.1.label>
+
+
+  <!-- VSS -->
+
+  <Bullet_Sniper9mmRifle.label>狙击步枪子弹</Bullet_Sniper9mmRifle.label>
+
+  <Gun_VSSSniperRifle.label>VSS Vintorez</Gun_VSSSniperRifle.label>
+  <Gun_VSSSniperRifle.description>VSS（俄文：Винтовка Снайперская Специальная）特种狙击步枪，编号：6П29，又名Vintorez（“螺纹剪裁机”），是一种由前苏联开发的微声狙击步枪。该枪是一种微声、几乎无发射火焰的近距离狙击步枪，使用9x39mm亚音速弹。这种弹药除了射程远之外，就算经过VSS Vintorez一体式消声器（integral sound supressor）降低初速之后仍然保有击穿凯夫拉防弹背心的能力。</Gun_VSSSniperRifle.description>
+  <Gun_VSSSniperRifle.tools.0.label>枪托</Gun_VSSSniperRifle.tools.0.label>
+  <Gun_VSSSniperRifle.tools.1.label>枪管</Gun_VSSSniperRifle.tools.1.label>
+
+
+  <!-- M40 BABY -->
+
+  <!--[Duplicated] <Bullet_Sniper762BoltRifle.label>sniper rifle bullet</Bullet_Sniper762BoltRifle.label>-->
+
+  <Gun_M40A4SniperRifle.label>M40A4</Gun_M40A4SniperRifle.label>
+  <Gun_M40A4SniperRifle.description>美国海军陆战队（USMC）比陆军更早重视侦察狙击，并按自己的理论提出了侦察狙击部队的构思，于20世纪50年代开始组建侦察狙击部队，加强战术训练，充实武器装备。在狙击步枪方面，现有的几种高精度狙击步枪分别适宜不同距离和目标的狙击。中等距离（约300m）使用班用高级神射手步枪（SAM-R），如M16A4SAM-R；传统的远距离（约1000m）使用M40A4步枪；超远距对付有生目标、爆炸物和重装甲，使用特种用途远距离步枪（SASR），如巴雷特M82A3SASR。其中M40A4步枪是海军陆战队精密兵器部（PWD）以雷明顿M700民用步枪为基础改造的M40步枪的最新型。陆战队最值得骄傲的武器莫过于这支自造自用的高精度步枪了。</Gun_M40A4SniperRifle.description>
+  <Gun_M40A4SniperRifle.tools.0.label>枪托</Gun_M40A4SniperRifle.tools.0.label>
+  <Gun_M40A4SniperRifle.tools.1.label>枪管</Gun_M40A4SniperRifle.tools.1.label>
+
+
+  <!-- L96A1 BABY -->
+
+  <!--[Duplicated] <Bullet_Sniper762BoltRifle.label>sniper rifle bullet</Bullet_Sniper762BoltRifle.label>-->
+
+  <Gun_L96A1SniperRifle.label>L96A1</Gun_L96A1SniperRifle.label>
+  <Gun_L96A1SniperRifle.description>L96A1是英军在上80年代中期开始采用的新枪型，是英国陆军使用的标准枪型，起初叫作PM狙击步枪，其警用枪型叫AWP狙击步枪，（意为北极作战警察）其设计思想是不管枪管清洁与否，都要做到首发命中。在成功赢得英军订单后，精密国际公司以PM狙击步枪为原型，发展出众多衍生型号。精密国际公司的狙击步枪产品的精度得到了国际上的普遍认可，很多国家的军队和警察都装备了AW系列狙击步枪。</Gun_L96A1SniperRifle.description>
+  <Gun_L96A1SniperRifle.tools.0.label>枪托</Gun_L96A1SniperRifle.tools.0.label>
+  <Gun_L96A1SniperRifle.tools.1.label>枪管</Gun_L96A1SniperRifle.tools.1.label>
+
+
+  <!-- SV98 BLYAT -->
+
+  <!--[Duplicated] <Bullet_Sniper762BoltRifle.label>sniper rifle bullet</Bullet_Sniper762BoltRifle.label>-->
+
+  <Gun_SV98SniperRifle.label>SV-98</Gun_SV98SniperRifle.label>
+  <Gun_SV98SniperRifle.description>前苏联/俄罗斯军队装备SVD狙击步枪多年，虽然该枪重量轻、坚固耐用，作为战术支援武器来说颇为有效，但SVD在中远距离上的精度差，不适合远距离的精确射击，也不适宜面对人质劫持之类的任务。由于有这样的需求，伊孜玛什公司（伊热夫斯克兵工厂）的Vladimir Stronskiy基于该公司原来的Record系列运动步枪，在1998年设计了一种旋转后拉式枪机狙击步枪，命名为“1998型狙击步枪”（Снайперская винтовка 1998），简称SV-98（СВ-98）。虽然SV-98在当年就已经被俄罗斯的执法机构和特种部队少量试用，但由于俄罗斯军方制式武器的国家靶场试验和部队试用的周期比较长，所以直到2005年底才正式被俄罗斯军队采用。</Gun_SV98SniperRifle.description>
+  <Gun_SV98SniperRifle.tools.0.label>枪托</Gun_SV98SniperRifle.tools.0.label>
+  <Gun_SV98SniperRifle.tools.1.label>枪管</Gun_SV98SniperRifle.tools.1.label>
+
+
+  <!-- Zastava M07 -->
+
+  <!--[Duplicated] <Bullet_Sniper762BoltRifle.label>sniper rifle bullet</Bullet_Sniper762BoltRifle.label>-->
+
+  <Gun_ZastavaM07SniperRifle.label>扎斯塔瓦M07</Gun_ZastavaM07SniperRifle.label>
+  <Gun_ZastavaM07SniperRifle.description>一款军用栓动式狙击步枪，射程远，威力大，但射速慢。</Gun_ZastavaM07SniperRifle.description>
+  <Gun_ZastavaM07SniperRifle.tools.0.label>枪托</Gun_ZastavaM07SniperRifle.tools.0.label>
+  <Gun_ZastavaM07SniperRifle.tools.1.label>枪管</Gun_ZastavaM07SniperRifle.tools.1.label>
+
+
+  <!-- GOL GOL GOL GOL GOOOOAAAL! -->
+
+  <!--[Duplicated] <Bullet_Sniper762BoltRifle.label>sniper rifle bullet</Bullet_Sniper762BoltRifle.label>-->
+
+  <Gun_GOLMagnumSniperRifle.label>GOL-Sniper Magnum</Gun_GOLMagnumSniperRifle.label>
+  <Gun_GOLMagnumSniperRifle.description>GOL-Sniper Magnum是由德国黑森州达姆施塔特行政区的Gol-Matic GmbH公司所设计的一款螺旋栓动式狙击步枪，这种步枪由专门负责毛瑟系列步枪定制的著名德国枪匠Gottfried Prechtl以奥地利斯太尔SSG-69为蓝本开发而成。其应用的手动螺旋栓动式枪机源自于毛瑟M98 Magnum系统，该系统最早是19世纪于毛瑟Gewehr 98（其改进型即是著名的Kar 98K）系列步枪所引入。每一把GOL步枪都是根据每个客户的需求而定制的，因此有多种选择和配置，可以适用于各种环境——无论是用于战术目的还是竞赛目的。</Gun_GOLMagnumSniperRifle.description>
+  <Gun_GOLMagnumSniperRifle.tools.0.label>枪托</Gun_GOLMagnumSniperRifle.tools.0.label>
+  <Gun_GOLMagnumSniperRifle.tools.1.label>枪管</Gun_GOLMagnumSniperRifle.tools.1.label>
+
+
+  <!-- FN BALLISTA -->
+
+  <Bullet_Sniper762BoltRifle.label>狙击步枪子弹</Bullet_Sniper762BoltRifle.label>
+
+  <Gun_FNBallistaSniperRifle.label>FN Ballista</Gun_FNBallistaSniperRifle.label>
+  <Gun_FNBallistaSniperRifle.description>FN“弩炮”精确狙击步枪是一款由奥地利尤尼克阿尔卑斯公司的TPG-1为蓝本重新设计、比利时国营赫斯塔尔（Fabrique Nationale，即FN公司）竞标及向市场上销售的新一代模块化及多口径适配设计的旋转后拉式手动枪机型狙击步枪，适配三种不同口径的枪管及部件皆可以通过工具于2分钟内完成更换。</Gun_FNBallistaSniperRifle.description>
+  <Gun_FNBallistaSniperRifle.tools.0.label>枪托</Gun_FNBallistaSniperRifle.tools.0.label>
+  <Gun_FNBallistaSniperRifle.tools.1.label>枪管</Gun_FNBallistaSniperRifle.tools.1.label>
+
+
+  <!-- Mosin -->
+
+  <Bullet_RNBoltActionRifle.label>栓动步枪子弹</Bullet_RNBoltActionRifle.label>
+
+  <Gun_MosinNagantRifle.label>莫辛-纳甘步枪</Gun_MosinNagantRifle.label>
+  <Gun_MosinNagantRifle.description>莫辛-纳甘步枪（俄文Винтовка Мосина，英文Mosin-Nagant）在俄国被称为“Vintovka Mosina”（莫辛步枪），是在俄国政府委托下于1880年代后期至1890年代早期研制的栓动式步枪。多种型号的莫辛-纳甘步枪曾作为俄国军队和苏联红军的制式武器，服役期长达60年，并被中国、芬兰、匈牙利、波兰、朝鲜和其他一些国家的军队所列装过。</Gun_MosinNagantRifle.description>
+  <Gun_MosinNagantRifle.tools.0.label>枪托</Gun_MosinNagantRifle.tools.0.label>
+  <Gun_MosinNagantRifle.tools.1.label>枪管</Gun_MosinNagantRifle.tools.1.label>
+
+
+  <!-- SKS -->
+
+  <!--[Duplicated] <Bullet_RNM14762Rifle.label>assault rifle bullet</Bullet_RNM14762Rifle.label>-->
+
+  <Gun_RNSKSRifle.label>SKS半自动步枪</Gun_RNSKSRifle.label>
+  <Gun_RNSKSRifle.description>SKS半自动步枪是前苏联著名枪械设计师谢尔盖·加夫里罗维奇·西蒙诺夫于第二次世界大战期间设计、于1946年定型并装备于苏军的半自动步枪，SKS即“西蒙诺夫自动装填卡宾枪”的缩写。该枪是第一支发射前苏联7.62×39mm M43中间型威力枪弹的半自动步枪，采用导气式枪机原理，而且通常随枪配有剑形刺刀。虽然外形看起来跟同时期的AK步枪很像，但实际上它并不属于卡拉什尼科夫枪族的一员，不过它跟AK一样具有结构简单，刚度好等优点，是一支性能良好的武器。</Gun_RNSKSRifle.description>
+  <Gun_RNSKSRifle.tools.0.label>枪托</Gun_RNSKSRifle.tools.0.label>
+  <Gun_RNSKSRifle.tools.1.label>枪管</Gun_RNSKSRifle.tools.1.label>
+
+
+  <!-- M1Garrand -->
+
+  <!--[Duplicated] <Bullet_RNM14762Rifle.label>assault rifle bullet</Bullet_RNM14762Rifle.label>-->
+
+  <Gun_RNM1GarandRifle.label>M1加兰德步枪</Gun_RNM1GarandRifle.label>
+  <Gun_RNM1GarandRifle.description>这款颇具传奇气息的步枪正式名称为United States Rifle, Caliber .30-06, M1，因其设计师约翰·坎特厄斯·加兰德而得名，于1936年1月9日起列装美国军队，历经第二次世界大战和朝鲜战争，直到其停产的1957年，全世界共生产了近1000万支该型步枪。\n同时M1加兰德是第二次世界大战中最著名的半自动步枪，除了M1卡宾枪外，它是美国在二战中产量最大的轻武器。实战表明M1步枪是当时最好的战斗步枪之一，其特征性的8发弹匣以及弹匣打空后自动弹出弹仓的设计与当时为数众多的手拉栓动式步枪相比，无疑拥有着更强的火力延续性。</Gun_RNM1GarandRifle.description>
+  <Gun_RNM1GarandRifle.tools.0.label>枪托</Gun_RNM1GarandRifle.tools.0.label>
+  <Gun_RNM1GarandRifle.tools.1.label>枪管</Gun_RNM1GarandRifle.tools.1.label>
+
+
+  <!-- M14 -->
+
+  <!--[Duplicated] <Bullet_RNM14762Rifle.label>assault rifle bullet</Bullet_RNM14762Rifle.label>-->
+
+  <Gun_RNM14Rifle.label>M14步枪</Gun_RNM14Rifle.label>
+  <Gun_RNM14Rifle.description>M14是美国枪械设计师约翰·坎特厄斯·加兰德在二战后以M1卡宾枪为基础而开发而成的自动步枪，于1957年列装美军并投入使用，但很快又于1968年被撤装。\nM14的撤装主要原因是因为越南战争。M14太长太重，在又热又潮的热带丛林环境中无法很好运用，再加上其使用的7.62×51mm子弹过重的重量也使得巡逻小分队的单兵携弹量有限。另外美军士兵所使用的M14大多数都只能单发射击，在近距离接敌时其火力难以与AK-47步枪抗衡。美国军方在M14暴露出这些问题时就开始寻找新的替代品，最终选择了小口径的M16突击步枪。不过M14被取代并不能说是因为它的性能差，只是从现代战争的大环境而言，M14算是过时了。不过，M14精度高和射程远的特点一直为人所称道，以至于后来以M14为基础改进的各种衍生型号，在战斗中的表现都相当的好。</Gun_RNM14Rifle.description>
+  <Gun_RNM14Rifle.tools.0.label>枪托</Gun_RNM14Rifle.tools.0.label>
+  <Gun_RNM14Rifle.tools.1.label>枪管</Gun_RNM14Rifle.tools.1.label>
+
+
+  <!-- M1A -->
+
+  <Bullet_RNM14762Rifle.label>突击步枪子弹</Bullet_RNM14762Rifle.label>
+
+  <Gun_RNM1ARifle.label>M1A步枪</Gun_RNM1ARifle.label>
+  <Gun_RNM1ARifle.description>由美国春田（SpringField，或称“斯普林菲尔德”，与日本无关）公司生产的M14系列步枪，使用7.62×51mm NATO（北约口径）弹药。可以理解为M14步枪的现代版本，以精度高、射程远为特点。</Gun_RNM1ARifle.description>
+  <Gun_RNM1ARifle.tools.0.label>枪托</Gun_RNM1ARifle.tools.0.label>
+  <Gun_RNM1ARifle.tools.1.label>枪管</Gun_RNM1ARifle.tools.1.label>
+
+
+  <!--[Duplicated] <Bullet_Sniper50CalRifle.label>狙击步枪子弹</Bullet_Sniper50CalRifle.label>-->
+  <!--[Duplicated] <Bullet_Sniper762Rifle.label>狙击步枪子弹</Bullet_Sniper762Rifle.label>-->
+  <!--[Duplicated] <Bullet_Sniper762SVURifle.label>狙击步枪子弹</Bullet_Sniper762SVURifle.label>-->
+  <!--[Duplicated] <Bullet_Sniper762BoltRifle.label>狙击步枪子弹</Bullet_Sniper762BoltRifle.label>-->
+
+</LanguageData>

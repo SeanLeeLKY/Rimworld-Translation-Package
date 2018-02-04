@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- RN Ranged -->
+
+  <RimmuNationRangedCat.label>Rimmu-Nation远程武器</RimmuNationRangedCat.label>
+  <RimmuNationCQBCat.label>CQB装备包</RimmuNationCQBCat.label>
+  <RimmuNationHeavyCat.label>重武器装备包</RimmuNationHeavyCat.label>
+  <RimmuNationMarksmanCat.label>神射手装备包</RimmuNationMarksmanCat.label>
+  <RimmuNationRiflemanCat.label>步枪兵装备包</RimmuNationRiflemanCat.label>
+
+
+  <!-- RN Melee -->
+
+  <RimmuNationMeleeCat.label>Rimmu-Nation近战武器</RimmuNationMeleeCat.label>
+
+
+</LanguageData>

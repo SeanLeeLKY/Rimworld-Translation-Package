@@ -1,0 +1,674 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- These Recipes from makeable ThingDefs (which include <recipeMaker>)，RIMTRANS used.-->
+
+
+  <!-- Recipe Users: RimmuNationTableMachining -->
+
+  <Make_Gun_RNMP5SMG.label>制作MP5冲锋枪</Make_Gun_RNMP5SMG.label>
+  <Make_Gun_RNMP5SMG.description>制作MP5冲锋枪。</Make_Gun_RNMP5SMG.description>
+  <Make_Gun_RNMP5SMG.jobString>正在制作MP5冲锋枪。</Make_Gun_RNMP5SMG.jobString>
+
+  <Make_Gun_RNMP5RDotSMG.label>制作MP5冲锋枪 (带红点瞄具)</Make_Gun_RNMP5RDotSMG.label>
+  <Make_Gun_RNMP5RDotSMG.description>制作MP5冲锋枪 (红点瞄具)。</Make_Gun_RNMP5RDotSMG.description>
+  <Make_Gun_RNMP5RDotSMG.jobString>正在制作MP5冲锋枪 (红点瞄具)。</Make_Gun_RNMP5RDotSMG.jobString>
+
+  <Make_Gun_RNMP5SDSMG.label>制作MP5冲锋枪 (带消声器)</Make_Gun_RNMP5SDSMG.label>
+  <Make_Gun_RNMP5SDSMG.description>制作MP5冲锋枪 (带消声器)。</Make_Gun_RNMP5SDSMG.description>
+  <Make_Gun_RNMP5SDSMG.jobString>正在制作MP5冲锋枪 (带消声器)。</Make_Gun_RNMP5SDSMG.jobString>
+
+  <Make_Gun_RNMPXSMG.label>制作MPX冲锋枪</Make_Gun_RNMPXSMG.label>
+  <Make_Gun_RNMPXSMG.description>制作MPX冲锋枪。</Make_Gun_RNMPXSMG.description>
+  <Make_Gun_RNMPXSMG.jobString>正在制作MPX冲锋枪。</Make_Gun_RNMPXSMG.jobString>
+
+  <Make_Gun_RNMP7SMG.label>制作MP7冲锋枪</Make_Gun_RNMP7SMG.label>
+  <Make_Gun_RNMP7SMG.description>制作MP7冲锋枪。</Make_Gun_RNMP7SMG.description>
+  <Make_Gun_RNMP7SMG.jobString>正在制作MP7冲锋枪。</Make_Gun_RNMP7SMG.jobString>
+
+  <Make_Gun_RNUZISMG.label>制作UZI冲锋枪</Make_Gun_RNUZISMG.label>
+  <Make_Gun_RNUZISMG.description>制作UZI冲锋枪。</Make_Gun_RNUZISMG.description>
+  <Make_Gun_RNUZISMG.jobString>正在制作UZI冲锋枪。</Make_Gun_RNUZISMG.jobString>
+
+  <Make_Gun_RNMAC11SMG.label>制作MAC-11冲锋枪</Make_Gun_RNMAC11SMG.label>
+  <Make_Gun_RNMAC11SMG.description>制作MAC-11冲锋枪。</Make_Gun_RNMAC11SMG.description>
+  <Make_Gun_RNMAC11SMG.jobString>正在制作MAC-11冲锋枪。</Make_Gun_RNMAC11SMG.jobString>
+
+  <Make_Gun_RNHoneyBadgerPDW.label>制作“蜜獾”PDW</Make_Gun_RNHoneyBadgerPDW.label>
+  <Make_Gun_RNHoneyBadgerPDW.description>制作“蜜獾”单兵自卫武器。</Make_Gun_RNHoneyBadgerPDW.description>
+  <Make_Gun_RNHoneyBadgerPDW.jobString>正在制作“蜜獾”PDW。</Make_Gun_RNHoneyBadgerPDW.jobString>
+
+  <Make_Gun_RNASVAL.label>制作AS Val微声步枪</Make_Gun_RNASVAL.label>
+  <Make_Gun_RNASVAL.description>制作AS Val微声步枪。</Make_Gun_RNASVAL.description>
+  <Make_Gun_RNASVAL.jobString>正在制作AS Val微声步枪。</Make_Gun_RNASVAL.jobString>
+
+  <Make_Gun_RNCZSkorpion.label>制作CZ“蝎”式冲锋枪</Make_Gun_RNCZSkorpion.label>
+  <Make_Gun_RNCZSkorpion.description>制作CZ“蝎”式冲锋枪。</Make_Gun_RNCZSkorpion.description>
+  <Make_Gun_RNCZSkorpion.jobString>正在制作CZ“蝎”式冲锋枪。</Make_Gun_RNCZSkorpion.jobString>
+
+  <Make_Gun_RNSkorpionSMG.label>制作Vz. 61“蝎”式冲锋枪</Make_Gun_RNSkorpionSMG.label>
+  <Make_Gun_RNSkorpionSMG.description>制作Vz. 61“蝎”式冲锋枪。</Make_Gun_RNSkorpionSMG.description>
+  <Make_Gun_RNSkorpionSMG.jobString>正在制作Vz. 61“蝎”式冲锋枪。</Make_Gun_RNSkorpionSMG.jobString>
+
+  <Make_Gun_RNMAC11SDSMG.label>制作MAC-11冲锋枪 (带消声器)</Make_Gun_RNMAC11SDSMG.label>
+  <Make_Gun_RNMAC11SDSMG.description>制作MAC-11冲锋枪 (带消声器)。</Make_Gun_RNMAC11SDSMG.description>
+  <Make_Gun_RNMAC11SDSMG.jobString>正在制作MAC-11冲锋枪 (带消声器)。</Make_Gun_RNMAC11SDSMG.jobString>
+
+  <Make_Gun_RNAK74USMG.label>制作AK-74U</Make_Gun_RNAK74USMG.label>
+  <Make_Gun_RNAK74USMG.description>制作AK-74U。</Make_Gun_RNAK74USMG.description>
+  <Make_Gun_RNAK74USMG.jobString>正在制作AK-74U。</Make_Gun_RNAK74USMG.jobString>
+
+  <Make_Gun_RNAKS74USMG.label>制作AKS-74U</Make_Gun_RNAKS74USMG.label>
+  <Make_Gun_RNAKS74USMG.description>制作AKS-74U。</Make_Gun_RNAKS74USMG.description>
+  <Make_Gun_RNAKS74USMG.jobString>正在制作AKS-74U。</Make_Gun_RNAKS74USMG.jobString>
+
+  <Make_Gun_RNZastavaM92SMG.label>制作扎斯塔瓦M92</Make_Gun_RNZastavaM92SMG.label>
+  <Make_Gun_RNZastavaM92SMG.description>制作扎斯塔瓦M92。</Make_Gun_RNZastavaM92SMG.description>
+  <Make_Gun_RNZastavaM92SMG.jobString>正在制作扎斯塔瓦M92。</Make_Gun_RNZastavaM92SMG.jobString>
+
+  <Make_Gun_RNUMP45SMG.label>制作UMP-45冲锋枪</Make_Gun_RNUMP45SMG.label>
+  <Make_Gun_RNUMP45SMG.description>制作UMP-45冲锋枪。</Make_Gun_RNUMP45SMG.description>
+  <Make_Gun_RNUMP45SMG.jobString>正在制作UMP-45冲锋枪。</Make_Gun_RNUMP45SMG.jobString>
+
+  <Make_Gun_RNUMP45SDSMG.label>制作UMP-45冲锋枪 (带消声器)</Make_Gun_RNUMP45SDSMG.label>
+  <Make_Gun_RNUMP45SDSMG.description>制作UMP-45冲锋枪 (带消声器)。</Make_Gun_RNUMP45SDSMG.description>
+  <Make_Gun_RNUMP45SDSMG.jobString>正在制作UMP-45冲锋枪 (带消声器)。</Make_Gun_RNUMP45SDSMG.jobString>
+
+  <Make_Gun_RNPP19SMG.label>制作PP-19“野牛”冲锋枪</Make_Gun_RNPP19SMG.label>
+  <Make_Gun_RNPP19SMG.description>制作PP-19“野牛”冲锋枪。</Make_Gun_RNPP19SMG.description>
+  <Make_Gun_RNPP19SMG.jobString>正在制作PP-19“野牛”冲锋枪。</Make_Gun_RNPP19SMG.jobString>
+
+  <Make_Gun_RNP90SMG.label>制作P90 PDW</Make_Gun_RNP90SMG.label>
+  <Make_Gun_RNP90SMG.description>制作P90单兵自卫武器。</Make_Gun_RNP90SMG.description>
+  <Make_Gun_RNP90SMG.jobString>正在制作P90 PDW。</Make_Gun_RNP90SMG.jobString>
+
+  <Make_Gun_RNP90SDSMG.label>制作P90 PDW (带消声器)</Make_Gun_RNP90SDSMG.label>
+  <Make_Gun_RNP90SDSMG.description>制作P90单兵自卫武器 (带消声器)。</Make_Gun_RNP90SDSMG.description>
+  <Make_Gun_RNP90SDSMG.jobString>正在制作P90 PDW (带消声器)。</Make_Gun_RNP90SDSMG.jobString>
+
+  <Make_Gun_RNKrissVectorSMG.label>制作KRISS Vector冲锋枪</Make_Gun_RNKrissVectorSMG.label>
+  <Make_Gun_RNKrissVectorSMG.description>制作KRISS Vector冲锋枪。</Make_Gun_RNKrissVectorSMG.description>
+  <Make_Gun_RNKrissVectorSMG.jobString>正在制作KRISS Vector冲锋枪。</Make_Gun_RNKrissVectorSMG.jobString>
+
+  <Make_Gun_RNSawnOffShotgun.label>制作短管霰弹枪</Make_Gun_RNSawnOffShotgun.label>
+  <Make_Gun_RNSawnOffShotgun.description>制作短管霰弹枪。</Make_Gun_RNSawnOffShotgun.description>
+  <Make_Gun_RNSawnOffShotgun.jobString>正在制作短管霰弹枪。</Make_Gun_RNSawnOffShotgun.jobString>
+
+  <Make_Gun_RNSuperShortyShotgun.label>制作“超级矮个子”霰弹枪</Make_Gun_RNSuperShortyShotgun.label>
+  <Make_Gun_RNSuperShortyShotgun.description>制作“超级矮个子”霰弹枪。</Make_Gun_RNSuperShortyShotgun.description>
+  <Make_Gun_RNSuperShortyShotgun.jobString>正在制作“超级矮个子”霰弹枪。</Make_Gun_RNSuperShortyShotgun.jobString>
+
+  <Make_Gun_RN870Shotgun.label>制作雷明顿870霰弹枪</Make_Gun_RN870Shotgun.label>
+  <Make_Gun_RN870Shotgun.description>制作雷明顿870霰弹枪。</Make_Gun_RN870Shotgun.description>
+  <Make_Gun_RN870Shotgun.jobString>正在制作雷明顿870霰弹枪。</Make_Gun_RN870Shotgun.jobString>
+
+  <Make_Gun_RNTrenchShotgun.label>制作M97堑壕枪</Make_Gun_RNTrenchShotgun.label>
+  <Make_Gun_RNTrenchShotgun.description>制作M97堑壕枪。</Make_Gun_RNTrenchShotgun.description>
+  <Make_Gun_RNTrenchShotgun.jobString>正在制作M97堑壕枪。</Make_Gun_RNTrenchShotgun.jobString>
+
+  <Make_Gun_RNKS23Shotgun.label>制作KS-23镇暴枪</Make_Gun_RNKS23Shotgun.label>
+  <Make_Gun_RNKS23Shotgun.description>制作KS-23镇暴枪。</Make_Gun_RNKS23Shotgun.description>
+  <Make_Gun_RNKS23Shotgun.jobString>正在制作KS-23镇暴枪。</Make_Gun_RNKS23Shotgun.jobString>
+
+  <Make_Gun_RNBenelliM3Shotgun.label>制作伯奈利M3霰弹枪</Make_Gun_RNBenelliM3Shotgun.label>
+  <Make_Gun_RNBenelliM3Shotgun.description>制作伯奈利M3霰弹枪。</Make_Gun_RNBenelliM3Shotgun.description>
+  <Make_Gun_RNBenelliM3Shotgun.jobString>正在制作伯奈利M3霰弹枪。</Make_Gun_RNBenelliM3Shotgun.jobString>
+
+  <Make_Gun_RNSPAS12Shotgun.label>制作SPAS-12多功能霰弹枪</Make_Gun_RNSPAS12Shotgun.label>
+  <Make_Gun_RNSPAS12Shotgun.description>制作SPAS-12多功能霰弹枪。</Make_Gun_RNSPAS12Shotgun.description>
+  <Make_Gun_RNSPAS12Shotgun.jobString>正在制作SPAS-12多功能霰弹枪。</Make_Gun_RNSPAS12Shotgun.jobString>
+
+  <Make_Gun_RNXM1014Shotgun.label>制作伯奈利XM1014战斗霰弹枪</Make_Gun_RNXM1014Shotgun.label>
+  <Make_Gun_RNXM1014Shotgun.description>制作伯奈利XM1014战斗霰弹枪。</Make_Gun_RNXM1014Shotgun.description>
+  <Make_Gun_RNXM1014Shotgun.jobString>正在制作伯奈利XM1014战斗霰弹枪。</Make_Gun_RNXM1014Shotgun.jobString>
+
+  <Make_Gun_RNSAIGAShotgun.label>制作Saiga-12半自动霰弹枪</Make_Gun_RNSAIGAShotgun.label>
+  <Make_Gun_RNSAIGAShotgun.description>制作Saiga-12半自动霰弹枪。</Make_Gun_RNSAIGAShotgun.description>
+  <Make_Gun_RNSAIGAShotgun.jobString>正在制作Saiga-12半自动霰弹枪。</Make_Gun_RNSAIGAShotgun.jobString>
+
+  <Make_Gun_RNUSAS12Shotgun.label>制作USAS-12霰弹枪</Make_Gun_RNUSAS12Shotgun.label>
+  <Make_Gun_RNUSAS12Shotgun.description>制作USAS-12霰弹枪。</Make_Gun_RNUSAS12Shotgun.description>
+  <Make_Gun_RNUSAS12Shotgun.jobString>正在制作USAS-12霰弹枪。</Make_Gun_RNUSAS12Shotgun.jobString>
+
+  <Make_Gun_RNAA12Shotgun.label>制作AA-12全自动霰弹枪</Make_Gun_RNAA12Shotgun.label>
+  <Make_Gun_RNAA12Shotgun.description>制作AA-12全自动霰弹枪。</Make_Gun_RNAA12Shotgun.description>
+  <Make_Gun_RNAA12Shotgun.jobString>正在制作AA-12全自动霰弹枪。</Make_Gun_RNAA12Shotgun.jobString>
+
+
+  <!-- Recipe Users: RimmuNationTableExplosives -->
+
+  <Make_Gun_RPG7Launcher.label>制作RPG-7火箭发射器</Make_Gun_RPG7Launcher.label>
+  <Make_Gun_RPG7Launcher.description>制作RPG-7火箭发射器。</Make_Gun_RPG7Launcher.description>
+  <Make_Gun_RPG7Launcher.jobString>正在制作RPG-7火箭发射器。</Make_Gun_RPG7Launcher.jobString>
+
+  <Make_Gun_M72LAWLauncher.label>制作M72 LAW</Make_Gun_M72LAWLauncher.label>
+  <Make_Gun_M72LAWLauncher.description>制作M72 LAW。</Make_Gun_M72LAWLauncher.description>
+  <Make_Gun_M72LAWLauncher.jobString>正在制作M72 LAW。</Make_Gun_M72LAWLauncher.jobString>
+
+  <Make_Gun_RPG27Launcher.label>制作 RPG-27</Make_Gun_RPG27Launcher.label>
+  <Make_Gun_RPG27Launcher.description>制作 RPG-27。</Make_Gun_RPG27Launcher.description>
+  <Make_Gun_RPG27Launcher.jobString>正在制作 RPG-27。</Make_Gun_RPG27Launcher.jobString>
+
+  <Make_Gun_AT4Launcher.label>制作AT4反坦克火箭发射器</Make_Gun_AT4Launcher.label>
+  <Make_Gun_AT4Launcher.description>制作AT4反坦克火箭发射器。</Make_Gun_AT4Launcher.description>
+  <Make_Gun_AT4Launcher.jobString>正在制作AT4反坦克火箭发射器。</Make_Gun_AT4Launcher.jobString>
+
+  <Make_Gun_ChinaLakeLauncher.label>制作中国湖泵动式榴弹发射器</Make_Gun_ChinaLakeLauncher.label>
+  <Make_Gun_ChinaLakeLauncher.description>制作中国湖泵动式榴弹发射器。</Make_Gun_ChinaLakeLauncher.description>
+  <Make_Gun_ChinaLakeLauncher.jobString>正在制作中国湖泵动式榴弹发射器。</Make_Gun_ChinaLakeLauncher.jobString>
+
+  <Make_Gun_M320Launcher.label>制作M320榴弹发射器</Make_Gun_M320Launcher.label>
+  <Make_Gun_M320Launcher.description>制作M320榴弹发射器。</Make_Gun_M320Launcher.description>
+  <Make_Gun_M320Launcher.jobString>正在制作M320榴弹发射器。</Make_Gun_M320Launcher.jobString>
+
+  <Make_Gun_HK69A1Launcher.label>制作HK69A1榴弹发射器</Make_Gun_HK69A1Launcher.label>
+  <Make_Gun_HK69A1Launcher.description>制作HK69A1榴弹发射器。</Make_Gun_HK69A1Launcher.description>
+  <Make_Gun_HK69A1Launcher.jobString>正在制作HK69A1榴弹发射器。</Make_Gun_HK69A1Launcher.jobString>
+
+  <Make_Gun_XM25Launcher.label>制作XM25 CDTE</Make_Gun_XM25Launcher.label>
+  <Make_Gun_XM25Launcher.description>制作XM25 CDTE。</Make_Gun_XM25Launcher.description>
+  <Make_Gun_XM25Launcher.jobString>正在制作XM25 CDTE。</Make_Gun_XM25Launcher.jobString>
+
+  <Make_Gun_MGLLauncher.label>制作MGL连发式榴弹发射器</Make_Gun_MGLLauncher.label>
+  <Make_Gun_MGLLauncher.description>制作MGL连发式榴弹发射器。</Make_Gun_MGLLauncher.description>
+  <Make_Gun_MGLLauncher.jobString>正在制作MGL连发式榴弹发射器。</Make_Gun_MGLLauncher.jobString>
+
+  <Make_Gun_RNRailgun.label>制作磁轨炮</Make_Gun_RNRailgun.label>
+  <Make_Gun_RNRailgun.description>制作磁轨炮。</Make_Gun_RNRailgun.description>
+  <Make_Gun_RNRailgun.jobString>正在制作磁轨炮。</Make_Gun_RNRailgun.jobString>
+
+
+  <!-- Recipe Users: RimmuNationTableExplosives, CraftingSpot -->
+
+  <Make_Weapon_VodkaMolotov.label>制作莫洛托夫鸡尾酒</Make_Weapon_VodkaMolotov.label>
+  <Make_Weapon_VodkaMolotov.description>制作莫洛托夫鸡尾酒。</Make_Weapon_VodkaMolotov.description>
+  <Make_Weapon_VodkaMolotov.jobString>正在制作莫洛托夫鸡尾酒。</Make_Weapon_VodkaMolotov.jobString>
+
+
+  <!-- Recipe Users: RimmuNationTableExplosives -->
+
+  <Make_Weapon_RNHEGrenade.label>制作高爆手雷</Make_Weapon_RNHEGrenade.label>
+  <Make_Weapon_RNHEGrenade.description>制作高爆手雷。</Make_Weapon_RNHEGrenade.description>
+  <Make_Weapon_RNHEGrenade.jobString>正在制作高爆手雷。</Make_Weapon_RNHEGrenade.jobString>
+
+  <Make_Weapon_RNFlashbangs.label>制作战术闪光弹</Make_Weapon_RNFlashbangs.label>
+  <Make_Weapon_RNFlashbangs.description>制作战术闪光弹。</Make_Weapon_RNFlashbangs.description>
+  <Make_Weapon_RNFlashbangs.jobString>正在制作战术闪光弹。</Make_Weapon_RNFlashbangs.jobString>
+
+  <Make_Weapon_RNIncendiaryGrenade.label>制作战术燃烧手雷</Make_Weapon_RNIncendiaryGrenade.label>
+  <Make_Weapon_RNIncendiaryGrenade.description>制作战术燃烧手雷。</Make_Weapon_RNIncendiaryGrenade.description>
+  <Make_Weapon_RNIncendiaryGrenade.jobString>正在制作战术燃烧手雷。</Make_Weapon_RNIncendiaryGrenade.jobString>
+
+  <Make_Weapon_RNSmokeGrenade.label>制作战术烟雾弹</Make_Weapon_RNSmokeGrenade.label>
+  <Make_Weapon_RNSmokeGrenade.description>制作战术烟雾弹。</Make_Weapon_RNSmokeGrenade.description>
+  <Make_Weapon_RNSmokeGrenade.jobString>正在制作战术烟雾弹。</Make_Weapon_RNSmokeGrenade.jobString>
+
+  <Make_Gun_DP28LMG.label>制作DP-28轻机枪</Make_Gun_DP28LMG.label>
+  <Make_Gun_DP28LMG.description>制作DP-28轻机枪。</Make_Gun_DP28LMG.description>
+  <Make_Gun_DP28LMG.jobString>正在制作DP-28轻机枪。</Make_Gun_DP28LMG.jobString>
+
+  <Make_Gun_DPM60LMG.label>制作M60通用机枪</Make_Gun_DPM60LMG.label>
+  <Make_Gun_DPM60LMG.description>制作M60通用机枪。</Make_Gun_DPM60LMG.description>
+  <Make_Gun_DPM60LMG.jobString>正在制作M60通用机枪。</Make_Gun_DPM60LMG.jobString>
+
+  <Make_Gun_DPRPDLMG.label>制作RPD机枪</Make_Gun_DPRPDLMG.label>
+  <Make_Gun_DPRPDLMG.description>制作RPD机枪。</Make_Gun_DPRPDLMG.description>
+  <Make_Gun_DPRPDLMG.jobString>正在制作RPD机枪。</Make_Gun_DPRPDLMG.jobString>
+
+  <Make_Gun_DPRPKLMG.label>制作RPK-74机枪</Make_Gun_DPRPKLMG.label>
+  <Make_Gun_DPRPKLMG.description>制作RPK-74机枪。</Make_Gun_DPRPKLMG.description>
+  <Make_Gun_DPRPKLMG.jobString>正在制作RPK-74机枪。</Make_Gun_DPRPKLMG.jobString>
+
+  <Make_Gun_DPZastavaM84LMG.label>制作扎斯塔瓦M84</Make_Gun_DPZastavaM84LMG.label>
+  <Make_Gun_DPZastavaM84LMG.description>制作扎斯塔瓦M84。</Make_Gun_DPZastavaM84LMG.description>
+  <Make_Gun_DPZastavaM84LMG.jobString>正在制作扎斯塔瓦M84。</Make_Gun_DPZastavaM84LMG.jobString>
+
+  <Make_Gun_DPPKMLMG.label>制作PKM机枪</Make_Gun_DPPKMLMG.label>
+  <Make_Gun_DPPKMLMG.description>制作PKM机枪。</Make_Gun_DPPKMLMG.description>
+  <Make_Gun_DPPKMLMG.jobString>正在制作PKM机枪。</Make_Gun_DPPKMLMG.jobString>
+
+  <Make_Gun_M249SAWLMG.label>制作M249 SAW</Make_Gun_M249SAWLMG.label>
+  <Make_Gun_M249SAWLMG.description>制作M249 SAW。</Make_Gun_M249SAWLMG.description>
+  <Make_Gun_M249SAWLMG.jobString>正在制作M249 SAW。</Make_Gun_M249SAWLMG.jobString>
+
+  <Make_Gun_M240BravoLMG.label>制作M240B通用机枪</Make_Gun_M240BravoLMG.label>
+  <Make_Gun_M240BravoLMG.description>制作M240B通用机枪。</Make_Gun_M240BravoLMG.description>
+  <Make_Gun_M240BravoLMG.jobString>正在制作M240B通用机枪。</Make_Gun_M240BravoLMG.jobString>
+
+  <Make_Gun_FNMinimiLMG.label>制作FN Minimi轻机枪</Make_Gun_FNMinimiLMG.label>
+  <Make_Gun_FNMinimiLMG.description>制作FN Minimi轻机枪。</Make_Gun_FNMinimiLMG.description>
+  <Make_Gun_FNMinimiLMG.jobString>正在制作FN Minimi轻机枪。</Make_Gun_FNMinimiLMG.jobString>
+
+  <Make_Gun_M61VulcanMinigun.label>制作M61火神式机炮</Make_Gun_M61VulcanMinigun.label>
+  <Make_Gun_M61VulcanMinigun.description>制作M61火神式机炮。</Make_Gun_M61VulcanMinigun.description>
+  <Make_Gun_M61VulcanMinigun.jobString>正在制作M61火神式机炮。</Make_Gun_M61VulcanMinigun.jobString>
+
+
+  <!-- Recipe Users: RimmuNationSmithy, RimmuNationSmithy, CraftingSpot -->
+
+  <Make_MeleeWeapon_RNPrisonShank.label>制作粗制匕首</Make_MeleeWeapon_RNPrisonShank.label>
+  <Make_MeleeWeapon_RNPrisonShank.description>制作粗制匕首。</Make_MeleeWeapon_RNPrisonShank.description>
+  <Make_MeleeWeapon_RNPrisonShank.jobString>正在制作粗制匕首。</Make_MeleeWeapon_RNPrisonShank.jobString>
+
+
+  <!-- Recipe Users: RimmuNationSmithy -->
+
+  <Make_MeleeWeapon_RNBayonetKnife.label>制作M9刺刀</Make_MeleeWeapon_RNBayonetKnife.label>
+  <Make_MeleeWeapon_RNBayonetKnife.description>制作M9刺刀。</Make_MeleeWeapon_RNBayonetKnife.description>
+  <Make_MeleeWeapon_RNBayonetKnife.jobString>正在制作M9刺刀。</Make_MeleeWeapon_RNBayonetKnife.jobString>
+
+  <Make_MeleeWeapon_RNSkyrimKnife.label>制作匕首</Make_MeleeWeapon_RNSkyrimKnife.label>
+  <Make_MeleeWeapon_RNSkyrimKnife.description>制作匕首。</Make_MeleeWeapon_RNSkyrimKnife.description>
+  <Make_MeleeWeapon_RNSkyrimKnife.jobString>正在制作匕首。</Make_MeleeWeapon_RNSkyrimKnife.jobString>
+
+  <Make_MeleeWeapon_RNRecondoKnife.label>制作Recondo IV战术刀</Make_MeleeWeapon_RNRecondoKnife.label>
+  <Make_MeleeWeapon_RNRecondoKnife.description>制作Recondo IV战术刀。</Make_MeleeWeapon_RNRecondoKnife.description>
+  <Make_MeleeWeapon_RNRecondoKnife.jobString>正在制作recondo IV战术刀。</Make_MeleeWeapon_RNRecondoKnife.jobString>
+
+  <Make_MeleeWeapon_RNFairbairnSkyesKnife.label>制作费尔贝恩·塞克斯战斗刀</Make_MeleeWeapon_RNFairbairnSkyesKnife.label>
+  <Make_MeleeWeapon_RNFairbairnSkyesKnife.description>制作费尔贝恩·塞克斯战斗刀。</Make_MeleeWeapon_RNFairbairnSkyesKnife.description>
+  <Make_MeleeWeapon_RNFairbairnSkyesKnife.jobString>正在制作费尔贝恩·塞克斯战斗刀。</Make_MeleeWeapon_RNFairbairnSkyesKnife.jobString>
+
+  <Make_MeleeWeapon_RNGutKnife.label>制作穿肠刀</Make_MeleeWeapon_RNGutKnife.label>
+  <Make_MeleeWeapon_RNGutKnife.description>制作穿肠刀。</Make_MeleeWeapon_RNGutKnife.description>
+  <Make_MeleeWeapon_RNGutKnife.jobString>正在制作穿肠刀。</Make_MeleeWeapon_RNGutKnife.jobString>
+
+  <Make_MeleeWeapon_RNKarambitKnife.label>制作爪刀</Make_MeleeWeapon_RNKarambitKnife.label>
+  <Make_MeleeWeapon_RNKarambitKnife.description>制作爪刀。</Make_MeleeWeapon_RNKarambitKnife.description>
+  <Make_MeleeWeapon_RNKarambitKnife.jobString>正在制作爪刀。</Make_MeleeWeapon_RNKarambitKnife.jobString>
+
+  <Make_MeleeWeapon_RNSkinnerKnife.label>制作剥皮刀</Make_MeleeWeapon_RNSkinnerKnife.label>
+  <Make_MeleeWeapon_RNSkinnerKnife.description>制作剥皮刀。</Make_MeleeWeapon_RNSkinnerKnife.description>
+  <Make_MeleeWeapon_RNSkinnerKnife.jobString>正在制作剥皮刀。</Make_MeleeWeapon_RNSkinnerKnife.jobString>
+
+  <Make_MeleeWeapon_RNSpetsnazMachete.label>制作Spetsnaz砍刀</Make_MeleeWeapon_RNSpetsnazMachete.label>
+  <Make_MeleeWeapon_RNSpetsnazMachete.description>制作Spetsnaz砍刀。</Make_MeleeWeapon_RNSpetsnazMachete.description>
+  <Make_MeleeWeapon_RNSpetsnazMachete.jobString>正在制作Spetsnaz砍刀。</Make_MeleeWeapon_RNSpetsnazMachete.jobString>
+
+  <Make_MeleeWeapon_RNKABARKnife.label>制作KA-BAR战斗刀</Make_MeleeWeapon_RNKABARKnife.label>
+  <Make_MeleeWeapon_RNKABARKnife.description>制作KA-BAR战斗刀。</Make_MeleeWeapon_RNKABARKnife.description>
+  <Make_MeleeWeapon_RNKABARKnife.jobString>正在制作KA-BAR战斗刀。</Make_MeleeWeapon_RNKABARKnife.jobString>
+
+
+  <!-- Recipe Users: RimmuNationSmithy, RimmuNationSmithy -->
+
+  <Make_MeleeWeapon_RNBaseballBat.label>制作棒球棍</Make_MeleeWeapon_RNBaseballBat.label>
+  <Make_MeleeWeapon_RNBaseballBat.description>制作棒球棍。</Make_MeleeWeapon_RNBaseballBat.description>
+  <Make_MeleeWeapon_RNBaseballBat.jobString>正在制作棒球棍。</Make_MeleeWeapon_RNBaseballBat.jobString>
+
+  <Make_MeleeWeapon_RNCricketBat.label>制作板球拍</Make_MeleeWeapon_RNCricketBat.label>
+  <Make_MeleeWeapon_RNCricketBat.description>制作板球拍。</Make_MeleeWeapon_RNCricketBat.description>
+  <Make_MeleeWeapon_RNCricketBat.jobString>正在制作板球拍。</Make_MeleeWeapon_RNCricketBat.jobString>
+
+
+  <!-- Recipe Users: ElectricSmithy, FueledSmithy, RimmuNationSmithy -->
+
+  <Make_MeleeWeapon_RNTheCaber.label>制作大锤</Make_MeleeWeapon_RNTheCaber.label>
+  <Make_MeleeWeapon_RNTheCaber.description>制作大锤。</Make_MeleeWeapon_RNTheCaber.description>
+  <Make_MeleeWeapon_RNTheCaber.jobString>正在制作大锤。</Make_MeleeWeapon_RNTheCaber.jobString>
+
+
+  <!-- Recipe Users: RimmuNationSmithy -->
+
+  <Make_MeleeWeapon_RNCrowbar.label>制作撬棍</Make_MeleeWeapon_RNCrowbar.label>
+  <Make_MeleeWeapon_RNCrowbar.description>制作撬棍。</Make_MeleeWeapon_RNCrowbar.description>
+  <Make_MeleeWeapon_RNCrowbar.jobString>正在制作撬棍。</Make_MeleeWeapon_RNCrowbar.jobString>
+
+  <Make_MeleeWeapon_RNNightstick.label>制作警棍</Make_MeleeWeapon_RNNightstick.label>
+  <Make_MeleeWeapon_RNNightstick.description>制作警棍。</Make_MeleeWeapon_RNNightstick.description>
+  <Make_MeleeWeapon_RNNightstick.jobString>正在制作警棍。</Make_MeleeWeapon_RNNightstick.jobString>
+
+  <Make_MeleeWeapon_RNBroadSword.label>制作大剑</Make_MeleeWeapon_RNBroadSword.label>
+  <Make_MeleeWeapon_RNBroadSword.description>制作大剑。</Make_MeleeWeapon_RNBroadSword.description>
+  <Make_MeleeWeapon_RNBroadSword.jobString>正在制作大剑。</Make_MeleeWeapon_RNBroadSword.jobString>
+
+  <Make_MeleeWeapon_RNKatana.label>制作武士刀</Make_MeleeWeapon_RNKatana.label>
+  <Make_MeleeWeapon_RNKatana.description>制作武士刀。</Make_MeleeWeapon_RNKatana.description>
+  <Make_MeleeWeapon_RNKatana.jobString>正在制作武士刀。</Make_MeleeWeapon_RNKatana.jobString>
+
+  <Make_MeleeWeapon_RNMachete.label>制作迈歇提砍刀</Make_MeleeWeapon_RNMachete.label>
+  <Make_MeleeWeapon_RNMachete.description>制作迈歇提砍刀。</Make_MeleeWeapon_RNMachete.description>
+  <Make_MeleeWeapon_RNMachete.jobString>正在制作迈歇提砍刀。</Make_MeleeWeapon_RNMachete.jobString>
+
+
+  <!-- Recipe Users: RimmuNationSmithy, RimmuNationSmithy, CraftingSpot -->
+
+  <Make_MeleeWeapon_RNTomahawk.label>制作Tomahawk战斧</Make_MeleeWeapon_RNTomahawk.label>
+  <Make_MeleeWeapon_RNTomahawk.description>制作Tomahawk战斧。</Make_MeleeWeapon_RNTomahawk.description>
+  <Make_MeleeWeapon_RNTomahawk.jobString>正在制作Tomahawk战斧。</Make_MeleeWeapon_RNTomahawk.jobString>
+
+
+  <!-- Recipe Users: RimmuNationSmithy -->
+
+  <Make_RNBallisticKnife.label>制作弹射战术刀</Make_RNBallisticKnife.label>
+  <Make_RNBallisticKnife.description>制作弹射战术刀。</Make_RNBallisticKnife.description>
+  <Make_RNBallisticKnife.jobString>正在制作弹射战术刀。</Make_RNBallisticKnife.jobString>
+
+
+  <!-- Recipe Users: RimmuNationTableMachining -->
+
+  <Make_RN_NagantRevolverP.label>制作纳甘M1895转轮手枪</Make_RN_NagantRevolverP.label>
+  <Make_RN_NagantRevolverP.description>制作纳甘M1895转轮手枪。</Make_RN_NagantRevolverP.description>
+  <Make_RN_NagantRevolverP.jobString>正在制作纳甘M1895转轮手枪。</Make_RN_NagantRevolverP.jobString>
+
+  <Make_RN_RagingBullRevolverP.label>制作“愤怒公牛”转轮手枪</Make_RN_RagingBullRevolverP.label>
+  <Make_RN_RagingBullRevolverP.description>制作“愤怒公牛”转轮手枪。</Make_RN_RagingBullRevolverP.description>
+  <Make_RN_RagingBullRevolverP.jobString>正在制作“愤怒公牛”转轮手枪。</Make_RN_RagingBullRevolverP.jobString>
+
+  <Make_RN_ColtPythonRevolverP.label>制作柯尔特“巨蟒”手枪</Make_RN_ColtPythonRevolverP.label>
+  <Make_RN_ColtPythonRevolverP.description>制作柯尔特“巨蟒”手枪。</Make_RN_ColtPythonRevolverP.description>
+  <Make_RN_ColtPythonRevolverP.jobString>正在制作 colt python。</Make_RN_ColtPythonRevolverP.jobString>
+
+  <Make_RN_DesertEagleP.label>制作沙漠之鹰手枪</Make_RN_DesertEagleP.label>
+  <Make_RN_DesertEagleP.description>制作沙漠之鹰手枪。</Make_RN_DesertEagleP.description>
+  <Make_RN_DesertEagleP.jobString>正在制作沙漠之鹰手枪。</Make_RN_DesertEagleP.jobString>
+
+  <Make_RN_JuanDeagP.label>制作Juan Deag手枪</Make_RN_JuanDeagP.label>
+  <Make_RN_JuanDeagP.description>制作Juan Deag手枪。</Make_RN_JuanDeagP.description>
+  <Make_RN_JuanDeagP.jobString>正在制作Juan Deag手枪。</Make_RN_JuanDeagP.jobString>
+
+  <Make_RN_FiveSevenP.label>制作FN57手枪</Make_RN_FiveSevenP.label>
+  <Make_RN_FiveSevenP.description>制作FN57手枪。</Make_RN_FiveSevenP.description>
+  <Make_RN_FiveSevenP.jobString>正在制作FN57手枪。</Make_RN_FiveSevenP.jobString>
+
+  <Make_RN_1911P.label>制作柯尔特M1911手枪</Make_RN_1911P.label>
+  <Make_RN_1911P.description>制作柯尔特M1911手枪。</Make_RN_1911P.description>
+  <Make_RN_1911P.jobString>正在制作柯尔特M1911手枪。</Make_RN_1911P.jobString>
+
+  <Make_RN_MakarovPistolP.label>制作马卡洛夫手枪</Make_RN_MakarovPistolP.label>
+  <Make_RN_MakarovPistolP.description>制作马卡洛夫手枪。</Make_RN_MakarovPistolP.description>
+  <Make_RN_MakarovPistolP.jobString>正在制作马卡洛夫手枪。</Make_RN_MakarovPistolP.jobString>
+
+  <Make_RN_Glock17P.label>制作G17手枪</Make_RN_Glock17P.label>
+  <Make_RN_Glock17P.description>制作G17手枪。</Make_RN_Glock17P.description>
+  <Make_RN_Glock17P.jobString>正在制作G17手枪。</Make_RN_Glock17P.jobString>
+
+  <Make_RN_M9P.label>制作M9A1手枪</Make_RN_M9P.label>
+  <Make_RN_M9P.description>制作M9A1手枪。</Make_RN_M9P.description>
+  <Make_RN_M9P.jobString>正在制作M9A1手枪。</Make_RN_M9P.jobString>
+
+  <Make_RN_Tec9P.label>制作Tec-9</Make_RN_Tec9P.label>
+  <Make_RN_Tec9P.description>制作Tec-9。</Make_RN_Tec9P.description>
+  <Make_RN_Tec9P.jobString>正在制作Tec-9。</Make_RN_Tec9P.jobString>
+
+  <Make_RN_P320P.label>制作P320手枪</Make_RN_P320P.label>
+  <Make_RN_P320P.description>制作P320手枪。</Make_RN_P320P.description>
+  <Make_RN_P320P.jobString>正在制作P320手枪。</Make_RN_P320P.jobString>
+
+  <Make_RN_MP445P.label>制作MP-445手枪</Make_RN_MP445P.label>
+  <Make_RN_MP445P.description>制作MP-445手枪。</Make_RN_MP445P.description>
+  <Make_RN_MP445P.jobString>正在制作MP-445手枪。</Make_RN_MP445P.jobString>
+
+  <Make_RN_USPSP.label>制作USP手枪 (带消声器)</Make_RN_USPSP.label>
+  <Make_RN_USPSP.description>制作USP手枪 (带消声器)。</Make_RN_USPSP.description>
+  <Make_RN_USPSP.jobString>正在制作USP手枪 (带消声器)。</Make_RN_USPSP.jobString>
+
+  <Make_RN_MK23SOCOMP.label>制作MK23手枪</Make_RN_MK23SOCOMP.label>
+  <Make_RN_MK23SOCOMP.description>制作MK23手枪。</Make_RN_MK23SOCOMP.description>
+  <Make_RN_MK23SOCOMP.jobString>正在制作MK23手枪。</Make_RN_MK23SOCOMP.jobString>
+
+
+  <!-- Recipe Users: RimmuNationTableRifle -->
+
+  <Make_Gun_RNACRRifle.label>制作ACR步枪</Make_Gun_RNACRRifle.label>
+  <Make_Gun_RNACRRifle.description>制作ACR步枪。</Make_Gun_RNACRRifle.description>
+  <Make_Gun_RNACRRifle.jobString>正在制作ACR步枪。</Make_Gun_RNACRRifle.jobString>
+
+  <Make_Gun_RNAUGRifle.label>制作AUG自动步枪</Make_Gun_RNAUGRifle.label>
+  <Make_Gun_RNAUGRifle.description>制作AUG自动步枪。</Make_Gun_RNAUGRifle.description>
+  <Make_Gun_RNAUGRifle.jobString>正在制作AUG自动步枪。</Make_Gun_RNAUGRifle.jobString>
+
+  <Make_Gun_RNC7CarbineRifle.label>制作C7自动步枪</Make_Gun_RNC7CarbineRifle.label>
+  <Make_Gun_RNC7CarbineRifle.description>制作C7自动步枪。</Make_Gun_RNC7CarbineRifle.description>
+  <Make_Gun_RNC7CarbineRifle.jobString>正在制作C7自动步枪。</Make_Gun_RNC7CarbineRifle.jobString>
+
+  <Make_Gun_RNC8CarbineRifle.label>制作C8自动步枪</Make_Gun_RNC8CarbineRifle.label>
+  <Make_Gun_RNC8CarbineRifle.description>制作C8自动步枪。</Make_Gun_RNC8CarbineRifle.description>
+  <Make_Gun_RNC8CarbineRifle.jobString>正在制作C8自动步枪。</Make_Gun_RNC8CarbineRifle.jobString>
+
+  <Make_Gun_RNG3Rifle.label>制作G3自动步枪</Make_Gun_RNG3Rifle.label>
+  <Make_Gun_RNG3Rifle.description>制作G3自动步枪。</Make_Gun_RNG3Rifle.description>
+  <Make_Gun_RNG3Rifle.jobString>正在制作G3自动步枪。</Make_Gun_RNG3Rifle.jobString>
+
+  <Make_Gun_RNG36CRifle.label>制作G36C自动步枪</Make_Gun_RNG36CRifle.label>
+  <Make_Gun_RNG36CRifle.description>制作G36C自动步枪。</Make_Gun_RNG36CRifle.description>
+  <Make_Gun_RNG36CRifle.jobString>正在制作G36C自动步枪。</Make_Gun_RNG36CRifle.jobString>
+
+  <Make_Gun_RNStoner63Rifle.label>制作斯通纳63自动步枪</Make_Gun_RNStoner63Rifle.label>
+  <Make_Gun_RNStoner63Rifle.description>制作斯通纳63自动步枪。</Make_Gun_RNStoner63Rifle.description>
+  <Make_Gun_RNStoner63Rifle.jobString>正在制作斯通纳63自动步枪。</Make_Gun_RNStoner63Rifle.jobString>
+
+  <Make_Gun_RNHK416Rifle.label>制作HK416自动步枪</Make_Gun_RNHK416Rifle.label>
+  <Make_Gun_RNHK416Rifle.description>制作HK416自动步枪。</Make_Gun_RNHK416Rifle.description>
+  <Make_Gun_RNHK416Rifle.jobString>正在制作HK416自动步枪。</Make_Gun_RNHK416Rifle.jobString>
+
+  <Make_Gun_RNHK416SDRifle.label>制作HK416自动步枪 (带消声器)</Make_Gun_RNHK416SDRifle.label>
+  <Make_Gun_RNHK416SDRifle.description>制作HK416自动步枪 (带消声器)。</Make_Gun_RNHK416SDRifle.description>
+  <Make_Gun_RNHK416SDRifle.jobString>正在制作HK416自动步枪 (带消声器)。</Make_Gun_RNHK416SDRifle.jobString>
+
+  <Make_Gun_RNM4A1Rifle.label>制作M4A1自动步枪</Make_Gun_RNM4A1Rifle.label>
+  <Make_Gun_RNM4A1Rifle.description>制作M4A1自动步枪。</Make_Gun_RNM4A1Rifle.description>
+  <Make_Gun_RNM4A1Rifle.jobString>正在制作M4A1自动步枪。</Make_Gun_RNM4A1Rifle.jobString>
+
+  <Make_Gun_RNM4A1SDRifle.label>制作M4A1自动步枪 (带消声器)</Make_Gun_RNM4A1SDRifle.label>
+  <Make_Gun_RNM4A1SDRifle.description>制作M4A1自动步枪 (带消声器)。</Make_Gun_RNM4A1SDRifle.description>
+  <Make_Gun_RNM4A1SDRifle.jobString>正在制作M4A1自动步枪 (带消声器)。</Make_Gun_RNM4A1SDRifle.jobString>
+
+  <Make_Gun_RNFAMASRifle.label>制作FAMAS自动步枪</Make_Gun_RNFAMASRifle.label>
+  <Make_Gun_RNFAMASRifle.description>制作FAMAS自动步枪。</Make_Gun_RNFAMASRifle.description>
+  <Make_Gun_RNFAMASRifle.jobString>正在制作FAMAS自动步枪。</Make_Gun_RNFAMASRifle.jobString>
+
+  <Make_Gun_RNL85A2Rifle.label>制作L85A2自动步枪</Make_Gun_RNL85A2Rifle.label>
+  <Make_Gun_RNL85A2Rifle.description>制作L85A2自动步枪。</Make_Gun_RNL85A2Rifle.description>
+  <Make_Gun_RNL85A2Rifle.jobString>正在制作L85A2自动步枪。</Make_Gun_RNL85A2Rifle.jobString>
+
+  <Make_Gun_RNXM8Rifle.label>制作XM8自动步枪</Make_Gun_RNXM8Rifle.label>
+  <Make_Gun_RNXM8Rifle.description>制作XM8自动步枪。</Make_Gun_RNXM8Rifle.description>
+  <Make_Gun_RNXM8Rifle.jobString>正在制作XM8自动步枪。</Make_Gun_RNXM8Rifle.jobString>
+
+  <!--[Duplicated] <Make_Gun_RNM4A4Rifle.label>make M4A4</Make_Gun_RNM4A4Rifle.label>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4Rifle.description>Make M4A4.</Make_Gun_RNM4A4Rifle.description>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4Rifle.jobString>Making M4A4.</Make_Gun_RNM4A4Rifle.jobString>-->
+
+  <Make_Gun_RNM27Rifle.label>制作M27自动步枪</Make_Gun_RNM27Rifle.label>
+  <Make_Gun_RNM27Rifle.description>制作M27自动步枪。</Make_Gun_RNM27Rifle.description>
+  <Make_Gun_RNM27Rifle.jobString>正在制作M27自动步枪。</Make_Gun_RNM27Rifle.jobString>
+
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.label>make M4A4 (SD)</Make_Gun_RNM4A4SDRifle.label>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.description>Make M4A4 (SD).</Make_Gun_RNM4A4SDRifle.description>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.jobString>Making M4A4 (SD).</Make_Gun_RNM4A4SDRifle.jobString>-->
+
+  <Make_Gun_RNM4A4Rifle.label>制作M16A4自动步枪</Make_Gun_RNM4A4Rifle.label>
+  <Make_Gun_RNM4A4Rifle.description>制作M16A4自动步枪。</Make_Gun_RNM4A4Rifle.description>
+  <Make_Gun_RNM4A4Rifle.jobString>正在制作M16A4自动步枪。</Make_Gun_RNM4A4Rifle.jobString>
+
+  <Make_Gun_RNM4A4SDRifle.label>制作M16A4自动步枪 (带消声器)</Make_Gun_RNM4A4SDRifle.label>
+  <Make_Gun_RNM4A4SDRifle.description>制作M16A4自动步枪 (带消声器)。</Make_Gun_RNM4A4SDRifle.description>
+  <Make_Gun_RNM4A4SDRifle.jobString>正在制作M16A4自动步枪 (带消声器)。</Make_Gun_RNM4A4SDRifle.jobString>
+
+  <Make_Gun_RNSCARHRifle.label>制作SCAR-H自动步枪</Make_Gun_RNSCARHRifle.label>
+  <Make_Gun_RNSCARHRifle.description>制作SCAR-H自动步枪。</Make_Gun_RNSCARHRifle.description>
+  <Make_Gun_RNSCARHRifle.jobString>正在制作SCAR-H自动步枪。</Make_Gun_RNSCARHRifle.jobString>
+
+  <Make_Gun_RNAK47Rifle.label>制作AK-47自动步枪</Make_Gun_RNAK47Rifle.label>
+  <Make_Gun_RNAK47Rifle.description>制作AK-47自动步枪。</Make_Gun_RNAK47Rifle.description>
+  <Make_Gun_RNAK47Rifle.jobString>正在制作AK-47自动步枪。</Make_Gun_RNAK47Rifle.jobString>
+
+  <Make_Gun_RNAK47WastelandRifle.label>制作AK-47自动步枪 (废土)</Make_Gun_RNAK47WastelandRifle.label>
+  <Make_Gun_RNAK47WastelandRifle.description>制作AK-47自动步枪 (废土)。</Make_Gun_RNAK47WastelandRifle.description>
+  <Make_Gun_RNAK47WastelandRifle.jobString>正在制作AK-47自动步枪 (废土)。</Make_Gun_RNAK47WastelandRifle.jobString>
+
+  <Make_Gun_RNAK47GoldRifle.label>制作AK-47自动步枪 (黄金)</Make_Gun_RNAK47GoldRifle.label>
+  <Make_Gun_RNAK47GoldRifle.description>制作AK-47自动步枪 (黄金)。</Make_Gun_RNAK47GoldRifle.description>
+  <Make_Gun_RNAK47GoldRifle.jobString>正在制作AK-47自动步枪 (黄金)。</Make_Gun_RNAK47GoldRifle.jobString>
+
+  <Make_Gun_RNType56Rifle.label>制作56式自动步枪</Make_Gun_RNType56Rifle.label>
+  <Make_Gun_RNType56Rifle.description>制作56式自动步枪。</Make_Gun_RNType56Rifle.description>
+  <Make_Gun_RNType56Rifle.jobString>正在制作56式自动步枪。</Make_Gun_RNType56Rifle.jobString>
+
+  <Make_Gun_RNZastavaM70Rifle.label>制作扎斯塔瓦M70自动步枪</Make_Gun_RNZastavaM70Rifle.label>
+  <Make_Gun_RNZastavaM70Rifle.description>制作扎斯塔瓦M70自动步枪。</Make_Gun_RNZastavaM70Rifle.description>
+  <Make_Gun_RNZastavaM70Rifle.jobString>正在制作扎斯塔瓦M70自动步枪。</Make_Gun_RNZastavaM70Rifle.jobString>
+
+  <Make_Gun_RNAKS47Rifle.label>制作AKS-47自动步枪</Make_Gun_RNAKS47Rifle.label>
+  <Make_Gun_RNAKS47Rifle.description>制作AKS-47自动步枪。</Make_Gun_RNAKS47Rifle.description>
+  <Make_Gun_RNAKS47Rifle.jobString>正在制作AKS-47自动步枪。</Make_Gun_RNAKS47Rifle.jobString>
+
+  <Make_Gun_RNAN94Rifle.label>制作AN-94自动步枪</Make_Gun_RNAN94Rifle.label>
+  <Make_Gun_RNAN94Rifle.description>制作AN-94自动步枪。</Make_Gun_RNAN94Rifle.description>
+  <Make_Gun_RNAN94Rifle.jobString>正在制作AN-94自动步枪。</Make_Gun_RNAN94Rifle.jobString>
+
+  <Make_Gun_RNA12Rifle.label>制作AK-12自动步枪</Make_Gun_RNA12Rifle.label>
+  <Make_Gun_RNA12Rifle.description>制作AK-12自动步枪。</Make_Gun_RNA12Rifle.description>
+  <Make_Gun_RNA12Rifle.jobString>正在制作AK-12自动步枪。</Make_Gun_RNA12Rifle.jobString>
+
+  <Make_Gun_RNZastavaM21Rifle.label>制作扎斯塔瓦M21</Make_Gun_RNZastavaM21Rifle.label>
+  <Make_Gun_RNZastavaM21Rifle.description>制作扎斯塔瓦M21。</Make_Gun_RNZastavaM21Rifle.description>
+  <Make_Gun_RNZastavaM21Rifle.jobString>正在制作扎斯塔瓦M21。</Make_Gun_RNZastavaM21Rifle.jobString>
+
+  <Make_Gun_RNGALILRifle.label>制作Galil自动步枪</Make_Gun_RNGALILRifle.label>
+  <Make_Gun_RNGALILRifle.description>制作Galil自动步枪。</Make_Gun_RNGALILRifle.description>
+  <Make_Gun_RNGALILRifle.jobString>正在制作Galil自动步枪。</Make_Gun_RNGALILRifle.jobString>
+
+  <Make_Gun_RNAK74Rifle.label>制作AK74自动步枪</Make_Gun_RNAK74Rifle.label>
+  <Make_Gun_RNAK74Rifle.description>制作AK74自动步枪。</Make_Gun_RNAK74Rifle.description>
+  <Make_Gun_RNAK74Rifle.jobString>正在制作AK74自动步枪。</Make_Gun_RNAK74Rifle.jobString>
+
+
+  <!-- Recipe Users: RimmuNationTableSniper -->
+
+  <Make_Gun_InterventionSniperRifle.label>制作M200狙击步枪</Make_Gun_InterventionSniperRifle.label>
+  <Make_Gun_InterventionSniperRifle.description>制作M200狙击步枪。</Make_Gun_InterventionSniperRifle.description>
+  <Make_Gun_InterventionSniperRifle.jobString>正在制作M200狙击步枪。</Make_Gun_InterventionSniperRifle.jobString>
+
+  <Make_Gun_RNTac50SniperRifle.label>制作TAC-50狙击步枪</Make_Gun_RNTac50SniperRifle.label>
+  <Make_Gun_RNTac50SniperRifle.description>制作TAC-50狙击步枪。</Make_Gun_RNTac50SniperRifle.description>
+  <Make_Gun_RNTac50SniperRifle.jobString>正在制作TAC-50狙击步枪。</Make_Gun_RNTac50SniperRifle.jobString>
+
+  <Make_Gun_50CalSniperRifle.label>制作M82A1狙击步枪</Make_Gun_50CalSniperRifle.label>
+  <Make_Gun_50CalSniperRifle.description>制作M82A1狙击步枪。</Make_Gun_50CalSniperRifle.description>
+  <Make_Gun_50CalSniperRifle.jobString>正在制作M82A1狙击步枪。</Make_Gun_50CalSniperRifle.jobString>
+
+  <Make_Gun_M110SniperRifle.label>制作M110 SASS</Make_Gun_M110SniperRifle.label>
+  <Make_Gun_M110SniperRifle.description>制作M110 SASS。</Make_Gun_M110SniperRifle.description>
+  <Make_Gun_M110SniperRifle.jobString>正在制作M110 SASS。</Make_Gun_M110SniperRifle.jobString>
+
+  <Make_Gun_L129A1SniperRifle.label>制作L129A1狙击步枪</Make_Gun_L129A1SniperRifle.label>
+  <Make_Gun_L129A1SniperRifle.description>制作L129A1狙击步枪。</Make_Gun_L129A1SniperRifle.description>
+  <Make_Gun_L129A1SniperRifle.jobString>正在制作L129A1狙击步枪。</Make_Gun_L129A1SniperRifle.jobString>
+
+  <Make_Gun_G28SniperRifle.label>制作G28狙击步枪</Make_Gun_G28SniperRifle.label>
+  <Make_Gun_G28SniperRifle.description>制作G28狙击步枪。</Make_Gun_G28SniperRifle.description>
+  <Make_Gun_G28SniperRifle.jobString>正在制作G28狙击步枪。</Make_Gun_G28SniperRifle.jobString>
+
+  <Make_Gun_SCAR20SniperRifle.label>制作SCAR Mk.20</Make_Gun_SCAR20SniperRifle.label>
+  <Make_Gun_SCAR20SniperRifle.description>制作SCAR Mk.20。</Make_Gun_SCAR20SniperRifle.description>
+  <Make_Gun_SCAR20SniperRifle.jobString>正在制作SCAR Mk.20。</Make_Gun_SCAR20SniperRifle.jobString>
+
+  <Make_Gun_PSG1SniperRifle.label>制作PSG-1</Make_Gun_PSG1SniperRifle.label>
+  <Make_Gun_PSG1SniperRifle.description>制作PSG-1。</Make_Gun_PSG1SniperRifle.description>
+  <Make_Gun_PSG1SniperRifle.jobString>正在制作PSG-1。</Make_Gun_PSG1SniperRifle.jobString>
+
+  <Make_Gun_WA2000SniperRifle.label>制作WA2000</Make_Gun_WA2000SniperRifle.label>
+  <Make_Gun_WA2000SniperRifle.description>制作WA2000。</Make_Gun_WA2000SniperRifle.description>
+  <Make_Gun_WA2000SniperRifle.jobString>正在制作WA2000。</Make_Gun_WA2000SniperRifle.jobString>
+
+  <Make_Gun_DragunovSVDSniperRifle.label>制作SVD步枪</Make_Gun_DragunovSVDSniperRifle.label>
+  <Make_Gun_DragunovSVDSniperRifle.description>制作SVD步枪。</Make_Gun_DragunovSVDSniperRifle.description>
+  <Make_Gun_DragunovSVDSniperRifle.jobString>正在制作SVD步枪。</Make_Gun_DragunovSVDSniperRifle.jobString>
+
+  <Make_Gun_ZastavaM76SniperRifle.label>制作扎斯塔瓦M76</Make_Gun_ZastavaM76SniperRifle.label>
+  <Make_Gun_ZastavaM76SniperRifle.description>制作扎斯塔瓦M76。</Make_Gun_ZastavaM76SniperRifle.description>
+  <Make_Gun_ZastavaM76SniperRifle.jobString>正在制作扎斯塔瓦M76。</Make_Gun_ZastavaM76SniperRifle.jobString>
+
+  <Make_Gun_SVUSniperRifle.label>制作SVU步枪</Make_Gun_SVUSniperRifle.label>
+  <Make_Gun_SVUSniperRifle.description>制作SVU步枪。</Make_Gun_SVUSniperRifle.description>
+  <Make_Gun_SVUSniperRifle.jobString>正在制作SVU步枪。</Make_Gun_SVUSniperRifle.jobString>
+
+  <Make_Gun_VSSSniperRifle.label>制作VSS Vintorez微声步枪</Make_Gun_VSSSniperRifle.label>
+  <Make_Gun_VSSSniperRifle.description>制作VSS Vintorez微声狙击步枪。</Make_Gun_VSSSniperRifle.description>
+  <Make_Gun_VSSSniperRifle.jobString>正在制作VSS Vintorez微声步枪。</Make_Gun_VSSSniperRifle.jobString>
+
+  <Make_Gun_M40A4SniperRifle.label>制作M40A4狙击步枪</Make_Gun_M40A4SniperRifle.label>
+  <Make_Gun_M40A4SniperRifle.description>制作M40A4狙击步枪。</Make_Gun_M40A4SniperRifle.description>
+  <Make_Gun_M40A4SniperRifle.jobString>正在制作M40A4狙击步枪。</Make_Gun_M40A4SniperRifle.jobString>
+
+  <Make_Gun_L96A1SniperRifle.label>制作L96A1狙击步枪</Make_Gun_L96A1SniperRifle.label>
+  <Make_Gun_L96A1SniperRifle.description>制作L96A1狙击步枪。</Make_Gun_L96A1SniperRifle.description>
+  <Make_Gun_L96A1SniperRifle.jobString>正在制作L96A1狙击步枪。</Make_Gun_L96A1SniperRifle.jobString>
+
+  <Make_Gun_SV98SniperRifle.label>制作SV-98狙击步枪</Make_Gun_SV98SniperRifle.label>
+  <Make_Gun_SV98SniperRifle.description>制作SV-98狙击步枪。</Make_Gun_SV98SniperRifle.description>
+  <Make_Gun_SV98SniperRifle.jobString>正在制作SV-98狙击步枪。</Make_Gun_SV98SniperRifle.jobString>
+
+  <Make_Gun_ZastavaM07SniperRifle.label>制作扎斯塔瓦M07</Make_Gun_ZastavaM07SniperRifle.label>
+  <Make_Gun_ZastavaM07SniperRifle.description>制作扎斯塔瓦M07。</Make_Gun_ZastavaM07SniperRifle.description>
+  <Make_Gun_ZastavaM07SniperRifle.jobString>正在制作扎斯塔瓦M07。</Make_Gun_ZastavaM07SniperRifle.jobString>
+
+  <Make_Gun_GOLMagnumSniperRifle.label>制作GOL狙击步枪</Make_Gun_GOLMagnumSniperRifle.label>
+  <Make_Gun_GOLMagnumSniperRifle.description>制作GOL狙击步枪。</Make_Gun_GOLMagnumSniperRifle.description>
+  <Make_Gun_GOLMagnumSniperRifle.jobString>正在制作GOL狙击步枪。</Make_Gun_GOLMagnumSniperRifle.jobString>
+
+  <Make_Gun_FNBallistaSniperRifle.label>制作FN“弩炮”狙击步枪</Make_Gun_FNBallistaSniperRifle.label>
+  <Make_Gun_FNBallistaSniperRifle.description>制作FN“弩炮”狙击步枪。</Make_Gun_FNBallistaSniperRifle.description>
+  <Make_Gun_FNBallistaSniperRifle.jobString>正在制作FN“弩炮”狙击步枪。</Make_Gun_FNBallistaSniperRifle.jobString>
+
+  <Make_Gun_MosinNagantRifle.label>制作莫辛-纳甘步枪</Make_Gun_MosinNagantRifle.label>
+  <Make_Gun_MosinNagantRifle.description>制作莫辛-纳甘栓动式步枪。</Make_Gun_MosinNagantRifle.description>
+  <Make_Gun_MosinNagantRifle.jobString>正在制作莫辛-纳甘步枪。</Make_Gun_MosinNagantRifle.jobString>
+
+  <Make_Gun_RNSKSRifle.label>制作SKS半自动步枪</Make_Gun_RNSKSRifle.label>
+  <Make_Gun_RNSKSRifle.description>制作SKS半自动步枪。</Make_Gun_RNSKSRifle.description>
+  <Make_Gun_RNSKSRifle.jobString>正在制作SKS半自动步枪。</Make_Gun_RNSKSRifle.jobString>
+
+  <Make_Gun_RNM1GarandRifle.label>制作M1加兰德步枪</Make_Gun_RNM1GarandRifle.label>
+  <Make_Gun_RNM1GarandRifle.description>制作M1加兰德步枪。</Make_Gun_RNM1GarandRifle.description>
+  <Make_Gun_RNM1GarandRifle.jobString>正在制作M1加兰德步枪。</Make_Gun_RNM1GarandRifle.jobString>
+
+  <Make_Gun_RNM14Rifle.label>制作M14半自动步枪</Make_Gun_RNM14Rifle.label>
+  <Make_Gun_RNM14Rifle.description>制作M14半自动步枪。</Make_Gun_RNM14Rifle.description>
+  <Make_Gun_RNM14Rifle.jobString>正在制作M14半自动步枪。</Make_Gun_RNM14Rifle.jobString>
+
+  <Make_Gun_RNM1ARifle.label>制作M1A半自动步枪</Make_Gun_RNM1ARifle.label>
+  <Make_Gun_RNM1ARifle.description>制作M1A半自动步枪。</Make_Gun_RNM1ARifle.description>
+  <Make_Gun_RNM1ARifle.jobString>正在制作M1A半自动步枪。</Make_Gun_RNM1ARifle.jobString>
+
+
+  <!-- Recipe Users: RimmuNationTableExplosives -->
+
+  <Make_RNAirBombardment.label>制作“鬼怪”空袭激光目标靶向器</Make_RNAirBombardment.label>
+  <Make_RNAirBombardment.description>制作“鬼怪”空袭激光目标靶向器。</Make_RNAirBombardment.description>
+  <Make_RNAirBombardment.jobString>正在制作“鬼怪”空袭激光目标靶向器。</Make_RNAirBombardment.jobString>
+
+  <Make_RNODINOrbitalBeam.label>制作“奥丁”空间轨道炮靶向仪</Make_RNODINOrbitalBeam.label>
+  <Make_RNODINOrbitalBeam.description>制作“奥丁”空间轨道炮靶向仪。</Make_RNODINOrbitalBeam.description>
+  <Make_RNODINOrbitalBeam.jobString>正在制作“奥丁”空间轨道炮靶向仪。</Make_RNODINOrbitalBeam.jobString>
+
+
+  <!--[Duplicated] <Make_Gun_RNM4A4Rifle.label>制作M4A4</Make_Gun_RNM4A4Rifle.label>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4Rifle.description>制作M4A4。</Make_Gun_RNM4A4Rifle.description>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4Rifle.jobString>正在制作M4A4。</Make_Gun_RNM4A4Rifle.jobString>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.label>制作M4A4 (SD)</Make_Gun_RNM4A4SDRifle.label>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.description>制作M4A4 (SD)。</Make_Gun_RNM4A4SDRifle.description>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.jobString>正在制作M4A4 (SD)。</Make_Gun_RNM4A4SDRifle.jobString>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4Rifle.label>制作 M4A4</Make_Gun_RNM4A4Rifle.label>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4Rifle.description>制作 M4A4。</Make_Gun_RNM4A4Rifle.description>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4Rifle.jobString>正在制作 M4A4。</Make_Gun_RNM4A4Rifle.jobString>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.label>制作 M4A4 (SD)</Make_Gun_RNM4A4SDRifle.label>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.description>制作 M4A4 (SD)。</Make_Gun_RNM4A4SDRifle.description>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.jobString>正在制作 M4A4 (SD)。</Make_Gun_RNM4A4SDRifle.jobString>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.label>制作 M4A4 (带消声器)</Make_Gun_RNM4A4SDRifle.label>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.description>制作 M4A4 (带消声器)。</Make_Gun_RNM4A4SDRifle.description>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.jobString>正在制作 M4A4 (带消声器)。</Make_Gun_RNM4A4SDRifle.jobString>-->
+  <!--[Duplicated] <Make_Gun_M72LAWLauncher.label>制作M72 LAW</Make_Gun_M72LAWLauncher.label>-->
+  <!--[Duplicated] <Make_Gun_M72LAWLauncher.description>制作M72 LAW。</Make_Gun_M72LAWLauncher.description>-->
+  <!--[Duplicated] <Make_Gun_M72LAWLauncher.jobString>正在制作M72 LAW。</Make_Gun_M72LAWLauncher.jobString>-->
+  <!--<Make_RN_ColtRevolverP.label>制作柯尔特“巨蟒”转轮手枪</Make_RN_ColtRevolverP.label>-->
+  <!--<Make_RN_ColtRevolverP.description>制作柯尔特“巨蟒”转轮手枪。</Make_RN_ColtRevolverP.description>-->
+  <!--<Make_RN_ColtRevolverP.jobString>正在制作柯尔特“巨蟒”转轮手枪。</Make_RN_ColtRevolverP.jobString>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.label>制作M4A4 (带消声器)</Make_Gun_RNM4A4SDRifle.label>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.description>制作M4A4 (带消声器)。</Make_Gun_RNM4A4SDRifle.description>-->
+  <!--[Duplicated] <Make_Gun_RNM4A4SDRifle.jobString>正在制作M4A4 (带消声器)。</Make_Gun_RNM4A4SDRifle.jobString>-->
+  <!-- Recipe Users: RimmuNationTableMachining, CraftingSpot -->
+
+</LanguageData>
