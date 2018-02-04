@@ -20,7 +20,7 @@
   <!-- /////////////////////////////////////////////////////// -->
 
   <NuclearReactor.ResearchLabel>核能</NuclearReactor.ResearchLabel>
-  <NuclearReactor.ResearchDesc>“边缘核能”核电站被设计成一种可扩展的架构模式，能够在单个系统中运行多个反应堆、涡轮机和制冷设施，每个反应堆燃料装填完全时的发电量超过80kW。 反应堆也可用于生产武器用钚。</NuclearReactor.ResearchDesc>
+  <NuclearReactor.ResearchDesc>“边缘核能”核电站被设计成一种可扩展的架构模式，能够在单个系统中运行多个反应堆、涡轮机和制冷设施，每个反应堆满载时的发电量超过200kW。 反应堆也可用于生产钚。</NuclearReactor.ResearchDesc>
   <NuclearReactor.ResearchDescDisc>您的核电站不再受限于发电组件个数，可以通过添加更多的反应堆、涡轮机和制冷设施来扩展。可使用边缘核能研究台进行更深入的研究，以改进设计。</NuclearReactor.ResearchDescDisc>
 
   <Plutonium.ResearchLabel>钚工业</Plutonium.ResearchLabel>
@@ -33,7 +33,7 @@
 
   <RTG.ResearchLabel>放射性同位素发电机</RTG.ResearchLabel>
   <RTG.ResearchDesc>放射性同位素发电机是一种便携式发电机，其使用热电偶阵列将放射性同位素衰变所释放热能转化为电能。</RTG.ResearchDesc>
-  <RTG.ResearchDescDisc>放射性同位素发电机可以重新安装，最大输出功率为500W。</RTG.ResearchDescDisc>
+  <RTG.ResearchDescDisc>放射性同位素发电机可以重新安装，最大输出功率为1000W。</RTG.ResearchDescDisc>
 
   <ICBM.ResearchLabel>洲际弹道导弹</ICBM.ResearchLabel>
   <ICBM.ResearchDesc>洲际弹道导弹主要用于运送核武器进行远程打击，装有核弹头。</ICBM.ResearchDesc>

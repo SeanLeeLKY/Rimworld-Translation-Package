@@ -2,11 +2,11 @@
 <LanguageData>
 
   <Radioisotope_thermoelectric_generator.label>放射性同位素发电机</Radioisotope_thermoelectric_generator.label>
-  <Radioisotope_thermoelectric_generator.description>使用热电偶阵列将放射性同位素衰变所释放热能转化为电能的发电机。最大输出功率为500W。</Radioisotope_thermoelectric_generator.description>
+  <Radioisotope_thermoelectric_generator.description>使用热电偶阵列将放射性同位素衰变所释放热能转化为电能的发电机。</Radioisotope_thermoelectric_generator.description>
   <Radioisotope_thermoelectric_generator_Blueprint.label>放射性同位素发电机(蓝图)</Radioisotope_thermoelectric_generator_Blueprint.label>
   <Radioisotope_thermoelectric_generator_Blueprint_Install.label>放射性同位素发电机(蓝图)</Radioisotope_thermoelectric_generator_Blueprint_Install.label>
   <Radioisotope_thermoelectric_generator_Frame.label>放射性同位素发电机(建造中)</Radioisotope_thermoelectric_generator_Frame.label>
-  <Radioisotope_thermoelectric_generator_Frame.description>使用热电偶阵列将放射性同位素衰变所释放热能转化为电能的发电机。最大输出功率为500W。</Radioisotope_thermoelectric_generator_Frame.description>
+  <Radioisotope_thermoelectric_generator_Frame.description>使用热电偶阵列将放射性同位素衰变所释放热能转化为电能的发电机。</Radioisotope_thermoelectric_generator_Frame.description>
 
   <ReactorCoreA.label>轻水反应堆</ReactorCoreA.label>
   <ReactorCoreA.description>“边缘核能”基础热核反应堆，具有21个燃料棒插槽，基础耗电250kw。核反应在堆芯出发生并产生高温。</ReactorCoreA.description>

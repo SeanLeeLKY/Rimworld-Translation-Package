@@ -2,13 +2,13 @@
 <LanguageData>
 
   <ReactorConductors1.StepLabel>核反应堆进阶研究(需要12级智识)</ReactorConductors1.StepLabel>
-  <ReactorConductors1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ReactorConductors1.StepDesc>
+  <ReactorConductors1.StepDesc>由高智识的殖民者对反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ReactorConductors1.StepDesc>
 
   <ReactorConductors2.StepLabel>测试：燃料饱和，中子通量20%。</ReactorConductors2.StepLabel>
-  <ReactorConductors2.StepDesc>将轻水反应堆装满24个燃料组件、中子通量设定在10％~20％，使用反应堆控制台收集数据。</ReactorConductors2.StepDesc>
+  <ReactorConductors2.StepDesc>将反应堆装满燃料组件、中子通量设定在10％~20％，使用反应堆控制台收集数据。</ReactorConductors2.StepDesc>
 
   <ReactorConductors3.StepLabel>测试：燃料饱和，中子通量100%。</ReactorConductors3.StepLabel>
-  <ReactorConductors3.StepDesc>将轻水反应堆装满24个燃料组件、中子通量设定在100％，使用反应堆控制台收集数据。</ReactorConductors3.StepDesc>
+  <ReactorConductors3.StepDesc>将反应堆装满燃料组件、中子通量设定在100％，使用反应堆控制台收集数据。</ReactorConductors3.StepDesc>
 
   <ReactorConductors4.StepLabel>核反应堆进阶研究(需要12级智识)</ReactorConductors4.StepLabel>
   <ReactorConductors4.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用研究用核反应堆进行实验。</ReactorConductors4.StepDesc>
@@ -17,10 +17,10 @@
   <ReactorConductors5.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作反应堆导管。</ReactorConductors5.StepDesc>
 
   <NeutronReflectors1.StepLabel>核反应堆进阶研究(需要12级智识)</NeutronReflectors1.StepLabel>
-  <NeutronReflectors1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</NeutronReflectors1.StepDesc>
+  <NeutronReflectors1.StepDesc>由高智识的殖民者对反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</NeutronReflectors1.StepDesc>
 
   <NeutronReflectors2.StepLabel>测试：燃料饱和，中子通量100%。</NeutronReflectors2.StepLabel>
-  <NeutronReflectors2.StepDesc>将轻水反应堆装满24个燃料组件、中子通量设定在100％，使用反应堆控制台收集数据。</NeutronReflectors2.StepDesc>
+  <NeutronReflectors2.StepDesc>将反应堆装满燃料组件、中子通量设定在100％，使用反应堆控制台收集数据。</NeutronReflectors2.StepDesc>
 
   <NeutronReflectors3.StepLabel>核反应堆进阶研究(需要12级智识)</NeutronReflectors3.StepLabel>
   <NeutronReflectors3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用研究用核反应堆进行实验。</NeutronReflectors3.StepDesc>
@@ -29,7 +29,7 @@
   <NeutronReflectors4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作中子反射层。</NeutronReflectors4.StepDesc>
 
   <ReactorShielding1.StepLabel>核反应堆进阶研究(需要12级智识)</ReactorShielding1.StepLabel>
-  <ReactorShielding1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ReactorShielding1.StepDesc>
+  <ReactorShielding1.StepDesc>由高智识的殖民者对反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ReactorShielding1.StepDesc>
 
   <ReactorShielding2.StepLabel>调整反应堆堆芯使其产生1级强度的辐射</ReactorShielding2.StepLabel>
   <ReactorShielding2.StepDesc>整反应堆堆芯使其达到1级或更高的辐射泄漏水平来进行测试，使用反应堆控制台收集数据，在测试完成后可能需要进行修理。</ReactorShielding2.StepDesc>
@@ -41,10 +41,10 @@
   <ReactorShielding4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作反应堆屏障。</ReactorShielding4.StepDesc>
 
   <ControlRodActuators1.StepLabel>核反应堆进阶研究(需要8级智识)</ControlRodActuators1.StepLabel>
-  <ControlRodActuators1.StepDesc>由高智识的殖民者对轻水反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ControlRodActuators1.StepDesc>
+  <ControlRodActuators1.StepDesc>由高智识的殖民者对反应堆堆芯进行实时观测、调试，收集数据进行分析，以求找出优化升级方案。</ControlRodActuators1.StepDesc>
 
-  <ControlRodActuators2.StepLabel>测试：轻水反应堆SCRAM模式。</ControlRodActuators2.StepLabel>
-  <ControlRodActuators2.StepDesc>将轻水反应堆装满24个燃料组件、中子通量设定在100％，执行轻水反应堆SCRAM模式进行测试，使用反应堆控制台收集数据。</ControlRodActuators2.StepDesc>
+  <ControlRodActuators2.StepLabel>执行关闭反应堆指令</ControlRodActuators2.StepLabel>
+  <ControlRodActuators2.StepDesc>利用关闭反应堆指令测试控制棒传动器：当反应堆满载燃烧且中子通量达到100％时执行关闭反应堆指令进行测试。</ControlRodActuators2.StepDesc>
 
   <ControlRodActuators3.StepLabel>核反应堆进阶研究(需要10级智识)</ControlRodActuators3.StepLabel>
   <ControlRodActuators3.StepDesc>由高智识的殖民者对数据进行分析，设计假想方案并利用研究用核反应堆进行实验。</ControlRodActuators3.StepDesc>
@@ -141,5 +141,6 @@
 
   <BeamSplitter4.StepLabel>组件材料分析(需要18级手工)</BeamSplitter4.StepLabel>
   <BeamSplitter4.StepDesc>由高手工的殖民者利用现有的的资源和工具来确定如何制作电子束分裂器。</BeamSplitter4.StepDesc>
+
 
 </LanguageData>

@@ -152,7 +152,7 @@
   <ADS3.StepDesc>由高建造的殖民者使用现有的工具制定建造主动驱敌系统的最终施工蓝图。</ADS3.StepDesc>
 
   <ADS4.StepLabel>构建主动驱敌系统原型</ADS4.StepLabel>
-  <ADS4.StepDesc>建造主动驱敌系统原型机，该原型机具有非常有限的射程和较高的能源消耗。需要能量武器控制台操纵和脉冲电池供能。</ADS4.StepDesc>
+  <ADS4.StepDesc>建造主动驱敌系统原型机，需要能量武器控制台操纵和脉冲电池供能。\n\n!!!警告!!! 原型机有很高的故障概率！</ADS4.StepDesc>
 
   <ADS5.StepLabel>收集武器数据</ADS5.StepLabel>
   <ADS5.StepDesc>使用主动驱敌系统对任何活动目标开火以收集武器数据并测试性能。</ADS5.StepDesc>
