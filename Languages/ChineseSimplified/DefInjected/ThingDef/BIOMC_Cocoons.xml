@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RWBSmallCocoon.label>茧</RWBSmallCocoon.label>
+  <RWBSmallCocoon.description>一种丝绸状的茧。可以用来保存鲜活的生物或是死亡的猎物。</RWBSmallCocoon.description>
+
+  <RWBMediumCocoon.label>大型茧</RWBMediumCocoon.label>
+  <RWBMediumCocoon.description>一种巨大的蚕丝质感的网，用于包裹较大体形的猎物。</RWBMediumCocoon.description>
+
+  <RWBLargeCocoon.label>巨型茧</RWBLargeCocoon.label>
+  <RWBLargeCocoon.description>一种巨型的蚕丝质感的网，用于包裹更大体形的猎物。</RWBLargeCocoon.description>
+
+
+</LanguageData>

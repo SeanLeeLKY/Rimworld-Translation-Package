@@ -1,6 +1,30 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!-- [[[Sniper]]] -->
+
+  <SniperPulse.label>狙击枪脉冲弹</SniperPulse.label>
+
+  <ForsakenSniper.label>遗忘者狙击步枪</ForsakenSniper.label>
+  <ForsakenSniper.description>当你获得这把枪的时候，就宣告对面的死亡。</ForsakenSniper.description>
+
+
+  <!-- [[[Shotgun]]] -->
+
+  <PulseSlug.label>霰弹枪脉冲弹</PulseSlug.label>
+
+  <ForsakenShotGun.label>遗忘者霰弹枪</ForsakenShotGun.label>
+  <ForsakenShotGun.description>Many Pews</ForsakenShotGun.description>
+
+
+  <!-- [[[Assault Rifle]]] -->
+
+  <PulseMachine.label>突击步枪脉冲弹</PulseMachine.label>
+
+  <ForsakenAR.label>遗忘者突击步枪</ForsakenAR.label>
+  <ForsakenAR.description>Super Pews Pews</ForsakenAR.description>
+
+
   <!-- [[Sword Boye]] -->
 
   <ForsakenLongBlade.label>遗忘者长刀</ForsakenLongBlade.label>
@@ -18,11 +42,30 @@
   <ForsakenBattle.tools.1.label>斧刃</ForsakenBattle.tools.1.label>
   <ForsakenBattle.tools.2.label>刃口</ForsakenBattle.tools.2.label>
 
+
+  <!-- [[Bulk Sword Boye]] -->
+
   <ForsakenBulksword.label>遗忘者大剑</ForsakenBulksword.label>
   <ForsakenBulksword.description>挥砍</ForsakenBulksword.description>
   <ForsakenBulksword.tools.0.label>剑柄</ForsakenBulksword.tools.0.label>
-  <ForsakenBulksword.tools.1.label>斧刃</ForsakenBulksword.tools.1.label>
+  <ForsakenBulksword.tools.1.label>剑刃</ForsakenBulksword.tools.1.label>
   <ForsakenBulksword.tools.2.label>刃口</ForsakenBulksword.tools.2.label>
+
+
+  <!-- [[Forsaken Spear]] -->
+
+  <FSpear.label>遗忘者长矛</FSpear.label>
+  <FSpear.description>矛头</FSpear.description>
+  <FSpear.tools.0.label>握把</FSpear.tools.0.label>
+  <FSpear.tools.1.label>矛头</FSpear.tools.1.label>
+
+
+  <!-- [[Forsaken Bow]] -->
+
+  <FArrow.label>遗忘者长弓</FArrow.label>
+
+  <FBow.label>弓箭</FBow.label>
+  <FBow.description>...</FBow.description>
 
 
 </LanguageData>

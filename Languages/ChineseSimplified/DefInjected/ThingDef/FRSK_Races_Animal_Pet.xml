@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <Nightling.label>夜行兽</Nightling.label>
-  <Nightling.description>背上有一排排脊刺的大型野兽。在边缘世界这个残酷的地方，死亡是习以为常的现象。但是多年来出现的蹂躏尸体的报告与日俱增，让人不寒而栗的是，所有的尸体都像被钉子一样的凄惨。每一个黎明都会照亮暗夜的余波。当地人很快学会了恐惧黑暗以及他们内心的梦魇。</Nightling.description>
-  <Nightling_Leather.label>夜行兽毛皮</Nightling_Leather.label>
-  <Nightling_Leather.description>夜行兽的毛皮</Nightling_Leather.description>
-  <Nightling_Leather.stuffProps.stuffAdjective>夜行兽毛皮</Nightling_Leather.stuffProps.stuffAdjective>
-  <Nightling_Meat.label>夜行兽肉</Nightling_Meat.label>
-  <Nightling_Meat.description>夜行兽的肉</Nightling_Meat.description>
-  <Nightling_Corpse.label>夜行兽尸体</Nightling_Corpse.label>
-  <Nightling_Corpse.description>夜行兽的尸体</Nightling_Corpse.description>
+  <NightlingF.label>夜行兽</NightlingF.label>
+  <NightlingF.description>背上有一排排脊刺的大型野兽。在边缘世界这个残酷的地方，死亡是习以为常的现象。但是多年来出现的蹂躏尸体的报告与日俱增，让人不寒而栗的是，所有的尸体都像被钉子一样的凄惨。每一个黎明都会照亮暗夜的余波。当地人很快学会了恐惧黑暗以及他们内心的梦魇。</NightlingF.description>
+  <NightlingF_Leather.label>夜行兽毛皮</NightlingF_Leather.label>
+  <NightlingF_Leather.description>夜行兽的毛皮</NightlingF_Leather.description>
+  <NightlingF_Leather.stuffProps.stuffAdjective>夜行兽毛皮</NightlingF_Leather.stuffProps.stuffAdjective>
+  <NightlingF_Meat.label>夜行兽肉</NightlingF_Meat.label>
+  <NightlingF_Meat.description>夜行兽的肉</NightlingF_Meat.description>
+  <NightlingF_Corpse.label>夜行兽尸体</NightlingF_Corpse.label>
+  <NightlingF_Corpse.description>夜行兽的尸体</NightlingF_Corpse.description>
 
 
 </LanguageData>

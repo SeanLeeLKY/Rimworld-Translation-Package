@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RWBSmallSolarGenerator.label>2x2 太阳能发电机</RWBSmallSolarGenerator.label>
+  <RWBSmallSolarGenerator.description>利用阳光来产生电能。在黑暗中不起作用。是普通太阳能电池板的缩小版，发电量也会稍微低一些，但至少可以通过屋顶上的一个小天窗来利用阳光。</RWBSmallSolarGenerator.description>
+  <RWBSmallSolarGenerator_Blueprint.label>2x2 太阳能发电机(蓝图)</RWBSmallSolarGenerator_Blueprint.label>
+  <RWBSmallSolarGenerator_Blueprint_Install.label>2x2 太阳能发电机(蓝图)</RWBSmallSolarGenerator_Blueprint_Install.label>
+  <RWBSmallSolarGenerator_Frame.label>2x2 太阳能发电机(建造中)</RWBSmallSolarGenerator_Frame.label>
+  <RWBSmallSolarGenerator_Frame.description>利用阳光来产生电能。在黑暗中不起作用。是普通太阳能电池板的缩小版，发电量也会稍微低一些，但至少可以通过屋顶上的一个小天窗来利用阳光。</RWBSmallSolarGenerator_Frame.description>
+
+  <RWBTinySolarGenerator.label>1x1 太阳能发电机</RWBTinySolarGenerator.label>
+  <RWBTinySolarGenerator.description>利用阳光来产生电能。在黑暗中不起作用。是普通太阳能电池板的极简版，发电量也会更低一些，但至少可以通过屋顶上的一个小天窗来利用阳光。</RWBTinySolarGenerator.description>
+  <RWBTinySolarGenerator_Blueprint.label>1x1 太阳能发电机(蓝图)</RWBTinySolarGenerator_Blueprint.label>
+  <RWBTinySolarGenerator_Blueprint_Install.label>1x1 太阳能发电机(蓝图)</RWBTinySolarGenerator_Blueprint_Install.label>
+  <RWBTinySolarGenerator_Frame.label>1x1 太阳能发电机(建造中)</RWBTinySolarGenerator_Frame.label>
+  <RWBTinySolarGenerator_Frame.description>利用阳光来产生电能。在黑暗中不起作用。是普通太阳能电池板的极简版，发电量也会更低一些，但至少可以通过屋顶上的一个小天窗来利用阳光。</RWBTinySolarGenerator_Frame.description>
+
+
+</LanguageData>

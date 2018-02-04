@@ -25,5 +25,40 @@
   <Make_TForsakenA.description>制作遗忘者铠甲。</Make_TForsakenA.description>
   <Make_TForsakenA.jobString>正在制作遗忘者铠甲。</Make_TForsakenA.jobString>
 
+  <Make_ForsakenSniper.label>制作遗忘者狙击步枪</Make_ForsakenSniper.label>
+  <Make_ForsakenSniper.description>制作遗忘者狙击步枪。</Make_ForsakenSniper.description>
+  <Make_ForsakenSniper.jobString>正在制作遗忘者狙击步枪。</Make_ForsakenSniper.jobString>
+
+  <Make_ForsakenShotGun.label>制作遗忘者霰弹枪</Make_ForsakenShotGun.label>
+  <Make_ForsakenShotGun.description>制作遗忘者霰弹枪。</Make_ForsakenShotGun.description>
+  <Make_ForsakenShotGun.jobString>正在制作遗忘者霰弹枪。</Make_ForsakenShotGun.jobString>
+
+  <Make_ForsakenAR.label>制作遗忘者突击步枪</Make_ForsakenAR.label>
+  <Make_ForsakenAR.description>制作遗忘者突击步枪。</Make_ForsakenAR.description>
+  <Make_ForsakenAR.jobString>正在制作遗忘者突击步枪。</Make_ForsakenAR.jobString>
+
+  <Make_ForsakenLongBlade.label>制作遗忘者长刀</Make_ForsakenLongBlade.label>
+  <Make_ForsakenLongBlade.description>制作遗忘者长刀。</Make_ForsakenLongBlade.description>
+  <Make_ForsakenLongBlade.jobString>正在制作遗忘者长刀。</Make_ForsakenLongBlade.jobString>
+
+  <Make_ForsakenBattle.label>制作遗忘者战斧</Make_ForsakenBattle.label>
+  <Make_ForsakenBattle.description>制作遗忘者战斧。</Make_ForsakenBattle.description>
+  <Make_ForsakenBattle.jobString>正在制作遗忘者战斧。</Make_ForsakenBattle.jobString>
+
+  <Make_ForsakenBulksword.label>制作遗忘者大剑</Make_ForsakenBulksword.label>
+  <Make_ForsakenBulksword.description>制作遗忘者大剑。</Make_ForsakenBulksword.description>
+  <Make_ForsakenBulksword.jobString>正在制作遗忘者大剑。</Make_ForsakenBulksword.jobString>
+
+
+  <!-- Recipe Users: TableMachining, ElectricSmithy, FueledSmithy -->
+
+  <Make_FSpear.label>make Forsaken Spear</Make_FSpear.label>
+  <Make_FSpear.description>Make Forsaken Spear.</Make_FSpear.description>
+  <Make_FSpear.jobString>Making Forsaken Spear.</Make_FSpear.jobString>
+
+  <Make_FBow.label>make Forsaken Bow</Make_FBow.label>
+  <Make_FBow.description>Make Forsaken Bow.</Make_FBow.description>
+  <Make_FBow.jobString>Making Forsaken Bow.</Make_FBow.jobString>
+
 
 </LanguageData>

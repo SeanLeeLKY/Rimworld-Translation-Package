@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RWBSpiderBite.label>毒性蜇伤</RWBSpiderBite.label>
+  <RWBSpiderBite.deathMessage>{0}已经被蜇咬致死</RWBSpiderBite.deathMessage>
+
+  <RWBVampireBite.label>吸血啃食</RWBVampireBite.label>
+  <RWBVampireBite.deathMessage>{0}已经被啃食致死。</RWBVampireBite.deathMessage>
+
+
+</LanguageData>

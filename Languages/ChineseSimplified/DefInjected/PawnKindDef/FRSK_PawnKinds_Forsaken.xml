@@ -22,5 +22,12 @@
   <ForsakenGunner.labelFemale>女性 遗忘者火炮手</ForsakenGunner.labelFemale>
   <ForsakenGunner.labelFemalePlural>女性 遗忘者火炮手</ForsakenGunner.labelFemalePlural>
 
+  <KingOfTheLostOnes.label>失落之主</KingOfTheLostOnes.label>
+  <KingOfTheLostOnes.labelPlural>失落之主</KingOfTheLostOnes.labelPlural>
+  <KingOfTheLostOnes.labelMale>男性 失落之主</KingOfTheLostOnes.labelMale>
+  <KingOfTheLostOnes.labelMalePlural>男性 失落之主</KingOfTheLostOnes.labelMalePlural>
+  <KingOfTheLostOnes.labelFemale>女性 失落之主</KingOfTheLostOnes.labelFemale>
+  <KingOfTheLostOnes.labelFemalePlural>女性 失落之主</KingOfTheLostOnes.labelFemalePlural>
+
 
 </LanguageData>

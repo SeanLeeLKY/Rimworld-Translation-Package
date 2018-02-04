@@ -1,116 +1,152 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <FennexAgentKid.title>Young agent</FennexAgentKid.title>
-  <FennexAgentKid.titleShort>Kid-agent</FennexAgentKid.titleShort>
+  <FennexAgentKid.title>年轻的代理人</FennexAgentKid.title>
+  <FennexAgentKid.titleShort>孩子代理人</FennexAgentKid.titleShort>
+  <FennexAgentKid.baseDescription>NAME出生在一个专门培训情报人员的机构中。HIS成长岁月里有着许多平庸的一般教育。但是在观察和战斗方面的课程也增加了。</FennexAgentKid.baseDescription>
 
-  <FennexMisckid.title>Mischevious</FennexMisckid.title>
-  <FennexMisckid.titleShort>Mischevious</FennexMisckid.titleShort>
+  <FennexMisckid.title>淘气鬼</FennexMisckid.title>
+  <FennexMisckid.titleShort>淘气鬼</FennexMisckid.titleShort>
+  <FennexMisckid.baseDescription>NAME是个典型的淘气鬼。总是被HIS手中的饼干罐抓住(文字或谚语)。</FennexMisckid.baseDescription>
 
-  <FennexMEng.title>Mech engineer</FennexMEng.title>
-  <FennexMEng.titleShort>M-Engineer</FennexMEng.titleShort>
+  <FennexMEng.title>机械工程师</FennexMEng.title>
+  <FennexMEng.titleShort>M-工程师</FennexMEng.titleShort>
+  <FennexMEng.baseDescription>NAME是在Solaris领域从事双足步行战斗的技术人员。HIS长时间工作让HIS团队获得了成功，并且把HIS技术磨练到了极致。</FennexMEng.baseDescription>
 
-  <FennexMachinW.title>Machinist</FennexMachinW.title>
-  <FennexMachinW.titleShort>Machinist</FennexMachinW.titleShort>
+  <FennexMachinW.title>机械师</FennexMachinW.title>
+  <FennexMachinW.titleShort>机械师</FennexMachinW.titleShort>
+  <FennexMachinW.baseDescription>NAME在机械车间工作，使用金属铣床为各种设备制造部件。HECAP对细节有敏锐的眼光，并且技术娴熟老练。</FennexMachinW.baseDescription>
 
-  <FennexEngineerX.title>Hotrod apprentice</FennexEngineerX.title>
-  <FennexEngineerX.titleShort>Hot-rodder</FennexEngineerX.titleShort>
+  <FennexEngineerX.title>改装车学徒</FennexEngineerX.title>
+  <FennexEngineerX.titleShort>改装车发烧友</FennexEngineerX.titleShort>
+  <FennexEngineerX.baseDescription>NAME与HIS父亲一起工作，在一个尘土飞扬的边境小镇经营着一家老旧的汽修厂，将老旧的残骸还原成梦幻机器依旧是个迷...</FennexEngineerX.baseDescription>
 
-  <FennexOrchard.title>Fruit rancher</FennexOrchard.title>
-  <FennexOrchard.titleShort>F-Rancher</FennexOrchard.titleShort>
+  <FennexOrchard.title>水果农场主</FennexOrchard.title>
+  <FennexOrchard.titleShort>F-农场主</FennexOrchard.titleShort>
+  <FennexOrchard.baseDescription>NAME拥有美丽的果园，被可爱的橘子围绕着...直到一颗奇怪的陨石落在了HIS果园里，污染了土地。这只是时间的问题，但HECAP可以重新再站起来。</FennexOrchard.baseDescription>
 
-  <FennexTyrokid.title>Tyro</FennexTyrokid.title>
-  <FennexTyrokid.titleShort>Tyro</FennexTyrokid.titleShort>
+  <FennexTyrokid.title>初学者</FennexTyrokid.title>
+  <FennexTyrokid.titleShort>初学者</FennexTyrokid.titleShort>
+  <FennexTyrokid.baseDescription>NAME在HIS父亲教育下学习家族交易。HECAP是一个细心的学生，但HE一直希望有HIS自由时间，在HIS家附近玩玩BB枪。</FennexTyrokid.baseDescription>
 
-  <FennexSpacer.title>Noble line</FennexSpacer.title>
-  <FennexSpacer.titleShort>Noble</FennexSpacer.titleShort>
+  <FennexSpacer.title>贵族之子</FennexSpacer.title>
+  <FennexSpacer.titleShort>贵族</FennexSpacer.titleShort>
+  <FennexSpacer.baseDescription>NAME显然是来自古代王国的后裔，或者至少HIS祖父总是把这事念念不忘，灌输在HIS礼仪和政治课的各种课程中。</FennexSpacer.baseDescription>
 
-  <FennexForestKid.title>Young forester</FennexForestKid.title>
-  <FennexForestKid.titleShort>Forester-kid</FennexForestKid.titleShort>
+  <FennexForestKid.title>年轻的护林员</FennexForestKid.title>
+  <FennexForestKid.titleShort>护林员之子</FennexForestKid.titleShort>
+  <FennexForestKid.baseDescription>NAME在一片森林的边缘长大。HECAP花了大部分的空闲时间在这个森林里玩乐与探索。HECAP可以知道在哪里找到所有迷人的植物与动物。</FennexForestKid.baseDescription>
 
-  <FennexColonyKid.title>Fennex colonykid</FennexColonyKid.title>
-  <FennexColonyKid.titleShort>Kid</FennexColonyKid.titleShort>
+  <FennexColonyKid.title>耳廓狐殖民地孩子</FennexColonyKid.title>
+  <FennexColonyKid.titleShort>孩子</FennexColonyKid.titleShort>
+  <FennexColonyKid.baseDescription>NAME出生在边缘的一个小交易站。HECAP必须学会控制HIS体重以保持和群体的一致行动。</FennexColonyKid.baseDescription>
 
-  <FennexCityKid.title>City kid</FennexCityKid.title>
-  <FennexCityKid.titleShort>Urb-kit</FennexCityKid.titleShort>
+  <FennexCityKid.title>城市的孩子</FennexCityKid.title>
+  <FennexCityKid.titleShort>城市的孩子</FennexCityKid.titleShort>
+  <FennexCityKid.baseDescription>NAME在一个密集的城市中心长大。放学后，HECAP将会前往一个其中一个地铁商场或者超市。在一个混凝土丛林中长大的HIM，显得有些欠缺对动植物方面的知识。</FennexCityKid.baseDescription>
 
-  <FennexCountryKid.title>Farm kid</FennexCountryKid.title>
-  <FennexCountryKid.titleShort>Farm-kit</FennexCountryKid.titleShort>
+  <FennexCountryKid.title>农场的孩子</FennexCountryKid.title>
+  <FennexCountryKid.titleShort>农场之子</FennexCountryKid.titleShort>
+  <FennexCountryKid.baseDescription>NAME在一个农业地区长大，在HIS Rimworld里主要支持着大都市的食物供应。与其他年轻人相比，居住的生活很困难，但是NAME却做到了最好。- 尽管HECAP有些害羞。</FennexCountryKid.baseDescription>
 
-  <FennexGeniusKid.title>Young genius</FennexGeniusKid.title>
-  <FennexGeniusKid.titleShort>Prodigy</FennexGeniusKid.titleShort>
+  <FennexGeniusKid.title>年轻的天才</FennexGeniusKid.title>
+  <FennexGeniusKid.titleShort>神童</FennexGeniusKid.titleShort>
+  <FennexGeniusKid.baseDescription>NAME喜欢摆弄HIS玩具，把它们拆开，然后再重组。- 从HIS小学教科书里学习编写简单的小型电脑程序 - 或是仅仅通过阅读HECAP就可以获得任何想要的信息。</FennexGeniusKid.baseDescription>
 
-  <FennexDigKid.title>Tunnel kit</FennexDigKid.title>
-  <FennexDigKid.titleShort>T-kit</FennexDigKid.titleShort>
+  <FennexDigKid.title>爱好挖掘的孩子</FennexDigKid.title>
+  <FennexDigKid.titleShort>T-孩子</FennexDigKid.titleShort>
+  <FennexDigKid.baseDescription>NAME总是在泥地或雪地挖掘隧道，或者在沙滩上做沙堡。HIS父母鼓励HIM去学习地质学。HIS父亲也会在院子里以寻找一些岩石作为对HIM的一种挑战。</FennexDigKid.baseDescription>
 
 
   <!-- Adult Stories - not porn -->
 
-  <FennexArmorer.title>Armorer</FennexArmorer.title>
-  <FennexArmorer.titleShort>Armorer</FennexArmorer.titleShort>
+  <FennexArmorer.title>军械士</FennexArmorer.title>
+  <FennexArmorer.titleShort>军械士</FennexArmorer.titleShort>
+  <FennexArmorer.baseDescription>NAME从小就对各种枪支武器感兴趣。HIS兴趣促使HIM加入军队，在那里负责维护军械库——把所有武器和各种装备保管与维护的工作。</FennexArmorer.baseDescription>
 
-  <FennexProst.title>Hooker</FennexProst.title>
-  <FennexProst.titleShort>Hooker</FennexProst.titleShort>
+  <FennexProst.title>妓女</FennexProst.title>
+  <FennexProst.titleShort>妓女</FennexProst.titleShort>
+  <FennexProst.baseDescription>NAME是“最古老的职业”的从事者——在街头“卖花”。</FennexProst.baseDescription>
 
-  <Fennexminer.title>Deep-tunnel miner</Fennexminer.title>
-  <Fennexminer.titleShort>Deepminer</Fennexminer.titleShort>
+  <Fennexminer.title>深井勘探工</Fennexminer.title>
+  <Fennexminer.titleShort>深井矿工</Fennexminer.titleShort>
+  <Fennexminer.baseDescription>NAME操作一台深层钻探机，有时要在地面以下的地方给因压力和过热的机器做维护。HECAP在地质和冶金方面之分在行。</Fennexminer.baseDescription>
 
-  <FennexBiogen.title>Biologist</FennexBiogen.title>
-  <FennexBiogen.titleShort>Biologist</FennexBiogen.titleShort>
+  <FennexBiogen.title>生物学家</FennexBiogen.title>
+  <FennexBiogen.titleShort>生物学家</FennexBiogen.titleShort>
+  <FennexBiogen.baseDescription>NAME是一名生物学家。HECAP致力于解决生活中的秘密！或者仅仅是作为研究项目，这一切取决于你的特定领域。</FennexBiogen.baseDescription>
 
-  <FennexConn.title>Restaurateur</FennexConn.title>
-  <FennexConn.titleShort>Restaurateur</FennexConn.titleShort>
+  <FennexConn.title>餐馆老板</FennexConn.title>
+  <FennexConn.titleShort>餐馆老板</FennexConn.titleShort>
+  <FennexConn.baseDescription>NAME拥有并经营着一家连锁高级餐厅。他们没能躲过战争的摧残。最后HECAP被迫逃离了这个星球。</FennexConn.baseDescription>
 
   <FennexStalkerBS.title>Fennex hunter</FennexStalkerBS.title>
   <FennexStalkerBS.titleShort>Hunter</FennexStalkerBS.titleShort>
+  <FennexStalkerBS.baseDescription>NAME is a professional hunter. Sometimes called to put down manhunters, or guide rich dentists on Safari, HIS skills as a tracker are only matched by HIS skill at handling.</FennexStalkerBS.baseDescription>
 
   <FennexDistiller.title>Booze king</FennexDistiller.title>
   <FennexDistiller.titleShort>Distiller</FennexDistiller.titleShort>
+  <FennexDistiller.baseDescription>NAME was renowned for making the strongest liquors. If you wanted a drink that would put down a raging Thrumbo, HECAP had the stuff. Unfortunately, a leak in a storage tank plus a small spark equals a very large explosion and 'no more distillery'. Looks like HECAP is starting over...</FennexDistiller.baseDescription>
 
   <FennexTrailblazer.title>Trail blazer</FennexTrailblazer.title>
   <FennexTrailblazer.titleShort>Blazer</FennexTrailblazer.titleShort>
+  <FennexTrailblazer.baseDescription>NAME is at the forefront of the effort to expand the territories controlled by the Alliance - rushing headlong into the unknown to colonize uncharted worlds and eke out a living.</FennexTrailblazer.baseDescription>
 
   <FennexResearcher.title>Historical researcher</FennexResearcher.title>
   <FennexResearcher.titleShort>Researcher</FennexResearcher.titleShort>
+  <FennexResearcher.baseDescription>NAME is among the foremost historians among HIS people, especially in regards to lineage and ancient heraldry. Many have sought HIS services, claiming relation to some long-dead king or emperor. HECAP delves through ancient texts and records in search of what truth can be found.</FennexResearcher.baseDescription>
 
   <FennexDoctor.title>Frontier doctor</FennexDoctor.title>
   <FennexDoctor.titleShort>Doc</FennexDoctor.titleShort>
+  <FennexDoctor.baseDescription>NAME has taken an oath to devote HIS life to healing others. HECAP has taken HIS mission out to the furthest reaches and the dustiest outposts. You know... places like this...</FennexDoctor.baseDescription>
 
   <FennexChef.title>Fennex diner-chef</FennexChef.title>
   <FennexChef.titleShort>Diner-chef</FennexChef.titleShort>
+  <FennexChef.baseDescription>NAME was a chef in an old Retro-style diner from ancient earth history. It was a pretty popular place, the cherry-red seating and chrome hilights flash and splendor matched the fantastically prepared diner-style food HECAP created every day. How did HECAP end up here?</FennexChef.baseDescription>
 
   <FennexKeeper.title>Fennex librarian</FennexKeeper.title>
   <FennexKeeper.titleShort>Keeper</FennexKeeper.titleShort>
+  <FennexKeeper.baseDescription>NAME spent HIS days sorting, stacking, and reading, books of all kinds, as a Keeper in one of the central city libraries.</FennexKeeper.baseDescription>
 
   <PrivateFennex.title>Runner</PrivateFennex.title>
   <PrivateFennex.titleShort>Runner</PrivateFennex.titleShort>
+  <PrivateFennex.baseDescription>NAME was a package runner for a small delivery service. It is HIS duty to deliver small items and packages, or information, wherever HIS superiors order.</PrivateFennex.baseDescription>
 
   <MajorFennex.title>Tank commander</MajorFennex.title>
   <MajorFennex.titleShort>T-Commander</MajorFennex.titleShort>
+  <MajorFennex.baseDescription>NAME was commanding officer of an armored assault unit. HECAP has endured heavy military and tactical training, with a heavy focus on armored vehicle combat.</MajorFennex.baseDescription>
 
   <FennexSpacerAdult.title>Fennex space-trader</FennexSpacerAdult.title>
   <FennexSpacerAdult.titleShort>F-Spacer</FennexSpacerAdult.titleShort>
+  <FennexSpacerAdult.baseDescription>NAME was a free-trader, roving the tradeways searching for deals and opportunities for profit. Until now, HE was flying a ship, making deals with colonies like these... I wonder what happened?</FennexSpacerAdult.baseDescription>
 
   <FennexTroop.title>Fox-hound</FennexTroop.title>
   <FennexTroop.titleShort>Foxhound</FennexTroop.titleShort>
+  <FennexTroop.baseDescription>NAME was one of an ultra-elite troop of soldiers, founded by the legendary "Really Big Boss". </FennexTroop.baseDescription>
 
   <FennexAssassin.title>Fennex hitman</FennexAssassin.title>
   <FennexAssassin.titleShort>Cleaner</FennexAssassin.titleShort>
+  <FennexAssassin.baseDescription>NAME is a deadly assassin for profit. HECAP always completes HIS contracts (and always tries to look REALLY cool while doing it).</FennexAssassin.baseDescription>
 
   <FennexAstroPhy.title>Astryphysicist</FennexAstroPhy.title>
   <FennexAstroPhy.titleShort>Astrophysicist</FennexAstroPhy.titleShort>
+  <FennexAstroPhy.baseDescription>NAME was inspired from childhood by the stars. HECAP spent many long hours gazing through HIS telescope, charting the cosmos.</FennexAstroPhy.baseDescription>
 
   <FennexAgentBS.title>Paleobotanist</FennexAgentBS.title>
   <FennexAgentBS.titleShort>Paleobotanist</FennexAgentBS.titleShort>
+  <FennexAgentBS.baseDescription>NAME has spent years studying ancient plant life, excavating and preserving ancient specimens from geological substrates, or studying samples in the lab.</FennexAgentBS.baseDescription>
 
   <FennexMathman.title>Mathematician</FennexMathman.title>
   <FennexMathman.titleShort>Mathematician</FennexMathman.titleShort>
+  <FennexMathman.baseDescription>NAME is a professional mathematician. HECAP uses HIS expertise with mathematics to solve difficult engineering and physics problems.</FennexMathman.baseDescription>
 
   <FennexAirMech.title>Airfield mechanic</FennexAirMech.title>
   <FennexAirMech.titleShort>Air-mechanic</FennexAirMech.titleShort>
+  <FennexAirMech.baseDescription>NAME was a skilled mechanic, in charge of maintenance at a major airfield. HECAP was hard-pressed to keep up with the workload, but HIS team was competant, and helped keep the airfield and it's traffic in good working order.</FennexAirMech.baseDescription>
 
   <FennexPlanetol.title>Exoplanetologist</FennexPlanetol.title>
   <FennexPlanetol.titleShort>Exoplanetologist</FennexPlanetol.titleShort>
+  <FennexPlanetol.baseDescription>NAME is a scientist specializing in studying planets that orbit a star outside the current stellar system. HECAP has developed a special set of skills, software, and tools, for studying distant planets to uncover potential resources or discoveries.</FennexPlanetol.baseDescription>
 
 
 </LanguageData>
