@@ -25,13 +25,13 @@
   <DoBillsUseSaltMine.verb>采矿</DoBillsUseSaltMine.verb>
   <DoBillsUseSaltMine.gerund>采矿</DoBillsUseSaltMine.gerund>
 
-  <GG_WorkGiver_TakeProductOutOfUniversalFermenter.label>take product out of fermenter</GG_WorkGiver_TakeProductOutOfUniversalFermenter.label>
-  <GG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>take product</GG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
-  <GG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>taking product from</GG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+  <GG_WorkGiver_TakeProductOutOfUniversalFermenter.label>取出罐头生产机内的罐头</GG_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+  <GG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>取出</GG_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+  <GG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>取出</GG_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
 
-  <GG_WorkGiver_FillUniversalFermenter.label>fill fermenter</GG_WorkGiver_FillUniversalFermenter.label>
-  <GG_WorkGiver_FillUniversalFermenter.verb>fill</GG_WorkGiver_FillUniversalFermenter.verb>
-  <GG_WorkGiver_FillUniversalFermenter.gerund>filling</GG_WorkGiver_FillUniversalFermenter.gerund>
+  <GG_WorkGiver_FillUniversalFermenter.label>把食物放进罐头生产机</GG_WorkGiver_FillUniversalFermenter.label>
+  <GG_WorkGiver_FillUniversalFermenter.verb>放入</GG_WorkGiver_FillUniversalFermenter.verb>
+  <GG_WorkGiver_FillUniversalFermenter.gerund>放入</GG_WorkGiver_FillUniversalFermenter.gerund>
 
 
 </LanguageData>

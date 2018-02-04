@@ -1,6 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
+  <!--[Core] <CookMealFine.label>烹饪精致的食物</CookMealFine.label>-->
+  <!--[Core] <CookMealFine.description>将生肉和素食材料组合，烹饪一份相对复杂的食物。\n\n必须同时有肉食和素食。</CookMealFine.description>-->
+  <!--[Core] <CookMealFine.jobString>正在烹饪精致食物。</CookMealFine.jobString>-->
+
+  <!--[Core] <CookMealLavish.label>烹饪奢侈的食物</CookMealLavish.label>-->
+  <!--[Core] <CookMealLavish.description>将生肉和素食材料组合，烹饪一份非常复杂的食物。大部分材料会被浪费。\n\n必须同时有肉食和素食。</CookMealLavish.description>-->
+  <!--[Core] <CookMealLavish.jobString>正在烹饪奢侈食物。</CookMealLavish.jobString>-->
+
   <CookMealSimple_Bulk.label>烹调简单的食物（4）</CookMealSimple_Bulk.label>
   <CookMealSimple_Bulk.description>用单种材料烹调4份简易食物。</CookMealSimple_Bulk.description>
   <CookMealSimple_Bulk.jobString>正在简单的食物。</CookMealSimple_Bulk.jobString>

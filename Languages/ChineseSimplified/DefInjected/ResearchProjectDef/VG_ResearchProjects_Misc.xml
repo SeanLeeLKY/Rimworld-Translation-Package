@@ -18,4 +18,8 @@
   <VG_Ambrosia.label>VG：仙馐果</VG_Ambrosia.label>
   <VG_Ambrosia.description>研究通过水栽培植物盆种植仙馐果的方法。</VG_Ambrosia.description>
 
+  <agricultureIV.label>VG：野生植物</agricultureIV.label>
+  <agricultureIV.description>研究植物基因，解锁新的植物种植。n\n解锁新的水果和树木种植。果树生长周期长，但是产量较高。\n\n解锁种植「椰子树」、「无花果树」、「海枣树」、「樱桃树」、「菠萝」、「云莓」和「醋栗」。</agricultureIV.description>
+
+
 </LanguageData>

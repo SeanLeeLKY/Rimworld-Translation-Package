@@ -4,10 +4,13 @@
   <!-- Main Categories -->
 
   <CookingI.label>VG：高级烹饪</CookingI.label>
-  <CookingI.description>研究高级烹饪仪器的制作方法。\n解锁「炉灶」、「糖果桌」</CookingI.description>
+  <CookingI.description>研究高级烹饪仪器的制作方法。\n解锁「烹饪工具柜」、「糖果桌」。</CookingI.description>
 
   <CanningMachine.label>VG：罐头技术</CanningMachine.label>
-  <CanningMachine.description>研究如何把食品保存于罐头方法。 \n\n解锁压罐机、肉类罐头、蔬菜罐头、食物罐头。</CanningMachine.description>
+  <CanningMachine.description>研究如何把食品保存于罐内的方法。 \n\n解锁「罐头生产机」、「罐装食品」、「肉罐头」、「蔬菜罐头」和「水果罐头」。</CanningMachine.description>
+
+  <HandCanningMachine.label>VG：罐头机</HandCanningMachine.label>
+  <HandCanningMachine.description>研究一台用于制作罐头食品的机器。 \n\n解锁「罐头机」。</HandCanningMachine.description>
 
 
 </LanguageData>
