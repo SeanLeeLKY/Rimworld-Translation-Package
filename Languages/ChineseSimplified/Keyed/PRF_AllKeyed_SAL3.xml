@@ -18,6 +18,15 @@
   <SALToggleForbidden>允许使用禁用物品</SALToggleForbidden>
   <SALToggleForbidden_Desc>允许/禁止自动工作站拿取禁止物品。打勾表示允许。</SALToggleForbidden_Desc>
   <SALCurrentProductionSpeed>当前配方的生产效率 ({0}): {1}</SALCurrentProductionSpeed>
+  <DeepQuarry_TotalSoFar>迄今为止开采的岩石总数： {0}</DeepQuarry_TotalSoFar>
+  <SmartHopper_SetTargetAmount>设定目标数量</SmartHopper_SetTargetAmount>
+  <SmartHopper_Minimum>
+当前物品最小限制： {0}</SmartHopper_Minimum>
+  <SmartHopper_Maximum>当前物品最大限制： {0}</SmartHopper_Maximum>
+  <SmartHopper_Minimum_UseTooltip>启用此功能后，如果存储项小于x堆栈大小，则智能料斗将禁止其项.</SmartHopper_Minimum_UseTooltip>
+  <SmartHopper_Maximum_UseTooltip>当启用此选项时，如果堆栈已满，或者堆栈大小超过或等于X，则智能料斗将停止接收项.</SmartHopper_Maximum_UseTooltip>
+  <SmartHopper_Minimum_ToolTip>这将同时影响容量和它试图采用的堆栈</SmartHopper_Minimum_ToolTip>
+  <SmartHopper_Maximum_ToolTip>这只会影响智能料斗的内容，它仍然会尝试从一个更大的堆栈中提取.</SmartHopper_Maximum_ToolTip>
 
   <!--Mod settings-->
   <ProjectRimFactoryModName>边缘工厂</ProjectRimFactoryModName>

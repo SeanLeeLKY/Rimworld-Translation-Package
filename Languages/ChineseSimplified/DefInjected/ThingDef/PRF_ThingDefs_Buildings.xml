@@ -24,5 +24,11 @@
   <CultivatorTools_Sprinkler_Frame.label>洒水器（建造中）</CultivatorTools_Sprinkler_Frame.label>
   <CultivatorTools_Sprinkler_Frame.description>一个大范围的洒水器，每次洒水增加植物生长一小时。 效果是可堆迭的，即使植物休息也可以起作用。</CultivatorTools_Sprinkler_Frame.description>
 
+  <PRF_DeepQuarry.label>深矿机</PRF_DeepQuarry.label>
+  <PRF_DeepQuarry.description>自动采矿机，不断从地下挖掘矿物，包括石块、原材料等。每6小时生产一次随机资源。</PRF_DeepQuarry.description>
+  <PRF_DeepQuarry_Blueprint.label>深矿机（蓝图）</PRF_DeepQuarry_Blueprint.label>
+  <PRF_DeepQuarry_Frame.label>深矿机（建造中）</PRF_DeepQuarry_Frame.label>
+  <PRF_DeepQuarry_Frame.description>自动采矿机，不断从地下挖掘矿物，包括石块、原材料等。每6小时生产一次随机资源。</PRF_DeepQuarry_Frame.description>
+
 
 </LanguageData>
