@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <EggTitanoboaFertilized.label>泰坦巨蟒蛋（已受精）</EggTitanoboaFertilized.label>
+  <EggTitanoboaFertilized.description>已受精的泰坦巨蟒蛋。如果一切顺利应该可以孵化出泰坦巨蟒幼蛇。可以生吃，但是最好烹饪后食用。</EggTitanoboaFertilized.description>
+
+  <EggArthropleuraFertilized.label>节胸蜈蚣蛋（已受精）</EggArthropleuraFertilized.label>
+  <EggArthropleuraFertilized.description>已受精的节胸蜈蚣蛋。如果一切顺利应该可以孵化出节胸蜈蚣幼体。可以生吃，但味道太可怕了。</EggArthropleuraFertilized.description>
+
+  <EggTitanisFertilized.label>泰坦巨鸟蛋（已受精）</EggTitanisFertilized.label>
+  <EggTitanisFertilized.description>已受精的泰坦巨鸟蛋。如果一切顺利应该可以孵化出泰坦巨鸟仔。蛋可以生吃，但是最好烹饪后食用。</EggTitanisFertilized.description>
+
+  <DoedicurusShell.label>星尾兽甲壳</DoedicurusShell.label>
+  <DoedicurusShell.description>一块星尾兽的甲壳，非常坚固，但奈何人类用不了它。但是，一些收藏家仍然愿意高价购买。</DoedicurusShell.description>
+
+  <MammothTusk.label>真猛玛象象牙</MammothTusk.label>
+  <MammothTusk.description>非常耐用和珍贵，是种致命但有点笨重的武器。</MammothTusk.description>
+  <MammothTusk.tools.0.label>尖部</MammothTusk.tools.0.label>
+  <MammothTusk.tools.1.label>根部</MammothTusk.tools.1.label>
+
+  <MammothWool.label>真猛玛象毛</MammothWool.label>
+  <MammothWool.description>产自真猛玛象。能提供强大的防寒能力和看上去时尚且威武。</MammothWool.description>
+  <MammothWool.stuffProps.stuffAdjective>真猛玛象毛</MammothWool.stuffProps.stuffAdjective>
+
+
+  <!-- UPDATE#1 -->
+
+  <ElasmotheriumHorn.label>板齿犀牛角</ElasmotheriumHorn.label>
+  <ElasmotheriumHorn.description>一个板齿犀牛角，虽然攻击性不高，但仍然是一种相对较为体面的武器。</ElasmotheriumHorn.description>
+  <ElasmotheriumHorn.tools.0.label>尖部</ElasmotheriumHorn.tools.0.label>
+  <ElasmotheriumHorn.tools.1.label>根部</ElasmotheriumHorn.tools.1.label>
+
+  <ElasmotheriumWool.label>砂犷兽毛</ElasmotheriumWool.label>
+  <ElasmotheriumWool.description>可想而知，这是一种非常独特的皮毛。对于寒冷的天气来说这是非常棒的。</ElasmotheriumWool.description>
+  <ElasmotheriumWool.stuffProps.stuffAdjective>砂犷兽毛</ElasmotheriumWool.stuffProps.stuffAdjective>
+
+  <SmilodonFangs.label>剑齿虎牙</SmilodonFangs.label>
+  <SmilodonFangs.description>剑齿虎的牙，虽然这是一份极好的战利品，但当作武器使用时，并不比一般武器要好。</SmilodonFangs.description>
+  <SmilodonFangs.tools.0.label>尖部</SmilodonFangs.tools.0.label>
+  <SmilodonFangs.tools.1.label>根部</SmilodonFangs.tools.1.label>
+
+  <MegalocerosAntlers.label>大角鹿角</MegalocerosAntlers.label>
+  <MegalocerosAntlers.description>来自大角鹿头上的一对鹿角，只能作为装饰，不能用作武器，因为实在太笨重了。</MegalocerosAntlers.description>
+
+  <EggMegalaniaFertilized.label>古巨蜥蛋（已受精）</EggMegalaniaFertilized.label>
+  <EggMegalaniaFertilized.description>已受精的古巨蜥蛋。如果一切顺利应该可以孵化出小古巨蜥。可以生吃，但是最好烹饪后食用。</EggMegalaniaFertilized.description>
+
+
+  <!-- UPDATE#2 -->
+
+  <SivatheriumMilk.label>西瓦鹿奶</SivatheriumMilk.label>
+  <SivatheriumMilk.description>西瓦鹿所产的奶，非常富有营养。</SivatheriumMilk.description>
+
+
+  <!-- UPDATE#3 -->
+
+  <EggDinornisFertilized.label>恐鸟蛋（已受精）</EggDinornisFertilized.label>
+  <EggDinornisFertilized.description>已受精的恐鸟蛋。如果一切顺利应该可以孵化出小恐鸟。可以生吃，但是最好烹饪后食用。</EggDinornisFertilized.description>
+
+  <EggQuinkanaFertilized.label>金卡纳鳄蛋（已受精）</EggQuinkanaFertilized.label>
+  <EggQuinkanaFertilized.description>已受精的金卡纳鳄蛋。如果一切顺利应该可以孵化出小金卡纳鳄。可以生吃，但是最好烹饪后食用。</EggQuinkanaFertilized.description>
+
+
+  <!-- ======================================================UPDATE#2====================================================== -->
+  <!--<EggTitanoboaUnfertilized.label>泰坦巨蟒蛋（未受精）</EggTitanoboaUnfertilized.label>-->
+  <!--<EggTitanoboaUnfertilized.description>未受精的泰坦巨蟒蛋。可以生吃，但是最好烹饪后食用。</EggTitanoboaUnfertilized.description>-->
+  <!--<EggArthropleuraUnfertilized.label>节胸蜈蚣蛋（未受精）</EggArthropleuraUnfertilized.label>-->
+  <!--<EggArthropleuraUnfertilized.description>未受精的节胸蜈蚣蛋。可以生吃，但味道太可怕了。</EggArthropleuraUnfertilized.description>-->
+  <!--<EggTitanisUnfertilized.label>泰坦巨鸟蛋（未受精）</EggTitanisUnfertilized.label>-->
+  <!--<EggTitanisUnfertilized.description>未受精的节胸蜈蚣蛋。可以生吃，但是最好烹饪后食用。</EggTitanisUnfertilized.description>-->
+
+</LanguageData>

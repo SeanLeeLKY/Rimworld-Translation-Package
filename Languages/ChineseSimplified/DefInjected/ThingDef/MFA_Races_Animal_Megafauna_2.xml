@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- UPDATE#2 -->
+
+  <Gomphotaria.label>嵌齿海象</Gomphotaria.label>
+  <Gomphotaria.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n嵌齿海象有四个巨大的象牙（不是两个），用来锤击和刺穿它的猎物。\n由于有流线型身体，它可在水下非常迅速地移动，但超高的体重且没有腿使他们在陆地上行动迟缓。</Gomphotaria.description>
+  <Gomphotaria_Leather.label>嵌齿海象皮</Gomphotaria_Leather.label>
+  <Gomphotaria_Leather.description>嵌齿海象的皮。</Gomphotaria_Leather.description>
+  <Gomphotaria_Leather.stuffProps.stuffAdjective>嵌齿海象皮</Gomphotaria_Leather.stuffProps.stuffAdjective>
+  <Gomphotaria_Meat.label>嵌齿海象肉</Gomphotaria_Meat.label>
+  <Gomphotaria_Meat.description>嵌齿海象的肉。</Gomphotaria_Meat.description>
+  <Gomphotaria_Corpse.label>嵌齿海象尸体</Gomphotaria_Corpse.label>
+  <Gomphotaria_Corpse.description>嵌齿海象的尸体。</Gomphotaria_Corpse.description>
+
+  <Diprotodon.label>双门齿兽</Diprotodon.label>
+  <Diprotodon.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n已知史上最大的有袋动物。像犀牛一样巨大，外形近似巨型的树袋熊。\n双门齿兽是一种相对平和的生物，然而它朝前的巨大牙齿以及其强大的爪子在战斗中可能会相当危险。</Diprotodon.description>
+  <Diprotodon.tools.0.label>左爪</Diprotodon.tools.0.label>
+  <Diprotodon.tools.1.label>右爪</Diprotodon.tools.1.label>
+  <Diprotodon_Leather.label>双门齿兽皮</Diprotodon_Leather.label>
+  <Diprotodon_Leather.description>双门齿兽的皮。</Diprotodon_Leather.description>
+  <Diprotodon_Leather.stuffProps.stuffAdjective>双门齿兽皮</Diprotodon_Leather.stuffProps.stuffAdjective>
+  <Diprotodon_Meat.label>双门齿兽肉</Diprotodon_Meat.label>
+  <Diprotodon_Meat.description>双门齿兽的肉。</Diprotodon_Meat.description>
+  <Diprotodon_Corpse.label>双门齿兽尸体</Diprotodon_Corpse.label>
+  <Diprotodon_Corpse.description>双门齿兽的尸体。</Diprotodon_Corpse.description>
+
+  <ShortfacedBear.label>短面熊</ShortfacedBear.label>
+  <ShortfacedBear.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n史上最大体型的熊之一。与其他熊相比，其外观最突出的是不成比例的短鼻子和特别长的腿，故几乎没有猎物可以有效地摆脱它。</ShortfacedBear.description>
+  <ShortfacedBear.tools.0.label>左爪</ShortfacedBear.tools.0.label>
+  <ShortfacedBear.tools.1.label>右爪</ShortfacedBear.tools.1.label>
+  <!-- Use Leather From: GrizzlyBear -->
+  <!-- Use Meat From: GrizzlyBear -->
+  <ShortfacedBear_Corpse.label>短面熊尸体</ShortfacedBear_Corpse.label>
+  <ShortfacedBear_Corpse.description>短面熊的尸体。</ShortfacedBear_Corpse.description>
+
+
+  <!-- UPDATE#2 -->
+
+  <Dinocrocuta.label>巨鬣狗</Dinocrocuta.label>
+  <Dinocrocuta.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n巨大的、像鬣狗一样的食肉动物。它们极其强壮的下巴可以很容易地将骨头击碎。\n据人们所知，它们极具攻击性，而且往往会捕食比自己体型大的动物。</Dinocrocuta.description>
+  <Dinocrocuta.tools.0.label>左爪</Dinocrocuta.tools.0.label>
+  <Dinocrocuta.tools.1.label>右爪</Dinocrocuta.tools.1.label>
+  <Dinocrocuta_Leather.label>巨鬣狗皮</Dinocrocuta_Leather.label>
+  <Dinocrocuta_Leather.description>巨鬣狗的皮。</Dinocrocuta_Leather.description>
+  <Dinocrocuta_Leather.stuffProps.stuffAdjective>巨鬣狗皮</Dinocrocuta_Leather.stuffProps.stuffAdjective>
+  <Dinocrocuta_Meat.label>巨鬣狗肉</Dinocrocuta_Meat.label>
+  <Dinocrocuta_Meat.description>巨鬣狗的肉。</Dinocrocuta_Meat.description>
+  <Dinocrocuta_Corpse.label>巨鬣狗尸体</Dinocrocuta_Corpse.label>
+  <Dinocrocuta_Corpse.description>巨鬣狗尸体。</Dinocrocuta_Corpse.description>
+
+  <Sivatherium.label>西瓦鹿</Sivatherium.label>
+  <Sivatherium.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n历史上最大的反刍动物。与现代的类似物种（长颈鹿和霍加狓等）不同，西瓦鹿拥有两对骨突（头顶的小揪揪，传说中的鹿由器），一对展宽类似于麋鹿角，另一对更像牛角，在眼睛上方。</Sivatherium.description>
+  <Sivatherium.tools.0.label>左蹄</Sivatherium.tools.0.label>
+  <Sivatherium.tools.1.label>右蹄</Sivatherium.tools.1.label>
+  <Sivatherium.tools.2.label>头</Sivatherium.tools.2.label>
+  <Sivatherium_Leather.label>西瓦鹿皮</Sivatherium_Leather.label>
+  <Sivatherium_Leather.description>西瓦鹿的皮。</Sivatherium_Leather.description>
+  <Sivatherium_Leather.stuffProps.stuffAdjective>西瓦鹿皮</Sivatherium_Leather.stuffProps.stuffAdjective>
+  <Sivatherium_Meat.label>西瓦鹿肉</Sivatherium_Meat.label>
+  <Sivatherium_Meat.description>西瓦鹿的肉。</Sivatherium_Meat.description>
+  <Sivatherium_Corpse.label>西瓦鹿尸体</Sivatherium_Corpse.label>
+  <Sivatherium_Corpse.description>西瓦鹿的尸体。</Sivatherium_Corpse.description>
+
+
+  <!-- UPDATE#3 -->
+
+  <Andrewsarchus.label>安氏中兽</Andrewsarchus.label>
+  <Andrewsarchus.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n这种神秘的动物是当时最大的食肉哺乳动物。\n人们经常形容它为“熊狗”。它与完齿兽、河马和鲸鱼有一定关系。</Andrewsarchus.description>
+  <Andrewsarchus.tools.0.label>左爪</Andrewsarchus.tools.0.label>
+  <Andrewsarchus.tools.1.label>右爪</Andrewsarchus.tools.1.label>
+  <Andrewsarchus_Leather.label>安氏中兽皮</Andrewsarchus_Leather.label>
+  <Andrewsarchus_Leather.description>安氏中兽的皮。</Andrewsarchus_Leather.description>
+  <Andrewsarchus_Leather.stuffProps.stuffAdjective>安氏中兽皮</Andrewsarchus_Leather.stuffProps.stuffAdjective>
+  <Andrewsarchus_Meat.label>安氏中兽肉</Andrewsarchus_Meat.label>
+  <Andrewsarchus_Meat.description>安氏中兽的肉。</Andrewsarchus_Meat.description>
+  <Andrewsarchus_Corpse.label>安氏中兽尸体</Andrewsarchus_Corpse.label>
+  <Andrewsarchus_Corpse.description>安氏中兽的尸体。</Andrewsarchus_Corpse.description>
+
+  <Dinornis.label>恐鸟</Dinornis.label>
+  <Dinornis.description>已在史前灭绝的巨型鸟类动物，是巨型动物群复活计划之一。\n\n有史以来最高的鸟。 属于恐鸟家族中的一员，其特征是非常明显的两性异形，雌性比雄性大得多。</Dinornis.description>
+  <Dinornis.tools.0.label>爪</Dinornis.tools.0.label>
+  <Dinornis_Leather.label>恐鸟皮</Dinornis_Leather.label>
+  <Dinornis_Leather.description>恐鸟的皮。</Dinornis_Leather.description>
+  <Dinornis_Leather.stuffProps.stuffAdjective>恐鸟皮</Dinornis_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cassowary -->
+  <Dinornis_Corpse.label>恐鸟尸体</Dinornis_Corpse.label>
+  <Dinornis_Corpse.description>恐鸟的尸体。</Dinornis_Corpse.description>
+
+
+  <!-- UPDATE#3 -->
+
+  <Macrauchenia.label>长颈驼</Macrauchenia.label>
+  <Macrauchenia.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n尽管长颈驼有长长的鼻子，实际上它的鼻孔是在头顶上的。\n它非常灵活，由于它在飞快奔跑时可以快速改变方向，所以能轻易摆脱大多数的捕食者。</Macrauchenia.description>
+  <Macrauchenia.tools.0.label>左蹄</Macrauchenia.tools.0.label>
+  <Macrauchenia.tools.1.label>右蹄</Macrauchenia.tools.1.label>
+  <Macrauchenia_Leather.label>长颈驼皮</Macrauchenia_Leather.label>
+  <Macrauchenia_Leather.description>长颈驼的皮。</Macrauchenia_Leather.description>
+  <Macrauchenia_Leather.stuffProps.stuffAdjective>长颈驼皮</Macrauchenia_Leather.stuffProps.stuffAdjective>
+  <Macrauchenia_Meat.label>长颈驼肉</Macrauchenia_Meat.label>
+  <Macrauchenia_Meat.description>长颈驼的肉。</Macrauchenia_Meat.description>
+  <Macrauchenia_Corpse.label>长颈驼尸体</Macrauchenia_Corpse.label>
+  <Macrauchenia_Corpse.description>长颈驼的尸体。</Macrauchenia_Corpse.description>
+
+  <Quinkana.label>金卡纳鳄</Quinkana.label>
+  <Quinkana.description>已在史前灭绝的巨型爬行动物，是巨型动物群复活计划之一。\n\n\这种陆生鳄鱼有四条大长腿，使得它比现代鳄鱼更擅长奔跑。\n金卡纳鳄的牙齿像刀刃一样，使他们可以很完美地从猎物身上剃下肉来。</Quinkana.description>
+  <Quinkana.tools.0.label>左爪</Quinkana.tools.0.label>
+  <Quinkana.tools.1.label>右爪</Quinkana.tools.1.label>
+  <Quinkana_Leather.label>金卡纳鳄皮</Quinkana_Leather.label>
+  <Quinkana_Leather.description>金卡纳鳄的皮。</Quinkana_Leather.description>
+  <Quinkana_Leather.stuffProps.stuffAdjective>金卡纳鳄皮</Quinkana_Leather.stuffProps.stuffAdjective>
+  <Quinkana_Meat.label>金卡纳鳄肉</Quinkana_Meat.label>
+  <Quinkana_Meat.description>金卡纳鳄的肉。</Quinkana_Meat.description>
+  <Quinkana_Corpse.label>金卡纳鳄尸体</Quinkana_Corpse.label>
+  <Quinkana_Corpse.description>金卡纳鳄的尸体。</Quinkana_Corpse.description>
+
+
+</LanguageData>

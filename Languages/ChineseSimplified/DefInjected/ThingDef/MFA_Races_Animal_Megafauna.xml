@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Arthropleura.label>节胸蜈蚣</Arthropleura.label>
+  <Arthropleura.description>已在史前灭绝的巨型节肢动物，是巨型动物群复活计划之一。\n\n已知是陆地上最大型的无脊椎动物。节胸蜈蚣是身型巨大，独行侠，草食性的多足类动物，大多数情况下是无害的，攻击都是出于自卫。\n一些狂人会为了取得它们的蛋而出高价。</Arthropleura.description>
+  <!-- Leather Amount: 0 -->
+  <!-- Use Meat From: Megaspider -->
+  <Arthropleura_Corpse.label>节胸蜈蚣尸体</Arthropleura_Corpse.label>
+  <Arthropleura_Corpse.description>节胸蜈蚣的尸体。</Arthropleura_Corpse.description>
+
+  <Doedicurus.label>星尾兽</Doedicurus.label>
+  <Doedicurus.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n已知是世界上体型最大的雕齿兽科动物，其巨大的甲壳几乎不会被任何肉食性动物所破坏。\n\n并且尾巴末端长有长棘，看上去像是很厉害的武器，但其实不能灵活地使用它，因为它的视野有限。</Doedicurus.description>
+  <Doedicurus.tools.0.label>尾巴</Doedicurus.tools.0.label>
+  <Doedicurus.tools.1.label>左爪</Doedicurus.tools.1.label>
+  <Doedicurus.tools.2.label>右爪</Doedicurus.tools.2.label>
+  <Doedicurus_Leather.label>星尾兽皮</Doedicurus_Leather.label>
+  <Doedicurus_Leather.description>星尾兽的皮。</Doedicurus_Leather.description>
+  <Doedicurus_Leather.stuffProps.stuffAdjective>星尾兽皮</Doedicurus_Leather.stuffProps.stuffAdjective>
+  <Doedicurus_Meat.label>星尾兽肉</Doedicurus_Meat.label>
+  <Doedicurus_Meat.description>星尾兽的肉。</Doedicurus_Meat.description>
+  <Doedicurus_Corpse.label>星尾兽尸体</Doedicurus_Corpse.label>
+  <Doedicurus_Corpse.description>星尾兽的尸体。</Doedicurus_Corpse.description>
+
+  <Entelodont.label>完齿兽</Entelodont.label>
+  <Entelodont.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n完齿兽是一种大型像猪的杂食性动物，然而它们比普通猪甚至野猪更具侵略性和危险性，因此请尽量远离它们那巨大的爪子。</Entelodont.description>
+  <Entelodont.tools.0.label>左蹄</Entelodont.tools.0.label>
+  <Entelodont.tools.1.label>右蹄</Entelodont.tools.1.label>
+  <Entelodont_Leather.label>完齿兽皮</Entelodont_Leather.label>
+  <Entelodont_Leather.description>完齿兽的皮。</Entelodont_Leather.description>
+  <Entelodont_Leather.stuffProps.stuffAdjective>完齿兽皮</Entelodont_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Pig -->
+  <Entelodont_Corpse.label>完齿兽尸体</Entelodont_Corpse.label>
+  <Entelodont_Corpse.description>完齿兽的尸体。</Entelodont_Corpse.description>
+
+  <Gigantopithecus.label>巨猿</Gigantopithecus.label>
+  <Gigantopithecus.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n巨猿是目前已知曾经居住，和最大的类人猿，它们有着高度智商，以种子和水果作饮食的群居动物。多亏那厚厚的毛皮，使它们能够相当耐寒。\n\n关于《大脚野人》的故事灵感，据说是来自于在山上唯一找到的标本。</Gigantopithecus.description>
+  <Gigantopithecus.tools.0.label>右拳</Gigantopithecus.tools.0.label>
+  <Gigantopithecus.tools.1.label>左拳</Gigantopithecus.tools.1.label>
+  <Gigantopithecus_Leather.label>巨猿毛皮</Gigantopithecus_Leather.label>
+  <Gigantopithecus_Leather.description>巨猿的毛皮。</Gigantopithecus_Leather.description>
+  <Gigantopithecus_Leather.stuffProps.stuffAdjective>巨猿毛皮</Gigantopithecus_Leather.stuffProps.stuffAdjective>
+  <Gigantopithecus_Meat.label>巨猿肉</Gigantopithecus_Meat.label>
+  <Gigantopithecus_Meat.description>巨猿的肉。</Gigantopithecus_Meat.description>
+  <Gigantopithecus_Corpse.label>巨猿尸体</Gigantopithecus_Corpse.label>
+  <Gigantopithecus_Corpse.description>巨猿的尸体。</Gigantopithecus_Corpse.description>
+
+  <Paraceratherium.label>巨犀</Paraceratherium.label>
+  <Paraceratherium.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n人类目前已知最大的陆行哺乳动物，虽然巨犀性格温驯，但身型使它看起来像一个巨大的敌人。\n\n饮食以植物和树木为主，而其非常长的脖子使它能够轻松觅食，这也是它与其他犀牛属的分别之处。</Paraceratherium.description>
+  <Paraceratherium.tools.0.label>左脚</Paraceratherium.tools.0.label>
+  <Paraceratherium.tools.1.label>右脚</Paraceratherium.tools.1.label>
+  <Paraceratherium_Leather.label>巨犀皮</Paraceratherium_Leather.label>
+  <Paraceratherium_Leather.description>巨犀的皮。</Paraceratherium_Leather.description>
+  <Paraceratherium_Leather.stuffProps.stuffAdjective>巨犀皮</Paraceratherium_Leather.stuffProps.stuffAdjective>
+  <Paraceratherium_Meat.label>巨犀肉</Paraceratherium_Meat.label>
+  <Paraceratherium_Meat.description>巨犀的肉。</Paraceratherium_Meat.description>
+  <Paraceratherium_Corpse.label>巨犀尸体</Paraceratherium_Corpse.label>
+  <Paraceratherium_Corpse.description>巨犀的尸体。</Paraceratherium_Corpse.description>
+
+  <Titanis.label>泰坦巨鸟</Titanis.label>
+  <Titanis.description>已在史前灭绝的鸟类动物，是巨型动物群复活计划之一。\n\n俗称恐怖鸟，是一种大型但不能■行的肉食性骇鸟。它们有着异常巨大，非常致命的喙，并且其强壮的双腿不但能轻松超越它的猎物，而且还可以作出残忍的踢攻击。</Titanis.description>
+  <Titanis.tools.0.label>爪</Titanis.tools.0.label>
+  <Titanis_Leather.label>泰坦巨鸟皮</Titanis_Leather.label>
+  <Titanis_Leather.description>泰坦巨鸟的皮。</Titanis_Leather.description>
+  <Titanis_Leather.stuffProps.stuffAdjective>泰坦巨鸟皮</Titanis_Leather.stuffProps.stuffAdjective>
+  <!-- Use Meat From: Cassowary -->
+  <Titanis_Corpse.label>泰坦巨鸟尸体</Titanis_Corpse.label>
+  <Titanis_Corpse.description>泰坦巨鸟的尸体。</Titanis_Corpse.description>
+
+  <Titanoboa.label>泰坦巨蟒</Titanoboa.label>
+  <Titanoboa.description>已在史前灭绝的巨型爬行动物，是巨型动物群复活计划之一。\n\n泰坦巨蟒是目前已知最大的蛇，能够吞并整只牛，甚至只需几秒钟时间就能杀死中型的动物，因此请不惜一切代价远离它。</Titanoboa.description>
+  <Titanoboa_Leather.label>泰坦巨蟒皮</Titanoboa_Leather.label>
+  <Titanoboa_Leather.description>泰坦巨蟒的皮。</Titanoboa_Leather.description>
+  <Titanoboa_Leather.stuffProps.stuffAdjective>泰坦巨蟒皮</Titanoboa_Leather.stuffProps.stuffAdjective>
+  <Titanoboa_Meat.label>泰坦巨蟒肉</Titanoboa_Meat.label>
+  <Titanoboa_Meat.description>泰坦巨蟒的肉。</Titanoboa_Meat.description>
+  <Titanoboa_Corpse.label>泰坦巨蟒尸体</Titanoboa_Corpse.label>
+  <Titanoboa_Corpse.description>泰坦巨蟒的尸体。</Titanoboa_Corpse.description>
+
+  <WoolyMammoth.label>真猛玛象</WoolyMammoth.label>
+  <WoolyMammoth.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n真猛玛象是现今大象的近亲。早期人类会为取得它们的肉、毛皮和珍贵的象牙而进行猎杀。\n\n它们与现今的大象不同之处于，它们的耳朵和尾巴相对较短，以减少冻伤和热量消耗。</WoolyMammoth.description>
+  <WoolyMammoth.tools.0.label>象牙</WoolyMammoth.tools.0.label>
+  <WoolyMammoth.tools.1.label>左脚</WoolyMammoth.tools.1.label>
+  <WoolyMammoth.tools.2.label>右脚</WoolyMammoth.tools.2.label>
+  <WoolyMammoth.tools.3.label>头</WoolyMammoth.tools.3.label>
+  <WoolyMammoth_Leather.label>真猛玛象皮</WoolyMammoth_Leather.label>
+  <WoolyMammoth_Leather.description>真猛玛象的皮。</WoolyMammoth_Leather.description>
+  <WoolyMammoth_Leather.stuffProps.stuffAdjective>真猛玛象皮</WoolyMammoth_Leather.stuffProps.stuffAdjective>
+  <WoolyMammoth_Meat.label>真猛玛象肉</WoolyMammoth_Meat.label>
+  <WoolyMammoth_Meat.description>真猛玛象的肉。</WoolyMammoth_Meat.description>
+  <WoolyMammoth_Corpse.label>真猛玛象尸体</WoolyMammoth_Corpse.label>
+  <WoolyMammoth_Corpse.description>真猛玛象的尸体。</WoolyMammoth_Corpse.description>
+
+
+  <!-- UPDATE#1 -->
+
+  <Elasmotherium.label>板齿犀</Elasmotherium.label>
+  <Elasmotherium.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n板齿犀是有史以来最大型的有角犀牛。它会使用其前额上巨大的单角来战斗、求偶、扫雪、挖掘地面以寻找水源和植物的根。</Elasmotherium.description>
+  <Elasmotherium.tools.0.label>角</Elasmotherium.tools.0.label>
+  <Elasmotherium.tools.1.label>角</Elasmotherium.tools.1.label>
+  <Elasmotherium.tools.3.label>头</Elasmotherium.tools.3.label>
+  <Elasmotherium_Leather.label>板齿犀皮</Elasmotherium_Leather.label>
+  <Elasmotherium_Leather.description>板齿犀的皮。</Elasmotherium_Leather.description>
+  <Elasmotherium_Leather.stuffProps.stuffAdjective>板齿犀皮</Elasmotherium_Leather.stuffProps.stuffAdjective>
+  <Elasmotherium_Meat.label>板齿犀肉</Elasmotherium_Meat.label>
+  <Elasmotherium_Meat.description>板齿犀的肉。</Elasmotherium_Meat.description>
+  <Elasmotherium_Corpse.label>板齿犀尸体</Elasmotherium_Corpse.label>
+  <Elasmotherium_Corpse.description>板齿犀的尸体。</Elasmotherium_Corpse.description>
+
+  <Smilodon.label>剑齿虎</Smilodon.label>
+  <Smilodon.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n剑齿虎是一种非常危险的猎食动物，它会利用其强而有力的前肢捉住猎物，并再用它那巨大的犬齿彻底割断猎物颈部，从而杀死猎物。</Smilodon.description>
+  <Smilodon.tools.0.label>左爪</Smilodon.tools.0.label>
+  <Smilodon.tools.1.label>右爪</Smilodon.tools.1.label>
+  <Smilodon_Leather.label>剑齿虎皮</Smilodon_Leather.label>
+  <Smilodon_Leather.description>剑齿虎的皮。</Smilodon_Leather.description>
+  <Smilodon_Leather.stuffProps.stuffAdjective>剑齿虎皮</Smilodon_Leather.stuffProps.stuffAdjective>
+  <Smilodon_Meat.label>剑齿虎肉</Smilodon_Meat.label>
+  <Smilodon_Meat.description>剑齿虎的肉。</Smilodon_Meat.description>
+  <Smilodon_Corpse.label>剑齿虎尸体</Smilodon_Corpse.label>
+  <Smilodon_Corpse.description>剑齿虎的尸体。</Smilodon_Corpse.description>
+
+  <Chalicotherium.label>砂犷兽</Chalicotherium.label>
+  <Chalicotherium.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n尽管外观独特，但它是与马和犀牛有着密切的联系。\n\n砂犷兽是使用指关节着地来行走，并会用它那副树懒一样的爪子来梳理毛发，同时也用于防御敌人。</Chalicotherium.description>
+  <Chalicotherium.tools.0.label>左爪</Chalicotherium.tools.0.label>
+  <Chalicotherium.tools.1.label>右爪</Chalicotherium.tools.1.label>
+  <Chalicotherium_Leather.label>砂犷兽皮</Chalicotherium_Leather.label>
+  <Chalicotherium_Leather.description>砂犷兽的皮。</Chalicotherium_Leather.description>
+  <Chalicotherium_Leather.stuffProps.stuffAdjective>砂犷兽皮</Chalicotherium_Leather.stuffProps.stuffAdjective>
+  <Chalicotherium_Meat.label>砂犷兽肉</Chalicotherium_Meat.label>
+  <Chalicotherium_Meat.description>砂犷兽的肉。</Chalicotherium_Meat.description>
+  <Chalicotherium_Corpse.label>砂犷兽尸体</Chalicotherium_Corpse.label>
+  <Chalicotherium_Corpse.description>砂犷兽的尸体。</Chalicotherium_Corpse.description>
+
+  <Megaloceros.label>大角鹿</Megaloceros.label>
+  <Megaloceros.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n虽然俗称为“巨大麋鹿”，但实际上它不是麋鹿，只是一只巨大的鹿而已。\n\n大角鹿是一种易怒的草食性动物，它其特大的鹿角可以造成严重的伤害，尽管这些鹿角本身是用作吸引雌性的。</Megaloceros.description>
+  <Megaloceros.tools.0.label>左蹄</Megaloceros.tools.0.label>
+  <Megaloceros.tools.1.label>右蹄</Megaloceros.tools.1.label>
+  <Megaloceros.tools.2.label>头</Megaloceros.tools.2.label>
+  <Megaloceros_Leather.label>大角鹿皮</Megaloceros_Leather.label>
+  <Megaloceros_Leather.description>大角鹿的皮。</Megaloceros_Leather.description>
+  <Megaloceros_Leather.stuffProps.stuffAdjective>大角鹿皮</Megaloceros_Leather.stuffProps.stuffAdjective>
+  <Megaloceros_Meat.label>大角鹿肉</Megaloceros_Meat.label>
+  <Megaloceros_Meat.description>大角鹿的肉。</Megaloceros_Meat.description>
+  <Megaloceros_Corpse.label>大角鹿尸体</Megaloceros_Corpse.label>
+  <Megaloceros_Corpse.description>大角鹿的尸体。</Megaloceros_Corpse.description>
+
+  <Procoptodon.label>巨型短面袋鼠</Procoptodon.label>
+  <Procoptodon.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n已知是世界上体型最大的袋鼠，它与现时的袋鼠不同，巨型短面袋鼠不是通过跳跃来移动的，而是通过行走，就像人类一样。\n\n但依旧非常危险的，因为它们能够以惊人的速度出拳攻击。</Procoptodon.description>
+  <Procoptodon.tools.0.label>脚</Procoptodon.tools.0.label>
+  <Procoptodon.tools.1.label>左拳</Procoptodon.tools.1.label>
+  <Procoptodon.tools.2.label>右拳</Procoptodon.tools.2.label>
+  <Procoptodon_Leather.label>巨型短面袋鼠皮</Procoptodon_Leather.label>
+  <Procoptodon_Leather.description>巨型短面袋鼠的皮。</Procoptodon_Leather.description>
+  <Procoptodon_Leather.stuffProps.stuffAdjective>巨型短面袋鼠皮</Procoptodon_Leather.stuffProps.stuffAdjective>
+  <Procoptodon_Meat.label>巨型短面袋鼠肉</Procoptodon_Meat.label>
+  <Procoptodon_Meat.description>巨型短面袋鼠的肉。</Procoptodon_Meat.description>
+  <Procoptodon_Corpse.label>巨型短面袋鼠尸体</Procoptodon_Corpse.label>
+  <Procoptodon_Corpse.description>巨型短面袋鼠的尸体。</Procoptodon_Corpse.description>
+
+  <Megalania.label>古巨蜥</Megalania.label>
+  <Megalania.description>已在史前灭绝的巨型爬行动物，是巨型动物群复活计划之一。\n\n已知是史上体型最大的蜥蜴，也是目前最巨大的有毒脊椎动物。\n\n由于其相对较短的腿，使大多数的巨型猎物都能轻易逃脱它的追捕，这也是为什么它在捕猎时常常以出其不意的方式攻击猎物。</Megalania.description>
+  <Megalania.tools.0.label>左爪</Megalania.tools.0.label>
+  <Megalania.tools.1.label>右爪</Megalania.tools.1.label>
+  <Megalania_Leather.label>古巨蜥皮</Megalania_Leather.label>
+  <Megalania_Leather.description>古巨蜥的皮。</Megalania_Leather.description>
+  <Megalania_Leather.stuffProps.stuffAdjective>古巨蜥皮</Megalania_Leather.stuffProps.stuffAdjective>
+  <Megalania_Meat.label>古巨蜥肉</Megalania_Meat.label>
+  <Megalania_Meat.description>古巨蜥的肉。</Megalania_Meat.description>
+  <Megalania_Corpse.label>古巨蜥尸体</Megalania_Corpse.label>
+  <Megalania_Corpse.description>古巨蜥的尸体。</Megalania_Corpse.description>
+
+
+  <!-- ======================================================UPDATE#2====================================================== -->
+  <!--<Gomphotaria.label>嵌齿海象</Gomphotaria.label>-->
+  <!--<Gomphotaria.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n嵌齿海象有四个巨大的象牙（不是两个），用来锤击和刺穿它的猎物。\n由于有流线型身体，它可在水下非常迅速地移动，但超高的体重且没有腿使他们在陆地上行动迟缓。</Gomphotaria.description>-->
+  <!--<Gomphotaria_Leather.label>嵌齿海象皮</Gomphotaria_Leather.label>-->
+  <!--<Gomphotaria_Leather.description>嵌齿海象的皮。</Gomphotaria_Leather.description>-->
+  <!--<Gomphotaria_Leather.stuffProps.stuffAdjective>嵌齿海象皮</Gomphotaria_Leather.stuffProps.stuffAdjective>-->
+  <!--<Gomphotaria_Meat.label>嵌齿海象肉</Gomphotaria_Meat.label>-->
+  <!--<Gomphotaria_Meat.description>嵌齿海象的肉。</Gomphotaria_Meat.description>-->
+  <!--<Gomphotaria_Corpse.label>嵌齿海象尸体</Gomphotaria_Corpse.label>-->
+  <!--<Gomphotaria_Corpse.description>嵌齿海象的尸体。</Gomphotaria_Corpse.description>-->
+  <!--<Diprotodon.label>双门齿兽</Diprotodon.label>-->
+  <!--<Diprotodon.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n已知史上最大的有袋动物。像犀牛一样巨大，外形近似巨型的树袋熊。\n双门齿兽是一种相对平和的生物，然而它朝前的巨大牙齿以及其强大的爪子在战斗中可能会相当危险。</Diprotodon.description>-->
+  <!--<Diprotodon_Leather.label>双门齿兽皮</Diprotodon_Leather.label>-->
+  <!--<Diprotodon_Leather.description>双门齿兽的皮。</Diprotodon_Leather.description>-->
+  <!--<Diprotodon_Leather.stuffProps.stuffAdjective>双门齿兽皮</Diprotodon_Leather.stuffProps.stuffAdjective>-->
+  <!--<Diprotodon_Meat.label>双门齿兽肉</Diprotodon_Meat.label>-->
+  <!--<Diprotodon_Meat.description>双门齿兽的肉。</Diprotodon_Meat.description>-->
+  <!--<Diprotodon_Corpse.label>双门齿兽尸体</Diprotodon_Corpse.label>-->
+  <!--<Diprotodon_Corpse.description>双门齿兽的尸体。</Diprotodon_Corpse.description>-->
+  <!--<ShortfacedBear.label>短面熊</ShortfacedBear.label>-->
+  <!--<ShortfacedBear.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n史上最大体型的熊之一。与其他熊相比，其外观最突出的是不成比例的短鼻子和特别长的腿，故几乎没有猎物可以有效地摆脱它。</ShortfacedBear.description>-->
+  <!--<ShortfacedBear_Corpse.label>短面熊尸体</ShortfacedBear_Corpse.label>-->
+  <!--<ShortfacedBear_Corpse.description>短面熊的尸体。</ShortfacedBear_Corpse.description>-->
+  <!--<Sivatherium.label>西瓦鹿</Sivatherium.label>-->
+  <!--<Sivatherium.description>已在史前灭绝的巨型哺乳动物，是巨型动物群复活计划之一。\n\n历史上最大的反刍动物。与现代的类似物种（长颈鹿和霍加狓等）不同，西瓦鹿拥有两对骨突（头顶的小揪揪，传说中的鹿由器），一对展宽类似于麋鹿角，另一对更像牛角，在眼睛上方。</Sivatherium.description>-->
+  <!--<Sivatherium_Leather.label>西瓦鹿皮</Sivatherium_Leather.label>-->
+  <!--<Sivatherium_Leather.description>西瓦鹿的皮。</Sivatherium_Leather.description>-->
+  <!--<Sivatherium_Leather.stuffProps.stuffAdjective>西瓦鹿皮</Sivatherium_Leather.stuffProps.stuffAdjective>-->
+  <!--<Sivatherium_Meat.label>西瓦鹿肉</Sivatherium_Meat.label>-->
+  <!--<Sivatherium_Meat.description>西瓦鹿的肉。</Sivatherium_Meat.description>-->
+  <!--<Sivatherium_Corpse.label>西瓦鹿尸体</Sivatherium_Corpse.label>-->
+  <!--<Sivatherium_Corpse.description>西瓦鹿的尸体。</Sivatherium_Corpse.description>-->
+
+</LanguageData>

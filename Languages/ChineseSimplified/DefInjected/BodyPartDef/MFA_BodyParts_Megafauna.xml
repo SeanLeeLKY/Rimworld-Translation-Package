@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FrontLeftFlipper.label>左前脚蹼</FrontLeftFlipper.label>
+  <FrontRightFlipper.label>右前脚蹼</FrontRightFlipper.label>
+  <CentipedeFirstSegment.label>身体第一节</CentipedeFirstSegment.label>
+  <CentipedeSecondSegment.label>身体第二节</CentipedeSecondSegment.label>
+  <CentipedeThirdSegment.label>身体第三节</CentipedeThirdSegment.label>
+  <CentipedeFourthSegment.label>身体第四节</CentipedeFourthSegment.label>
+  <CentipedeFifthSegment.label>身体第五节</CentipedeFifthSegment.label>
+  <CentipedeSixthSegment.label>身体第六节</CentipedeSixthSegment.label>
+  <Fangs.label>尖牙</Fangs.label>
+  <GlyptodonCarapace.label>壳</GlyptodonCarapace.label>
+  <GlyptodonShell.label>壳</GlyptodonShell.label>
+
+
+</LanguageData>
