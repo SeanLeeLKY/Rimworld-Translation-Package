@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeConcrete.label>制造30混凝土</MakeConcrete.label>
+  <MakeConcrete.description>用沙子、水泥、碎石和水混合搅拌出混凝土。</MakeConcrete.description>
+  <MakeConcrete.jobString>搅拌混凝土</MakeConcrete.jobString>
+
+  <MakeConcrete5.label>制造150混凝土</MakeConcrete5.label>
+  <MakeConcrete5.description>用沙子、水泥、碎石和水混合搅拌出混凝土。</MakeConcrete5.description>
+  <MakeConcrete5.jobString>搅拌混凝土</MakeConcrete5.jobString>
+
+  <MakeConcreteBlocks.label>制造75混凝土砖块</MakeConcreteBlocks.label>
+  <MakeConcreteBlocks.description>制造混凝土空心砖。</MakeConcreteBlocks.description>
+  <MakeConcreteBlocks.jobString>制造混凝土砖块</MakeConcreteBlocks.jobString>
+
+  <MakeCement.label>制造4水泥 (从石块)</MakeCement.label>
+  <MakeCement.description>用高温加热石头制造水泥。</MakeCement.description>
+  <MakeCement.jobString>制造水泥</MakeCement.jobString>
+
+  <MakeCementBlock.label>制造水泥 (从石砖)</MakeCementBlock.label>
+  <MakeCementBlock.description>用高温加热石头制造水泥。</MakeCementBlock.description>
+  <MakeCementBlock.jobString>制造水泥</MakeCementBlock.jobString>
+
+  <MakeCrushedRocksSlow.label>制造2碎石</MakeCrushedRocksSlow.label>
+  <MakeCrushedRocksSlow.description>将大石块捣碎成碎石块。</MakeCrushedRocksSlow.description>
+  <MakeCrushedRocksSlow.jobString>捣碎石块</MakeCrushedRocksSlow.jobString>
+
+  <MakeCrushedRocksSlowBlock.label>制造碎石 (从石砖)</MakeCrushedRocksSlowBlock.label>
+  <MakeCrushedRocksSlowBlock.description>将石砖捣碎成碎石块。</MakeCrushedRocksSlowBlock.description>
+  <MakeCrushedRocksSlowBlock.jobString>捣碎石头</MakeCrushedRocksSlowBlock.jobString>
+
+  <MakeSandSlow.label>制造沙子</MakeSandSlow.label>
+  <MakeSandSlow.description>将碎石研磨成沙子。</MakeSandSlow.description>
+  <MakeSandSlow.jobString>制造沙子</MakeSandSlow.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RFFConcreteDoor.label>钢筋混凝土门</RFFConcreteDoor.label>
+  <RFFConcreteDoor.description>分隔房间。必须手动开闭，会降低通过速度。</RFFConcreteDoor.description>
+  <RFFConcreteDoor_Blueprint.label>钢筋混凝土门 (蓝图)</RFFConcreteDoor_Blueprint.label>
+  <RFFConcreteDoor_Frame.label>钢筋混凝土门 (建造中)</RFFConcreteDoor_Frame.label>
+  <RFFConcreteDoor_Frame.description>分隔房间。必须手动开闭，会降低通过速度。</RFFConcreteDoor_Frame.description>
+
+  <RFFConcreteAutodoor.label>钢筋混凝土自动门</RFFConcreteAutodoor.label>
+  <RFFConcreteAutodoor.description>分隔房间。在有电力的情况下可以自动开闭，不会降低通过速度。</RFFConcreteAutodoor.description>
+  <RFFConcreteAutodoor_Blueprint.label>钢筋混凝土自动门 (蓝图)</RFFConcreteAutodoor_Blueprint.label>
+  <RFFConcreteAutodoor_Frame.label>钢筋混凝土自动门 (建造中)</RFFConcreteAutodoor_Frame.label>
+  <RFFConcreteAutodoor_Frame.description>分隔房间。在有电力的情况下可以自动开闭，不会降低通过速度。</RFFConcreteAutodoor_Frame.description>
+
+  <RFFPlasticreteDoor.label>玻璃钢混凝土门</RFFPlasticreteDoor.label>
+  <RFFPlasticreteDoor.description>分隔房间。必须手动开闭，会降低通过速度。</RFFPlasticreteDoor.description>
+  <RFFPlasticreteDoor_Blueprint.label>玻璃钢混凝土门 (蓝图)</RFFPlasticreteDoor_Blueprint.label>
+  <RFFPlasticreteDoor_Frame.label>玻璃钢混凝土门 (建造中)</RFFPlasticreteDoor_Frame.label>
+  <RFFPlasticreteDoor_Frame.description>分隔房间。必须手动开闭，会降低通过速度。</RFFPlasticreteDoor_Frame.description>
+
+  <RFFPlasticreteAutodoor.label>玻璃钢混凝土自动门</RFFPlasticreteAutodoor.label>
+  <RFFPlasticreteAutodoor.description>分隔房间。在有电力的情况下可以自动开闭，不会降低通过速度。</RFFPlasticreteAutodoor.description>
+  <RFFPlasticreteAutodoor_Blueprint.label>玻璃钢混凝土自动门 (蓝图)</RFFPlasticreteAutodoor_Blueprint.label>
+  <RFFPlasticreteAutodoor_Frame.label>玻璃钢混凝土自动门 (建造中)</RFFPlasticreteAutodoor_Frame.label>
+  <RFFPlasticreteAutodoor_Frame.description>分隔房间。在有电力的情况下可以自动开闭，不会降低通过速度。</RFFPlasticreteAutodoor_Frame.description>
+
+  <RFFConcreteWall.label>混凝土浇筑墙</RFFConcreteWall.label>
+  <RFFConcreteWall.description>一堵混凝土墙，比标准石墙更加坚固。</RFFConcreteWall.description>
+  <RFFConcreteWall_Blueprint.label>混凝土浇筑墙 (蓝图)</RFFConcreteWall_Blueprint.label>
+  <RFFConcreteWall_Frame.label>混凝土浇筑墙 (建造中)</RFFConcreteWall_Frame.label>
+  <RFFConcreteWall_Frame.description>一堵混凝土墙，比标准石墙更加坚固。</RFFConcreteWall_Frame.description>
+
+  <RFFReinforcedConcreteWall.label>钢筋混凝土墙</RFFReinforcedConcreteWall.label>
+  <RFFReinforcedConcreteWall.description>一种强化墙体。比普通混凝土墙和砖墙更加坚固，非常适合需要安全保障或者加固防护的地区。</RFFReinforcedConcreteWall.description>
+  <RFFReinforcedConcreteWall_Blueprint.label>钢筋混凝土墙 (蓝图)</RFFReinforcedConcreteWall_Blueprint.label>
+  <RFFReinforcedConcreteWall_Frame.label>钢筋混凝土墙 (建造中)</RFFReinforcedConcreteWall_Frame.label>
+  <RFFReinforcedConcreteWall_Frame.description>一种强化墙体。比普通混凝土墙和砖墙更加坚固，非常适合需要安全保障或者加固防护的地区。</RFFReinforcedConcreteWall_Frame.description>
+
+  <RFFPlasticreteWall.label>玻璃钢混凝土墙</RFFPlasticreteWall.label>
+  <RFFPlasticreteWall.description>及其强大的防护墙体，需要大量的混凝土，钢铁和玻璃钢来修筑。</RFFPlasticreteWall.description>
+  <RFFPlasticreteWall_Blueprint.label>玻璃钢混凝土墙 (蓝图)</RFFPlasticreteWall_Blueprint.label>
+  <RFFPlasticreteWall_Frame.label>玻璃钢混凝土墙 (建造中)</RFFPlasticreteWall_Frame.label>
+  <RFFPlasticreteWall_Frame.description>及其强大的防护墙体，需要大量的混凝土，钢铁和玻璃钢来修筑。</RFFPlasticreteWall_Frame.description>
+
+  <Embrasure.label>射击墙</Embrasure.label>
+  <Embrasure.description>一堵不可逾越的墙体，墙头和墙体上有可以用于射击的垛口，为射击者提供防护。</Embrasure.description>
+  <Embrasure_Blueprint.label>射击墙 (蓝图)</Embrasure_Blueprint.label>
+  <Embrasure_Frame.label>射击墙 (建造中)</Embrasure_Frame.label>
+  <Embrasure_Frame.description>一堵不可逾越的墙体，墙头和墙体上有可以用于射击的垛口，为射击者提供防护。</Embrasure_Frame.description>
+
+  <BrickEmbrasure.label>石砖射击墙</BrickEmbrasure.label>
+  <BrickEmbrasure.description>一堵不可逾越的墙体，墙头和墙体上有可以用于射击的垛口，为射击者提供防护。.</BrickEmbrasure.description>
+
+  <RFFConcreteEmbrasure.label>钢筋混凝土射击墙</RFFConcreteEmbrasure.label>
+  <RFFConcreteEmbrasure.description>一堵不可逾越的墙体，墙头和墙体上有可以用于射击的垛口，为射击者提供防护。</RFFConcreteEmbrasure.description>
+  <RFFConcreteEmbrasure_Blueprint.label>钢筋混凝土射击墙 (蓝图)</RFFConcreteEmbrasure_Blueprint.label>
+  <RFFConcreteEmbrasure_Frame.label>钢筋混凝土射击墙 (建造中)</RFFConcreteEmbrasure_Frame.label>
+  <RFFConcreteEmbrasure_Frame.description>一堵不可逾越的墙体，墙头和墙体上有可以用于射击的垛口，为射击者提供防护。</RFFConcreteEmbrasure_Frame.description>
+
+  <RFFPlasticreteEmbrasure.label>玻璃钢混凝土射击墙</RFFPlasticreteEmbrasure.label>
+  <RFFPlasticreteEmbrasure.description>一堵不可逾越的墙体，墙头和墙体上有可以用于射击的垛口，为射击者提供防护。</RFFPlasticreteEmbrasure.description>
+  <RFFPlasticreteEmbrasure_Blueprint.label>玻璃钢混凝土射击墙 (蓝图)</RFFPlasticreteEmbrasure_Blueprint.label>
+  <RFFPlasticreteEmbrasure_Frame.label>玻璃钢混凝土射击墙 (建造中)</RFFPlasticreteEmbrasure_Frame.label>
+  <RFFPlasticreteEmbrasure_Frame.description>一堵不可逾越的墙体，墙头和墙体上有可以用于射击的垛口，为射击者提供防护。</RFFPlasticreteEmbrasure_Frame.description>
+
+
+</LanguageData>
