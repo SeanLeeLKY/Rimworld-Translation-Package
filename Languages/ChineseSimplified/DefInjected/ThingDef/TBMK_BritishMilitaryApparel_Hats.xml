@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- boonie hat -->
+
+  <Apparel_RoyalMarinesBeret.label>RMC贝雷帽</Apparel_RoyalMarinesBeret.label>
+  <Apparel_RoyalMarinesBeret.description>英国皇家海军陆战队使用的标志性绿色贝雷帽.</Apparel_RoyalMarinesBeret.description>
+
+
+  <!-- MK7 no goggles -->
+
+  <Apparel_BritishMK7HelmetNoGoggles.label>MK7头盔</Apparel_BritishMK7HelmetNoGoggles.label>
+  <Apparel_BritishMK7HelmetNoGoggles.description>基础型MK7头盔，只能抵御弹片.</Apparel_BritishMK7HelmetNoGoggles.description>
+
+
+  <!-- MK7 goggles -->
+
+  <Apparel_BritishMK7Helmet.label>MK7头盔（带护目镜）</Apparel_BritishMK7Helmet.label>
+  <Apparel_BritishMK7Helmet.description>带护目镜的MK7头盔，只能抵御弹片.</Apparel_BritishMK7Helmet.description>
+
+
+  <!-- MK7 no goggles -->
+
+  <Apparel_BritishMK7HelmetGhillie.label>MK7迷彩头盔</Apparel_BritishMK7HelmetGhillie.label>
+  <Apparel_BritishMK7HelmetGhillie.description>这是迷彩伪装版MK7头盔，至少没有人能看见你戴着MK7头盔.</Apparel_BritishMK7HelmetGhillie.description>
+
+
+  <!-- UKSF Helm -->
+
+  <Apparel_UKSFFASTHelmet.label>UKSF快速反应头盔</Apparel_UKSFFASTHelmet.label>
+  <Apparel_UKSFFASTHelmet.description>这是英国特种部队配备的快速反应头盔，头盔集成了前沿军用科技.</Apparel_UKSFFASTHelmet.description>
+
+
+</LanguageData>

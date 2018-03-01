@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Medicine -->
+
+  <IFAKMedTan.label>IFAK急救箱（棕褐色）</IFAKMedTan.label>
+  <IFAKMedTan.description>个人急救箱,比草药药效强，但比工业级药品弱。适用于作战环境，棕褐保护色.</IFAKMedTan.description>
+
+  <IFAKMedOCP.label>IFAK急救箱（OCP迷彩）</IFAKMedOCP.label>
+  <IFAKMedOCP.description>个人急救箱。比草药药效强，但比工业级药品弱。适用于作战环境，OCP迷彩.</IFAKMedOCP.description>
+
+
+</LanguageData>

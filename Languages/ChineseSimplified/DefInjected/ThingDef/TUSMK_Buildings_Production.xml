@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <AmericanTableMachining.label>美国军械制作台</AmericanTableMachining.label>
+  <AmericanTableMachining.description>装配美国设备的制作站.</AmericanTableMachining.description>
+  <AmericanTableMachining_Blueprint.label>美国军械制作台（蓝图）</AmericanTableMachining_Blueprint.label>
+  <AmericanTableMachining_Frame.label>美国军械制作台（建造中）</AmericanTableMachining_Frame.label>
+  <AmericanTableMachining_Frame.description>装配美国设备的制作站.</AmericanTableMachining_Frame.description>
+
+
+</LanguageData>

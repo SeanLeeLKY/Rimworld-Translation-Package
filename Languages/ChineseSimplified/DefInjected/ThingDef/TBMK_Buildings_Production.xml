@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Work tables -->
+
+  <BritishTableMachining.label>英国军械工作站</BritishTableMachining.label>
+  <BritishTableMachining.description>装配英国军用品制作设备的工作站.</BritishTableMachining.description>
+  <BritishTableMachining_Blueprint.label>英国军械工作站（蓝图）</BritishTableMachining_Blueprint.label>
+  <BritishTableMachining_Frame.label>英国军械工作站（蓝图）</BritishTableMachining_Frame.label>
+  <BritishTableMachining_Frame.description>装配英国军用品制作设备的工作站.</BritishTableMachining_Frame.description>
+
+
+</LanguageData>

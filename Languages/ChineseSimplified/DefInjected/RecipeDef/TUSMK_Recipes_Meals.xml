@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookUSMCMREPack.label>调制USMC作战口粮</CookUSMCMREPack.label>
+  <CookUSMCMREPack.description>调制一份USMC作战口粮.</CookUSMCMREPack.description>
+  <CookUSMCMREPack.jobString>正在调制USMC作战口粮.</CookUSMCMREPack.jobString>
+
+  <CookUSMCMREPackFive.label>调制USMC作战口粮（X5）</CookUSMCMREPackFive.label>
+  <CookUSMCMREPackFive.description>调制一份USMC作战口粮.</CookUSMCMREPackFive.description>
+  <CookUSMCMREPackFive.jobString>正在调制USMC作战口粮.</CookUSMCMREPackFive.jobString>
+
+  <CookUSArmyMREPack.label>调制美军野战个人口粮</CookUSArmyMREPack.label>
+  <CookUSArmyMREPack.description>调制一份美军野战个人口粮.</CookUSArmyMREPack.description>
+  <CookUSArmyMREPack.jobString>正在调制美军野战个人口粮.</CookUSArmyMREPack.jobString>
+
+  <CookUSArmyMREPackFive.label>调制美军野战个人口粮 （X5）</CookUSArmyMREPackFive.label>
+  <CookUSArmyMREPackFive.description>调制一份美军野战个人口粮.</CookUSArmyMREPackFive.description>
+  <CookUSArmyMREPackFive.jobString>正在调制美军野战个人口粮.</CookUSArmyMREPackFive.jobString>
+
+
+</LanguageData>

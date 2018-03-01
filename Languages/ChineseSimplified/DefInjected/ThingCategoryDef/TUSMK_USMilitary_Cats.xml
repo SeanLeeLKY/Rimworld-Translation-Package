@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Clothing Categories -->
+
+  <USMilitaryKitCats.label>美国军事装备</USMilitaryKitCats.label>
+
+
+  <!-- Army submenu -->
+
+  <USArmy_Clothing.label>美国陆军制服</USArmy_Clothing.label>
+  <USArmy_Armor.label>美国陆军装备</USArmy_Armor.label>
+
+
+  <!-- Marines submenu -->
+
+  <USMC_Clothing.label>美国海军陆战队制服</USMC_Clothing.label>
+  <USMC_Armor.label>美国海军陆战队装备</USMC_Armor.label>
+
+
+  <!-- Spec Ops submenu -->
+
+  <USNavy_Clothing.label>美国海军制服</USNavy_Clothing.label>
+  <USNavy_Armor.label>美国海军装备</USNavy_Armor.label>
+
+
+  <!-- Hat main -->
+
+  <USMil_Hats.label>美国军帽</USMil_Hats.label>
+
+
+</LanguageData>

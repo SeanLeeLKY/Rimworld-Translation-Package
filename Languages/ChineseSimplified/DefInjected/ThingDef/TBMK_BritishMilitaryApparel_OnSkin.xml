@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- British Army BDU -->
+
+  <Apparel_BritishArmyBDU.label>英国陆军作战服</Apparel_BritishArmyBDU.label>
+  <Apparel_BritishArmyBDU.description>英国陆军列装的多地形迷彩作战服.</Apparel_BritishArmyBDU.description>
+
+
+  <!-- Royal Marines BDU -->
+
+  <Apparel_RoyalMarinesBDU.label>RMC作战服</Apparel_RoyalMarinesBDU.label>
+  <Apparel_RoyalMarinesBDU.description>英国皇家海军陆战队列装的多地形迷彩作战服.</Apparel_RoyalMarinesBDU.description>
+
+
+  <!-- UKSF BDU -->
+
+  <Apparel_UKSFBDU.label>UKSF作战服</Apparel_UKSFBDU.label>
+  <Apparel_UKSFBDU.description>英国特种部队列装的多地形迷彩作战服，有黑白色版本的作战服.</Apparel_UKSFBDU.description>
+
+
+</LanguageData>

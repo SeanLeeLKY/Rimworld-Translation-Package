@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <USMCExpeditionStove.label>军用野营炉具</USMCExpeditionStove.label>
+  <USMCExpeditionStove.description>美国军方使用的便携式炉具，需要化合燃料.</USMCExpeditionStove.description>
+  <USMCExpeditionStove_Blueprint.label>军用野营炉具（蓝图）</USMCExpeditionStove_Blueprint.label>
+  <USMCExpeditionStove_Blueprint_Install.label>军用野营炉具（蓝图）</USMCExpeditionStove_Blueprint_Install.label>
+  <USMCExpeditionStove_Frame.label>军用野营炉具（建造中）</USMCExpeditionStove_Frame.label>
+  <USMCExpeditionStove_Frame.description>美国军方使用的便携式炉具，需要化合燃料.</USMCExpeditionStove_Frame.description>
+
+
+</LanguageData>

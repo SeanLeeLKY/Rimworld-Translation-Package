@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- USMC Olive cap -->
+
+  <Apparel_USMCUtilityCoverOlive.label>USMC八角帽（橄榄色）</Apparel_USMCUtilityCoverOlive.label>
+  <Apparel_USMCUtilityCoverOlive.description>一顶实用的帽子，但是你要把它叫做盖子的话内务部会杀了你，橄榄色.</Apparel_USMCUtilityCoverOlive.description>
+
+
+  <!-- USMC M81 cap -->
+
+  <Apparel_USMCUtilityM81Cover.label>USMC八角帽 (M81迷彩)</Apparel_USMCUtilityM81Cover.label>
+  <Apparel_USMCUtilityM81Cover.description>一顶实用的帽子，但是你要把它叫做盖子的话内务部会杀了你，M81迷彩.</Apparel_USMCUtilityM81Cover.description>
+
+
+  <!-- USMC Desert cap -->
+
+  <Apparel_USMCUtilityCoverDesert.label>USMC八角帽（沙漠迷彩）</Apparel_USMCUtilityCoverDesert.label>
+  <Apparel_USMCUtilityCoverDesert.description>一顶实用的帽子，但是你要把它叫做盖子的话内务部会杀了你，沙漠迷彩.</Apparel_USMCUtilityCoverDesert.description>
+
+
+  <!-- USMC Forest cap -->
+
+  <!--[Duplicated] <Apparel_USMCUtilityCoverForest.label>USMC utility cover (forest)</Apparel_USMCUtilityCoverForest.label>-->
+  <!--[Duplicated] <Apparel_USMCUtilityCoverForest.description>A utility cap, but you have to call it a cover or the D.I. will kill you. Forest MARPAT camo.</Apparel_USMCUtilityCoverForest.description>-->
+
+
+  <!-- USMC Gulf war cap -->
+
+  <Apparel_USMCUtilityCoverForest.label>USMC八角帽（海湾战争沙漠迷彩）</Apparel_USMCUtilityCoverForest.label>
+  <Apparel_USMCUtilityCoverForest.description>一顶实用的帽子，但是你要把它叫做盖子的话内务部会杀了你，海湾战争沙漠迷彩.</Apparel_USMCUtilityCoverForest.description>
+
+
+  <!-- Army UCP cap -->
+
+  <Apparel_USArmyUtilityCoverUCP.label>>USMC八角帽（UCP迷彩）</Apparel_USArmyUtilityCoverUCP.label>
+  <Apparel_USArmyUtilityCoverUCP.description>一顶实用的帽子，但是你要把它叫做盖子的话内务部会杀了你，通用迷彩伪装.</Apparel_USArmyUtilityCoverUCP.description>
+
+
+  <!-- Army OCP cap -->
+
+  <Apparel_USArmyUtilityCoverOCP.label>USMC八角帽（OCP迷彩）</Apparel_USArmyUtilityCoverOCP.label>
+  <Apparel_USArmyUtilityCoverOCP.description>一顶实用的帽子，但是你要把它叫做盖子的话内务部会杀了你，复合迷彩.</Apparel_USArmyUtilityCoverOCP.description>
+
+
+  <!-- Navy AOR1 cap -->
+
+  <Apparel_USNavyUtilityAOR1Cover.label>美国海军帽（AOR1迷彩）</Apparel_USNavyUtilityAOR1Cover.label>
+  <Apparel_USNavyUtilityAOR1Cover.description>一顶实用的帽子，但是你要把它叫做盖子的话RDC会杀了你，AOR1迷彩.</Apparel_USNavyUtilityAOR1Cover.description>
+
+
+  <!-- The Smokey -->
+
+  <Apparel_USAFCampaignHat.label>smokey bear帽</Apparel_USAFCampaignHat.label>
+  <Apparel_USAFCampaignHat.description>教官专用，如果你看到一个男人或女人带着这顶帽子朝着你走来, 你要做好撞到地板上的准备,“ GET DOWN RIGHT NOW AND GIVE ME 25 YOU SLIMY POGUE, PUUUUUUSHHH!!!”</Apparel_USAFCampaignHat.description>
+
+  <Apparel_USMCDressBluesCover.label>USMC军礼帽 （蓝色）</Apparel_USMCDressBluesCover.label>
+  <Apparel_USMCDressBluesCover.description>海军陆战队军礼帽或葬礼帽。“让我穿上一套蓝色的衣服，梳理我的头发，擦亮我的鞋子。把我的奖牌钉在我的胸前，告诉我妈妈我已经尽力了。妈，别哭了，海军陆战队的座右铭是“永远忠诚””.</Apparel_USMCDressBluesCover.description>
+
+
+  <!-- USMC service cover -->
+
+  <Apparel_USMCCoverService.label>USMC现役军帽</Apparel_USMCCoverService.label>
+  <Apparel_USMCCoverService.description>海军陆战队现役军帽。“我曾经和一个选美皇后约会，现在我和我的m - 16约会。放在地上就找不到了！”</Apparel_USMCCoverService.description>
+
+
+  <!-- USMC service cover CO -->
+
+  <Apparel_USMCCoverServiceOfficer.label>USMC现役军官帽</Apparel_USMCCoverServiceOfficer.label>
+  <Apparel_USMCCoverServiceOfficer.description>海军陆战队现役军官帽。“把它穿好并盖好，四十英寸左右。九在前面，六在后面， 这就是我们的做法!”</Apparel_USMCCoverServiceOfficer.description>
+
+
+</LanguageData>

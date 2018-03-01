@@ -7,15 +7,15 @@
   <RFFConcrete.label>混凝土</RFFConcrete.label>
   <RFFConcrete.description>一种优质的通用建筑材料。它可以直接用于浇筑混凝土地板，或制成混凝土石渣空心砖墙。</RFFConcrete.description>
 
-  <RFFBlocksConcrete.label>混凝土渣空心砖</RFFBlocksConcrete.label>
-  <RFFBlocksConcrete.description>一种混凝土块，通常制成空心砖，可以用来建造各式物品、建筑。混凝土渣空心砖墙不如花岗岩墙坚硬，但是作为一种标准建筑材料，能够提高建造速度。</RFFBlocksConcrete.description>
-  <RFFBlocksConcrete.stuffProps.stuffAdjective>空心砖</RFFBlocksConcrete.stuffProps.stuffAdjective>
+  <RFFBlocksConcrete.label>混凝土空心砖</RFFBlocksConcrete.label>
+  <RFFBlocksConcrete.description>用混凝土块制成的空心砖，可以用来建造各式物品、建筑。混凝土空心砖墙不如花岗岩墙坚硬，但是作为一种标准建筑材料，能够提高建造速度。</RFFBlocksConcrete.description>
+  <RFFBlocksConcrete.stuffProps.stuffAdjective>混凝土砖</RFFBlocksConcrete.stuffProps.stuffAdjective>
 
   <CrushedRocks.label>碎石</CrushedRocks.label>
   <CrushedRocks.description>捣碎的石块。</CrushedRocks.description>
 
   <SandPile.label>沙堆</SandPile.label>
-  <SandPile.description>沙子，可以从水边或者沙漠中挖掘。</SandPile.description>
+  <SandPile.description>一堆沙子。</SandPile.description>
 
 
 </LanguageData>

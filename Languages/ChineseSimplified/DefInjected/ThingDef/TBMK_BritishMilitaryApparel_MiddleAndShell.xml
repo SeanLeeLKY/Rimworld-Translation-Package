@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- British Army Ghillie -->
+
+  <Apparel_BritishArmyGhillie.label>英军吉利服</Apparel_BritishArmyGhillie.label>
+  <Apparel_BritishArmyGhillie.description>当你穿着吉利服时，你就不要想背东西了.</Apparel_BritishArmyGhillie.description>
+
+
+  <!-- British Army Osprey -->
+
+  <Apparel_BritishOspreyVest.label>鱼鹰防弹背心</Apparel_BritishOspreyVest.label>
+  <Apparel_BritishOspreyVest.description>鱼鹰防弹背心是英国武装部队所列装的主要防弹背心.</Apparel_BritishOspreyVest.description>
+
+
+  <!-- RMC Vest -->
+
+  <Apparel_RoyalMarinesVest.label>RMC防弹背心</Apparel_RoyalMarinesVest.label>
+  <Apparel_RoyalMarinesVest.description>英国皇家海军陆战队常用的防弹背心.</Apparel_RoyalMarinesVest.description>
+
+
+  <!-- UKSF Vest -->
+
+  <Apparel_BritishUKSFVest.label>UKSF防弹背心</Apparel_BritishUKSFVest.label>
+  <Apparel_BritishUKSFVest.description>英国特种部队常用的防弹背心.</Apparel_BritishUKSFVest.description>
+
+
+</LanguageData>

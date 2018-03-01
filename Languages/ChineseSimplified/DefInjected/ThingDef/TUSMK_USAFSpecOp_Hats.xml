@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SEAL Helm -->
+
+  <Apparel_NavyFASTHelmetBalaclava.label>海豹突击队FAST头盔（CSGO）</Apparel_NavyFASTHelmetBalaclava.label>
+  <Apparel_NavyFASTHelmetBalaclava.description>海豹突击队快速反应头盔.我会让你知道我是从海豹突击队中毕业的。配备巴拉克拉法帽和护目镜.</Apparel_NavyFASTHelmetBalaclava.description>
+
+
+  <!-- SEAL Helm Ghost -->
+
+  <Apparel_NavyFASTHelmetspook.label>海豹突击队FAST头盔（幽灵）</Apparel_NavyFASTHelmetspook.label>
+  <Apparel_NavyFASTHelmetspook.description>海豹突击队快速反应头盔.我会让你知道我是从海豹突击队中毕业的。配备幽灵面具.</Apparel_NavyFASTHelmetspook.description>
+
+  <Apparel_NavyFASTHelmetShemagh.label>海豹突击队FAST头盔（面巾）</Apparel_NavyFASTHelmetShemagh.label>
+  <Apparel_NavyFASTHelmetShemagh.description>海豹突击队快速反应头盔.我会让你知道我是从海豹突击队中毕业的。配备面巾.</Apparel_NavyFASTHelmetShemagh.description>
+
+
+  <!-- MARSOC Deal with it -->
+
+  <Apparel_MARSOCFASTMLGShades.label>MARSOC快速反应头盔（墨镜）</Apparel_MARSOCFASTMLGShades.label>
+  <Apparel_MARSOCFASTMLGShades.description>海军陆战队特种作战团快速反应头盔.有这么酷的眼镜会让你“处理它”吗？配备墨镜.</Apparel_MARSOCFASTMLGShades.description>
+
+
+  <!-- MARSOC Balaclava -->
+
+  <Apparel_MARSOCFASTShemagh.label>MARSOC快速反应头盔（面巾）</Apparel_MARSOCFASTShemagh.label>
+  <Apparel_MARSOCFASTShemagh.description>海军陆战队特种作战团快速反应头盔， 配备面巾.</Apparel_MARSOCFASTShemagh.description>
+
+
+  <!-- FORECON -->
+
+  <Apparel_FORECONMICH.label>MICH侦察头盔</Apparel_FORECONMICH.label>
+  <Apparel_FORECONMICH.description>侦察兵专用模块化通讯头盔.</Apparel_FORECONMICH.description>
+
+
+  <!-- FORECON gog -->
+
+  <Apparel_FORECONMICHGog.label>MICH侦察头盔（护目镜）</Apparel_FORECONMICHGog.label>
+  <Apparel_FORECONMICHGog.description>侦察兵专用模块化通讯头盔，配备护目镜.</Apparel_FORECONMICHGog.description>
+
+
+  <!-- Ranger FAST -->
+
+  <Apparel_USRangerFAST.label>游骑兵FAST头盔（护目镜OCP迷彩）</Apparel_USRangerFAST.label>
+  <Apparel_USRangerFAST.description>游骑兵快速反应头盔. 配备护目镜，OCP迷彩.</Apparel_USRangerFAST.description>
+
+
+  <!-- EOD Helmet -->
+
+  <Apparel_USEODHelmet.label>防爆头盔</Apparel_USEODHelmet.label>
+  <Apparel_USEODHelmet.description>给EOD技术人员的防爆头盔。“你是个野人，你知道吗?”</Apparel_USEODHelmet.description>
+
+
+</LanguageData>

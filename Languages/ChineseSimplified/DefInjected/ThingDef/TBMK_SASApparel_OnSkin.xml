@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Coveralls -->
+
+  <Apparel_SASJumpsuitCSGO.label>SAS连身衣（CSGO）</Apparel_SASJumpsuitCSGO.label>
+  <Apparel_SASJumpsuitCSGO.description>防热、防火的阻燃工作服.</Apparel_SASJumpsuitCSGO.description>
+
+
+  <!-- Coveralls 2 -->
+
+  <Apparel_SASJumpsuitOriginal.label>SAS经典连身衣</Apparel_SASJumpsuitOriginal.label>
+  <Apparel_SASJumpsuitOriginal.description>防热、防火的阻燃工作服.</Apparel_SASJumpsuitOriginal.description>
+
+
+  <!-- Coveralls Dodgy -->
+
+  <Apparel_SASJumpsuitDodgy.label>SAS连身衣（dodgy）</Apparel_SASJumpsuitDodgy.label>
+  <Apparel_SASJumpsuitDodgy.description>防热、防火的阻燃工作服。"这是一些骗人的慈善工作"（？？？）.</Apparel_SASJumpsuitDodgy.description>
+
+  <Apparel_SASJumpsuitBlack.label>SAS夜间连身衣</Apparel_SASJumpsuitBlack.label>
+  <Apparel_SASJumpsuitBlack.description>有许多口袋的作战服，适合夜间作战的英国特种空勤团，例如对付一些船上装载着集装箱和伏特加酒的极端民族主义者.</Apparel_SASJumpsuitBlack.description>
+
+
+  <!-- Ghost Jacket -->
+
+  <Apparel_SASGhostOutfit.label>幽灵战术夹克</Apparel_SASGhostOutfit.label>
+  <Apparel_SASGhostOutfit.description>带着战斗裤和印有英国国旗的战术夹克.</Apparel_SASGhostOutfit.description>
+
+
+  <!-- Price Sweater -->
+
+  <Apparel_SASPriceOutfit.label>普莱斯同款突击队外套</Apparel_SASPriceOutfit.label>
+  <Apparel_SASPriceOutfit.description>英国军队的外套，带着战斗裤和印有英国国旗，“到底什么是肥皂？”一个像你这样的布偶是如何通过选拔的，嗯？”</Apparel_SASPriceOutfit.description>
+
+
+  <!-- Soap Outfit -->
+
+  <Apparel_SASSoapOutfit.label>肥皂同款突击队外套</Apparel_SASSoapOutfit.label>
+  <Apparel_SASSoapOutfit.description>有战斗衬衫和印着英国国旗，多姆战斗裤，是布偶的吗？.</Apparel_SASSoapOutfit.description>
+
+
+  <!-- 141 Jacket -->
+
+  <Apparel_SAS141Outfit.label>141特战队战术夹克</Apparel_SAS141Outfit.label>
+  <Apparel_SAS141Outfit.description>多姆战斗裤的战术夹克。141特战队专用</Apparel_SAS141Outfit.description>
+
+
+</LanguageData>

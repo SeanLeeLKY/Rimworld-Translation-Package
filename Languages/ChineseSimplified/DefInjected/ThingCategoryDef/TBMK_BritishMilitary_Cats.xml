@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Clothing Categories -->
+
+  <BritishMilitaryKitCats.label>英国军事装备</BritishMilitaryKitCats.label>
+
+
+  <!-- Army submenu -->
+
+  <BritishArmy_Clothing.label>英国陆军服装</BritishArmy_Clothing.label>
+  <BritishArmy_Armor.label>英国陆军装甲</BritishArmy_Armor.label>
+
+
+  <!-- Marines submenu -->
+
+  <RoyalMarinesCo_Clothing.label>英国皇家海军陆战队服装</RoyalMarinesCo_Clothing.label>
+  <RoyalMarinesCo_Armor.label>英国皇家海军陆战队装甲</RoyalMarinesCo_Armor.label>
+
+
+  <!-- Spec Ops submenu -->
+
+  <BritishSAS_Clothing.label>英国特种部队服装</BritishSAS_Clothing.label>
+  <BritishSAS_Armor.label>英国特种部队装甲</BritishSAS_Armor.label>
+
+
+  <!-- Hat main -->
+
+  <BritishMil_Hats.label>英国陆军帽子</BritishMil_Hats.label>
+
+
+</LanguageData>

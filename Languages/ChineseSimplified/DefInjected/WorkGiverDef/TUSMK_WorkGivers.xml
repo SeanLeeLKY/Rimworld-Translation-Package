@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Do bills at the armorer table -->
+
+  <DoBillsUSArmorerTable.label>在美国军械制作台制作物品</DoBillsUSArmorerTable.label>
+  <DoBillsUSArmorerTable.verb>制作</DoBillsUSArmorerTable.verb>
+  <DoBillsUSArmorerTable.gerund>制作中</DoBillsUSArmorerTable.gerund>
+
+
+  <!-- Do bills at the Expedition Stove -->
+
+  <DoBillsUSMCExpeditionStove.label>在炉具烹调</DoBillsUSMCExpeditionStove.label>
+  <DoBillsUSMCExpeditionStove.verb>烹调</DoBillsUSMCExpeditionStove.verb>
+  <DoBillsUSMCExpeditionStove.gerund>烹调中</DoBillsUSMCExpeditionStove.gerund>
+
+
+</LanguageData>

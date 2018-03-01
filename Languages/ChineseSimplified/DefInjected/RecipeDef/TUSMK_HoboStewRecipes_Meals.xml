@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CookHoboStew.label>烹调马利根炖</CookHoboStew.label>
+  <CookHoboStew.description>烹调一道马利根炖.</CookHoboStew.description>
+  <CookHoboStew.jobString>正在烹调马利根炖.</CookHoboStew.jobString>
+
+  <CookHoboStewBulk.label>烹调马利根炖（X5）</CookHoboStewBulk.label>
+  <CookHoboStewBulk.description>烹调一道马利根炖.（X5）</CookHoboStewBulk.description>
+  <CookHoboStewBulk.jobString>正在烹调马利根炖.（X5）</CookHoboStewBulk.jobString>
+
+
+</LanguageData>

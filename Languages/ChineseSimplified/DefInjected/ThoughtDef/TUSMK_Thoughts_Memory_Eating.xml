@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Basic quality thoughts -->
+
+  <AteArmyMREMeal.stages.0.label>吃USMC作战口粮</AteArmyMREMeal.stages.0.label>
+  <AteArmyMREMeal.stages.0.description>陆军的MREs味道不错，但我真希望它像海军陆战队的MRE，{“敌人也不吃餐”（Meals Rejected By the Enemy，简称 MRE）}.</AteArmyMREMeal.stages.0.description>
+
+  <AteUSMCMREMeal.stages.0.label>吃美军野战个人口粮</AteUSMCMREMeal.stages.0.label>
+  <AteUSMCMREMeal.stages.0.description>红色的那一种味道最好，现在我觉得自己像一个真正的海洋生物。永远忠诚!</AteUSMCMREMeal.stages.0.description>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Do bills at the armorer table -->
+
+  <DoBillsBritishArmorerTable.label>制作军用物品</DoBillsBritishArmorerTable.label>
+  <DoBillsBritishArmorerTable.verb>制作</DoBillsBritishArmorerTable.verb>
+  <DoBillsBritishArmorerTable.gerund>制作，在</DoBillsBritishArmorerTable.gerund>
+
+
+</LanguageData>

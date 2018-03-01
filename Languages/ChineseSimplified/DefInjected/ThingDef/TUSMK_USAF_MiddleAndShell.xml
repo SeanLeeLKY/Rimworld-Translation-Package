@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- PT Belt -->
+
+  <Apparel_USPTBelt.label>PT带</Apparel_USPTBelt.label>
+  <Apparel_USPTBelt.description>不要在没有PT带的情况下出门，你的PT带在哪里？ </Apparel_USPTBelt.description>
+
+
+  <!-- EOD Suit -->
+
+  <Apparel_USAFEODSuit.label>防爆服</Apparel_USAFEODSuit.label>
+  <Apparel_USAFEODSuit.description>爆炸品处理(EOD)套装或防爆服是一套厚重的盔甲，可以抵挡炸弹产生的碎片和冲击波.</Apparel_USAFEODSuit.description>
+
+
+  <!-- IBA Vest -->
+
+  <Apparel_InterceptorVestTan.label>拦截者防弹背心（棕褐色）</Apparel_InterceptorVestTan.label>
+  <Apparel_InterceptorVestTan.description>拦截多威胁体装甲系统(IBA)是一种防弹背心，由美军在上世纪90年代末至21世纪后期使用.</Apparel_InterceptorVestTan.description>
+
+
+  <!-- IBA Vest UCP -->
+
+  <Apparel_InterceptorVestUCP.label>拦截者防弹背心（UCP迷彩）</Apparel_InterceptorVestUCP.label>
+  <Apparel_InterceptorVestUCP.description>拦截多威胁体装甲系统(IBA)是一种防弹背心，由美军在上世纪90年代末至21世纪后期使用.</Apparel_InterceptorVestUCP.description>
+
+  <Apparel_InterceptorVestOCP.label>拦截者防弹背心（OCP迷彩）</Apparel_InterceptorVestOCP.label>
+  <Apparel_InterceptorVestOCP.description>拦截多威胁体装甲系统(IBA)是一种防弹背心，由美军在上世纪90年代末至21世纪后期使用.</Apparel_InterceptorVestOCP.description>
+
+
+  <!-- Interceptor light -->
+
+  <Apparel_InterceptorLightVest.label>拦截者防弹背心（浅切棕褐色）</Apparel_InterceptorLightVest.label>
+  <Apparel_InterceptorLightVest.description>拦截多威胁体装甲系统(IBA)是一种防弹背心，由美军在上世纪90年代末至21世纪后期使用。棕褐色,浅切.</Apparel_InterceptorLightVest.description>
+
+
+  <!-- FORECON light -->
+
+  <Apparel_ReconMarineVest.label>侦察防弹背心（棕褐色）</Apparel_ReconMarineVest.label>
+  <Apparel_ReconMarineVest.description>拦截多威胁体装甲系统（IBA），侦察兵专用.</Apparel_ReconMarineVest.description>
+
+
+  <!-- Ranger IBA -->
+
+  <Apparel_ArmyRangerVestOCP.label>突击防弹背心（OCP迷彩）</Apparel_ArmyRangerVestOCP.label>
+  <Apparel_ArmyRangerVestOCP.description>拦截多威胁体装甲系统（IBA），突击手专用.</Apparel_ArmyRangerVestOCP.description>
+
+
+  <!-- MARSOC Vest -->
+
+  <Apparel_MARSOCVest.label>MARSOC装甲背心</Apparel_MARSOCVest.label>
+  <Apparel_MARSOCVest.description>海军陆战队特种作战团专用的模块化携板背心，适用于特种作战.</Apparel_MARSOCVest.description>
+
+
+  <!-- Navy SEAL Vest -->
+
+  <Apparel_NavySEALVest.label>海豹突击队装甲背心</Apparel_NavySEALVest.label>
+  <Apparel_NavySEALVest.description>你刚才说我是什么？海豹突击队专用的模块化携板背心,适用于特种作战.</Apparel_NavySEALVest.description>
+
+
+  <!-- USMC Parka -->
+
+  <Apparel_USMCApecsForest.label>海军陆战队APECS外套（丛林迷彩）</Apparel_USMCApecsForest.label>
+  <Apparel_USMCApecsForest.description>全环境通用着装系统（APECS），APECS大衣和裤子由带有Gore-seam接缝密封条的Gore-tex材料组成。APECS是自重较轻、体积较小的低噪音的一代产品，陆战队丛林迷彩.</Apparel_USMCApecsForest.description>
+
+  <Apparel_USMCApecsDesert.label>海军陆战队APECS外套（沙漠迷彩）</Apparel_USMCApecsDesert.label>
+  <Apparel_USMCApecsDesert.description>全环境通用着装系统（APECS），APECS大衣和裤子由带有Gore-seam接缝密封条的Gore-tex材料组成。APECS是自重较轻、体积较小的低噪音的一代产品，陆战队沙漠迷彩.</Apparel_USMCApecsDesert.description>
+
+  <Apparel_USMCApecsSnow.label>海军陆战队APECS外套（雪地迷彩）</Apparel_USMCApecsSnow.label>
+  <Apparel_USMCApecsSnow.description>全环境通用着装系统（APECS），APECS大衣和裤子由带有Gore-seam接缝密封条的Gore-tex材料组成。APECS是自重较轻、体积较小的低噪音的一代产品，陆战队雪地迷彩.</Apparel_USMCApecsSnow.description>
+
+
+  <!-- USMC Parka Forest IBA -->
+
+  <Apparel_USMCApecsForestIBA.label>海军陆战队APECS防弹外套（丛林迷彩）</Apparel_USMCApecsForestIBA.label>
+  <Apparel_USMCApecsForestIBA.description>全环境通用着装系统（APECS），这是带防弹背心的陆战队丛林迷彩版大衣.</Apparel_USMCApecsForestIBA.description>
+
+
+  <!-- USMC Parka IBA -->
+
+  <Apparel_USMCApecsDesertIBA.label>海军陆战队APECS防弹外套（沙漠迷彩）</Apparel_USMCApecsDesertIBA.label>
+  <Apparel_USMCApecsDesertIBA.description>全环境通用着装系统（APECS），这是带防弹背心的陆战队沙漠迷彩版大衣.</Apparel_USMCApecsDesertIBA.description>
+
+  <Apparel_USMCApecsSnowIBA.label>海军陆战队APECS防弹外套（雪地迷彩）</Apparel_USMCApecsSnowIBA.label>
+  <Apparel_USMCApecsSnowIBA.description>全环境通用着装系统（APECS），这是带防弹背心的陆战队雪地迷彩版大衣.</Apparel_USMCApecsSnowIBA.description>
+
+
+</LanguageData>

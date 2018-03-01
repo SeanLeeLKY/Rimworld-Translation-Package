@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- US Army UCP -->
+
+  <Apparel_USArmyUCPBDU.label>美国陆军作战服（UCP迷彩）</Apparel_USArmyUCPBDU.label>
+  <Apparel_USArmyUCPBDU.description>美国陆军数字迷彩通用作战服,又称飞行员战斗制服（ACU）.</Apparel_USArmyUCPBDU.description>
+
+
+  <!-- OCP BDU -->
+
+  <Apparel_USArmyOCPBDU.label>美国陆军作战服（OCP迷彩）</Apparel_USArmyOCPBDU.label>
+  <Apparel_USArmyOCPBDU.description>美国陆军数字迷彩通用作战服,又称飞行员战斗制服（ACU）.</Apparel_USArmyOCPBDU.description>
+
+  <Apparel_USRangerOCPBDU.label>游骑兵作战服（OCP迷彩）</Apparel_USRangerOCPBDU.label>
+  <Apparel_USRangerOCPBDU.description>美国陆军数字迷彩通用作战服,又称飞行员战斗制服（ACU），这是游骑兵版.</Apparel_USRangerOCPBDU.description>
+
+
+  <!-- US Marine fatigues -->
+
+  <Apparel_USAFFatiguesOlive.label>美军军服（橄榄色）</Apparel_USAFFatiguesOlive.label>
+  <Apparel_USAFFatiguesOlive.description>美军标准军服.</Apparel_USAFFatiguesOlive.description>
+
+
+</LanguageData>

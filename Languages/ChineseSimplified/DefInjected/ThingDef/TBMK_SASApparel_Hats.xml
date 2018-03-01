@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- boonie hat -->
+
+  <Apparel_SASBoonieHat.label>普莱斯同款奔尼帽</Apparel_SASBoonieHat.label>
+  <Apparel_SASBoonieHat.description>奔尼帽是英语“圆边帽”（boonie hat）的音译，外形类似我们熟悉的礼帽，但是是软的（这是普莱斯同款）.</Apparel_SASBoonieHat.description>
+
+
+  <!-- skull mask -->
+
+  <Apparel_SASGhostMask.label>巴拉克拉法帽（幽灵）</Apparel_SASGhostMask.label>
+  <Apparel_SASGhostMask.description>带有护目镜和军用耳机的幽灵面罩，还有一个骨架设计.</Apparel_SASGhostMask.description>
+
+
+  <!-- SAS mask -->
+
+  <Apparel_SASCSGOMask.label>S10防毒面具（CS）</Apparel_SASCSGOMask.label>
+  <Apparel_SASCSGOMask.description>S10 NBC呼吸器是一种军用防毒面具，在英国武装部队中广泛使用.</Apparel_SASCSGOMask.description>
+
+
+  <!-- SAS hood -->
+
+  <Apparel_SASCSGOHood.label>S10防毒面具（兜帽）</Apparel_SASCSGOHood.label>
+  <Apparel_SASCSGOHood.description>S10 NBC呼吸器是一种军用防毒面具，在英国武装部队中广泛使用，这有兜帽版.</Apparel_SASCSGOHood.description>
+
+  <Apparel_SASDodgyHood.label>S10防毒面具（伪装兜帽）</Apparel_SASDodgyHood.label>
+  <Apparel_SASDodgyHood.description>S10 NBC呼吸器是一种军用防毒面具，在英国武装部队中广泛使用，这是伪装兜帽版.</Apparel_SASDodgyHood.description>
+
+
+  <!-- SAS PASGT -->
+
+  <Apparel_SASPASGTHelmet.label>PASGT头盔（S10防毒面具）</Apparel_SASPASGTHelmet.label>
+  <Apparel_SASPASGTHelmet.description>军用凯夫拉头盔, PASGT 是地面部队的个人装甲系统（Personnel Armor System for Ground Troops）的缩写，这是S10防毒面具版.</Apparel_SASPASGTHelmet.description>
+
+
+  <!-- SAS MICH -->
+
+  <Apparel_SASMICHHelmet.label>模块化通讯头盔（S10防毒面具）</Apparel_SASMICHHelmet.label>
+  <Apparel_SASMICHHelmet.description>模块化通讯头盔是一种经过修改的 PASGT 变形盔，能提供改进的防护性，实用性和舒适性，这是S10防毒面具版.</Apparel_SASMICHHelmet.description>
+
+
+  <!-- SAS Ghost helm -->
+
+  <Apparel_SASGhostHelmet.label>幽灵模块化通讯头盔</Apparel_SASGhostHelmet.label>
+  <Apparel_SASGhostHelmet.description>模块化通讯头盔是一种经过修改的 PASGT 变形盔，能提供改进的防护性，实用性和舒适性，这是骷髅面具版.</Apparel_SASGhostHelmet.description>
+
+
+  <!-- SAS 141 helm -->
+
+  <Apparel_SAS141Helmet.label>141特战队模块化通讯头盔</Apparel_SAS141Helmet.label>
+  <Apparel_SAS141Helmet.description>模块化通讯头盔是一种经过修改的 PASGT 变形盔，能提供改进的防护性，实用性和舒适性，这是141特战队版.</Apparel_SAS141Helmet.description>
+
+  <Apparel_SASnightHelmet.label>夜间模块化个人通讯头盔</Apparel_SASnightHelmet.label>
+  <Apparel_SASnightHelmet.description>模块化通讯头盔是一种经过修改的 PASGT 变形盔，能提供改进的防护性，实用性和舒适性，这是夜间作战版.</Apparel_SASnightHelmet.description>
+
+
+</LanguageData>

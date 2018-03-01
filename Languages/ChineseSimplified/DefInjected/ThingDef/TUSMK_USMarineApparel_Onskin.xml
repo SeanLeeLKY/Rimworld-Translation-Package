@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- US Marine DMARPAT -->
+
+  <Apparel_USMCDesertMARPATBDU.label>海军陆战队BDU（沙漠迷彩）</Apparel_USMCDesertMARPATBDU.label>
+  <Apparel_USMCDesertMARPATBDU.description>（BATTLE DRESS UNIFORM）作战服是美军早期的标准作战服。BDU 属于C级制服（作战服），是比较正式的任务着装.</Apparel_USMCDesertMARPATBDU.description>
+
+  <Apparel_USMCForestMARPATBDU.label>海军陆战队BDU（丛林迷彩）</Apparel_USMCForestMARPATBDU.label>
+  <Apparel_USMCForestMARPATBDU.description>（BATTLE DRESS UNIFORM）作战服是美军早期的标准作战服。BDU 属于C级制服（作战服），是比较正式的任务着装.</Apparel_USMCForestMARPATBDU.description>
+
+  <Apparel_USMCGulfWarBDU.label>海军陆战队BDU（海湾战争迷彩）</Apparel_USMCGulfWarBDU.label>
+  <Apparel_USMCGulfWarBDU.description>（BATTLE DRESS UNIFORM）作战服是美军早期的标准作战服。BDU 属于C级制服（作战服），是比较正式的任务着装.</Apparel_USMCGulfWarBDU.description>
+
+
+  <!-- US Marine FORECON -->
+
+  <Apparel_ReconMarineBDU.label>侦察BDU（丛林迷彩）</Apparel_ReconMarineBDU.label>
+  <Apparel_ReconMarineBDU.description>（BATTLE DRESS UNIFORM）作战服是美军早期的标准作战服。BDU 属于C级制服（作战服），是比较正式的任务着装。侦察兵专用.</Apparel_ReconMarineBDU.description>
+
+
+  <!-- MARSOC -->
+
+  <Apparel_MARSOCBDU.label>MARSOC BDU（M81迷彩）</Apparel_MARSOCBDU.label>
+  <Apparel_MARSOCBDU.description>（BATTLE DRESS UNIFORM）作战服是美军早期的标准作战服。BDU 属于C级制服（作战服），是比较正式的任务着装，海军陆战队特种作战团专用.</Apparel_MARSOCBDU.description>
+
+
+  <!-- US Marine DGreen -->
+
+  <Apparel_USMCDressGreens.label>USMC军常服</Apparel_USMCDressGreens.label>
+  <Apparel_USMCDressGreens.description>海军陆战队军常服。你打电话回家是没用的，乔迪把你的女朋友带走了。感到忧郁是没有用的，乔迪也有你妹妹!</Apparel_USMCDressGreens.description>
+
+
+  <!-- US Marine DBlues -->
+
+  <Apparel_USMCDressBlues.label>USMC军礼服</Apparel_USMCDressBlues.label>
+  <Apparel_USMCDressBlues.description>海军陆战队军礼服或葬礼服。让我穿上一套蓝色的衣服，梳理我的头发，擦亮我的鞋子。把我的奖牌钉在我的胸前，告诉我妈妈我已经尽力了。妈，别哭了，海军陆战队的座右铭是“永远忠诚”.</Apparel_USMCDressBlues.description>
+
+
+</LanguageData>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- LWH Desert -->
+
+  <Apparel_USMMCLWHDesert.label>LWH头盔（沙漠迷彩）</Apparel_USMMCLWHDesert.label>
+  <Apparel_USMMCLWHDesert.description>美国海军陆战队的现役战斗头盔，尽管该款头盔比美国陆军现役的ACH头盔重，但因尺寸较大而得以提供更好的保护，重量也仍比PASGT钢盔轻，使用上也比较舒适.</Apparel_USMMCLWHDesert.description>
+
+
+  <!-- LWH Forest -->
+
+  <Apparel_USMMCLWHForest.label>LWH头盔（丛林迷彩）</Apparel_USMMCLWHForest.label>
+  <Apparel_USMMCLWHForest.description>美国海军陆战队的现役战斗头盔，尽管该款头盔比美国陆军现役的ACH头盔重，但因尺寸较大而得以提供更好的保护，重量也仍比PASGT钢盔轻，使用上也比较舒适.</Apparel_USMMCLWHForest.description>
+
+
+  <!-- LWH Snow -->
+
+  <Apparel_USMMCLWHSnow.label>LWH头盔（雪地迷彩）</Apparel_USMMCLWHSnow.label>
+  <Apparel_USMMCLWHSnow.description>美国海军陆战队的现役战斗头盔，尽管该款头盔比美国陆军现役的ACH头盔重，但因尺寸较大而得以提供更好的保护，重量也仍比PASGT钢盔轻，使用上也比较舒适.</Apparel_USMMCLWHSnow.description>
+
+
+  <!-- LWH Gulf War -->
+
+  <Apparel_USMMCLWHGulf.label>LWH头盔（海湾战争沙漠迷彩）</Apparel_USMMCLWHGulf.label>
+  <Apparel_USMMCLWHGulf.description>美国海军陆战队的现役战斗头盔，尽管该款头盔比美国陆军现役的ACH头盔重，但因尺寸较大而得以提供更好的保护，重量也仍比PASGT钢盔轻，使用上也比较舒适.</Apparel_USMMCLWHGulf.description>
+
+
+  <!-- LWH Desert Gog -->
+
+  <Apparel_USMMCLWHDesertGog.label>LWH头盔（护目镜版沙漠迷彩）</Apparel_USMMCLWHDesertGog.label>
+  <Apparel_USMMCLWHDesertGog.description>美国海军陆战队的现役战斗头盔，尽管该款头盔比美国陆军现役的ACH头盔重，但因尺寸较大而得以提供更好的保护，重量也仍比PASGT钢盔轻，使用上也比较舒适.</Apparel_USMMCLWHDesertGog.description>
+
+
+  <!-- LWH Forest Gog -->
+
+  <Apparel_USMMCLWHForestGog.label>LWH头盔（护目镜版丛林迷彩）</Apparel_USMMCLWHForestGog.label>
+  <Apparel_USMMCLWHForestGog.description>美国海军陆战队的现役战斗头盔，尽管该款头盔比美国陆军现役的ACH头盔重，但因尺寸较大而得以提供更好的保护，重量也仍比PASGT钢盔轻，使用上也比较舒适.</Apparel_USMMCLWHForestGog.description>
+
+
+  <!-- LWH Snow -->
+
+  <Apparel_USMMCLWHSnowGog.label>LWH头盔（护目镜版雪地迷彩）</Apparel_USMMCLWHSnowGog.label>
+  <Apparel_USMMCLWHSnowGog.description>美国海军陆战队的现役战斗头盔，尽管该款头盔比美国陆军现役的ACH头盔重，但因尺寸较大而得以提供更好的保护，重量也仍比PASGT钢盔轻，使用上也比较舒适.</Apparel_USMMCLWHSnowGog.description>
+
+
+  <!-- LWH Gulf War -->
+
+  <Apparel_USMMCLWHGulfGog.label>LWH头盔（护目镜版海湾战争沙漠迷彩）</Apparel_USMMCLWHGulfGog.label>
+  <Apparel_USMMCLWHGulfGog.description>美国海军陆战队的现役战斗头盔，尽管该款头盔比美国陆军现役的ACH头盔重，但因尺寸较大而得以提供更好的保护，重量也仍比PASGT钢盔轻，使用上也比较舒适.</Apparel_USMMCLWHGulfGog.description>
+
+
+  <!-- Army ACH UCP -->
+
+  <Apparel_USArmyHelmetUCP.label>ACH头盔（UCP迷彩）</Apparel_USArmyHelmetUCP.label>
+  <Apparel_USArmyHelmetUCP.description>先进战斗头盔（AdvancedCombatHelmet），简称ACH头盔，是美国陆军的现役战斗头盔，由美国陆军士兵系统中心研发为美国陆军新一代的防护盔，其设计为MICH头盔的衍生.</Apparel_USArmyHelmetUCP.description>
+
+
+  <!-- Army ACH OCP -->
+
+  <Apparel_USArmyHelmetOCP.label>ACH头盔（OCP迷彩）</Apparel_USArmyHelmetOCP.label>
+  <Apparel_USArmyHelmetOCP.description>先进战斗头盔（AdvancedCombatHelmet），简称ACH头盔，是美国陆军的现役战斗头盔，由美国陆军士兵系统中心研发为美国陆军新一代的防护盔，其设计为MICH头盔的衍生.</Apparel_USArmyHelmetOCP.description>
+
+
+  <!-- Army ACH UCP -->
+
+  <Apparel_USArmyHelmetUCPGog.label>ACH头盔（护目镜版UCP迷彩）</Apparel_USArmyHelmetUCPGog.label>
+  <Apparel_USArmyHelmetUCPGog.description>先进战斗头盔（AdvancedCombatHelmet），简称ACH头盔，是美国陆军的现役战斗头盔，由美国陆军士兵系统中心研发为美国陆军新一代的防护盔，其设计为MICH头盔的衍生.</Apparel_USArmyHelmetUCPGog.description>
+
+
+  <!-- Army ACH OCP -->
+
+  <Apparel_USArmyHelmetOCPGog.label>ACH头盔（护目镜版OCP迷彩）</Apparel_USArmyHelmetOCPGog.label>
+  <Apparel_USArmyHelmetOCPGog.description>先进战斗头盔（AdvancedCombatHelmet），简称ACH头盔，是美国陆军的现役战斗头盔，由美国陆军士兵系统中心研发为美国陆军新一代的防护盔，其设计为MICH头盔的衍生.</Apparel_USArmyHelmetOCPGog.description>
+
+
+  <!-- USAF MICH M50 -->
+
+  <Apparel_USArmyM50Helmet.label>M50防毒面具（MICH头盔）</Apparel_USArmyM50Helmet.label>
+  <Apparel_USArmyM50Helmet.description>一种军用防毒面具，能有效防护毒气，配备模块化通讯头盔.</Apparel_USArmyM50Helmet.description>
+
+
+</LanguageData>

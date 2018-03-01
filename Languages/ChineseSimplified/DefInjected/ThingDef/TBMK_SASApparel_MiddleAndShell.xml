@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tactical Harness -->
+
+  <Apparel_SASHarness.label>SAS战术背带</Apparel_SASHarness.label>
+  <Apparel_SASHarness.description>这是女王陛下在削减国防预算的背景下诞生的新型防弹衣.</Apparel_SASHarness.description>
+
+
+  <!-- SAS Smock -->
+
+  <Apparel_SASSmock.label>英国陆军工作服</Apparel_SASSmock.label>
+  <Apparel_SASSmock.description>当阿根廷试图夺取福克兰群岛时，你需要这件夹克.</Apparel_SASSmock.description>
+
+
+  <!-- CSGO Vest -->
+
+  <Apparel_SASCSGOVest.label>SAS战术背心（CSGO）</Apparel_SASCSGOVest.label>
+  <Apparel_SASCSGOVest.description>英国特种空勤团所使用的反恐背心，适用于人质救援行动.</Apparel_SASCSGOVest.description>
+
+
+  <!-- Vest 2 -->
+
+  <Apparel_SASClassicVest.label>SAS经典战术背心</Apparel_SASClassicVest.label>
+  <Apparel_SASClassicVest.description>经典的凯拉夫防弹背心，在模块化装备服役前是英国特种空勤团的标准装备.</Apparel_SASClassicVest.description>
+
+
+  <!-- Vest 3 -->
+
+  <Apparel_SASMW3Vest.label>SAS防弹背心（dodgy）</Apparel_SASMW3Vest.label>
+  <Apparel_SASMW3Vest.description>轻型模块化背心，用于英国特种空勤团的慈善工作（？？？）.</Apparel_SASMW3Vest.description>
+
+
+  <!-- Vest 4 -->
+
+  <Apparel_SASNightVest.label>SAS夜间战术背心</Apparel_SASNightVest.label>
+  <Apparel_SASNightVest.description>轻型模块化背心，英国特种空勤团用于突袭装满了伏特加酒的极端民族主义者的船运集装箱，来窃取核档案.</Apparel_SASNightVest.description>
+
+
+  <!-- 141 Vest -->
+
+  <Apparel_SAS141Vest.label>141特战队防弹背心</Apparel_SAS141Vest.label>
+  <Apparel_SAS141Vest.description>这是141特战队专用的轻型模块化背心</Apparel_SAS141Vest.description>
+
+
+  <!-- Ghost Vest -->
+
+  <Apparel_SASGhostVest.label>幽灵防弹背心</Apparel_SASGhostVest.label>
+  <Apparel_SASGhostVest.description>给那些喜欢不戴头盔的人所使用的轻型模块化背心，因为它看起来更有触感，有骷髅面具.</Apparel_SASGhostVest.description>
+
+
+  <!-- Price Vest -->
+
+  <Apparel_SASPriceVest.label>普莱斯同款防弹背心</Apparel_SASPriceVest.label>
+  <Apparel_SASPriceVest.description>给那些喜欢不戴头盔的人所使用的轻型模块化背心，因为它看起来更有触感，有普莱斯同款的奔尼帽.</Apparel_SASPriceVest.description>
+
+
+  <!-- Soap Vest -->
+
+  <Apparel_SASSoapVest.label>肥皂同款防弹背心</Apparel_SASSoapVest.label>
+  <Apparel_SASSoapVest.description>给那些喜欢不戴头盔的人所使用的轻型模块化背心，因为它看起来更有触感，这是肥皂同款.</Apparel_SASSoapVest.description>
+
+
+</LanguageData>

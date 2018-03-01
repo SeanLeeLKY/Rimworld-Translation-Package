@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Beds MARPAT -->
+
+  <USMCMARPATSleepingBag.label>USMC丛林迷彩军用睡袋</USMCMARPATSleepingBag.label>
+  <USMCMARPATSleepingBag.description>当你想整天拿着我的睡袋跑的时候，你可以唱“right -right-ley-o -o -o -o - o”。森林迷彩保护色。里面有一个woobie毛毯可以额外的舒适，谁还需要其他睡袋?</USMCMARPATSleepingBag.description>
+  <USMCMARPATSleepingBag_Blueprint.label>USMC丛林迷彩军用睡袋（蓝图）</USMCMARPATSleepingBag_Blueprint.label>
+  <USMCMARPATSleepingBag_Blueprint_Install.label>USMC丛林迷彩军用睡袋（蓝图）</USMCMARPATSleepingBag_Blueprint_Install.label>
+  <USMCMARPATSleepingBag_Frame.label>USMC丛林迷彩军用睡袋（建造中）</USMCMARPATSleepingBag_Frame.label>
+  <USMCMARPATSleepingBag_Frame.description>当你想整天拿着我的睡袋跑的时候，你可以唱“right -right-ley-o -o -o -o - o”。森林迷彩保护色。里面有一个woobie毛毯可以额外的舒适，谁还需要其他睡袋?</USMCMARPATSleepingBag_Frame.description>
+
+
+  <!-- Beds OCP -->
+
+  <ArmyOCPSleepingBag.label>美国陆军OCP迷彩军用睡袋</ArmyOCPSleepingBag.label>
+  <ArmyOCPSleepingBag.description>我想整天带着我的睡包，唱：“lo-right-ley-o, left-right-ley-o!” OCP迷彩保护色.</ArmyOCPSleepingBag.description>
+  <ArmyOCPSleepingBag_Blueprint.label>美国陆军OCP迷彩军用睡袋 （蓝图）</ArmyOCPSleepingBag_Blueprint.label>
+  <ArmyOCPSleepingBag_Blueprint_Install.label>美国陆军OCP迷彩军用睡袋 （蓝图）</ArmyOCPSleepingBag_Blueprint_Install.label>
+  <ArmyOCPSleepingBag_Frame.label>美国陆军OCP迷彩军用睡袋 （建造中）</ArmyOCPSleepingBag_Frame.label>
+  <ArmyOCPSleepingBag_Frame.description>我想整天带着我的睡包，唱：“lo-right-ley-o, left-right-ley-o!” OCP迷彩保护色.</ArmyOCPSleepingBag_Frame.description>
+
+
+</LanguageData>
