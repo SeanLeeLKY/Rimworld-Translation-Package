@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- ██████   ██████   ██████  ██████  ███████
+    ██   ██ ██    ██ ██    ██ ██   ██ ██
+    ██   ██ ██    ██ ██    ██ ██████  ███████
+    ██   ██ ██    ██ ██    ██ ██   ██      ██
+    ██████   ██████   ██████  ██   ██ ███████ -->
+
+  <PH_DoorDouble.label>门(1x2)</PH_DoorDouble.label>
+  <PH_DoorDouble.description>能够分隔房间。必须手动打开与关闭，这会降低其通过的效率。</PH_DoorDouble.description>
+
+  <PH_DoorTriple.label>门(1x3)</PH_DoorTriple.label>
+  <PH_DoorTriple.description>能够分隔房间。必须手动打开与关闭，这会降低其通过的效率。</PH_DoorTriple.description>
+
+
+  <!-- ██████ ██    ██ ██████  ████████  █████  ██ ███    ██ ███████
+  ██      ██    ██ ██   ██    ██    ██   ██ ██ ████   ██ ██
+  ██      ██    ██ ██████     ██    ███████ ██ ██ ██  ██ ███████
+  ██      ██    ██ ██   ██    ██    ██   ██ ██ ██  ██ ██      ██
+   ██████  ██████  ██   ██    ██    ██   ██ ██ ██   ████ ███████ -->
+
+  <HeronCurtainTribal.label>门帘(部落风)</HeronCurtainTribal.label>
+  <HeronCurtainTribal.description>能够分隔房间。门帘比标准的门通过的速度要快得多，但是却有着更高的易燃性与更缓慢的隔温效果。</HeronCurtainTribal.description>
+
+
+  <!-- ██████   █████  ████████ ███████ ███████
+  ██       ██   ██    ██    ██      ██
+  ██   ███ ███████    ██    █████   ███████
+  ██    ██ ██   ██    ██    ██           ██
+   ██████  ██   ██    ██    ███████ ███████ -->
+
+  <PH_GateDoubleThick.label>大门(1x2)</PH_GateDoubleThick.label>
+  <PH_GateDoubleThick.description>能够分隔房间。必须手动打开与关闭，这会降低其通过的效率。</PH_GateDoubleThick.description>
+
+
+  <!-- ██████  ██       █████  ███████ ████████     ██████   ██████   ██████  ██████  ███████
+  ██   ██ ██      ██   ██ ██         ██        ██   ██ ██    ██ ██    ██ ██   ██ ██
+  ██████  ██      ███████ ███████    ██        ██   ██ ██    ██ ██    ██ ██████  ███████
+  ██   ██ ██      ██   ██      ██    ██        ██   ██ ██    ██ ██    ██ ██   ██      ██
+  ██████  ███████ ██   ██ ███████    ██        ██████   ██████   ██████  ██   ██ ███████ -->
+
+  <PH_DoorThickBlastDoor.label>防爆门(厚)</PH_DoorThickBlastDoor.label>
+
+
+</LanguageData>
