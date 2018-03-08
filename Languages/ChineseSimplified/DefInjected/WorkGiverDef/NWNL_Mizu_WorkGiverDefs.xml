@@ -3,7 +3,7 @@
 
   <Mizu_DoBillWater.label>取水于取水点</Mizu_DoBillWater.label>
   <Mizu_DoBillWater.verb>取水</Mizu_DoBillWater.verb>
-  <Mizu_DoBillWater.gerund>取水于</Mizu_DoBillWater.gerund>
+  <Mizu_DoBillWater.gerund>取水</Mizu_DoBillWater.gerund>
 
   <Mizu_DoctorFeedWaterHumanlikes.label>给病人喂水</Mizu_DoctorFeedWaterHumanlikes.label>
   <Mizu_DoctorFeedWaterHumanlikes.verb>喂水</Mizu_DoctorFeedWaterHumanlikes.verb>
@@ -14,12 +14,12 @@
   <Mizu_DoctorFeedWaterAnimals.gerund>喂水</Mizu_DoctorFeedWaterAnimals.gerund>
 
   <Mizu_DeliverWaterToPrisoner.label>给囚犯送水</Mizu_DeliverWaterToPrisoner.label>
-  <Mizu_DeliverWaterToPrisoner.verb>送水给</Mizu_DeliverWaterToPrisoner.verb>
-  <Mizu_DeliverWaterToPrisoner.gerund>送水给</Mizu_DeliverWaterToPrisoner.gerund>
+  <Mizu_DeliverWaterToPrisoner.verb>送水</Mizu_DeliverWaterToPrisoner.verb>
+  <Mizu_DeliverWaterToPrisoner.gerund>送水</Mizu_DeliverWaterToPrisoner.gerund>
 
   <Mizu_CleanWater.label>净化水</Mizu_CleanWater.label>
   <Mizu_CleanWater.verb>净化</Mizu_CleanWater.verb>
-  <Mizu_CleanWater.gerund>净化于</Mizu_CleanWater.gerund>
+  <Mizu_CleanWater.gerund>净化</Mizu_CleanWater.gerund>
 
 
 </LanguageData>

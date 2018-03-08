@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_12GaugeCharged.label>制作 12 号径电荷霰弹 x100</MakeAmmo_12GaugeCharged.label>
+  <MakeAmmo_12GaugeCharged.description>制作 100 12号径电荷霰弹。</MakeAmmo_12GaugeCharged.description>
+  <MakeAmmo_12GaugeCharged.jobString>制作 12号径电荷霰弹</MakeAmmo_12GaugeCharged.jobString>
+
+  <MakeAmmo_12GaugeCharged_Slug.label>制作 12 号径电荷霰弹(独头) x100</MakeAmmo_12GaugeCharged_Slug.label>
+  <MakeAmmo_12GaugeCharged_Slug.description>制作 100 12 号径电荷霰弹(独头)</MakeAmmo_12GaugeCharged_Slug.description>
+  <MakeAmmo_12GaugeCharged_Slug.jobString>制作 12号径电荷霰弹(独头)</MakeAmmo_12GaugeCharged_Slug.jobString>
+
+  <MakeAmmo_12GaugeCharged_Ion.label>制作 12 号径电荷霰弹(离子) x100</MakeAmmo_12GaugeCharged_Ion.label>
+  <MakeAmmo_12GaugeCharged_Ion.description>制作 100 12 号径电荷霰弹(离子)</MakeAmmo_12GaugeCharged_Ion.description>
+  <MakeAmmo_12GaugeCharged_Ion.jobString>制作 12 号径电荷霰弹(离子)</MakeAmmo_12GaugeCharged_Ion.jobString>
+
+
+</LanguageData>

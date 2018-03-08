@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_410Bore_Buck.label>.410号径 霰弹 (鹿弹)</Ammo_410Bore_Buck.label>
+  <Ammo_410Bore_Buck.description>常用霰弹中最小的号径。它的粗度跟.45柯尔特弹差不多，但长度明显较长，大概有76mm（3英寸）长。所以一些单发枪与左轮手枪即使没有经过改装也能发射。</Ammo_410Bore_Buck.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_410Bore_Buck.label>.410号径 霰弹 (鹿弹)</Bullet_410Bore_Buck.label>
+
+
+</LanguageData>

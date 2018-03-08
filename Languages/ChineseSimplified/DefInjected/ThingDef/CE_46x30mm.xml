@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_46x30mm_FMJ.label>4.6x30mm 子弹 (全金属被甲弹)</Ammo_46x30mm_FMJ.label>
+  <Ammo_46x30mm_FMJ.description>用于个人防卫的高速手枪子弹。</Ammo_46x30mm_FMJ.description>
+
+  <Ammo_46x30mm_AP.label>4.6x30mm 子弹 (穿甲弹)</Ammo_46x30mm_AP.label>
+  <Ammo_46x30mm_AP.description>用于个人防卫的高速手枪子弹。</Ammo_46x30mm_AP.description>
+
+  <Ammo_46x30mm_HP.label>4.6x30mm 子弹 (空尖弹)</Ammo_46x30mm_HP.label>
+  <Ammo_46x30mm_HP.description>用于个人防卫的高速手枪子弹。</Ammo_46x30mm_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_46x30mm_FMJ.label>4.6x30mm 子弹 (全金属被甲弹)</Bullet_46x30mm_FMJ.label>
+  <Bullet_46x30mm_AP.label>4.6x30mm 子弹 (穿甲弹)</Bullet_46x30mm_AP.label>
+  <Bullet_46x30mm_HP.label>4.6x30mm 子弹 (空尖弹)</Bullet_46x30mm_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_763x25mmMauser_FMJ.label>7.63x25mm 毛瑟子弹 (全金属被甲弹)</Ammo_763x25mmMauser_FMJ.label>
+  <Ammo_763x25mmMauser_FMJ.description>某些特殊手枪使用的子弹。</Ammo_763x25mmMauser_FMJ.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_763x25mmMauser_FMJ.label>7.63mm 毛瑟子弹 (全金属被甲弹)</Bullet_763x25mmMauser_FMJ.label>
+
+
+</LanguageData>

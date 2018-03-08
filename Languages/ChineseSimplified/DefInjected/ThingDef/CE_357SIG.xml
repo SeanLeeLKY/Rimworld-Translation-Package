@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_357SIG_FMJ.label>.357 西格绍尔子弹 (全金属被甲弹)</Ammo_357SIG_FMJ.label>
+  <Ammo_357SIG_FMJ.description>.375口径的自动枪械子弹。</Ammo_357SIG_FMJ.description>
+
+  <Ammo_357SIG_AP.label>.357 西格绍尔子弹 (穿甲弹)</Ammo_357SIG_AP.label>
+  <Ammo_357SIG_AP.description>.375口径的自动枪械子弹。</Ammo_357SIG_AP.description>
+
+  <Ammo_357SIG_HP.label>.357 西格绍尔子弹 (空尖弹)</Ammo_357SIG_HP.label>
+  <Ammo_357SIG_HP.description>.375口径的自动枪械子弹。</Ammo_357SIG_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_357SIG_FMJ.label>.357 西格绍尔子弹 (全金属被甲弹)</Bullet_357SIG_FMJ.label>
+  <Bullet_357SIG_AP.label>.357 西格绍尔子弹 (穿甲弹)</Bullet_357SIG_AP.label>
+  <Bullet_357SIG_HP.label>.357 西格绍尔子弹 (空尖弹)</Bullet_357SIG_HP.label>
+
+
+</LanguageData>

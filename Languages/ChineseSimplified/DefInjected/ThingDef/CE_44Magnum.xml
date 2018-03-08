@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_44Magnum_FMJ.label>.44 马格南子弹 (全金属被甲弹)</Ammo_44Magnum_FMJ.label>
+  <Ammo_44Magnum_FMJ.description>为老式手枪设计的一种弹药。</Ammo_44Magnum_FMJ.description>
+
+  <Ammo_44Magnum_AP.label>.44 马格南子弹 (穿甲弹)</Ammo_44Magnum_AP.label>
+  <Ammo_44Magnum_AP.description>为老式手枪设计的一种弹药。</Ammo_44Magnum_AP.description>
+
+  <Ammo_44Magnum_HP.label>.44 马格南子弹 (空尖弹)</Ammo_44Magnum_HP.label>
+  <Ammo_44Magnum_HP.description>为老式手枪设计的一种弹药。</Ammo_44Magnum_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_44Magnum_FMJ.label>.44 马格南子弹 (全金属被甲弹)</Bullet_44Magnum_FMJ.label>
+  <Bullet_44Magnum_AP.label>.44 马格南子弹 (穿甲弹)</Bullet_44Magnum_AP.label>
+  <Bullet_44Magnum_HP.label>.44 马格南子弹 (空尖弹)</Bullet_44Magnum_HP.label>
+
+
+</LanguageData>

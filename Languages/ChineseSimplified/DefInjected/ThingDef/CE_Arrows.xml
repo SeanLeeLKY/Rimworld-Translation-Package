@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_Arrow_Stone.label>箭 (石)</Ammo_Arrow_Stone.label>
+  <Ammo_Arrow_Stone.description>简单的箭矢，把磨尖的箭头装在木杆上制成。</Ammo_Arrow_Stone.description>
+
+  <Ammo_Arrow_Steel.label>箭 (钢)</Ammo_Arrow_Steel.label>
+  <Ammo_Arrow_Steel.description>简单的箭矢，把磨尖的箭头装在木杆上制成。</Ammo_Arrow_Steel.description>
+
+  <Ammo_Arrow_Plasteel.label>箭 (玻璃钢)</Ammo_Arrow_Plasteel.label>
+  <Ammo_Arrow_Plasteel.description>简单的箭矢，把磨尖的箭头装在木杆上制成。</Ammo_Arrow_Plasteel.description>
+
+
+  <!-- The amount of arrows usable over the ammo lifetime for each resource cost is equal to
+		[r / (1 - x)];
+			x = preExplosionSpawnChance,
+			r = resource cost. -->
+
+  <Projectile_Arrow_Stone.label>箭 (石)</Projectile_Arrow_Stone.label>
+  <Projectile_Arrow_Steel.label>箭 (钢)</Projectile_Arrow_Steel.label>
+  <Projectile_Arrow_Plasteel.label>箭 (玻璃钢)</Projectile_Arrow_Plasteel.label>
+
+
+</LanguageData>

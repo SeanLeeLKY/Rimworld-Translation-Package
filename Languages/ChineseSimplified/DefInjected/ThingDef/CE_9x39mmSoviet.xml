@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_9x39mmSoviet_FMJ.label>9x39mm 苏制子弹 (全金属被甲弹)</Ammo_9x39mmSoviet_FMJ.label>
+  <Ammo_9x39mmSoviet_FMJ.description>短小高速的步枪弹，被广泛应用于多种突击步枪。</Ammo_9x39mmSoviet_FMJ.description>
+
+  <Ammo_9x39mmSoviet_AP.label>9x39mm 苏制子弹 (穿甲弹)</Ammo_9x39mmSoviet_AP.label>
+  <Ammo_9x39mmSoviet_AP.description>短小高速的步枪弹，被广泛应用于多种突击步枪。</Ammo_9x39mmSoviet_AP.description>
+
+  <Ammo_9x39mmSoviet_HP.label>9x39mm 苏制子弹 (空尖弹)</Ammo_9x39mmSoviet_HP.label>
+  <Ammo_9x39mmSoviet_HP.description>短小高速的步枪弹，被广泛应用于多种突击步枪。</Ammo_9x39mmSoviet_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_9x39mmSoviet_FMJ.label>9mm 苏制子弹 (全金属被甲弹)</Bullet_9x39mmSoviet_FMJ.label>
+  <Bullet_9x39mmSoviet_AP.label>9mm 苏制子弹 (穿甲弹)</Bullet_9x39mmSoviet_AP.label>
+  <Bullet_9x39mmSoviet_HP.label>9mm 苏制子弹 (空尖弹)</Bullet_9x39mmSoviet_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_84x246mmR_HEAT.label>制作 84x246mmR 破甲弹 x5</MakeAmmo_84x246mmR_HEAT.label>
+  <MakeAmmo_84x246mmR_HEAT.description>制作 5 84x246mmR 破甲弹</MakeAmmo_84x246mmR_HEAT.description>
+  <MakeAmmo_84x246mmR_HEAT.jobString>制作 84x246mmR 破甲弹.</MakeAmmo_84x246mmR_HEAT.jobString>
+
+  <MakeAmmo_84x246mmR_HE.label>制作 84x246mmR 高爆弹 x5</MakeAmmo_84x246mmR_HE.label>
+  <MakeAmmo_84x246mmR_HE.description>制作 5 84x246mmR 高爆弹</MakeAmmo_84x246mmR_HE.description>
+  <MakeAmmo_84x246mmR_HE.jobString>制作 84x246mmR 高爆弹</MakeAmmo_84x246mmR_HE.jobString>
+
+
+</LanguageData>

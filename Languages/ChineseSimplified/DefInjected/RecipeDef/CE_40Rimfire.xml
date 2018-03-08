@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_40Rimfire.label>制作 .40 凸缘式底火子弹 x500</MakeAmmo_40Rimfire.label>
+  <MakeAmmo_40Rimfire.description>正在制作 .40 凸缘式底火子弹 x500</MakeAmmo_40Rimfire.description>
+  <MakeAmmo_40Rimfire.jobString>正在制作 .40 凸缘式底火子弹。</MakeAmmo_40Rimfire.jobString>
+
+
+</LanguageData>

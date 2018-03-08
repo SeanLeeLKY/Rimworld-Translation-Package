@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_SlingBullet_Stone.label>投索弹 (石)</Ammo_SlingBullet_Stone.label>
+  <Ammo_SlingBullet_Stone.description>完美契合适合投石索的石质或金属材质弹药。</Ammo_SlingBullet_Stone.description>
+
+  <Ammo_SlingBullet_Steel.label>投索弹 (钢)</Ammo_SlingBullet_Steel.label>
+  <Ammo_SlingBullet_Steel.description>完美契合适合投石索的石质或金属材质弹药。</Ammo_SlingBullet_Steel.description>
+
+  <Ammo_SlingBullet_Plasteel.label>投索弹 (玻璃钢)</Ammo_SlingBullet_Plasteel.label>
+  <Ammo_SlingBullet_Plasteel.description>完美契合适合投石索的石质或金属材质弹药。</Ammo_SlingBullet_Plasteel.description>
+
+
+  <!-- The amount of arrows usable over the ammo lifetime for each resource cost is equal to
+		[r / (1 - x)];
+			x = preExplosionSpawnChance,
+			r = resource cost. -->
+
+  <Projectile_SlingBullet_Stone.label>投索弹 (石)</Projectile_SlingBullet_Stone.label>
+  <Projectile_SlingBullet_Steel.label>投索弹 (钢)</Projectile_SlingBullet_Steel.label>
+  <Projectile_SlingBullet_Plasteel.label>投索弹 (玻璃钢)</Projectile_SlingBullet_Plasteel.label>
+
+
+</LanguageData>

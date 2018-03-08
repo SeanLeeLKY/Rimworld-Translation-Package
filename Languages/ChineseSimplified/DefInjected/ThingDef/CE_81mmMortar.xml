@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Need to override 迫击炮弹 because of hardcoded vanilla references -->
+
+  <Shell_HighExplosive.label>81mm 迫击炮弹 (高爆)</Shell_HighExplosive.label>
+  <Shell_HighExplosive.description>81mm迫击炮使用的炮弹。</Shell_HighExplosive.description>
+
+  <Shell_Incendiary.label>81mm 迫击炮弹 (燃烧)</Shell_Incendiary.label>
+  <Shell_Incendiary.description>81mm迫击炮使用的炮弹。</Shell_Incendiary.description>
+
+  <Shell_EMP.label>81mm 迫击炮弹 (EMP)</Shell_EMP.label>
+  <Shell_EMP.description>81mm迫击炮使用的炮弹。</Shell_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_81mmMortarShell_HE.label>81mm 迫击炮弹 (高爆)</Bullet_81mmMortarShell_HE.label>
+  <Bullet_81mmMortarShell_Incendiary.label>81mm 迫击炮弹 (燃烧)</Bullet_81mmMortarShell_Incendiary.label>
+  <Bullet_81mmMortarShell_EMP.label>81mm 迫击炮弹 (EMP)</Bullet_81mmMortarShell_EMP.label>
+
+
+</LanguageData>

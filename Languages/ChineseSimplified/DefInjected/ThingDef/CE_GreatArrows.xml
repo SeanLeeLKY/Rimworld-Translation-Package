@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_GreatArrow_Stone.label>重箭 (石)</Ammo_GreatArrow_Stone.label>
+  <Ammo_GreatArrow_Stone.description>用长弓发射的重箭。</Ammo_GreatArrow_Stone.description>
+
+  <Ammo_GreatArrow_Steel.label>重箭 (钢铁)</Ammo_GreatArrow_Steel.label>
+  <Ammo_GreatArrow_Steel.description>用长弓发射的重箭。</Ammo_GreatArrow_Steel.description>
+
+  <Ammo_GreatArrow_Plasteel.label>重箭 (玻璃钢)</Ammo_GreatArrow_Plasteel.label>
+  <Ammo_GreatArrow_Plasteel.description>用长弓发射的重箭。</Ammo_GreatArrow_Plasteel.description>
+
+
+  <!-- The amount of arrows usable over the ammo lifetime for each resource cost is equal to
+		[r / (1 - x)];
+			x = preExplosionSpawnChance,
+			r = resource cost. -->
+
+  <Projectile_GreatArrow_Stone.label>重箭 (石)</Projectile_GreatArrow_Stone.label>
+  <Projectile_GreatArrow_Steel.label>重箭 (钢铁)</Projectile_GreatArrow_Steel.label>
+  <Projectile_GreatArrow_Plasteel.label>重箭 (玻璃钢)</Projectile_GreatArrow_Plasteel.label>
+
+
+</LanguageData>

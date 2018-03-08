@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <CE_Launchers.label>CE：简易发射器</CE_Launchers.label>
+  <CE_Launchers.description>允许你制造基本的榴弹以及火箭发射器。</CE_Launchers.description>
+
+  <CE_AdvancedLaunchers.label>CE：先进发射器</CE_AdvancedLaunchers.label>
+  <CE_AdvancedLaunchers.description>允许你制造更加先进的发射器，例如燃烧弹发射器，末日火箭发射器和三重火箭发射器等。</CE_AdvancedLaunchers.description>
+
+
+</LanguageData>

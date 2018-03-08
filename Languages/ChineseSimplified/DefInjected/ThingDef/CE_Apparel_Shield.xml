@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Apparel_MeleeShield.label>肉搏护盾</Apparel_MeleeShield.label>
+  <Apparel_MeleeShield.description>一个简单的盾牌，对投射武器和近战武器提供额外的防护力。</Apparel_MeleeShield.description>
+
+  <Apparel_BallisticShield.label>防弹盾牌</Apparel_BallisticShield.label>
+  <Apparel_BallisticShield.description>一种用来防御炮火的厚重盾牌。它可以覆盖持有者的大部分身体，但无法使用双手武器。使用它会让人物看起来很笨拙。</Apparel_BallisticShield.description>
+
+
+</LanguageData>

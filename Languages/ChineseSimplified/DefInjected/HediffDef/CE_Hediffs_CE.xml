@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Global -->
+
+  <MuscleSpasms.label>肌肉痉挛</MuscleSpasms.label>
+  <MuscleSpasms.stages.0.label>无碍</MuscleSpasms.stages.0.label>
+  <MuscleSpasms.stages.1.label>轻度</MuscleSpasms.stages.1.label>
+  <MuscleSpasms.stages.2.label>较重</MuscleSpasms.stages.2.label>
+  <MuscleSpasms.stages.3.label>很重</MuscleSpasms.stages.3.label>
+  <MuscleSpasms.stages.4.label>极重</MuscleSpasms.stages.4.label>
+
+  <PrometheumSoaked.label>普罗米休姆浸入</PrometheumSoaked.label>
+  <PrometheumSoaked.stages.0.label>轻度</PrometheumSoaked.stages.0.label>
+  <PrometheumSoaked.stages.1.label>浸染</PrometheumSoaked.stages.1.label>
+  <PrometheumSoaked.stages.2.label>浸湿</PrometheumSoaked.stages.2.label>
+  <PrometheumSoaked.stages.3.label>浸透</PrometheumSoaked.stages.3.label>
+
+
+  <!-- Injuries -->
+
+ <ElectricalBurn.label>电烧伤</ElectricalBurn.label>
+
+  <Blast.label>炸伤</Blast.label>
+  <Blast.comps.0.labelTendedWell>已包扎</Blast.comps.0.labelTendedWell>
+  <Blast.comps.0.labelTendedWellInner>已缝合</Blast.comps.0.labelTendedWellInner>
+  <Blast.comps.0.labelSolidTendedWell>已固定</Blast.comps.0.labelSolidTendedWell>
+  <Blast.comps.2.oldLabel>炸伤疤痕</Blast.comps.2.oldLabel>
+  <Blast.comps.2.instantlyOldLabel>永久性损伤</Blast.comps.2.instantlyOldLabel>
+  <Blast.injuryProps.destroyedLabel>被撕裂</Blast.injuryProps.destroyedLabel>
+  <Blast.injuryProps.destroyedOutLabel>被撕去</Blast.injuryProps.destroyedOutLabel>
+
+
+</LanguageData>

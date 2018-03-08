@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught in modal dialogs -->
+
+  <CE_AmmoSettings.label>弹药系统设置变更</CE_AmmoSettings.label>
+  <CE_AmmoSettings.helpText>警告： 你改变了弹药系统的设置！！！。强烈推荐你重新开档以应用新的设置。\n\n在已有的存档里改变弹药系统设置是非常不明智的，因为有可能造成存档损坏，如果你真的这么做了，请自负后果。</CE_AmmoSettings.helpText>
+
+
+</LanguageData>

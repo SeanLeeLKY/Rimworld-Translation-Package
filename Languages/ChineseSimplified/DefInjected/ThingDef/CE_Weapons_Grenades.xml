@@ -1,11 +1,40 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<Proj_GrenadeFlashbang.label>闪光手榴弹</Proj_GrenadeFlashbang.label>
+  <!-- Flashbang grenade -->
 
-	<Weapon_GrenadeFlashbang.label>闪光手榴弹</Weapon_GrenadeFlashbang.label>
+  <Proj_GrenadeFlashbang.label>闪光手榴弹</Proj_GrenadeFlashbang.label>
 
-	<Weapon_GrenadeFlashbang.description>爆炸时，伴随著巨大的声响或者闪光，使到爆炸范围内的敌人即时短暂盲聋，从而丧失反抗能力。</Weapon_GrenadeFlashbang.description>
+  <Weapon_GrenadeFlashbang.label>闪光手榴弹</Weapon_GrenadeFlashbang.label>
+  <Weapon_GrenadeFlashbang.description>爆炸时，伴随著巨大的声响或者闪光，使到爆炸范围内的敌人即时短暂盲聋，从而丧失反抗能力。</Weapon_GrenadeFlashbang.description>
+  <Weapon_GrenadeFlashbang.verbs.0.label>投掷闪光手榴弹</Weapon_GrenadeFlashbang.verbs.0.label>
+
+
+  <!-- Stick bomb -->
+
+  <Proj_GrenadeStickBomb.label>木柄炸弹</Proj_GrenadeStickBomb.label>
+
+  <Weapon_GrenadeStickBomb.label>木柄炸弹</Weapon_GrenadeStickBomb.label>
+  <Weapon_GrenadeStickBomb.description>原始的燃烧式引信炸弹。原始部落的成员喜欢用这种武器对付科技程度比他们高并且身着重甲的敌人。</Weapon_GrenadeStickBomb.description>
+  <Weapon_GrenadeStickBomb.verbs.0.label>投掷木柄炸弹</Weapon_GrenadeStickBomb.verbs.0.label>
+
+
+  <!-- Smoke grenade -->
+
+  <Proj_GrenadeSmoke.label>烟雾弹</Proj_GrenadeSmoke.label>
+
+  <Weapon_GrenadeSmoke.label>烟雾弹</Weapon_GrenadeSmoke.label>
+  <Weapon_GrenadeSmoke.description>产生大量防御性浓烟，对于瞄准你的敌人有巨大影响。</Weapon_GrenadeSmoke.description>
+  <Weapon_GrenadeSmoke.verbs.0.label>投掷烟雾弹</Weapon_GrenadeSmoke.verbs.0.label>
+
+
+  <!-- Firefoam grenade -->
+
+  <Proj_GrenadeFirefoam.label>灭火弹</Proj_GrenadeFirefoam.label>
+
+  <Weapon_GrenadeFirefoam.label>灭火弹</Weapon_GrenadeFirefoam.label>
+  <Weapon_GrenadeFirefoam.description>特制的灭火弹。命中目标时会释放大量灭火泡沫。</Weapon_GrenadeFirefoam.description>
+  <Weapon_GrenadeFirefoam.verbs.0.label>投掷灭火弹</Weapon_GrenadeFirefoam.verbs.0.label>
 
 
 </LanguageData>

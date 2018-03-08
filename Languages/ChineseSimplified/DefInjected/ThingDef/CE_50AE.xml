@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_50AE_FMJ.label>.50 AE 子弹 (全金属被甲弹)</Ammo_50AE_FMJ.label>
+  <Ammo_50AE_FMJ.description>大口径高威力的手枪子弹类型。</Ammo_50AE_FMJ.description>
+
+  <Ammo_50AE_HP.label>.50 AE 子弹 (空尖弹)</Ammo_50AE_HP.label>
+  <Ammo_50AE_HP.description>大口径高威力的手枪子弹类型。</Ammo_50AE_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_50AE_FMJ.label>.50 AE 子弹 (全金属被甲弹)</Bullet_50AE_FMJ.label>
+  <Bullet_50AE_HP.label>.50 AE 子弹 (空尖弹)</Bullet_50AE_HP.label>
+
+
+</LanguageData>

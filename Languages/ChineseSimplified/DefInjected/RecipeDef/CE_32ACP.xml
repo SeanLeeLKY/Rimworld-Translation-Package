@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_32ACP_FMJ.label>制作 .32 ACP 手枪弹 x500</MakeAmmo_32ACP_FMJ.label>
+  <MakeAmmo_32ACP_FMJ.description>正在制作 .32 ACP 手枪弹 x500</MakeAmmo_32ACP_FMJ.description>
+  <MakeAmmo_32ACP_FMJ.jobString>正在制作 .32 ACP 手枪弹。</MakeAmmo_32ACP_FMJ.jobString>
+
+
+</LanguageData>

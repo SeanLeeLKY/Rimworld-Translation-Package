@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_545x39mmSoviet_FMJ.label>5.45x39mm 苏制子弹 (全金属被甲弹)</Ammo_545x39mmSoviet_FMJ.label>
+  <Ammo_545x39mmSoviet_FMJ.description>短小精悍，高初速的步枪子弹。</Ammo_545x39mmSoviet_FMJ.description>
+
+  <Ammo_545x39mmSoviet_AP.label>5.45x39mm 苏制子弹 (穿甲弹)</Ammo_545x39mmSoviet_AP.label>
+  <Ammo_545x39mmSoviet_AP.description>短小精悍，高初速的步枪子弹。</Ammo_545x39mmSoviet_AP.description>
+
+  <Ammo_545x39mmSoviet_HP.label>5.45x39mm 苏制子弹 (空尖弹)</Ammo_545x39mmSoviet_HP.label>
+  <Ammo_545x39mmSoviet_HP.description>短小精悍，高初速的步枪子弹。</Ammo_545x39mmSoviet_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_545x39mmSoviet_FMJ.label>5.45mm 苏制子弹 (全金属被甲弹)</Bullet_545x39mmSoviet_FMJ.label>
+  <Bullet_545x39mmSoviet_AP.label>5.45mm 苏制子弹 (穿甲弹)</Bullet_545x39mmSoviet_AP.label>
+  <Bullet_545x39mmSoviet_HP.label>5.45mm 苏制子弹 (空尖弹)</Bullet_545x39mmSoviet_HP.label>
+
+
+</LanguageData>

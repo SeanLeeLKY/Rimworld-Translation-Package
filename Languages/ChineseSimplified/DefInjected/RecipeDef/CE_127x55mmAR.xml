@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_127x55mmAR_FMJ.label>制作 12.7x55mm AR 子弹(全金属被甲弹) x350</MakeAmmo_127x55mmAR_FMJ.label>
+  <MakeAmmo_127x55mmAR_FMJ.description>制作 350 12.7x55mm AR 子弹(全金属被甲弹)</MakeAmmo_127x55mmAR_FMJ.description>
+  <MakeAmmo_127x55mmAR_FMJ.jobString>制作 12.7x55mm AR 子弹(全金属被甲弹)</MakeAmmo_127x55mmAR_FMJ.jobString>
+
+  <MakeAmmo_127x55mmAR_AP.label>制作 12.7x55mm AR 子弹(穿甲弹) x350</MakeAmmo_127x55mmAR_AP.label>
+  <MakeAmmo_127x55mmAR_AP.description>制作 350 12.7x55mm AR 子弹(穿甲弹)</MakeAmmo_127x55mmAR_AP.description>
+  <MakeAmmo_127x55mmAR_AP.jobString>制作 12.7x55mm AR 子弹(穿甲弹)</MakeAmmo_127x55mmAR_AP.jobString>
+
+  <MakeAmmo_127x55mmAR_HP.label>制作 12.7x55mm AR 子弹(空尖弹) x350</MakeAmmo_127x55mmAR_HP.label>
+  <MakeAmmo_127x55mmAR_HP.description>制作 350 12.7x55mm AR 子弹(空尖弹)</MakeAmmo_127x55mmAR_HP.description>
+  <MakeAmmo_127x55mmAR_HP.jobString>制作 12.7x55mm AR 子弹(空尖弹)</MakeAmmo_127x55mmAR_HP.jobString>
+
+
+</LanguageData>

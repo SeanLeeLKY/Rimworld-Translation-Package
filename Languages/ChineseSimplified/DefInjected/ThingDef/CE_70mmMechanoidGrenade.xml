@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_70mmMechanoidGrenade_HE.label>70mm 机械榴弹 (高爆)</Ammo_70mmMechanoidGrenade_HE.label>
+  <Ammo_70mmMechanoidGrenade_HE.description>低速高爆的一种榴弹。</Ammo_70mmMechanoidGrenade_HE.description>
+
+  <Ammo_70mmMechanoidGrenade_EMP.label>70mm 机械榴弹 (EMP)</Ammo_70mmMechanoidGrenade_EMP.label>
+  <Ammo_70mmMechanoidGrenade_EMP.description>低速高爆的一种榴弹。</Ammo_70mmMechanoidGrenade_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_70mmMechanoidGrenade_HE.label>70mm 机械榴弹 (高爆)</Bullet_70mmMechanoidGrenade_HE.label>
+  <Bullet_70mmMechanoidGrenade_EMP.label>70mm 机械榴弹 (EMP)</Bullet_70mmMechanoidGrenade_EMP.label>
+
+
+</LanguageData>

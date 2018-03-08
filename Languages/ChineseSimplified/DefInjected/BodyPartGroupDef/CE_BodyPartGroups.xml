@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <CoveredByNaturalArmor.label>被自然盔甲覆盖</CoveredByNaturalArmor.label>
+  <LeftArm.label>左臂</LeftArm.label>
+  <RightArm.label>右臂</RightArm.label>
+
+  <!-- melee weapon attack tools -->
+
+  <Base.label>基础</Base.label>
+  <Blade.label>刃</Blade.label>
+  <Edge.label>锋</Edge.label>
+  <Handle.label>柄</Handle.label>
+  <Head.label>尖</Head.label>
+  <!--[Core] <Neck.label>颈部</Neck.label>-->
+  <Point.label>削</Point.label>
+  <Shaft.label>轴</Shaft.label>
+
+
+  <!-- ranged weapon bashing tools -->
+
+  <Barrel.label>枪管</Barrel.label>
+  <Muzzle.label>枪口</Muzzle.label>
+  <Barrels.label>枪管</Barrels.label>
+  <Grip.label>握把</Grip.label>
+  <Magazine.label>弹匣</Magazine.label>
+  <Stock.label>备件</Stock.label>
+
+
+  <!-- natural melee dummies -->
+
+  <FrontLeftLeg_2.label>左前腿</FrontLeftLeg_2.label>
+  <FrontRightLeg_2.label>右前腿</FrontRightLeg_2.label>
+  <TuskAttackTool_2.label>獠牙</TuskAttackTool_2.label>
+  <HornAttackTool_2.label>角</HornAttackTool_2.label>
+
+
+</LanguageData>

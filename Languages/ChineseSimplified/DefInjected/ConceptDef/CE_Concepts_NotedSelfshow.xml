@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Concepts taught through the learning readout, with no opportunity needed -->
+
+  <CE_InventoryWeightBulk.label>CE: 质量和体积</CE_InventoryWeightBulk.label>
+  <CE_InventoryWeightBulk.helpText>你可以命令人物将物品捡起来并存放在身上。每个人物能背负的所有物品总质量和总体积是有限度的。\n\n总携带质量与人物的移动速度息息相关，人物携带的东西越重，他们的移动速度降低比例就越高。\n\n而携带体积表示的是人物身上背负东西的总体积，这个数值可以通过装备背包、战术背心等装备来提高。人物背负的东西越多，他们工作速度就越慢，所以，要养成平时只在人物身上装备必要物品的习惯。\n\n你可以选择一个人物，点击装备按钮，可以检视人物身上的装备和背负的所有物品，以及相关的数据信息。\n\n如果想让人物拾取特定的东西，只需要选择人物，然后右键点击相应的物品，选择“拾取”相关的条目即可。</CE_InventoryWeightBulk.helpText>
+
+  <CE_Loadouts.label>CE: 装备管理</CE_Loadouts.label>
+  <CE_Loadouts.helpText>你可以给人物分配一个装备计划，这样他们就会自动的装备某些物品，以免除繁琐的“微操作”。例如，你可以通过装备管理操作来控制人物的弹药携带量，这样每次战斗过后，人物就会自动拾取一定数量的可用弹药以保障武器能正常使用。\n\n点击管制按钮然后选择“装备管理”。然后创建一个装备计划，选择你期望品质的武器、弹药、食物以及医药等等，当把计划应用到人物后，你将看到人物会自动按照你的设定要求拾取相应的物品并武装自己。</CE_Loadouts.helpText>
+
+  <CE_AmmoCrafting.label>CE: 弹药制造</CE_AmmoCrafting.label>
+  <CE_AmmoCrafting.helpText>想要在边缘世界好好生存，至关重要的一点就是确保你的殖民地拥有充足的弹药供应。简易的石头箭矢可以通过粗略加工得到，但是这样的弹药在面对稍有防护的敌人时用处很小。\n\n在研究了锻造科技之后，钢质或者玻璃钢质的箭矢能够给你提供更强的攻击力。\n\n研究了“机械加工”后，你就可以建造弹药工作台，这时候就可以为大部分的枪支制造弹药了。当然，炮弹和榴弹也需要用机械加工台制作。\n\n大部分的基本类型弹药可以只用基础材料来制作，材料的消耗量也非常少，不过一些高级弹药就需要一些比如零部件、FSX燃剂或者神焰燃剂等特殊材料。</CE_AmmoCrafting.helpText>
+
+  <CE_ObtainingFSX.label>CE: 如何获取FSX</CE_ObtainingFSX.label>
+  <CE_ObtainingFSX.helpText>FSX一种烈性炸药物质，也是诸如破片榴弹、迫击炮弹战斗部的主要成分。你可以通过商队贸易来得到FSX，还可以通过驯养爆炸鼠和爆炸羊来收获这种化学物质。\n\n一旦你驯养了足够的这类动物，你就有了一条来源稳定的FSX“生产线”，从这些动物身上收获FSX就像挤奶剪毛一样简单。\n\n选择动物后，你可以在左下角的信息面板里看见产物进度。</CE_ObtainingFSX.helpText>
+
+  <CE_ObtainingPrometheum.label>CE: 如何获取神焰燃剂</CE_ObtainingPrometheum.label>
+  <CE_ObtainingPrometheum.helpText>神焰燃剂作为一种极易燃烧的烈性燃剂被广泛的使用在各种燃烧武器中，最常见的有燃烧迫击炮弹、穿甲燃烧弹（AP-I）以及莫洛托夫燃烧瓶等武器。它是从一种叫做焰球草（也叫作火焰球根）的植物中获取的液态物质。 \n\n种植焰球草和种植普通作物一样，选择一块合适的地方作为种植区，然后就可以开始培育了。\n\n郑重提示: 焰球草是一种非常脆弱也非常敏感的植物，它们对环境温度要求近乎苛刻，当温度高于28°C/82F的时候，焰球草会受到不可逆的损伤，并且泄露大量的神焰燃剂，这个温度下接触到空气的神焰燃剂会迅速自然，其后果可以想象。\n\n如果你要种植这种作物的话，一定要确保种植环境恒定在适宜的温度，还要做好各种防火措施，否则一个不小心，你就等着这里变成人间地狱吧！</CE_ObtainingPrometheum.helpText>
+
+  <CE_CentipedeArmor.label>CE: 与机械族作战</CE_CentipedeArmor.label>
+  <CE_CentipedeArmor.helpText>警告：对于机械族来说，它们注意到你并且过来消灭你只是时间问题而已。特别是某些重型机械族敌人，轻型武器很难穿透它们的护甲并造成伤害。\n\n与机械族作战的话，你最好使用某些大口径重型机枪或者强力爆炸物。如果你想好好的生存下去，在基地里面常备一些这种武器是非常有必要的。</CE_CentipedeArmor.helpText>
+
+
+</LanguageData>

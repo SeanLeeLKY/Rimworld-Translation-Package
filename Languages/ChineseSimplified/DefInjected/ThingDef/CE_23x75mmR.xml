@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_23x75mmR_Buck.label>23x75mmR 子弹 (鹿弹)</Ammo_23x75mmR_Buck.label>
+  <Ammo_23x75mmR_Buck.description>KS-23霰弹枪使用的独特弹药类型。</Ammo_23x75mmR_Buck.description>
+
+  <Ammo_23x75mmR_Slug.label>23x75mmR 子弹 (独头)</Ammo_23x75mmR_Slug.label>
+  <Ammo_23x75mmR_Slug.description>KS-23霰弹枪使用的独特弹药类型。</Ammo_23x75mmR_Slug.description>
+
+  <Ammo_23x75mmR_Beanbag.label>23x75mmR 子弹 (豆弹)</Ammo_23x75mmR_Beanbag.label>
+  <Ammo_23x75mmR_Beanbag.description>KS-23霰弹枪使用的独特弹药类型。</Ammo_23x75mmR_Beanbag.description>
+
+  <Ammo_23x75mmR_ElectroSlug.label>23x75mmR 子弹 (EMP)</Ammo_23x75mmR_ElectroSlug.label>
+  <Ammo_23x75mmR_ElectroSlug.description>KS-23霰弹枪使用的独特弹药类型。</Ammo_23x75mmR_ElectroSlug.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_23x75mmR_Buck.label>鹿弹</Bullet_23x75mmR_Buck.label>
+  <Bullet_23x75mmR_Slug.label>独头弹</Bullet_23x75mmR_Slug.label>
+  <Bullet_23x75mmR_Beanbag.label>豆弹</Bullet_23x75mmR_Beanbag.label>
+  <Bullet_23x75mmR_ElectroSlug.label>EMP弹</Bullet_23x75mmR_ElectroSlug.label>
+
+
+</LanguageData>

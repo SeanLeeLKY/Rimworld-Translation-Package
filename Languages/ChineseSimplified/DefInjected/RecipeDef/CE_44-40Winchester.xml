@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_44-40Winchester_FMJ.label>制作 .44-40 温彻斯特子弹(全金属被甲弹) x500</MakeAmmo_44-40Winchester_FMJ.label>
+  <MakeAmmo_44-40Winchester_FMJ.description>制作 500 .44-40 温彻斯特子弹(全金属被甲弹)</MakeAmmo_44-40Winchester_FMJ.description>
+  <MakeAmmo_44-40Winchester_FMJ.jobString>制作 .44-40 温彻斯特子弹(全金属被甲弹)</MakeAmmo_44-40Winchester_FMJ.jobString>
+
+
+</LanguageData>

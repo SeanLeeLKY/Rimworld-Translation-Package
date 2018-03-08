@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_25x40mmGrenade_HE.label>25mm 榴弹 (高爆)</Ammo_25x40mmGrenade_HE.label>
+  <Ammo_25x40mmGrenade_HE.description>肩扛式榴弹发射器专用弹药。</Ammo_25x40mmGrenade_HE.description>
+
+  <Ammo_25x40mmGrenade_EMP.label>25mm 榴弹 (EMP)</Ammo_25x40mmGrenade_EMP.label>
+  <Ammo_25x40mmGrenade_EMP.description>肩扛式榴弹发射器专用弹药。</Ammo_25x40mmGrenade_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_25x40mmGrenade_HE.label>25mm 榴弹</Bullet_25x40mmGrenade_HE.label>
+  <Bullet_25x40mmGrenade_EMP.label>25mm 榴弹</Bullet_25x40mmGrenade_EMP.label>
+
+
+</LanguageData>

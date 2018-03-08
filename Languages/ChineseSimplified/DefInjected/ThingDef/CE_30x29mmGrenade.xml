@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_30x29mmGrenade_HE.label>30x29mm 榴弹 (高爆)</Ammo_30x29mmGrenade_HE.label>
+  <Ammo_30x29mmGrenade_HE.description>相对较小的低速榴弹，用于榴弹发射器。</Ammo_30x29mmGrenade_HE.description>
+
+  <Ammo_30x29mmGrenade_EMP.label>30x29mm 榴弹 (EMP)</Ammo_30x29mmGrenade_EMP.label>
+  <Ammo_30x29mmGrenade_EMP.description>相对较小的低速榴弹，用于榴弹发射器。</Ammo_30x29mmGrenade_EMP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_30x29mmGrenade_HE.label>30x29mm 榴弹 (高爆)</Bullet_30x29mmGrenade_HE.label>
+  <Bullet_30x29mmGrenade_EMP.label>30x29mm 榴弹 (EMP)</Bullet_30x29mmGrenade_EMP.label>
+
+
+</LanguageData>

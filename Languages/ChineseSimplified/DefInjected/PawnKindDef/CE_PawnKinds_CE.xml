@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MercenaryMachineGunner.label>雇佣兵机枪手</MercenaryMachineGunner.label>
+  <MercenaryMachineGunner.labelPlural>雇佣兵机枪手</MercenaryMachineGunner.labelPlural>
+
+  <!-- Tribals -->
+
+  <TribalGrenadier.label>爆破手</TribalGrenadier.label>
+  <TribalGrenadier.labelPlural>爆破手</TribalGrenadier.labelPlural>
+
+  <TribalGunner.label>突击手</TribalGunner.label>
+  <TribalGunner.labelPlural>突击手</TribalGunner.labelPlural>
+
+
+</LanguageData>

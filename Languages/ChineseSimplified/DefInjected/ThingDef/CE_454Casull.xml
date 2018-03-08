@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_454Casull_FMJ.label>.454 卡苏尔子弹 (全金属被甲弹)</Ammo_454Casull_FMJ.label>
+  <Ammo_454Casull_FMJ.description>加长和加固的.45柯尔特子弹。威力不俗。</Ammo_454Casull_FMJ.description>
+
+  <Ammo_454Casull_AP.label>.454 卡苏尔子弹 (穿甲弹)</Ammo_454Casull_AP.label>
+  <Ammo_454Casull_AP.description>加长和加固的45柯尔特子弹。威力不俗。</Ammo_454Casull_AP.description>
+
+  <Ammo_454Casull_HP.label>.454 卡苏尔子弹 (空尖弹)</Ammo_454Casull_HP.label>
+  <Ammo_454Casull_HP.description>加长和加固的45柯尔特子弹。威力不俗。</Ammo_454Casull_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_454Casull_FMJ.label>.454 卡苏尔子弹 (全金属被甲弹)</Bullet_454Casull_FMJ.label>
+  <Bullet_454Casull_AP.label>.454 卡苏尔子弹 (穿甲弹)</Bullet_454Casull_AP.label>
+  <Bullet_454Casull_HP.label>.454 卡苏尔子弹 (空尖弹)</Bullet_454Casull_HP.label>
+
+
+</LanguageData>

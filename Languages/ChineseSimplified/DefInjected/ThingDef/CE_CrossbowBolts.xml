@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_CrossbowBolt_Stone.label>十字弓弹(石)</Ammo_CrossbowBolt_Stone.label>
+  <Ammo_CrossbowBolt_Stone.description>十字弓弹。</Ammo_CrossbowBolt_Stone.description>
+
+  <Ammo_CrossbowBolt_Steel.label>十字弓弹 (steel)</Ammo_CrossbowBolt_Steel.label>
+  <Ammo_CrossbowBolt_Steel.description>十字弓弹。</Ammo_CrossbowBolt_Steel.description>
+
+  <Ammo_CrossbowBolt_Plasteel.label>十字弓弹 (plasteel)</Ammo_CrossbowBolt_Plasteel.label>
+  <Ammo_CrossbowBolt_Plasteel.description>十字弓弹。</Ammo_CrossbowBolt_Plasteel.description>
+
+
+  <!-- The amount of arrows usable over the ammo lifetime for each resource cost is equal to
+		[r / (1 - x)];
+			x = preExplosionSpawnChance,
+			r = resource cost. -->
+
+  <Projectile_CrossbowBolt_Stone.label>十字弓弹 (stone)</Projectile_CrossbowBolt_Stone.label>
+  <Projectile_CrossbowBolt_Steel.label>十字弓弹 (steel)</Projectile_CrossbowBolt_Steel.label>
+  <Projectile_CrossbowBolt_Plasteel.label>十字弓弹 (plasteel)</Projectile_CrossbowBolt_Plasteel.label>
+
+
+</LanguageData>

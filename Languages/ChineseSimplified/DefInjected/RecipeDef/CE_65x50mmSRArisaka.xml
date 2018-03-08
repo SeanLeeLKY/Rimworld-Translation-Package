@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_65x50mmSRArisaka_FMJ.label>制作 6.5x50mmSR 有阪式子弹(全金属被甲弹) x500</MakeAmmo_65x50mmSRArisaka_FMJ.label>
+  <MakeAmmo_65x50mmSRArisaka_FMJ.description>制作 500 6.5x50mmSR 有阪式子弹(全金属被甲弹)</MakeAmmo_65x50mmSRArisaka_FMJ.description>
+  <MakeAmmo_65x50mmSRArisaka_FMJ.jobString>制作 6.5x50mmSR 有阪式子弹(全金属被甲弹)</MakeAmmo_65x50mmSRArisaka_FMJ.jobString>
+
+  <MakeAmmo_65x50mmSRArisaka_AP.label>制作 6.5x50mmSR 有阪式子弹(穿甲弹) x500</MakeAmmo_65x50mmSRArisaka_AP.label>
+  <MakeAmmo_65x50mmSRArisaka_AP.description>制作 500 6.5x50mmSR 有阪式子弹(穿甲弹)</MakeAmmo_65x50mmSRArisaka_AP.description>
+  <MakeAmmo_65x50mmSRArisaka_AP.jobString>制作 6.5x50mmSR 有阪式子弹(穿甲弹)</MakeAmmo_65x50mmSRArisaka_AP.jobString>
+
+  <MakeAmmo_65x50mmSRArisaka_HP.label>制作 6.5x50mmSR 有阪式子弹(空尖弹) x500</MakeAmmo_65x50mmSRArisaka_HP.label>
+  <MakeAmmo_65x50mmSRArisaka_HP.description>制作 500 6.5x50mmSR 有阪式子弹(空尖弹)</MakeAmmo_65x50mmSRArisaka_HP.description>
+  <MakeAmmo_65x50mmSRArisaka_HP.jobString>制作 6.5x50mmSR 有阪式子弹(空尖弹)</MakeAmmo_65x50mmSRArisaka_HP.jobString>
+
+
+</LanguageData>

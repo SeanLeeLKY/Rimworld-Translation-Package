@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Javelin.label>标枪</Javelin.label>
+  <Javelin.description>在一根长木杆头部安装重型钢制尖头，对无护甲目标造成巨大伤害。</Javelin.description>
+
+  <StoneArrow.label>石箭</StoneArrow.label>
+  <StoneArrow.labelShort>石</StoneArrow.labelShort>
+  <StoneArrow.description>一块磨尖的石头被安装在箭头上。很容易切割无防护的软组织，但对任何装甲都不是很有效。</StoneArrow.description>
+
+  <SteelArrow.label>钢箭</SteelArrow.label>
+  <SteelArrow.labelShort>钢</SteelArrow.labelShort>
+  <SteelArrow.description>箭头由钢铁制成，增强了穿甲能力。</SteelArrow.description>
+
+  <PlasteelArrow.label>玻璃钢箭</PlasteelArrow.label>
+  <PlasteelArrow.labelShort>玻璃钢</PlasteelArrow.labelShort>
+  <PlasteelArrow.description>装有玻璃钢的箭头，拥有强大的穿甲能力。</PlasteelArrow.description>
+
+
+  <!-- For Vanilla-Friendly Weapons Expansion -->
+
+  <StoneSlingBullet.label>石投弹</StoneSlingBullet.label>
+  <StoneSlingBullet.labelShort>石质</StoneSlingBullet.labelShort>
+  <StoneSlingBullet.description>磨制成流线型的石头，能够飞的更远更有打击力。不过对有护甲目标效果不大。</StoneSlingBullet.description>
+
+  <SteelSlingBullet.label>钢投弹</SteelSlingBullet.label>
+  <SteelSlingBullet.labelShort>钢制</SteelSlingBullet.labelShort>
+  <SteelSlingBullet.description>用钢制成的投弹，增强了护甲穿透力。</SteelSlingBullet.description>
+
+  <PlasteelSlingBullet.label>玻璃钢投弹</PlasteelSlingBullet.label>
+  <PlasteelSlingBullet.labelShort>玻璃钢</PlasteelSlingBullet.labelShort>
+  <PlasteelSlingBullet.description>用玻璃钢制成的投弹，拥有这种类型武器的最大穿透力。</PlasteelSlingBullet.description>
+
+  <StoneCrossbowBolt.label>石制弩箭</StoneCrossbowBolt.label>
+  <StoneCrossbowBolt.labelShort>石质</StoneCrossbowBolt.labelShort>
+  <StoneCrossbowBolt.description>在木质箭杆上装上石质箭头。对暴露的组织能造成较高伤害，但是对护甲目标效果不大。</StoneCrossbowBolt.description>
+
+  <SteelCrossbowBolt.label>钢弩箭</SteelCrossbowBolt.label>
+  <SteelCrossbowBolt.labelShort>钢制</SteelCrossbowBolt.labelShort>
+  <SteelCrossbowBolt.description>钢质弩箭头能够有效增强护甲穿透力。</SteelCrossbowBolt.description>
+
+  <PlasteelCrossbowBolt.label>玻璃钢弩箭</PlasteelCrossbowBolt.label>
+  <PlasteelCrossbowBolt.labelShort>玻璃钢</PlasteelCrossbowBolt.labelShort>
+  <PlasteelCrossbowBolt.description>玻璃钢箭头大大增强了护甲穿透力。</PlasteelCrossbowBolt.description>
+
+
+</LanguageData>

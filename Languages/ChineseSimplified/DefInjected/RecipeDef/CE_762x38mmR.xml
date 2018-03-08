@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_762x38mmR_FMJ.label>制作 7.62x38mmR 子弹(全金属被甲弹) x500</MakeAmmo_762x38mmR_FMJ.label>
+  <MakeAmmo_762x38mmR_FMJ.description>制作 500 7.62x38mmR 子弹(全金属被甲弹)</MakeAmmo_762x38mmR_FMJ.description>
+  <MakeAmmo_762x38mmR_FMJ.jobString>制作 7.62x38mmR 子弹(全金属被甲弹)</MakeAmmo_762x38mmR_FMJ.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_46x30mm_FMJ.label>制作 4.6x30mm 子弹(全金属被甲弹) x500</MakeAmmo_46x30mm_FMJ.label>
+  <MakeAmmo_46x30mm_FMJ.description>制作 500 4.6x30mm 子弹(全金属被甲弹)</MakeAmmo_46x30mm_FMJ.description>
+  <MakeAmmo_46x30mm_FMJ.jobString>制作 4.6x30mm 子弹(全金属被甲弹)</MakeAmmo_46x30mm_FMJ.jobString>
+
+  <MakeAmmo_46x30mm_AP.label>制作 4.6x30mm 子弹(穿甲弹) x500</MakeAmmo_46x30mm_AP.label>
+  <MakeAmmo_46x30mm_AP.description>制作 500 4.6x30mm 子弹(穿甲弹)</MakeAmmo_46x30mm_AP.description>
+  <MakeAmmo_46x30mm_AP.jobString>制作 4.6x30mm 子弹(穿甲弹)</MakeAmmo_46x30mm_AP.jobString>
+
+  <MakeAmmo_46x30mm_HP.label>制作 4.6x30mm 子弹(空尖弹) x500</MakeAmmo_46x30mm_HP.label>
+  <MakeAmmo_46x30mm_HP.description>制作 500 4.6x30mm 子弹(空尖弹)</MakeAmmo_46x30mm_HP.description>
+  <MakeAmmo_46x30mm_HP.jobString>制作 4.6x30mm 子弹(空尖弹)</MakeAmmo_46x30mm_HP.jobString>
+
+
+</LanguageData>

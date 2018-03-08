@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_60x225mmGamma_Standard.label>60x225mm 射线弹 (标准)</Ammo_60x225mmGamma_Standard.label>
+  <Ammo_60x225mmGamma_Standard.description>会电离释放大量伽马射线的炮弹。</Ammo_60x225mmGamma_Standard.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_60x225mmGamma_Standard.label>辐射炮弹</Bullet_60x225mmGamma_Standard.label>
+
+
+</LanguageData>

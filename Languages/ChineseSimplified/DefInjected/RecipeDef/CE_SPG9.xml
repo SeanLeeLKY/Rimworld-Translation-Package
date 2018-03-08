@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_SPG9Grenade_HEAT.label>制作 SPG-9榴弹(破甲) x5</MakeAmmo_SPG9Grenade_HEAT.label>
+  <MakeAmmo_SPG9Grenade_HEAT.description>制作 5 SPG-9榴弹(破甲).</MakeAmmo_SPG9Grenade_HEAT.description>
+  <MakeAmmo_SPG9Grenade_HEAT.jobString>制作 SPG-9榴弹(破甲).</MakeAmmo_SPG9Grenade_HEAT.jobString>
+
+  <MakeAmmo_SPG9Grenade_Frag.label>制作 SPG-9榴弹(破片) x5</MakeAmmo_SPG9Grenade_Frag.label>
+  <MakeAmmo_SPG9Grenade_Frag.description>制作 5 SPG-9榴弹(破片).</MakeAmmo_SPG9Grenade_Frag.description>
+  <MakeAmmo_SPG9Grenade_Frag.jobString>制作 SPG-9榴弹(破片).</MakeAmmo_SPG9Grenade_Frag.jobString>
+
+
+</LanguageData>

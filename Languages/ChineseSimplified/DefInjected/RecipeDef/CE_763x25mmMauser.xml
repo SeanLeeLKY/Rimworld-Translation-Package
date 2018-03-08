@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_763x25mmMauser_FMJ.label>制作 7.63x25mm 毛瑟子弹(全金属被甲弹) x500</MakeAmmo_763x25mmMauser_FMJ.label>
+  <MakeAmmo_763x25mmMauser_FMJ.description>制作 500 7.63x25mm 毛瑟子弹(全金属被甲弹)</MakeAmmo_763x25mmMauser_FMJ.description>
+  <MakeAmmo_763x25mmMauser_FMJ.jobString>制作 7.63x25mm 毛瑟子弹(全金属被甲弹)</MakeAmmo_763x25mmMauser_FMJ.jobString>
+
+
+</LanguageData>

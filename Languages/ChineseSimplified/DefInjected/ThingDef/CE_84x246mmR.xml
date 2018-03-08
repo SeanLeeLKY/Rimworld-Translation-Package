@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_84x246mmR_HEAT.label>84x246mmR 炮弹 (破甲)</Ammo_84x246mmR_HEAT.label>
+  <Ammo_84x246mmR_HEAT.description>卡尔古斯塔夫无坐力步枪专用弹药。</Ammo_84x246mmR_HEAT.description>
+
+  <Ammo_84x246mmR_HE.label>84x246mmR 炮弹 (高爆)</Ammo_84x246mmR_HE.label>
+  <Ammo_84x246mmR_HE.description>卡尔古斯塔夫无坐力步枪专用弹药。</Ammo_84x246mmR_HE.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_84x246mmR_HEAT.label>84x246mmR 炮弹 (破甲)</Bullet_84x246mmR_HEAT.label>
+  <Bullet_84x246mmR_HE.label>84x246mmR 炮弹 (高爆)</Bullet_84x246mmR_HE.label>
+
+
+</LanguageData>

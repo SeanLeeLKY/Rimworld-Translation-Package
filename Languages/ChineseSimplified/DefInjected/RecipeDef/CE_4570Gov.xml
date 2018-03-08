@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_4570Gov_FMJ.label>制作 .45-70 标准子弹(全金属被甲弹) x350</MakeAmmo_4570Gov_FMJ.label>
+  <MakeAmmo_4570Gov_FMJ.description>制作 350 .45-70 标准子弹(全金属被甲弹)</MakeAmmo_4570Gov_FMJ.description>
+  <MakeAmmo_4570Gov_FMJ.jobString>制作 .45-70 标准子弹(全金属被甲弹)</MakeAmmo_4570Gov_FMJ.jobString>
+
+  <MakeAmmo_4570Gov_AP.label>制作 .45-70 标准子弹(穿甲弹) x350</MakeAmmo_4570Gov_AP.label>
+  <MakeAmmo_4570Gov_AP.description>制作 350 .45-70 标准子弹(穿甲弹)</MakeAmmo_4570Gov_AP.description>
+  <MakeAmmo_4570Gov_AP.jobString>制作 .45-70 标准子弹(穿甲弹)</MakeAmmo_4570Gov_AP.jobString>
+
+  <MakeAmmo_4570Gov_HP.label>制作 .45-70 标准子弹(空尖弹) x350</MakeAmmo_4570Gov_HP.label>
+  <MakeAmmo_4570Gov_HP.description>制作 350 .45-70 标准子弹(空尖弹)</MakeAmmo_4570Gov_HP.description>
+  <MakeAmmo_4570Gov_HP.jobString>制作 .45-70 标准子弹(空尖弹)</MakeAmmo_4570Gov_HP.jobString>
+
+
+</LanguageData>

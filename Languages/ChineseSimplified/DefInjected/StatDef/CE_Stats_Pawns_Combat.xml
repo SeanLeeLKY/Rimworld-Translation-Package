@@ -1,13 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<AimingAccuracy.label>瞄准精确度</AimingAccuracy.label>
+  <!-- Shooting -->
 
-	<AimingAccuracy.description>结合武器的瞄准效率，一个射手对移动目标的预判能力。\n\n最终判定数值根据以下公式计算：\n(1.5 - 瞄准精确度) / 瞄准效率\n\n预判误差：预判距离格数除以判定数值。\n射程误差：与目标的总距离除以4再除以判定数值。\n\n瞄准射击过程中的稳定性会受到瞄准精确度影响。例如，75%的瞄准精确度稳定性会被减弱至25%。</AimingAccuracy.description>
+  <AimingAccuracy.label>瞄准精确度</AimingAccuracy.label>
+  <AimingAccuracy.description>结合武器的瞄准效率，一个射手对移动目标的预判能力。\n\n最终判定数值根据以下公式计算：\n(1.5 - 瞄准精确度) / 瞄准效率\n\n预判误差：预判距离格数除以判定数值。\n射程误差：与目标的总距离除以4再除以判定数值。\n\n瞄准射击过程中的稳定性会受到瞄准精确度影响。例如，75%的瞄准精确度稳定性会被减弱至25%。</AimingAccuracy.description>
 
-	<ReloadSpeed.label>换弹速度</ReloadSpeed.label>
+  <ReloadSpeed.label>换弹速度</ReloadSpeed.label>
+  <ReloadSpeed.description>重新装填弹药的速度。</ReloadSpeed.description>
 
-	<ReloadSpeed.description>重新装填弹药的速度。</ReloadSpeed.description>
+  <Suppressability.label>压制能力</Suppressability.label>
+  <Suppressability.description>表明了人物被压制的难易程度。适当的低意识状态和某些药剂能降低这个数值，使得人物更加难以被压制。</Suppressability.description>
+
+
+  <!-- Doesn't do anything, just for display -->
+
+  <MeleeArmorPenetration.label>近战护甲穿透</MeleeArmorPenetration.label>
+  <MeleeArmorPenetration.description>近战护甲穿透数据。决定了近战情况下将会有多少的伤害值被敌人护甲阻挡。</MeleeArmorPenetration.description>
+
+  <MeleeCritChance.label>近战暴击几率</MeleeCritChance.label>
+  <MeleeCritChance.description>近战攻击中产生致命一击的几率。\n\n最终数值取决于敌人相关技能等级，而敌人也会有10%的几率暴击。</MeleeCritChance.description>
+
+  <!--[Core] <MeleeDodgeChance.label>近战闪避几率</MeleeDodgeChance.label>-->
+  <!--[Core] <MeleeDodgeChance.description>闪避近身攻击或者其他物理击打的几率。（在瞄准时或使用远程武器开火时，角色无法进行闪避。）</MeleeDodgeChance.description>-->
+
+  <MeleeParryChance.label>近战招架几率</MeleeParryChance.label>
+  <MeleeParryChance.description>招架近战攻击的几率。当一个招架被成功执行时，人物受到的攻击伤害将由他装备的武器或盾牌承受。如果成功执行招架的人物通过了一个特殊的数据检测，他们将对攻击者进行自动还击。最后的数据几率取决于对手的防守技巧，而同样的对手将会有20%的几率暴击。</MeleeParryChance.description>
 
 
 </LanguageData>

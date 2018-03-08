@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeShell_HighExplosive.label>制作 81mm 迫击炮弹(高爆) x5</MakeShell_HighExplosive.label>
+  <MakeShell_HighExplosive.description>制作 5 81mm 迫击炮弹(高爆).</MakeShell_HighExplosive.description>
+  <MakeShell_HighExplosive.jobString>制作 81mm 迫击炮弹(高爆).</MakeShell_HighExplosive.jobString>
+
+  <MakeShell_Incendiary.label>制作 81mm 迫击炮弹(燃烧) x5</MakeShell_Incendiary.label>
+  <MakeShell_Incendiary.description>制作 5 81mm 迫击炮弹(燃烧).</MakeShell_Incendiary.description>
+  <MakeShell_Incendiary.jobString>制作 81mm 迫击炮弹(燃烧).</MakeShell_Incendiary.jobString>
+
+  <MakeShell_EMP.label>制作 81mm 迫击炮弹(EMP) x5</MakeShell_EMP.label>
+  <MakeShell_EMP.description>制作 5 81mm 迫击炮弹(EMP).</MakeShell_EMP.description>
+  <MakeShell_EMP.jobString>制作 81mm 迫击炮弹(EMP).</MakeShell_EMP.jobString>
+
+
+</LanguageData>

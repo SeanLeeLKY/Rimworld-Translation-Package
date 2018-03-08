@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_40SW_FMJ.label>.40 SW 子弹 (全金属被甲弹)</Ammo_40SW_FMJ.label>
+  <Ammo_40SW_FMJ.description>.38 口径的自动手枪子弹。</Ammo_40SW_FMJ.description>
+
+  <Ammo_40SW_AP.label>.40 SW 子弹 (穿甲弹)</Ammo_40SW_AP.label>
+  <Ammo_40SW_AP.description>.38 口径的自动手枪子弹。</Ammo_40SW_AP.description>
+
+  <Ammo_40SW_HP.label>.40 SW 子弹 (空尖弹)</Ammo_40SW_HP.label>
+  <Ammo_40SW_HP.description>.38 口径的自动手枪子弹。</Ammo_40SW_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_40SW_FMJ.label>.40 SW 子弹 (全金属被甲弹)</Bullet_40SW_FMJ.label>
+  <Bullet_40SW_AP.label>.40 SW 子弹 (穿甲弹)</Bullet_40SW_AP.label>
+  <Bullet_40SW_HP.label>.40 SW 子弹 (空尖弹)</Bullet_40SW_HP.label>
+
+
+</LanguageData>

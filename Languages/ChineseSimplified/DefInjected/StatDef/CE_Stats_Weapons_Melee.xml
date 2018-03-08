@@ -1,8 +1,14 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<ArmorPenetration.label>穿甲能力</ArmorPenetration.label>
+  <MeleePenetrationFactor.label>近战护甲穿透系数</MeleePenetrationFactor.label>
+  <MeleePenetrationFactor.description>在近战攻击中穿透装甲的能力。该系数适用于所有使用该武器的近战攻击。\n\n其基础数值由武器本身决定。</MeleePenetrationFactor.description>
 
-	<ArmorPenetration.description>每次攻击时的穿甲能力。</ArmorPenetration.description>
+  <MeleeArmorPenetration_Weapon.label>近战护甲穿透</MeleeArmorPenetration_Weapon.label>
+  <MeleeArmorPenetration_Weapon.description>近战护甲穿透数据。决定了近战情况下将会有多少的伤害值被敌人护甲阻挡。</MeleeArmorPenetration_Weapon.description>
+
+  <MeleeCounterParryBonus.label>近战反击加成</MeleeCounterParryBonus.label>
+  <MeleeCounterParryBonus.description>当用这个武器攻击敌人时，这个数值除以敌人的招架几率。\n\n这个数值优先于最终招架几率的计算。</MeleeCounterParryBonus.description>
+
 
 </LanguageData>

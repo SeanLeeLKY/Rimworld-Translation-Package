@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_4570Gov_FMJ.label>.45-70 标准弹 (全金属被甲弹)</Ammo_4570Gov_FMJ.label>
+  <Ammo_4570Gov_FMJ.description>由“黑火药”推进的大口径重型弹药，用这玩意击中敌人就和击中麻袋一样没区别。</Ammo_4570Gov_FMJ.description>
+
+  <Ammo_4570Gov_AP.label>.45-70 标准弹 (穿甲弹)</Ammo_4570Gov_AP.label>
+  <Ammo_4570Gov_AP.description>由“黑火药”推进的大口径重型弹药，用这玩意击中敌人就和击中麻袋一样没区别。</Ammo_4570Gov_AP.description>
+
+  <Ammo_4570Gov_HP.label>.45-70 标准弹 (空尖弹)</Ammo_4570Gov_HP.label>
+  <Ammo_4570Gov_HP.description>由“黑火药”推进的大口径重型弹药，用这玩意击中敌人就和击中麻袋一样没区别。</Ammo_4570Gov_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_4570Gov_FMJ.label>.45-70 标准弹 (全金属被甲弹)</Bullet_4570Gov_FMJ.label>
+  <Bullet_4570Gov_AP.label>.45-70 标准弹 (穿甲弹)</Bullet_4570Gov_AP.label>
+  <Bullet_4570Gov_HP.label>.45-70 标准弹 (空尖弹)</Bullet_4570Gov_HP.label>
+
+
+</LanguageData>

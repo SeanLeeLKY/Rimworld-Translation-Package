@@ -38,7 +38,10 @@
   <TKKN_doWeather_title>显示天气影响（最高优先级）</TKKN_doWeather_title>
   <TKKN_doWeather_text>如果不选中，下面的任何一个选项都不会生效。 如果选中，只有下面选中的项目会生效。 任何有效的天气变化都将继续有效。</TKKN_doWeather_text>
   <TKKN_doTides_title>潮汐</TKKN_doTides_title>
-  <TKKN_doTides_text>海平面将会提高和降低。</TKKN_doTides_text>
+  <TKKN_doTides_text>海平面将会提升和降低。</TKKN_doTides_text>
+
+  <TKKN_showTempReadout_title>显示温度读数</TKKN_showTempReadout_title>
+  <TKKN_showTempReadout_text>在左下角显示温度读数</TKKN_showTempReadout_text>
 
 
   <TKKN_regen_title>重新生成地形单元格分布（不要管这个！！！）</TKKN_regen_title>

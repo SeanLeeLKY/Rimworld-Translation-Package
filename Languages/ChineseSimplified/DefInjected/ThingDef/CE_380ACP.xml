@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_380ACP_FMJ.label>.380 自动手枪弹 (全金属被甲弹)</Ammo_380ACP_FMJ.label>
+  <Ammo_380ACP_FMJ.description>一种可以通用于手枪和冲锋枪的弹药。</Ammo_380ACP_FMJ.description>
+
+  <Ammo_380ACP_AP.label>.380 自动手枪弹 (穿甲弹)</Ammo_380ACP_AP.label>
+  <Ammo_380ACP_AP.description>一种可以通用于手枪和冲锋枪的弹药。</Ammo_380ACP_AP.description>
+
+  <Ammo_380ACP_HP.label>.380 自动手枪弹 (空尖弹)</Ammo_380ACP_HP.label>
+  <Ammo_380ACP_HP.description>一种可以通用于手枪和冲锋枪的弹药。</Ammo_380ACP_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_380ACP_FMJ.label>.380 自动手枪弹 (全金属被甲弹)</Bullet_380ACP_FMJ.label>
+  <Bullet_380ACP_AP.label>.380 自动手枪弹 (穿甲弹)</Bullet_380ACP_AP.label>
+  <Bullet_380ACP_HP.label>.380 自动手枪弹 (空尖弹)</Bullet_380ACP_HP.label>
+
+
+</LanguageData>

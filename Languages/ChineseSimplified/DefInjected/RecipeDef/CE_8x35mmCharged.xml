@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_8x35mmCharged.label>制作 8x35mm 电荷弹 x100</MakeAmmo_8x35mmCharged.label>
+  <MakeAmmo_8x35mmCharged.description>制作 100 8x35mm 电荷弹</MakeAmmo_8x35mmCharged.description>
+  <MakeAmmo_8x35mmCharged.jobString>制作 8x35mm 电荷弹</MakeAmmo_8x35mmCharged.jobString>
+
+  <MakeAmmo_8x35mmCharged_AP.label>制作 8x35mm 电荷弹(集中) x100</MakeAmmo_8x35mmCharged_AP.label>
+  <MakeAmmo_8x35mmCharged_AP.description>制作 100 8x35mm 电荷弹(集中)。</MakeAmmo_8x35mmCharged_AP.description>
+  <MakeAmmo_8x35mmCharged_AP.jobString>制作 8x35mm 电荷弹(集中)。</MakeAmmo_8x35mmCharged_AP.jobString>
+
+  <MakeAmmo_8x35mmCharged_Ion.label>制作 8x35mm 电荷弹(离子) x100</MakeAmmo_8x35mmCharged_Ion.label>
+  <MakeAmmo_8x35mmCharged_Ion.description>制作 100 8x35mm 电荷弹(离子)。</MakeAmmo_8x35mmCharged_Ion.description>
+  <MakeAmmo_8x35mmCharged_Ion.jobString>制作 8x35mm 电荷弹(离子)。</MakeAmmo_8x35mmCharged_Ion.jobString>
+
+
+</LanguageData>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- SPECIFICS -->
+
+  <Pila.label>标枪</Pila.label>
+  <Pila.description>可以用投射器或者直接投掷的一种长矛形武器。</Pila.description>
+  <Pila.tools.0.label>标杆</Pila.tools.0.label>
+  <Pila.tools.1.label>标尖</Pila.tools.1.label>
+
+
+</LanguageData>

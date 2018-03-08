@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_792x51mmMauser_FMJ.label>7.92x57mm 毛瑟子弹 (全金属被甲弹)</Ammo_792x51mmMauser_FMJ.label>
+  <Ammo_792x51mmMauser_FMJ.description>可用于机枪、狙击步枪和某些突击步枪的子弹。</Ammo_792x51mmMauser_FMJ.description>
+
+  <Ammo_792x51mmMauser_AP.label>7.92x57mm 毛瑟子弹 (穿甲弹)</Ammo_792x51mmMauser_AP.label>
+  <Ammo_792x51mmMauser_AP.description>用于机枪、狙击步枪和某些突击步枪的子弹。</Ammo_792x51mmMauser_AP.description>
+
+  <Ammo_792x51mmMauser_HP.label>7.92x57mm 毛瑟子弹 (空尖弹)</Ammo_792x51mmMauser_HP.label>
+  <Ammo_792x51mmMauser_HP.description>用于机枪、狙击步枪和某些突击步枪的子弹。</Ammo_792x51mmMauser_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_792x51mmMauser_FMJ.label>7.62mm 毛瑟子弹 (全金属被甲弹)</Bullet_792x51mmMauser_FMJ.label>
+  <Bullet_792x51mmMauser_AP.label>7.62mm 毛瑟子弹 (穿甲弹)</Bullet_792x51mmMauser_AP.label>
+  <Bullet_792x51mmMauser_HP.label>7.62mm 毛瑟子弹 (空尖弹)</Bullet_792x51mmMauser_HP.label>
+
+
+</LanguageData>

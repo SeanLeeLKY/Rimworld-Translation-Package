@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_32ACP_FMJ.label>.32 ACP 手枪弹 (全金属被甲弹)</Ammo_32ACP_FMJ.label>
+  <Ammo_32ACP_FMJ.description>停止力不足的小口径手枪子弹。</Ammo_32ACP_FMJ.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_32ACP_FMJ.label>.32 ACP 手枪弹 (全金属被甲弹)</Bullet_32ACP_FMJ.label>
+
+
+</LanguageData>

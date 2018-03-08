@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo resources -->
+
+  <Prometheum.label>神焰燃剂</Prometheum.label>
+  <Prometheum.description>军用级燃烧剂，与氧气接触会直接点燃。这种资源可用于制造各种燃烧武器。</Prometheum.description>
+
+  <FSX.label>FSX</FSX.label>
+  <FSX.description>一种从爆炸羊或者爆炸鼠的囊袋中提取的高爆化学物质，可用于多种工业和军事用途。</FSX.description>
+
+
+</LanguageData>

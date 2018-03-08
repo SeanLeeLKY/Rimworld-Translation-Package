@@ -7,7 +7,8 @@
   <Mizu_NormalWater.label>水</Mizu_NormalWater.label>
   <Mizu_NormalWater.description>饮用水，它没有特殊效果。</Mizu_NormalWater.description>
 
-  <Mizu_RawWater.label>生水</Mizu_RawWater.label>
+  <Mizu_RawWater.label>生水
+</Mizu_RawWater.label>
   <Mizu_RawWater.description>饮用水，口感不佳。</Mizu_RawWater.description>
 
   <Mizu_MudWater.label>泥水</Mizu_MudWater.label>

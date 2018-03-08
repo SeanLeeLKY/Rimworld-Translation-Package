@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_75x54mmFrench_FMJ.label>7.5x54mm 法制子弹 (全金属被甲弹)</Ammo_75x54mmFrench_FMJ.label>
+  <Ammo_75x54mmFrench_FMJ.description>许多老旧武器使用的一种大口径弹药。</Ammo_75x54mmFrench_FMJ.description>
+
+  <Ammo_75x54mmFrench_AP.label>7.5x54mm 法制子弹 (穿甲弹)</Ammo_75x54mmFrench_AP.label>
+  <Ammo_75x54mmFrench_AP.description>许多老旧武器使用的一种大口径弹药。</Ammo_75x54mmFrench_AP.description>
+
+  <Ammo_75x54mmFrench_HP.label>7.5x54mm 法制子弹 (空尖弹)</Ammo_75x54mmFrench_HP.label>
+  <Ammo_75x54mmFrench_HP.description>许多老旧武器使用的一种大口径弹药。</Ammo_75x54mmFrench_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_75x54mmFrench_FMJ.label>7.5mm 法制子弹 (全金属被甲弹)</Bullet_75x54mmFrench_FMJ.label>
+  <Bullet_75x54mmFrench_AP.label>7.5mm 法制子弹 (穿甲弹)</Bullet_75x54mmFrench_AP.label>
+  <Bullet_75x54mmFrench_HP.label>7.5mm 法制子弹 (空尖弹)</Bullet_75x54mmFrench_HP.label>
+
+
+</LanguageData>

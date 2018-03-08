@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_127x55mmSniper_FMJ.label>12.7x55mm 狙击子弹 (全金属被甲弹)</Ammo_127x55mmSniper_FMJ.label>
+  <Ammo_127x55mmSniper_FMJ.description>用于压制武器的大口径亚音速狙击步枪子弹。</Ammo_127x55mmSniper_FMJ.description>
+
+  <Ammo_127x55mmSniper_AP.label>12.7x55mm 狙击子弹 (穿甲弹)</Ammo_127x55mmSniper_AP.label>
+  <Ammo_127x55mmSniper_AP.description>用于压制武器的高口径亚音速狙击步枪子弹。</Ammo_127x55mmSniper_AP.description>
+
+  <Ammo_127x55mmSniper_HP.label>12.7x55mm 狙击子弹 (空尖弹)</Ammo_127x55mmSniper_HP.label>
+  <Ammo_127x55mmSniper_HP.description>用于压制武器的高口径亚音速狙击步枪子弹。</Ammo_127x55mmSniper_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_127x55mmSniper_FMJ.label>12.7mm 狙击子弹 (全金属被甲弹)</Bullet_127x55mmSniper_FMJ.label>
+  <Bullet_127x55mmSniper_AP.label>12.7mm 狙击子弹 (穿甲弹)</Bullet_127x55mmSniper_AP.label>
+  <Bullet_127x55mmSniper_HP.label>12.7mm 狙击子弹 (空尖弹)</Bullet_127x55mmSniper_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_8x22mmNambu_FMJ.label>制作 8x22mm 南部式子弹(全金属被甲弹) x500</MakeAmmo_8x22mmNambu_FMJ.label>
+  <MakeAmmo_8x22mmNambu_FMJ.description>制作 500 8x22mm 南部式子弹(全金属被甲弹)。</MakeAmmo_8x22mmNambu_FMJ.description>
+  <MakeAmmo_8x22mmNambu_FMJ.jobString>制作 8x22mm 南部式子弹(全金属被甲弹)。</MakeAmmo_8x22mmNambu_FMJ.jobString>
+
+
+</LanguageData>

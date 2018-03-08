@@ -1,28 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<MakeFragGrenade.label>制作 破片手榴弹 x10</MakeFragGrenade.label>
+  <MakeFragGrenade.label>制作 破片手榴弹 x10</MakeFragGrenade.label>
+  <MakeFragGrenade.description>制作 破片手榴弹 x10</MakeFragGrenade.description>
+  <MakeFragGrenade.jobString>正在制作 破片手榴弹。</MakeFragGrenade.jobString>
 
-	<MakeFragGrenade.description>制作 破片手榴弹 x10</MakeFragGrenade.description>
+  <MakeMolotovCocktail.label>制作 莫洛托夫燃烧弹 x10</MakeMolotovCocktail.label>
+  <MakeMolotovCocktail.description>制作 莫洛托夫燃烧弹 x10</MakeMolotovCocktail.description>
+  <MakeMolotovCocktail.jobString>正在制作 莫洛托夫燃烧弹。</MakeMolotovCocktail.jobString>
 
-	<MakeFragGrenade.jobString>正在制作 破片手榴弹。</MakeFragGrenade.jobString>
+  <MakeEMPGrenade.label>制作 电磁脉冲手榴弹 x10</MakeEMPGrenade.label>
+  <MakeEMPGrenade.description>制作 电磁脉冲手榴弹 x10</MakeEMPGrenade.description>
+  <MakeEMPGrenade.jobString>正在制作 电磁脉冲手榴弹。</MakeEMPGrenade.jobString>
 
-	<MakeMolotovCocktail.label>制作 莫洛托夫燃烧弹 x10</MakeMolotovCocktail.label>
+  <MakeFlashbangGrenade.label>制作 闪光手榴弹 x10</MakeFlashbangGrenade.label>
+  <MakeFlashbangGrenade.description>制作 闪光手榴弹 x10</MakeFlashbangGrenade.description>
+  <MakeFlashbangGrenade.jobString>正在制作 闪光手榴弹。</MakeFlashbangGrenade.jobString>
 
-	<MakeMolotovCocktail.description>制作 莫洛托夫燃烧弹 x10</MakeMolotovCocktail.description>
+  <MakeStickBomb.label>制作木柄炸弹 x10</MakeStickBomb.label>
+  <MakeStickBomb.description>制作 10木柄炸弹.</MakeStickBomb.description>
+  <MakeStickBomb.jobString>制作木柄炸弹.</MakeStickBomb.jobString>
 
-	<MakeMolotovCocktail.jobString>正在制作 莫洛托夫燃烧弹。</MakeMolotovCocktail.jobString>
+  <MakeSmokeGrenade.label>制作烟雾榴弹 x10</MakeSmokeGrenade.label>
+  <MakeSmokeGrenade.description>制作 10烟雾榴弹.</MakeSmokeGrenade.description>
+  <MakeSmokeGrenade.jobString>制作烟雾榴弹.</MakeSmokeGrenade.jobString>
 
-	<MakeEMPGrenade.label>制作 电磁脉冲手榴弹 x10</MakeEMPGrenade.label>
+  <MakeFirefoamGrenade.label>制作灭火弹 x10</MakeFirefoamGrenade.label>
+  <MakeFirefoamGrenade.description>制作 10灭火弹.</MakeFirefoamGrenade.description>
+  <MakeFirefoamGrenade.jobString>制作灭火弹.</MakeFirefoamGrenade.jobString>
 
-	<MakeEMPGrenade.description>制作 电磁脉冲手榴弹 x10</MakeEMPGrenade.description>
-
-	<MakeEMPGrenade.jobString>正在制作 电磁脉冲手榴弹。</MakeEMPGrenade.jobString>
-
-	<MakeFlashbangGrenade.label>制作 闪光手榴弹 x10</MakeFlashbangGrenade.label>
-
-	<MakeFlashbangGrenade.description>制作 闪光手榴弹 x10</MakeFlashbangGrenade.description>
-
-	<MakeFlashbangGrenade.jobString>正在制作 闪光手榴弹。</MakeFlashbangGrenade.jobString>
 
 </LanguageData>

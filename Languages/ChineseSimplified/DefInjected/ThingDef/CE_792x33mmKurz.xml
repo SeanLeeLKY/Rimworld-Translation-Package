@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_792x33mmKurz_FMJ.label>7.92x33mm 库尔兹子弹 (全金属被甲弹)</Ammo_792x33mmKurz_FMJ.label>
+  <Ammo_792x33mmKurz_FMJ.description>某些旧式突击步枪使用的中型步枪子弹。</Ammo_792x33mmKurz_FMJ.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_792x33mmKurz_FMJ.label>7.92mm 库尔兹子弹 (全金属被甲弹)</Bullet_792x33mmKurz_FMJ.label>
+
+
+</LanguageData>

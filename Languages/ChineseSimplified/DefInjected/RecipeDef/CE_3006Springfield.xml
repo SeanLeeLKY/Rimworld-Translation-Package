@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_3006Springfield_FMJ.label>制作 .30-06 斯普林菲尔德子弹(全金属被甲弹) x500</MakeAmmo_3006Springfield_FMJ.label>
+  <MakeAmmo_3006Springfield_FMJ.description>制作 500 .30-06 斯普林菲尔德子弹(全金属被甲弹)</MakeAmmo_3006Springfield_FMJ.description>
+  <MakeAmmo_3006Springfield_FMJ.jobString>制作 .30-06 斯普林菲尔德子弹(全金属被甲弹)</MakeAmmo_3006Springfield_FMJ.jobString>
+
+  <MakeAmmo_3006Springfield_AP.label>制作 .30-06 斯普林菲尔德子弹(穿甲弹) x500</MakeAmmo_3006Springfield_AP.label>
+  <MakeAmmo_3006Springfield_AP.description>制作 500 .30-06 斯普林菲尔德子弹(穿甲弹)</MakeAmmo_3006Springfield_AP.description>
+  <MakeAmmo_3006Springfield_AP.jobString>制作 .30-06 斯普林菲尔德子弹(穿甲弹)</MakeAmmo_3006Springfield_AP.jobString>
+
+  <MakeAmmo_3006Springfield_HP.label>制作 .30-06 斯普林菲尔德子弹(空尖弹) x500</MakeAmmo_3006Springfield_HP.label>
+  <MakeAmmo_3006Springfield_HP.description>制作 500 .30-06 斯普林菲尔德子弹(空尖弹)</MakeAmmo_3006Springfield_HP.description>
+  <MakeAmmo_3006Springfield_HP.jobString>制作 .30-06 斯普林菲尔德子弹(空尖弹)</MakeAmmo_3006Springfield_HP.jobString>
+
+
+</LanguageData>

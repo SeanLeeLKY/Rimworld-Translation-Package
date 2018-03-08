@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_65x50mmSRArisaka_FMJ.label>6.5x50mmSR  有阪式子弹 (全金属被甲弹)</Ammo_65x50mmSRArisaka_FMJ.label>
+  <Ammo_65x50mmSRArisaka_FMJ.description>半镶边的中型步枪子弹，大多用于过时的枪机武器中。</Ammo_65x50mmSRArisaka_FMJ.description>
+
+  <Ammo_65x50mmSRArisaka_AP.label>6.5x50mmSR 有阪式子弹 (穿甲弹)</Ammo_65x50mmSRArisaka_AP.label>
+  <Ammo_65x50mmSRArisaka_AP.description>半镶边的中型步枪子弹，大多用于过时的枪机武器中。</Ammo_65x50mmSRArisaka_AP.description>
+
+  <Ammo_65x50mmSRArisaka_HP.label>6.5x50mmSR 有阪式子弹 (空尖弹)</Ammo_65x50mmSRArisaka_HP.label>
+  <Ammo_65x50mmSRArisaka_HP.description>半镶边的中型步枪子弹，大多用于过时的枪机武器中。</Ammo_65x50mmSRArisaka_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_65x50mmSRArisaka_FMJ.label>6.5mmSR 有阪式子弹 (全金属被甲弹)</Bullet_65x50mmSRArisaka_FMJ.label>
+  <Bullet_65x50mmSRArisaka_AP.label>6.5mmSR 有阪式子弹 (穿甲弹)</Bullet_65x50mmSRArisaka_AP.label>
+  <Bullet_65x50mmSRArisaka_HP.label>6.5mmSR 有阪式子弹 (空尖弹)</Bullet_65x50mmSRArisaka_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_30Carbine_FMJ.label>制作 .30 卡宾枪弹(全金属被甲弹) x500</MakeAmmo_30Carbine_FMJ.label>
+  <MakeAmmo_30Carbine_FMJ.description>制作 500 .30 卡宾枪弹(全金属被甲弹)</MakeAmmo_30Carbine_FMJ.description>
+  <MakeAmmo_30Carbine_FMJ.jobString>制作 .30 卡宾枪弹(全金属被甲弹)</MakeAmmo_30Carbine_FMJ.jobString>
+
+  <MakeAmmo_30Carbine_HP.label>制作 .30 卡宾枪弹(空尖弹) x500</MakeAmmo_30Carbine_HP.label>
+  <MakeAmmo_30Carbine_HP.description>制作 500 .30 卡宾枪弹(空尖弹)</MakeAmmo_30Carbine_HP.description>
+  <MakeAmmo_30Carbine_HP.jobString>制作 .30 卡宾枪弹(空尖弹)</MakeAmmo_30Carbine_HP.jobString>
+
+
+</LanguageData>

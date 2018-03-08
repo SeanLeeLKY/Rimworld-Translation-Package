@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_75x54mmFrench_FMJ.label>制作 7.5x54mm 法制子弹(全金属被甲弹) x500</MakeAmmo_75x54mmFrench_FMJ.label>
+  <MakeAmmo_75x54mmFrench_FMJ.description>制作 500 7.5x54mm 法制子弹(全金属被甲弹)</MakeAmmo_75x54mmFrench_FMJ.description>
+  <MakeAmmo_75x54mmFrench_FMJ.jobString>制作 7.5x54mm 法制子弹(全金属被甲弹)</MakeAmmo_75x54mmFrench_FMJ.jobString>
+
+  <MakeAmmo_75x54mmFrench_AP.label>制作 7.5x54mm 法制子弹(穿甲弹) x500</MakeAmmo_75x54mmFrench_AP.label>
+  <MakeAmmo_75x54mmFrench_AP.description>制作 500 7.5x54mm 法制子弹(穿甲弹)</MakeAmmo_75x54mmFrench_AP.description>
+  <MakeAmmo_75x54mmFrench_AP.jobString>制作 7.5x54mm 法制子弹(穿甲弹)</MakeAmmo_75x54mmFrench_AP.jobString>
+
+  <MakeAmmo_75x54mmFrench_HP.label>制作 7.5x54mm 法制子弹(空尖弹) x500</MakeAmmo_75x54mmFrench_HP.label>
+  <MakeAmmo_75x54mmFrench_HP.description>制作 500 7.5x54mm 法制子弹(空尖弹)</MakeAmmo_75x54mmFrench_HP.description>
+  <MakeAmmo_75x54mmFrench_HP.jobString>制作 7.5x54mm 法制子弹(空尖弹)</MakeAmmo_75x54mmFrench_HP.jobString>
+
+
+</LanguageData>

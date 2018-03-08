@@ -1,8 +1,13 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<AmmoBench.label>弹药装配台</AmmoBench.label>
+  <!-- Work tables -->
 
-	<AmmoBench.Description>用于手工装配弹药的工作站。</AmmoBench.Description>
+  <AmmoBench.label>弹药装配台</AmmoBench.label>
+  <AmmoBench.description>用于手工装配弹药的工作站。</AmmoBench.description>
+  <AmmoBench_Blueprint.label>弹药装配台 (蓝图)</AmmoBench_Blueprint.label>
+  <AmmoBench_Frame.label>弹药装配台 (建造中)</AmmoBench_Frame.label>
+  <AmmoBench_Frame.description>用于手工装配弹药的工作站。</AmmoBench_Frame.description>
+
 
 </LanguageData>

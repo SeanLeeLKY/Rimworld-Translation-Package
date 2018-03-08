@@ -34,12 +34,14 @@
 
   <TKKN_giantsnail.label>巨型蜗牛</TKKN_giantsnail.label>
   <TKKN_giantsnail.description>缓慢移动的甲壳食草动物。盐对它们来说是致命的。</TKKN_giantsnail.description>
-  <TKKN_giantsnail.tools.0.label>头</TKKN_giantsnail.tools.0.label>
+  <TKKN_giantsnail.tools.1.label>头</TKKN_giantsnail.tools.1.label>
   <!-- Leather Amount: 0 -->
   <TKKN_giantsnail_Meat.label>巨型蜗牛肉</TKKN_giantsnail_Meat.label>
   <TKKN_giantsnail_Meat.description>巨型蜗牛肉</TKKN_giantsnail_Meat.description>
   <TKKN_giantsnail_Corpse.label>巨型蜗牛尸体</TKKN_giantsnail_Corpse.label>
   <TKKN_giantsnail_Corpse.description>巨型蜗牛尸体</TKKN_giantsnail_Corpse.description>
 
+
+  <!--<TKKN_giantsnail.tools.0.label>头</TKKN_giantsnail.tools.0.label>-->
 
 </LanguageData>

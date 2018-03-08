@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_44-40Winchester_FMJ.label>.44-40 温彻斯特子弹 (全金属被甲弹)</Ammo_44-40Winchester_FMJ.label>
+  <Ammo_44-40Winchester_FMJ.description>以黑火药推动的一种.40子弹，主要用于19世纪中期一些传统枪支。</Ammo_44-40Winchester_FMJ.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_44-40Winchester_FMJ.label>.44-40 温彻斯特子弹 (全金属被甲弹)</Bullet_44-40Winchester_FMJ.label>
+
+
+</LanguageData>

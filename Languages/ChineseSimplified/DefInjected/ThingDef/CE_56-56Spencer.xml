@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_5656SpencerRimfire.label>.56-56 斯宾塞边缘底火弹</Ammo_5656SpencerRimfire.label>
+  <Ammo_5656SpencerRimfire.description>斯宾塞连发步枪专用弹药。</Ammo_5656SpencerRimfire.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_5656Spencer.label>.56-56 斯宾塞边缘底火弹</Bullet_5656Spencer.label>
+
+
+</LanguageData>

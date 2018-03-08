@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_12Gauge_Buck.label>12号径 霰弹 (鹿弹)</Ammo_12Gauge_Buck.label>
+  <Ammo_12Gauge_Buck.description>从狩猎、暴乱控制到军事武器，几乎所有用途中最通用的霰弹枪口径。</Ammo_12Gauge_Buck.description>
+
+  <Ammo_12Gauge_Bird.label>12号径 霰弹 (鸟弹)</Ammo_12Gauge_Bird.label>
+  <Ammo_12Gauge_Bird.description>从狩猎、暴乱控制到军事武器，几乎所有用途中最通用的霰弹枪口径。</Ammo_12Gauge_Bird.description>
+
+  <Ammo_12Gauge_Slug.label>12号径 霰弹 (独头弹)</Ammo_12Gauge_Slug.label>
+  <Ammo_12Gauge_Slug.description>从狩猎、暴乱控制到军事武器，几乎所有用途中最通用的霰弹枪口径。</Ammo_12Gauge_Slug.description>
+
+  <Ammo_12Gauge_Beanbag.label>12号径 霰弹 (豆弹)</Ammo_12Gauge_Beanbag.label>
+  <Ammo_12Gauge_Beanbag.description>从狩猎、暴乱控制到军事武器，几乎所有用途中最通用的霰弹枪口径。</Ammo_12Gauge_Beanbag.description>
+
+  <Ammo_12Gauge_ElectroSlug.label>12号径 霰弹 (EMP)</Ammo_12Gauge_ElectroSlug.label>
+  <Ammo_12Gauge_ElectroSlug.description>从狩猎、暴乱控制到军事武器，几乎所有用途中最通用的霰弹枪口径。</Ammo_12Gauge_ElectroSlug.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_12Gauge_Buck.label>12号径 霰弹 (鹿弹)</Bullet_12Gauge_Buck.label>
+  <Bullet_12Gauge_Bird.label>12号径 霰弹 (鸟弹)</Bullet_12Gauge_Bird.label>
+  <Bullet_12Gauge_Slug.label>12号径 霰弹 (独头弹)</Bullet_12Gauge_Slug.label>
+  <Bullet_12Gauge_Beanbag.label>12号径 霰弹 (豆弹)</Bullet_12Gauge_Beanbag.label>
+  <Bullet_12Gauge_ElectroSlug.label>12号径 霰弹 (EMP)</Bullet_12Gauge_ElectroSlug.label>
+
+
+</LanguageData>

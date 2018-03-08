@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+<Charged.label>电荷弹</Charged.label>
+  <Charged.description>使用带电粒子射流以同样的方式破坏护甲和软体组织。</Charged.description>
+
+  <ChargedAP.label>聚能电荷弹</ChargedAP.label>
+  <ChargedAP.labelShort>聚能</ChargedAP.labelShort>
+  <ChargedAP.description>将带电粒子聚焦在弹头顶端，以提高装甲穿透力，但是同样会降低停止力的伤害。</ChargedAP.description>
+
+  <Ionized.label>离子电荷弹</Ionized.label>
+  <Ionized.labelShort>离子</Ionized.labelShort>
+  <Ionized.description>离子弹是被设计用来对付机械组的弹药，当命中目标的时候，在命中点的位置会形成圆形电流层，干扰各种电子设备。</Ionized.description>
+
+  <IncendiaryFuel.label>燃烧剂</IncendiaryFuel.label>
+  <IncendiaryFuel.description>充满爆燃燃剂的弹药。</IncendiaryFuel.description>
+
+  <ThermobaricFuel.label>温压剂</ThermobaricFuel.label>
+  <ThermobaricFuel.description>充装满高爆易燃的气溶胶，命中时引起巨大爆炸并点燃易燃物质。</ThermobaricFuel.description>
+
+  <FoamFuel.label>灭火剂</FoamFuel.label>
+  <FoamFuel.description>专为消防目的设计的弹药。其中填充阻燃泡沫以灭除大面积的火灾。</FoamFuel.description>
+
+
+  <!-- For Vanilla-Friendly Weapons Expansion -->
+
+  <RadiationIonising.label>放射性（电离）</RadiationIonising.label>
+  <RadiationIonising.labelShort>电离</RadiationIonising.labelShort>
+  <RadiationIonising.description>包含大量电离辐射，会对意识产生显著影响，是一种致癌物质。</RadiationIonising.description>
+
+
+</LanguageData>

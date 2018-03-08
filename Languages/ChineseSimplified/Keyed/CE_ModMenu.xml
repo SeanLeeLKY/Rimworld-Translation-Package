@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+   <!-- ========== Headers ========== -->
+
+  <CE_Settings_HeaderGeneral>主要项目</CE_Settings_HeaderGeneral>
+  <CE_Settings_HeaderAmmo>弹药</CE_Settings_HeaderAmmo>
+
+  <!-- ========== General settings ========== -->
+
+  <CE_Settings_ShowCasings_Title>显示弹壳抛落</CE_Settings_ShowCasings_Title>
+  <CE_Settings_ShowCasings_Desc>发射武器将显示弹壳抛落的效果。禁用可以提高性能。</CE_Settings_ShowCasings_Desc>
+
+  <CE_Settings_ShowTaunts_Title>显示战斗嘲讽</CE_Settings_ShowTaunts_Title>
+  <CE_Settings_ShowTaunts_Desc>战斗时显示嘲讽文本。</CE_Settings_ShowTaunts_Desc>
+
+  <CE_Settings_AllowMeleeHunting_Title>启用近战武器狩猎</CE_Settings_AllowMeleeHunting_Title>
+  <CE_Settings_AllowMeleeHunting_Desc>允许指定猎人工作的殖民者用近战武器狩猎。</CE_Settings_AllowMeleeHunting_Desc>
+
+  <!-- ========== Ammo settings ========== -->
+
+  <CE_Settings_EnableAmmoSystem_Title>启用弹药系统</CE_Settings_EnableAmmoSystem_Title>
+  <CE_Settings_EnableAmmoSystem_Desc>武器需要弹药装载和使用各种专用的弹药类型。\n\n警告: 在已有的存档中改变这个选项有可能造成未知错误导致游戏不稳定，请自负后果。</CE_Settings_EnableAmmoSystem_Desc>
+
+  <CE_Settings_RightClickAmmoSelect_Title>右键选择弹药</CE_Settings_RightClickAmmoSelect_Title>
+  <CE_Settings_RightClickAmmoSelect_Desc>右击装弹按钮以选择弹种。</CE_Settings_RightClickAmmoSelect_Desc>
+
+  <CE_Settings_AutoReloadOnChangeAmmo_Title>自动重装新选择弹药</CE_Settings_AutoReloadOnChangeAmmo_Title>
+  <CE_Settings_AutoReloadOnChangeAmmo_Desc>当新的弹种被选择时，人物会自动装填新弹药。</CE_Settings_AutoReloadOnChangeAmmo_Desc>
+
+  <CE_Settings_AutoTakeAmmo_Title>自动装备弹药</CE_Settings_AutoTakeAmmo_Title>
+  <CE_Settings_AutoTakeAmmo_Desc>未指定装备分组时候，人物会自动拾取适合手中武器的弹药。</CE_Settings_AutoTakeAmmo_Desc>
+
+  <CE_Settings_ShowCaliberOnGuns_Title>显示武器弹药类型</CE_Settings_ShowCaliberOnGuns_Title>
+  <CE_Settings_ShowCaliberOnGuns_Desc>自动在武器的名字后面加上弹药类型以及口径标准。</CE_Settings_ShowCaliberOnGuns_Desc>
+
+  <CE_Settings_ReuseNeolithicProjectiles_Title>可重复使用的石器时代弹药</CE_Settings_ReuseNeolithicProjectiles_Title>
+  <CE_Settings_ReuseNeolithicProjectiles_Desc>石器时代的武器弹药在发射后将会有几率掉落在地上，默认禁止互动。</CE_Settings_ReuseNeolithicProjectiles_Desc>
+
+  <CE_Settings_RealisticCookOff_Title>弹药爆燃效果</CE_Settings_RealisticCookOff_Title>
+  <CE_Settings_RealisticCookOff_Desc>弹药堆在受热燃烧的时候不会产生随机乱射的效果。</CE_Settings_RealisticCookOff_Desc>
+
+</LanguageData>

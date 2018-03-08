@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_792x33mmKurz_FMJ.label>制作 7.92x33mm 库尔兹子弹(全金属被甲弹) x500</MakeAmmo_792x33mmKurz_FMJ.label>
+  <MakeAmmo_792x33mmKurz_FMJ.description>制作 500 7.92x33mm 库尔兹子弹(全金属被甲弹)</MakeAmmo_792x33mmKurz_FMJ.description>
+  <MakeAmmo_792x33mmKurz_FMJ.jobString>制作 7.92x33mm 库尔兹子弹(全金属被甲弹)</MakeAmmo_792x33mmKurz_FMJ.jobString>
+
+
+</LanguageData>

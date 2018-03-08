@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_FN57x28mm_FMJ.label>FN 5.7x28mm 子弹 (全金属被甲弹)</Ammo_FN57x28mm_FMJ.label>
+  <Ammo_FN57x28mm_FMJ.description>这是一种被设计用来对付防弹衣的高速枪弹。</Ammo_FN57x28mm_FMJ.description>
+
+  <Ammo_FN57x28mm_AP.label>FN 5.7x28mm 子弹 (穿甲弹)</Ammo_FN57x28mm_AP.label>
+  <Ammo_FN57x28mm_AP.description>这是一种被设计用来对付防弹衣的高速枪弹。</Ammo_FN57x28mm_AP.description>
+
+  <Ammo_FN57x28mm_HP.label>FN 5.7x28mm 子弹 (空尖弹)</Ammo_FN57x28mm_HP.label>
+  <Ammo_FN57x28mm_HP.description>这是一种被设计用来对付防弹衣的高速枪弹。</Ammo_FN57x28mm_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_FN57x28mm_FMJ.label>FN 5.7mm 子弹 (全金属被甲弹)</Bullet_FN57x28mm_FMJ.label>
+  <Bullet_FN57x28mm_AP.label>FN 5.7mm 子弹 (穿甲弹)</Bullet_FN57x28mm_AP.label>
+  <Bullet_FN57x28mm_HP.label>FN 5.7mm 子弹 (空尖弹)</Bullet_FN57x28mm_HP.label>
+
+
+</LanguageData>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_300WinchesterMagnum_FMJ.label>.300 温彻斯特马格南子弹 (全金属被甲弹)</Ammo_300WinchesterMagnum_FMJ.label>
+  <Ammo_300WinchesterMagnum_FMJ.description>军用远程狙击步枪专用的一种子弹。</Ammo_300WinchesterMagnum_FMJ.description>
+
+  <Ammo_300WinchesterMagnum_HP.label>.300 温彻斯特马格南子弹 (空尖弹)</Ammo_300WinchesterMagnum_HP.label>
+  <Ammo_300WinchesterMagnum_HP.description>军用远程狙击步枪专用的一种子弹。</Ammo_300WinchesterMagnum_HP.description>
+
+  <Ammo_300WinchesterMagnum_Incendiary.label>.300 温彻斯特马格南子弹 (穿甲燃烧弹)</Ammo_300WinchesterMagnum_Incendiary.label>
+  <Ammo_300WinchesterMagnum_Incendiary.description>军用远程狙击步枪专用的一种子弹。</Ammo_300WinchesterMagnum_Incendiary.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_300WinchesterMagnum_FMJ.label>.300 温彻斯特马格南子弹 (全金属被甲弹)</Bullet_300WinchesterMagnum_FMJ.label>
+  <Bullet_300WinchesterMagnum_HP.label>.300 温彻斯特马格南子弹 (空尖弹)</Bullet_300WinchesterMagnum_HP.label>
+  <Bullet_300WinchesterMagnum_Incendiary.label>.300 温彻斯特马格南子弹 (穿甲燃烧弹)</Bullet_300WinchesterMagnum_Incendiary.label>
+
+
+</LanguageData>

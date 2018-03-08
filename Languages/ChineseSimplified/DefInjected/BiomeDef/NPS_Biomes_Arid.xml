@@ -1,11 +1,14 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <TKKN_Desert.label>盐碱戈壁</TKKN_Desert.label>
-  <TKKN_Desert.description>一个非常干燥的地区，自然环境仅能支撑少量生物。 这里有盐碱地。 戈壁滩可能很热，也可能很冷。</TKKN_Desert.description>
+  <TKKN_Desert.label>沙漠和盐田</TKKN_Desert.label>
+  <TKKN_Desert.description>一个非常干燥的地区，自然环境仅能支撑少量生物。 这里有盐田。 沙漠可能很热，也可能很冷。</TKKN_Desert.description>
 
   <TKKN_Oasis.label>沙漠绿洲</TKKN_Oasis.label>
   <TKKN_Oasis.description>一片水域被干燥的沙漠包围着。 绿洲本身土壤肥沃，动物繁多，但四周都是极端的沙漠。</TKKN_Oasis.description>
+
+  <TKKN_Grasslands.label>温带草原</TKKN_Grasslands.label>
+  <TKKN_Grasslands.description>广袤的大草原，有着充沛的风力资源和日照。土地肥沃，但对自然灾害缺乏防护。殖民地需要面临季节性干旱、风暴和龙卷风的威胁。</TKKN_Grasslands.description>
 
 
   <!--[Core] <Desert.label>沙漠</Desert.label>-->

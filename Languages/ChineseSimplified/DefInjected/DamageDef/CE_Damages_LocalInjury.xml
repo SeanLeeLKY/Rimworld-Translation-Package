@@ -1,22 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<!--Bomb.label>爆炸</Bomb.label-->
+   <Beanbag.label>豆弹</Beanbag.label>
+  <Beanbag.deathMessage>{0}被枪杀了。</Beanbag.deathMessage>
 
-	<!--Bomb.deathMessage>{0}被炸死了。</Bomb.deathMessage-->
+  <Fragment.label>破片</Fragment.label>
+  <Fragment.deathMessage>{0}被破片射死了。</Fragment.deathMessage>
 
-	<Beanbag.label>豆弹</Beanbag.label>
+  <PrometheumFlame.label>燃烧</PrometheumFlame.label>
+  <PrometheumFlame.deathMessage>{0} 被烧死了。</PrometheumFlame.deathMessage>
 
-	<Beanbag.deathMessage>{0}被枪杀了。</Beanbag.deathMessage>
 
-	<Fragment.label>破片</Fragment.label>
+  <!-- For scratches that have a lot of blunt force behind them, e.g. bear claws -->
 
-	<Fragment.deathMessage>{0}被破片射死了。</Fragment.deathMessage>
+  <Slash.label>劈砍</Slash.label>
+  <Slash.deathMessage>{0} 被撕成了碎片。</Slash.deathMessage>
 
-	<Thermobaric.label>温压弹</Thermobaric.label>
+  <Bomb_Secondary.deathMessage>{0} 被杀死了。</Bomb_Secondary.deathMessage>
 
-	<Electrical.label>电伤</Electrical.label>
+  <Thermobaric.label>温压弹</Thermobaric.label>
+  <Thermobaric.deathMessage>{0} 被杀死了。</Thermobaric.deathMessage>
 
-	<Electrical.deathMessage>{0}被电死了。</Electrical.deathMessage>
+  <Flame_Secondary.deathMessage>{0} 被杀死了。</Flame_Secondary.deathMessage>
+
+  <Electrical.label>电伤</Electrical.label>
+  <Electrical.deathMessage>{0}被电死了。</Electrical.deathMessage>
+
 
 </LanguageData>

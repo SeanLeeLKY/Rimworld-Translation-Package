@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_9x18mmMakarov_FMJ.label>制作 9x18mm 马卡洛夫子弹(全金属被甲弹) x500</MakeAmmo_9x18mmMakarov_FMJ.label>
+  <MakeAmmo_9x18mmMakarov_FMJ.description>制作 500 9x18mm 马卡洛夫子弹(全金属被甲弹)。</MakeAmmo_9x18mmMakarov_FMJ.description>
+  <MakeAmmo_9x18mmMakarov_FMJ.jobString>制作 9x18mm 马卡洛夫子弹(全金属被甲弹)。</MakeAmmo_9x18mmMakarov_FMJ.jobString>
+
+  <MakeAmmo_9x18mmMakarov_AP.label>制作 9x18mm 马卡洛夫子弹(穿甲弹) x500</MakeAmmo_9x18mmMakarov_AP.label>
+  <MakeAmmo_9x18mmMakarov_AP.description>制作 500 9x18mm 马卡洛夫子弹(穿甲弹)。</MakeAmmo_9x18mmMakarov_AP.description>
+  <MakeAmmo_9x18mmMakarov_AP.jobString>制作 9x18mm 马卡洛夫子弹(穿甲弹)。</MakeAmmo_9x18mmMakarov_AP.jobString>
+
+  <MakeAmmo_9x18mmMakarov_HP.label>制作 9x18mm 马卡洛夫子弹(空尖弹) x500</MakeAmmo_9x18mmMakarov_HP.label>
+  <MakeAmmo_9x18mmMakarov_HP.description>制作 500 9x18mm 马卡洛夫子弹(空尖弹)。</MakeAmmo_9x18mmMakarov_HP.description>
+  <MakeAmmo_9x18mmMakarov_HP.jobString>制作 9x18mm 马卡洛夫子弹(空尖弹)。</MakeAmmo_9x18mmMakarov_HP.jobString>
+
+
+</LanguageData>

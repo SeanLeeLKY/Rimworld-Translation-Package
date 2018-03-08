@@ -1,8 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-	<CE_TurretHeavyWeapons.label>[CR]重型机枪</CE_TurretHeavyWeapons.label>
+  <CE_TurretHeavyWeapons.label>CE：重型武器</CE_TurretHeavyWeapons.label>
+  <CE_TurretHeavyWeapons.description>允许你制造类似KPV重机枪之类的大口径武器。</CE_TurretHeavyWeapons.description>
 
-	<CE_TurretHeavyWeapons.description>允许你制造类似KPV重机枪之类的大口径武器。</CE_TurretHeavyWeapons.description>
+
+  
+
+  <CE_ChargeTurret.label>CE：电荷冲击炮塔</CE_ChargeTurret.label>
+  <CE_ChargeTurret.description>允许你建造电荷冲击炮塔。</CE_ChargeTurret.description>
+
+  <CE_HeavyTurret.label>CE：重型自动炮塔</CE_HeavyTurret.label>
+  <CE_HeavyTurret.description>允许你建造重型自动炮塔。</CE_HeavyTurret.description>
+
 
 </LanguageData>

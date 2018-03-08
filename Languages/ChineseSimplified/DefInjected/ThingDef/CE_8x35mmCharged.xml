@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_8x35mmCharged.label>8x35mm 电荷弹</Ammo_8x35mmCharged.label>
+  <Ammo_8x35mmCharged.description>专门为先进步枪设计的子弹类型。</Ammo_8x35mmCharged.description>
+
+  <Ammo_8x35mmCharged_AP.label>8x35mm 电荷弹 (集中)</Ammo_8x35mmCharged_AP.label>
+  <Ammo_8x35mmCharged_AP.description>专门为先进步枪设计的子弹类型。</Ammo_8x35mmCharged_AP.description>
+
+  <Ammo_8x35mmCharged_Ion.label>8x35mm 电荷弹 (离子)</Ammo_8x35mmCharged_Ion.label>
+  <Ammo_8x35mmCharged_Ion.description>专门为先进步枪设计的子弹类型。</Ammo_8x35mmCharged_Ion.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_8x35mmCharged.label>电荷弹</Bullet_8x35mmCharged.label>
+  <Bullet_8x35mmCharged_AP.label>电荷弹 (集中)</Bullet_8x35mmCharged_AP.label>
+  <Bullet_8x35mmCharged_Ion.label>电荷弹 (离子)</Bullet_8x35mmCharged_Ion.label>
+
+
+</LanguageData>

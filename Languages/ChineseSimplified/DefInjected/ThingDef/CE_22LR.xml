@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_22LR_FMJ.label>.22 LR 子弹 (全金属被甲弹)</Ammo_22LR_FMJ.label>
+  <Ammo_22LR_FMJ.description>停止力较低的小口径弹药。</Ammo_22LR_FMJ.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_22LR_FMJ.label>.22 LR 子弹 (全金属被甲弹)</Bullet_22LR_FMJ.label>
+
+
+</LanguageData>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_5656SpencerRimfire.label>制作 .56-56 斯潘塞边缘底火弹 x500</MakeAmmo_5656SpencerRimfire.label>
+  <MakeAmmo_5656SpencerRimfire.description>制作 500 .56-56 斯潘塞边缘底火弹</MakeAmmo_5656SpencerRimfire.description>
+  <MakeAmmo_5656SpencerRimfire.jobString>制作 .56-56 斯潘塞边缘底火弹</MakeAmmo_5656SpencerRimfire.jobString>
+
+
+</LanguageData>

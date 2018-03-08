@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_357Magnum_FMJ.label>.357 马格南子弹 (全金属被甲弹)</Ammo_357Magnum_FMJ.label>
+  <Ammo_357Magnum_FMJ.description>旧式手枪使用的一种子弹。</Ammo_357Magnum_FMJ.description>
+
+  <Ammo_357Magnum_AP.label>.357 马格南子弹 (穿甲弹)</Ammo_357Magnum_AP.label>
+  <Ammo_357Magnum_AP.description>旧式手枪使用的一种子弹。</Ammo_357Magnum_AP.description>
+
+  <Ammo_357Magnum_HP.label>.357 马格南子弹 (空尖弹)</Ammo_357Magnum_HP.label>
+  <Ammo_357Magnum_HP.description>旧式手枪使用的一种子弹。</Ammo_357Magnum_HP.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_357Magnum_FMJ.label>.357 马格南子弹 (全金属被甲弹)</Bullet_357Magnum_FMJ.label>
+  <Bullet_357Magnum_AP.label>.357 马格南子弹 (穿甲弹)</Bullet_357Magnum_AP.label>
+  <Bullet_357Magnum_HP.label>.357 马格南子弹 (空尖弹)</Bullet_357Magnum_HP.label>
+
+
+</LanguageData>

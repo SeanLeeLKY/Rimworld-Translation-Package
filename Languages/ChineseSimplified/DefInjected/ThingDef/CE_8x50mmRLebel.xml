@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_8x50mmRLebel_FMJ.label>8x50mmR 勒贝尔弹 (全金属被甲弹)</Ammo_8x50mmRLebel_FMJ.label>
+  <Ammo_8x50mmRLebel_FMJ.description>许多老式武器使用的边缘底火类型弹药。</Ammo_8x50mmRLebel_FMJ.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_8x50mmRLebel_FMJ.label>8mmR 勒贝尔弹 (全金属被甲弹)</Bullet_8x50mmRLebel_FMJ.label>
+
+
+</LanguageData>

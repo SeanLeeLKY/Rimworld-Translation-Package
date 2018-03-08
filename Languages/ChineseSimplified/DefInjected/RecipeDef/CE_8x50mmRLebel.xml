@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_8x50mmRLebel_FMJ.label>制作 8x50mmR 勒贝尔子弹(全金属被甲弹) x500</MakeAmmo_8x50mmRLebel_FMJ.label>
+  <MakeAmmo_8x50mmRLebel_FMJ.description>制作 500 8x50mmR 勒贝尔子弹(全金属被甲弹)。</MakeAmmo_8x50mmRLebel_FMJ.description>
+  <MakeAmmo_8x50mmRLebel_FMJ.jobString>制作 8x50mmR 勒贝尔子弹(全金属被甲弹)。</MakeAmmo_8x50mmRLebel_FMJ.jobString>
+
+
+</LanguageData>

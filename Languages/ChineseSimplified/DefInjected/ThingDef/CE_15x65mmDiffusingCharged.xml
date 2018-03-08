@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_15x65mmDiffusingCharged_Buck.label>15x65mm 散射电荷弹</Ammo_15x65mmDiffusingCharged_Buck.label>
+  <Ammo_15x65mmDiffusingCharged_Buck.description>机械族使用的电荷弹药类型。</Ammo_15x65mmDiffusingCharged_Buck.description>
+
+
+  <!-- Projectiles -->
+
+  <Bullet_15x65mmDiffusingCharged_Buck.label>电荷霰弹</Bullet_15x65mmDiffusingCharged_Buck.label>
+
+
+</LanguageData>

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Ammo -->
+
+  <Ammo_StreamlinedArrow_Stone.label>流线箭矢 (石)</Ammo_StreamlinedArrow_Stone.label>
+  <Ammo_StreamlinedArrow_Stone.description>精心加工过的高速箭矢，适合用强力反曲弓发射。</Ammo_StreamlinedArrow_Stone.description>
+
+  <Ammo_StreamlinedArrow_Steel.label>流线箭矢 (钢)</Ammo_StreamlinedArrow_Steel.label>
+  <Ammo_StreamlinedArrow_Steel.description>精心加工过的高速箭矢，适合用强力反曲弓发射。</Ammo_StreamlinedArrow_Steel.description>
+
+  <Ammo_StreamlinedArrow_Plasteel.label>流线箭矢 (玻璃钢)</Ammo_StreamlinedArrow_Plasteel.label>
+  <Ammo_StreamlinedArrow_Plasteel.description>精心加工过的高速箭矢，适合用强力反曲弓发射。</Ammo_StreamlinedArrow_Plasteel.description>
+
+
+  <!-- I'll leave it to Alistaire or somebody else who is more familiar with the above formula to balance the spawn chances. :P
+		The 'arrows per resource' for these should probably be slightly lower than those of the great bow due to higher velocities. -->
+
+  <Projectile_StreamlinedArrow_Stone.label>流线箭矢 (石)</Projectile_StreamlinedArrow_Stone.label>
+  <Projectile_StreamlinedArrow_Steel.label>流线箭矢 (钢)</Projectile_StreamlinedArrow_Steel.label>
+  <Projectile_StreamlinedArrow_Plasteel.label>流线箭矢 (玻璃钢)</Projectile_StreamlinedArrow_Plasteel.label>
+
+
+</LanguageData>

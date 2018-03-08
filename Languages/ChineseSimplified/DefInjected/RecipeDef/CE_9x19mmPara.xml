@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Recipes -->
+
+  <MakeAmmo_9x19mmPara_FMJ.label>制作 9x19mm 鲁格弹 (全金属被甲弹) x500</MakeAmmo_9x19mmPara_FMJ.label>
+  <MakeAmmo_9x19mmPara_FMJ.description>正在制作 9x19mm 鲁格弹 (全金属被甲弹) x500</MakeAmmo_9x19mmPara_FMJ.description>
+  <MakeAmmo_9x19mmPara_FMJ.jobString>制作 9x19mm 鲁格弹 (全金属被甲弹)。</MakeAmmo_9x19mmPara_FMJ.jobString>
+
+  <MakeAmmo_9x19mmPara_AP.label>制作 9x19mm 鲁格弹 (穿甲弹) x500</MakeAmmo_9x19mmPara_AP.label>
+  <MakeAmmo_9x19mmPara_AP.description>正在制作 9x19mm 鲁格弹 (穿甲弹) x500</MakeAmmo_9x19mmPara_AP.description>
+  <MakeAmmo_9x19mmPara_AP.jobString>制作 9x19mm 鲁格弹 (穿甲弹)。</MakeAmmo_9x19mmPara_AP.jobString>
+
+  <MakeAmmo_9x19mmPara_HP.label>制作 9x19mm 鲁格弹 (空尖弹) x500</MakeAmmo_9x19mmPara_HP.label>
+  <MakeAmmo_9x19mmPara_HP.description>正在制作 9x19mm 鲁格弹 (空尖弹) x500</MakeAmmo_9x19mmPara_HP.description>
+  <MakeAmmo_9x19mmPara_HP.jobString>制作 9x19mm 鲁格弹 (空尖弹)。</MakeAmmo_9x19mmPara_HP.jobString>
+
+
+</LanguageData>
