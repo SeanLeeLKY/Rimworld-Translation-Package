@@ -12,5 +12,6 @@
   <PRFBoundStorageBuilding>物品来源</PRFBoundStorageBuilding>
   <PRFOutputItem>当前输出: {0}</PRFOutputItem>
   <PRFNoDesc>没有说明。</PRFNoDesc>
+  <PRFStoredChunks>储存堆块: {0}</PRFStoredChunks>
 
 </LanguageData>

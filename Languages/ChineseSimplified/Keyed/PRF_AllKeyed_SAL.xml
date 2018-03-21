@@ -19,7 +19,7 @@
 
   <!--Letter tooltips-->
   <!--<SALInformation_CoreDriller>信息：S.A.L. +核心钻</SALInformation_CoreDriller>-->
-  <!--<SALInformation_CoreDriller_Desc>这些设置似乎表明，核心钻孔机的修复程序目前已关闭。当它被关闭时，S.A.L.机器将无法与它们交互。要打开它，请转到选项 -> Mod Settings.\n注意：这封信只会在您每次开始游戏时触发.</SALInformation_CoreDriller_Desc>-->
+  <!--<SALInformation_CoreDriller_Desc>The settings seem to show that the fix for core drillers is currently turned off. When it is turned off, S.A.L. machines will not be able to interact with them. To turn it on, please go to Options -> Mod Settings.\nNote: This letter will only fire every time you start the game.</SALInformation_CoreDriller_Desc>-->
 
   <!--Settings translations-->
   <!--<SALSettings_CoreDrillerFix>修复核心钻的交互单元格</SALSettings_CoreDrillerFix>-->

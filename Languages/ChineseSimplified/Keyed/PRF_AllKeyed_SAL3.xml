@@ -23,10 +23,10 @@
   <SmartHopper_Minimum>
 当前物品最小限制： {0}</SmartHopper_Minimum>
   <SmartHopper_Maximum>当前物品最大限制： {0}</SmartHopper_Maximum>
-  <SmartHopper_Minimum_UseTooltip>启用此功能后，如果存储项小于x堆栈大小，则智能料斗将禁止其项.</SmartHopper_Minimum_UseTooltip>
-  <SmartHopper_Maximum_UseTooltip>当启用此选项时，如果堆栈已满，或者堆栈大小超过或等于X，则智能料斗将停止接收项.</SmartHopper_Maximum_UseTooltip>
-  <SmartHopper_Minimum_ToolTip>这将同时影响容量和它试图采用的堆栈</SmartHopper_Minimum_ToolTip>
-  <SmartHopper_Maximum_ToolTip>这只会影响智能料斗的内容，它仍然会尝试从一个更大的堆栈中提取.</SmartHopper_Maximum_ToolTip>
+  <SmartHopper_Minimum_UseTooltip>【使用最小值】被勾选时，如果智能进料口上堆叠的物品少于设定数量，它会禁用物品。</SmartHopper_Minimum_UseTooltip>
+  <SmartHopper_Maximum_UseTooltip>【使用最大值】被勾选时，如果智能进料口上堆叠的物品已满或者超过设定数量，它会停止拿取物品。</SmartHopper_Maximum_UseTooltip>
+  <SmartHopper_Minimum_ToolTip>【最小值】会同时影响物品的堆叠和拿取。</SmartHopper_Minimum_ToolTip>
+  <SmartHopper_Maximum_ToolTip>【最大值】仅影响智能进料口的存储上限，它会试图达到设定的存储值。</SmartHopper_Maximum_ToolTip>
 
   <!--Mod settings-->
   <ProjectRimFactoryModName>边缘工厂</ProjectRimFactoryModName>
