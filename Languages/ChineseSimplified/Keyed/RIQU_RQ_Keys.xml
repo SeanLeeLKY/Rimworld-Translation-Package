@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RQ_CannotQuest>无法接取任务</RQ_CannotQuest>
+  <RQ_QuestWith>接受 {0} 的任务调查。</RQ_QuestWith>
+  <RQ_QuestOpportunity>任务机会</RQ_QuestOpportunity>
+  <RQ_QuestDialog>{0}接近{1}并开始聊了一会。虽然{1}有HIS工作在身，但HE告诉{0}，在HE穿越这个地区时，路途上了解到的一些传闻。HE没有足够的精力去处理这些事情，因此把这些传闻的情报分享出来以换取一些小差费(共计 {2} 白银)。\n\n{0}想要问一些什么呢？</RQ_QuestDialog>
+  <RQ_QuestDialogTwo>{0}画出了一个简略的地图。 然后HECAP告诉{1}该从哪里开始着手....</RQ_QuestDialogTwo>
+  <RQ_LackFunds>没有足够的白银</RQ_LackFunds>
+  <RQ_LackFundsMessage>你的殖民地没有足够的白银。</RQ_LackFundsMessage>
+
+</LanguageData>

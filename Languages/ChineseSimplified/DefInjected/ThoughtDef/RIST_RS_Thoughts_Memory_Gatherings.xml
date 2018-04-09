@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <RS_AttendedOurAnniversary.stages.0.label>参加我们的周年纪念日</RS_AttendedOurAnniversary.stages.0.label>
+  <RS_AttendedOurAnniversary.stages.0.description>那是我一生中最重要的一天！</RS_AttendedOurAnniversary.stages.0.description>
+
+  <RS_AttendedAnniversary.stages.0.label>参加纪念日</RS_AttendedAnniversary.stages.0.label>
+  <RS_AttendedAnniversary.stages.0.description>这对我们的殖民地来说是个重要的日子。</RS_AttendedAnniversary.stages.0.description>
+
+  <RS_AttendedFuneral.stages.0.label>参加了葬礼</RS_AttendedFuneral.stages.0.label>
+  <RS_AttendedFuneral.stages.0.description>节哀顺变。</RS_AttendedFuneral.stages.0.description>
+
+  <RS_AttendedMemorialDay.stages.0.label>参加哀悼日</RS_AttendedMemorialDay.stages.0.label>
+  <RS_AttendedMemorialDay.stages.0.description>缅怀逝去的兄弟姐妹们。</RS_AttendedMemorialDay.stages.0.description>
+
+
+</LanguageData>

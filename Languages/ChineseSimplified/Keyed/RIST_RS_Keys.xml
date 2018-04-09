@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<LanguageData>
+
+
+  <ColonyAttacked>{0} 袭击了你的殖民地。</ColonyAttacked>
+  <DayOfVictory>击败 {0} 的日子。</DayOfVictory>
+  <DayOfVictoryDesc>你的殖民者正在庆祝击败了 {0} 的袭击\n\n {1}</DayOfVictoryDesc>
+
+  <AMarriage>{0} 和 {1} 结婚了。</AMarriage>
+  <AMarriageLetter>结婚周年纪念日。</AMarriageLetter>
+  <AMarriageDesc>{0} 和 {1} 周年纪念日。</AMarriageDesc>
+
+  <AMemorialDay>{0} 牺牲了。</AMemorialDay>
+  <AMemorialDayLetter>阵亡英雄纪念日。</AMemorialDayLetter>
+  <AMemorialDayDesc>殖民者们聚集在一起悼念牺牲的兄弟姐妹。</AMemorialDayDesc>
+
+  <ARecruitment>{0} 招募了 {1}。</ARecruitment>
+
+  <ABreakup>{0} 与 {1} 分手了。</ABreakup>
+
+  <ABondedAnimal>殖民者 {0} 同 {1} 结下了深厚的羁绊。</ABondedAnimal>
+  <ATamed>{0} 驯服了 {1}</ATamed>
+
+  <!-- Gatherings -->
+
+  <FuneralCalledOff>葬礼被取消了。</FuneralCalledOff>
+  <FuneralFinished>葬礼结束了。</FuneralFinished>
+  <FuneralLetter>葬礼。</FuneralLetter>
+  <FuneralDesc>殖民者们聚集在一起哀悼：\n\n</FuneralDesc>
+
+
+
+  <!-- Settings -->
+
+  <EnEventLogger>启用事件记录器: </EnEventLogger>
+  <EnFunerals>启用葬礼: </EnFunerals>
+  <EnMarriage>启用结婚纪念日: </EnMarriage>
+  <EnMemorialDay>启用纪念日: </EnMemorialDay>
+  <EnDaysOfVictory>启用胜利日: </EnDaysOfVictory>
+  <EnIndividualThoughts>启用个人想法: </EnIndividualThoughts>
+
+</LanguageData>
