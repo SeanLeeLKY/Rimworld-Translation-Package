@@ -12,10 +12,10 @@
 
   <MizuMessageCaravanRunOutOfWater>{0} 耗尽了饮用水 ({1})。</MizuMessageCaravanRunOutOfWater>
 
-  <MizuDaysWorthOfFoodInfo>饮用水天数： {0}</MizuDaysWorthOfFoodInfo>
+  <MizuDaysWorthOfWaterInfo>{0} 天饮用水量</MizuDaysWorthOfWaterInfo>
   <MizuInfiniteDaysWorthOfWaterInfo>饮用水永远不会耗尽</MizuInfiniteDaysWorthOfWaterInfo>
   <MizuDaysWorthOfWaterTooltip>远行队饮用水耗尽的大概天数。</MizuDaysWorthOfWaterTooltip>
-<!-- 备注:MizuInfiniteDaysWorthOfWaterInfo和MizuDaysWorthOfWaterTooltip为手动修改，使用工具再次导出可能会变化导致汉化不完全，请注意。-->
+
   <MizuCaravanOutOfWater>饮用水耗尽。</MizuCaravanOutOfWater>
   <MizuCaravanDaysOfWater>饮用水天数： {0}</MizuCaravanDaysOfWater>
 
@@ -58,5 +58,10 @@
   <MizuThirstLevel_Dehydration>脱水</MizuThirstLevel_Dehydration>
 
   <MizuCannotBuildMultiWaterworksBuilding>你不能在同一地点建造多个供水设施。</MizuCannotBuildMultiWaterworksBuilding>
+
+  <MizuDehydrationAnimals>动物脱水</MizuDehydrationAnimals>
+  <MizuDehydrationAnimalsDesc>殖民地的这些动物正在脱水：\n\n{0}\n给它们一些水。</MizuDehydrationAnimalsDesc>
+
+  <MizuCantBuildExceptOverWater>你不能建造，除了水。</MizuCantBuildExceptOverWater>
 
 </LanguageData>
