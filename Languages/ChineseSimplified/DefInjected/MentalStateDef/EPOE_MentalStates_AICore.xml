@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Special mental states not from mental breaks -->
+
+  <WanderConfusedCore.label>迷茫的徘徊</WanderConfusedCore.label>
+  <WanderConfusedCore.beginLetter>{0}的心智被AI伪人格核心所放出的那些可怕画面和声音淹没了。</WanderConfusedCore.beginLetter>
+  <WanderConfusedCore.beginLetterLabel>迷茫</WanderConfusedCore.beginLetterLabel>
+  <WanderConfusedCore.recoveryMessage>{0}已被AI伪人格核心控制住。</WanderConfusedCore.recoveryMessage>
+  <WanderConfusedCore.baseInspectLine>精神状态：迷茫徘徊</WanderConfusedCore.baseInspectLine>
+
+  <ManhunterCore.label>AI接管</ManhunterCore.label>
+  <ManhunterCore.beginLetter>AI伪人格核心已经彻底占据了{0}的躯体！</ManhunterCore.beginLetter>
+  <ManhunterCore.beginLetterLabel>AI接管</ManhunterCore.beginLetterLabel>
+  <ManhunterCore.recoveryMessage>{0}已被AI伪人格核心控制住。</ManhunterCore.recoveryMessage>
+  <ManhunterCore.baseInspectLine>精神狂暴：猎杀人类</ManhunterCore.baseInspectLine>
+
+
+</LanguageData>

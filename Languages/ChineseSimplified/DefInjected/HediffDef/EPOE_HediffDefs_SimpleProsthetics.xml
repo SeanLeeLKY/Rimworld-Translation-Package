@@ -5,7 +5,10 @@
 
   <GoldenEye.label>黄金眼</GoldenEye.label>
   <LightReceptor.label>光接受器</LightReceptor.label>
+
   <SimpleProstheticHand.label>简易的假手</SimpleProstheticHand.label>
+  <SimpleProstheticHand.comps.0.tools.0.label>简易的假手</SimpleProstheticHand.comps.0.tools.0.label>
+
   <SimpleProstheticFoot.label>简易的假足</SimpleProstheticFoot.label>
   <!--[Core] <SimpleProstheticArm.label>简易的假臂</SimpleProstheticArm.label>-->
   <!--[Core] <SimpleProstheticLeg.label>简易的假腿</SimpleProstheticLeg.label>-->

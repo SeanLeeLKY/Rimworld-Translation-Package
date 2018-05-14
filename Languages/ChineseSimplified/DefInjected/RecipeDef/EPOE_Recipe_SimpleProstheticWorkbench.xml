@@ -30,8 +30,8 @@
   <CreateGoldenEye.jobString>正在制作假体。</CreateGoldenEye.jobString>
 
   <CreateLightReceptor.label>制作光接受器</CreateLightReceptor.label>
-  <CreateLightReceptor.description>使用玻璃钢和零部件制作光接受器</CreateLightReceptor.description>
-  <CreateLightReceptor.jobString>正在制作假体。</CreateLightReceptor.jobString>
+  <CreateLightReceptor.description>使用玻璃钢和零部件制作光接收器</CreateLightReceptor.description>
+  <CreateLightReceptor.jobString>正在制作光接受器。</CreateLightReceptor.jobString>
 
   <CreateArtificialPelvis.label>制作人造骨盆</CreateArtificialPelvis.label>
   <CreateArtificialPelvis.description>使用钢铁和玻璃钢制作人造骨盆。</CreateArtificialPelvis.description>

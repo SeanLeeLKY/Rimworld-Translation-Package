@@ -9,6 +9,10 @@
   <InstallAIPersonaCore.description>安装AI伪人格核心。</InstallAIPersonaCore.description>
   <InstallAIPersonaCore.jobString>正在安装AI伪人格核心。</InstallAIPersonaCore.jobString>
 
+  <RemoveBrainStimulator.label>移除脑激励器</RemoveBrainStimulator.label>
+  <RemoveBrainStimulator.description>移除脑激励器。</RemoveBrainStimulator.description>
+  <RemoveBrainStimulator.jobString>正在移除脑激励器。</RemoveBrainStimulator.jobString>
+
   <!--[Core] <InstallJoywire.label>安装乐丝芯片</InstallJoywire.label>-->
   <!--[Core] <InstallJoywire.description>安装乐丝芯片。</InstallJoywire.description>-->
   <!--[Core] <InstallJoywire.jobString>正在安装乐丝芯片。</InstallJoywire.jobString>-->

@@ -2,9 +2,16 @@
 <LanguageData>
 
   <OCSoldier.label>猎户座公司士兵</OCSoldier.label>
+  <OCSoldier.labelPlural>猎户座公司士兵</OCSoldier.labelPlural>
+
   <OCHeavy.label>猎户座公司重炮手</OCHeavy.label>
+  <OCHeavy.labelPlural>猎户座公司重炮手</OCHeavy.labelPlural>
+
   <OCPeaceKeeper.label>猎户座公司维和者</OCPeaceKeeper.label>
+  <OCPeaceKeeper.labelPlural>猎户座公司维和者</OCPeaceKeeper.labelPlural>
+
   <OCDirector.label>猎户座公司总监</OCDirector.label>
+  <OCDirector.labelPlural>猎户座公司总监</OCDirector.labelPlural>
 
 
 </LanguageData>

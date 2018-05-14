@@ -5,6 +5,7 @@
   <EMPCharge.description>EMP防御炸弹，遥控引爆。造成大范围覆盖的强大的电磁能爆炸。用于防卫机械威胁，有时候也能把人吓跑。</EMPCharge.description>
   <EMPCharge_Blueprint.label>EMPD-1 炸弹（蓝图）</EMPCharge_Blueprint.label>
   <EMPCharge_Frame.label>EMPD-1 炸弹（建造中）</EMPCharge_Frame.label>
+  <EMPCharge_Frame.description>EMP防御炸弹，遥控引爆。造成大范围覆盖的强大的电磁能爆炸。用于防卫机械威胁，有时候也能把人吓跑。</EMPCharge_Frame.description>
 
   <DepletedEMPCharge.label>已删除的 EMPD-1 炸弹</DepletedEMPCharge.label>
   <DepletedEMPCharge.description>已删除的 EMPD-1 炸弹。</DepletedEMPCharge.description>
@@ -13,6 +14,7 @@
   <FissionBomb.description>EMP防御炸弹，遥控引爆。造成大范围覆盖的强大的电磁能爆炸。用于防卫机械威胁，有时候也能把人吓跑。</FissionBomb.description>
   <FissionBomb_Blueprint.label>EMPD-1 炸弹（蓝图）</FissionBomb_Blueprint.label>
   <FissionBomb_Frame.label>EMPD-1 炸弹（建造中）</FissionBomb_Frame.label>
+  <FissionBomb_Frame.description>EMP防御炸弹，遥控引爆。造成大范围覆盖的强大的电磁能爆炸。用于防卫机械威胁，有时候也能把人吓跑。</FissionBomb_Frame.description>
 
 
 </LanguageData>

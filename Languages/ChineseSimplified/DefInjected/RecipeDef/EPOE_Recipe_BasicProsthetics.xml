@@ -9,9 +9,9 @@
   <InstallEyePatch.description>安装眼罩。</InstallEyePatch.description>
   <InstallEyePatch.jobString>正在安装眼罩。</InstallEyePatch.jobString>
 
-  <InstallHookHand.label>安装勾手</InstallHookHand.label>
-  <InstallHookHand.description>安装勾手。</InstallHookHand.description>
-  <InstallHookHand.jobString>正在安装勾手。</InstallHookHand.jobString>
+  <InstallHookHand.label>安装钩手</InstallHookHand.label>
+  <InstallHookHand.description>安装钩手。</InstallHookHand.description>
+  <InstallHookHand.jobString>正在安装钩手。</InstallHookHand.jobString>
 
   <!--[Core] <InstallDenture.label>安装义齿</InstallDenture.label>-->
   <!--[Core] <InstallDenture.description>安装义齿。</InstallDenture.description>-->

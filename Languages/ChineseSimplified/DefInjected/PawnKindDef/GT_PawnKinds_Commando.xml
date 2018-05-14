@@ -2,8 +2,13 @@
 <LanguageData>
 
   <Commando.label>突击队员</Commando.label>
+  <Commando.labelPlural>突击队员</Commando.labelPlural>
+
   <CommandoH.label>重装突击队员</CommandoH.label>
+  <CommandoH.labelPlural>重装突击队员</CommandoH.labelPlural>
+
   <CommandoScout.label>侦查突击队员</CommandoScout.label>
+  <CommandoScout.labelPlural>侦查突击队员</CommandoScout.labelPlural>
 
 
 </LanguageData>

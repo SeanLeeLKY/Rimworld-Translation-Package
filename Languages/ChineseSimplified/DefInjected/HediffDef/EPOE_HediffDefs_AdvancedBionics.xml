@@ -4,7 +4,11 @@
   <!-- Added body parts -->
 
   <AdvancedPowerArm.label>先进动力臂</AdvancedPowerArm.label>
+  <AdvancedPowerArm.comps.0.tools.0.label>爪</AdvancedPowerArm.comps.0.tools.0.label>
+
   <AdvancedBionicArm.label>先进仿生臂</AdvancedBionicArm.label>
+  <AdvancedBionicArm.comps.0.tools.0.label>拳头</AdvancedBionicArm.comps.0.tools.0.label>
+
   <AdvancedBionicLeg.label>先进仿生腿</AdvancedBionicLeg.label>
   <AdvancedBionicHand.label>先进仿生手</AdvancedBionicHand.label>
   <AdvancedBionicFoot.label>先进仿生足</AdvancedBionicFoot.label>

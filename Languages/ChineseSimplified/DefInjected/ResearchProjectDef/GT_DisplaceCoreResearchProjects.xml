@@ -1,26 +1,26 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <!--[Core] <TransportPod.label>transport pod</TransportPod.label>-->
-  <!--[Core] <TransportPod.description>Construct launchable transport pods that you can use to launch people and supplies long distances across the planet's surface.</TransportPod.description>-->
+  <!--[Core] <TransportPod.label>运输舱</TransportPod.label>-->
+  <!--[Core] <TransportPod.description>建造可发射的「运输舱」，可以远距离发射你的人和物资越过行星表面。</TransportPod.description>-->
 
-  <!--[Core] <HospitalBed.label>hospital bed</HospitalBed.label>-->
-  <!--[Core] <HospitalBed.description>Allows colonists to construct hospital beds which increase chance of successful medical work.</HospitalBed.description>-->
+  <!--[Core] <HospitalBed.label>医疗床</HospitalBed.label>-->
+  <!--[Core] <HospitalBed.description>解锁建造「医疗床」，提高医疗工作的质量和成功率。</HospitalBed.description>-->
 
-  <!--[Core] <MultiAnalyzer.label>multi-analyzer</MultiAnalyzer.label>-->
-  <!--[Core] <MultiAnalyzer.description>Allows colonists to build multi-analyzers which increase research speed, and allow higher-level research projects, if placed near a research bench.</MultiAnalyzer.description>-->
+  <!--[Core] <MultiAnalyzer.label>多元分析仪</MultiAnalyzer.label>-->
+  <!--[Core] <MultiAnalyzer.description>解锁建造「多元分析仪」，提高研究速度，以及解锁更高级的研究项目，必须建造在高级研究台旁。</MultiAnalyzer.description>-->
 
-  <!--[Core] <VitalsMonitor.label>vitals monitor</VitalsMonitor.label>-->
-  <!--[Core] <VitalsMonitor.description>Allows colonists to build vitals monitors which increase patients treatment quality if placed next to medical beds.</VitalsMonitor.description>-->
+  <!--[Core] <VitalsMonitor.label>生命体征监测仪</VitalsMonitor.label>-->
+  <!--[Core] <VitalsMonitor.description>解锁建造「生命体征监测仪」，将其放在医疗床旁时能提高医疗质量。</VitalsMonitor.description>-->
 
-  <!--[Core] <GroundPenetratingScanner.label>ground-penetrating scanner</GroundPenetratingScanner.label>-->
-  <!--[Core] <GroundPenetratingScanner.description>Allows you to build ground-penetrating scanners that can detect drillable resources deep under the surface.</GroundPenetratingScanner.description>-->
+  <!--[Core] <GroundPenetratingScanner.label>地质扫描仪</GroundPenetratingScanner.label>-->
+  <!--[Core] <GroundPenetratingScanner.description>允许你建造「地质扫描仪」，来勘探可用深钻井开采的地底资源。</GroundPenetratingScanner.description>-->
 
-  <!--[Core] <DeepDrilling.label>deep drilling</DeepDrilling.label>-->
-  <!--[Core] <DeepDrilling.description>Allows you to build deep drills for extracting resources from deep underground. You'll need a ground-penetrating scanner to find the resources.</DeepDrilling.description>-->
+  <!--[Core] <DeepDrilling.label>深钻井</DeepDrilling.label>-->
+  <!--[Core] <DeepDrilling.description>允许你建造「深钻井」，来开采深埋在地表之下的资源。你必须先用地质扫描仪来进行勘探。</DeepDrilling.description>-->
 
-  <!--[Core] <ShipBasics.label>shipbuilding basics</ShipBasics.label>-->
-  <!--[Core] <ShipBasics.description>Allows you to start researching more advanced shipbuilding technologies and eventually build a ship to escape the planet.</ShipBasics.description>-->
+  <!--[Core] <ShipBasics.label>飞船建造基础</ShipBasics.label>-->
+  <!--[Core] <ShipBasics.description>解锁研究更多高级的飞船建造技术，最终能够建造出载人逃离这个星球的飞船。</ShipBasics.description>-->
 
 
 </LanguageData>

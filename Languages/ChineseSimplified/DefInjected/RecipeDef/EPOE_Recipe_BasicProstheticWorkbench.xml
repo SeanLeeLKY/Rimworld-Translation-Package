@@ -13,8 +13,8 @@
   <CreateEyePatch.description>使用织物缝制眼罩。</CreateEyePatch.description>
   <CreateEyePatch.jobString>正在制作假体。</CreateEyePatch.jobString>
 
-  <CreateHookHand.label>制作勾手</CreateHookHand.label>
-  <CreateHookHand.description>使用织物和金属制作勾手。</CreateHookHand.description>
+  <CreateHookHand.label>制作钩手</CreateHookHand.label>
+  <CreateHookHand.description>使用织物和金属制作钩手。</CreateHookHand.description>
   <CreateHookHand.jobString>正在制作假体。</CreateHookHand.jobString>
 
   <CreateDenture.label>制作义齿</CreateDenture.label>
