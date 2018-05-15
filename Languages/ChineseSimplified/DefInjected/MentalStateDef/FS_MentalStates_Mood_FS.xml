@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Mental breaks: extreme -->
+
+  <Possessed.label>魔怔</Possessed.label>
+  <Possessed.beginLetter>{0} 变得魔怔了！</Possessed.beginLetter>
+  <Possessed.beginLetterLabel>魔怔</Possessed.beginLetterLabel>
+  <Possessed.recoveryMessage>{0} 不再魔怔。</Possessed.recoveryMessage>
+  <Possessed.baseInspectLine>精神状态：魔怔</Possessed.baseInspectLine>
+
+
+</LanguageData>

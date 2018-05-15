@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <Settings.VisibilityHeadgearLabel>帽子能见度</Settings.VisibilityHeadgearLabel>
+  <Settings.PawnFeaturesLabel>面部特征</Settings.PawnFeaturesLabel>
+  <Settings.EditorLabel>编辑器设置</Settings.EditorLabel>
+  <Settings.ExperimentalLabel>试验性功能</Settings.ExperimentalLabel>
+
+  <Settings.UseWrinkles>给殖民者增添皱纹</Settings.UseWrinkles>
+  <Settings.UseWrinklesTooltip>老人的皱纹。</Settings.UseWrinklesTooltip>
+  <Settings.UseMouth>给殖民者增添嘴巴</Settings.UseMouth>
+  <Settings.UseMouthTooltip>灵动的嘴部表情能使小人更好的表达出自己的情感。</Settings.UseMouthTooltip>
+  <Settings.MergeHair>显示帽子下的头发</Settings.MergeHair>
+  <Settings.MergeHairTooltip>显示帽子下修正的发型贴图。</Settings.MergeHairTooltip>
+
+  <Settings.FilterHats>仅在室外护目镜</Settings.FilterHats>
+  <Settings.FilterHatsTooltip>在室内不显示小人身上额外的头部装备，例如护目镜。</Settings.FilterHatsTooltip>
+
+  <Settings.HideHatWhileRoofed>仅在室外显示帽子</Settings.HideHatWhileRoofed>
+  <Settings.HideHatWhileRoofedTooltip>在室内不显示小人头上的帽子。</Settings.HideHatWhileRoofedTooltip>
+  <Settings.HideShellWhileRoofed>仅在室外显示外套</Settings.HideShellWhileRoofed>
+  <Settings.HideShellWhileRoofedTooltip>在室内不显示身上的最外层服装。</Settings.HideShellWhileRoofedTooltip>
+  <Settings.SameBeardColor>头发和胡须总是用同样的颜色</Settings.SameBeardColor>
+  <Settings.SameBeardColorTooltip>开启该功能，则小人的胡子和头发总是会拥有同样的颜色（默认为关闭）。</Settings.SameBeardColorTooltip>
+  <Settings.HideHatInBed>不在床上显示帽子</Settings.HideHatInBed>
+  <Settings.HideHatInBedTooltip>当身体没有显示出来的时候也不会显示帽子。</Settings.HideHatInBedTooltip>
+  <Settings.Apply>保存并应用设定</Settings.Apply>
+
+  <Settings.ShowExtraParts>显示额外设定</Settings.ShowExtraParts>
+  <Settings.ShowExtraPartsTooltip>头部可移除或者增添</Settings.ShowExtraPartsTooltip>
+  <Settings.UseWeirdHairChoices>花式发型</Settings.UseWeirdHairChoices>
+  <Settings.UseWeirdHairChoicesTooltip>增添了一些更“狂野”的发型供你选择。而且如果某个派系科技水平越先进，他们就会更倾向于选择一个非自然的独特发色和一个渐变的、中性的发型。</Settings.UseWeirdHairChoicesTooltip>
+  <Settings.UseHairDNA>发型DNA</Settings.UseHairDNA>
+  <Settings.UseHairDNATooltip>开启这个功能可以使得在一个家庭关系内保持基本一致的发色。</Settings.UseHairDNATooltip>
+  <Settings.MakeThemBlink>眼部动画</Settings.MakeThemBlink>
+  <Settings.MakeThemBlinkTooltip>殖民者不再一个劲儿的只会盯着屏幕前的“你”。</Settings.MakeThemBlinkTooltip>
+  <Settings.UseCaching>导出发型缓存</Settings.UseCaching>
+  <Settings.UseCachingTooltip>将发型导出为PNG格式并保存在mod文件夹里。</Settings.UseCachingTooltip>
+  <Settings.UseHeadRotator>头部旋转</Settings.UseHeadRotator>
+  <Settings.UseHeadRotatorTooltip>当进行社交或互动时使小人的面部会朝着对方。</Settings.UseHeadRotatorTooltip>
+  <Settings.UseNastyGrin>猥琐笑容</Settings.UseNastyGrin>
+  <Settings.UseNastyGrinTooltip>当小人非常高兴的时候，会露给一个猥琐的咧嘴笑。</Settings.UseNastyGrinTooltip>
+
+  <FacialStuffEditor.CannotUseNoFacePawn>{0} 无法使用这个。仅限男性。</FacialStuffEditor.CannotUseNoFacePawn>
+  <FacialStuffEditor.CannotUseShouldNotRender>{0} 无法使用这个。太娘门了。</FacialStuffEditor.CannotUseShouldNotRender>
+  <FacialStuffEditor.FaceStylerTitle>面部风格</FacialStuffEditor.FaceStylerTitle>
+  <FacialStuffEditor.Accept>接受并保存</FacialStuffEditor.Accept>
+  <FacialStuffEditor.EditFace>编辑殖民者外貌</FacialStuffEditor.EditFace>
+  <FacialStuffEditor.MelaninLevel>黑色素</FacialStuffEditor.MelaninLevel>
+
+  <FacialStuffEditor.Cuticula>角质层</FacialStuffEditor.Cuticula>
+  <FacialStuffEditor.Greyness>灰斑</FacialStuffEditor.Greyness>
+  <FacialStuffEditor.Eumelanin>真黑素\n真黑素决定了深色系，如黑、蓝、棕。</FacialStuffEditor.Eumelanin>
+  <FacialStuffEditor.Pheomelanin>棕黑素\n棕黑素影响浅色的红黄系，如茶、红、黄。</FacialStuffEditor.Pheomelanin>
+  <FacialStuffEditor.Wrinkles>皱纹</FacialStuffEditor.Wrinkles>
+
+  <FacialStuffEditor.SkinSettings>皮肤设定</FacialStuffEditor.SkinSettings>
+  <FacialStuffEditor.HairSettings>发型设定</FacialStuffEditor.HairSettings>
+
+  <!-- Dresser -->
+
+  <!-- Common Strings -->
+  <FacialStuffEditor.Save>保存</FacialStuffEditor.Save>
+  <FacialStuffEditor.Reset>重置</FacialStuffEditor.Reset>
+
+  <!-- Dresser UI -->
+  <FacialStuffEditor.BodyType>身体类型</FacialStuffEditor.BodyType>
+  <FacialStuffEditor.HeadType>头部类型</FacialStuffEditor.HeadType>
+  <FacialStuffEditor.SkinColor>肤色</FacialStuffEditor.SkinColor>
+  <FacialStuffEditor.Gender>性别</FacialStuffEditor.Gender>
+  <FacialStuffEditor.HairStyle>发型</FacialStuffEditor.HairStyle>
+  <FacialStuffEditor.AgeBiological>生物年龄</FacialStuffEditor.AgeBiological>
+  <FacialStuffEditor.AgeChronological>实际年龄</FacialStuffEditor.AgeChronological>
+  <FacialStuffEditor.Urban>都市</FacialStuffEditor.Urban>
+  <FacialStuffEditor.Rural>乡村</FacialStuffEditor.Rural>
+  <FacialStuffEditor.Punk>朋克</FacialStuffEditor.Punk>
+  <FacialStuffEditor.Tribal>部落</FacialStuffEditor.Tribal>
+
+  <!-- Help Text -->
+  <FacialStuffEditor.GenderChangeWarning>更改这些值可能会产生不利影响。\n如出问题后果自负。</FacialStuffEditor.GenderChangeWarning>
+  <!-- Mod Settings -->
+  <FacialStuffEditor.ShowBodyChange>允许改变体型</FacialStuffEditor.ShowBodyChange>
+  <FacialStuffEditor.ShowGenderChange>允许改变性别</FacialStuffEditor.ShowGenderChange>
+
+  <FacialStuffEditor.Any>任何</FacialStuffEditor.Any>
+  <FacialStuffEditor.All>所有</FacialStuffEditor.All>
+  <FacialStuffEditor.Original>原始的</FacialStuffEditor.Original>
+  <FacialStuffEditor.Hair>发型</FacialStuffEditor.Hair>
+  <FacialStuffEditor.Beard>胡子</FacialStuffEditor.Beard>
+  <FacialStuffEditor.Eye>眼睛</FacialStuffEditor.Eye>
+  <FacialStuffEditor.Brow>眉毛</FacialStuffEditor.Brow>
+  <FacialStuffEditor.TypeSelector>类别选择器</FacialStuffEditor.TypeSelector>
+  <FacialStuffEditor.DrawMouth>如果适合，给殖民者添上一个嘴巴</FacialStuffEditor.DrawMouth>
+  <FacialStuffEditor.SameColor>为发型和胡子使用同一个颜色</FacialStuffEditor.SameColor>
+  <FacialStuffEditor.SameColorTip>如果停用，在点击胡子后只能用颜色选择器来给胡子选择颜色。</FacialStuffEditor.SameColorTip>
+
+  <FacialStuffEditor.FullBeards>络腮胡子</FacialStuffEditor.FullBeards>
+  <FacialStuffEditor.Combinable>组合</FacialStuffEditor.Combinable>
+
+</LanguageData>
