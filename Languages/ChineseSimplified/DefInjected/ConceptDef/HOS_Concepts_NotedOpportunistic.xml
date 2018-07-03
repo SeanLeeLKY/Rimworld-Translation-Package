@@ -9,5 +9,8 @@
   <RecruitGuest.label>正在招募访客</RecruitGuest.label>
   <RecruitGuest.helpText>你可以招募访客。\n\n招募一名访客将会破坏你与其所属势力的友谊。确保你有一名高社交技能的殖民者被指派了交涉任务。</RecruitGuest.helpText>
 
+  <GuestWork.label>访客帮忙</GuestWork.label>
+  <GuestWork.helpText>如果他们足够熟练，快乐的客人将帮忙工作。你可以禁用这个或者在mod选项中提高所需的技能。</GuestWork.helpText>
+
 
 </LanguageData>

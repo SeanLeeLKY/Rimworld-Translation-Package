@@ -43,6 +43,11 @@
   <VisitorsArrivedRefuse>送离</VisitorsArrivedRefuse>
 
   <!-- Tab -->
+  <AreaToStay>住宿地区</AreaToStay>
+  <AreaToBuy>购物区</AreaToBuy>
+  <AreaNoShopping>没有购物</AreaNoShopping>
+  <AreaToStayTooltip>这是客人可以睡觉和闲逛的地方。</AreaToStayTooltip>
+  <AreaToBuyTooltip>客人可以在这个区域购买物品。 必须在住宿区内。</AreaToBuyTooltip>
   <ConvincingLeft>说服难度</ConvincingLeft>
   <FriendsRequirement>可进行招募的朋友人数： {0}/{1}</FriendsRequirement>
   <RecruitmentPenalty>招募后对友好度的损害</RecruitmentPenalty>
@@ -59,7 +64,7 @@
   <IsATrader>NAME 是贸易远行队的成员，而不是访客。</IsATrader>
 
   <!-- Infos -->
-  <StatsReport_FinalAdjustment>调整</StatsReport_FinalAdjustment>
+ <StatsReport_FinalAdjustment>调整</StatsReport_FinalAdjustment>
 
   <!-- Bed -->
   <ForGuestUse>访客专用</ForGuestUse>
