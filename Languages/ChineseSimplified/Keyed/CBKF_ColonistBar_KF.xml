@@ -15,7 +15,7 @@
 	<CBKF.Settings.Health>健康</CBKF.Settings.Health>
 	<CBKF.Settings.MaleColor>男性殖民者颜色</CBKF.Settings.MaleColor>
 	<CBKF.Settings.MarginBottom>底边距</CBKF.Settings.MarginBottom>
-	<CBKF.Settings.MarginHorizontal>Max colonist bar width: </CBKF.Settings.MarginHorizontal>
+	<CBKF.Settings.MarginHorizontal>窗格最大宽度： </CBKF.Settings.MarginHorizontal>
 	<CBKF.Settings.MarginRight>右边距</CBKF.Settings.MarginRight>
 	<CBKF.Settings.MarginTop>顶边距</CBKF.Settings.MarginTop>
 	<CBKF.Settings.MaxColonistBarWidth>最小头像宽度</CBKF.Settings.MaxColonistBarWidth>
@@ -139,15 +139,15 @@
 	<PSI.Settings.Visibility.Unarmed>徒手</PSI.Settings.Visibility.Unarmed>
 	<PSI.Settings.VisibilityButton>能见度</PSI.Settings.VisibilityButton>
 
-  <CBKF.Settings.UseNewMood>Use new MoodBars™</CBKF.Settings.UseNewMood>
-  <FollowMe.StartFollow>FollowMe™</FollowMe.StartFollow>
-  <FollowMe.StopFollow>Stop FollowMe™</FollowMe.StopFollow>
-  <PSI.Settings.Visibility.Drunk>Drug addictions and unstable pawns</PSI.Settings.Visibility.Drunk>
-	<PSI.DiseaseProgress>Disease</PSI.DiseaseProgress>
-	<PSI.Efficiency>Efficiency</PSI.Efficiency>
-  <PSI.Settings.UsePsiOnAnimals>Show Pawn State Icons™ on Animals</PSI.Settings.UsePsiOnAnimals>
-  <PSI.Settings.ShowRelationsOnStrangers>Show Pawn Health Icon™ on Strangers with relations</PSI.Settings.ShowRelationsOnStrangers>
-  <CBKF.Settings.useFollowMessage>Use FollowMe notification</CBKF.Settings.useFollowMessage>
+	<CBKF.Settings.UseNewMood>使用新状态条™</CBKF.Settings.UseNewMood>
+	<FollowMe.StartFollow>镜头跟随™</FollowMe.StartFollow>
+	<FollowMe.StopFollow>停止镜头跟随™</FollowMe.StopFollow>
+	<PSI.Settings.Visibility.Drunk>成瘾品状态和状态不稳定单位</PSI.Settings.Visibility.Drunk>
+	<PSI.DiseaseProgress>疾病</PSI.DiseaseProgress>
+	<PSI.Efficiency>效率</PSI.Efficiency>
+	<PSI.Settings.UsePsiOnAnimals>在动物身上使用状态图标™</PSI.Settings.UsePsiOnAnimals>
+	<PSI.Settings.ShowRelationsOnStrangers>在陌生人身上使用状态图标™</PSI.Settings.ShowRelationsOnStrangers>
+	<CBKF.Settings.useFollowMessage>使用镜头跟随提示</CBKF.Settings.useFollowMessage>
 
-  <!--+ August-->
+	<!--+ August-->
 </LanguageData>
