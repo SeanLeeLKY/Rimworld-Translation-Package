@@ -1,0 +1,108 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artificial Body Parts -->
+
+  <InstallFSFArtificialNose.label>安装人造鼻</InstallFSFArtificialNose.label>
+  <InstallFSFArtificialNose.description>安装一个人造鼻.</InstallFSFArtificialNose.description>
+  <InstallFSFArtificialNose.jobString>正在安装人造鼻.</InstallFSFArtificialNose.jobString>
+
+  <InstallFSFArtificialSternum.label>安装人造胸骨</InstallFSFArtificialSternum.label>
+  <InstallFSFArtificialSternum.description>安装一个人造胸骨.</InstallFSFArtificialSternum.description>
+  <InstallFSFArtificialSternum.jobString>正在安装人造胸骨.</InstallFSFArtificialSternum.jobString>
+
+  <InstallFSFArtificialRibcage.label>安装人造胸腔</InstallFSFArtificialRibcage.label>
+  <InstallFSFArtificialRibcage.description>安装一个人造胸腔.</InstallFSFArtificialRibcage.description>
+  <InstallFSFArtificialRibcage.jobString>正在安装人造胸腔.</InstallFSFArtificialRibcage.jobString>
+
+  <InstallFSFArtificialPelvis.label>安装人造骨盆</InstallFSFArtificialPelvis.label>
+  <InstallFSFArtificialPelvis.description>安装一个人造骨盆.</InstallFSFArtificialPelvis.description>
+  <InstallFSFArtificialPelvis.jobString>正在安装人造骨盆.</InstallFSFArtificialPelvis.jobString>
+
+
+  <!-- Prosthetic Body Parts -->
+
+  <InstallFSFProstheticEye.label>安装义眼</InstallFSFProstheticEye.label>
+  <InstallFSFProstheticEye.description>安装一个义眼.</InstallFSFProstheticEye.description>
+  <InstallFSFProstheticEye.jobString>正在安装义眼.</InstallFSFProstheticEye.jobString>
+
+  <InstallFSFProstheticSpine.label>安装人造脊柱</InstallFSFProstheticSpine.label>
+  <InstallFSFProstheticSpine.description>安装一个人造脊柱.</InstallFSFProstheticSpine.description>
+  <InstallFSFProstheticSpine.jobString>正在安装人造脊柱.</InstallFSFProstheticSpine.jobString>
+
+  <InstallFSFSimpleProstheticLung.label>安装简单的假肺</InstallFSFSimpleProstheticLung.label>
+  <InstallFSFSimpleProstheticLung.description>安装一个简单的假肺.</InstallFSFSimpleProstheticLung.description>
+  <InstallFSFSimpleProstheticLung.jobString>正在安装简单的假肺.</InstallFSFSimpleProstheticLung.jobString>
+
+  <InstallFSFSimpleProstheticKidney.label>安装简单的假肾</InstallFSFSimpleProstheticKidney.label>
+  <InstallFSFSimpleProstheticKidney.description>安装一个简单的假肾.</InstallFSFSimpleProstheticKidney.description>
+  <InstallFSFSimpleProstheticKidney.jobString>正在安装简单的假肾.</InstallFSFSimpleProstheticKidney.jobString>
+
+  <InstallFSFSimpleProstheticLiver.label>安装简单的假肝</InstallFSFSimpleProstheticLiver.label>
+  <InstallFSFSimpleProstheticLiver.description>安装一个简单的假肝.</InstallFSFSimpleProstheticLiver.description>
+  <InstallFSFSimpleProstheticLiver.jobString>正在安装简单的假肝.</InstallFSFSimpleProstheticLiver.jobString>
+
+  <InstallFSFSimpleProstheticStomach.label>安装简单的假胃</InstallFSFSimpleProstheticStomach.label>
+  <InstallFSFSimpleProstheticStomach.description>安装一个简单的假胃.</InstallFSFSimpleProstheticStomach.description>
+  <InstallFSFSimpleProstheticStomach.jobString>正在安装简单的假胃.</InstallFSFSimpleProstheticStomach.jobString>
+
+
+  <!-- Bionic Body Parts -->
+
+  <InstallFSFBionicPowerArm.label>安装动力臂</InstallFSFBionicPowerArm.label>
+  <InstallFSFBionicPowerArm.description>安装一个动力臂.</InstallFSFBionicPowerArm.description>
+  <InstallFSFBionicPowerArm.jobString>正在安装动力臂.</InstallFSFBionicPowerArm.jobString>
+
+  <InstallFSFBionicJaw.label>安装仿生颌</InstallFSFBionicJaw.label>
+  <InstallFSFBionicJaw.description>安装一个仿生颌.</InstallFSFBionicJaw.description>
+  <InstallFSFBionicJaw.jobString>正在安装仿生颌.</InstallFSFBionicJaw.jobString>
+
+  <InstallFSFBionicLung.label>安装仿生肺</InstallFSFBionicLung.label>
+  <InstallFSFBionicLung.description>安装一个仿生肺.</InstallFSFBionicLung.description>
+  <InstallFSFBionicLung.jobString>正在安装仿生肺.</InstallFSFBionicLung.jobString>
+
+  <InstallFSFBionicKidney.label>安装仿生肾</InstallFSFBionicKidney.label>
+  <InstallFSFBionicKidney.description>安装一个仿生肾.</InstallFSFBionicKidney.description>
+  <InstallFSFBionicKidney.jobString>正在安装仿生肾.</InstallFSFBionicKidney.jobString>
+
+  <InstallFSFBionicLiver.label>安装仿生肝</InstallFSFBionicLiver.label>
+  <InstallFSFBionicLiver.description>安装一个仿生肝.</InstallFSFBionicLiver.description>
+  <InstallFSFBionicLiver.jobString>正在安装仿生肝.</InstallFSFBionicLiver.jobString>
+
+
+  <!-- Archotech Body Parts -->
+
+  <InstallFSFArchotechEar.label>安装远古仿生耳</InstallFSFArchotechEar.label>
+  <InstallFSFArchotechEar.description>安装一个远古仿生耳.</InstallFSFArchotechEar.description>
+  <InstallFSFArchotechEar.jobString>正在安装远古仿生耳.</InstallFSFArchotechEar.jobString>
+
+  <InstallFSFArchotechJaw.label>安装远古假颌</InstallFSFArchotechJaw.label>
+  <InstallFSFArchotechJaw.description>安装一个远古假颌.</InstallFSFArchotechJaw.description>
+  <InstallFSFArchotechJaw.jobString>正在安装远古假颌.</InstallFSFArchotechJaw.jobString>
+
+  <InstallFSFArchotechSpine.label>安装远古仿生脊柱</InstallFSFArchotechSpine.label>
+  <InstallFSFArchotechSpine.description>安装一个远古仿生脊柱.</InstallFSFArchotechSpine.description>
+  <InstallFSFArchotechSpine.jobString>正在安装远古仿生脊柱.</InstallFSFArchotechSpine.jobString>
+
+  <InstallFSFArchotechHeart.label>安装远古仿生心</InstallFSFArchotechHeart.label>
+  <InstallFSFArchotechHeart.description>安装远古远古仿生心.</InstallFSFArchotechHeart.description>
+  <InstallFSFArchotechHeart.jobString>正在安装远古仿生心.</InstallFSFArchotechHeart.jobString>
+
+  <InstallFSFArchotechLung.label>安装远古仿生肺</InstallFSFArchotechLung.label>
+  <InstallFSFArchotechLung.description>安装一个远古仿生肺.</InstallFSFArchotechLung.description>
+  <InstallFSFArchotechLung.jobString>正在安装远古仿生肺.</InstallFSFArchotechLung.jobString>
+
+  <InstallFSFArchotechKidney.label>安装远古仿生肾</InstallFSFArchotechKidney.label>
+  <InstallFSFArchotechKidney.description>安装一个远古仿生肾.</InstallFSFArchotechKidney.description>
+  <InstallFSFArchotechKidney.jobString>正在安装远古仿生肾.</InstallFSFArchotechKidney.jobString>
+
+  <InstallFSFArchotechLiver.label>安装远古仿生肝</InstallFSFArchotechLiver.label>
+  <InstallFSFArchotechLiver.description>安装一个远古仿生肝.</InstallFSFArchotechLiver.description>
+  <InstallFSFArchotechLiver.jobString>正在安装远古仿生肝.</InstallFSFArchotechLiver.jobString>
+
+  <InstallFSFArchotechStomach.label>安装远古仿生胃</InstallFSFArchotechStomach.label>
+  <InstallFSFArchotechStomach.description>安装一个远古仿生胃.</InstallFSFArchotechStomach.description>
+  <InstallFSFArchotechStomach.jobString>正在安装一个远古仿生胃.</InstallFSFArchotechStomach.jobString>
+
+
+</LanguageData>

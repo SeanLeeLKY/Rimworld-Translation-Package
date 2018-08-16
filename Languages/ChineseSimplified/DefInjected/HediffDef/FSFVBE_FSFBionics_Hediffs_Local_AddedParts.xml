@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artificial Body Parts -->
+
+  <FSFArtificialNose.label>人造鼻</FSFArtificialNose.label>
+  <FSFArtificialNose.labelNoun>一个人造鼻</FSFArtificialNose.labelNoun>
+
+  <FSFArtificialSternum.label>人造胸骨</FSFArtificialSternum.label>
+  <FSFArtificialSternum.labelNoun>一个人造胸骨</FSFArtificialSternum.labelNoun>
+
+  <FSFArtificialRibcage.label>人造胸腔</FSFArtificialRibcage.label>
+  <FSFArtificialRibcage.labelNoun>一个人造胸腔</FSFArtificialRibcage.labelNoun>
+
+  <FSFArtificialPelvis.label>人造骨盆</FSFArtificialPelvis.label>
+  <FSFArtificialPelvis.labelNoun>一个人造骨盆</FSFArtificialPelvis.labelNoun>
+
+
+  <!-- Prosthetic Body Parts -->
+
+  <FSFProstheticEye.label>义眼</FSFProstheticEye.label>
+  <FSFProstheticEye.labelNoun>一个义眼</FSFProstheticEye.labelNoun>
+
+  <FSFProstheticSpine.label>人造脊柱</FSFProstheticSpine.label>
+  <FSFProstheticSpine.labelNoun>一个人造脊柱</FSFProstheticSpine.labelNoun>
+
+  <FSFSimpleProstheticLung.label>简单的假肺</FSFSimpleProstheticLung.label>
+  <FSFSimpleProstheticLung.labelNoun>一个简单的假肺</FSFSimpleProstheticLung.labelNoun>
+
+  <FSFSimpleProstheticKidney.label>简单的假肾</FSFSimpleProstheticKidney.label>
+  <FSFSimpleProstheticKidney.labelNoun>一个简单的假肾</FSFSimpleProstheticKidney.labelNoun>
+
+  <FSFSimpleProstheticLiver.label>简单的假肝</FSFSimpleProstheticLiver.label>
+  <FSFSimpleProstheticLiver.labelNoun>一个简单的假肝</FSFSimpleProstheticLiver.labelNoun>
+
+  <FSFSimpleProstheticStomach.label>简单的假胃</FSFSimpleProstheticStomach.label>
+  <FSFSimpleProstheticStomach.labelNoun>一个简单的假胃</FSFSimpleProstheticStomach.labelNoun>
+
+
+  <!-- Bionic Body Parts -->
+
+  <FSFBionicPowerArm.label>动力臂</FSFBionicPowerArm.label>
+  <FSFBionicPowerArm.comps.0.tools.0.label>爪</FSFBionicPowerArm.comps.0.tools.0.label>
+  <FSFBionicPowerArm.labelNoun>一个动力臂</FSFBionicPowerArm.labelNoun>
+
+  <FSFBionicJaw.label>仿生颌</FSFBionicJaw.label>
+  <FSFBionicJaw.labelNoun>一个仿生颌</FSFBionicJaw.labelNoun>
+
+  <FSFBionicLung.label>仿生肺</FSFBionicLung.label>
+  <FSFBionicLung.labelNoun>一个仿生肺</FSFBionicLung.labelNoun>
+
+  <FSFBionicKidney.label>仿生肾</FSFBionicKidney.label>
+  <FSFBionicKidney.labelNoun>一个仿生肾</FSFBionicKidney.labelNoun>
+
+  <FSFBionicLiver.label>仿生肝</FSFBionicLiver.label>
+  <FSFBionicLiver.labelNoun>一个仿生肝</FSFBionicLiver.labelNoun>
+
+
+  <!-- Archotech Body Parts -->
+
+  <FSFArchotechEar.label>远古仿生耳</FSFArchotechEar.label>
+  <FSFArchotechEar.labelNoun>一个远古仿生耳</FSFArchotechEar.labelNoun>
+
+  <FSFArchotechJaw.label>远古仿生颌</FSFArchotechJaw.label>
+  <FSFArchotechJaw.labelNoun>一个远古仿生颌</FSFArchotechJaw.labelNoun>
+
+  <FSFArchotechSpine.label>远古仿生脊柱</FSFArchotechSpine.label>
+  <FSFArchotechSpine.labelNoun>一个远古仿生脊柱</FSFArchotechSpine.labelNoun>
+
+  <FSFArchotechHeart.label>远古仿生心</FSFArchotechHeart.label>
+  <FSFArchotechHeart.labelNoun>一个远古仿生心</FSFArchotechHeart.labelNoun>
+
+  <FSFArchotechLung.label>远古仿生肺</FSFArchotechLung.label>
+  <FSFArchotechLung.labelNoun>一个远古仿生肺</FSFArchotechLung.labelNoun>
+
+  <FSFArchotechKidney.label>远古仿生肾</FSFArchotechKidney.label>
+  <FSFArchotechKidney.labelNoun>一个远古仿生肾</FSFArchotechKidney.labelNoun>
+
+  <FSFArchotechLiver.label>远古仿生肝</FSFArchotechLiver.label>
+  <FSFArchotechLiver.labelNoun>一个远古仿生肝</FSFArchotechLiver.labelNoun>
+
+  <FSFArchotechStomach.label>远古仿生胃</FSFArchotechStomach.label>
+  <FSFArchotechStomach.labelNoun>一个远古仿生胃</FSFArchotechStomach.labelNoun>
+
+
+</LanguageData>

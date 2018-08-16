@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Artificial Body Parts -->
+
+  <FSFArtificialNose.label>人造鼻</FSFArtificialNose.label>
+  <FSFArtificialNose.description>一个人造鼻,有机物鼻子的合适替代品.</FSFArtificialNose.description>
+
+  <FSFArtificialSternum.label>人造胸骨</FSFArtificialSternum.label>
+  <FSFArtificialSternum.description>一个人造胸骨,天然胸骨的合适替代品.</FSFArtificialSternum.description>
+
+  <FSFArtificialRibcage.label>人造胸腔</FSFArtificialRibcage.label>
+  <FSFArtificialRibcage.description>一个人造胸腔,天然胸腔的合适替代品.</FSFArtificialRibcage.description>
+
+  <FSFArtificialPelvis.label>人造骨盆</FSFArtificialPelvis.label>
+  <FSFArtificialPelvis.description>一个人造骨盆,天然骨盆的合适替代品.</FSFArtificialPelvis.description>
+
+
+  <!-- Prosthetic Body Parts -->
+
+  <FSFProstheticEye.label>义眼</FSFProstheticEye.label>
+  <FSFProstheticEye.description>一个义眼. 没有原装的有效,但是总比什么都没有的好.</FSFProstheticEye.description>
+
+  <FSFProstheticSpine.label>人造脊柱</FSFProstheticSpine.label>
+  <FSFProstheticSpine.description>一个人造脊柱. 没有原装的有效,但是总比什么都没有的好.</FSFProstheticSpine.description>
+
+  <FSFSimpleProstheticLung.label>简单的假肺</FSFSimpleProstheticLung.label>
+  <FSFSimpleProstheticLung.description>一个简单的假肺. 没有原装的有效,但是总比什么都没有的好.</FSFSimpleProstheticLung.description>
+
+  <FSFSimpleProstheticKidney.label>简单的假肾</FSFSimpleProstheticKidney.label>
+  <FSFSimpleProstheticKidney.description>一个简单的假肾. 没有原装的有效,但是总比什么都没有的好.</FSFSimpleProstheticKidney.description>
+
+  <FSFSimpleProstheticLiver.label>简单的假肝</FSFSimpleProstheticLiver.label>
+  <FSFSimpleProstheticLiver.description>一个简单的假肝. 没有原装的有效,但是总比什么都没有的好.</FSFSimpleProstheticLiver.description>
+
+  <FSFSimpleProstheticStomach.label>简单的假胃</FSFSimpleProstheticStomach.label>
+  <FSFSimpleProstheticStomach.description>一个简单的假胃. 没有原装的有效,但是总比什么都没有的好.</FSFSimpleProstheticStomach.description>
+
+
+  <!-- Bionic Body Parts -->
+
+  <FSFBionicPowerArm.label>动力臂</FSFBionicPowerArm.label>
+  <FSFBionicPowerArm.description>一个装有可伸缩动力爪刀片的先进人造手臂.静音微型伺服系统提供了强大的力量,而生物神经链提供了精确的控制.晶格尘埃愈合系统允许它从伤害中恢复.虽然在非战斗任务中不如仿生手臂有效,但伸缩刀片使它成为一种强大的武器.</FSFBionicPowerArm.description>
+
+  <FSFBionicJaw.label>仿生颌</FSFBionicJaw.label>
+  <FSFBionicJaw.description>一个先进的人造下颌.静音微型伺服系统提供了强大的力量,而晶格尘埃修复系统允许它从伤害中恢复.它几乎在所有方面都比生物颚好.</FSFBionicJaw.description>
+
+  <FSFBionicLung.label>仿生肺</FSFBionicLung.label>
+  <FSFBionicLung.description>一个先进人造肺. 静音微型伺服系统提供了强大的力量,而晶格尘埃修复系统允许它从伤害中恢复.它几乎在所以方面都比生物肺好.</FSFBionicLung.description>
+
+  <FSFBionicKidney.label>仿生肾</FSFBionicKidney.label>
+  <FSFBionicKidney.description>一个先进的人造肾.静音微型伺服系统提供了强大的力量,而晶格尘埃修复系统允许它从伤害中恢复.它几乎在所有方面都比生物肾好.</FSFBionicKidney.description>
+
+  <FSFBionicLiver.label>仿生肝</FSFBionicLiver.label>
+  <FSFBionicLiver.description>一个先进的人造肝. 静音微型伺服系统提供了强大的力量,而晶格尘埃修复系统允许它从伤害中恢复. 它几乎在所有方面都比生物肝好.</FSFBionicLiver.description>
+
+
+  <!-- Archotech Body Parts -->
+
+  <FSFArchotechEar.label>远古仿生耳</FSFArchotechEar.label>
+  <FSFArchotechEar.description>一个由远古科技制造的先进人造耳.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechEar.description>
+
+  <FSFArchotechJaw.label>远古仿生颌</FSFArchotechJaw.label>
+  <FSFArchotechJaw.description>一个由远古科技制造的先进人造颌.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechJaw.description>
+
+  <FSFArchotechSpine.label>远古仿生脊柱</FSFArchotechSpine.label>
+  <FSFArchotechSpine.description>一个由远古科技制造的先进人造脊柱.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechSpine.description>
+
+  <FSFArchotechHeart.label>远古仿生心</FSFArchotechHeart.label>
+  <FSFArchotechHeart.description>一个由远古科技制造的先进人造心.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechHeart.description>
+
+  <FSFArchotechLung.label>远古仿生肺</FSFArchotechLung.label>
+  <FSFArchotechLung.description>一个由远古科技制造的先进人造肺.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechLung.description>
+
+  <FSFArchotechKidney.label>远古仿生肾</FSFArchotechKidney.label>
+  <FSFArchotechKidney.description>一个由远古科技制造的先进人造肾.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechKidney.description>
+
+  <FSFArchotechLiver.label>远古仿生肝</FSFArchotechLiver.label>
+  <FSFArchotechLiver.description>一个由远古科技制造的先进人造肝.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechLiver.description>
+
+  <FSFArchotechStomach.label>远古仿生胃</FSFArchotechStomach.label>
+  <FSFArchotechStomach.description>一个由远古科技制造的先进人造胃.它看起来和感觉起来就和天然的一样,但是比玻璃钢更难损坏.即使受到伤害,它也会随着时间推移自我修复.它的内部运作对所有人来说都是个迷.</FSFArchotechStomach.description>
+
+
+</LanguageData>
