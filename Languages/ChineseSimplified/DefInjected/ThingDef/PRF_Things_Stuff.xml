@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PRFXComposite.label>X型复合材料</PRFXComposite.label>
+  <PRFXComposite.description>一种非常美丽和柔软的材料。其独特的分子结构是的它既可以作为织物也可以作为金属。</PRFXComposite.description>
+  <PRFXComposite.stuffProps.stuffAdjective>X型复合材料</PRFXComposite.stuffProps.stuffAdjective>
+
+  <PRFYComposite.label>Y型复合材料</PRFYComposite.label>
+  <PRFYComposite.description>一种非常坚硬和坚韧的材料，强度是玻璃钢的四倍，由Y型复合材料制成的武器拥有很短的冷却时间。</PRFYComposite.description>
+  <PRFYComposite.stuffProps.stuffAdjective>Y型复合材料</PRFYComposite.stuffProps.stuffAdjective>
+
+  <PRFZComposite.label>Z型复合材料</PRFZComposite.label>
+  <PRFZComposite.description>一种特殊的材料，可以作为任何材料的代替品。可以作为木材、金属、石头或织物。它坚硬但易弯曲，锋利但易于塑形。</PRFZComposite.description>
+  <PRFZComposite.stuffProps.stuffAdjective>Z型复合材料</PRFZComposite.stuffProps.stuffAdjective>
+
+
+  <!-- ThingDef ParentName="PRFResourceBase">
+    <defName>PRFIndestructium</defName>
+    <label>Indestructium</label>
+    <description>Compressed exotic matter held together by the strong force.</description>
+    <graphicData>
+      <texPath>Common/Composite</texPath>
+      <graphicClass>Graphic_StackCount</graphicClass>
+	  <color>(50, 50, 50)</color>
+    </graphicData>
+    <resourceReadoutPriority>Middle</resourceReadoutPriority>
+    <soundInteract>Metal_Drop</soundInteract>
+    <soundDrop>Metal_Drop</soundDrop>
+    <useHitPoints>false</useHitPoints>
+    <statBases>
+      <MarketValue>80000</MarketValue>
+      <Mass>100</Mass>
+      <SharpDamageMultiplier>100.0</SharpDamageMultiplier>
+      <BluntDamageMultiplier>100.0</BluntDamageMultiplier>
+    </statBases>
+    <thingCategories>
+      <li>ResourcesRaw</li>
+    </thingCategories>
+    <stackLimit>75</stackLimit>
+    <stuffProps>
+      <categories>
+        <li>Metallic</li>
+		<li>Stony</li>
+      </categories>
+      <color>(112,48,160)</color>
+      <commonality>0</commonality>
+      <constructEffect>ConstructMetal</constructEffect>
+      <soundImpactStuff>BulletImpact_Metal</soundImpactStuff>
+      <soundMeleeHitSharp>MeleeHit_Metal_Sharp</soundMeleeHitSharp>
+      <soundMeleeHitBlunt>MeleeHit_Metal_Blunt</soundMeleeHitBlunt>
+      <statOffsets>
+        <Beauty>2</Beauty>
+        <ArmorRating_Blunt>0.1</ArmorRating_Blunt>
+        <ArmorRating_Sharp>0.1</ArmorRating_Sharp>
+        <ArmorRating_Heat>0.1</ArmorRating_Heat>
+		
+      </statOffsets>
+      <statFactors>
+        <MaxHitPoints>10000</MaxHitPoints>
+        <Flammability>0</Flammability>
+        <WorkToMake>20</WorkToMake>
+        <WorkToBuild>20</WorkToBuild>
+        <Mass>10</Mass>
+        <MeleeWeapon_CooldownMultiplier>10</MeleeWeapon_CooldownMultiplier>
+        <DoorOpenSpeed>0.2</DoorOpenSpeed>
+        <ArmorRating_Blunt>80.0</ArmorRating_Blunt>
+        <ArmorRating_Sharp>80.0</ArmorRating_Sharp>
+        <ArmorRating_Heat>80.0</ArmorRating_Heat>
+        <Insulation_Cold>3.0</Insulation_Cold>
+        <Insulation_Heat>3.0</Insulation_Heat>
+      </statFactors>
+    </stuffProps>
+  </ThingDef -->
+
+  <PRFVolatiteChunk.label>V型物质</PRFVolatiteChunk.label>
+  <PRFVolatiteChunk.description>此物品不能直接当作原料使用，但可用于制作Z型材料、建造海克斯电容器，它非常不稳定，会在24小时内解体。</PRFVolatiteChunk.description>
+
+
+</LanguageData>

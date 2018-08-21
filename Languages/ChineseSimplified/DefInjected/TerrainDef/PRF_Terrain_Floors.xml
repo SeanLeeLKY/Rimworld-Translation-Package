@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <PRFXCompositeTile.label>X-Composite tile</PRFXCompositeTile.label>
+  <PRFXCompositeTile.description>X-Composite tiles engraved with intricate patterns. They are incredibly beautiful. Perfect for showing off as a glitterworld quindecillionaire.</PRFXCompositeTile.description>
+
+  <PRFYCompositeTile.label>Y-Composite tile</PRFYCompositeTile.label>
+  <PRFYCompositeTile.description>Y-Composite tiles. Much less beautiful than X-Composite but easier to build, and offers a great boost to cleanliness.</PRFYCompositeTile.description>
+
+  <PRFZCompositeTile.label>Z-Composite tile</PRFZCompositeTile.label>
+  <PRFZCompositeTile.description>Z-Composite tiles engraved with 3-d holograms. Ludicrously beautiful and offers moderate cleanliness.</PRFZCompositeTile.description>
+
+  <PRFFloorComputer.label>Floor computer</PRFFloorComputer.label>
+  <PRFFloorComputer.description>Fearsome-looking blinking lights embedded into the floor. Ridculously expensive. Provides moderate beauty. I wonder what these are even used for...</PRFFloorComputer.description>
+
+
+</LanguageData>

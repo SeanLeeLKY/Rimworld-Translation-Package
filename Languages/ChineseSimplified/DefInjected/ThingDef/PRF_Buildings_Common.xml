@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <AIResearchBench.label>AI研究台</AIResearchBench.label>
+  <AIResearchBench.description>安装有AI模块的高科技研究台，用于研究2级自动化科技，它不是原版高级研究台的代替品。需要电力。</AIResearchBench.description>
+  <AIResearchBench_Blueprint.label>AI研究台（蓝图）</AIResearchBench_Blueprint.label>
+  <AIResearchBench_Frame.label>AI研究台（建造中）</AIResearchBench_Frame.label>
+  <AIResearchBench_Frame.description>安装有AI模块的高科技研究台，用于研究2级自动化科技，它不是原版高级研究台的代替品。需要电力。</AIResearchBench_Frame.description>
+
+  <PRFQuantumComputer.label>量子计算机</PRFQuantumComputer.label>
+  <PRFQuantumComputer.description>研究3级自动化科技所必须的，可以提高75%的研究速度。需要放置在AI研究台附近。消耗较多的电力。一个研究台只能连接一个量子计算机。</PRFQuantumComputer.description>
+  <PRFQuantumComputer_Blueprint.label>量子计算机（蓝图）</PRFQuantumComputer_Blueprint.label>
+  <PRFQuantumComputer_Blueprint_Install.label>量子计算机（蓝图）</PRFQuantumComputer_Blueprint_Install.label>
+  <PRFQuantumComputer_Frame.label>量子计算机（建造中）</PRFQuantumComputer_Frame.label>
+  <PRFQuantumComputer_Frame.description>研究3级自动化科技所必须的，可以提高75%的研究速度。需要放置在AI研究台附近。消耗较多的电力。一个研究台只能连接一个量子计算机。</PRFQuantumComputer_Frame.description>
+
+
+  <!-- ThingDef ParentName="BuildingBase">
+    <defName>PRFQuantumComputerT</defName>
+    <label>quantum computer's twin brother</label>
+    <description>Test building. This is a bug if you see it.</description>
+    <graphicData>
+      <texPath>Things/Building/Misc/MultiAnalyzer</texPath>
+      <graphicClass>Graphic_Single</graphicClass>
+      <drawSize>(1,1)</drawSize>
+      <damageData>
+        <rect>(0.15,0.15,1.7,1.7)</rect>
+      </damageData>
+    </graphicData>
+    <researchPrerequisites><li>PRFQuantumComputing</li></researchPrerequisites>
+    <size>(1,1)</size>
+    <rotatable>false</rotatable>
+    <altitudeLayer>Building</altitudeLayer>
+    <passability>PassThroughOnly</passability>
+    <castEdgeShadows>true</castEdgeShadows>
+    <fillPercent>0.5</fillPercent>
+    <designationCategory>Misc</designationCategory>
+    <minifiedDef>MinifiedThing</minifiedDef>
+    <thingCategories><li>BuildingsMisc</li></thingCategories>
+    <canOverlapZones>false</canOverlapZones>
+    <statBases>
+      <MaxHitPoints>200</MaxHitPoints>
+      <WorkToBuild>5000</WorkToBuild>
+      <Mass>100</Mass>
+      <Flammability>1.0</Flammability>
+    </statBases>
+    <costList>
+      <Steel>100</Steel>
+    </costList>
+    <thingClass>ProjectRimFactory.Archo.Things.Building_PortalGenerator</thingClass>
+    <comps>
+      <li Class="CompProperties_Power">
+        <compClass>CompPowerTrader</compClass>
+        <basePowerConsumption>1000</basePowerConsumption>
+      </li>
+    </comps>
+    <constructionSkillPrerequisite>9</constructionSkillPrerequisite>
+  </ThingDef -->
+
+  <TableRoboticMachining.label>机器人加工台</TableRoboticMachining.label>
+  <TableRoboticMachining.description>为自动化建筑制作零件的工作台。</TableRoboticMachining.description>
+  <TableRoboticMachining_Blueprint.label>机器人加工台（蓝图）</TableRoboticMachining_Blueprint.label>
+  <TableRoboticMachining_Blueprint_Install.label>机器人加工台（蓝图）</TableRoboticMachining_Blueprint_Install.label>
+  <TableRoboticMachining_Frame.label>机器人加工台（建造中）</TableRoboticMachining_Frame.label>
+  <TableRoboticMachining_Frame.description>为自动化建筑制作零件的工作台。</TableRoboticMachining_Frame.description>
+
+
+</LanguageData>
