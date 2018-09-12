@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- New crop types Fruit Trees -->
+
+  <PlantAppletree.label>苹果树</PlantAppletree.label>
+  <PlantAppletree.description>苹果树，采摘后能保留树木。</PlantAppletree.description>
+
+  <PlantBananaTree.label>香蕉树</PlantBananaTree.label>
+  <PlantBananaTree.description>香蕉树，采摘后能保留树木。</PlantBananaTree.description>
+
+  <PlantorangeTree.label>橙树</PlantorangeTree.label>
+  <PlantorangeTree.description>橙树，采摘后能保留树木。</PlantorangeTree.description>
+
+  <PlantPeachTree.label>桃树</PlantPeachTree.label>
+  <PlantPeachTree.description>桃树，采摘后能保留树木。</PlantPeachTree.description>
+
+  <DateTree.label>海枣树</DateTree.label>
+  <DateTree.description>海枣树，采摘后能保留树木。</DateTree.description>
+
+  <FigTree.label>无花果树</FigTree.label>
+  <FigTree.description>树，采摘后能保留树木。</FigTree.description>
+
+  <Coconuttree.label>椰子树</Coconuttree.label>
+  <Coconuttree.description>椰子树，采摘后能保留树木。</Coconuttree.description>
+
+  <PlantCherrytree.label>樱桃树</PlantCherrytree.label>
+  <PlantCherrytree.description>樱桃树，采摘后能保留树木。</PlantCherrytree.description>
+
+
+  <!-- New fruit crop types -->
+
+  <Plantpineapple.label>菠萝</Plantpineapple.label>
+  <Plantpineapple.description>一种厚皮水果，生长在灌木上。</Plantpineapple.description>
+
+  <Plantcloudberry.label>云莓</Plantcloudberry.label>
+  <Plantcloudberry.description>寒冷气候中生长的浆果灌木。</Plantcloudberry.description>
+
+  <Plantgooseberry.label>醋栗</Plantgooseberry.label>
+  <Plantgooseberry.description>寒冷气候中生长的浆果灌木。</Plantgooseberry.description>
+
+  <Plantgrape.label>葡萄</Plantgrape.label>
+  <Plantgrape.description>能在细长藤蔓上结出甜蜜小果实的植物。</Plantgrape.description>
+
+  <Plantblueberry.label>蓝莓</Plantblueberry.label>
+  <Plantblueberry.description>一种长有蓝色浆果的灌木。</Plantblueberry.description>
+
+  <Plantwatermelon.label>西瓜</Plantwatermelon.label>
+  <Plantwatermelon.description>这种水果富含维生素A和C，可以生吃，也可以用多种方法进行烹调。</Plantwatermelon.description>
+
+
+</LanguageData>

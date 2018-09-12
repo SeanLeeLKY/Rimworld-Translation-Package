@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MakeBambooWood.label>制作原木（75）</MakeBambooWood.label>
+  <MakeBambooWood.description>用竹子制作原木. \n\n100竹子可以制成75原木。</MakeBambooWood.description>
+  <MakeBambooWood.jobString>制作原木中。</MakeBambooWood.jobString>
+
+
+</LanguageData>

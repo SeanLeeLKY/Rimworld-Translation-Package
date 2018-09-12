@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <FuelBurnRate.label>燃料燃烧速度</FuelBurnRate.label>
+  <FuelBurnRate.options.0.label>变态</FuelBurnRate.options.0.label>
+  <FuelBurnRate.options.1.label>25%</FuelBurnRate.options.1.label>
+  <FuelBurnRate.options.2.label>50%</FuelBurnRate.options.2.label>
+  <FuelBurnRate.options.3.label>75%</FuelBurnRate.options.3.label>
+  <FuelBurnRate.options.4.label>100%</FuelBurnRate.options.4.label>
+  <FuelBurnRate.options.5.label>125%</FuelBurnRate.options.5.label>
+  <FuelBurnRate.options.6.label>150%</FuelBurnRate.options.6.label>
+  <FuelBurnRate.options.7.label>200%</FuelBurnRate.options.7.label>
+  <FuelBurnRate.options.8.label>300%</FuelBurnRate.options.8.label>
+
+
+</LanguageData>

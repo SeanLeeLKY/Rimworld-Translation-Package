@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <Plantwheat.label>小麦</Plantwheat.label>
+  <Plantwheat.description>小麦是一种谷物，收获后能制成面粉。</Plantwheat.description>
+
+  <Plantsugarcane.label>甘蔗</Plantsugarcane.label>
+  <Plantsugarcane.description>甘蔗用于提炼蔗糖。</Plantsugarcane.description>
+
+
+</LanguageData>

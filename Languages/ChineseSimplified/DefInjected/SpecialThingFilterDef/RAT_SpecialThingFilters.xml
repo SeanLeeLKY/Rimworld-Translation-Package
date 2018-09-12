@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <NuclearFuelCracked.label>允许已泄露原料棒</NuclearFuelCracked.label>
+  <NuclearFuelCracked.description>允许已泄露原料棒存储在此。</NuclearFuelCracked.description>
+
+  <NuclearFuelNotCracked.label>允许未泄露原料棒</NuclearFuelNotCracked.label>
+  <NuclearFuelNotCracked.description>允许未泄露原料棒存储在此。</NuclearFuelNotCracked.description>
+
+  <NuclearFuelProcessable.label>允许可加工原料</NuclearFuelProcessable.label>
+  <NuclearFuelProcessable.description>允许可加工原料存储在此。</NuclearFuelProcessable.description>
+
+  <NuclearFuelNotProcessable.label>允许不可加工原料</NuclearFuelNotProcessable.label>
+  <NuclearFuelNotProcessable.description>允许不可加工原料存储在此。</NuclearFuelNotProcessable.description>
+
+
+</LanguageData>

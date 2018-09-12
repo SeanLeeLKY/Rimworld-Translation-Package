@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Resource rocks -->
+
+  <VG_Minesalt.label>开采盐</VG_Minesalt.label>
+  <VG_Minesalt.description>从粗石中提取盐。需要花费大量的工作。</VG_Minesalt.description>
+  <VG_Minesalt.jobString>正在开采盐。</VG_Minesalt.jobString>
+
+
+</LanguageData>

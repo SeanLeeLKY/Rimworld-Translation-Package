@@ -1,18 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
 
-  <ResearchReactorConductors.ResearchLabel>反应堆导管</ResearchReactorConductors.ResearchLabel>
-  <ResearchReactorConductors.ResearchDesc>通过提高燃料和水之间的导热性，增加反应堆堆芯的功率输出，将输出功率提高15％。</ResearchReactorConductors.ResearchDesc>
-  <ResearchReactorConductors.ResearchDescDisc>您现在可以在边缘核能加工台制作反应堆导管，并将其安装到反应堆堆芯中，选择反应堆并指定安装反应堆导管，在安装之前请关闭反应堆。</ResearchReactorConductors.ResearchDescDisc>
-
-  <ResearchNeutronReflectors.ResearchLabel>中子反射层</ResearchNeutronReflectors.ResearchLabel>
-  <ResearchNeutronReflectors.ResearchDesc>反应堆中每个燃料棒的发电量与其周围相邻的燃料棒个数呈线性正相关，通过中子反射层将中子反射回堆芯，可提高位于堆芯边缘燃料棒的发电量。</ResearchNeutronReflectors.ResearchDesc>
-  <ResearchNeutronReflectors.ResearchDescDisc>您现在可以在边缘核能加工台制作中子反射层，并将其安装到反应堆堆芯中，选择反应堆并指定安装中子反射层，在安装之前请关闭反应堆。</ResearchNeutronReflectors.ResearchDescDisc>
-
-  <ResearchReactorShielding.ResearchLabel>反应堆屏障</ResearchReactorShielding.ResearchLabel>
-  <ResearchReactorShielding.ResearchDesc>增强反应堆堆芯周围的辐射防护等级，减少可能从反应堆泄漏的辐射量，保护殖民者安全。</ResearchReactorShielding.ResearchDesc>
-  <ResearchReactorShielding.ResearchDescDisc>您现在可以在边缘核能加工台制作反应堆屏障，并将其安装到反应堆堆芯中，选择反应堆并指定安装反应堆屏障，在安装之前请关闭反应堆。</ResearchReactorShielding.ResearchDescDisc>
-
   <ResearchControlRodActuators.ResearchLabel>控制棒传动器</ResearchControlRodActuators.ResearchLabel>
   <ResearchControlRodActuators.ResearchDesc>提高控制杆运作的速度，提高对中子通量变化的反应速度，还提高了反应堆关闭速度。</ResearchControlRodActuators.ResearchDesc>
   <ResearchControlRodActuators.ResearchDescDisc>您现在可以在边缘核能加工台制作控制棒传动器，并将其安装到反应堆堆芯中，选择反应堆并指定安装控制棒传动器，在安装之前请关闭反应堆。</ResearchControlRodActuators.ResearchDescDisc>

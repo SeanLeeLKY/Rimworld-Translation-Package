@@ -24,6 +24,7 @@
   <RADIATIONLEAKSYSTEM>    ::系统辐射::</RADIATIONLEAKSYSTEM>
 
   <!--CONSOLE-->
+  <Dragtoincreasefluxlevel>拖动增加通量水平</Dragtoincreasefluxlevel>
   <MOX>混合</MOX>
   <Used>已使用过</Used>
   <AbortTest>中止</AbortTest>
@@ -57,39 +58,31 @@
   <NoChemfuel>没有化合燃料</NoChemfuel>
 
   <!--ENERGY WEAPONS-->
-  <energyWepLoadedShell>已装载: {0}</energyWepLoadedShell>
-  <RailgunBarrage>开火指令</RailgunBarrage>
-  <RailgunBarrageDesc>所有磁轨炮向同一区域开火</RailgunBarrageDesc>
+  <Detonating>引爆中...</Detonating>
+  <KillCounter>已杀死：{0}</KillCounter>
+  <energyWepLoadedShell>已装载：{0}</energyWepLoadedShell>
+  <MessageRailgunCantTargetMyMap>不能瞄准你自己的殖民地</MessageRailgunCantTargetMyMap>
   <needsRadar>需要搭配警戒雷达</needsRadar>
+  <ICBMNeedConsole>需要有人操作操作武器控制台</ICBMNeedConsole>
   <ICBMNeedMissile>需要装载洲际弹道导弹才能发射</ICBMNeedMissile>
   <ICBMAlreadyLaunching>已发射</ICBMAlreadyLaunching>
   <MissileRangeBad>目标不在射程范围内</MissileRangeBad>
   <MissileTargetInvalid>导弹目标无效</MissileTargetInvalid>
-  <ICBMNeedConsole>需要有人操作能量武器控制台</ICBMNeedConsole>
-  <critrangeMinus>射程-</critrangeMinus>
-  <critrangePlus>射程+</critrangePlus>
-  <critCommandLowerRangeDesc>脉冲能量强度随射程的减小而减小</critCommandLowerRangeDesc>
-  <critCommandRaiseRangeDesc>脉冲能量强度随射程的增大而增大</critCommandRaiseRangeDesc>
-  <critdmgMinus>耗能-</critdmgMinus>
-  <critdmgPlus>耗能+</critdmgPlus>
-  <critCommandLowerDmgDesc>脉冲能量强度随单发耗能的减小而减小</critCommandLowerDmgDesc>
-  <critCommandRaiseDmgDesc>脉冲能量强度随单发耗能的增大而增大</critCommandRaiseDmgDesc>
-  <critMissingPPC>需要搭配脉冲电池</critMissingPPC>
-  <critNRGWEPPOOWA>耗能: {0} / 射程: {1}-{2}</critNRGWEPPOOWA>
-  <LastPulseSize>上一次脉冲强度: {0} Wd</LastPulseSize>
+  <EnergyWeaponNeedsMannedConsole>需要有人操作能量武器控制台</EnergyWeaponNeedsMannedConsole>
+  <EnergyWeaponNeedConsole>需要连接到能量武器控制台</EnergyWeaponNeedConsole>
+  <MissingPPC>需要搭配脉冲电池</MissingPPC>
+  <PulseSize>脉冲能量强度: {0} Wd /伤害: {1}</PulseSize>
   <critCommandFireMission>开火指令</critCommandFireMission>
   <critCommandFireMissionDesc>远程动能打击</critCommandFireMissionDesc>
   <critCommandLaunchICBM>发射洲际弹道导弹</critCommandLaunchICBM>
   <critCommandLaunchICBMDesc>瞄准目标发射洲际弹道导弹</critCommandLaunchICBMDesc>
-  <criticbmAttack>敌对派系{0}正在准备从附近的基地对你发动洲际弹道导弹打击，在发射前您还有{1}天的准备时间。</criticbmAttack>
+  <criticbmAttack>敌对派系{0}正在准备从附近的基地对你发动洲际弹道导弹打击，在发射前您还有{1}天的准备时间</criticbmAttack>
   <critMagazine>弹药: {0}</critMagazine>
   <critNoSabotRounds>没有磁轨炮弹</critNoSabotRounds>
   <critBombDet>核弹已引爆</critBombDet>
   <critBombDetFac>核弹爆炸，{0}已被摧毁</critBombDetFac>
   <SetCamoMode>保护色涂层</SetCamoMode>
   <critCountdown>倒计时: {0}</critCountdown>
-  <mp15>15m</mp15>
-  <mm15>15m</mm15>
   <critArm>引爆</critArm>
   <MessageRailgunNeedsMap>没有地图数据，需要派出殖民者侦察</MessageRailgunNeedsMap>
   <MessageRailgunTargetInvalid>目标无效</MessageRailgunTargetInvalid>
@@ -97,8 +90,14 @@
   <SiloFull>发射井已满</SiloFull>
   <SiloMagazine>导弹: {0}/{1}</SiloMagazine>
   <ICBMReady>洲际弹道导弹已准备就绪。</ICBMReady>
-  <!--REACTOR BUILDINGS-->
+  <TestFireHELSOnOwnShells>击落我方的炮弹以收集数据</TestFireHELSOnOwnShells>
+  <OpenRadar>打开目标追踪界面</OpenRadar>
+  <NoSabotToExtract>没有可供提取的磁轨炮弹</NoSabotToExtract>
 
+  <!--REACTOR BUILDINGS-->
+  <ReactorUptime>Uptime: {0}</ReactorUptime>
+  <PuCreated>Pu: {0}</PuCreated>
+  <fuelCracked>损坏!</fuelCracked>
   <Managefuel>管控</Managefuel>
   <RoofedTower>炮台被屋顶挡住了</RoofedTower>
   <TurbineRPM>转速: {0} ({1}%)</TurbineRPM>
@@ -111,11 +110,11 @@
   <critCoreEnergy>能量: {0}kW</critCoreEnergy>
   <critCoreCooling>冷却: {0}</critCoreCooling>
   <critCoreFlux>中子通量: {0}</critCoreFlux>
-  <critscramDesc>将温度和中子通量的降低到基本值，但保持堆芯运行。</critscramDesc>
+  <critscramDesc>将温度和中子通量的降低到基本值，但保持堆芯运行</critscramDesc>
   <critStartup>启动</critStartup>
   <critShutdown>关闭</critShutdown>
   <critStartupDesc>启动堆芯，允许温度和中子通量上升。</critStartupDesc>
-  <critShutdownDesc>关闭堆芯，维持供电，使其冷却下来，以便加油和维修。</critShutdownDesc>
+  <critShutdownDesc>关闭堆芯，维持供电，使其冷却下来，以便加油和维修</critShutdownDesc>
   <critManageReactor>操控反应堆</critManageReactor>
   <critreactorcritical>反应堆危险</critreactorcritical>
   <critreactorleaking>反应堆泄漏</critreactorleaking>
@@ -131,12 +130,12 @@
   <critCloseValve>关闭阀门</critCloseValve>
   <critToggleValve>开关阀门</critToggleValve>
   <critTempBoost>温度上升</critTempBoost>
+  <critXE>Xe-135</critXE>
   <critTemp>温度</critTemp>
   <critCooling>冷却</critCooling>
   <critTurbine>涡轮机</critTurbine>
-  <critCoreIntegrity>堆芯完整性</critCoreIntegrity>
-  <critNeutronFlux>中子通量</critNeutronFlux>
-  <critTargetFlux>目标通量</critTargetFlux>
+  <critControlRod>控制棒</critControlRod>
+  <critTargetRod>Control Rods To</critTargetRod>
   <critFuelRemaining2>剩余燃料: {0}</critFuelRemaining2>
   <Empty>清空</Empty>
   <Activated>激活</Activated>
@@ -173,11 +172,9 @@
   <TrannyLimit>输出功率上限: {0}kW</TrannyLimit>
   <TurbinePower>涡轮机功率: {0}kW</TurbinePower>
 
-  <!--WEAPONS CONSOLE-->
-  <TestFireHELSOnOwnShells>击落我方的炮弹以收集数据。</TestFireHELSOnOwnShells>
-  <OpenRadar>打开目标追踪界面</OpenRadar>
 
   <!--RESEARCH-->
+
   <Free>免费</Free>
   <Purchase>购买</Purchase>
   <Price>价格</Price>
@@ -200,6 +197,12 @@
   <SkillLevel>{0} 需要等级 {1} {2}</SkillLevel>
   <StartProject>启动项目</StartProject>
   <StopProject>终止项目</StopProject>
+
+  <DesignatorRemoveRimatomicsPipes>拆除导管</DesignatorRemoveRimatomicsPipes>
+  <DesignatorRemoveRimatomicsPipesDesc>拆除指定导管</DesignatorRemoveRimatomicsPipesDesc>
+
+  <Alert_ResearchFacility>缺少研究设施</Alert_ResearchFacility>
+  <RequiresFacility>当前步骤需要{0}</RequiresFacility>
 
   <DesignatorRemoveColdWater>拆除冷水导管</DesignatorRemoveColdWater>
   <DesignatorRemoveColdWaterDesc>拆除冷水导管。</DesignatorRemoveColdWaterDesc>
@@ -224,11 +227,5 @@
   <TradeShipCooldown>贸易飞船冷却时间: {0}</TradeShipCooldown>
   <TradeShipArrival>贸易飞船到达: {0}</TradeShipArrival>
   <rimatomicsProto>原型</rimatomicsProto>
-
-  <!--<critNRGWEPPULSE>脉冲能量强度: {0} / 造成伤害: {1} / 射击距离: {2}</critNRGWEPPULSE>-->
-  <!--<critinUse>已经在使用</critinUse>-->
-  <!--<critremoveRadSuit>脱掉防辐射服</critremoveRadSuit>-->
-  <!--<critManageStoragePool>管控存储池</critManageStoragePool>-->
-  <!--<critNoreserveSuit>没有放入保险箱的防辐射服</critNoreserveSuit>-->
 
 </LanguageData>

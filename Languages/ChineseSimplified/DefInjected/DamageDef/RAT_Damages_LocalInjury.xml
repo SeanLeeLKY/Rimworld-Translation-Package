@@ -4,5 +4,11 @@
   <CoreBlast.label>核爆</CoreBlast.label>
   <CoreBlast.deathMessage>{0}死于核爆。</CoreBlast.deathMessage>
 
+  <ArcDischarge.label>Arc Discharge</ArcDischarge.label>
+  <ArcDischarge.deathMessage>{0}已烧成a crisp.</ArcDischarge.deathMessage>
+
+  <LaserDischarge.label>Laser Discharge</LaserDischarge.label>
+  <LaserDischarge.deathMessage>{0}已烧成a crisp.</LaserDischarge.deathMessage>
+
 
 </LanguageData>

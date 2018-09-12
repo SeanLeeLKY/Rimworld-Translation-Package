@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <MissileBase.label>导弹基地</MissileBase.label>
+  <MissileBase.description>导弹基地。</MissileBase.description>
+
+  <MissileBasePart.label>导弹基地</MissileBasePart.label>
+  <MissileBasePart.description>一个有守卫的导弹基地。</MissileBasePart.description>
+  <MissileBasePart.descriptionDialogue>一个有{ 0 }敌人守卫的导弹基地。</MissileBasePart.descriptionDialogue>
+
+
+</LanguageData>

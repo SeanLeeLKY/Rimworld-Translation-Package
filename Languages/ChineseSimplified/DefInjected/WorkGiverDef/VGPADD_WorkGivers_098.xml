@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsOven.label>烘焙</DoBillsOven.label>
+  <DoBillsOven.verb>烘焙</DoBillsOven.verb>
+  <DoBillsOven.gerund>烘焙</DoBillsOven.gerund>
+
+  <DoBillsCanningstove.label>处理食物</DoBillsCanningstove.label>
+  <DoBillsCanningstove.verb>处理</DoBillsCanningstove.verb>
+  <DoBillsCanningstove.gerund>处理</DoBillsCanningstove.gerund>
+
+  <DoBillsBake.label>制作糖果</DoBillsBake.label>
+  <DoBillsBake.verb>制作糖果</DoBillsBake.verb>
+  <DoBillsBake.gerund>制作糖果</DoBillsBake.gerund>
+
+  <DoBillsGrindStone.label>研磨谷物</DoBillsGrindStone.label>
+  <DoBillsGrindStone.verb>研磨</DoBillsGrindStone.verb>
+  <DoBillsGrindStone.gerund>研磨</DoBillsGrindStone.gerund>
+
+  <DoBillsUseSaltMine.label>开采矿盐</DoBillsUseSaltMine.label>
+  <DoBillsUseSaltMine.verb>采矿</DoBillsUseSaltMine.verb>
+  <DoBillsUseSaltMine.gerund>采矿</DoBillsUseSaltMine.gerund>
+
+
+</LanguageData>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <DoBillsUseDiggingSpot.label>挖掘土壤</DoBillsUseDiggingSpot.label>
+  <DoBillsUseDiggingSpot.verb>挖掘</DoBillsUseDiggingSpot.verb>
+  <DoBillsUseDiggingSpot.gerund>正在挖掘</DoBillsUseDiggingSpot.gerund>
+
+  <GT_WorkGiver_TakeProductOutOfUniversalFermenter.label>取出堆肥池中的肥料</GT_WorkGiver_TakeProductOutOfUniversalFermenter.label>
+  <GT_WorkGiver_TakeProductOutOfUniversalFermenter.verb>取出肥料</GT_WorkGiver_TakeProductOutOfUniversalFermenter.verb>
+  <GT_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>取出肥料</GT_WorkGiver_TakeProductOutOfUniversalFermenter.gerund>
+
+  <GT_WorkGiver_FillUniversalFermenter.label>放入堆肥活化剂</GT_WorkGiver_FillUniversalFermenter.label>
+  <GT_WorkGiver_FillUniversalFermenter.verb>放入</GT_WorkGiver_FillUniversalFermenter.verb>
+  <GT_WorkGiver_FillUniversalFermenter.gerund>正在放入</GT_WorkGiver_FillUniversalFermenter.gerund>
+
+
+</LanguageData>

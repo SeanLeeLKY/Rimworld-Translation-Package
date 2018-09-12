@@ -25,10 +25,6 @@
   <Make_FissionWarhead.description>制作核弹头。</Make_FissionWarhead.description>
   <Make_FissionWarhead.jobString>正在制作核弹头。</Make_FissionWarhead.jobString>
 
-  <Make_ReactorComponents.label>制作反应堆组件</Make_ReactorComponents.label>
-  <Make_ReactorComponents.description>制作反应堆组件。</Make_ReactorComponents.description>
-  <Make_ReactorComponents.jobString>正在制作反应堆组件。</Make_ReactorComponents.jobString>
-
   <Make_turbineBlade.label>制作涡轮叶片</Make_turbineBlade.label>
   <Make_turbineBlade.description>制作涡轮叶片。</Make_turbineBlade.description>
   <Make_turbineBlade.jobString>正在制作涡轮叶片。</Make_turbineBlade.jobString>
@@ -77,21 +73,13 @@
   <Make_RailgunSabotDU.description>制作磁轨炮弹(贫铀)。</Make_RailgunSabotDU.description>
   <Make_RailgunSabotDU.jobString>正在制作磁轨炮弹(贫铀)。</Make_RailgunSabotDU.jobString>
 
-  <Make_ReactorConductors.label>制作反应堆导管</Make_ReactorConductors.label>
-  <Make_ReactorConductors.description>制作反应堆导管。</Make_ReactorConductors.description>
-  <Make_ReactorConductors.jobString>正在制作反应堆导管。</Make_ReactorConductors.jobString>
-
-  <Make_ReactorShielding.label>制作反应堆屏障</Make_ReactorShielding.label>
-  <Make_ReactorShielding.description>制作反应堆屏障。</Make_ReactorShielding.description>
-  <Make_ReactorShielding.jobString>正在制作反应堆屏障。</Make_ReactorShielding.jobString>
-
   <Make_ControlRodActuator.label>制作控制棒传动器</Make_ControlRodActuator.label>
   <Make_ControlRodActuator.description>制作控制棒传动器。</Make_ControlRodActuator.description>
   <Make_ControlRodActuator.jobString>正在制作控制棒传动器。</Make_ControlRodActuator.jobString>
 
-  <Make_NeutronReflectors.label>制作中子反射层</Make_NeutronReflectors.label>
-  <Make_NeutronReflectors.description>制作中子反射层。</Make_NeutronReflectors.description>
-  <Make_NeutronReflectors.jobString>正在制作中子反射层。</Make_NeutronReflectors.jobString>
+  <Make_SCAD.label>制作SCAD</Make_SCAD.label>
+  <Make_SCAD.description>制作SCAD。</Make_SCAD.description>
+  <Make_SCAD.jobString>正在制作SCAD。</Make_SCAD.jobString>
 
   <Make_MEPS.label>制作模块化电力系统</Make_MEPS.label>
   <Make_MEPS.description>制作模块化电力系统。</Make_MEPS.description>

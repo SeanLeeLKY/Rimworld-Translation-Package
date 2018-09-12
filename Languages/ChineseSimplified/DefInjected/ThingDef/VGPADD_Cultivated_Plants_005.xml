@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <!-- Tier 1 Plants -->
+
+  <Plant_Barley.label>大麦</Plant_Barley.label>
+  <Plant_Barley.description>一种能够免疫枯萎病的强壮谷物，可用于烹调食物和酿酒。</Plant_Barley.description>
+
+
+  <!-- Tier 2 Plants -->
+
+  <Plant_Snowbeet.label>雪甜菜</Plant_Snowbeet.label>
+  <Plant_Snowbeet.description>简单的营养丰富的植物。即使在一些贫瘠的土壤中也能种植。收获迅速。一种强大的多用途的作物。在寒冷的气候下也不会枯萎。</Plant_Snowbeet.description>
+
+  <Plant_redlentil.label>红扁豆</Plant_redlentil.label>
+  <Plant_redlentil.description>红色的扁豆品种。已知的最古老的人工种植作物之一。</Plant_redlentil.description>
+
+  <Plant_bean.label>黄豆t</Plant_bean.label>
+  <Plant_bean.description>黄豆是烹饪中的常见材料。</Plant_bean.description>
+
+  <Plant_Olivetree.label>橄榄树</Plant_Olivetree.label>
+  <Plant_Olivetree.description>橄榄树，采摘后能保留树木。</Plant_Olivetree.description>
+
+
+  <!-- Other Plants -->
+
+  <Plant_Tea.label>茶树</Plant_Tea.label>
+  <Plant_Tea.description>一种灌木。叶子可以冲泡成美味的饮料。</Plant_Tea.description>
+
+  <Plant_Coffee.label>咖啡树</Plant_Coffee.label>
+  <Plant_Coffee.description>这种矮小的树木结出的红色果实酷似樱桃，种子经过发酵晾晒等工艺，或煮、或研磨成粉冲泡，最后成为美味的饮料。</Plant_Coffee.description>
+
+  <!--[Core] <Plant_TreeBamboo.label>竹</Plant_TreeBamboo.label>-->
+  <!--[Core] <Plant_TreeBamboo.description>一种成群生长而又生长迅速的物种，类似于普通的树。可从竹子中收获类似木材的材料。这种植物本身并不好看。</Plant_TreeBamboo.description>-->
+
+
+</LanguageData>
